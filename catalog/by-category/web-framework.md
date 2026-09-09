@@ -8,23 +8,23 @@ Records: `492`
 
 ## Category Index
 
-[Api Abi Checker (228)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1001)](build-system.md) · [Cli (574)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (118)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (132)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (240)](datetime.md)
+[Api Abi Checker (229)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (202)](benchmarking.md) · [Build System (1003)](build-system.md) · [Cli (575)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (120)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (52)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (134)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (179)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (973)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (105)](dependency-manager.md) · [Documentation (109)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (465)](ffi-bindings.md) · [Filesystem Os (1620)](filesystem-os.md) · [Formatter (652)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1478)](ide-editor-integration.md)
-[Image Audio Dsp (439)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5845)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (532)](logging-observability.md) · [Machine Learning (813)](machine-learning.md)
-[Math Numeric Scientific (89)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1058)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (443)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
+[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (466)](ffi-bindings.md) · [Filesystem Os (1623)](filesystem-os.md) · [Formatter (654)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (359)](game-engine-game-dev.md) · [Ide Editor Integration (1479)](ide-editor-integration.md)
+[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1452)](language-specification.md) · [Library (5864)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (533)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1061)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1210)](parser-lexer-ast.md) · [Precommit Ci Quality (311)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (138)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (401)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (635)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (622)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1630)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (563)](visualization-gui.md) · **[Web Framework (492)](web-framework.md)**
+[Security Sast (337)](security-sast.md) · [Serialization (402)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (637)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (623)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1633)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (564)](visualization-gui.md) · **[Web Framework (492)](web-framework.md)**
 
 ## C++23
 
@@ -164,7 +164,7 @@ Records: `492`
 | @apple/app-store-server-library | 3.1.0 | 2026-05-06T01:14:11.509Z | [open](../records/node-js-javascript-apple-app-store-server-library-95022302.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
-| @capgo/cli | 8.48.2 | 2026-09-08T12:14:13.290Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
+| @capgo/cli | 8.50.0 | 2026-09-09T12:19:46.001Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.25.1 | 2026-09-08T23:04:35.503Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.0 | 2026-09-01T20:20:27.760Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
@@ -219,7 +219,7 @@ Records: `492`
 | @react-router/express | 8.3.1 | 2026-08-28T14:44:43.286Z | [open](../records/node-js-javascript-react-router-express-7f5f4395.md) |
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
 | @rebasepro/server | 0.19.1 | 2026-09-07T20:28:56.608Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
-| @remotion/studio-server | 4.0.522 | 2026-09-07T09:36:16.641Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
+| @remotion/studio-server | 4.0.523 | 2026-09-09T12:05:46.240Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | @restatedev/restate-server | 1.7.9 | 2026-09-04T21:08:28.114Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
 | @sap-ux/fiori-mcp-server | 1.12.3 | 2026-09-08T05:09:06.076Z | [open](../records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
@@ -243,7 +243,7 @@ Records: `492`
 | @transcend-io/mcp-server-workflows | 1.0.0 | 2026-09-08T20:40:50.701Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
-| @ui5/mcp-server | 0.2.18 | 2026-08-13T09:15:38.219Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
+| @ui5/mcp-server | 0.2.19 | 2026-09-09T12:07:47.860Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
 | @umijs/server | 4.7.16 | 2026-09-09T07:02:30.161Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
@@ -276,7 +276,7 @@ Records: `492`
 | five-server | 0.5.0 | 2026-05-12T10:40:19.391Z | [open](../records/node-js-javascript-five-server-f752688a.md) |
 | grunt-contrib-connect | 5.0.1 | 2024-10-10T12:15:17.948Z | [open](../records/node-js-javascript-grunt-contrib-connect-096e0682.md) |
 | hexo-server | 3.0.0 | 2022-01-03T05:07:25.018Z | [open](../records/node-js-javascript-hexo-server-999441df.md) |
-| hostinger-api-mcp | 1.57.2 | 2026-09-07T10:42:01.615Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
+| hostinger-api-mcp | 1.57.3 | 2026-09-09T11:04:15.997Z | [open](../records/node-js-javascript-hostinger-api-mcp-72a83612.md) |
 | is-ci | 4.1.0 | 2024-12-08T08:23:15.565Z | [open](../records/node-js-javascript-is-ci-0a428e2e.md) |
 | Koa | unknown | not_checked | [open](../records/node-js-javascript-koa-46377f86.md) |
 | livereload | 0.10.3 | 2025-08-14T00:59:25.811Z | [open](../records/node-js-javascript-livereload-1a5bba84.md) |
@@ -566,7 +566,7 @@ Records: `492`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-07T13:10:12Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-09T10:56:44Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
