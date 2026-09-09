@@ -13,7 +13,7 @@
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (467)](by-category/ffi-bindings.md) · [Filesystem Os (1624)](by-category/filesystem-os.md) · [Formatter (654)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (360)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5878)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5879)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (535)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
 [Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1065)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1214)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
@@ -8158,6 +8158,7 @@
 | `github_search_databases-b1e4116438f88d` | guang19/framework-learning | [open](records/databases-guang19-framework-learning-16651c7a.md) |
 | `github_search_databases-b265016bbb807c` | 0voice/interview_internal_reference | [open](records/databases-0voice-interview-internal-reference-f3eddea9.md) |
 | `github_search_databases-b30986d1c3a373` | DeusData/codebase-memory-mcp | [open](records/databases-deusdata-codebase-memory-mcp-15aca608.md) |
+| `github_search_databases-b3e8f515aa9d79` | NoKV-Lab/NoKV | [open](records/databases-nokv-lab-nokv-679cc97b.md) |
 | `github_search_databases-b41d89b5af0786` | forthespada/CS-Books | [open](records/databases-forthespada-cs-books-d0b6b9dd.md) |
 | `github_search_databases-b43187c27408c8` | influxdb-rs/influxdb-rust | [open](records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
 | `github_search_databases-b453bedbb7117a` | uber-go/dosa | [open](records/databases-uber-go-dosa-06a859e4.md) |

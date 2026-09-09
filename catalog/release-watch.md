@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-09T16:25:25+00:00`
+Generated: `2026-09-09T17:20:54+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (467)](by-category/ffi-bindings.md) · [Filesystem Os (1624)](by-category/filesystem-os.md) · [Formatter (654)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (360)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5878)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5879)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (535)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
 [Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1065)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1214)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
@@ -29,7 +29,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10577 |
-| Unknown stable release | 17578 |
+| Unknown stable release | 17579 |
 
 ## Newest Known Stable Metadata
 
@@ -51,6 +51,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 | chromatic | Node.js/JavaScript | Testing Framework | 18.7.3 | 2026-09-09T15:26:20.367Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
 | async-compression | Rust | Async Runtime | 0.4.46 | 2026-09-09T15:19:46.095770Z | [open](records/rust-async-compression-1943c86c.md) |
 | compression-codecs | Rust | Compression | 0.4.41 | 2026-09-09T15:19:40.933466Z | [open](records/rust-compression-codecs-b842972a.md) |
+| quick_actions | Dart | Filesystem Os | 1.1.1 | 2026-09-09T14:48:46.344849Z | [open](records/dart-quick-actions-42f45037.md) |
 | @capgo/cli | Node.js/JavaScript | Web Framework | 8.50.3 | 2026-09-09T14:20:55.097Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | s2n-tls | Haskell | Cryptography | 0.1.1.0 | 2026-09-09T14:10:13Z | [open](records/haskell-s2n-tls-bb330827.md) |
 | @upstash/context7-mcp | Node.js/JavaScript | Web Framework | 4.0.7 | 2026-09-09T14:03:21.539Z | [open](records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
@@ -284,13 +285,12 @@ Generated: `2026-09-09T16:25:25+00:00`
 | graphile-test | Node.js/JavaScript | Testing Framework | 5.14.6 | 2026-09-08T19:01:06.355Z | [open](records/node-js-javascript-graphile-test-4fc9d5fb.md) |
 | @pgpmjs/server-utils | Node.js/JavaScript | Web Framework | 3.27.5 | 2026-09-08T19:00:53.395Z | [open](records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1128.0 | 2026-09-08T18:48:06.504Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
-| warp-s2n-tls | Haskell | Cryptography | 0.1.1.0 | 2026-09-08T18:39:54Z | [open](records/haskell-warp-s2n-tls-077e8c67.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9932 |
+| gh_search_reports_activity_not_release_version | 9933 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

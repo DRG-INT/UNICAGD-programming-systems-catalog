@@ -17,7 +17,7 @@ Records: `105`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5878)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
@@ -293,7 +293,7 @@ Records: `105`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | giancarloerra/SocratiCode | partial | 2026-09-09T09:07:55Z | [open](../records/databases-giancarloerra-socraticode-bcc8ee56.md) |
-| Lulzx/zs3 | partial | 2026-08-24T18:24:16Z | [open](../records/databases-lulzx-zs3-f630b3a4.md) |
+| Lulzx/zs3 | partial | 2026-09-08T22:24:30Z | [open](../records/databases-lulzx-zs3-f630b3a4.md) |
 | philippgille/chromem-go | partial | 2026-09-06T16:36:35Z | [open](../records/databases-philippgille-chromem-go-fd3fa6e9.md) |
 | SleekDB/SleekDB | partial | 2026-05-26T21:18:56Z | [open](../records/databases-sleekdb-sleekdb-44bd7f0e.md) |
 

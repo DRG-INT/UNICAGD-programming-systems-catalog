@@ -17,7 +17,7 @@ Records: `337`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5878)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
@@ -487,7 +487,7 @@ Records: `337`
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 | cookieY/Yearning | partial | 2026-08-24T11:46:31Z | [open](../records/databases-cookiey-yearning-30a7b49e.md) |
 | IoT-Technology/IoT-Technical-Guide | partial | 2023-09-05T12:28:00Z | [open](../records/databases-iot-technology-iot-technical-guide-4f9cb27e.md) |
-| lakekeeper/lakekeeper | partial | 2026-09-07T20:54:46Z | [open](../records/databases-lakekeeper-lakekeeper-0020b553.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-09T16:34:14Z | [open](../records/databases-lakekeeper-lakekeeper-0020b553.md) |
 | shashirajraja/onlinebookstore | partial | 2024-08-14T01:13:48Z | [open](../records/databases-shashirajraja-onlinebookstore-f5ef7b71.md) |
 | soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL | partial | 2021-08-27T07:27:07Z | [open](../records/databases-soumyadip007-e-medical-system-web-project-using-spring-boot-security-jpa-rest-thymeleaf-hql-d7409ecf.md) |
 | xerj-org/xerj | partial | 2026-09-09T11:18:08Z | [open](../records/databases-xerj-org-xerj-9c547839.md) |

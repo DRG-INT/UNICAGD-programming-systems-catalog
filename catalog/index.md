@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-09T16:25:25+00:00`
+Generated: `2026-09-09T17:20:54+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 [Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (467)](by-category/ffi-bindings.md) · [Filesystem Os (1624)](by-category/filesystem-os.md) · [Formatter (654)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (59)](by-category/fuzzer.md) · [Game Engine Game Dev (360)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5878)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1454)](by-category/language-specification.md) · [Library (5879)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (535)](by-category/logging-observability.md) · [Machine Learning (816)](by-category/machine-learning.md)
 [Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1065)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (444)](by-category/package-manager.md) · [Parser Lexer Ast (1214)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](by-category/precommit-ci-quality.md)
@@ -85,7 +85,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 | SAPJava | 311 | 166 | [SAPJava](by-language/sapjava.md) |
 | Swift | 371 | 0 | [Swift](by-language/swift.md) |
 | Cocoa | 349 | 69 | [Cocoa](by-language/cocoa.md) |
-| Databases | 893 | 0 | [Databases](by-language/databases.md) |
+| Databases | 894 | 0 | [Databases](by-language/databases.md) |
 | Repository Workplaces | 528 | 0 | [Repository Workplaces](by-language/repository-workplaces.md) |
 
 ## Category Details
@@ -130,7 +130,7 @@ Generated: `2026-09-09T16:25:25+00:00`
 | Jit Vm | 64 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
 | Language Specification | 1454 | [language_specification](by-category/language-specification.md) |
-| Library | 5878 | [library](by-category/library.md) |
+| Library | 5879 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 49 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 348 | [linter](by-category/linter.md) |
@@ -222,5 +222,5 @@ Generated: `2026-09-09T16:25:25+00:00`
 | SAPJava | 166 | 145 |
 | Swift | 0 | 371 |
 | Cocoa | 69 | 280 |
-| Databases | 0 | 893 |
+| Databases | 0 | 894 |
 | Repository Workplaces | 0 | 528 |

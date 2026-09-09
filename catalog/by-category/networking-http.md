@@ -17,7 +17,7 @@ Records: `1065`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · [Formatter (654)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5878)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1065)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
@@ -1281,7 +1281,7 @@ Records: `1065`
 | --- | --- | --- | --- |
 | aerospike/aerospike-client-nodejs | partial | 2026-09-04T20:19:31Z | [open](../records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
 | aerospike/aerospike-client-rust | partial | 2026-09-07T08:39:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
-| awslabs/mountpoint-s3 | partial | 2026-09-08T08:28:18Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
+| awslabs/mountpoint-s3 | partial | 2026-09-08T16:56:13Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
 | beekeeper-studio/beekeeper-studio | partial | 2026-09-09T16:22:15Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-02T00:26:05Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
@@ -1299,7 +1299,7 @@ Records: `1065`
 | HTTP-RPC/Kilo | partial | 2026-09-06T21:05:32Z | [open](../records/databases-http-rpc-kilo-1640999c.md) |
 | influxdb-rs/influxdb-rust | partial | 2026-03-02T05:09:46Z | [open](../records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
 | logv/sybil | partial | 2024-08-24T18:45:31Z | [open](../records/databases-logv-sybil-16702d87.md) |
-| machbase/neo-server | partial | 2026-09-08T08:59:44Z | [open](../records/databases-machbase-neo-server-81e24baf.md) |
+| machbase/neo-server | partial | 2026-09-09T08:49:32Z | [open](../records/databases-machbase-neo-server-81e24baf.md) |
 | marcosbarbero/spring-boot2-oauth2-jwt | partial | 2021-04-26T18:50:20Z | [open](../records/databases-marcosbarbero-spring-boot2-oauth2-jwt-545e1f79.md) |
 | metriql/metriql | partial | 2023-03-29T22:11:05Z | [open](../records/databases-metriql-metriql-66121bff.md) |
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |

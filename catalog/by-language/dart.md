@@ -17,7 +17,7 @@ Records: `765`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (467)](../by-category/ffi-bindings.md) · [Filesystem Os (1624)](../by-category/filesystem-os.md) · [Formatter (654)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (360)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1481)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (276)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5878)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1454)](../by-category/language-specification.md) · [Library (5879)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (535)](../by-category/logging-observability.md) · [Machine Learning (816)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1065)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (444)](../by-category/package-manager.md) · [Parser Lexer Ast (1214)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
@@ -341,7 +341,7 @@ Records: `765`
 | [pluto_grid](../records/dart-pluto-grid-da5d9973.md) | 8.1.0 | 2025-12-12T06:29:40.165191Z | registry-derived |
 | [printing](../records/dart-printing-434f5074.md) | 5.15.0 | 2026-06-16T19:52:56.957463Z | registry-derived |
 | [purchases_ui_flutter](../records/dart-purchases-ui-flutter-327852a3.md) | 10.11.0 | 2026-09-03T05:17:03.512412Z | registry-derived |
-| [quick_actions](../records/dart-quick-actions-42f45037.md) | 1.1.0 | 2024-12-11T19:16:51.194445Z | registry-derived |
+| [quick_actions](../records/dart-quick-actions-42f45037.md) | 1.1.1 | 2026-09-09T14:48:46.344849Z | registry-derived |
 | [receive_sharing_intent](../records/dart-receive-sharing-intent-9c1ad31c.md) | 1.9.0 | 2026-06-24T22:10:16.281163Z | registry-derived |
 | [searchable_listview](../records/dart-searchable-listview-3fa3ca85.md) | 2.19.5 | 2026-05-30T11:19:25.055881Z | registry-derived |
 | [sensors_plus](../records/dart-sensors-plus-5fe40260.md) | 7.1.0 | 2026-06-26T12:35:16.768644Z | registry-derived |

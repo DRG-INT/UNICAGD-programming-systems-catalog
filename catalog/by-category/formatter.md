@@ -17,7 +17,7 @@ Records: `654`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (467)](ffi-bindings.md) · [Filesystem Os (1624)](filesystem-os.md) · **[Formatter (654)](formatter.md)**
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (360)](game-engine-game-dev.md) · [Ide Editor Integration (1481)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (276)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5878)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1454)](language-specification.md) · [Library (5879)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (535)](logging-observability.md) · [Machine Learning (816)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1065)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (444)](package-manager.md) · [Parser Lexer Ast (1214)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
@@ -541,7 +541,7 @@ Records: `654`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-09T16:18:26Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-09T17:19:01Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -896,7 +896,7 @@ Records: `654`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/amoro | partial | 2026-09-07T06:26:51Z | [open](../records/databases-apache-amoro-d2a3a509.md) |
+| apache/amoro | partial | 2026-09-08T09:14:23Z | [open](../records/databases-apache-amoro-d2a3a509.md) |
 | cube2222/octosql | partial | 2024-05-26T15:16:53Z | [open](../records/databases-cube2222-octosql-cab58556.md) |
 | mabel-dev/opteryx | partial | 2026-09-07T09:29:10Z | [open](../records/databases-mabel-dev-opteryx-2e638eaa.md) |
 | shunfei/indexr | partial | 2022-11-16T05:23:54Z | [open](../records/databases-shunfei-indexr-0f058165.md) |
@@ -907,7 +907,7 @@ Records: `654`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alasca.cloud/tarook/tarook | partial | 2026-09-09T08:25:01.801Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
+| alasca.cloud/tarook/tarook | partial | 2026-09-09T12:33:36.083Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
 | gitlab-org/cves | partial | 2026-09-09T08:09:01.584Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
