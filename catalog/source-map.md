@@ -4,21 +4,21 @@
 
 ## Category Index
 
-[Api Abi Checker (224)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Api Abi Checker (225)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (202)](by-category/benchmarking.md) · [Build System (1001)](by-category/build-system.md) · [Cli (572)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (118)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (52)](by-category/compression.md)
-[Concurrency Parallelism (94)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (179)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (973)](by-category/database-datastore.md) · [Datetime (237)](by-category/datetime.md)
+[Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (132)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (179)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (973)](by-category/database-datastore.md) · [Datetime (238)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (105)](by-category/dependency-manager.md) · [Documentation (109)](by-category/documentation.md)
-[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1619)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
+[Embedded Hardware (60)](by-category/embedded-hardware.md) · [Ffi Bindings (465)](by-category/ffi-bindings.md) · [Filesystem Os (1620)](by-category/filesystem-os.md) · [Formatter (652)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (58)](by-category/fuzzer.md) · [Game Engine Game Dev (359)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1477)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (439)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (276)](by-category/interpreter-runtime.md) · [Jit Vm (64)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1452)](by-category/language-specification.md) · [Library (5836)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1452)](by-category/language-specification.md) · [Library (5841)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (49)](by-category/lint-rule-pack.md) · [Linter (348)](by-category/linter.md) · [Logging Observability (532)](by-category/logging-observability.md) · [Machine Learning (813)](by-category/machine-learning.md)
-[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1057)](by-category/networking-http.md)
+[Math Numeric Scientific (89)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1058)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (443)](by-category/package-manager.md) · [Parser Lexer Ast (1208)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (310)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (138)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (634)](by-category/static-analyzer.md)
+[Security Sast (337)](by-category/security-sast.md) · [Serialization (400)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (635)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (621)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1629)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (563)](by-category/visualization-gui.md) · [Web Framework (492)](by-category/web-framework.md)
 
@@ -912,6 +912,7 @@
 | `cran_packages_by_date-0dfb2f8a1326a7` | ggfortify | [open](records/r-ggfortify-1c656f42.md) |
 | `cran_packages_by_date-0e46fc17b4f1c2` | compstatslib | [open](records/r-compstatslib-3698ef5d.md) |
 | `cran_packages_by_date-0e7df54564ca3b` | NeutroCODsAnalysis | [open](records/r-neutrocodsanalysis-7b0806c4.md) |
+| `cran_packages_by_date-0e84bcdde5148b` | epicR | [open](records/r-epicr-cdef34de.md) |
 | `cran_packages_by_date-0e8f7695cb70ab` | robust2sls | [open](records/r-robust2sls-542f6ca3.md) |
 | `cran_packages_by_date-0f15b6c7d44286` | dowser | [open](records/r-dowser-d24a07c1.md) |
 | `cran_packages_by_date-0f557ed7e96316` | nisone | [open](records/r-nisone-96ce321b.md) |
@@ -947,6 +948,7 @@
 | `cran_packages_by_date-1440e8182d4ab5` | balnet | [open](records/r-balnet-d97ebf17.md) |
 | `cran_packages_by_date-1451ef27d5c3c4` | castor | [open](records/r-castor-883d444a.md) |
 | `cran_packages_by_date-14537db5b6bd57` | outliertree | [open](records/r-outliertree-3f6d02b5.md) |
+| `cran_packages_by_date-14650df237bcae` | colocboost | [open](records/r-colocboost-b30d1244.md) |
 | `cran_packages_by_date-147cccf88c0471` | bmem | [open](records/r-bmem-155466de.md) |
 | `cran_packages_by_date-149a92b8913f6e` | outcomerate | [open](records/r-outcomerate-4e117fb0.md) |
 | `cran_packages_by_date-14a57c068653e5` | myTAI | [open](records/r-mytai-349e357a.md) |
@@ -1643,6 +1645,7 @@
 | `cran_packages_by_date-73afb2336e9393` | LCPA | [open](records/r-lcpa-88170389.md) |
 | `cran_packages_by_date-73dbc5074ffe09` | assessor | [open](records/r-assessor-ecb140d1.md) |
 | `cran_packages_by_date-74318d78fe462a` | nanonext | [open](records/r-nanonext-239f70fd.md) |
+| `cran_packages_by_date-74805ad82d5085` | NeuralEstimators | [open](records/r-neuralestimators-0400804c.md) |
 | `cran_packages_by_date-74d0a1a0307920` | cSEM | [open](records/r-csem-68726010.md) |
 | `cran_packages_by_date-75bf3474e73709` | CHNOSZ | [open](records/r-chnosz-4fa0342e.md) |
 | `cran_packages_by_date-75f4532603a830` | GeoThinneR | [open](records/r-geothinner-15f3fb75.md) |
@@ -1676,6 +1679,7 @@
 | `cran_packages_by_date-791b7a9149f81a` | robustrcp | [open](records/r-robustrcp-924e14c1.md) |
 | `cran_packages_by_date-79208007f40909` | ReDaMoR | [open](records/r-redamor-e80f9347.md) |
 | `cran_packages_by_date-79487b8814b757` | mRMRe | [open](records/r-mrmre-354377c9.md) |
+| `cran_packages_by_date-794f6caa72c47d` | nhdR | [open](records/r-nhdr-12976218.md) |
 | `cran_packages_by_date-795110c7ea4dd1` | RcppCGAL | [open](records/r-rcppcgal-fbf935e3.md) |
 | `cran_packages_by_date-795506c547fb4b` | MAIVE | [open](records/r-maive-11b3eb41.md) |
 | `cran_packages_by_date-7961e8fb969b78` | BKQualit | [open](records/r-bkqualit-7610bf7f.md) |
@@ -1899,6 +1903,7 @@
 | `cran_packages_by_date-963687da30a1ad` | bbssr | [open](records/r-bbssr-e12a9809.md) |
 | `cran_packages_by_date-9667740d95ff20` | TopDom | [open](records/r-topdom-d08fdaa9.md) |
 | `cran_packages_by_date-9668ca1b55ccb4` | multilevLCA | [open](records/r-multilevlca-17a6cb99.md) |
+| `cran_packages_by_date-96c1dc410646d5` | rtdists | [open](records/r-rtdists-8094f645.md) |
 | `cran_packages_by_date-96f31fdc24d281` | writexl | [open](records/r-writexl-b26732da.md) |
 | `cran_packages_by_date-96f3fd5a584c6f` | rsmatrix | [open](records/r-rsmatrix-2518f19b.md) |
 | `cran_packages_by_date-9715e6fd1071df` | mx.client | [open](records/r-mx-client-9357f9db.md) |
@@ -1958,6 +1963,7 @@
 | `cran_packages_by_date-9df6169ba5f544` | ggpalettes | [open](records/r-ggpalettes-7fbdf211.md) |
 | `cran_packages_by_date-9e0c17adca99ee` | tm | [open](records/r-tm-e915b82a.md) |
 | `cran_packages_by_date-9e1f5a902e999d` | ddplot | [open](records/r-ddplot-4fccb020.md) |
+| `cran_packages_by_date-9e6cc26ecb5b9e` | aoristic | [open](records/r-aoristic-1b83fbab.md) |
 | `cran_packages_by_date-9e75391c001dab` | mdendro | [open](records/r-mdendro-cbff920a.md) |
 | `cran_packages_by_date-9ea2480f4e5c93` | picante | [open](records/r-picante-ff1e011a.md) |
 | `cran_packages_by_date-9f046f2b9dbbcf` | commons | [open](records/r-commons-0692a512.md) |
@@ -2018,6 +2024,7 @@
 | `cran_packages_by_date-a5ed0a421669ad` | DrugUtilisation | [open](records/r-drugutilisation-4f591066.md) |
 | `cran_packages_by_date-a60dd8f65e4424` | ccwr | [open](records/r-ccwr-427b2bbd.md) |
 | `cran_packages_by_date-a620b6d9870346` | fz | [open](records/r-fz-65db3363.md) |
+| `cran_packages_by_date-a6216c940a43d1` | rurl | [open](records/r-rurl-a75cfbba.md) |
 | `cran_packages_by_date-a66a3699e6c97a` | strucchange | [open](records/r-strucchange-310533f6.md) |
 | `cran_packages_by_date-a69fe6a343b45f` | immunogenetr | [open](records/r-immunogenetr-ce62b227.md) |
 | `cran_packages_by_date-a6cca231dd8321` | controlcharts | [open](records/r-controlcharts-4c6f5b90.md) |
@@ -2054,6 +2061,7 @@
 | `cran_packages_by_date-abc4508b48bb0a` | PseudoVoigtMixt | [open](records/r-pseudovoigtmixt-ffe7600e.md) |
 | `cran_packages_by_date-abd188e78b8d29` | stan4bart | [open](records/r-stan4bart-1db9a79d.md) |
 | `cran_packages_by_date-abfb533c35571f` | roadDB | [open](records/r-roaddb-4a349658.md) |
+| `cran_packages_by_date-ac16744f24ca1e` | RcppPlanc | [open](records/r-rcppplanc-0cc4953d.md) |
 | `cran_packages_by_date-ac19b8627c1fa1` | afttest | [open](records/r-afttest-4c2faa0d.md) |
 | `cran_packages_by_date-ac1c335222f906` | imfweo | [open](records/r-imfweo-520b239f.md) |
 | `cran_packages_by_date-ac630e5104902f` | EDE | [open](records/r-ede-c12ce47c.md) |
@@ -2157,6 +2165,7 @@
 | `cran_packages_by_date-be541daf5cf193` | xtdml | [open](records/r-xtdml-bfc97d6e.md) |
 | `cran_packages_by_date-be69919584bf1c` | riskutility | [open](records/r-riskutility-d0180093.md) |
 | `cran_packages_by_date-be7445bc418c7c` | AstraeaDB | [open](records/r-astraeadb-a63f29d0.md) |
+| `cran_packages_by_date-be901cf4384a2b` | acro | [open](records/r-acro-20137739.md) |
 | `cran_packages_by_date-beaa320f6d25b1` | CDMConnector | [open](records/r-cdmconnector-84a814d3.md) |
 | `cran_packages_by_date-befda52d835682` | compIndexBuilder | [open](records/r-compindexbuilder-dd8a292d.md) |
 | `cran_packages_by_date-bf18defa0d0eab` | openNCAI | [open](records/r-openncai-a8096b4e.md) |
@@ -2209,6 +2218,7 @@
 | `cran_packages_by_date-c6e7fac19230d8` | gert | [open](records/r-gert-5dc82e65.md) |
 | `cran_packages_by_date-c71a1f3c8f5c0d` | sylly.en | [open](records/r-sylly-en-707d70ea.md) |
 | `cran_packages_by_date-c71ec4dbfa24b0` | washr | [open](records/r-washr-e68e3b42.md) |
+| `cran_packages_by_date-c73219de45fb58` | APCalign | [open](records/r-apcalign-e641e9be.md) |
 | `cran_packages_by_date-c7556408e4dec1` | viewpoly | [open](records/r-viewpoly-6cd65365.md) |
 | `cran_packages_by_date-c7b4d8b5636119` | baselinr | [open](records/r-baselinr-8b5c759c.md) |
 | `cran_packages_by_date-c8326707eda161` | Modeler | [open](records/r-modeler-4dbf9177.md) |
@@ -5332,6 +5342,7 @@
 | `gitea_repositories_api-291b81494c2ec8` | Gitea: deepim/flatbuffers | [open](records/repository-workplaces-gitea-deepim-flatbuffers-d97eab34.md) |
 | `gitea_repositories_api-29b26d7eb90aaf` | Gitea: galaxy-future/alist | [open](records/repository-workplaces-gitea-galaxy-future-alist-0e422fd3.md) |
 | `gitea_repositories_api-29d3abc447fe72` | Gitea: plutodoc/language-server-protocol-documentation | [open](records/repository-workplaces-gitea-plutodoc-language-server-protocol-documentation-42e6b970.md) |
+| `gitea_repositories_api-29fd2faf0e681a` | Gitea: maurya.anuj/Devops_FDP_project | [open](records/repository-workplaces-gitea-maurya-anuj-devops-fdp-project-12675dd6.md) |
 | `gitea_repositories_api-2bae5d57e8a9ed` | Gitea: best-iptv-service-provider-2026/Best-IPTV-USA-2026-Providers-Pricing-Devices-Guide | [open](records/repository-workplaces-gitea-best-iptv-service-provider-2026-best-iptv-usa-2026-providers-pricing-devices-guide-06499f89.md) |
 | `gitea_repositories_api-2e079a9c89bff7` | Gitea: Taizukii/agario-server-db | [open](records/repository-workplaces-gitea-taizukii-agario-server-db-49452ff3.md) |
 | `gitea_repositories_api-2ef2fc0cca80f5` | Gitea: lunny/weixinapp | [open](records/repository-workplaces-gitea-lunny-weixinapp-6304711b.md) |
