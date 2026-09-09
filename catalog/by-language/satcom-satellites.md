@@ -17,14 +17,14 @@ Records: `326`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (469)](../by-category/ffi-bindings.md) · [Filesystem Os (1629)](../by-category/filesystem-os.md) · [Formatter (655)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (277)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5890)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5893)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (536)](../by-category/logging-observability.md) · [Machine Learning (818)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1215)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (141)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (572)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (573)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -305,7 +305,7 @@ Records: `326`
 | [csdvb/dvbs2_tx](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) | partial | 2018-06-14T20:47:16Z | registry-derived |
 | [csete/gpredict](../records/satcom-satellites-csete-gpredict-00041760.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [DahnJ/EO-jobs](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) | partial | 2026-06-15T01:11:51Z | registry-derived |
-| [daniestevez/gr-satellites](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) | partial | 2026-09-07T18:21:33Z | registry-derived |
+| [daniestevez/gr-satellites](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) | partial | 2026-09-09T19:22:05Z | registry-derived |
 | [dariol83/drorbiteex](../records/satcom-satellites-dariol83-drorbiteex-4650c774.md) | partial | 2024-07-14T15:06:16Z | registry-derived |
 | [dernasherbrezon/jradio](../records/satcom-satellites-dernasherbrezon-jradio-5b3316f1.md) | partial | 2026-08-08T16:41:43Z | registry-derived |
 | [dimitriblock/gr-cheatsheet](../records/satcom-satellites-dimitriblock-gr-cheatsheet-302c9310.md) | partial | 2018-04-23T15:29:47Z | registry-derived |

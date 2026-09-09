@@ -1,6 +1,6 @@
 # Library
 
-Records: `5890`
+Records: `5893`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `5890`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · **[Library (5890)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · **[Library (5893)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C99
 
@@ -2550,6 +2550,7 @@ Records: `5890`
 | carbondata | 0.2.0 | 2026-09-09 10:40:26 UTC | [open](../records/r-carbondata-924852a5.md) |
 | cardinalfda | 0.3.0 | 2026-09-04 16:30:08 UTC | [open](../records/r-cardinalfda-cb361987.md) |
 | CarletonStats | 2.3 | 2026-08-28 17:00:16 UTC | [open](../records/r-carletonstats-3f2e16bd.md) |
+| caugi | 1.3.0 | 2026-09-09 19:50:08 UTC | [open](../records/r-caugi-a72e939f.md) |
 | causalDT | 1.0.1 | 2026-08-28 20:00:08 UTC | [open](../records/r-causaldt-660c05bf.md) |
 | causalsim | 0.1.0 | 2026-08-30 10:00:15 UTC | [open](../records/r-causalsim-1a014805.md) |
 | cclustr | 0.1.2 | 2026-09-03 02:20:02 UTC | [open](../records/r-cclustr-41baa2d2.md) |
@@ -2707,6 +2708,7 @@ Records: `5890`
 | HeatStressR | 2.2.1 | 2026-08-07 22:00:15 UTC | [open](../records/r-heatstressr-efbc6ad7.md) |
 | heck | 0.1.7 | 2026-09-03 11:50:32 UTC | [open](../records/r-heck-0e67e43c.md) |
 | hellometry | 1.0.1 | 2026-08-24 14:50:02 UTC | [open](../records/r-hellometry-3a63c361.md) |
+| hierNet | 1.10.1 | 2026-09-09 19:30:02 UTC | [open](../records/r-hiernet-d3f5ab45.md) |
 | Hmisc | 5.3-0 | 2026-09-06 12:40:02 UTC | [open](../records/r-hmisc-ca9e9b44.md) |
 | hockeystick | 1.0.0 | 2026-08-28 09:50:16 UTC | [open](../records/r-hockeystick-1ba5d0f4.md) |
 | hoopR | 3.1.0 | 2026-08-25 08:00:02 UTC | [open](../records/r-hoopr-96dc18c3.md) |
@@ -2963,6 +2965,7 @@ Records: `5890`
 | rwetools | 0.5.0 | 2026-09-09 16:00:02 UTC | [open](../records/r-rwetools-69d80354.md) |
 | s2 | 1.1.12 | 2026-09-03 09:30:02 UTC | [open](../records/r-s2-51c95df6.md) |
 | S3VS | 1.1 | 2026-09-07 07:00:02 UTC | [open](../records/r-s3vs-3d49ea7c.md) |
+| s7contract | 0.2.3 | 2026-09-09 19:50:02 UTC | [open](../records/r-s7contract-593bf25f.md) |
 | saeHB.Spatial.Beta | 0.1.1 | 2026-08-24 16:00:02 UTC | [open](../records/r-saehb-spatial-beta-7e96c5ff.md) |
 | saeproj.multilevel | 0.1.1 | 2026-09-07 18:30:02 UTC | [open](../records/r-saeproj-multilevel-92a012c6.md) |
 | SCCDdesign | 0.1.0 | 2026-09-03 12:20:22 UTC | [open](../records/r-sccddesign-a9ee8c37.md) |
@@ -4193,14 +4196,14 @@ Records: `5890`
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
-| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4281,7 +4284,7 @@ Records: `5890`
 | dots_indicator | 4.0.1 | 2025-02-18T22:26:07.852950Z | [open](../records/dart-dots-indicator-d2a61ac9.md) |
 | dotted_border | 3.1.0 | 2025-06-29T06:20:22.230093Z | [open](../records/dart-dotted-border-ae7e47fe.md) |
 | dotted_line | 3.3.0 | 2026-05-30T08:12:25.149789Z | [open](../records/dart-dotted-line-61fd1fd5.md) |
-| drift | 2.34.4 | 2026-09-02T14:42:34.292530Z | [open](../records/dart-drift-2c8ff8ba.md) |
+| drift | 2.35.0 | 2026-09-09T20:15:01.193120Z | [open](../records/dart-drift-2c8ff8ba.md) |
 | dropdown_button2 | 3.1.0 | 2026-04-29T19:32:41.384388Z | [open](../records/dart-dropdown-button2-8b8f8671.md) |
 | dynamic_color | 2.1.0 | 2026-08-20T16:48:11.504485Z | [open](../records/dart-dynamic-color-11eb3505.md) |
 | easy_debounce | 2.0.3 | 2023-01-06T20:32:24.027178Z | [open](../records/dart-easy-debounce-35dcff74.md) |
@@ -4403,7 +4406,7 @@ Records: `5890`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4418,7 +4421,7 @@ Records: `5890`
 | gitlab.com/sequoia-pgp/sequoia-gpg-agent | v0.3.1 | 2026-08-30T15:31:10.349155Z | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
-| go-ffmt/ffmt | unknown | not_a_go_module_path | [open](../records/go-go-ffmt-ffmt-70684860.md) |
+| go-ffmt/ffmt | partial | 2021-11-19T15:22:56Z | [open](../records/go-go-ffmt-ffmt-70684860.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
@@ -4427,7 +4430,7 @@ Records: `5890`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-09T19:14:21Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-09T20:11:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4441,7 +4444,7 @@ Records: `5890`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-09T19:16:05Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-09T19:51:05Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5273,7 +5276,7 @@ Records: `5890`
 | meetqy/rao-pics | partial | 2026-09-07T22:48:08Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
 | motioneye-project/motioneye | partial | 2026-09-03T18:51:43Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
-| mustakshif/Asri | partial | 2026-09-08T07:20:32Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
+| mustakshif/Asri | partial | 2026-09-09T05:02:59Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
 | natural-harmonia-gropius/hdr-toys | partial | 2026-09-04T16:30:47Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
 | opendatacam/opendatacam | partial | 2026-04-23T01:52:02Z | [open](../records/photography-opendatacam-opendatacam-2d3b3502.md) |
@@ -5426,7 +5429,7 @@ Records: `5890`
 | csdvb/dvbs2_tx | partial | 2018-06-14T20:47:16Z | [open](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) |
 | csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/satcom-satellites-csete-gpredict-00041760.md) |
 | DahnJ/EO-jobs | partial | 2026-06-15T01:11:51Z | [open](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
-| daniestevez/gr-satellites | partial | 2026-09-07T18:21:33Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
+| daniestevez/gr-satellites | partial | 2026-09-09T19:22:05Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
 | dariol83/drorbiteex | partial | 2024-07-14T15:06:16Z | [open](../records/satcom-satellites-dariol83-drorbiteex-4650c774.md) |
 | dernasherbrezon/jradio | partial | 2026-08-08T16:41:43Z | [open](../records/satcom-satellites-dernasherbrezon-jradio-5b3316f1.md) |
 | dimitriblock/gr-cheatsheet | partial | 2018-04-23T15:29:47Z | [open](../records/satcom-satellites-dimitriblock-gr-cheatsheet-302c9310.md) |
@@ -5507,7 +5510,7 @@ Records: `5890`
 | cbassa/strf | partial | 2026-03-06T22:33:19Z | [open](../records/electromagnetoscopes-cbassa-strf-475240d4.md) |
 | CGrassin/rtl_power_scripts | partial | 2019-06-15T18:30:02Z | [open](../records/electromagnetoscopes-cgrassin-rtl-power-scripts-74b55a03.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
-| daniestevez/gr-satellites | partial | 2026-09-07T18:21:33Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
+| daniestevez/gr-satellites | partial | 2026-09-09T19:22:05Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |

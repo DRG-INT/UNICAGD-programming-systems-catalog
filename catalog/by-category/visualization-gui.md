@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `572`
+Records: `573`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `572`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (572)](visualization-gui.md)** · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (573)](visualization-gui.md)** · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -210,6 +210,7 @@ Records: `572`
 | scip | 1.10.0-4 | 2026-08-30 14:10:10 UTC | [open](../records/r-scip-092f2513.md) |
 | see | 0.14.2 | 2026-09-01 12:30:02 UTC | [open](../records/r-see-a2b3e480.md) |
 | shapviz | 0.10.4 | 2026-08-31 15:10:02 UTC | [open](../records/r-shapviz-d4cf00e1.md) |
+| shinychat | 0.5.0 | 2026-09-09 18:50:02 UTC | [open](../records/r-shinychat-9f43e05f.md) |
 | shinygenui | 0.1.0 | 2026-09-09 16:40:02 UTC | [open](../records/r-shinygenui-3bedacc4.md) |
 | shinyglass | 0.2.0 | 2026-08-21 05:40:42 UTC | [open](../records/r-shinyglass-ac8dcf7d.md) |
 | SimpleUpset | 0.1.6 | 2026-09-01 15:50:02 UTC | [open](../records/r-simpleupset-c56c376c.md) |
@@ -305,7 +306,7 @@ Records: `572`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
 | piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
@@ -645,7 +646,7 @@ Records: `572`
 | hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |
 | lucalista/shinestacker | partial | 2026-09-06T19:01:27Z | [open](../records/photography-lucalista-shinestacker-ea562427.md) |
 | RawTherapee | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-rawtherapee-04b87a38.md) |
-| Slicer/Slicer | partial | 2026-09-06T13:04:17Z | [open](../records/photography-slicer-slicer-04ff6520.md) |
+| Slicer/Slicer | partial | 2026-09-09T08:40:35Z | [open](../records/photography-slicer-slicer-04ff6520.md) |
 
 ## Microscopy
 
@@ -677,7 +678,7 @@ Records: `572`
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | juliojsb/sarviewer | partial | 2019-06-03T16:42:23Z | [open](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
-| radarsimx/radarsimpy | partial | 2026-09-09T12:41:05Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| radarsimx/radarsimpy | partial | 2026-09-09T19:43:52Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | Stefal/rtkbase | partial | 2026-05-07T15:39:40Z | [open](../records/radars-stefal-rtkbase-1f60caca.md) |
 
 ## SatCom Satellites

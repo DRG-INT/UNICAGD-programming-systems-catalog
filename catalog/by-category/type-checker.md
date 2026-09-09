@@ -17,14 +17,14 @@ Records: `315`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · **[Type Checker (315)](type-checker.md)**
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## Python
 
@@ -276,7 +276,7 @@ Records: `315`
 | volar-service-typescript | 0.0.71 | 2026-05-09T23:48:57.498Z | [open](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) |
 | volar-service-typescript-twoslash-queries | 0.0.71 | 2026-05-09T23:48:59.933Z | [open](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) |
 | yuku-parser | 0.9.5 | 2026-09-08T06:56:13.844Z | [open](../records/node-js-typescript-yuku-parser-d16e0e7c.md) |
-| zod | 4.5.4 | 2026-08-29T17:55:42.775Z | [open](../records/node-js-typescript-zod-b5537602.md) |
+| zod | 4.6.0 | 2026-09-09T19:25:02.729Z | [open](../records/node-js-typescript-zod-b5537602.md) |
 
 ## Lua family
 
@@ -314,7 +314,7 @@ Records: `315`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-09T19:14:26Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-09T20:21:19Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -471,8 +471,8 @@ Records: `315`
 | CodelyTV/typescript-ddd-example | partial | 2024-08-20T07:07:47Z | [open](../records/pattern-language-codelytv-typescript-ddd-example-228e4a9e.md) |
 | node-ts/bus | partial | 2025-12-09T21:38:14Z | [open](../records/pattern-language-node-ts-bus-3c9ddce5.md) |
 | RefactoringGuru/design-patterns-typescript | partial | 2026-04-15T09:39:43Z | [open](../records/pattern-language-refactoringguru-design-patterns-typescript-c92d9ee2.md) |
-| rmanguinho/clean-react | partial | 2023-03-04T18:54:55Z | [open](../records/pattern-language-rmanguinho-clean-react-f46a6fea.md) |
-| rmanguinho/clean-ts-api | partial | 2024-11-27T13:53:24Z | [open](../records/pattern-language-rmanguinho-clean-ts-api-fc4f6eb3.md) |
+| rmanguinho/clean-react | partial | 2026-09-09T19:39:02Z | [open](../records/pattern-language-rmanguinho-clean-react-f46a6fea.md) |
+| rmanguinho/clean-ts-api | partial | 2026-09-09T19:39:00Z | [open](../records/pattern-language-rmanguinho-clean-ts-api-fc4f6eb3.md) |
 | torokmark/design_patterns_in_typescript | partial | 2023-09-05T02:44:07Z | [open](../records/pattern-language-torokmark-design-patterns-in-typescript-2b171588.md) |
 
 ## WebAssembly

@@ -17,14 +17,14 @@ Records: `493`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · **[Web Framework (493)](web-framework.md)**
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · **[Web Framework (493)](web-framework.md)**
 
 ## C++23
 
@@ -186,7 +186,7 @@ Records: `493`
 | @iobroker/mcp-server | 1.0.3 | 2026-09-03T16:58:14.574Z | [open](../records/node-js-javascript-iobroker-mcp-server-43a9f8db.md) |
 | @koishijs/plugin-server | 3.2.9 | 2026-02-27T21:00:53.554Z | [open](../records/node-js-javascript-koishijs-plugin-server-9a9e631a.md) |
 | @lancedb/lancedb | 0.38.0 | 2026-08-31T08:31:16.264Z | [open](../records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
-| @launchdarkly/js-server-sdk-common | 2.21.0 | 2026-09-08T20:29:28.817Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
+| @launchdarkly/js-server-sdk-common | 2.21.1 | 2026-09-09T19:36:56.899Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
 | @launchdarkly/js-server-sdk-common-edge | 2.6.28 | 2026-08-18T19:54:18.515Z | [open](../records/node-js-javascript-launchdarkly-js-server-sdk-common-edge-04bd7216.md) |
 | @liff/server-api | 2.31.0 | 2026-08-31T02:45:10.018Z | [open](../records/node-js-javascript-liff-server-api-7488dbd8.md) |
 | @loadable/server | 5.16.7 | 2025-05-18T01:22:53.335Z | [open](../records/node-js-javascript-loadable-server-04f8fed4.md) |
@@ -203,7 +203,7 @@ Records: `493`
 | @newrelic/apollo-server-plugin | 8.0.0 | 2025-07-22T20:03:48.217Z | [open](../records/node-js-javascript-newrelic-apollo-server-plugin-34e68ee7.md) |
 | @nexus2520/bitbucket-mcp-server | 3.0.0 | 2026-07-09T10:23:31.348Z | [open](../records/node-js-javascript-nexus2520-bitbucket-mcp-server-c0a72fb2.md) |
 | @nuxt/nitro-server | 4.5.2 | 2026-08-05T16:17:56.963Z | [open](../records/node-js-javascript-nuxt-nitro-server-1fc1585d.md) |
-| @nuxt/nitro-server-nightly | 4.6.0-29813676.d47aedb6 | 2026-09-07T22:38:13.053Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
+| @nuxt/nitro-server-nightly | 4.6.0-29814615.30454449 | 2026-09-08T14:18:47.973Z | [open](../records/node-js-javascript-nuxt-nitro-server-nightly-4efe1726.md) |
 | @omega-edit/server | 2.0.0 | 2026-04-17T15:47:21.322Z | [open](../records/node-js-javascript-omega-edit-server-dac4c0dc.md) |
 | @opencode-ai/server | 0.0.0-reserved.0 | 2026-07-01T22:05:01.103Z | [open](../records/node-js-javascript-opencode-ai-server-870e8c36.md) |
 | @openfeature/core | 1.12.0 | 2026-07-28T18:53:49.315Z | [open](../records/node-js-javascript-openfeature-core-e3b3a0d0.md) |

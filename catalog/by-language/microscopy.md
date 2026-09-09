@@ -17,14 +17,14 @@ Records: `194`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (469)](../by-category/ffi-bindings.md) · [Filesystem Os (1629)](../by-category/filesystem-os.md) · [Formatter (655)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (277)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5890)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5893)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (536)](../by-category/logging-observability.md) · [Machine Learning (818)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1215)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (141)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (572)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (573)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -42,7 +42,7 @@ Records: `194`
 | [labsyspharm/minerva-story](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) | partial | 2024-05-08T18:52:37Z | registry-derived |
 | [lemonspurple/DIY-Scanning-Tunneling-Microscope](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) | partial | 2026-06-08T18:08:44Z | registry-derived |
 | [royerlab/napari-mcp](../records/microscopy-royerlab-napari-mcp-5804742f.md) | partial | 2026-03-25T18:05:52Z | registry-derived |
-| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-09T14:04:57Z | registry-derived |
+| [saeyslab/harpy](../records/microscopy-saeyslab-harpy-13fb4e50.md) | partial | 2026-09-09T19:03:21Z | registry-derived |
 
 ### Database Datastore
 
@@ -90,7 +90,7 @@ Records: `194`
 | [AllenCellModeling/aicsimageio](../records/microscopy-allencellmodeling-aicsimageio-bc72f7e6.md) | partial | 2025-12-01T19:17:09Z | registry-derived |
 | [amirhossein-kz/HiFormer](../records/microscopy-amirhossein-kz-hiformer-7958e1b3.md) | partial | 2024-03-22T00:28:20Z | registry-derived |
 | [ariel-waisman/LabelsToROIs](../records/microscopy-ariel-waisman-labelstorois-70803f22.md) | partial | 2021-09-11T14:17:20Z | registry-derived |
-| [axondeepseg/axondeepseg](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) | partial | 2026-09-09T18:22:45Z | registry-derived |
+| [axondeepseg/axondeepseg](../records/microscopy-axondeepseg-axondeepseg-0c2875c8.md) | partial | 2026-09-09T19:18:51Z | registry-derived |
 | [bioio-devs/bioio](../records/microscopy-bioio-devs-bioio-ca180c94.md) | partial | 2026-09-08T14:41:00Z | registry-derived |
 | [Biomedical-Imaging-Group/DeconvolutionLab2](../records/microscopy-biomedical-imaging-group-deconvolutionlab2-5bd46987.md) | partial | 2019-03-09T16:40:03Z | registry-derived |
 | [brainglobe/brainglobe-atlasapi](../records/microscopy-brainglobe-brainglobe-atlasapi-1ee7f7d0.md) | partial | 2026-09-09T16:34:05Z | registry-derived |
@@ -111,7 +111,7 @@ Records: `194`
 | [GuillaumeMougeot/biom3d](../records/microscopy-guillaumemougeot-biom3d-7ae5f94d.md) | partial | 2026-03-30T07:54:44Z | registry-derived |
 | [Gurdon-Super-Res-Lab/Microscope-Control](../records/microscopy-gurdon-super-res-lab-microscope-control-fd0301f5.md) | partial | 2026-01-20T09:52:18Z | registry-derived |
 | [hahnec/rf-ulm](../records/microscopy-hahnec-rf-ulm-3db20243.md) | partial | 2024-09-05T08:57:56Z | registry-derived |
-| [hexane360/phaser](../records/microscopy-hexane360-phaser-69753666.md) | partial | 2026-09-09T17:31:23Z | registry-derived |
+| [hexane360/phaser](../records/microscopy-hexane360-phaser-69753666.md) | partial | 2026-09-09T19:25:25Z | registry-derived |
 | [hpgem/nanomesh](../records/microscopy-hpgem-nanomesh-5b10b2c1.md) | partial | 2024-06-17T12:45:05Z | registry-derived |
 | [HuanglabPurdue/NCS](../records/microscopy-huanglabpurdue-ncs-92a2d50f.md) | partial | 2020-01-15T20:22:29Z | registry-derived |
 | [ImSwitch/ImSwitch](../records/microscopy-imswitch-imswitch-c78f5160.md) | partial | 2026-07-10T15:00:31Z | registry-derived |
@@ -302,7 +302,7 @@ Records: `194`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AICONSlab/MIRACL](../records/microscopy-aiconslab-miracl-cf8be60e.md) | partial | 2026-09-01T14:56:01Z | registry-derived |
+| [AICONSlab/MIRACL](../records/microscopy-aiconslab-miracl-cf8be60e.md) | partial | 2026-09-09T19:56:18Z | registry-derived |
 | [arttumiettinen/pi2](../records/microscopy-arttumiettinen-pi2-7fa92455.md) | partial | 2025-06-25T12:23:36Z | registry-derived |
 | [bonej-org/BoneJ2](../records/microscopy-bonej-org-bonej2-7a23494e.md) | partial | 2026-09-09T14:01:14Z | registry-derived |
 | [clEsperanto/pyclesperanto_prototype](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) | partial | 2026-08-14T09:04:32Z | registry-derived |
@@ -340,7 +340,7 @@ Records: `194`
 | [chanzuckerberg/napari-hub](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) | partial | 2026-03-06T00:55:27Z | registry-derived |
 | [czbiohub-sf/iohub](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) | partial | 2026-09-04T23:43:03Z | registry-derived |
 | [imagingbook/imagingbook-public](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) | partial | 2026-03-12T18:03:59Z | registry-derived |
-| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-09T15:49:13Z | registry-derived |
+| [JaneliaSciComp/fileglancer](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) | partial | 2026-09-09T19:19:02Z | registry-derived |
 | [mbalatsko/opencv-rolling-ball](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) | partial | 2022-06-21T21:15:02Z | registry-derived |
 | [Mmasoud1/HistoJS](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) | partial | 2024-02-29T14:38:53Z | registry-derived |
 | [MWod/DeepHistReg](../records/microscopy-mwod-deephistreg-fe9489ee.md) | partial | 2025-04-04T15:16:42Z | registry-derived |

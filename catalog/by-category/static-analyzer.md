@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `642`
+Records: `643`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `642`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1485)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (642)](static-analyzer.md)**
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · **[Static Analyzer (643)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C99
 
@@ -306,6 +306,7 @@ Records: `642`
 | ramchoice | 3.0.0 | 2026-09-04 06:40:10 UTC | [open](../records/r-ramchoice-02e5d884.md) |
 | rapsimng.decide.core | 0.1.0 | 2026-08-09 08:40:08 UTC | [open](../records/r-rapsimng-decide-core-c432725e.md) |
 | rchime | 0.1.2 | 2026-08-21 14:50:02 UTC | [open](../records/r-rchime-c9268c48.md) |
+| RFmstate | 0.1.9 | 2026-09-09 18:30:02 UTC | [open](../records/r-rfmstate-1bc5b660.md) |
 | RGDrivers | 0.1.0 | 2026-08-06 10:20:02 UTC | [open](../records/r-rgdrivers-991c0a5d.md) |
 | RIFanalysis | 0.9.2 | 2026-08-20 08:12:11 UTC | [open](../records/r-rifanalysis-8f1ffcb3.md) |
 | rjd3xjars | 0.1.2 | 2026-08-20 22:50:02 UTC | [open](../records/r-rjd3xjars-1b26591f.md) |
@@ -408,14 +409,14 @@ Records: `642`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-09T05:33:03Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-09T18:33:42Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-09T19:43:14Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -578,7 +579,7 @@ Records: `642`
 | --- | --- | --- | --- |
 | bluescan/tacentview | partial | 2026-09-08T10:10:01Z | [open](../records/photography-bluescan-tacentview-36115ac1.md) |
 | dlazaro66/QRCodeReaderView | partial | 2021-06-21T04:55:28Z | [open](../records/photography-dlazaro66-qrcodereaderview-9c349462.md) |
-| gee-community/geemap | partial | 2026-09-04T17:39:42Z | [open](../records/photography-gee-community-geemap-8f40e707.md) |
+| gee-community/geemap | partial | 2026-09-09T13:04:03Z | [open](../records/photography-gee-community-geemap-8f40e707.md) |
 | GrapheneOS/Camera | partial | 2026-09-08T22:04:43Z | [open](../records/photography-grapheneos-camera-e6336699.md) |
 | Haris87/photosint | partial | 2021-07-15T15:24:38Z | [open](../records/photography-haris87-photosint-5032ef4a.md) |
 | hyperoslo/BarcodeScanner | partial | 2024-07-29T16:11:57Z | [open](../records/photography-hyperoslo-barcodescanner-b1f848d8.md) |
@@ -590,8 +591,8 @@ Records: `642`
 | MK-Ware/Forensic-Tools | partial | 2019-09-12T12:38:16Z | [open](../records/photography-mk-ware-forensic-tools-3fbe9061.md) |
 | moaazsidat/react-native-qrcode-scanner | partial | 2023-05-12T11:16:38Z | [open](../records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
 | ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
-| ocrmypdf/OCRmyPDF | partial | 2026-09-01T21:33:13Z | [open](../records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
-| ossappscollective/OSS-DocumentScanner | partial | 2026-08-30T20:41:11Z | [open](../records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
+| ocrmypdf/OCRmyPDF | partial | 2026-09-08T18:26:29Z | [open](../records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
+| ossappscollective/OSS-DocumentScanner | partial | 2026-09-07T22:06:06Z | [open](../records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
 | petrobras/GeoSlicer | partial | 2026-08-18T18:30:06Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
 | photonixapp/photonix | partial | 2026-07-21T11:06:10Z | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
 | react-native-camera/react-native-camera | partial | 2023-06-07T10:03:10Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |
@@ -609,7 +610,7 @@ Records: `642`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AICONSlab/MIRACL | partial | 2026-09-01T14:56:01Z | [open](../records/microscopy-aiconslab-miracl-cf8be60e.md) |
+| AICONSlab/MIRACL | partial | 2026-09-09T19:56:18Z | [open](../records/microscopy-aiconslab-miracl-cf8be60e.md) |
 | arttumiettinen/pi2 | partial | 2025-06-25T12:23:36Z | [open](../records/microscopy-arttumiettinen-pi2-7fa92455.md) |
 | bonej-org/BoneJ2 | partial | 2026-09-09T14:01:14Z | [open](../records/microscopy-bonej-org-bonej2-7a23494e.md) |
 | clEsperanto/pyclesperanto_prototype | partial | 2026-08-14T09:04:32Z | [open](../records/microscopy-clesperanto-pyclesperanto-prototype-3fd5a628.md) |
@@ -877,8 +878,8 @@ Records: `642`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-09T18:17:14.930Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-09T18:16:57.089Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-09T19:21:34.571Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-09T20:17:23.564Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-09T08:05:58.760Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

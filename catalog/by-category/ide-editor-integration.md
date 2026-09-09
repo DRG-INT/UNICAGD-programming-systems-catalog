@@ -17,14 +17,14 @@ Records: `1485`
 [Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (469)](ffi-bindings.md) · [Filesystem Os (1629)](filesystem-os.md) · [Formatter (655)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1485)](ide-editor-integration.md)**
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (277)](interpreter-runtime.md) · [Jit Vm (64)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5890)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1456)](language-specification.md) · [Library (5893)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (49)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (536)](logging-observability.md) · [Machine Learning (818)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1066)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (445)](package-manager.md) · [Parser Lexer Ast (1215)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (141)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (642)](static-analyzer.md)
+[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (572)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
+[Undefined Behavior Analyzer (1634)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (573)](visualization-gui.md) · [Web Framework (493)](web-framework.md)
 
 ## C++23
 
@@ -114,7 +114,7 @@ Records: `1485`
 | imgref | 1.12.3 | 2026-08-26T16:59:29.900111Z | [open](../records/rust-imgref-307281ba.md) |
 | instant | 0.1.13 | 2024-05-17T19:56:13.760985Z | [open](../records/rust-instant-0ef072e1.md) |
 | is-docker | 0.2.0 | 2023-01-22T20:19:07.012131Z | [open](../records/rust-is-docker-98503074.md) |
-| jsonpath-rust | 1.0.10 | 2026-08-24T19:33:08.097640Z | [open](../records/rust-jsonpath-rust-823f3ffa.md) |
+| jsonpath-rust | 1.0.11 | 2026-09-09T20:05:15.379170Z | [open](../records/rust-jsonpath-rust-823f3ffa.md) |
 | matrixmultiply | 0.3.11 | 2026-07-14T18:10:37.161378Z | [open](../records/rust-matrixmultiply-c9b9e554.md) |
 | maybe-owned | 0.3.4 | 2020-05-23T01:30:58.145244Z | [open](../records/rust-maybe-owned-3b600fa6.md) |
 | md5 | 0.8.1 | 2026-07-09T09:41:18.896790Z | [open](../records/rust-md5-848b9b63.md) |
@@ -176,20 +176,20 @@ Records: `1485`
 | @apidevtools/swagger-methods | 3.0.2 | 2020-07-19T10:29:37.302Z | [open](../records/node-js-javascript-apidevtools-swagger-methods-971e6ccd.md) |
 | @apimatic/http-headers | 0.3.8 | 2025-09-30T08:00:23.993Z | [open](../records/node-js-javascript-apimatic-http-headers-5e00794e.md) |
 | @aws-amplify/cli-core | 2.2.6 | 2026-07-29T14:40:45.075Z | [open](../records/node-js-javascript-aws-amplify-cli-core-7e183235.md) |
-| @aws-sdk/credential-provider-http | 3.972.72 | 2026-08-21T19:07:59.200Z | [open](../records/node-js-javascript-aws-sdk-credential-provider-http-a5dc4594.md) |
+| @aws-sdk/credential-provider-http | 3.972.73 | 2026-09-09T18:48:22.989Z | [open](../records/node-js-javascript-aws-sdk-credential-provider-http-a5dc4594.md) |
 | @cedarjs/web-server | 6.0.2 | 2026-09-07T21:08:26.947Z | [open](../records/node-js-javascript-cedarjs-web-server-bcabe48d.md) |
 | @emotion/server | 11.11.0 | 2023-05-06T08:49:15.661Z | [open](../records/node-js-javascript-emotion-server-fd817bde.md) |
 | @flmngr/flmngr-server-node | 1.5.3 | 2023-08-25T14:38:16.882Z | [open](../records/node-js-javascript-flmngr-flmngr-server-node-56d18ed6.md) |
 | @flmngr/flmngr-server-node-express | 1.5.3 | 2023-08-25T14:40:38.740Z | [open](../records/node-js-javascript-flmngr-flmngr-server-node-express-d6079e7a.md) |
-| @harperfast/integration-testing | 0.7.1 | 2026-07-27T17:21:53.047Z | [open](../records/node-js-javascript-harperfast-integration-testing-74df7215.md) |
+| @harperfast/integration-testing | 1.0.0 | 2026-09-03T21:57:24.554Z | [open](../records/node-js-javascript-harperfast-integration-testing-74df7215.md) |
 | @innet/server | 2.0.1 | 2026-07-04T09:31:32.788Z | [open](../records/node-js-javascript-innet-server-6ee871cf.md) |
 | @jenkins-cd/logging | 0.0.6 | 2017-01-19T12:43:57.757Z | [open](../records/node-js-javascript-jenkins-cd-logging-8ea2f7b6.md) |
-| @launchdarkly/node-server-sdk | 9.13.2 | 2026-09-08T20:27:34.338Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
+| @launchdarkly/node-server-sdk | 9.13.3 | 2026-09-09T19:38:19.153Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
 | @launchdarkly/node-server-sdk-dynamodb | 6.2.38 | 2026-09-08T20:29:35.241Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-dynamodb-3fac3645.md) |
 | @launchdarkly/node-server-sdk-redis | 4.2.37 | 2026-09-08T20:32:40.019Z | [open](../records/node-js-javascript-launchdarkly-node-server-sdk-redis-9016e0e8.md) |
 | @launchdarkly/openfeature-js-server-common | 2.0.0 | 2026-09-03T17:57:57.937Z | [open](../records/node-js-javascript-launchdarkly-openfeature-js-server-common-d3184ea6.md) |
-| @launchdarkly/openfeature-node-server | 2.0.1 | 2026-09-08T20:28:29.704Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
-| @launchdarkly/vercel-server-sdk | 1.3.56 | 2026-09-08T20:27:34.584Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
+| @launchdarkly/openfeature-node-server | 2.0.2 | 2026-09-09T19:36:47.141Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
+| @launchdarkly/vercel-server-sdk | 1.3.57 | 2026-09-09T19:36:31.483Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
 | @lvce-editor/server | 0.114.5 | 2026-09-09T00:17:21.715Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
@@ -517,7 +517,7 @@ Records: `1485`
 | SMOARIMA | 0.1.1 | 2026-08-07 10:40:12 UTC | [open](../records/r-smoarima-79bd0db5.md) |
 | spatpersist | 0.1.0 | 2026-09-05 13:50:02 UTC | [open](../records/r-spatpersist-35569337.md) |
 | SporeLag | 0.1.1 | 2026-08-04 09:30:02 UTC | [open](../records/r-sporelag-74c50e27.md) |
-| tidypredict | 1.2.0 | 2026-09-04 05:10:02 UTC | [open](../records/r-tidypredict-b2a5b382.md) |
+| tidypredict | 1.2.1 | 2026-09-09 19:00:02 UTC | [open](../records/r-tidypredict-b2a5b382.md) |
 | TmCalculator | 1.0.9 | 2026-08-28 14:10:02 UTC | [open](../records/r-tmcalculator-551285f1.md) |
 | TopDom | 0.10.2 | 2026-08-31 15:40:31 UTC | [open](../records/r-topdom-d08fdaa9.md) |
 | VIM | 7.3.0 | 2026-09-02 10:20:02 UTC | [open](../records/r-vim-b680c936.md) |
@@ -682,20 +682,20 @@ Records: `1485`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | partial | 2026-09-07T03:26:21Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-07T12:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-09T18:47:34Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-09T20:22:51Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-09T01:33:11Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-09T18:12:29Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-09T12:57:08Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-09T20:21:33Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-09T16:20:29Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1245,7 +1245,7 @@ Records: `1485`
 | codeforreal1/compressO | partial | 2026-08-17T12:39:47Z | [open](../records/photography-codeforreal1-compresso-03a9ea13.md) |
 | copicseal/copicseal | unknown | github_search_does_not_include_release_date | [open](../records/photography-copicseal-copicseal-b0bf1efa.md) |
 | coreprocess/linux-unattended-installation | partial | 2023-02-01T02:36:50Z | [open](../records/photography-coreprocess-linux-unattended-installation-f53db419.md) |
-| CyberTimon/RapidRAW | partial | 2026-09-06T12:17:03Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
+| CyberTimon/RapidRAW | partial | 2026-09-09T19:23:46Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
 | dividebysandwich/LightningView | partial | 2026-09-09T16:54:11Z | [open](../records/photography-dividebysandwich-lightningview-edad5607.md) |
 | dmarnerides/hdr-expandnet | partial | 2021-03-02T09:15:13Z | [open](../records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) |
 | drewnoakes/metadata-extractor | partial | 2026-07-28T04:25:06Z | [open](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
@@ -1255,7 +1255,7 @@ Records: `1485`
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
-| GraphiteEditor/Graphite | partial | 2026-09-06T15:19:39Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
+| GraphiteEditor/Graphite | partial | 2026-09-09T20:19:20Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
@@ -1304,14 +1304,14 @@ Records: `1485`
 | tannerhelland/PhotoDemon | partial | 2026-08-18T17:17:58Z | [open](../records/photography-tannerhelland-photodemon-a6f66710.md) |
 | test-full-band/tfb-video | partial | 2024-12-14T19:18:09Z | [open](../records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | thumbsup/thumbsup | partial | 2026-02-28T02:10:14Z | [open](../records/photography-thumbsup-thumbsup-c22883cd.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-08T21:41:02Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-09T17:38:12Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
 | woelper/oculante | partial | 2026-08-31T22:33:46Z | [open](../records/photography-woelper-oculante-7408791d.md) |
 | xemle/home-gallery | partial | 2026-06-25T21:41:23Z | [open](../records/photography-xemle-home-gallery-5b6dd9db.md) |
 | xmtggh/VideoCalling | partial | 2019-08-26T02:13:50Z | [open](../records/photography-xmtggh-videocalling-89dad280.md) |
 | yuehaowang/bilarf | partial | 2024-09-14T21:43:30Z | [open](../records/photography-yuehaowang-bilarf-ff8bd822.md) |
 | zhongjhATC/AlbumCameraRecorder | partial | 2026-09-03T07:53:45Z | [open](../records/photography-zhongjhatc-albumcamerarecorder-a6d618e8.md) |
 | zidage/AlcedoStudio | unknown | github_search_does_not_include_release_date | [open](../records/photography-zidage-alcedostudio-0233770d.md) |
-| zmz125000/LocalViewer | partial | 2026-09-09T02:34:38Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
+| zmz125000/LocalViewer | partial | 2026-09-09T05:31:21Z | [open](../records/photography-zmz125000-localviewer-1d07cc54.md) |
 
 ## Microscopy
 

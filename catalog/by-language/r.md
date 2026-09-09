@@ -1,6 +1,6 @@
 # R
 
-Records: `1905`
+Records: `1910`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `1905`
 [Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (469)](../by-category/ffi-bindings.md) · [Filesystem Os (1629)](../by-category/filesystem-os.md) · [Formatter (655)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1485)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (277)](../by-category/interpreter-runtime.md) · [Jit Vm (64)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5890)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1456)](../by-category/language-specification.md) · [Library (5893)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (49)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (536)](../by-category/logging-observability.md) · [Machine Learning (818)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1066)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (445)](../by-category/package-manager.md) · [Parser Lexer Ast (1215)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (141)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (642)](../by-category/static-analyzer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (572)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1634)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (573)](../by-category/visualization-gui.md) · [Web Framework (493)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -576,7 +576,7 @@ Records: `1905`
 | [SMOARIMA](../records/r-smoarima-79bd0db5.md) | 0.1.1 | 2026-08-07 10:40:12 UTC | registry-derived |
 | [spatpersist](../records/r-spatpersist-35569337.md) | 0.1.0 | 2026-09-05 13:50:02 UTC | registry-derived |
 | [SporeLag](../records/r-sporelag-74c50e27.md) | 0.1.1 | 2026-08-04 09:30:02 UTC | registry-derived |
-| [tidypredict](../records/r-tidypredict-b2a5b382.md) | 1.2.0 | 2026-09-04 05:10:02 UTC | registry-derived |
+| [tidypredict](../records/r-tidypredict-b2a5b382.md) | 1.2.1 | 2026-09-09 19:00:02 UTC | registry-derived |
 | [TmCalculator](../records/r-tmcalculator-551285f1.md) | 1.0.9 | 2026-08-28 14:10:02 UTC | registry-derived |
 | [TopDom](../records/r-topdom-d08fdaa9.md) | 0.10.2 | 2026-08-31 15:40:31 UTC | registry-derived |
 | [VIM](../records/r-vim-b680c936.md) | 7.3.0 | 2026-09-02 10:20:02 UTC | registry-derived |
@@ -744,6 +744,7 @@ Records: `1905`
 | [carbondata](../records/r-carbondata-924852a5.md) | 0.2.0 | 2026-09-09 10:40:26 UTC | registry-derived |
 | [cardinalfda](../records/r-cardinalfda-cb361987.md) | 0.3.0 | 2026-09-04 16:30:08 UTC | registry-derived |
 | [CarletonStats](../records/r-carletonstats-3f2e16bd.md) | 2.3 | 2026-08-28 17:00:16 UTC | registry-derived |
+| [caugi](../records/r-caugi-a72e939f.md) | 1.3.0 | 2026-09-09 19:50:08 UTC | registry-derived |
 | [causalDT](../records/r-causaldt-660c05bf.md) | 1.0.1 | 2026-08-28 20:00:08 UTC | registry-derived |
 | [causalsim](../records/r-causalsim-1a014805.md) | 0.1.0 | 2026-08-30 10:00:15 UTC | registry-derived |
 | [cclustr](../records/r-cclustr-41baa2d2.md) | 0.1.2 | 2026-09-03 02:20:02 UTC | registry-derived |
@@ -901,6 +902,7 @@ Records: `1905`
 | [HeatStressR](../records/r-heatstressr-efbc6ad7.md) | 2.2.1 | 2026-08-07 22:00:15 UTC | registry-derived |
 | [heck](../records/r-heck-0e67e43c.md) | 0.1.7 | 2026-09-03 11:50:32 UTC | registry-derived |
 | [hellometry](../records/r-hellometry-3a63c361.md) | 1.0.1 | 2026-08-24 14:50:02 UTC | registry-derived |
+| [hierNet](../records/r-hiernet-d3f5ab45.md) | 1.10.1 | 2026-09-09 19:30:02 UTC | registry-derived |
 | [Hmisc](../records/r-hmisc-ca9e9b44.md) | 5.3-0 | 2026-09-06 12:40:02 UTC | registry-derived |
 | [hockeystick](../records/r-hockeystick-1ba5d0f4.md) | 1.0.0 | 2026-08-28 09:50:16 UTC | registry-derived |
 | [hoopR](../records/r-hoopr-96dc18c3.md) | 3.1.0 | 2026-08-25 08:00:02 UTC | registry-derived |
@@ -1157,6 +1159,7 @@ Records: `1905`
 | [rwetools](../records/r-rwetools-69d80354.md) | 0.5.0 | 2026-09-09 16:00:02 UTC | registry-derived |
 | [s2](../records/r-s2-51c95df6.md) | 1.1.12 | 2026-09-03 09:30:02 UTC | registry-derived |
 | [S3VS](../records/r-s3vs-3d49ea7c.md) | 1.1 | 2026-09-07 07:00:02 UTC | registry-derived |
+| [s7contract](../records/r-s7contract-593bf25f.md) | 0.2.3 | 2026-09-09 19:50:02 UTC | registry-derived |
 | [saeHB.Spatial.Beta](../records/r-saehb-spatial-beta-7e96c5ff.md) | 0.1.1 | 2026-08-24 16:00:02 UTC | registry-derived |
 | [saeproj.multilevel](../records/r-saeproj-multilevel-92a012c6.md) | 0.1.1 | 2026-09-07 18:30:02 UTC | registry-derived |
 | [SCCDdesign](../records/r-sccddesign-a9ee8c37.md) | 0.1.0 | 2026-09-03 12:20:22 UTC | registry-derived |
@@ -1920,6 +1923,7 @@ Records: `1905`
 | [ramchoice](../records/r-ramchoice-02e5d884.md) | 3.0.0 | 2026-09-04 06:40:10 UTC | registry-derived |
 | [rapsimng.decide.core](../records/r-rapsimng-decide-core-c432725e.md) | 0.1.0 | 2026-08-09 08:40:08 UTC | registry-derived |
 | [rchime](../records/r-rchime-c9268c48.md) | 0.1.2 | 2026-08-21 14:50:02 UTC | registry-derived |
+| [RFmstate](../records/r-rfmstate-1bc5b660.md) | 0.1.9 | 2026-09-09 18:30:02 UTC | registry-derived |
 | [RGDrivers](../records/r-rgdrivers-991c0a5d.md) | 0.1.0 | 2026-08-06 10:20:02 UTC | registry-derived |
 | [RIFanalysis](../records/r-rifanalysis-8f1ffcb3.md) | 0.9.2 | 2026-08-20 08:12:11 UTC | registry-derived |
 | [rjd3xjars](../records/r-rjd3xjars-1b26591f.md) | 0.1.2 | 2026-08-20 22:50:02 UTC | registry-derived |
@@ -2183,6 +2187,7 @@ Records: `1905`
 | [scip](../records/r-scip-092f2513.md) | 1.10.0-4 | 2026-08-30 14:10:10 UTC | registry-derived |
 | [see](../records/r-see-a2b3e480.md) | 0.14.2 | 2026-09-01 12:30:02 UTC | registry-derived |
 | [shapviz](../records/r-shapviz-d4cf00e1.md) | 0.10.4 | 2026-08-31 15:10:02 UTC | registry-derived |
+| [shinychat](../records/r-shinychat-9f43e05f.md) | 0.5.0 | 2026-09-09 18:50:02 UTC | registry-derived |
 | [shinygenui](../records/r-shinygenui-3bedacc4.md) | 0.1.0 | 2026-09-09 16:40:02 UTC | registry-derived |
 | [shinyglass](../records/r-shinyglass-ac8dcf7d.md) | 0.2.0 | 2026-08-21 05:40:42 UTC | registry-derived |
 | [SimpleUpset](../records/r-simpleupset-c56c376c.md) | 0.1.6 | 2026-09-01 15:50:02 UTC | registry-derived |
