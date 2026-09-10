@@ -9,21 +9,21 @@ Records: `608`
 ## Category Index
 
 [Api Abi Checker (232)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1030)](../by-category/build-system.md) · [Cli (587)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1030)](../by-category/build-system.md) · [Cli (588)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
-[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (137)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (138)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (976)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
 [Embedded Hardware (66)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](../by-category/image-audio-dsp.md) · [Interop Bindings (64)](../by-category/interop-bindings.md) · [Interpreter Runtime (281)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5961)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5968)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
 [Math Numeric Scientific (93)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1076)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (449)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (656)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (634)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (658)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (635)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
@@ -109,7 +109,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [aourednik/historical-basemaps](../records/maps-aourednik-historical-basemaps-c396c4ac.md) | partial | 2026-09-10T15:52:34Z | registry-derived |
+| [aourednik/historical-basemaps](../records/maps-aourednik-historical-basemaps-c396c4ac.md) | partial | 2026-09-10T19:35:07Z | registry-derived |
 | [awesome-spectral-indices/awesome-spectral-indices](../records/maps-awesome-spectral-indices-awesome-spectral-indices-817670f6.md) | partial | 2026-09-10T06:50:28Z | registry-derived |
 | [wbkd/awesome-d3](../records/maps-wbkd-awesome-d3-6bfaaabb.md) | partial | 2023-01-13T16:10:34Z | registry-derived |
 
@@ -141,7 +141,7 @@ Records: `608`
 | [osm2pgsql-dev/osm2pgsql](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) | partial | 2026-07-24T16:09:16Z | registry-derived |
 | [PostGIS](../records/maps-postgis-05acffcb.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [postgis/postgis](../records/maps-postgis-postgis-d54a38ad.md) | partial | 2026-09-09T08:39:36Z | registry-derived |
-| [RediSearch/RediSearch](../records/maps-redisearch-redisearch-ce79bff1.md) | partial | 2026-09-10T16:05:01Z | registry-derived |
+| [RediSearch/RediSearch](../records/maps-redisearch-redisearch-ce79bff1.md) | partial | 2026-09-10T19:36:49Z | registry-derived |
 | [thanglequoc/vietnamese-provinces-database](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) | partial | 2026-08-31T16:46:02Z | registry-derived |
 | [yunwei37/ZJU-CS-GIS-ClassNotes](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
@@ -194,7 +194,7 @@ Records: `608`
 | [52inc/Pulley](../records/maps-52inc-pulley-a5b376ec.md) | partial | 2024-12-03T22:49:50Z | registry-derived |
 | [ajnisbet/opentopodata](../records/maps-ajnisbet-opentopodata-c059790e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [alexbosworth/balanceofsatoshis](../records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) | partial | 2026-09-02T16:56:37Z | registry-derived |
-| [apache/calcite](../records/maps-apache-calcite-64e8faa1.md) | partial | 2026-09-10T16:21:31Z | registry-derived |
+| [apache/calcite](../records/maps-apache-calcite-64e8faa1.md) | partial | 2026-09-10T18:57:05Z | registry-derived |
 | [apache/ofbiz](../records/maps-apache-ofbiz-0fe319f9.md) | partial | 2020-04-27T06:10:43Z | registry-derived |
 | [apache/sedona](../records/maps-apache-sedona-820c9e53.md) | partial | 2026-09-10T05:55:27Z | registry-derived |
 | [artembobkin/ImmersiveMap](../records/maps-artembobkin-immersivemap-7806dbe3.md) | partial | 2026-09-09T10:22:43Z | registry-derived |
@@ -203,10 +203,10 @@ Records: `608`
 | [BigBodyCobain/Shadowbroker](../records/maps-bigbodycobain-shadowbroker-535b05ca.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [bilawalsidhu/gods-eye-view](../records/maps-bilawalsidhu-gods-eye-view-dabd39de.md) | partial | 2026-09-05T08:30:57Z | registry-derived |
 | [CesiumGS/cesium](../records/maps-cesiumgs-cesium-0b127eb9.md) | partial | 2026-09-08T09:56:54Z | registry-derived |
-| [CesiumGS/cesium-unreal](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) | partial | 2026-09-09T20:18:34Z | registry-derived |
+| [CesiumGS/cesium-unreal](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) | partial | 2026-09-10T18:25:48Z | registry-derived |
 | [cgohlke/geospatial-wheels](../records/maps-cgohlke-geospatial-wheels-6908f900.md) | partial | 2026-08-20T01:20:34Z | registry-derived |
 | [chrieke/awesome-geospatial-companies](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) | partial | 2026-07-09T02:14:59Z | registry-derived |
-| [databendlabs/databend](../records/maps-databendlabs-databend-b7f1b4ac.md) | partial | 2026-09-10T16:53:24Z | registry-derived |
+| [databendlabs/databend](../records/maps-databendlabs-databend-b7f1b4ac.md) | partial | 2026-09-10T19:44:17Z | registry-derived |
 | [deepVector/geospatial-machine-learning](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) | partial | 2018-06-21T20:04:07Z | registry-derived |
 | [dhconnelly/rtreego](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) | partial | 2024-12-20T06:54:41Z | registry-derived |
 | [e-sensing/sits](../records/maps-e-sensing-sits-4d30513a.md) | partial | 2026-08-31T09:55:57Z | registry-derived |
@@ -218,7 +218,7 @@ Records: `608`
 | [gaopengbin/geo-downloader](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) | partial | 2026-09-08T04:13:07Z | registry-derived |
 | [gboeing/osmnx-examples](../records/maps-gboeing-osmnx-examples-59da9b79.md) | partial | 2026-09-02T17:20:53Z | registry-derived |
 | [gee-community/geetools](../records/maps-gee-community-geetools-c599b5c8.md) | partial | 2026-09-02T09:07:50Z | registry-derived |
-| [GenericMappingTools/gmt](../records/maps-genericmappingtools-gmt-8b1cff73.md) | partial | 2026-09-10T03:57:57Z | registry-derived |
+| [GenericMappingTools/gmt](../records/maps-genericmappingtools-gmt-8b1cff73.md) | partial | 2026-09-10T18:11:55Z | registry-derived |
 | [geocompx/geocompr](../records/maps-geocompx-geocompr-56cd97d0.md) | partial | 2026-07-30T08:33:15Z | registry-derived |
 | [GeoNode/geonode](../records/maps-geonode-geonode-194e67ae.md) | partial | 2026-09-08T15:10:03Z | registry-derived |
 | [geopandas/geopandas](../records/maps-geopandas-geopandas-8e718954.md) | partial | 2026-09-07T07:43:37Z | registry-derived |
@@ -242,7 +242,7 @@ Records: `608`
 | [jgauchia/IceNav-v3](../records/maps-jgauchia-icenav-v3-c81aeecf.md) | partial | 2026-09-07T22:25:28Z | registry-derived |
 | [joeldev/JLRoutes](../records/maps-joeldev-jlroutes-cbfb85d7.md) | partial | 2023-02-21T14:37:00Z | registry-derived |
 | [joewdavies/awesome-frontend-gis](../records/maps-joewdavies-awesome-frontend-gis-ebb9b703.md) | partial | 2026-08-18T18:05:33Z | registry-derived |
-| [JuliaEarth/GeoStats.jl](../records/maps-juliaearth-geostats-jl-a5aee36c.md) | partial | 2026-08-27T21:04:21Z | registry-derived |
+| [JuliaEarth/GeoStats.jl](../records/maps-juliaearth-geostats-jl-a5aee36c.md) | partial | 2026-09-10T19:06:48Z | registry-derived |
 | [koopjs/koop](../records/maps-koopjs-koop-a534718e.md) | partial | 2026-04-04T10:02:47Z | registry-derived |
 | [koordinates/kart](../records/maps-koordinates-kart-e6aa0e37.md) | partial | 2026-08-23T23:23:29Z | registry-derived |
 | [kunifujiwara/VoxCity](../records/maps-kunifujiwara-voxcity-9690a86c.md) | partial | 2026-09-01T13:57:37Z | registry-derived |
@@ -281,7 +281,7 @@ Records: `608`
 | [PaddlePaddle/PaddleRS](../records/maps-paddlepaddle-paddlers-14045f54.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [paulmach/orb](../records/maps-paulmach-orb-d9946984.md) | partial | 2026-03-30T15:51:22Z | registry-derived |
 | [paulmach/osm](../records/maps-paulmach-osm-3e108fc8.md) | partial | 2026-08-14T10:53:33Z | registry-derived |
-| [pelicanmapping/osgearth](../records/maps-pelicanmapping-osgearth-e39b1113.md) | partial | 2026-09-10T16:08:16Z | registry-derived |
+| [pelicanmapping/osgearth](../records/maps-pelicanmapping-osgearth-e39b1113.md) | partial | 2026-09-10T19:51:42Z | registry-derived |
 | [PimpinPumpkin/Vela](../records/maps-pimpinpumpkin-vela-18046f7a.md) | partial | 2026-09-08T07:02:37Z | registry-derived |
 | [plant99/felicette](../records/maps-plant99-felicette-255df365.md) | partial | 2022-03-12T00:43:06Z | registry-derived |
 | [pola-rs/geopolars](../records/maps-pola-rs-geopolars-3af274f3.md) | partial | 2025-12-10T21:37:24Z | registry-derived |
@@ -374,7 +374,7 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [apache/ofbiz-framework](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) | partial | 2026-09-10T17:05:41Z | registry-derived |
+| [apache/ofbiz-framework](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) | partial | 2026-09-10T19:07:24Z | registry-derived |
 | [bryceco/GoMap](../records/maps-bryceco-gomap-1140769c.md) | partial | 2026-09-06T20:59:29Z | registry-derived |
 | [dimartarmizi/map-to-poster](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) | partial | 2026-06-06T16:19:07Z | registry-derived |
 | [eli-labz/Third-Eye](../records/maps-eli-labz-third-eye-89c57d06.md) | partial | 2026-06-13T06:29:56Z | registry-derived |
@@ -389,7 +389,7 @@ Records: `608`
 | [mesa/mesa](../records/maps-mesa-mesa-17eaaf0c.md) | partial | 2026-09-08T08:20:39Z | registry-derived |
 | [mikeroyal/Photogrammetry-Guide](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) | partial | 2025-06-27T02:10:14Z | registry-derived |
 | [nextcloud/maps](../records/maps-nextcloud-maps-88692299.md) | partial | 2026-09-06T01:55:04Z | registry-derived |
-| [opengeos/GeoLibre](../records/maps-opengeos-geolibre-d27e2918.md) | partial | 2026-09-10T06:24:41Z | registry-derived |
+| [opengeos/GeoLibre](../records/maps-opengeos-geolibre-d27e2918.md) | partial | 2026-09-10T17:44:26Z | registry-derived |
 | [openstreetmap/iD](../records/maps-openstreetmap-id-28300897.md) | partial | 2026-09-08T11:23:58Z | registry-derived |
 | [placemark/placemark](../records/maps-placemark-placemark-23f6cbdc.md) | partial | 2026-09-07T00:44:07Z | registry-derived |
 | [pnorman/openstreetmap-cartographic](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) | partial | 2021-01-24T05:46:22Z | registry-derived |
@@ -459,7 +459,7 @@ Records: `608`
 | [bitlap/geocoding](../records/maps-bitlap-geocoding-44bdf0ae.md) | partial | 2025-07-23T16:20:19Z | registry-derived |
 | [bizz84/nested-navigation-demo-flutter](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) | partial | 2023-01-11T17:32:58Z | registry-derived |
 | [bmwcarit/barefoot](../records/maps-bmwcarit-barefoot-66146078.md) | partial | 2023-04-14T17:11:38Z | registry-derived |
-| [CesiumGS/cesium](../records/maps-cesiumgs-cesium-03600c9a.md) | partial | 2026-09-10T14:43:51Z | registry-derived |
+| [CesiumGS/cesium](../records/maps-cesiumgs-cesium-03600c9a.md) | partial | 2026-09-10T20:02:28Z | registry-derived |
 | [codezero-be/laravel-localized-routes](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) | partial | 2024-03-17T22:44:54Z | registry-derived |
 | [danielemoraschi/maplace.js](../records/maps-danielemoraschi-maplace-js-5adb914c.md) | partial | 2020-05-25T22:54:13Z | registry-derived |
 | [der-stefan/OpenTopoMap](../records/maps-der-stefan-opentopomap-d1828225.md) | partial | 2026-01-29T22:24:26Z | registry-derived |
@@ -504,7 +504,7 @@ Records: `608`
 | [mousebird-consulting-inc/WhirlyGlobe](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) | partial | 2026-07-31T00:23:58Z | registry-derived |
 | [nuxt-modules/i18n](../records/maps-nuxt-modules-i18n-79eea90d.md) | partial | 2026-09-07T20:32:41Z | registry-derived |
 | [olutter/map](../records/maps-olutter-map-b3100e59.md) | partial | 2026-08-16T14:48:12Z | registry-derived |
-| [opengisch/QField](../records/maps-opengisch-qfield-f04d9b83.md) | partial | 2026-09-10T16:40:12Z | registry-derived |
+| [opengisch/QField](../records/maps-opengisch-qfield-f04d9b83.md) | partial | 2026-09-10T20:03:47Z | registry-derived |
 | [openlayers/openlayers](../records/maps-openlayers-openlayers-6d483e33.md) | partial | 2026-09-09T15:59:03Z | registry-derived |
 | [openmaptiles/openmaptiles](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) | partial | 2026-07-29T12:19:41Z | registry-derived |
 | [openstreetmap/merkaartor](../records/maps-openstreetmap-merkaartor-0547b0b6.md) | partial | 2026-06-19T20:27:06Z | registry-derived |
@@ -719,12 +719,12 @@ Records: `608`
 | [CosmiQ/solaris](../records/maps-cosmiq-solaris-c6ba877b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Esri/arcgis-python-api](../records/maps-esri-arcgis-python-api-1e7e8d6c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [gboeing/osmnx](../records/maps-gboeing-osmnx-e39532fb.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [gee-community/geemap](../records/maps-gee-community-geemap-3a2ab7d7.md) | partial | 2026-09-10T17:21:22Z | registry-derived |
+| [gee-community/geemap](../records/maps-gee-community-geemap-3a2ab7d7.md) | partial | 2026-09-10T20:17:51Z | registry-derived |
 | [GeoRetina/chat2geo](../records/maps-georetina-chat2geo-de4bfd06.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [iamtekson/Leaflet-from-basic-to-advance](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) | partial | 2025-02-01T21:37:25Z | registry-derived |
 | [jblindsay/whitebox-tools](../records/maps-jblindsay-whitebox-tools-802abb76.md) | partial | 2026-05-26T15:31:03Z | registry-derived |
 | [joewdavies/awesome-frontend-gis](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [keplergl/kepler.gl](../records/maps-keplergl-kepler-gl-672b222c.md) | partial | 2026-09-10T04:21:32Z | registry-derived |
+| [keplergl/kepler.gl](../records/maps-keplergl-kepler-gl-672b222c.md) | partial | 2026-09-10T19:32:55Z | registry-derived |
 | [mesa/mesa](../records/maps-mesa-mesa-446ed582.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [mszell/geospatialdatascience](../records/maps-mszell-geospatialdatascience-35957080.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [nejckorasa/instagram-analyzer](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) | partial | 2020-06-05T19:09:36Z | registry-derived |
@@ -758,7 +758,7 @@ Records: `608`
 | [amcharts/amcharts4](../records/maps-amcharts-amcharts4-76de220f.md) | partial | 2026-03-23T14:16:07Z | registry-derived |
 | [f5/unovis](../records/maps-f5-unovis-6e8a6849.md) | partial | 2026-09-08T06:10:38Z | registry-derived |
 | [maptiler/maptiler-geocoding-control](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) | partial | 2026-07-29T11:57:08Z | registry-derived |
-| [openglobus/openglobus](../records/maps-openglobus-openglobus-566e8f9b.md) | partial | 2026-09-10T15:42:05Z | registry-derived |
+| [openglobus/openglobus](../records/maps-openglobus-openglobus-566e8f9b.md) | partial | 2026-09-10T19:06:44Z | registry-derived |
 | [reearth/reearth-visualizer](../records/maps-reearth-reearth-visualizer-6966a648.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Turfjs/turf](../records/maps-turfjs-turf-bcfc41fa.md) | partial | 2026-09-07T19:17:44Z | registry-derived |
 | [yszhao91/cga.js](../records/maps-yszhao91-cga-js-5e6ba99c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -793,7 +793,7 @@ Records: `608`
 | [rspatial/terra](../records/maps-rspatial-terra-dbc784d1.md) | partial | 2026-09-08T17:47:17Z | registry-derived |
 | [SimonBrazell/privacy-redirect](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) | partial | 2023-09-05T18:05:25Z | registry-derived |
 | [t-rex-tileserver/t-rex](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) | partial | 2024-09-24T14:17:05Z | registry-derived |
-| [uber/h3](../records/maps-uber-h3-909abfb5.md) | partial | 2026-09-09T22:47:42Z | registry-derived |
+| [uber/h3](../records/maps-uber-h3-909abfb5.md) | partial | 2026-09-10T17:56:29Z | registry-derived |
 | [uber/h3-js](../records/maps-uber-h3-js-8f70e2d6.md) | partial | 2026-08-24T19:35:25Z | registry-derived |
 | [uber/h3-py](../records/maps-uber-h3-py-113e2f65.md) | partial | 2026-09-08T21:33:20Z | registry-derived |
 | [xeokit/xeokit-bim-viewer](../records/maps-xeokit-xeokit-bim-viewer-7fecdcf4.md) | partial | 2026-02-04T13:20:28Z | registry-derived |

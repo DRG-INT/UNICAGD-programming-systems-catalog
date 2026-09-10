@@ -9,21 +9,21 @@ Records: `656`
 ## Category Index
 
 [Api Abi Checker (232)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1030)](../by-category/build-system.md) · [Cli (587)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1030)](../by-category/build-system.md) · [Cli (588)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
-[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (137)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (138)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (976)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
 [Embedded Hardware (66)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](../by-category/image-audio-dsp.md) · [Interop Bindings (64)](../by-category/interop-bindings.md) · [Interpreter Runtime (281)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5961)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5968)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
 [Math Numeric Scientific (93)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1076)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (449)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (656)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (634)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (658)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (635)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
@@ -317,7 +317,7 @@ Records: `656`
 | [clanker-lover/spicebridge](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) | partial | 2026-04-06T23:32:53Z | registry-derived |
 | [electron-lang/electron](../records/space-maps-electron-lang-electron-98fd3718.md) | partial | 2018-08-20T19:02:31Z | registry-derived |
 | [gnudatalanguage/gdl](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) | partial | 2026-09-08T13:47:24Z | registry-derived |
-| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-10T19:09:29Z | registry-derived |
+| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-10T19:30:56Z | registry-derived |
 | [Jack-Hayes/planetquery](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) | partial | 2025-10-15T05:47:38Z | registry-derived |
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |
@@ -633,7 +633,7 @@ Records: `656`
 | [jarogumulec/perseidy](../records/space-maps-jarogumulec-perseidy-606b759b.md) | partial | 2026-08-12T07:13:34Z | registry-derived |
 | [jasonsturges/lunarphase-js](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-10T18:39:11Z | registry-derived |
+| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-10T19:43:36Z | registry-derived |
 | [JuliaAstro/SPICE.jl](../records/space-maps-juliaastro-spice-jl-78081df8.md) | partial | 2026-06-24T14:09:40Z | registry-derived |
 | [jyotisham/jyotisha](../records/space-maps-jyotisham-jyotisha-889f81ce.md) | partial | 2026-09-09T17:30:05Z | registry-derived |
 | [kaitlyndlee/AstroWebMaps](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) | partial | 2019-10-11T17:52:05Z | registry-derived |
@@ -684,7 +684,7 @@ Records: `656`
 | [saurvs/astro-rust](../records/space-maps-saurvs-astro-rust-b959f43f.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
 | [sczesla/PyAstronomy](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) | partial | 2026-06-27T22:26:51Z | registry-derived |
 | [sherpa/sherpa](../records/space-maps-sherpa-sherpa-9f2278ff.md) | partial | 2026-09-09T12:51:23Z | registry-derived |
-| [skyportal/skyportal](../records/space-maps-skyportal-skyportal-0f6b084a.md) | partial | 2026-09-10T10:43:06Z | registry-derived |
+| [skyportal/skyportal](../records/space-maps-skyportal-skyportal-0f6b084a.md) | partial | 2026-09-10T20:00:26Z | registry-derived |
 | [skypyproject/skypy](../records/space-maps-skypyproject-skypy-17100f66.md) | partial | 2026-06-22T19:20:21Z | registry-derived |
 | [smmariquit/atlas-of-my-skies](../records/space-maps-smmariquit-atlas-of-my-skies-ee81d2fb.md) | partial | 2026-09-07T02:46:29Z | registry-derived |
 | [spacetelescope/poppy](../records/space-maps-spacetelescope-poppy-ae2bd07f.md) | partial | 2026-08-26T14:23:04Z | registry-derived |

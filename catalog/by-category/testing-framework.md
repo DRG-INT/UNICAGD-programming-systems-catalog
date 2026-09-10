@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `634`
+Records: `635`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `634`
 ## Category Index
 
 [Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (66)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1500)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5961)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5968)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (634)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (635)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
@@ -225,7 +225,7 @@ Records: `634`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.40 | 2026-09-10T18:16:34.378Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.41 | 2026-09-10T19:15:16.739Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -234,7 +234,7 @@ Records: `634`
 | @stryker-mutator/core | 10.0.0 | 2026-08-14T16:51:22.686Z | [open](../records/node-js-javascript-stryker-mutator-core-931b4171.md) |
 | @stryker-mutator/util | 10.0.0 | 2026-08-14T16:50:09.663Z | [open](../records/node-js-javascript-stryker-mutator-util-0d4f0b82.md) |
 | @taiga-ui/testing | 5.23.0 | 2026-09-07T12:43:42.150Z | [open](../records/node-js-javascript-taiga-ui-testing-aedbf495.md) |
-| @tellescope/testing | 1.256.14 | 2026-09-03T21:24:22.630Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
+| @tellescope/testing | 1.256.15 | 2026-09-10T18:24:37.125Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | @testing-library/angular | 19.5.0 | 2026-09-09T19:24:10.046Z | [open](../records/node-js-javascript-testing-library-angular-00401ff1.md) |
 | @testing-library/cypress | 10.1.3 | 2026-04-29T16:38:28.373Z | [open](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) |
 | @testing-library/dom | 10.4.1 | 2025-07-27T13:23:37.151Z | [open](../records/node-js-javascript-testing-library-dom-98afebf0.md) |
@@ -334,7 +334,7 @@ Records: `634`
 | neon-testing | 3.0.1 | 2026-08-14T19:19:26.164Z | [open](../records/node-js-javascript-neon-testing-03fdcc58.md) |
 | ngx-translate-testing | 7.0.0 | 2023-06-10T12:32:20.605Z | [open](../records/node-js-javascript-ngx-translate-testing-45664b62.md) |
 | node-mocks-http | 1.18.1 | 2026-07-16T21:25:09.103Z | [open](../records/node-js-javascript-node-mocks-http-5a34d793.md) |
-| node-opcua-address-space-for-conformance-testing | 2.182.2 | 2026-09-08T21:31:44.574Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
+| node-opcua-address-space-for-conformance-testing | 2.183.0 | 2026-09-10T20:13:22.882Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | oauth2-mock-server | 9.1.0 | 2026-06-30T09:59:08.498Z | [open](../records/node-js-javascript-oauth2-mock-server-20f3c489.md) |
 | oauth2-server | 3.1.1 | 2020-07-14T18:27:11.508Z | [open](../records/node-js-javascript-oauth2-server-6670efea.md) |
 | ospec | 4.2.1 | 2024-09-02T16:24:31.235Z | [open](../records/node-js-javascript-ospec-f0172c41.md) |
@@ -510,6 +510,7 @@ Records: `634`
 | erebos-tester | 0.3.6 | 2026-09-08T19:24:55Z | [open](../records/haskell-erebos-tester-78ab693a.md) |
 | hls-test-utils | 2.15.0.0 | 2026-09-04T10:41:58Z | [open](../records/haskell-hls-test-utils-92298e45.md) |
 | keiro-test-support | 0.16.0.0 | 2026-09-08T05:23:44Z | [open](../records/haskell-keiro-test-support-e5766eee.md) |
+| megaparsec-tests | 9.8.2 | 2026-09-10T19:04:37Z | [open](../records/haskell-megaparsec-tests-029f6fff.md) |
 | polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
 | shelltestrunner | 1.11 | 2025-11-18T08:57:22Z | [open](../records/haskell-shelltestrunner-fa7b5020.md) |
 | streaming-bytestring | 0.3.4 | 2025-02-11T09:33:05Z | [open](../records/haskell-streaming-bytestring-78cfcae5.md) |
@@ -521,7 +522,7 @@ Records: `634`
 | uri-bytestring | 0.4.0.1 | 2025-04-10T16:35:16Z | [open](../records/haskell-uri-bytestring-a09e0036.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
 | yampa-test | 0.15 | 2025-02-28T06:55:50Z | [open](../records/haskell-yampa-test-2be489e4.md) |
-| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
@@ -862,7 +863,7 @@ Records: `634`
 | invertase/react-native-firebase | partial | 2026-09-10T10:37:07Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-10T10:54:33Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-10T19:48:02Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

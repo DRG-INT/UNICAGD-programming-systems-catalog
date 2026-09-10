@@ -1,6 +1,6 @@
 # Library
 
-Records: `5961`
+Records: `5968`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `5961`
 ## Category Index
 
 [Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (66)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1500)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · **[Library (5961)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · **[Library (5968)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
@@ -3024,6 +3024,7 @@ Records: `5961`
 | spCF | 0.2.1 | 2026-08-28 17:40:02 UTC | [open](../records/r-spcf-0ee968e4.md) |
 | spEDM | 1.13 | 2026-09-09 16:20:02 UTC | [open](../records/r-spedm-f8fb736e.md) |
 | sphereclust | 1.1 | 2026-09-02 18:10:03 UTC | [open](../records/r-sphereclust-e2d8f607.md) |
+| spmodel | 0.14.0 | 2026-09-10 18:40:02 UTC | [open](../records/r-spmodel-a596fec2.md) |
 | sportsR | 0.1.0 | 2026-08-26 20:20:02 UTC | [open](../records/r-sportsr-078e5fcc.md) |
 | sps | 0.7.0 | 2026-08-31 16:10:02 UTC | [open](../records/r-sps-a05fe89c.md) |
 | sreg | 2.1.0 | 2026-08-22 11:20:02 UTC | [open](../records/r-sreg-141364e5.md) |
@@ -3409,6 +3410,7 @@ Records: `5961`
 | dynamic-state | 0.3.2 | 2025-02-27T12:05:20Z | [open](../records/haskell-dynamic-state-526b4f7b.md) |
 | dyre | 0.9.2 | 2023-05-18T08:54:40Z | [open](../records/haskell-dyre-8fdf98d3.md) |
 | edge | 0.9.1.1 | 2016-09-05T19:13:24Z | [open](../records/haskell-edge-16b56910.md) |
+| effectful-core | 2.7.1.2 | 2026-09-10T19:09:18Z | [open](../records/haskell-effectful-core-7289fcb1.md) |
 | egison | 5.1.0 | 2026-07-20T10:15:28Z | [open](../records/haskell-egison-9c36bb21.md) |
 | eigen | 3.3.7.0 | 2018-12-11T20:02:00Z | [open](../records/haskell-eigen-41de740f.md) |
 | either | 5.0.3 | 2025-06-17T11:53:15Z | [open](../records/haskell-either-b932102e.md) |
@@ -3628,7 +3630,7 @@ Records: `5961`
 | hmatrix-gsl-stats | 0.4.1.8 | 2019-06-11T02:08:25Z | [open](../records/haskell-hmatrix-gsl-stats-c1835cf9.md) |
 | hnix | 0.17.0 | 2023-11-20T21:56:55Z | [open](../records/haskell-hnix-c2074b72.md) |
 | hoauth2 | 2.15.2 | 2026-08-10T05:11:12Z | [open](../records/haskell-hoauth2-37ba6e12.md) |
-| holeyexp | 0.3.0.1 | 2026-09-04T13:09:46Z | [open](../records/haskell-holeyexp-db5dc519.md) |
+| holeyexp | 0.3.0.2 | 2026-09-10T20:09:12Z | [open](../records/haskell-holeyexp-db5dc519.md) |
 | hoogle | 5.0.19.0 | 2026-01-19T20:38:58Z | [open](../records/haskell-hoogle-972b6dba.md) |
 | hoopl | 3.10.2.2 | 2017-10-29T03:38:52Z | [open](../records/haskell-hoopl-0b4ca46a.md) |
 | hOpenPGP | 3.7.1 | 2026-09-10T16:41:24Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
@@ -3772,7 +3774,7 @@ Records: `5961`
 | matrix | 0.3.6.4 | 2025-02-27T15:36:04Z | [open](../records/haskell-matrix-132e7da4.md) |
 | matterhorn | 90000.1.1 | 2025-10-08T18:54:31Z | [open](../records/haskell-matterhorn-e5eb4138.md) |
 | mega-sdist | 0.4.3.1 | 2024-03-31T04:30:41Z | [open](../records/haskell-mega-sdist-305a7674.md) |
-| megaparsec | 9.8.1 | 2026-06-23T16:03:40Z | [open](../records/haskell-megaparsec-206abe86.md) |
+| megaparsec | 9.8.2 | 2026-09-10T19:01:45Z | [open](../records/haskell-megaparsec-206abe86.md) |
 | MFlow | 0.4.6.0 | 2015-09-21T11:05:45Z | [open](../records/haskell-mflow-33331c6c.md) |
 | MicroHs | 0.16.0.0 | 2026-06-02T14:57:32Z | [open](../records/haskell-microhs-e727bfa5.md) |
 | microlens | 0.5.0.0 | 2025-09-22T02:11:05Z | [open](../records/haskell-microlens-c0ecfdc7.md) |
@@ -3866,6 +3868,9 @@ Records: `5961`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
+| pgmq-core | 0.6.0.0 | 2026-09-10T19:39:05Z | [open](../records/haskell-pgmq-core-34d8e251.md) |
+| pgmq-effectful | 0.6.0.0 | 2026-09-10T19:39:28Z | [open](../records/haskell-pgmq-effectful-762abfb0.md) |
+| pgmq-migration | 0.6.0.0 | 2026-09-10T19:39:21Z | [open](../records/haskell-pgmq-migration-ed203ec5.md) |
 | phino | 0.0.127 | 2026-09-10T16:08:54Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
@@ -3985,6 +3990,8 @@ Records: `5961`
 | secretspec | 0.20.0 | 2026-08-31T18:05:39Z | [open](../records/haskell-secretspec-dd9d987d.md) |
 | sectile | 0.1.0.0 | 2026-09-08T17:29:19Z | [open](../records/haskell-sectile-00259ea8.md) |
 | securemem | 0.1.10 | 2018-02-27T05:39:40Z | [open](../records/haskell-securemem-eb519253.md) |
+| seihou-core | 0.8.0.0 | 2026-09-10T20:07:53Z | [open](../records/haskell-seihou-core-e40f5cc9.md) |
+| seihou-okf-extension | 0.8.0.0 | 2026-09-10T20:08:32Z | [open](../records/haskell-seihou-okf-extension-b92da37d.md) |
 | selda | 0.5.2.1 | 2026-01-08T08:33:45Z | [open](../records/haskell-selda-c29bd3d4.md) |
 | semigroupoids | 6.0.2 | 2026-01-10T20:49:26Z | [open](../records/haskell-semigroupoids-ec3e2df3.md) |
 | semigroups | 0.20.1 | 2026-01-10T20:32:00Z | [open](../records/haskell-semigroups-1dd26ce3.md) |
@@ -4223,19 +4230,19 @@ Records: `5961`
 | yesod-dsl | 0.2.1 | 2016-01-03T10:57:32Z | [open](../records/haskell-yesod-dsl-b95826c9.md) |
 | yesod-fay | 0.10.0 | 2019-04-30T00:27:42Z | [open](../records/haskell-yesod-fay-4ac10525.md) |
 | yesod-form | 1.7.11 | 2026-07-29T16:00:00Z | [open](../records/haskell-yesod-form-9c06a755.md) |
-| yesod-markdown | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
-| yesod-persistent | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-persistent-425557b9.md) |
-| yesod-platform | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-platform-cc0166b2.md) |
-| yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
-| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
-| Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
+| yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
+| yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
+| yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
+| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| Z-Data | 2.0.1.0 | 2024-06-28T09:55:36Z | [open](../records/haskell-z-data-ad2a6ebb.md) |
+| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4295,7 +4302,7 @@ Records: `5961`
 | badges | 3.2.0 | 2026-04-10T00:28:09.349737Z | [open](../records/dart-badges-d4d2fe6d.md) |
 | barcode | 2.2.9 | 2025-01-25T21:17:30.962523Z | [open](../records/dart-barcode-1c5f21aa.md) |
 | bluetooth_low_energy | 6.2.1 | 2026-01-17T14:25:31.973541Z | [open](../records/dart-bluetooth-low-energy-8c54f975.md) |
-| camera_android_camerax | 0.7.4+7 | 2026-08-28T04:08:18.851688Z | [open](../records/dart-camera-android-camerax-5a28610b.md) |
+| camera_android_camerax | 0.7.4+8 | 2026-09-10T18:28:08.924418Z | [open](../records/dart-camera-android-camerax-5a28610b.md) |
 | characters | 1.4.1 | 2025-06-25T15:56:32.563783Z | [open](../records/dart-characters-0ae9b5fc.md) |
 | cloud_functions | 6.4.0 | 2026-08-24T13:43:11.758042Z | [open](../records/dart-cloud-functions-90b8a5bd.md) |
 | copy_with_extension | 17.1.0 | 2026-08-31T19:38:07.619098Z | [open](../records/dart-copy-with-extension-01597e57.md) |
@@ -4462,7 +4469,7 @@ Records: `5961`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-10T19:12:46Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-10T20:17:41Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4476,7 +4483,7 @@ Records: `5961`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-10T18:13:57Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-10T20:18:35Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4768,7 +4775,7 @@ Records: `5961`
 | assetic-php/assetic | partial | 2026-08-14T19:53:47Z | [open](../records/assets-assetic-php-assetic-8cd8ecc8.md) |
 | AssetRipper/AssetRipper.TextureDecoder | partial | 2026-08-23T20:53:43Z | [open](../records/assets-assetripper-assetripper-texturedecoder-8187a50f.md) |
 | beizhedenglong/weird-fonts | partial | 2019-05-22T13:30:26Z | [open](../records/assets-beizhedenglong-weird-fonts-065d7383.md) |
-| bestpractical/rt | partial | 2026-09-10T17:16:18Z | [open](../records/assets-bestpractical-rt-8129d040.md) |
+| bestpractical/rt | partial | 2026-09-10T18:54:06Z | [open](../records/assets-bestpractical-rt-8129d040.md) |
 | bluwy/svelte-preprocess-import-assets | partial | 2026-05-15T00:23:17Z | [open](../records/assets-bluwy-svelte-preprocess-import-assets-0e5b89b7.md) |
 | brightdigit/Speculid | partial | 2025-06-23T06:45:02Z | [open](../records/assets-brightdigit-speculid-c90bd3d1.md) |
 | chenjie1219/cartool | partial | 2019-01-14T09:45:33Z | [open](../records/assets-chenjie1219-cartool-95f8ff66.md) |
@@ -4777,7 +4784,7 @@ Records: `5961`
 | coollabsio/fonts | partial | 2026-01-16T18:37:01Z | [open](../records/assets-coollabsio-fonts-296495e3.md) |
 | DataGerry/DataGerry | partial | 2026-09-10T13:31:45Z | [open](../records/assets-datagerry-datagerry-dd6aa820.md) |
 | Draneria/Metallics-by-Draneria_Krita-Brushes | partial | 2025-04-13T11:54:36Z | [open](../records/assets-draneria-metallics-by-draneria-krita-brushes-e6965ee3.md) |
-| edmozley/freeitsm | partial | 2026-09-10T16:55:40Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
+| edmozley/freeitsm | partial | 2026-09-10T19:18:45Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
 | EliteQuant/EliteQuant | partial | 2024-06-15T16:17:39Z | [open](../records/assets-elitequant-elitequant-ccb04f35.md) |
 | ErfanMo77/gltf-research-scenes | partial | 2026-08-31T21:53:42Z | [open](../records/assets-erfanmo77-gltf-research-scenes-9419053a.md) |
 | expo/google-fonts | partial | 2026-09-10T10:23:12Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
@@ -4785,7 +4792,7 @@ Records: `5961`
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-09-09T17:49:08Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-10T15:21:48Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-10T17:56:53Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-09T13:42:49Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4861,7 +4868,7 @@ Records: `5961`
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-10T14:43:51Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-10T20:02:28Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -4906,7 +4913,7 @@ Records: `5961`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-07T20:32:41Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-10T16:40:12Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-10T20:03:47Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-09T15:59:03Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
@@ -5716,7 +5723,7 @@ Records: `5961`
 | garrrikkotua/morningly | partial | 2023-07-26T10:37:40Z | [open](../records/magazines-garrrikkotua-morningly-39d4abf3.md) |
 | gillkyle/sol-journal | partial | 2024-07-24T19:25:37Z | [open](../records/magazines-gillkyle-sol-journal-6ee29f50.md) |
 | GitJournal/GitJournal | partial | 2026-05-26T13:49:39Z | [open](../records/magazines-gitjournal-gitjournal-ce79e461.md) |
-| jrnl-org/jrnl | partial | 2026-09-09T10:15:40Z | [open](../records/magazines-jrnl-org-jrnl-0d464a95.md) |
+| jrnl-org/jrnl | partial | 2026-09-10T18:31:55Z | [open](../records/magazines-jrnl-org-jrnl-0d464a95.md) |
 | kotlin-magazine/kotlin-magazine | partial | 2024-05-22T17:41:30Z | [open](../records/magazines-kotlin-magazine-kotlin-magazine-07c7909d.md) |
 | lcomplete/TechShare | partial | 2026-04-02T16:58:06Z | [open](../records/magazines-lcomplete-techshare-7971ab4d.md) |
 | lelong37/msdn-spa-primer | partial | 2018-03-02T08:19:32Z | [open](../records/magazines-lelong37-msdn-spa-primer-c79ae5bd.md) |
@@ -5994,7 +6001,7 @@ Records: `5961`
 | diego-izurieta/address-manager | partial | 2021-03-31T21:21:50Z | [open](../records/sapjava-diego-izurieta-address-manager-3c30118e.md) |
 | EDISONGIRAL/SAP | partial | 2016-09-09T01:23:27Z | [open](../records/sapjava-edisongiral-sap-0a7ac231.md) |
 | fercasloz/sap_cap_java_btp | partial | 2026-01-08T15:09:52Z | [open](../records/sapjava-fercasloz-sap-cap-java-btp-2d3fcc7a.md) |
-| goranschwarz/DbxTune | partial | 2026-09-04T14:11:57Z | [open](../records/sapjava-goranschwarz-dbxtune-836827b4.md) |
+| goranschwarz/DbxTune | partial | 2026-09-08T15:59:40Z | [open](../records/sapjava-goranschwarz-dbxtune-836827b4.md) |
 | gregorwolf/sap-cloud-sdk-java | partial | 2021-02-12T09:02:48Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-java-f9365671.md) |
 | gregorwolf/sap-cloud-sdk-rfc | partial | 2024-04-02T20:26:31Z | [open](../records/sapjava-gregorwolf-sap-cloud-sdk-rfc-4bcdf9e3.md) |
 | gyotro/SAP_CAP_Java_POC | partial | 2026-06-22T06:53:29Z | [open](../records/sapjava-gyotro-sap-cap-java-poc-02d05a37.md) |

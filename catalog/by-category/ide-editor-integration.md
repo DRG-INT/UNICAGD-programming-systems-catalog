@@ -9,21 +9,21 @@ Records: `1500`
 ## Category Index
 
 [Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (66)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1500)](ide-editor-integration.md)**
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5961)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5968)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
@@ -833,7 +833,7 @@ Records: `1500`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-10T17:05:41Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-10T19:07:24Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-06T20:59:29Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -848,7 +848,7 @@ Records: `1500`
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-06T01:55:04Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-10T06:24:41Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-10T17:44:26Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-08T11:23:58Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -1622,7 +1622,7 @@ Records: `1500`
 | advaitsfit/incident-management-cap-java | partial | 2026-07-20T04:48:38Z | [open](../records/sapjava-advaitsfit-incident-management-cap-java-09a797bb.md) |
 | Arthur-Liu-boop/CAP_JAVA | partial | 2025-05-16T04:17:54Z | [open](../records/sapjava-arthur-liu-boop-cap-java-aa3196a2.md) |
 | cabralbrcwb/incident-management | partial | 2025-09-10T09:46:47Z | [open](../records/sapjava-cabralbrcwb-incident-management-70ceff1c.md) |
-| cap-java/cds-ai | partial | 2026-09-03T07:34:28Z | [open](../records/sapjava-cap-java-cds-ai-9b69a547.md) |
+| cap-java/cds-ai | partial | 2026-09-10T07:34:18Z | [open](../records/sapjava-cap-java-cds-ai-9b69a547.md) |
 | ckyycc/hana-topology-editor | partial | 2022-05-20T21:14:52Z | [open](../records/sapjava-ckyycc-hana-topology-editor-d8045f61.md) |
 | com.sap.cds:cds-feature-identity | 3.10.1 | 2025-05-16T11:26:35+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-identity-d9b992ff.md) |
 | jcombs-pointblue/SAP_Hana_Collector | partial | 2026-04-23T15:34:24Z | [open](../records/sapjava-jcombs-pointblue-sap-hana-collector-17b6fe41.md) |
@@ -1722,7 +1722,7 @@ Records: `1500`
 | drawdb-io/drawdb | partial | 2026-09-06T13:08:11Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
 | dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | ebogdum/callfs | partial | 2026-09-05T07:32:30Z | [open](../records/databases-ebogdum-callfs-c43437b9.md) |
-| facebook/rocksdb | partial | 2026-09-10T02:34:35Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
+| facebook/rocksdb | partial | 2026-09-10T19:21:27Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
 | firebolt-db/firebolt-core | partial | 2026-09-07T06:43:42Z | [open](../records/databases-firebolt-db-firebolt-core-79afc996.md) |
 | freakmaxi/kertish-dos | partial | 2024-12-15T20:29:43Z | [open](../records/databases-freakmaxi-kertish-dos-06018bc3.md) |
 | fuzhengwei/CodeGuide | partial | 2026-09-06T00:49:50Z | [open](../records/databases-fuzhengwei-codeguide-a9f99769.md) |
