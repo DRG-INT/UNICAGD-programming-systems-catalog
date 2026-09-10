@@ -32,7 +32,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T21:43:46Z | gh search repos topic:visual-effects stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T21:40:07Z | gh search repos topic:visual-effects stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

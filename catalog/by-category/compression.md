@@ -139,7 +139,7 @@ Records: `53`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| xiph/opus | partial | 2026-09-10T18:31:37Z | [open](../records/audio-xiph-opus-720976ad.md) |
+| xiph/opus | partial | 2026-09-10T21:00:09Z | [open](../records/audio-xiph-opus-720976ad.md) |
 
 ## Video
 

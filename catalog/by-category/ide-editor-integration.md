@@ -948,7 +948,7 @@ Records: `1502`
 | butterw/bShaders | partial | 2024-01-19T09:58:45Z | [open](../records/effects-butterw-bshaders-5be42b88.md) |
 | cpichard/usdtweak | partial | 2026-08-09T08:57:01Z | [open](../records/effects-cpichard-usdtweak-06bd7b2b.md) |
 | crazylafo/AE_tl_math | partial | 2022-06-13T16:06:40Z | [open](../records/effects-crazylafo-ae-tl-math-db7f2588.md) |
-| crosire/reshade | partial | 2026-09-10T18:53:42Z | [open](../records/effects-crosire-reshade-1e232ae5.md) |
+| crosire/reshade | partial | 2026-09-10T20:12:45Z | [open](../records/effects-crosire-reshade-1e232ae5.md) |
 | doceazedo/sprinkles | partial | 2026-09-08T21:08:20Z | [open](../records/effects-doceazedo-sprinkles-1945cae5.md) |
 | ealtun21/resonance | partial | 2026-07-26T18:16:21Z | [open](../records/effects-ealtun21-resonance-5300cab0.md) |
 | erikbuck/RealTimeGreenScreen | partial | 2022-01-13T17:16:07Z | [open](../records/effects-erikbuck-realtimegreenscreen-3c7fb432.md) |
@@ -1031,7 +1031,7 @@ Records: `1502`
 | --- | --- | --- | --- |
 | 0voice/audio_video_streaming | partial | 2024-05-20T12:07:00Z | [open](../records/video-0voice-audio-video-streaming-bf7a47cf.md) |
 | 26hzhang/OptimizedImageEnhance | partial | 2019-05-15T05:53:26Z | [open](../records/video-26hzhang-optimizedimageenhance-6fceaaba.md) |
-| 4gray/iptvnator | partial | 2026-09-10T21:06:47Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
+| 4gray/iptvnator | partial | 2026-09-10T22:24:59Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
 | aandrew-me/ytDownloader | partial | 2026-09-02T18:29:51Z | [open](../records/video-aandrew-me-ytdownloader-cd56d660.md) |
 | AaronFeng753/Waifu2x-Extension-GUI | partial | 2026-09-05T06:55:06Z | [open](../records/video-aaronfeng753-waifu2x-extension-gui-26771eef.md) |
 | abhiTronix/vidgear | partial | 2026-05-18T07:11:58Z | [open](../records/video-abhitronix-vidgear-c204bb6d.md) |
@@ -1045,7 +1045,7 @@ Records: `1502`
 | bacalhau-project/bacalhau | partial | 2026-09-10T02:23:53Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
 | baresip/baresip | partial | 2026-09-04T12:11:09Z | [open](../records/video-baresip-baresip-c8033746.md) |
 | bennyhuo/Kotlin-Tutorials | partial | 2023-11-03T08:45:12Z | [open](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
-| bigbluebutton/bigbluebutton | partial | 2026-09-10T21:52:50Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
+| bigbluebutton/bigbluebutton | partial | 2026-09-10T23:07:33Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
 | bilibili/ijkplayer | partial | 2024-08-13T00:53:33Z | [open](../records/video-bilibili-ijkplayer-8848a788.md) |
 | bitmovin/bitmovin-go | partial | 2023-11-14T16:23:04Z | [open](../records/video-bitmovin-bitmovin-go-8058d465.md) |
 | bloc97/Anime4K | partial | 2024-08-17T12:09:12Z | [open](../records/video-bloc97-anime4k-cec365ea.md) |
@@ -1192,7 +1192,7 @@ Records: `1502`
 | slhck/ffmpeg-debug-qp | partial | 2026-03-30T17:42:41Z | [open](../records/video-slhck-ffmpeg-debug-qp-2bc35782.md) |
 | SonarSonic/DrawingBotV3 | partial | 2025-10-08T21:39:54Z | [open](../records/video-sonarsonic-drawingbotv3-bca9e66c.md) |
 | ssrajadh/sentrysearch | partial | 2026-08-22T23:50:58Z | [open](../records/video-ssrajadh-sentrysearch-070f03c9.md) |
-| stashapp/stash | partial | 2026-09-10T18:58:19Z | [open](../records/video-stashapp-stash-6bcbde4a.md) |
+| stashapp/stash | partial | 2026-09-10T22:53:36Z | [open](../records/video-stashapp-stash-6bcbde4a.md) |
 | stax76/software-list | partial | 2025-11-26T13:36:04Z | [open](../records/video-stax76-software-list-1153b43f.md) |
 | staxrip/staxrip | partial | 2026-08-08T14:32:58Z | [open](../records/video-staxrip-staxrip-0ddb22b0.md) |
 | staxrip/x265-encoding-tutorial | partial | 2022-08-30T13:24:58Z | [open](../records/video-staxrip-x265-encoding-tutorial-b24fb7ae.md) |
@@ -1555,7 +1555,7 @@ Records: `1502`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-08T20:13:05Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-08T18:54:19Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-10T22:27:04Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

@@ -114,7 +114,7 @@ Records: `112`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Graphify-Labs/graphify | partial | 2026-09-10T14:39:26Z | [open](../records/aim-s-graphify-labs-graphify-c1b23909.md) |
+| Graphify-Labs/graphify | partial | 2026-09-10T22:35:09Z | [open](../records/aim-s-graphify-labs-graphify-c1b23909.md) |
 
 ## nix
 
