@@ -12,10 +12,10 @@ Records: `494`
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
@@ -236,8 +236,8 @@ Records: `494`
 | @toolbox-sdk/server | 1.10.0 | 2026-08-28T22:23:29.204Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
 | @transcend-io/mcp-server-admin | 1.0.2 | 2026-09-09T17:29:42.270Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
 | @transcend-io/mcp-server-assessment | 2.0.1 | 2026-09-09T17:30:36.776Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-consent | 0.9.6 | 2026-09-03T19:27:15.694Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | 0.5.30 | 2026-09-03T19:27:15.450Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-consent | 1.0.2 | 2026-09-09T17:29:42.474Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-discovery | 1.0.2 | 2026-09-09T17:29:41.863Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @transcend-io/mcp-server-dsr | 1.0.2 | 2026-09-09T17:29:42.082Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | @transcend-io/mcp-server-inventory | 1.0.2 | 2026-09-09T17:29:41.886Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
 | @transcend-io/mcp-server-preferences | 0.7.3 | 2026-09-08T20:42:57.384Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
@@ -265,7 +265,7 @@ Records: `494`
 | @winor30/mcp-server-datadog | 1.8.0 | 2026-06-22T12:19:38.392Z | [open](../records/node-js-javascript-winor30-mcp-server-datadog-d7ec44ca.md) |
 | @zenstackhq/server | 3.9.3 | 2026-08-31T13:33:45.418Z | [open](../records/node-js-javascript-zenstackhq-server-99bce111.md) |
 | apollo-server-module-graphiql | 1.4.0 | 2018-07-13T18:46:58.732Z | [open](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
-| appium-uiautomator2-server | 10.6.4 | 2026-09-05T03:34:08.018Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
+| appium-uiautomator2-server | 10.6.5 | 2026-09-10T06:11:23.667Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | chrome-devtools-mcp | 1.9.0 | 2026-09-08T09:53:29.850Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
 | code-server | 4.136.2 | 2026-09-08T20:00:36.438Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
 | decap-server | 3.11.1 | 2026-09-08T09:24:10.108Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |

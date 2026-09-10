@@ -12,10 +12,10 @@ Records: `629`
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
@@ -177,7 +177,7 @@ Records: `629`
 | @iabtechlabtcf/testing | 1.5.22 | 2026-09-01T18:14:14.773Z | [open](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) |
 | @inngest/test | 1.0.0 | 2026-03-25T14:11:16.511Z | [open](../records/node-js-javascript-inngest-test-8b100cd2.md) |
 | @inquirer/testing | 3.3.13 | 2026-09-07T17:56:43.708Z | [open](../records/node-js-javascript-inquirer-testing-6655503f.md) |
-| @iobroker/testing | 6.2.0 | 2026-09-09T22:20:18.184Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
+| @iobroker/testing | 6.2.1 | 2026-09-10T05:38:24.027Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | @japa/runner | 5.3.0 | 2026-01-17T08:07:46.880Z | [open](../records/node-js-javascript-japa-runner-e5c110c3.md) |
 | @jest-mock/express | 3.0.0 | 2025-02-03T20:48:41.468Z | [open](../records/node-js-javascript-jest-mock-express-619dafe1.md) |
 | @jest/core | 30.5.1 | 2026-09-01T08:02:41.823Z | [open](../records/node-js-javascript-jest-core-a19c88f3.md) |
@@ -223,7 +223,7 @@ Records: `629`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.35 | 2026-09-10T05:09:59.390Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.36 | 2026-09-10T05:50:24.154Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -554,7 +554,7 @@ Records: `629`
 | Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
 | quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | partial | 2026-09-01T20:28:29Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 

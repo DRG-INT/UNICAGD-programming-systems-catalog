@@ -12,10 +12,10 @@ Records: `1921`
 [Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1029)](../by-category/build-system.md) · [Cli (585)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
+[Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
 [Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1664)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1496)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5928)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
@@ -121,7 +121,7 @@ Records: `1921`
 | [ggalttext](../records/r-ggalttext-f7b926ad.md) | 0.4.0 | 2026-08-31 20:00:02 UTC | registry-derived |
 | [gloBFPr](../records/r-globfpr-d4e046b7.md) | 2.0.0 | 2026-09-04 06:20:02 UTC | registry-derived |
 | [goodpractice](../records/r-goodpractice-b188b70b.md) | 1.2.0 | 2026-08-31 18:40:08 UTC | registry-derived |
-| [manynet](../records/r-manynet-be0b5f68.md) | 2.3.1 | 2026-08-28 14:30:02 UTC | registry-derived |
+| [manynet](../records/r-manynet-be0b5f68.md) | 2.3.4 | 2026-09-10 06:20:02 UTC | registry-derived |
 | [PRISMA2020](../records/r-prisma2020-99359283.md) | 1.1.5 | 2026-09-05 22:20:02 UTC | registry-derived |
 | [Rapp](../records/r-rapp-62bff978.md) | 0.4.1 | 2026-08-24 19:50:02 UTC | registry-derived |
 | [rKraken](../records/r-rkraken-901a4ba1.md) | 1.0.0 | 2026-08-04 09:40:08 UTC | registry-derived |

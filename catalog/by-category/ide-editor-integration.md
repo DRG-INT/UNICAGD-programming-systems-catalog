@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1495`
+Records: `1496`
 
 ## Navigation
 
@@ -12,10 +12,10 @@ Records: `1495`
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1495)](ide-editor-integration.md)**
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1496)](ide-editor-integration.md)**
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
@@ -581,7 +581,7 @@ Records: `1495`
 | amplify_auth_cognito | 2.15.0 | 2026-08-19T12:00:36.613863Z | [open](../records/dart-amplify-auth-cognito-29e1400a.md) |
 | amplify_storage_s3 | 2.15.0 | 2026-08-19T11:56:06.433476Z | [open](../records/dart-amplify-storage-s3-16e3df4b.md) |
 | animated_size_and_fade | 5.1.1 | 2025-02-13T21:38:02.102321Z | [open](../records/dart-animated-size-and-fade-15eb5f44.md) |
-| better_player | 1.6.0 | 2026-09-08T15:44:32.061557Z | [open](../records/dart-better-player-084ef311.md) |
+| better_player | 1.7.0 | 2026-09-09T11:32:06.991086Z | [open](../records/dart-better-player-084ef311.md) |
 | better_player_plus | 1.4.1 | 2026-09-04T06:49:12.361511Z | [open](../records/dart-better-player-plus-f2e721c7.md) |
 | blurhash_dart | 1.2.1 | 2023-02-04T18:12:38.723765Z | [open](../records/dart-blurhash-dart-d4cabd9f.md) |
 | camera | 0.12.1 | 2026-09-03T15:28:41.235977Z | [open](../records/dart-camera-01cb47c6.md) |
@@ -690,11 +690,11 @@ Records: `1495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlexsJones/llmfit | partial | 2026-09-09T20:31:48Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-10T05:20:20Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| AlexsJones/llmfit | partial | 2026-09-10T06:05:27Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
+| can1357/oh-my-pi | partial | 2026-09-10T05:25:54Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-10T02:19:54Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-10T05:20:32Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-10T06:17:17Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-10T04:07:08Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-10T02:03:29Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1578,6 +1578,7 @@ Records: `1495`
 | laravel/dusk | unknown | packagist_package_metadata_missing | [open](../records/php-laravel-dusk-593038fb.md) |
 | league/glide | unknown | packagist_package_metadata_missing | [open](../records/php-league-glide-b588a7f3.md) |
 | liip/functional-test-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-liip-functional-test-bundle-ec513120.md) |
+| n0nag0n/simple-job-queue | unknown | packagist_package_metadata_missing | [open](../records/php-n0nag0n-simple-job-queue-62838c81.md) |
 | nette/http | unknown | packagist_package_metadata_missing | [open](../records/php-nette-http-330045c5.md) |
 | opensoft/doctrine-postgres-types | unknown | packagist_package_metadata_missing | [open](../records/php-opensoft-doctrine-postgres-types-1f091a98.md) |
 | psr/http-server-handler | unknown | packagist_package_metadata_missing | [open](../records/php-psr-http-server-handler-72848de9.md) |
