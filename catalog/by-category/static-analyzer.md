@@ -809,7 +809,7 @@ Records: `643`
 | --- | --- | --- | --- |
 | emanemad-dev/ux-review-website | partial | 2026-01-05T11:07:47Z | [open](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | Lifailon/lazyjournal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lifailon-lazyjournal-28d8daea.md) |
-| massimoaria/bibliometrix | partial | 2026-09-08T07:48:38Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
+| massimoaria/bibliometrix | partial | 2026-09-10T07:18:22Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
 | TalEliyahu/awesome-security-newsletters | partial | 2026-07-26T07:35:03Z | [open](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
 
 ## Assembly

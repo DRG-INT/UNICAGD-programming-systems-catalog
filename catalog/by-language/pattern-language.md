@@ -221,7 +221,7 @@ Records: `146`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [faif/python-patterns](../records/pattern-language-faif-python-patterns-7e2d4e06.md) | partial | 2026-09-04T14:36:32Z | registry-derived |
+| [faif/python-patterns](../records/pattern-language-faif-python-patterns-7e2d4e06.md) | partial | 2026-09-10T09:10:08Z | registry-derived |
 | [mercari/ml-system-design-pattern](../records/pattern-language-mercari-ml-system-design-pattern-049b4bc1.md) | partial | 2021-10-07T21:57:44Z | registry-derived |
 | [msaroufim/ml-design-patterns](../records/pattern-language-msaroufim-ml-design-patterns-36f5df60.md) | partial | 2022-06-29T00:50:58Z | registry-derived |
 | [Sairyss/domain-driven-hexagon](../records/pattern-language-sairyss-domain-driven-hexagon-1157f04a.md) | partial | 2024-06-11T05:47:51Z | registry-derived |

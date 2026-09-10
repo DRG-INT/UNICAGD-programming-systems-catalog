@@ -57,7 +57,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-06 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sdr stars:>100", "retrieved": "2026-09-06", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sdr stars:>100", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
 
 </details>
 

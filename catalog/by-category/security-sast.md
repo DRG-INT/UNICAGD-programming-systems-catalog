@@ -393,7 +393,7 @@ Records: `338`
 | --- | --- | --- | --- |
 | githubsatelliteworkshops/codeql | partial | 2024-09-27T17:37:57Z | [open](../records/satcom-satellites-githubsatelliteworkshops-codeql-9d99324c.md) |
 | ine-labs/ORBITAL-EXPLOIT | partial | 2026-08-29T13:03:04Z | [open](../records/satcom-satellites-ine-labs-orbital-exploit-553262d7.md) |
-| nasa/CryptoLib | partial | 2026-08-31T19:23:01Z | [open](../records/satcom-satellites-nasa-cryptolib-c1148d25.md) |
+| nasa/CryptoLib | partial | 2026-09-09T20:33:34Z | [open](../records/satcom-satellites-nasa-cryptolib-c1148d25.md) |
 | Peco602/awesome-space-security | partial | 2024-07-23T07:30:53Z | [open](../records/satcom-satellites-peco602-awesome-space-security-600d05c6.md) |
 | PentHertz/RF-Swift | partial | 2026-09-05T23:13:43Z | [open](../records/satcom-satellites-penthertz-rf-swift-0cf96f11.md) |
 
@@ -417,7 +417,7 @@ Records: `338`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | GoogleCloudPlatform/bigquery-data-lineage | partial | 2024-06-03T01:17:51Z | [open](../records/catalogs-googlecloudplatform-bigquery-data-lineage-32b670fd.md) |
-| lakekeeper/lakekeeper | partial | 2026-09-09T22:03:08Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-10T03:18:45Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
 | OpenSSF Scorecard | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
 
 ## Magazines

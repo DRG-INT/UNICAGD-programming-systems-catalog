@@ -39,9 +39,9 @@ as part of low-noise code review, style consistency, and automation-friendly edi
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

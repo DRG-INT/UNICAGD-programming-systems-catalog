@@ -34,7 +34,7 @@ chain review, vulnerability detection, and release gate enforcement.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-08-31T19:23:01Z | gh search repos topic:ccsds stars:>5 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-09T20:33:34Z | gh search repos topic:ccsds stars:>5 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -59,7 +59,7 @@ chain review, vulnerability detection, and release gate enforcement.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-06 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:ccsds stars:>5", "retrieved": "2026-09-06", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:ccsds stars:>5", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
 
 </details>
 

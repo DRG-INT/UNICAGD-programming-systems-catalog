@@ -113,7 +113,7 @@ Records: `311`
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
-| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-10T00:10:08Z | registry-derived |
+| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-10T08:37:22Z | registry-derived |
 
 ### Data Science
 
@@ -439,7 +439,7 @@ Records: `311`
 | --- | --- | --- | --- |
 | [emanemad-dev/ux-review-website](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) | partial | 2026-01-05T11:07:47Z | registry-derived |
 | [Lifailon/lazyjournal](../records/magazines-lifailon-lazyjournal-28d8daea.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [massimoaria/bibliometrix](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) | partial | 2026-09-08T07:48:38Z | registry-derived |
+| [massimoaria/bibliometrix](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) | partial | 2026-09-10T07:18:22Z | registry-derived |
 | [TalEliyahu/awesome-security-newsletters](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) | partial | 2026-07-26T07:35:03Z | registry-derived |
 
 ### Testing Framework
@@ -526,7 +526,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [brandonp2412/Quitter](../records/magazines-brandonp2412-quitter-639e86aa.md) | partial | 2026-09-09T09:39:12Z | registry-derived |
+| [brandonp2412/Quitter](../records/magazines-brandonp2412-quitter-639e86aa.md) | partial | 2026-09-10T07:56:02Z | registry-derived |
 | [krrishd/write](../records/magazines-krrishd-write-37bef373.md) | partial | 2018-03-12T19:56:25Z | registry-derived |
 
 ### Web Framework

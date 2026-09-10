@@ -732,7 +732,7 @@ Records: `604`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| brandonp2412/Quitter | partial | 2026-09-09T09:39:12Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
+| brandonp2412/Quitter | partial | 2026-09-10T07:56:02Z | [open](../records/magazines-brandonp2412-quitter-639e86aa.md) |
 | krrishd/write | partial | 2018-03-12T19:56:25Z | [open](../records/magazines-krrishd-write-37bef373.md) |
 
 ## Assembly

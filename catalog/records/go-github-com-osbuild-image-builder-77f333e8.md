@@ -40,7 +40,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-3 |
+| Evidence | {"key": "", "name": "", "url": ""}; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Other |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

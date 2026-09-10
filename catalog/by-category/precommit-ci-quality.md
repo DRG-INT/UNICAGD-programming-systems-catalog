@@ -424,7 +424,7 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | gnuradio/gr-etcetera | partial | 2026-09-04T00:58:16Z | [open](../records/satcom-satellites-gnuradio-gr-etcetera-409b714d.md) |
-| merbanan/rtl_433 | partial | 2026-09-06T19:50:35Z | [open](../records/satcom-satellites-merbanan-rtl-433-79075e21.md) |
+| merbanan/rtl_433 | partial | 2026-09-07T10:38:47Z | [open](../records/satcom-satellites-merbanan-rtl-433-79075e21.md) |
 | onticsoluciones/RFMap | partial | 2017-12-03T05:47:18Z | [open](../records/satcom-satellites-onticsoluciones-rfmap-2b26a6f1.md) |
 
 ## Electromagnetoscopes

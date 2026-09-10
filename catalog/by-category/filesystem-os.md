@@ -1473,13 +1473,13 @@ Records: `1664`
 | antonjan/gnuradio-grc-examples | partial | 2022-09-02T07:17:09Z | [open](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) |
 | aweeri/TLEscope | partial | 2026-09-01T16:22:42Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) |
-| EttusResearch/uhd | partial | 2026-09-03T15:08:07Z | [open](../records/satcom-satellites-ettusresearch-uhd-fe8ed911.md) |
+| EttusResearch/uhd | partial | 2026-09-08T09:39:03Z | [open](../records/satcom-satellites-ettusresearch-uhd-fe8ed911.md) |
 | ExoSpaceLabs/CCSDSPack | partial | 2026-08-31T11:30:37Z | [open](../records/satcom-satellites-exospacelabs-ccsdspack-0508282a.md) |
 | fosfor15/SatCommSystem-QPSK-OFDM-LSEstimation-TransionosphericChannel | partial | 2025-01-26T20:32:20Z | [open](../records/satcom-satellites-fosfor15-satcommsystem-qpsk-ofdm-lsestimation-transionosphericchannel-8a655336.md) |
 | ghostop14/gr-clenabled | partial | 2022-11-06T20:54:18Z | [open](../records/satcom-satellites-ghostop14-gr-clenabled-79a1c383.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/satcom-satellites-gnuradio-gnuradio-28a3e264.md) |
 | gnuradio/gr-recipes | partial | 2026-03-24T20:21:21Z | [open](../records/satcom-satellites-gnuradio-gr-recipes-b5cf9712.md) |
-| greatscottgadgets/hackrf | partial | 2026-09-03T15:05:08Z | [open](../records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) |
+| greatscottgadgets/hackrf | partial | 2026-09-10T09:22:08Z | [open](../records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) |
 | IgrikXD/Easy-SDR | partial | 2026-03-14T18:35:50Z | [open](../records/satcom-satellites-igrikxd-easy-sdr-1c720f8c.md) |
 | inigodelportillo/ITU-Rpy | partial | 2026-07-26T23:16:08Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
 | jgrss/geowombat | partial | 2026-09-05T12:25:41Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
@@ -1502,7 +1502,7 @@ Records: `1664`
 | pothosware/SoapySDRPlay2 | partial | 2021-11-21T18:32:54Z | [open](../records/satcom-satellites-pothosware-soapysdrplay2-17485e30.md) |
 | pothosware/SoapySDRPlay3 | partial | 2026-09-04T21:23:55Z | [open](../records/satcom-satellites-pothosware-soapysdrplay3-16bfd183.md) |
 | pothosware/SoapyUHD | partial | 2026-08-06T19:12:39Z | [open](../records/satcom-satellites-pothosware-soapyuhd-e79845ce.md) |
-| spectregrams/spectre | partial | 2026-09-08T22:57:08Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
+| spectregrams/spectre | partial | 2026-09-09T21:47:09Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
 | The-Osint-Toolbox/Geolocation-OSINT | partial | 2026-05-24T06:52:19Z | [open](../records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) |
 | tomtaylor/satellite-eyes | partial | 2026-08-12T08:25:32Z | [open](../records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
 | up42/up42-py | partial | 2026-08-31T09:09:58Z | [open](../records/satcom-satellites-up42-up42-py-ed525448.md) |
@@ -1531,7 +1531,7 @@ Records: `1664`
 | geoscixyz/geosci-labs | partial | 2025-10-24T04:05:22Z | [open](../records/electromagnetoscopes-geoscixyz-geosci-labs-82a62418.md) |
 | GiannakopoulosIlias/MieScattering | partial | 2024-05-23T19:30:13Z | [open](../records/electromagnetoscopes-giannakopoulosilias-miescattering-b1dd93d1.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/electromagnetoscopes-gnuradio-gnuradio-5d3da501.md) |
-| greatscottgadgets/hackrf | partial | 2026-09-08T09:15:09Z | [open](../records/electromagnetoscopes-greatscottgadgets-hackrf-b0325cd7.md) |
+| greatscottgadgets/hackrf | partial | 2026-09-10T09:22:08Z | [open](../records/electromagnetoscopes-greatscottgadgets-hackrf-b0325cd7.md) |
 | IgrikXD/Easy-SDR | partial | 2026-03-14T18:35:50Z | [open](../records/electromagnetoscopes-igrikxd-easy-sdr-05c3fee8.md) |
 | jagrosh/MusicBot | partial | 2024-11-16T15:22:38Z | [open](../records/electromagnetoscopes-jagrosh-musicbot-4a0a26cc.md) |
 | jopohl/urh | partial | 2025-12-19T14:25:58Z | [open](../records/electromagnetoscopes-jopohl-urh-450dc5c5.md) |

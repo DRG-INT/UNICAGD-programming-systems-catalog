@@ -605,7 +605,7 @@ Records: `471`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ElmerCSC/elmerfem | partial | 2026-09-09T15:03:40Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-10T08:17:58Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | hbldh/pymetawear | partial | 2023-05-30T14:04:42Z | [open](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 
 ## Radio Garden Speciality
@@ -643,7 +643,7 @@ Records: `471`
 | cheng-alvin/jas | partial | 2026-04-23T12:31:32Z | [open](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
 | encounter/objdiff | partial | 2026-08-29T22:14:27Z | [open](../records/assembly-encounter-objdiff-533f7383.md) |
 | hugsy/bochscpu-python | partial | 2025-08-10T17:01:32Z | [open](../records/assembly-hugsy-bochscpu-python-bba92484.md) |
-| KolibriOS/kolibrios | partial | 2026-09-10T08:17:24Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
+| KolibriOS/kolibrios | partial | 2026-09-10T09:08:37Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language
 

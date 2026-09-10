@@ -34,7 +34,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T12:43:23Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T06:43:42Z | gh search repos topic:registry stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -42,7 +42,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
+| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

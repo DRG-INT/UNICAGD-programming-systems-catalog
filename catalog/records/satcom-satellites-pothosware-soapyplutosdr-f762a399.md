@@ -40,9 +40,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnuradio stars:>20", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gnuradio stars:>20", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
 
 </details>
 
