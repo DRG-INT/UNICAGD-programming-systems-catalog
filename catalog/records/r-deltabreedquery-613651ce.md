@@ -40,7 +40,7 @@ generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0 |
+| Evidence | Apache License 2.0 \| file LICENSE |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

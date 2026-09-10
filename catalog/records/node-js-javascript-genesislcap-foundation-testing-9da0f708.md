@@ -39,9 +39,9 @@ as part of unit/integration validation, regression protection, and release confi
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | SEE LICENSE IN license.txt |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

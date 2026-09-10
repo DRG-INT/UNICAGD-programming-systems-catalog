@@ -52,7 +52,7 @@ Records: `16`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | github.com/vaultsandbox/client-python | v0.5.1 | 2026-08-30T10:09:57.314153Z | [open](../records/go-github-com-vaultsandbox-client-python-3e86109b.md) |
-| mattermost-community/focalboard | unknown | not_a_go_module_path | [open](../records/go-mattermost-community-focalboard-3d60a2cd.md) |
+| mattermost-community/focalboard | partial | 2026-05-18T16:05:00Z | [open](../records/go-mattermost-community-focalboard-3d60a2cd.md) |
 
 ## Font Briefcase
 

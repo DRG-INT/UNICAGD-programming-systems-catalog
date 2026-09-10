@@ -179,7 +179,7 @@ Records: `241`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | unknown | not_a_go_module_path | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-10T00:34:07Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 

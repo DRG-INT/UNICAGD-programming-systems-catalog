@@ -42,7 +42,7 @@ communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL (>= 3) |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

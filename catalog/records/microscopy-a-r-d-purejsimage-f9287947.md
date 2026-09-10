@@ -34,7 +34,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T15:26:02Z | gh search repos topic:ome-tiff stars:>5 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T01:24:25Z | gh search repos topic:ome-tiff stars:>5 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -42,7 +42,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; Other; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

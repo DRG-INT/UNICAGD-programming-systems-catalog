@@ -236,7 +236,7 @@ Records: `599`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-09T22:33:10Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-10T02:56:56Z | registry-derived |
 | [ZSDM-HDR/Zero-Shot-Diffusion-HDR](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) | partial | 2025-08-25T07:36:28Z | registry-derived |
 
 ### Formatter
@@ -260,12 +260,12 @@ Records: `599`
 | [jark006/JarkViewer](../records/photography-jark006-jarkviewer-384c10ce.md) | partial | 2026-06-30T18:46:05Z | registry-derived |
 | [jmathai/elodie](../records/photography-jmathai-elodie-960b91b7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [karimz1/imgcompress](../records/photography-karimz1-imgcompress-ec2fa997.md) | partial | 2026-09-06T08:25:41Z | registry-derived |
-| [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-09T14:17:39Z | registry-derived |
+| [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-10T02:46:26Z | registry-derived |
 | [mdouchement/hdr](../records/photography-mdouchement-hdr-30201254.md) | partial | 2023-02-04T12:19:10Z | registry-derived |
 | [mz2/Carpaccio](../records/photography-mz2-carpaccio-47bb21ca.md) | partial | 2023-06-10T06:49:52Z | registry-derived |
 | [QQxiaoming/YUVviewer](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) | partial | 2026-06-27T03:38:01Z | registry-derived |
 | [rfrench/gify](../records/photography-rfrench-gify-e7a0c938.md) | partial | 2023-03-08T22:03:16Z | registry-derived |
-| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-09T04:22:39Z | registry-derived |
+| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-10T00:48:41Z | registry-derived |
 | [wasabeef/glide-transformations](../records/photography-wasabeef-glide-transformations-6efa38dc.md) | partial | 2022-03-08T16:07:21Z | registry-derived |
 | [webp-sh/webp_server_go](../records/photography-webp-sh-webp-server-go-e607ab44.md) | partial | 2026-08-31T02:42:48Z | registry-derived |
 | [WeTransfer/format_parser](../records/photography-wetransfer-format-parser-a46c542e.md) | partial | 2024-12-11T15:22:35Z | registry-derived |
@@ -330,7 +330,7 @@ Records: `599`
 | [ncruces/RethinkRAW](../records/photography-ncruces-rethinkraw-a0dbdde6.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [NextLevel/NextLevel](../records/photography-nextlevel-nextlevel-e27b735b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [NextWeb4/photo-metadata-editor](../records/photography-nextweb4-photo-metadata-editor-f03037a4.md) | partial | 2026-07-22T14:15:38Z | registry-derived |
-| [nv-tlabs/vipe](../records/photography-nv-tlabs-vipe-115cedae.md) | partial | 2026-08-17T23:14:20Z | registry-derived |
+| [nv-tlabs/vipe](../records/photography-nv-tlabs-vipe-115cedae.md) | partial | 2026-09-09T22:39:00Z | registry-derived |
 | [octopuscinema/raw-player](../records/photography-octopuscinema-raw-player-b557fb4c.md) | partial | 2025-05-16T21:29:49Z | registry-derived |
 | [op7418/guizang-yingzao-skill](../records/photography-op7418-guizang-yingzao-skill-4d695bec.md) | partial | 2026-09-03T09:51:13Z | registry-derived |
 | [open-mmlab/mmagic](../records/photography-open-mmlab-mmagic-0ddafded.md) | partial | 2024-08-06T07:19:40Z | registry-derived |
@@ -661,7 +661,7 @@ Records: `599`
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |
 | [pedrodiamel/colorchecker-detection](../records/photography-pedrodiamel-colorchecker-detection-02116cb9.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-526b7bf1.md) | partial | 2026-09-06T04:34:20Z | registry-derived |
+| [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-526b7bf1.md) | partial | 2026-09-10T02:15:04Z | registry-derived |
 | [ray-cast/ies](../records/photography-ray-cast-ies-781efcde.md) | partial | 2018-01-16T23:17:43Z | registry-derived |
 | [TheLastGimbus/GooglePhotosTakeoutHelper](../records/photography-thelastgimbus-googlephotostakeouthelper-4239cff5.md) | partial | 2025-01-29T08:39:52Z | registry-derived |
 | [zalo/MathUtilities](../records/photography-zalo-mathutilities-76c40c9f.md) | partial | 2024-08-24T20:37:32Z | registry-derived |

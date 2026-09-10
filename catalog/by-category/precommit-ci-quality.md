@@ -265,7 +265,7 @@ Records: `314`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
-| tmrts/go-patterns | unknown | not_a_go_module_path | [open](../records/go-tmrts-go-patterns-62512270.md) |
+| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 

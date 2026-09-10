@@ -74,8 +74,8 @@ Records: `63`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | dobyte/due | partial | 2026-09-09T13:56:10Z | [open](../records/go-dobyte-due-642c6a6f.md) |
-| gocolly/colly | unknown | not_a_go_module_path | [open](../records/go-gocolly-colly-fa679a27.md) |
-| micro/go-micro | unknown | not_a_go_module_path | [open](../records/go-micro-go-micro-af542d9e.md) |
+| gocolly/colly | partial | 2026-09-02T13:21:46Z | [open](../records/go-gocolly-colly-fa679a27.md) |
+| micro/go-micro | partial | 2026-09-09T21:38:48Z | [open](../records/go-micro-go-micro-af542d9e.md) |
 | Mindinventory/Golang-Project-Structure | partial | 2023-04-25T07:04:11Z | [open](../records/go-mindinventory-golang-project-structure-c6e24a0b.md) |
 
 ## Basilisk

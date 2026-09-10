@@ -354,7 +354,7 @@ Records: `540`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-09T21:24:25Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
