@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (231)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1029)](by-category/build-system.md) · [Cli (587)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (232)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1030)](by-category/build-system.md) · [Cli (587)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (137)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (180)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (975)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
+[Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (975)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
-[Embedded Hardware (65)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1669)](by-category/filesystem-os.md) · [Formatter (661)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1497)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (444)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1460)](by-category/language-specification.md) · [Library (5944)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (831)](by-category/machine-learning.md)
-[Math Numeric Scientific (92)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1074)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (448)](by-category/package-manager.md) · [Parser Lexer Ast (1224)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](by-category/precommit-ci-quality.md)
+[Embedded Hardware (66)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5961)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
+[Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1076)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (448)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (338)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (652)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (633)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (606)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (656)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (634)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -2558,6 +2558,7 @@
 | `cran_packages_by_date-e461b6617530ab` | alphavantagepf | [open](records/r-alphavantagepf-39564484.md) |
 | `cran_packages_by_date-e46d4d4798e3f4` | httr | [open](records/r-httr-6a5f3fd7.md) |
 | `cran_packages_by_date-e49f8ecafd4f81` | icons | [open](records/r-icons-73a5c7a1.md) |
+| `cran_packages_by_date-e4c964c39cfcae` | clusterv | [open](records/r-clusterv-d5037e5a.md) |
 | `cran_packages_by_date-e4ca652e503a5e` | grangers | [open](records/r-grangers-d6500269.md) |
 | `cran_packages_by_date-e4ebd815c289df` | secrfunc | [open](records/r-secrfunc-1289d629.md) |
 | `cran_packages_by_date-e4f5645297dac0` | psychonetrics | [open](records/r-psychonetrics-6fde7496.md) |
@@ -2732,6 +2733,7 @@
 | `cran_packages_by_date-fb741d58179488` | codriver | [open](records/r-codriver-e4123809.md) |
 | `cran_packages_by_date-fbb32ced536df9` | rxode2 | [open](records/r-rxode2-4699fd91.md) |
 | `cran_packages_by_date-fbba88976a73d3` | mipfp | [open](records/r-mipfp-9476f67b.md) |
+| `cran_packages_by_date-fbe95fa7a0137c` | enderecobr | [open](records/r-enderecobr-34b46b68.md) |
 | `cran_packages_by_date-fc1ad0e41181e5` | VancouvR | [open](records/r-vancouvr-24ec8c20.md) |
 | `cran_packages_by_date-fc3edeb64b9324` | ICEHmeasures | [open](records/r-icehmeasures-aac423b9.md) |
 | `cran_packages_by_date-fc618eb7996ae9` | Sequential | [open](records/r-sequential-30c0a92e.md) |
@@ -9235,6 +9237,7 @@
 | `github_search_effects-fff7f04d11d989` | igradeca/Unity-Shaders | [open](records/effects-igradeca-unity-shaders-c22cd13a.md) |
 | `github_search_electromagnetoscopes-002faed960a20e` | simonwep/spectrum | [open](records/electromagnetoscopes-simonwep-spectrum-3f6f4493.md) |
 | `github_search_electromagnetoscopes-00e1a9d357d385` | watson/airplanejs | [open](records/electromagnetoscopes-watson-airplanejs-12c7de1f.md) |
+| `github_search_electromagnetoscopes-010b2f0d98da94` | cujomalainey/ant-arduino | [open](records/electromagnetoscopes-cujomalainey-ant-arduino-5a4960c4.md) |
 | `github_search_electromagnetoscopes-0151d1bd07e2aa` | geekysuavo/pyppm | [open](records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |
 | `github_search_electromagnetoscopes-015d0103c15e59` | 0xastro/Cognitive-Radio-Network | [open](records/electromagnetoscopes-0xastro-cognitive-radio-network-9a5f6a5f.md) |
 | `github_search_electromagnetoscopes-0195c4ddb4e952` | y20k/transistor | [open](records/electromagnetoscopes-y20k-transistor-f153afb0.md) |
@@ -9246,6 +9249,8 @@
 | `github_search_electromagnetoscopes-05cdc53a85dec8` | witwin-ai/witwin-maxwell | [open](records/electromagnetoscopes-witwin-ai-witwin-maxwell-07be0d58.md) |
 | `github_search_electromagnetoscopes-05e44236e7e39d` | biergaizi/project-diamond | [open](records/electromagnetoscopes-biergaizi-project-diamond-951fa087.md) |
 | `github_search_electromagnetoscopes-067faced3d1925` | romankalyna/RFsquek | [open](records/electromagnetoscopes-romankalyna-rfsquek-d7004bab.md) |
+| `github_search_electromagnetoscopes-073d62c360bd1e` | NamNamIoT/ArduLora | [open](records/electromagnetoscopes-namnamiot-ardulora-0389e080.md) |
+| `github_search_electromagnetoscopes-07e5eedd22adb1` | butala/pyrsss | [open](records/electromagnetoscopes-butala-pyrsss-d6f167a2.md) |
 | `github_search_electromagnetoscopes-07fbdbcd697b0d` | alexysong/tdyno | [open](records/electromagnetoscopes-alexysong-tdyno-3d0cc073.md) |
 | `github_search_electromagnetoscopes-08b1d034776125` | linroid/Sky31Radio | [open](records/electromagnetoscopes-linroid-sky31radio-c5c60aad.md) |
 | `github_search_electromagnetoscopes-08dc783967ab42` | baggepinnen/LPVSpectral.jl | [open](records/electromagnetoscopes-baggepinnen-lpvspectral-jl-535c57bf.md) |
@@ -9254,6 +9259,7 @@
 | `github_search_electromagnetoscopes-0c728326ae8504` | GeoBrain-Project/GeoBrain | [open](records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | `github_search_electromagnetoscopes-0cd86bda2a1232` | neural75/gqrx-scanner | [open](records/electromagnetoscopes-neural75-gqrx-scanner-47ffd36c.md) |
 | `github_search_electromagnetoscopes-0df85ef2faee60` | balamuruganky/ros_gps_imu_vel_filter | [open](records/electromagnetoscopes-balamuruganky-ros-gps-imu-vel-filter-2ae4ace2.md) |
+| `github_search_electromagnetoscopes-11e758614c8557` | trendmicro/ais | [open](records/electromagnetoscopes-trendmicro-ais-cadcdd4d.md) |
 | `github_search_electromagnetoscopes-12ba51cec8f3e8` | liamcottle/reticulum-meshchat | [open](records/electromagnetoscopes-liamcottle-reticulum-meshchat-06a9395e.md) |
 | `github_search_electromagnetoscopes-13b7836da4404d` | TrunkRecorder/trunk-recorder | [open](records/electromagnetoscopes-trunkrecorder-trunk-recorder-9795e5f3.md) |
 | `github_search_electromagnetoscopes-142492513ba499` | CompassMB/MBCompass | [open](records/electromagnetoscopes-compassmb-mbcompass-b958a619.md) |
@@ -9261,12 +9267,16 @@
 | `github_search_electromagnetoscopes-159975fbf6662e` | alexpiti/Plot-Pattern | [open](records/electromagnetoscopes-alexpiti-plot-pattern-d5ed7aa8.md) |
 | `github_search_electromagnetoscopes-15fb3c4e598725` | tyfkda/nesemu | [open](records/electromagnetoscopes-tyfkda-nesemu-92680f0b.md) |
 | `github_search_electromagnetoscopes-175889d475688b` | andremichelle/malachite | [open](records/electromagnetoscopes-andremichelle-malachite-8e6c9ad4.md) |
+| `github_search_electromagnetoscopes-197cb7036c6f0f` | sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library | [open](records/electromagnetoscopes-sparkfun-sparkfun-lsm303c-6-dof-imu-breakout-arduino-library-9d66eb81.md) |
 | `github_search_electromagnetoscopes-1a17b4561ced60` | brtkrtz/magnelio | [open](records/electromagnetoscopes-brtkrtz-magnelio-392510d6.md) |
 | `github_search_electromagnetoscopes-1a9b5e17caebb7` | LaplaceYoung/ansys-aedt-mcp | [open](records/electromagnetoscopes-laplaceyoung-ansys-aedt-mcp-cac78a43.md) |
+| `github_search_electromagnetoscopes-1bd418e40f51fc` | hrvach/espple | [open](records/electromagnetoscopes-hrvach-espple-4776da53.md) |
 | `github_search_electromagnetoscopes-1d111a586db916` | deroverda/recommended-radio-streams | [open](records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | `github_search_electromagnetoscopes-1d5693f7f8f486` | SyedaMahamFahim/Electromagnetic-Analysis-of-Intelligent-Reflecting-Surface-MATLAB | [open](records/electromagnetoscopes-syedamahamfahim-electromagnetic-analysis-of-intelligent-reflecting-surface-matlab-06157868.md) |
 | `github_search_electromagnetoscopes-1dcbf0d960dc92` | GiannakopoulosIlias/MieScattering | [open](records/electromagnetoscopes-giannakopoulosilias-miescattering-b1dd93d1.md) |
 | `github_search_electromagnetoscopes-1df3133dbcb0c8` | Thom-x/docker-fr24feed-piaware-dump1090 | [open](records/electromagnetoscopes-thom-x-docker-fr24feed-piaware-dump1090-77ea9789.md) |
+| `github_search_electromagnetoscopes-1e1edac378d3e3` | Senape3000/EvilCrowRF-V2 | [open](records/electromagnetoscopes-senape3000-evilcrowrf-v2-03cdfcba.md) |
+| `github_search_electromagnetoscopes-1e337094e3ca94` | ClaudeMarais/FindEachOtherCompass_ESP32-C3 | [open](records/electromagnetoscopes-claudemarais-findeachothercompass-esp32-c3-993050f7.md) |
 | `github_search_electromagnetoscopes-1e486c379e40ff` | analogdevicesinc/plutosdr-fw | [open](records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
 | `github_search_electromagnetoscopes-1e62f20a4577ec` | cjcliffe/CubicSDR | [open](records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | `github_search_electromagnetoscopes-1eaea61e82ff28` | ruddyscent/gmes | [open](records/electromagnetoscopes-ruddyscent-gmes-93ae046c.md) |
@@ -9297,12 +9307,15 @@
 | `github_search_electromagnetoscopes-2bef78323ef1d5` | trishmapow/rf-jam-replay | [open](records/electromagnetoscopes-trishmapow-rf-jam-replay-e0a2cddb.md) |
 | `github_search_electromagnetoscopes-2c16b6a567f395` | diqezit/SpectrumCpp | [open](records/electromagnetoscopes-diqezit-spectrumcpp-bd565410.md) |
 | `github_search_electromagnetoscopes-2d297402ce7327` | kgoba/ft8_lib | [open](records/electromagnetoscopes-kgoba-ft8-lib-9adffda7.md) |
+| `github_search_electromagnetoscopes-2d2fea5b890dc3` | ruvnet/RuView | [open](records/electromagnetoscopes-ruvnet-ruview-2ca00b65.md) |
 | `github_search_electromagnetoscopes-2d3ac9ca2a7b41` | ElmerCSC/elmerfem | [open](records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | `github_search_electromagnetoscopes-2d905339506c90` | cjcliffe/CubicSDR | [open](records/electromagnetoscopes-cjcliffe-cubicsdr-993394d1.md) |
 | `github_search_electromagnetoscopes-3038d1f61ab60b` | pavel-demin/red-pitaya-notes | [open](records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
+| `github_search_electromagnetoscopes-3042a8eb8dcb38` | jboirazian/LuneForge | [open](records/electromagnetoscopes-jboirazian-luneforge-851e7333.md) |
 | `github_search_electromagnetoscopes-309b1f80241ffa` | ainfosec/FISSURE | [open](records/electromagnetoscopes-ainfosec-fissure-685993bb.md) |
 | `github_search_electromagnetoscopes-3165efdd0e5750` | milanofthe/rapidfem | [open](records/electromagnetoscopes-milanofthe-rapidfem-3beb76ef.md) |
 | `github_search_electromagnetoscopes-31b7480450f408` | AsmSafone/RadioPlayerV3 | [open](records/electromagnetoscopes-asmsafone-radioplayerv3-cb668f6d.md) |
+| `github_search_electromagnetoscopes-328a79c6702f81` | sunsided/frdm-kl25z-marg-fusion | [open](records/electromagnetoscopes-sunsided-frdm-kl25z-marg-fusion-2a0d81df.md) |
 | `github_search_electromagnetoscopes-32df410b97cd6c` | PowerBroker2/MAMMAL | [open](records/electromagnetoscopes-powerbroker2-mammal-171eb56d.md) |
 | `github_search_electromagnetoscopes-35a76a238f019d` | pothosware/PothosCore | [open](records/electromagnetoscopes-pothosware-pothoscore-bfc13d94.md) |
 | `github_search_electromagnetoscopes-371b2cdb31c04b` | portapack-mayhem/mayhem-firmware | [open](records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
@@ -9310,12 +9323,14 @@
 | `github_search_electromagnetoscopes-3959b4767f7d42` | fancompute/FDFD.jl | [open](records/electromagnetoscopes-fancompute-fdfd-jl-3c742723.md) |
 | `github_search_electromagnetoscopes-396438597a4518` | chuot/rdio-scanner | [open](records/electromagnetoscopes-chuot-rdio-scanner-3a797b17.md) |
 | `github_search_electromagnetoscopes-3ad07f21112e91` | wollewald/MPU9250_WE | [open](records/electromagnetoscopes-wollewald-mpu9250-we-daf4d74b.md) |
+| `github_search_electromagnetoscopes-3af1b4b037f322` | Huang-Chuan/Mag-IMU-JointCalibration | [open](records/electromagnetoscopes-huang-chuan-mag-imu-jointcalibration-a27bb051.md) |
 | `github_search_electromagnetoscopes-3b0014d19c7ef1` | kyleterry/awesome-radio | [open](records/electromagnetoscopes-kyleterry-awesome-radio-2aa4ac21.md) |
 | `github_search_electromagnetoscopes-3b349cb8ac6d4a` | simonp0420/PSSFSS.jl | [open](records/electromagnetoscopes-simonp0420-pssfss-jl-67f1c114.md) |
 | `github_search_electromagnetoscopes-3b9a9e32ee096b` | echristhuraj/CubeSatDetumblingSimulator | [open](records/electromagnetoscopes-echristhuraj-cubesatdetumblingsimulator-bb34a534.md) |
 | `github_search_electromagnetoscopes-3c7c675411f23d` | TLeconte/acarsdec | [open](records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) |
 | `github_search_electromagnetoscopes-3ca04e83e3cd3a` | azlux/botamusique | [open](records/electromagnetoscopes-azlux-botamusique-8fc6bb3f.md) |
 | `github_search_electromagnetoscopes-3cd2d30bd40016` | Maschine2501/NR1-UI | [open](records/electromagnetoscopes-maschine2501-nr1-ui-0ac970e6.md) |
+| `github_search_electromagnetoscopes-3d9f2c07f042f0` | alimoncul/piController | [open](records/electromagnetoscopes-alimoncul-picontroller-9510e5c5.md) |
 | `github_search_electromagnetoscopes-3e86eaac4d3413` | meshcore-dev/meshcore-ha | [open](records/electromagnetoscopes-meshcore-dev-meshcore-ha-99d8a718.md) |
 | `github_search_electromagnetoscopes-3ef7e2ef90cda1` | fooyin/fooyin | [open](records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | `github_search_electromagnetoscopes-3f8e44a50ddb21` | google/ceviche-challenges | [open](records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) |
@@ -9343,8 +9358,10 @@
 | `github_search_electromagnetoscopes-494829f0d7b140` | ajithabhks/sigmt | [open](records/electromagnetoscopes-ajithabhks-sigmt-691a1b2c.md) |
 | `github_search_electromagnetoscopes-49f41b1f551fb9` | Kopuz-org/kopuz | [open](records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | `github_search_electromagnetoscopes-4a3daeb8acb6b3` | Tundrak/IPTV-Italia | [open](records/electromagnetoscopes-tundrak-iptv-italia-e19937b2.md) |
+| `github_search_electromagnetoscopes-4ab33173db6c23` | KAIST-HCIL/MagTouch | [open](records/electromagnetoscopes-kaist-hcil-magtouch-88db435c.md) |
 | `github_search_electromagnetoscopes-4ae6c70579429c` | complexphoton/MESTI.jl | [open](records/electromagnetoscopes-complexphoton-mesti-jl-a5b9c04c.md) |
 | `github_search_electromagnetoscopes-4b03d78db9a29e` | chiaweihsu/RGF | [open](records/electromagnetoscopes-chiaweihsu-rgf-a3cb2d12.md) |
+| `github_search_electromagnetoscopes-4b6c49280f4ff2` | kriswiner/MMC5983MA | [open](records/electromagnetoscopes-kriswiner-mmc5983ma-f5f511a5.md) |
 | `github_search_electromagnetoscopes-4b6c5ada7efcc3` | HoBeZwe/SphericalScattering.jl | [open](records/electromagnetoscopes-hobezwe-sphericalscattering-jl-ba9079c6.md) |
 | `github_search_electromagnetoscopes-4bf799ec56c374` | rfquack/RFQuack | [open](records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
 | `github_search_electromagnetoscopes-4d7d347f30cb1c` | srsran/srsRAN_4G | [open](records/electromagnetoscopes-srsran-srsran-4g-2949fc58.md) |
@@ -9355,10 +9372,13 @@
 | `github_search_electromagnetoscopes-514640f71ffbbe` | Sg4Dylan/EmiyaEngine | [open](records/electromagnetoscopes-sg4dylan-emiyaengine-0f38ac34.md) |
 | `github_search_electromagnetoscopes-51d07bfa7a6740` | aradfarahani/awesome-geophysics | [open](records/electromagnetoscopes-aradfarahani-awesome-geophysics-faed83f7.md) |
 | `github_search_electromagnetoscopes-51fb6ebada18b6` | bsumlin/PyMieScatt | [open](records/electromagnetoscopes-bsumlin-pymiescatt-d4db2fe9.md) |
+| `github_search_electromagnetoscopes-52e14b2f52faaf` | libdriver/nrf905 | [open](records/electromagnetoscopes-libdriver-nrf905-8cac8364.md) |
 | `github_search_electromagnetoscopes-53198cea767b93` | xaelsouth/rtl-wmbus | [open](records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
 | `github_search_electromagnetoscopes-53beea5b7a5c7d` | 720kb/radiobox.css | [open](records/electromagnetoscopes-720kb-radiobox-css-3e1ebc91.md) |
+| `github_search_electromagnetoscopes-53d7835e266f13` | rbv188/quadric-curve-fit | [open](records/electromagnetoscopes-rbv188-quadric-curve-fit-61d9e8be.md) |
 | `github_search_electromagnetoscopes-54075d186a3bbf` | JoyenBenitto/Antenna_generator | [open](records/electromagnetoscopes-joyenbenitto-antenna-generator-f4641322.md) |
 | `github_search_electromagnetoscopes-54cba925a83363` | Filippos-Dakis/Finite-Elements-Method | [open](records/electromagnetoscopes-filippos-dakis-finite-elements-method-89b8d158.md) |
+| `github_search_electromagnetoscopes-566f9c42aca301` | MouChiaHung/RaspberryPi | [open](records/electromagnetoscopes-mouchiahung-raspberrypi-25157700.md) |
 | `github_search_electromagnetoscopes-56de0483772759` | ShayanDodge/Hybrid-BEM-PINN-Electromagnetics | [open](records/electromagnetoscopes-shayandodge-hybrid-bem-pinn-electromagnetics-5b8e5308.md) |
 | `github_search_electromagnetoscopes-57b6acb49d3bce` | AlbrechtL/welle.io | [open](records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
 | `github_search_electromagnetoscopes-581438e8556bbe` | RedhawkSDR/redhawk | [open](records/electromagnetoscopes-redhawksdr-redhawk-394b8fa1.md) |
@@ -9366,17 +9386,21 @@
 | `github_search_electromagnetoscopes-583c47bda64373` | osmocom/gr-osmosdr | [open](records/electromagnetoscopes-osmocom-gr-osmosdr-e519982e.md) |
 | `github_search_electromagnetoscopes-591ca66a4e1a17` | YunSolutions/levin-openData | [open](records/electromagnetoscopes-yunsolutions-levin-opendata-fcebc42c.md) |
 | `github_search_electromagnetoscopes-5962274229714f` | luigifcruz/pisdr-image | [open](records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
+| `github_search_electromagnetoscopes-59894b7a411b81` | homebridge-plugins/homebridge-ewelink | [open](records/electromagnetoscopes-homebridge-plugins-homebridge-ewelink-d9a5e51f.md) |
 | `github_search_electromagnetoscopes-5a249bced6f981` | ruddyscent/gmes | [open](records/electromagnetoscopes-ruddyscent-gmes-3862ca71.md) |
 | `github_search_electromagnetoscopes-5a6ed65c362e38` | kc-ml2/meent | [open](records/electromagnetoscopes-kc-ml2-meent-d3573ea3.md) |
 | `github_search_electromagnetoscopes-5b0b58c67de327` | Yaraslaut/prop | [open](records/electromagnetoscopes-yaraslaut-prop-259f6bb4.md) |
 | `github_search_electromagnetoscopes-5c990299e9870d` | Ozonised/Kalman-AHRS | [open](records/electromagnetoscopes-ozonised-kalman-ahrs-ba343016.md) |
 | `github_search_electromagnetoscopes-5e26c08c616dfb` | jhultman/dead-reckoning | [open](records/electromagnetoscopes-jhultman-dead-reckoning-7ab388cb.md) |
+| `github_search_electromagnetoscopes-5f4d8170b9085f` | EmenstaNougat/BlueJammer-V2 | [open](records/electromagnetoscopes-emenstanougat-bluejammer-v2-1f7a0e98.md) |
 | `github_search_electromagnetoscopes-5f8d5c20151645` | bastibl/gr-ieee802-15-4 | [open](records/electromagnetoscopes-bastibl-gr-ieee802-15-4-c85d5cfe.md) |
 | `github_search_electromagnetoscopes-5f9e22140885df` | shajen/rtl-sdr-scanner-cpp | [open](records/electromagnetoscopes-shajen-rtl-sdr-scanner-cpp-9483eaae.md) |
 | `github_search_electromagnetoscopes-5ff86a321b5ebc` | gotmc/ivi | [open](records/electromagnetoscopes-gotmc-ivi-f610f143.md) |
 | `github_search_electromagnetoscopes-60b755a2cf5da3` | jman4162/electromagnetics-work-samples | [open](records/electromagnetoscopes-jman4162-electromagnetics-work-samples-74ec4cac.md) |
 | `github_search_electromagnetoscopes-61c0e6a0ceac4d` | brannondorsey/chattervox | [open](records/electromagnetoscopes-brannondorsey-chattervox-af75b409.md) |
+| `github_search_electromagnetoscopes-6240160d733f63` | M17-Project/LinHT-hw | [open](records/electromagnetoscopes-m17-project-linht-hw-0d969c29.md) |
 | `github_search_electromagnetoscopes-6305ae12c84e13` | jafrado/magdec | [open](records/electromagnetoscopes-jafrado-magdec-863f75e9.md) |
+| `github_search_electromagnetoscopes-63745934426ca8` | louiskueh/Internet-of-Things-Table-Tennis-Device | [open](records/electromagnetoscopes-louiskueh-internet-of-things-table-tennis-device-76b81e6c.md) |
 | `github_search_electromagnetoscopes-637e44ea86fd53` | IQEngine/IQEngine | [open](records/electromagnetoscopes-iqengine-iqengine-a1bc73df.md) |
 | `github_search_electromagnetoscopes-63fd127e252fa7` | ratwolfzero/Capacitor_FEM | [open](records/electromagnetoscopes-ratwolfzero-capacitor-fem-dd40c270.md) |
 | `github_search_electromagnetoscopes-6403594cc91b5f` | bk-squared/rfx | [open](records/electromagnetoscopes-bk-squared-rfx-bb3c9d75.md) |
@@ -9391,17 +9415,20 @@
 | `github_search_electromagnetoscopes-69ab2d284e7d59` | Moheeeetgupta/LadyBuddy-A-woman-safety-app | [open](records/electromagnetoscopes-moheeeetgupta-ladybuddy-a-woman-safety-app-8386c19e.md) |
 | `github_search_electromagnetoscopes-6a05df44519d15` | tabahi/WebSpeechAnalyzer | [open](records/electromagnetoscopes-tabahi-webspeechanalyzer-57a2cd43.md) |
 | `github_search_electromagnetoscopes-6ad8e69d9e3a0d` | fethica/FRadioPlayer | [open](records/electromagnetoscopes-fethica-fradioplayer-a0eebcb0.md) |
+| `github_search_electromagnetoscopes-6b3b58cb9fbc12` | japaric/lsm303dlhc | [open](records/electromagnetoscopes-japaric-lsm303dlhc-701066d6.md) |
 | `github_search_electromagnetoscopes-6bd3842c5c5ca1` | alexysong/inkstone | [open](records/electromagnetoscopes-alexysong-inkstone-79227081.md) |
 | `github_search_electromagnetoscopes-6bda3415fd8929` | mathertel/Radio | [open](records/electromagnetoscopes-mathertel-radio-997c5d22.md) |
 | `github_search_electromagnetoscopes-6bddc165bb79ed` | alihakimtaskiran/Glimy | [open](records/electromagnetoscopes-alihakimtaskiran-glimy-90e37ba0.md) |
 | `github_search_electromagnetoscopes-6c2893cd08bb78` | simpeg/simpeg | [open](records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) |
 | `github_search_electromagnetoscopes-6c6b3aca29d225` | stuerp/foo_vis_spectrum_analyzer | [open](records/electromagnetoscopes-stuerp-foo-vis-spectrum-analyzer-959c28c5.md) |
 | `github_search_electromagnetoscopes-6ce247548988eb` | rbn42/panon | [open](records/electromagnetoscopes-rbn42-panon-1725c9fd.md) |
+| `github_search_electromagnetoscopes-6debd119b4816c` | ayalgenzer/Security-Camera | [open](records/electromagnetoscopes-ayalgenzer-security-camera-1c20f09c.md) |
 | `github_search_electromagnetoscopes-6e223ce74f716d` | hbldh/pymetawear | [open](records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 | `github_search_electromagnetoscopes-6f9216cc07a4d2` | martinber/noaa-apt | [open](records/electromagnetoscopes-martinber-noaa-apt-5f2d5355.md) |
 | `github_search_electromagnetoscopes-6f94cd3e9e13a1` | indutny/spectrum-analyzer | [open](records/electromagnetoscopes-indutny-spectrum-analyzer-bd1b50c2.md) |
 | `github_search_electromagnetoscopes-70a288e7363af8` | rzfk2v/Cascade-SDR | [open](records/electromagnetoscopes-rzfk2v-cascade-sdr-3b9ecded.md) |
 | `github_search_electromagnetoscopes-710c74dc119bbd` | CGrassin/rtl_power_scripts | [open](records/electromagnetoscopes-cgrassin-rtl-power-scripts-74b55a03.md) |
+| `github_search_electromagnetoscopes-7158d2980ec299` | wheaney/magnetometer-calibrate | [open](records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) |
 | `github_search_electromagnetoscopes-72e14ed9c57961` | git-artes/gr-tempest | [open](records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
 | `github_search_electromagnetoscopes-73acb7bd38b15b` | greatscottgadgets/yardstick | [open](records/electromagnetoscopes-greatscottgadgets-yardstick-cd00b0af.md) |
 | `github_search_electromagnetoscopes-73d2702bde8e7f` | markjay4k/Audio-Spectrum-Analyzer-in-Python | [open](records/electromagnetoscopes-markjay4k-audio-spectrum-analyzer-in-python-f916783d.md) |
@@ -9410,6 +9437,7 @@
 | `github_search_electromagnetoscopes-757df0777ca838` | x-extends/vxe-table | [open](records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | `github_search_electromagnetoscopes-761e174aa3dd92` | cyberwisk/m5Cardputer_audiospectrum | [open](records/electromagnetoscopes-cyberwisk-m5cardputer-audiospectrum-ab6e0de8.md) |
 | `github_search_electromagnetoscopes-7637eaa176436d` | EliaTarasov/ESKF | [open](records/electromagnetoscopes-eliatarasov-eskf-1c9d1055.md) |
+| `github_search_electromagnetoscopes-764a1ca1483bb2` | arall/sigint | [open](records/electromagnetoscopes-arall-sigint-c32d7540.md) |
 | `github_search_electromagnetoscopes-76ed08cf94f3cb` | kbasaran/Speaker-Calculator | [open](records/electromagnetoscopes-kbasaran-speaker-calculator-d60ee43a.md) |
 | `github_search_electromagnetoscopes-7758d56d964803` | liviobisogni/quaternion-kalman-filter | [open](records/electromagnetoscopes-liviobisogni-quaternion-kalman-filter-423da6ea.md) |
 | `github_search_electromagnetoscopes-78339671886c6c` | flexcompute/tidy3d | [open](records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) |
@@ -9426,6 +9454,7 @@
 | `github_search_electromagnetoscopes-80c12317a3b29f` | fanmingming/live | [open](records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | `github_search_electromagnetoscopes-815a2cb34bee32` | simonas-dev/aubio-go | [open](records/electromagnetoscopes-simonas-dev-aubio-go-b7ce5d76.md) |
 | `github_search_electromagnetoscopes-82c1fd6c927f7a` | MarkSherstan/MPU-6050-9250-I2C-CompFilter | [open](records/electromagnetoscopes-marksherstan-mpu-6050-9250-i2c-compfilter-61e77b94.md) |
+| `github_search_electromagnetoscopes-82c4b8029eab65` | wittend/rm3100-runMag_broken | [open](records/electromagnetoscopes-wittend-rm3100-runmag-broken-30d5960e.md) |
 | `github_search_electromagnetoscopes-82e29fe06c61ee` | gqrx-sdr/gqrx | [open](records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
 | `github_search_electromagnetoscopes-837350e3f4b78e` | dawsonjon/PicoRX | [open](records/electromagnetoscopes-dawsonjon-picorx-659015f9.md) |
 | `github_search_electromagnetoscopes-83e25b1e7a723d` | UniPD-DII-ETCOMP/FFT-PEEC | [open](records/electromagnetoscopes-unipd-dii-etcomp-fft-peec-51c66c9d.md) |
@@ -9440,14 +9469,18 @@
 | `github_search_electromagnetoscopes-8a63add2ad94f5` | 1ove9/antenna-forge | [open](records/electromagnetoscopes-1ove9-antenna-forge-919a534b.md) |
 | `github_search_electromagnetoscopes-8a65d45e0211a6` | ATTron/astroz | [open](records/electromagnetoscopes-attron-astroz-c5cc01c1.md) |
 | `github_search_electromagnetoscopes-8a8bde4d747f61` | ComThings/PandwaRF | [open](records/electromagnetoscopes-comthings-pandwarf-66230deb.md) |
+| `github_search_electromagnetoscopes-8b2043792565fe` | FARLY7/si7210-driver | [open](records/electromagnetoscopes-farly7-si7210-driver-fb1603bb.md) |
 | `github_search_electromagnetoscopes-8b83190445ec94` | DavidEGrayson/minimu9-ahrs | [open](records/electromagnetoscopes-davidegrayson-minimu9-ahrs-604e208f.md) |
 | `github_search_electromagnetoscopes-8bca1d9ab32c30` | marionettejs/backbone.radio | [open](records/electromagnetoscopes-marionettejs-backbone-radio-60d3e7cc.md) |
 | `github_search_electromagnetoscopes-8bdd2fd0a7952e` | Range-Software/range-fea | [open](records/electromagnetoscopes-range-software-range-fea-ebb108aa.md) |
+| `github_search_electromagnetoscopes-8bdf62debb6eb3` | calimero-project/calimero-core | [open](records/electromagnetoscopes-calimero-project-calimero-core-bf7faa63.md) |
 | `github_search_electromagnetoscopes-8c448301e0c17b` | jaimedantas/Frequency-Analyzer-Arduino | [open](records/electromagnetoscopes-jaimedantas-frequency-analyzer-arduino-03386bd1.md) |
 | `github_search_electromagnetoscopes-8c57429b311fad` | 777arc/PySDR | [open](records/electromagnetoscopes-777arc-pysdr-75b8d003.md) |
 | `github_search_electromagnetoscopes-8c66715498c9b5` | mgp25/OpenLTE | [open](records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
+| `github_search_electromagnetoscopes-8c8507258ca530` | alex-faustino/Mag-Cal | [open](records/electromagnetoscopes-alex-faustino-mag-cal-0249f0e5.md) |
 | `github_search_electromagnetoscopes-8ceae1bc9efac1` | gnuradio/volk | [open](records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
 | `github_search_electromagnetoscopes-8da9d3f2849d3e` | spaceymonk/morse-analyzer | [open](records/electromagnetoscopes-spaceymonk-morse-analyzer-9e091d52.md) |
+| `github_search_electromagnetoscopes-8e59016295df16` | pouretrebelle/arduino-drawing | [open](records/electromagnetoscopes-pouretrebelle-arduino-drawing-9ef8f55a.md) |
 | `github_search_electromagnetoscopes-8f1fa1be845762` | eltjonqef/OceanSARImagingSimulator | [open](records/electromagnetoscopes-eltjonqef-oceansarimagingsimulator-227c6636.md) |
 | `github_search_electromagnetoscopes-901cd250282609` | AlexandreRouma/SDRPlusPlus | [open](records/electromagnetoscopes-alexandrerouma-sdrplusplus-df221116.md) |
 | `github_search_electromagnetoscopes-90ddf4b98332d1` | renanmav/pycst | [open](records/electromagnetoscopes-renanmav-pycst-f586fea1.md) |
@@ -9464,15 +9497,20 @@
 | `github_search_electromagnetoscopes-9746867f576c7e` | geoscixyz/em | [open](records/electromagnetoscopes-geoscixyz-em-1d06bb77.md) |
 | `github_search_electromagnetoscopes-977ee73584b04e` | italocjs/magnetometer_calibration | [open](records/electromagnetoscopes-italocjs-magnetometer-calibration-5b054ea4.md) |
 | `github_search_electromagnetoscopes-98bef9fafbd4b8` | analogdevicesinc/m2k-fw | [open](records/electromagnetoscopes-analogdevicesinc-m2k-fw-abe3f0ff.md) |
+| `github_search_electromagnetoscopes-9928d2bfef7b46` | tuliofalmeida/jama | [open](records/electromagnetoscopes-tuliofalmeida-jama-4fe6a9a6.md) |
 | `github_search_electromagnetoscopes-997792e5eec989` | ttrftech/NanoVNA | [open](records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
 | `github_search_electromagnetoscopes-99fba8abd891a3` | 30hours/blah2 | [open](records/electromagnetoscopes-30hours-blah2-83893ba5.md) |
 | `github_search_electromagnetoscopes-9a636b63f75259` | open-sdr/openwifi | [open](records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | `github_search_electromagnetoscopes-9b7ad6f234dc7c` | miegl/PiFmAdv | [open](records/electromagnetoscopes-miegl-pifmadv-8471d72f.md) |
 | `github_search_electromagnetoscopes-9b7bc9649edafd` | tektronix/RSA_API | [open](records/electromagnetoscopes-tektronix-rsa-api-3914ecbd.md) |
+| `github_search_electromagnetoscopes-9bd681a04dec15` | coreemu/core | [open](records/electromagnetoscopes-coreemu-core-41eeec64.md) |
 | `github_search_electromagnetoscopes-9c81d2e165123b` | mebrown47/CUDA_spectrum | [open](records/electromagnetoscopes-mebrown47-cuda-spectrum-240ee354.md) |
 | `github_search_electromagnetoscopes-9d2c6ea7b55495` | nauaneed/CompleteAttDetSim | [open](records/electromagnetoscopes-nauaneed-completeattdetsim-35b2a8b1.md) |
+| `github_search_electromagnetoscopes-9dd233d89ef025` | waymond91/APM2.5-6_Custom_Firmware | [open](records/electromagnetoscopes-waymond91-apm2-5-6-custom-firmware-a5444556.md) |
 | `github_search_electromagnetoscopes-9ea8b7b16afb85` | muccc/gr-iridium | [open](records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
 | `github_search_electromagnetoscopes-9eb3944e73ddee` | Raiden-Numerics/mufem | [open](records/electromagnetoscopes-raiden-numerics-mufem-30380f48.md) |
+| `github_search_electromagnetoscopes-9fa25f12e87e15` | HighCodeh/TentacleOS | [open](records/electromagnetoscopes-highcodeh-tentacleos-f03c4c66.md) |
+| `github_search_electromagnetoscopes-a0700e937987d4` | JosephRedfern/PyVMU | [open](records/electromagnetoscopes-josephredfern-pyvmu-ad0289dd.md) |
 | `github_search_electromagnetoscopes-a083d6a09e4a64` | UniPD-DII-ETCOMP/Half_Space_Green_A_Phi | [open](records/electromagnetoscopes-unipd-dii-etcomp-half-space-green-a-phi-a6366bbc.md) |
 | `github_search_electromagnetoscopes-a2bafe840414e5` | f4exb/sdrangel | [open](records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | `github_search_electromagnetoscopes-a2fcc05c73c072` | Xinyuan-LilyGO/LilyGo-LoRa-Series | [open](records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) |
@@ -9481,6 +9519,7 @@
 | `github_search_electromagnetoscopes-a69d8d1401f649` | lyusupov/SoftRF | [open](records/electromagnetoscopes-lyusupov-softrf-3a8c8d89.md) |
 | `github_search_electromagnetoscopes-a703e11f816389` | Gjacquenot/Puma-EM | [open](records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) |
 | `github_search_electromagnetoscopes-a88a2b14a137e9` | jleinonen/pytmatrix | [open](records/electromagnetoscopes-jleinonen-pytmatrix-c0930873.md) |
+| `github_search_electromagnetoscopes-a8b6b662865e89` | pasthev/sensus | [open](records/electromagnetoscopes-pasthev-sensus-9cc06f32.md) |
 | `github_search_electromagnetoscopes-a8c1b1a6098f33` | wallarug/CircuitPython_MPU9250 | [open](records/electromagnetoscopes-wallarug-circuitpython-mpu9250-932fe89d.md) |
 | `github_search_electromagnetoscopes-a8daa74500b79b` | OpenRTX/OpenRTX | [open](records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | `github_search_electromagnetoscopes-a97c1469884721` | goxr3plus/XR3Player | [open](records/electromagnetoscopes-goxr3plus-xr3player-24e271ed.md) |
@@ -9491,10 +9530,14 @@
 | `github_search_electromagnetoscopes-ac0b9acec9aea3` | JonaNorman/HDRSample | [open](records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
 | `github_search_electromagnetoscopes-ac1d6a36d9279b` | Moosync/Moosync-electron | [open](records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
 | `github_search_electromagnetoscopes-ac5475dccdda17` | jdunne525/spectrum-analyzer-2.4g | [open](records/electromagnetoscopes-jdunne525-spectrum-analyzer-2-4g-f583c495.md) |
+| `github_search_electromagnetoscopes-ad2c83d3612748` | 0xCoto/Virgo | [open](records/electromagnetoscopes-0xcoto-virgo-7d12715b.md) |
 | `github_search_electromagnetoscopes-ade7adff898684` | questrail/keysight | [open](records/electromagnetoscopes-questrail-keysight-54ace743.md) |
 | `github_search_electromagnetoscopes-ae0747351a9a51` | AzuraCast/AzuraCast | [open](records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
 | `github_search_electromagnetoscopes-aead1a8dcaf98e` | mclim9/rssd | [open](records/electromagnetoscopes-mclim9-rssd-88a857e7.md) |
+| `github_search_electromagnetoscopes-aefc8b8e6a4d0b` | defcon24bit/record-and-replay-RF-remote | [open](records/electromagnetoscopes-defcon24bit-record-and-replay-rf-remote-0eb38549.md) |
+| `github_search_electromagnetoscopes-af8b06e31667ec` | Ttl/torchbp | [open](records/electromagnetoscopes-ttl-torchbp-22ba7be7.md) |
 | `github_search_electromagnetoscopes-b03d1931f82b94` | tlecomte/friture | [open](records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
+| `github_search_electromagnetoscopes-b09c589c6ab126` | ChrisZonghaoLi/motion_tracking_using_magnetometer | [open](records/electromagnetoscopes-chriszonghaoli-motion-tracking-using-magnetometer-6d499bf3.md) |
 | `github_search_electromagnetoscopes-b0d73d093039a5` | falkenber9/falcon | [open](records/electromagnetoscopes-falkenber9-falcon-0651a0dc.md) |
 | `github_search_electromagnetoscopes-b147ce39c2cd9b` | kpreid/shinysdr | [open](records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
 | `github_search_electromagnetoscopes-b21fe1c2c1a562` | Tomato6966/Musicium | [open](records/electromagnetoscopes-tomato6966-musicium-0209b55c.md) |
@@ -9508,10 +9551,12 @@
 | `github_search_electromagnetoscopes-b5994aad98a65d` | F5OEO/tezuka_fw | [open](records/electromagnetoscopes-f5oeo-tezuka-fw-1443a501.md) |
 | `github_search_electromagnetoscopes-b5a5e8dfac7047` | yyoshiki41/radigo | [open](records/electromagnetoscopes-yyoshiki41-radigo-1798ba4d.md) |
 | `github_search_electromagnetoscopes-b5dfe704ca84f3` | dernasherbrezon/r2cloud | [open](records/electromagnetoscopes-dernasherbrezon-r2cloud-ccffcbcb.md) |
+| `github_search_electromagnetoscopes-b5f366598f6a86` | MattCheramie/GopherTrunk | [open](records/electromagnetoscopes-mattcheramie-gophertrunk-5b37e2a7.md) |
 | `github_search_electromagnetoscopes-b5fd89ebfe4d75` | cariboulabs/cariboulite | [open](records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
 | `github_search_electromagnetoscopes-b6ac40ee6de4b7` | fancompute/fdfdpy | [open](records/electromagnetoscopes-fancompute-fdfdpy-7055ab0b.md) |
 | `github_search_electromagnetoscopes-b6bcc1fc344474` | swung-research/3d-csem-open-source-landscape | [open](records/electromagnetoscopes-swung-research-3d-csem-open-source-landscape-e19d3b22.md) |
 | `github_search_electromagnetoscopes-b6e4cb7d4d9aa2` | XMLTV/xmltv | [open](records/electromagnetoscopes-xmltv-xmltv-3f96decf.md) |
+| `github_search_electromagnetoscopes-b6ee5ea36ccd8e` | loxodes/vna | [open](records/electromagnetoscopes-loxodes-vna-b79ed30e.md) |
 | `github_search_electromagnetoscopes-b75b25f527152c` | andre-batista/eispy2d | [open](records/electromagnetoscopes-andre-batista-eispy2d-8658f386.md) |
 | `github_search_electromagnetoscopes-b8e43a72ba4435` | libdriver/hmc5883l | [open](records/electromagnetoscopes-libdriver-hmc5883l-7c4b8215.md) |
 | `github_search_electromagnetoscopes-b9f5b92d2476db` | GareBear99/FreeEQ8 | [open](records/electromagnetoscopes-garebear99-freeeq8-96eca3b7.md) |
@@ -9538,6 +9583,8 @@
 | `github_search_electromagnetoscopes-c611c544e8373b` | vsergeev/luaradio | [open](records/electromagnetoscopes-vsergeev-luaradio-d9cd45c1.md) |
 | `github_search_electromagnetoscopes-c648d57462ebea` | dpnkrpl/radio-active | [open](records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
 | `github_search_electromagnetoscopes-c6baa3b5d56a36` | psyb0t/piraterf | [open](records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) |
+| `github_search_electromagnetoscopes-c6f34eed6e5bb3` | ramses-rf/ramses_cc | [open](records/electromagnetoscopes-ramses-rf-ramses-cc-395bdb36.md) |
+| `github_search_electromagnetoscopes-c6fe87bd8015dd` | michal34512/Magnetometer-calibration | [open](records/electromagnetoscopes-michal34512-magnetometer-calibration-c74cfd04.md) |
 | `github_search_electromagnetoscopes-c71cbeb2d710f5` | drcpattison/DPEng_ICM20948_AK09916 | [open](records/electromagnetoscopes-drcpattison-dpeng-icm20948-ak09916-4faabcbe.md) |
 | `github_search_electromagnetoscopes-c7693f49a014c9` | wayou/audio-visualizer-with-controls | [open](records/electromagnetoscopes-wayou-audio-visualizer-with-controls-e881592e.md) |
 | `github_search_electromagnetoscopes-c8e6872f837761` | sgoudelis/ground-station | [open](records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
@@ -9550,6 +9597,7 @@
 | `github_search_electromagnetoscopes-cd82897aebf2a8` | eldraco/Salamandra | [open](records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | `github_search_electromagnetoscopes-cdfc224468e406` | tapparelj/gr-lora_sdr | [open](records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
 | `github_search_electromagnetoscopes-cec02e3d4d44d4` | JuliaPhysics/ThinFilmsTools.jl | [open](records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) |
+| `github_search_electromagnetoscopes-cf70ae18aa060e` | myazi/myLearn | [open](records/electromagnetoscopes-myazi-mylearn-5cee9c03.md) |
 | `github_search_electromagnetoscopes-d00683702afe39` | rahulhaque/compass-react-native | [open](records/electromagnetoscopes-rahulhaque-compass-react-native-7e739ae1.md) |
 | `github_search_electromagnetoscopes-d0624f41934406` | ThakurBallary/react-native-radio-buttons-group | [open](records/electromagnetoscopes-thakurballary-react-native-radio-buttons-group-16ff86a3.md) |
 | `github_search_electromagnetoscopes-d112b0e47e86ae` | Varvrar/ios_logger | [open](records/electromagnetoscopes-varvrar-ios-logger-a2f9d628.md) |
@@ -9561,17 +9609,22 @@
 | `github_search_electromagnetoscopes-d5ffbc8e983b84` | giorgiogamba/avil | [open](records/electromagnetoscopes-giorgiogamba-avil-1eacaaaf.md) |
 | `github_search_electromagnetoscopes-d695a447936872` | Koenvh1/ets2-local-radio | [open](records/electromagnetoscopes-koenvh1-ets2-local-radio-8d5f9c1b.md) |
 | `github_search_electromagnetoscopes-d7666ce775735a` | wollewald/ICM20948_WE | [open](records/electromagnetoscopes-wollewald-icm20948-we-634e80fd.md) |
+| `github_search_electromagnetoscopes-d78ace29423d35` | kholia/Easy-Digital-Beacons-v1 | [open](records/electromagnetoscopes-kholia-easy-digital-beacons-v1-6bb323cc.md) |
 | `github_search_electromagnetoscopes-d8433fd609b61e` | Lauszus/LaunchPadFlightController | [open](records/electromagnetoscopes-lauszus-launchpadflightcontroller-8b7c701f.md) |
 | `github_search_electromagnetoscopes-d8457c9ba5ca00` | Mictronics/multi-sdr-gps-sim | [open](records/electromagnetoscopes-mictronics-multi-sdr-gps-sim-a3c72c37.md) |
 | `github_search_electromagnetoscopes-d8eb2cd52d0426` | Soul-AILab/SoulX-Transcriber | [open](records/electromagnetoscopes-soul-ailab-soulx-transcriber-f9a0431b.md) |
 | `github_search_electromagnetoscopes-d9a68ac2da99b5` | LargeModGames/spotatui | [open](records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
+| `github_search_electromagnetoscopes-dc0d10de62ec37` | rfonod/detumbling-simulator | [open](records/electromagnetoscopes-rfonod-detumbling-simulator-79b52c6c.md) |
 | `github_search_electromagnetoscopes-dd997b82ef9fad` | xmikos/soapy_power | [open](records/electromagnetoscopes-xmikos-soapy-power-d5fb272e.md) |
 | `github_search_electromagnetoscopes-ded9864d3f9cea` | DrSkyFire/Odyssey | [open](records/electromagnetoscopes-drskyfire-odyssey-35414a88.md) |
 | `github_search_electromagnetoscopes-df266d583469b9` | cn0xroot/RFSec-ToolKit | [open](records/electromagnetoscopes-cn0xroot-rfsec-toolkit-af5f5a3e.md) |
+| `github_search_electromagnetoscopes-df86889ee194da` | nkarasiak/dzetsaka | [open](records/electromagnetoscopes-nkarasiak-dzetsaka-ddb75c4b.md) |
 | `github_search_electromagnetoscopes-e02d396768694f` | srsran/srsRAN_Project | [open](records/electromagnetoscopes-srsran-srsran-project-88eaac4d.md) |
 | `github_search_electromagnetoscopes-e07f3b6c3de3d8` | tabahi/Mel-Spectrum-Analyzer | [open](records/electromagnetoscopes-tabahi-mel-spectrum-analyzer-a1d84357.md) |
 | `github_search_electromagnetoscopes-e083a82edd5f78` | nikhil-sarin/redback | [open](records/electromagnetoscopes-nikhil-sarin-redback-286c421c.md) |
 | `github_search_electromagnetoscopes-e08952914b00a3` | pckbls/pulseviz | [open](records/electromagnetoscopes-pckbls-pulseviz-e53be6d5.md) |
+| `github_search_electromagnetoscopes-e1cc9b24c9840f` | nliaudat/weatherstation | [open](records/electromagnetoscopes-nliaudat-weatherstation-8cd7f04b.md) |
+| `github_search_electromagnetoscopes-e29d4ee02e5ec5` | cpainchaud/RFLink32 | [open](records/electromagnetoscopes-cpainchaud-rflink32-443611fd.md) |
 | `github_search_electromagnetoscopes-e2d772a87c809e` | Zeloksa/Cardputer-ADV-WiFi-BLE-Radar | [open](records/electromagnetoscopes-zeloksa-cardputer-adv-wifi-ble-radar-1485fddd.md) |
 | `github_search_electromagnetoscopes-e3a0991a5e40e8` | ApplikeySolutions/PandoraPlayer | [open](records/electromagnetoscopes-applikeysolutions-pandoraplayer-2a041af3.md) |
 | `github_search_electromagnetoscopes-e3d9a4894eb0f0` | wgbowley/CoilGun | [open](records/electromagnetoscopes-wgbowley-coilgun-d8d1bb66.md) |
@@ -9581,7 +9634,10 @@
 | `github_search_electromagnetoscopes-e501ce9fa4c434` | EdgeTX/edgetx | [open](records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | `github_search_electromagnetoscopes-e556a760b31ae3` | justcallmekoko/MusicVisualizer | [open](records/electromagnetoscopes-justcallmekoko-musicvisualizer-85347a2f.md) |
 | `github_search_electromagnetoscopes-e55b554c002ae5` | UncleRus/esp-idf-lib | [open](records/electromagnetoscopes-unclerus-esp-idf-lib-e8c21ea2.md) |
+| `github_search_electromagnetoscopes-e5839e8c905723` | darienmt/FCND-Term1-P4-3D-Estimation | [open](records/electromagnetoscopes-darienmt-fcnd-term1-p4-3d-estimation-1d47a727.md) |
 | `github_search_electromagnetoscopes-e66e2b4fe9075a` | pagermon/pagermon | [open](records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) |
+| `github_search_electromagnetoscopes-e733d524795b49` | ramses-rf/ramses_rf | [open](records/electromagnetoscopes-ramses-rf-ramses-rf-836f9645.md) |
+| `github_search_electromagnetoscopes-e844ec7463d909` | xaxaxa-dev/vna | [open](records/electromagnetoscopes-xaxaxa-dev-vna-01e24869.md) |
 | `github_search_electromagnetoscopes-e845d3367c4988` | LC-Linkous/tinySA_python | [open](records/electromagnetoscopes-lc-linkous-tinysa-python-593b35ba.md) |
 | `github_search_electromagnetoscopes-e9ea7c0316dd70` | ha7ilm/csdr | [open](records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
 | `github_search_electromagnetoscopes-ea02aa4458c264` | rtl-airband/RTLSDR-Airband | [open](records/electromagnetoscopes-rtl-airband-rtlsdr-airband-0011999f.md) |
@@ -9589,11 +9645,14 @@
 | `github_search_electromagnetoscopes-eb71092015b0be` | EarToEarOak/RTLSDR-Scanner | [open](records/electromagnetoscopes-eartoearoak-rtlsdr-scanner-cde8a03f.md) |
 | `github_search_electromagnetoscopes-eb93367e6c6668` | jopohl/urh | [open](records/electromagnetoscopes-jopohl-urh-450dc5c5.md) |
 | `github_search_electromagnetoscopes-ebb021cdcd9c2c` | habe36/Dispersive_FDTD | [open](records/electromagnetoscopes-habe36-dispersive-fdtd-b76cee10.md) |
+| `github_search_electromagnetoscopes-ec3ea671219513` | abduznik/instrumation | [open](records/electromagnetoscopes-abduznik-instrumation-46ef2281.md) |
 | `github_search_electromagnetoscopes-ed421a5e5dfe8f` | geo-tp/ESP32-Bit-Pirate | [open](records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | `github_search_electromagnetoscopes-ed8d24073ede54` | SysSec-KAIST/LTESniffer | [open](records/electromagnetoscopes-syssec-kaist-ltesniffer-4bb1c9e6.md) |
 | `github_search_electromagnetoscopes-edded1d5bb59b5` | eldruin/lsm303agr-rs | [open](records/electromagnetoscopes-eldruin-lsm303agr-rs-f0561090.md) |
 | `github_search_electromagnetoscopes-ef0689a2f2227d` | usnistgov/SCATMECH | [open](records/electromagnetoscopes-usnistgov-scatmech-3d4035fe.md) |
+| `github_search_electromagnetoscopes-eff6e77a0ba4ea` | AliRezaJoodi/Electronics_Exercises | [open](records/electromagnetoscopes-alirezajoodi-electronics-exercises-a1c21a7f.md) |
 | `github_search_electromagnetoscopes-f0a59ce6b2eebe` | sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library | [open](records/electromagnetoscopes-sparkfun-sparkfun-mag3110-breakout-board-arduino-library-bd73d0cd.md) |
+| `github_search_electromagnetoscopes-f10564d164f230` | RFD-FHEM/SIGNALDuino | [open](records/electromagnetoscopes-rfd-fhem-signalduino-1713af73.md) |
 | `github_search_electromagnetoscopes-f13dc4bff62855` | simpeg-research/casingSimulations | [open](records/electromagnetoscopes-simpeg-research-casingsimulations-c391ca8f.md) |
 | `github_search_electromagnetoscopes-f1438d4eaaedc6` | SatDump/SatDump | [open](records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | `github_search_electromagnetoscopes-f22c950758f5f4` | Pyrograf/Audio-Spectrum-Display | [open](records/electromagnetoscopes-pyrograf-audio-spectrum-display-f9f518d4.md) |
@@ -9601,20 +9660,27 @@
 | `github_search_electromagnetoscopes-f2b2c7ac6ac148` | demantz/RFAnalyzer | [open](records/electromagnetoscopes-demantz-rfanalyzer-3b40f3ea.md) |
 | `github_search_electromagnetoscopes-f2d68e8414223f` | 4321ba/MeloMIDI | [open](records/electromagnetoscopes-4321ba-melomidi-9221346a.md) |
 | `github_search_electromagnetoscopes-f392ac29c21f8e` | IoT-PTv/IoT-PT-v1 | [open](records/electromagnetoscopes-iot-ptv-iot-pt-v1-052c2efe.md) |
+| `github_search_electromagnetoscopes-f572b2fa1ac8fb` | CrossGeeks/DeviceSensorsPlugin | [open](records/electromagnetoscopes-crossgeeks-devicesensorsplugin-20740106.md) |
 | `github_search_electromagnetoscopes-f5ec5ff845b0e4` | osmocom/rtl-sdr | [open](records/electromagnetoscopes-osmocom-rtl-sdr-3b21ada6.md) |
 | `github_search_electromagnetoscopes-f6006affe59728` | lyza-shyrzai/Electromagnetic-Fields-and-Waves | [open](records/electromagnetoscopes-lyza-shyrzai-electromagnetic-fields-and-waves-78a6932c.md) |
 | `github_search_electromagnetoscopes-f6b6f0cd3ace8b` | mmalekzadeh/dana | [open](records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) |
+| `github_search_electromagnetoscopes-f6cf9f2d4c2685` | jankae/LibreVNA | [open](records/electromagnetoscopes-jankae-librevna-ee5c2ebb.md) |
 | `github_search_electromagnetoscopes-f73cd1564ee9dd` | ypwhs/Acceleration-iOS | [open](records/electromagnetoscopes-ypwhs-acceleration-ios-e1817143.md) |
 | `github_search_electromagnetoscopes-f75a9d6ec36257` | greatscottgadgets/ubertooth | [open](records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | `github_search_electromagnetoscopes-f7e6f20b617968` | asukiaaa/MPU9250_asukiaaa | [open](records/electromagnetoscopes-asukiaaa-mpu9250-asukiaaa-a4eec852.md) |
 | `github_search_electromagnetoscopes-f7fc51b4c4a759` | RCmags/basicMPU6050 | [open](records/electromagnetoscopes-rcmags-basicmpu6050-dc2bd37a.md) |
+| `github_search_electromagnetoscopes-f9129ad9ddd315` | jekispank98/CanvaCompass | [open](records/electromagnetoscopes-jekispank98-canvacompass-38753adb.md) |
 | `github_search_electromagnetoscopes-f943b65905a453` | deftio/WebAudioSpectrum | [open](records/electromagnetoscopes-deftio-webaudiospectrum-9e07e63d.md) |
+| `github_search_electromagnetoscopes-fa01a097f4e260` | jankae/LibreCAL | [open](records/electromagnetoscopes-jankae-librecal-411a7756.md) |
 | `github_search_electromagnetoscopes-fa7993b340ad20` | makerportal/mpu92-calibration | [open](records/electromagnetoscopes-makerportal-mpu92-calibration-fa5de0b5.md) |
 | `github_search_electromagnetoscopes-fc0009c9713871` | W00t3k/Awesome-Cellular-Hacking | [open](records/electromagnetoscopes-w00t3k-awesome-cellular-hacking-8e70c8fe.md) |
 | `github_search_electromagnetoscopes-fc25bc8d0a6245` | Infineon/TLV493D-A1B6-3DMagnetic-Sensor | [open](records/electromagnetoscopes-infineon-tlv493d-a1b6-3dmagnetic-sensor-46288326.md) |
 | `github_search_electromagnetoscopes-fd56a589fcf57d` | hvianna/audioMotion-analyzer | [open](records/electromagnetoscopes-hvianna-audiomotion-analyzer-80ec5290.md) |
 | `github_search_electromagnetoscopes-fdcd5c6ad82a98` | ghostop14/sparrow-wifi | [open](records/electromagnetoscopes-ghostop14-sparrow-wifi-385fa5e7.md) |
+| `github_search_electromagnetoscopes-ff229f64f7538b` | fredilarsen/TeslaChargeDoorOpener | [open](records/electromagnetoscopes-fredilarsen-teslachargedooropener-23a31b83.md) |
 | `github_search_electromagnetoscopes-ff4a0f990d4ce3` | dabana/TEM_dash | [open](records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
+| `github_search_electromagnetoscopes-ff51ab01f0dbf8` | libdriver/qmc5883l | [open](records/electromagnetoscopes-libdriver-qmc5883l-d015789c.md) |
+| `github_search_electromagnetoscopes-ff54173c438b10` | libdriver/mifare_classic | [open](records/electromagnetoscopes-libdriver-mifare-classic-9225e9b2.md) |
 | `github_search_electromagnetoscopes-ffa9753461887a` | gethiox/GXAudioVisualisation | [open](records/electromagnetoscopes-gethiox-gxaudiovisualisation-5cc49a10.md) |
 | `github_search_engines-008efac50870e9` | dae-cpp/dae-cpp | [open](records/engines-dae-cpp-dae-cpp-32cc0a80.md) |
 | `github_search_engines-0215d2f11622ae` | context-and-oss/XrmMockup | [open](records/engines-context-and-oss-xrmmockup-214b80d4.md) |
@@ -13552,6 +13618,7 @@
 | `github_search_repertoare_catalogs-20fd8d09350ada` | MinaSaad1/n8n-ai-qualified-booking | [open](records/repertoare-catalogs-minasaad1-n8n-ai-qualified-booking-8d96fc2b.md) |
 | `github_search_repertoare_catalogs-2106c47deb51f9` | pythymcpyface/lichess-analyser | [open](records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |
 | `github_search_repertoare_catalogs-22a36101e45f30` | marshallswain/song-book-api | [open](records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
+| `github_search_repertoare_catalogs-23023257d3acb3` | governance-demo/na-ctl-inventory-realtime-scorer-cli | [open](records/repertoare-catalogs-governance-demo-na-ctl-inventory-realtime-scorer-cli-b87b8f89.md) |
 | `github_search_repertoare_catalogs-276dc46f859ea5` | Chistera-Scoring/services-catalog | [open](records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | `github_search_repertoare_catalogs-283224c4287f5d` | Sanjay0232/Catalogue-Scoring | [open](records/repertoare-catalogs-sanjay0232-catalogue-scoring-016492cf.md) |
 | `github_search_repertoare_catalogs-2958721a1febea` | Venu-Guptha/Indexing-Crawling-and-Ranking | [open](records/repertoare-catalogs-venu-guptha-indexing-crawling-and-ranking-0018fc06.md) |
@@ -25925,6 +25992,7 @@
 | `npm_registry-d297f7547098e0` | @tauri-apps/plugin-log | [open](records/node-js-javascript-tauri-apps-plugin-log-2be10d86.md) |
 | `npm_registry-d2c90b890c3536` | @cubejs-backend/duckdb-driver | [open](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | `npm_registry-d2f756789eba13` | fast-xml-parser | [open](records/node-js-javascript-fast-xml-parser-a671482d.md) |
+| `npm_registry-d30222d5fa22fa` | @transcend-io/mcp-server-base | [open](records/node-js-javascript-transcend-io-mcp-server-base-8b65e39b.md) |
 | `npm_registry-d30ce729ab59b4` | with-server | [open](records/node-js-javascript-with-server-94d16146.md) |
 | `npm_registry-d31cfc033102c0` | @trivago/prettier-plugin-sort-imports | [open](records/node-js-javascript-trivago-prettier-plugin-sort-imports-3d1fcff8.md) |
 | `npm_registry-d32144a15423a8` | exframe-security | [open](records/node-js-javascript-exframe-security-69514e3e.md) |

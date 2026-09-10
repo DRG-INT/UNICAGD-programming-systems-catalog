@@ -1,6 +1,6 @@
 # Library
 
-Records: `5944`
+Records: `5961`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `5944`
 
 ## Category Index
 
-[Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1030)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1669)](filesystem-os.md) · [Formatter (661)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1497)](ide-editor-integration.md)
-[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · **[Library (5944)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
-[Math Numeric Scientific (92)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1224)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Embedded Hardware (66)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1500)](ide-editor-integration.md)
+[Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · **[Library (5961)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (652)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (633)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (606)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -1927,8 +1927,8 @@ Records: `5944`
 | wasm-bindgen | 0.2.128 | 2026-09-04T23:58:10.332542Z | [open](../records/rust-wasm-bindgen-4920fb2c.md) |
 | wasm-bindgen-backend | 0.2.104 | 2025-09-24T15:09:20.715312Z | [open](../records/rust-wasm-bindgen-backend-b865b5aa.md) |
 | wasm-bindgen-futures | 0.4.78 | 2026-09-04T23:58:17.192884Z | [open](../records/rust-wasm-bindgen-futures-07e4253c.md) |
-| wasm-encoder | 0.258.0 | 2026-08-24T17:11:58.566639Z | [open](../records/rust-wasm-encoder-3c68ef24.md) |
-| wasm-metadata | 0.258.0 | 2026-08-24T17:12:14.886911Z | [open](../records/rust-wasm-metadata-d391b536.md) |
+| wasm-encoder | 0.259.0 | 2026-09-10T17:56:39.484498Z | [open](../records/rust-wasm-encoder-3c68ef24.md) |
+| wasm-metadata | 0.259.0 | 2026-09-10T17:56:57.479884Z | [open](../records/rust-wasm-metadata-d391b536.md) |
 | wasm-streams | 0.6.0 | 2026-05-24T13:46:25.406359Z | [open](../records/rust-wasm-streams-05d45669.md) |
 | webpki | 0.22.4 | 2023-10-09T00:31:09.299041Z | [open](../records/rust-webpki-91a4b3c2.md) |
 | webpki-roots | 1.0.9 | 2026-07-18T09:30:44.802479Z | [open](../records/rust-webpki-roots-4aa40f15.md) |
@@ -1947,7 +1947,7 @@ Records: `5944`
 | windows_i686_msvc | 0.53.1 | 2025-10-06T17:33:49.033999Z | [open](../records/rust-windows-i686-msvc-04f5ae74.md) |
 | windows_x86_64_gnu | 0.53.1 | 2025-10-06T17:33:55.996108Z | [open](../records/rust-windows-x86-64-gnu-743e5b85.md) |
 | windows_x86_64_msvc | 0.53.1 | 2025-10-06T17:34:07.266605Z | [open](../records/rust-windows-x86-64-msvc-6d9f71b3.md) |
-| wit-component | 0.258.0 | 2026-08-24T17:12:17.466374Z | [open](../records/rust-wit-component-6365faff.md) |
+| wit-component | 0.259.0 | 2026-09-10T17:57:00.077281Z | [open](../records/rust-wit-component-6365faff.md) |
 | xcursor | 0.3.11 | 2026-07-31T11:53:43.571238Z | [open](../records/rust-xcursor-ea66d697.md) |
 | xkeysym | 0.2.1 | 2024-06-07T01:37:51.789727Z | [open](../records/rust-xkeysym-d4016148.md) |
 | y4m | 0.8.0 | 2023-04-21T11:32:10.292388Z | [open](../records/rust-y4m-f2020732.md) |
@@ -4223,17 +4223,17 @@ Records: `5944`
 | yesod-dsl | 0.2.1 | 2016-01-03T10:57:32Z | [open](../records/haskell-yesod-dsl-b95826c9.md) |
 | yesod-fay | 0.10.0 | 2019-04-30T00:27:42Z | [open](../records/haskell-yesod-fay-4ac10525.md) |
 | yesod-form | 1.7.11 | 2026-07-29T16:00:00Z | [open](../records/haskell-yesod-form-9c06a755.md) |
-| yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
-| yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
-| yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
-| yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
-| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| yesod-markdown | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
+| yesod-persistent | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-persistent-425557b9.md) |
+| yesod-platform | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-platform-cc0166b2.md) |
+| yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
+| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4438,7 +4438,7 @@ Records: `5944`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4462,7 +4462,7 @@ Records: `5944`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-10T17:48:21Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4476,7 +4476,7 @@ Records: `5944`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-10T18:13:57Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5538,6 +5538,8 @@ Records: `5944`
 | --- | --- | --- | --- |
 | acyucel/VoxHenry | partial | 2020-01-02T22:04:08Z | [open](../records/electromagnetoscopes-acyucel-voxhenry-e098e124.md) |
 | AlbrechtL/welle.io | partial | 2026-08-13T16:00:11Z | [open](../records/electromagnetoscopes-albrechtl-welle-io-1ed8e849.md) |
+| alex-faustino/Mag-Cal | partial | 2017-02-10T18:01:49Z | [open](../records/electromagnetoscopes-alex-faustino-mag-cal-0249f0e5.md) |
+| alimoncul/piController | partial | 2019-09-27T13:23:47Z | [open](../records/electromagnetoscopes-alimoncul-picontroller-9510e5c5.md) |
 | andre-batista/eispy2d | partial | 2026-09-08T13:10:38Z | [open](../records/electromagnetoscopes-andre-batista-eispy2d-8658f386.md) |
 | andre-batista/Microwave-Imaging | partial | 2021-10-21T17:17:23Z | [open](../records/electromagnetoscopes-andre-batista-microwave-imaging-337d4415.md) |
 | beamzorg/beamz | partial | 2026-09-10T09:08:32Z | [open](../records/electromagnetoscopes-beamzorg-beamz-a88f7bef.md) |
@@ -5548,7 +5550,9 @@ Records: `5944`
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
 | cbassa/strf | partial | 2026-03-06T22:33:19Z | [open](../records/electromagnetoscopes-cbassa-strf-475240d4.md) |
 | CGrassin/rtl_power_scripts | partial | 2019-06-15T18:30:02Z | [open](../records/electromagnetoscopes-cgrassin-rtl-power-scripts-74b55a03.md) |
+| ChrisZonghaoLi/motion_tracking_using_magnetometer | partial | 2022-06-30T22:47:40Z | [open](../records/electromagnetoscopes-chriszonghaoli-motion-tracking-using-magnetometer-6d499bf3.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
+| coreemu/core | partial | 2026-06-02T03:44:27Z | [open](../records/electromagnetoscopes-coreemu-core-41eeec64.md) |
 | daniestevez/gr-satellites | partial | 2026-09-09T19:22:05Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
@@ -5567,8 +5571,14 @@ Records: `5944`
 | greatscottgadgets/yardstick | partial | 2026-03-19T15:58:30Z | [open](../records/electromagnetoscopes-greatscottgadgets-yardstick-cd00b0af.md) |
 | GSchnackers/dgwaves | partial | 2019-05-21T01:14:41Z | [open](../records/electromagnetoscopes-gschnackers-dgwaves-2114e760.md) |
 | ha7ilm/openwebrx | partial | 2024-06-16T14:28:22Z | [open](../records/electromagnetoscopes-ha7ilm-openwebrx-617a3b05.md) |
+| hrvach/espple | partial | 2022-07-31T20:39:18Z | [open](../records/electromagnetoscopes-hrvach-espple-4776da53.md) |
+| Huang-Chuan/Mag-IMU-JointCalibration | partial | 2026-05-07T07:58:34Z | [open](../records/electromagnetoscopes-huang-chuan-mag-imu-jointcalibration-a27bb051.md) |
 | italocjs/magnetometer_calibration | partial | 2023-09-12T12:21:04Z | [open](../records/electromagnetoscopes-italocjs-magnetometer-calibration-5b054ea4.md) |
+| jankae/LibreCAL | partial | 2025-08-03T14:21:22Z | [open](../records/electromagnetoscopes-jankae-librecal-411a7756.md) |
+| jankae/LibreVNA | partial | 2026-07-27T15:13:55Z | [open](../records/electromagnetoscopes-jankae-librevna-ee5c2ebb.md) |
+| jboirazian/LuneForge | partial | 2026-01-23T18:25:43Z | [open](../records/electromagnetoscopes-jboirazian-luneforge-851e7333.md) |
 | jefmenegazzo/mpu-i2c-drivers-python | partial | 2023-02-27T14:09:38Z | [open](../records/electromagnetoscopes-jefmenegazzo-mpu-i2c-drivers-python-f7b0c1f9.md) |
+| jekispank98/CanvaCompass | partial | 2026-07-29T07:14:51Z | [open](../records/electromagnetoscopes-jekispank98-canvacompass-38753adb.md) |
 | jhultman/dead-reckoning | partial | 2021-05-15T05:05:40Z | [open](../records/electromagnetoscopes-jhultman-dead-reckoning-7ab388cb.md) |
 | jks-prv/Beagle_SDR_GPS | partial | 2024-12-03T02:40:57Z | [open](../records/electromagnetoscopes-jks-prv-beagle-sdr-gps-fd8f8388.md) |
 | jleinonen/pytmatrix | partial | 2023-05-10T13:36:52Z | [open](../records/electromagnetoscopes-jleinonen-pytmatrix-c0930873.md) |
@@ -5580,6 +5590,7 @@ Records: `5944`
 | Lauszus/LaunchPadFlightController | partial | 2020-04-11T19:44:13Z | [open](../records/electromagnetoscopes-lauszus-launchpadflightcontroller-8b7c701f.md) |
 | linroid/Sky31Radio | partial | 2019-10-04T12:02:38Z | [open](../records/electromagnetoscopes-linroid-sky31radio-c5c60aad.md) |
 | liviobisogni/quaternion-kalman-filter | partial | 2023-05-17T13:41:52Z | [open](../records/electromagnetoscopes-liviobisogni-quaternion-kalman-filter-423da6ea.md) |
+| M17-Project/LinHT-hw | partial | 2026-08-11T11:06:18Z | [open](../records/electromagnetoscopes-m17-project-linht-hw-0d969c29.md) |
 | marionettejs/backbone.radio | partial | 2026-05-12T17:50:18Z | [open](../records/electromagnetoscopes-marionettejs-backbone-radio-60d3e7cc.md) |
 | markqvist/RNode_Firmware | partial | 2026-04-24T10:26:45Z | [open](../records/electromagnetoscopes-markqvist-rnode-firmware-6437b772.md) |
 | mgp25/OpenLTE | partial | 2021-02-21T19:34:29Z | [open](../records/electromagnetoscopes-mgp25-openlte-fd84bffb.md) |
@@ -5587,12 +5598,17 @@ Records: `5944`
 | micropython-IMU/micropython-mpu9x50 | partial | 2024-10-23T09:43:06Z | [open](../records/electromagnetoscopes-micropython-imu-micropython-mpu9x50-94007183.md) |
 | miegl/PiFmAdv | partial | 2026-02-04T16:49:53Z | [open](../records/electromagnetoscopes-miegl-pifmadv-8471d72f.md) |
 | muccc/gr-iridium | partial | 2026-07-02T09:26:47Z | [open](../records/electromagnetoscopes-muccc-gr-iridium-826df89e.md) |
+| nkarasiak/dzetsaka | partial | 2026-07-29T21:21:24Z | [open](../records/electromagnetoscopes-nkarasiak-dzetsaka-ddb75c4b.md) |
 | nliaudat/magnetometer_calibration | partial | 2025-08-21T17:01:14Z | [open](../records/electromagnetoscopes-nliaudat-magnetometer-calibration-856003ca.md) |
+| nliaudat/weatherstation | partial | 2021-11-09T06:51:20Z | [open](../records/electromagnetoscopes-nliaudat-weatherstation-8cd7f04b.md) |
 | open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | OpenRTX/OpenRTX | partial | 2026-09-07T19:16:58Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
+| ramses-rf/ramses_cc | partial | 2026-09-08T11:51:34Z | [open](../records/electromagnetoscopes-ramses-rf-ramses-cc-395bdb36.md) |
+| ramses-rf/ramses_rf | partial | 2026-09-10T16:38:32Z | [open](../records/electromagnetoscopes-ramses-rf-ramses-rf-836f9645.md) |
+| rbv188/quadric-curve-fit | partial | 2017-08-11T17:45:24Z | [open](../records/electromagnetoscopes-rbv188-quadric-curve-fit-61d9e8be.md) |
 | RedBlight/EFVIE-MoM | partial | 2019-01-23T21:41:27Z | [open](../records/electromagnetoscopes-redblight-efvie-mom-8c3c7dd0.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
 | SatDump/SatDump | partial | 2026-09-06T12:02:20Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
@@ -5612,6 +5628,7 @@ Records: `5944`
 | UniPD-DII-ETCOMP/FFT-PEEC | partial | 2026-06-10T14:49:32Z | [open](../records/electromagnetoscopes-unipd-dii-etcomp-fft-peec-51c66c9d.md) |
 | UniPD-DII-ETCOMP/PEEC-1D | partial | 2021-11-17T17:35:05Z | [open](../records/electromagnetoscopes-unipd-dii-etcomp-peec-1d-f022003c.md) |
 | usnistgov/SCATMECH | partial | 2024-12-18T18:25:54Z | [open](../records/electromagnetoscopes-usnistgov-scatmech-3d4035fe.md) |
+| wheaney/magnetometer-calibrate | partial | 2024-11-18T18:58:52Z | [open](../records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
 | x-extends/vxe-table | partial | 2026-09-10T10:12:25Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
@@ -5836,7 +5853,7 @@ Records: `5944`
 | Kotlin/kotlin-wasm-examples | partial | 2026-01-14T11:54:22Z | [open](../records/webassembly-kotlin-kotlin-wasm-examples-24c10135.md) |
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-10T10:30:34Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-10T18:23:41Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | saghul/wasi-lab | partial | 2021-06-08T05:48:26Z | [open](../records/webassembly-saghul-wasi-lab-3d93b574.md) |
 | SECCON/SECCON2017_online_CTF | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-seccon-seccon2017-online-ctf-82207acc.md) |
