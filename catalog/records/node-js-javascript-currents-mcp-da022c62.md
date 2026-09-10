@@ -41,9 +41,9 @@ routing, middleware policy, service structure, and deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GPL (>= 3); MIT License; https://api.github.com/licenses/mit; Other |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

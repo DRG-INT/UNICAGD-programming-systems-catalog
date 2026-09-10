@@ -423,7 +423,7 @@ Records: `349`
 | github.com/terraform-linters/tflint-ruleset-aws/tools/release | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
 | github.com/Typescript-eslint/typescript-eslint | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | [open](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) |
 | github.com/z-shell/zsh-lint | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| golangci/golangci-lint | unknown | not_a_go_module_path | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
+| golangci/golangci-lint | partial | 2026-09-09T19:01:15Z | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
 
 ## Physics Engines
 

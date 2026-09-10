@@ -394,7 +394,7 @@ Records: `975`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-10T10:38:45Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -469,7 +469,7 @@ Records: `975`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-10T06:38:57Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-10T08:51:58Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Video
 

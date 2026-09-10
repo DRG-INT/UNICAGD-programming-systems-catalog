@@ -518,7 +518,7 @@ Records: `630`
 | uri-bytestring | 0.4.0.1 | 2025-04-10T16:35:16Z | [open](../records/haskell-uri-bytestring-a09e0036.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
 | yampa-test | 0.15 | 2025-02-28T06:55:50Z | [open](../records/haskell-yampa-test-2be489e4.md) |
-| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
@@ -552,9 +552,9 @@ Records: `630`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
 | vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk

@@ -40,7 +40,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Carbon.Json/6.5.2/license |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Carbon.Json/6.5.2/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

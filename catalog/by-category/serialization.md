@@ -356,7 +356,7 @@ Records: `404`
 | json_path | 0.9.0 | 2025-12-11T03:40:14.304298Z | [open](../records/dart-json-path-b66a6801.md) |
 | json_serializable | 6.14.1 | 2026-07-30T18:09:35.070157Z | [open](../records/dart-json-serializable-376b4f22.md) |
 | jwt_decoder | 2.0.1 | 2021-03-26T20:34:30.505536Z | [open](../records/dart-jwt-decoder-c7f7df96.md) |
-| maplibre_gl | 0.27.0 | 2026-08-19T16:03:56.668219Z | [open](../records/dart-maplibre-gl-c2a8383e.md) |
+| maplibre_gl | 0.27.1 | 2026-09-10T08:32:59.458083Z | [open](../records/dart-maplibre-gl-c2a8383e.md) |
 | slang | 4.19.1 | 2026-09-04T22:10:36.076964Z | [open](../records/dart-slang-f760648f.md) |
 | yaml_edit | 2.2.4 | 2026-02-13T07:12:23.296061Z | [open](../records/dart-yaml-edit-865a9bd8.md) |
 
@@ -364,7 +364,7 @@ Records: `404`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chai2010/advanced-go-programming-book | unknown | not_a_go_module_path | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
+| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 

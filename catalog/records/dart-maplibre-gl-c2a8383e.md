@@ -33,7 +33,7 @@ persistence, interoperability, and compatibility boundaries.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.27.0 | 2026-08-19T16:03:56.668219Z | [https://pub.dev/api/packages/maplibre_gl](https://pub.dev/api/packages/maplibre_gl) |  |
+| stable | known | 0.27.1 | 2026-09-10T08:32:59.458083Z | [https://pub.dev/api/packages/maplibre_gl](https://pub.dev/api/packages/maplibre_gl) |  |
 | preview/nightly | unknown |  |  | unknown | pub_dev_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ persistence, interoperability, and compatibility boundaries.
 
 - Treat category as `serialization` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/maplibre_gl` at `2026-09-01T15:35:57+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/maplibre_gl` at `2026-09-10T11:19:37+00:00`.
 - Preview/nightly metadata is unknown because `pub_dev_has_no_standard_nightly_channel`.
 
 ## Provenance

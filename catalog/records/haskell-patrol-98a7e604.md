@@ -21,7 +21,7 @@
 
 ## System Engineer Summary
 
-Hackage package with 52 recent downloads in the Hackage top-downloads listing.
+Hackage package with 53 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-08 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-10 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
 
 </details>
 

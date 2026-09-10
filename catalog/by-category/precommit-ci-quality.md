@@ -362,7 +362,7 @@ Records: `314`
 | Iraeis/circe | partial | 2024-06-21T07:46:33Z | [open](../records/space-maps-iraeis-circe-f13ef4ad.md) |
 | js1019/NormalModes | partial | 2023-01-01T21:53:54Z | [open](../records/space-maps-js1019-normalmodes-10cca106.md) |
 | MarkWieczorek/ctplanet | partial | 2026-08-18T21:05:10Z | [open](../records/space-maps-markwieczorek-ctplanet-5a02ee6d.md) |
-| maxmahlke/rocks | partial | 2026-09-10T09:53:06Z | [open](../records/space-maps-maxmahlke-rocks-873f5e31.md) |
+| maxmahlke/rocks | partial | 2026-09-10T11:08:22Z | [open](../records/space-maps-maxmahlke-rocks-873f5e31.md) |
 | Rishav-k/Steriographic-Projection | partial | 2023-04-06T10:14:55Z | [open](../records/space-maps-rishav-k-steriographic-projection-1254199a.md) |
 | Swanson-Hysell/2019_Tunnunik | partial | 2019-02-04T16:57:11Z | [open](../records/space-maps-swanson-hysell-2019-tunnunik-bb4f3dd1.md) |
 | VirtualPlanetaryLaboratory/vplanet | partial | 2026-08-11T21:24:13Z | [open](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |

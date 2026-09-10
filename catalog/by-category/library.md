@@ -4211,14 +4211,14 @@ Records: `5929`
 | yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
-| yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
-| yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
-| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
+| yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
+| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4423,7 +4423,7 @@ Records: `5929`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4447,8 +4447,8 @@ Records: `5929`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | partial | 2026-09-10T09:15:46Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -5087,7 +5087,7 @@ Records: `5929`
 | fuddlesworth/PlasmaZones | partial | 2026-09-10T04:01:19Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-10T09:30:28Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-10T11:14:31Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |

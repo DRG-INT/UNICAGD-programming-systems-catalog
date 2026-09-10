@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.11.4 | 2026-09-08T07:22:44.048666Z | [https://pub.dev/api/packages/pro_video_editor](https://pub.dev/api/packages/pro_video_editor) |  |
+| stable | known | 2.12.0 | 2026-09-10T09:34:36.293796Z | [https://pub.dev/api/packages/pro_video_editor](https://pub.dev/api/packages/pro_video_editor) |  |
 | preview | known | 2.2.5-dev.2 | 2026-07-03T14:00:54.577339Z | [https://pub.dev/api/packages/pro_video_editor](https://pub.dev/api/packages/pro_video_editor) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `ide_editor_integration` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/pro_video_editor` at `2026-09-08T08:22:44+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/pro_video_editor` at `2026-09-10T11:19:37+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

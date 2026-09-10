@@ -132,8 +132,8 @@ Records: `203`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
-| kataras/iris | unknown | not_a_go_module_path | [open](../records/go-kataras-iris-811820fb.md) |
-| nats-io/nats-server | unknown | not_a_go_module_path | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
+| kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
+| nats-io/nats-server | partial | 2026-09-10T04:06:30Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
 | nelthaarion/breeze | partial | 2026-09-06T22:05:23Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
 | sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
 | tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |

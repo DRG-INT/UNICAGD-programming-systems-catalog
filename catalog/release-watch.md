@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T10:25:34+00:00`
+Generated: `2026-09-10T11:22:37+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,8 +28,8 @@ Generated: `2026-09-10T10:25:34+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10640 |
-| Unknown stable release | 17819 |
+| Known stable release | 10631 |
+| Unknown stable release | 17828 |
 
 ## Newest Known Stable Metadata
 
@@ -38,10 +38,13 @@ Generated: `2026-09-10T10:25:34+00:00`
 | @getpaseo/server | Node.js/JavaScript | Web Framework | 0.8.0 | 2026-09-10T10:18:52.305Z | [open](records/node-js-javascript-getpaseo-server-fdad1689.md) |
 | phino | Haskell | Library | 0.0.124 | 2026-09-10T10:11:54Z | [open](records/haskell-phino-0ffa79f2.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.185.4 | 2026-09-10T09:43:27.838Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| purchases_ui_flutter | Dart | Filesystem Os | 10.12.0 | 2026-09-10T09:42:24.364055Z | [open](records/dart-purchases-ui-flutter-327852a3.md) |
 | node-media-server | Node.js/JavaScript | Web Framework | 4.4.3 | 2026-09-10T09:35:27.534Z | [open](records/node-js-javascript-node-media-server-61ce0684.md) |
+| pro_video_editor | Dart | Ide Editor Integration | 2.12.0 | 2026-09-10T09:34:36.293796Z | [open](records/dart-pro-video-editor-f2637419.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.19 | 2026-09-10T09:10:31.588Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | @zenstackhq/cli | Node.js/JavaScript | Cli | 3.9.4 | 2026-09-10T08:39:47.289Z | [open](records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) |
 | @zenstackhq/server | Node.js/JavaScript | Web Framework | 3.9.4 | 2026-09-10T08:39:42.665Z | [open](records/node-js-javascript-zenstackhq-server-99bce111.md) |
+| maplibre_gl | Dart | Serialization | 0.27.1 | 2026-09-10T08:32:59.458083Z | [open](records/dart-maplibre-gl-c2a8383e.md) |
 | @sitecore-content-sdk/cli | Node.js/JavaScript | Cli | 2.3.0 | 2026-09-10T08:30:32.781Z | [open](records/node-js-javascript-sitecore-content-sdk-cli-681aeaba.md) |
 | @apify/actors-mcp-server | Node.js/JavaScript | Web Framework | 0.15.6 | 2026-09-10T08:29:31.154Z | [open](records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @o3r/testing | Node.js/JavaScript | Build System | 15.1.0 | 2026-09-10T08:27:36.064Z | [open](records/node-js-javascript-o3r-testing-238f6b93.md) |
@@ -282,15 +285,12 @@ Generated: `2026-09-10T10:25:34+00:00`
 | gsaot | R | Static Analyzer | 1.2.0 | 2026-09-09 11:00:02 UTC | [open](records/r-gsaot-03dafb78.md) |
 | aemo | R | Library | 0.4.2 | 2026-09-09 10:40:33 UTC | [open](records/r-aemo-46c8bc85.md) |
 | carbondata | R | Library | 0.2.0 | 2026-09-09 10:40:26 UTC | [open](records/r-carbondata-924852a5.md) |
-| inflateR | R | Library | 0.2.0 | 2026-09-09 10:40:20 UTC | [open](records/r-inflater-a41d4d4c.md) |
-| ons | R | Ffi Bindings | 0.1.4 | 2026-09-09 10:40:14 UTC | [open](records/r-ons-a872c320.md) |
-| readecb | R | Library | 0.1.4 | 2026-09-09 10:40:07 UTC | [open](records/r-readecb-4c1441cf.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10071 |
+| gh_search_reports_activity_not_release_version | 10208 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -302,15 +302,13 @@ Generated: `2026-09-10T10:25:34+00:00`
 | awesome_list_does_not_include_release_date | 237 |
 | github_latest_release_missing | 208 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
-| not_a_go_module_path | 136 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
+| hackage_top_downloads_page_does_not_include_release_date | 15 |
 | not_a_cocoapods_name | 7 |
-| hackage_top_downloads_page_does_not_include_release_date | 6 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

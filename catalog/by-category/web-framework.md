@@ -401,7 +401,7 @@ Records: `494`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -537,7 +537,7 @@ Records: `494`
 | jeeliz/jeelizWeboji | partial | 2024-02-06T19:36:18Z | [open](../records/photography-jeeliz-jeelizweboji-42a4d713.md) |
 | LycheeOrg/Lychee-v3 | partial | 2021-03-10T02:33:37Z | [open](../records/photography-lycheeorg-lychee-v3-f5beff87.md) |
 | photostructure/photostructure-for-servers | partial | 2026-08-26T16:23:33Z | [open](../records/photography-photostructure-photostructure-for-servers-8302af34.md) |
-| photoview/photoview | partial | 2026-09-03T09:33:02Z | [open](../records/photography-photoview-photoview-7180706a.md) |
+| photoview/photoview | partial | 2026-09-10T09:33:03Z | [open](../records/photography-photoview-photoview-7180706a.md) |
 | rzeldent/esp32cam-rtsp | partial | 2026-09-02T06:46:49Z | [open](../records/photography-rzeldent-esp32cam-rtsp-27be08e9.md) |
 | sambecker/exif-photo-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) |
 | Webreaper/Damselfly | partial | 2026-09-02T12:05:12Z | [open](../records/photography-webreaper-damselfly-df92802c.md) |

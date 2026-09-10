@@ -39,9 +39,9 @@ as part of unit/integration validation, regression protection, and release confi
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

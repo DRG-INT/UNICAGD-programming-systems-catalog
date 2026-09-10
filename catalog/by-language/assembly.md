@@ -70,13 +70,13 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-10T08:20:28Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-10T11:02:58Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-09-09T18:08:39Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-10T08:50:52Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-10T10:49:44Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -227,7 +227,7 @@ Records: `308`
 | [apple/swift-crypto](../records/assembly-apple-swift-crypto-1f447802.md) | partial | 2026-09-02T09:52:42Z | registry-derived |
 | [Apress/low-level-programming](../records/assembly-apress-low-level-programming-3b2dd27a.md) | partial | 2023-11-27T22:46:21Z | registry-derived |
 | [avivbrook/Intel-Assembly-Language-Programming-Exercises](../records/assembly-avivbrook-intel-assembly-language-programming-exercises-027e9b7f.md) | partial | 2018-06-26T01:29:32Z | registry-derived |
-| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-09T22:34:34Z | registry-derived |
+| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-10T11:17:13Z | registry-derived |
 | [below/HelloSilicon](../records/assembly-below-hellosilicon-8ff6614f.md) | partial | 2026-05-15T21:16:21Z | registry-derived |
 | [bitdump/BLHeli](../records/assembly-bitdump-blheli-5d346476.md) | partial | 2025-08-21T07:30:10Z | registry-derived |
 | [blackbird71SR/Hello-World](../records/assembly-blackbird71sr-hello-world-2fa43546.md) | partial | 2024-03-02T10:40:36Z | registry-derived |
@@ -251,7 +251,7 @@ Records: `308`
 | [dspinellis/unix-history-repo](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) | partial | 2026-01-05T16:53:18Z | registry-derived |
 | [dwelch67/raspberrypi](../records/assembly-dwelch67-raspberrypi-a219633c.md) | partial | 2023-07-14T09:07:13Z | registry-derived |
 | [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-06T16:32:32Z | registry-derived |
-| [espressif/esp-dl](../records/assembly-espressif-esp-dl-82fca433.md) | partial | 2026-09-09T11:33:32Z | registry-derived |
+| [espressif/esp-dl](../records/assembly-espressif-esp-dl-82fca433.md) | partial | 2026-09-10T10:33:34Z | registry-derived |
 | [fcambus/spleen](../records/assembly-fcambus-spleen-889e6477.md) | partial | 2026-08-12T15:45:38Z | registry-derived |
 | [grassator/mass](../records/assembly-grassator-mass-293a8da9.md) | partial | 2023-10-03T22:05:30Z | registry-derived |
 | [grimdoomer/Xbox360BadUpdate](../records/assembly-grimdoomer-xbox360badupdate-0bdca866.md) | partial | 2026-08-05T23:13:44Z | registry-derived |

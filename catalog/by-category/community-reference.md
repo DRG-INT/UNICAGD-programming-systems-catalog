@@ -120,7 +120,7 @@ Records: `124`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| practical-tutorials/project-based-learning | unknown | not_a_go_module_path | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
+| practical-tutorials/project-based-learning | partial | 2026-09-07T07:09:03Z | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
 
 ## nix
 

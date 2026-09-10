@@ -340,7 +340,7 @@ Records: `765`
 | [phone_state](../records/dart-phone-state-a05f01ce.md) | 4.0.1 | 2026-07-15T10:12:30.945046Z | registry-derived |
 | [pluto_grid](../records/dart-pluto-grid-da5d9973.md) | 8.1.0 | 2025-12-12T06:29:40.165191Z | registry-derived |
 | [printing](../records/dart-printing-434f5074.md) | 5.15.0 | 2026-06-16T19:52:56.957463Z | registry-derived |
-| [purchases_ui_flutter](../records/dart-purchases-ui-flutter-327852a3.md) | 10.11.0 | 2026-09-03T05:17:03.512412Z | registry-derived |
+| [purchases_ui_flutter](../records/dart-purchases-ui-flutter-327852a3.md) | 10.12.0 | 2026-09-10T09:42:24.364055Z | registry-derived |
 | [quick_actions](../records/dart-quick-actions-42f45037.md) | 1.1.1 | 2026-09-09T14:48:46.344849Z | registry-derived |
 | [receive_sharing_intent](../records/dart-receive-sharing-intent-9c1ad31c.md) | 1.9.0 | 2026-06-24T22:10:16.281163Z | registry-derived |
 | [searchable_listview](../records/dart-searchable-listview-3fa3ca85.md) | 2.19.5 | 2026-05-30T11:19:25.055881Z | registry-derived |
@@ -479,7 +479,7 @@ Records: `765`
 | [photo_view](../records/dart-photo-view-57a30e6c.md) | 0.15.0 | 2024-04-17T21:10:06.324115Z | registry-derived |
 | [postgrest](../records/dart-postgrest-159001a6.md) | 2.9.1 | 2026-08-05T08:47:45.204815Z | registry-derived |
 | [pro_image_editor](../records/dart-pro-image-editor-ca6b5a34.md) | 14.0.0 | 2026-09-08T09:44:12.618956Z | registry-derived |
-| [pro_video_editor](../records/dart-pro-video-editor-f2637419.md) | 2.11.4 | 2026-09-08T07:22:44.048666Z | registry-derived |
+| [pro_video_editor](../records/dart-pro-video-editor-f2637419.md) | 2.12.0 | 2026-09-10T09:34:36.293796Z | registry-derived |
 | [profanity_filter](../records/dart-profanity-filter-9c55e3a5.md) | 2.0.0 | 2021-06-29T16:50:08.536195Z | registry-derived |
 | [saver_gallery](../records/dart-saver-gallery-bfdf1959.md) | 5.1.0 | 2026-05-29T08:05:20.881418Z | registry-derived |
 | [scroll_pos](../records/dart-scroll-pos-a1e2742a.md) | 0.5.0 | 2023-10-19T09:36:37.355391Z | registry-derived |
@@ -936,7 +936,7 @@ Records: `765`
 | [json_path](../records/dart-json-path-b66a6801.md) | 0.9.0 | 2025-12-11T03:40:14.304298Z | registry-derived |
 | [json_serializable](../records/dart-json-serializable-376b4f22.md) | 6.14.1 | 2026-07-30T18:09:35.070157Z | registry-derived |
 | [jwt_decoder](../records/dart-jwt-decoder-c7f7df96.md) | 2.0.1 | 2021-03-26T20:34:30.505536Z | registry-derived |
-| [maplibre_gl](../records/dart-maplibre-gl-c2a8383e.md) | 0.27.0 | 2026-08-19T16:03:56.668219Z | registry-derived |
+| [maplibre_gl](../records/dart-maplibre-gl-c2a8383e.md) | 0.27.1 | 2026-09-10T08:32:59.458083Z | registry-derived |
 | [slang](../records/dart-slang-f760648f.md) | 4.19.1 | 2026-09-04T22:10:36.076964Z | registry-derived |
 | [yaml_edit](../records/dart-yaml-edit-865a9bd8.md) | 2.2.4 | 2026-02-13T07:12:23.296061Z | registry-derived |
 

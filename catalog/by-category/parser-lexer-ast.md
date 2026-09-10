@@ -630,11 +630,11 @@ Records: `1223`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | unknown | not_a_go_module_path | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
-| gravitational/teleport | unknown | not_a_go_module_path | [open](../records/go-gravitational-teleport-6a32fe26.md) |
-| HyNetworks/hysteria | unknown | not_a_go_module_path | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
-| kovidgoyal/kitty | unknown | not_a_go_module_path | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
-| praetorian-inc/nerva | unknown | not_a_go_module_path | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
+| GopeedLab/gopeed | partial | 2026-09-10T06:04:46Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| gravitational/teleport | partial | 2026-09-10T08:48:28Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
+| HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
+| kovidgoyal/kitty | partial | 2026-09-09T21:27:42Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
+| praetorian-inc/nerva | partial | 2026-09-09T18:38:10Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
 | zincsearch/zincsearch | partial | 2026-06-09T05:30:16Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
 ## Starlark
@@ -648,7 +648,7 @@ Records: `1223`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-10T00:12:31Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-10T11:19:39Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -663,7 +663,7 @@ Records: `1223`
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-10T09:35:26Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-10T09:55:09Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-10T10:20:51Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-10T10:25:30Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -954,7 +954,7 @@ Records: `1223`
 | PlasmaPy/PlasmaPy | partial | 2026-09-08T13:09:49Z | [open](../records/space-maps-plasmapy-plasmapy-38af8e3b.md) |
 | polatory/polatory | partial | 2026-09-03T17:12:57Z | [open](../records/space-maps-polatory-polatory-c8cfead9.md) |
 | poliastro/poliastro | partial | 2023-10-14T15:30:47Z | [open](../records/space-maps-poliastro-poliastro-d7649ab9.md) |
-| ppp-one/astra | partial | 2026-09-09T11:30:56Z | [open](../records/space-maps-ppp-one-astra-9c6eaad7.md) |
+| ppp-one/astra | partial | 2026-09-10T11:16:53Z | [open](../records/space-maps-ppp-one-astra-9c6eaad7.md) |
 | pprat2004/NASA-SPACE-APP-PROJECT-2025- | partial | 2025-10-05T14:25:05Z | [open](../records/space-maps-pprat2004-nasa-space-app-project-2025-6e5a8eaf.md) |
 | prappleizer/planetary-system-generator | partial | 2022-09-06T01:56:51Z | [open](../records/space-maps-prappleizer-planetary-system-generator-7a31d2bd.md) |
 | Prothom7/Stella | partial | 2026-05-06T08:12:16Z | [open](../records/space-maps-prothom7-stella-e8d27a42.md) |
@@ -974,14 +974,14 @@ Records: `1223`
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/space-maps-saurvs-astro-rust-b959f43f.md) |
 | sczesla/PyAstronomy | partial | 2026-06-27T22:26:51Z | [open](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) |
 | sherpa/sherpa | partial | 2026-09-09T12:51:23Z | [open](../records/space-maps-sherpa-sherpa-9f2278ff.md) |
-| skyportal/skyportal | partial | 2026-09-09T23:49:29Z | [open](../records/space-maps-skyportal-skyportal-0f6b084a.md) |
+| skyportal/skyportal | partial | 2026-09-10T10:43:06Z | [open](../records/space-maps-skyportal-skyportal-0f6b084a.md) |
 | skypyproject/skypy | partial | 2026-06-22T19:20:21Z | [open](../records/space-maps-skypyproject-skypy-17100f66.md) |
 | smmariquit/atlas-of-my-skies | partial | 2026-09-07T02:46:29Z | [open](../records/space-maps-smmariquit-atlas-of-my-skies-ee81d2fb.md) |
 | spacetelescope/poppy | partial | 2026-08-26T14:23:04Z | [open](../records/space-maps-spacetelescope-poppy-ae2bd07f.md) |
 | spacetelescope/webbpsf | partial | 2025-12-02T16:51:26Z | [open](../records/space-maps-spacetelescope-webbpsf-5be07f40.md) |
 | SpiceSharp/SpiceSharpParser | partial | 2026-08-01T17:44:33Z | [open](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/space-maps-starlink-starlink-7f05c3ed.md) |
-| Stellarium/stellarium | partial | 2026-09-10T09:05:10Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
+| Stellarium/stellarium | partial | 2026-09-10T11:16:20Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
 | steveberardi/starplot | partial | 2026-09-09T13:29:47Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/space-maps-stingraysoftware-stingray-96dfde34.md) |
 | sunpy/sunpy | partial | 2026-09-09T11:30:24Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |

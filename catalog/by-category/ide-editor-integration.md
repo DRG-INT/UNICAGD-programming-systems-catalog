@@ -645,7 +645,7 @@ Records: `1496`
 | photo_view | 0.15.0 | 2024-04-17T21:10:06.324115Z | [open](../records/dart-photo-view-57a30e6c.md) |
 | postgrest | 2.9.1 | 2026-08-05T08:47:45.204815Z | [open](../records/dart-postgrest-159001a6.md) |
 | pro_image_editor | 14.0.0 | 2026-09-08T09:44:12.618956Z | [open](../records/dart-pro-image-editor-ca6b5a34.md) |
-| pro_video_editor | 2.11.4 | 2026-09-08T07:22:44.048666Z | [open](../records/dart-pro-video-editor-f2637419.md) |
+| pro_video_editor | 2.12.0 | 2026-09-10T09:34:36.293796Z | [open](../records/dart-pro-video-editor-f2637419.md) |
 | profanity_filter | 2.0.0 | 2021-06-29T16:50:08.536195Z | [open](../records/dart-profanity-filter-9c55e3a5.md) |
 | saver_gallery | 5.1.0 | 2026-05-29T08:05:20.881418Z | [open](../records/dart-saver-gallery-bfdf1959.md) |
 | scroll_pos | 0.5.0 | 2023-10-19T09:36:37.355391Z | [open](../records/dart-scroll-pos-a1e2742a.md) |
@@ -682,18 +682,18 @@ Records: `1496`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | partial | 2026-09-07T03:26:21Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-10T06:05:27Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-10T10:08:18Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-10T11:16:22Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-10T09:22:47Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-10T10:57:45Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-10T09:11:05Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-10T06:58:59Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-10T08:20:50Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
@@ -913,7 +913,7 @@ Records: `1496`
 | milos-agathon/esa-land-cover | partial | 2024-05-30T19:23:37Z | [open](../records/space-maps-milos-agathon-esa-land-cover-0e9ee8e1.md) |
 | Miro28/Vega | partial | 2026-06-25T12:56:08Z | [open](../records/space-maps-miro28-vega-676a8f71.md) |
 | MuMashhour/NE555-SPICE-Model | partial | 2023-03-30T13:55:49Z | [open](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
-| MWATelescope/mwa_hyperdrive | partial | 2026-09-07T13:16:01Z | [open](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
+| MWATelescope/mwa_hyperdrive | partial | 2026-09-10T10:54:40Z | [open](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
 | nyx-space/nyx | partial | 2026-09-10T06:04:35Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
 | prinz-ai/Solar-System | partial | 2026-06-10T01:58:11Z | [open](../records/space-maps-prinz-ai-solar-system-9d19ec67.md) |
 | quildtide/ICARUS-Map-Pack | partial | 2025-02-06T21:58:53Z | [open](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) |
@@ -993,7 +993,7 @@ Records: `1496`
 | --- | --- | --- | --- |
 | 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/audio-777arc-pysdr-e43c1cf4.md) |
 | alyssaxuu/motionity | partial | 2022-09-12T02:06:50Z | [open](../records/audio-alyssaxuu-motionity-3c2fb703.md) |
-| audacity/audacity | partial | 2026-09-10T01:21:43Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
+| audacity/audacity | partial | 2026-09-10T09:12:46Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
 | bitgapp/eqMac | partial | 2026-04-24T14:53:15Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
@@ -1091,7 +1091,7 @@ Records: `1496`
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-10T08:10:15Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-10T11:19:41Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | HUANGCHIHHUNGLeo/claude-real-video | partial | 2026-08-31T09:21:45Z | [open](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
@@ -1172,7 +1172,7 @@ Records: `1496`
 | OpenVidu/openvidu | partial | 2026-09-08T10:34:51Z | [open](../records/video-openvidu-openvidu-5a62f827.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
 | ossrs/srs | partial | 2026-09-05T17:33:56Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
-| owncast/owncast | partial | 2026-09-10T02:12:09Z | [open](../records/video-owncast-owncast-b3a35889.md) |
+| owncast/owncast | partial | 2026-09-10T10:42:10Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | ozmartian/vidcutter | partial | 2025-04-24T10:12:36Z | [open](../records/video-ozmartian-vidcutter-1ee0d3b1.md) |
 | paulpacifico/shutter-encoder | partial | 2026-09-02T08:49:17Z | [open](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
 | pion/webrtc | partial | 2026-09-09T00:39:56Z | [open](../records/video-pion-webrtc-db831169.md) |
@@ -1180,7 +1180,7 @@ Records: `1496`
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
 | rezoo/movis | partial | 2024-05-25T14:57:04Z | [open](../records/video-rezoo-movis-44b6ab9b.md) |
-| roboflow/supervision | partial | 2026-09-09T20:52:05Z | [open](../records/video-roboflow-supervision-d2860bef.md) |
+| roboflow/supervision | partial | 2026-09-10T09:28:16Z | [open](../records/video-roboflow-supervision-d2860bef.md) |
 | ruanjx/VideoLab | partial | 2022-10-31T11:48:35Z | [open](../records/video-ruanjx-videolab-b746cf80.md) |
 | s60sc/ESP32-CAM_MJPEG2SD | partial | 2026-08-29T01:04:03Z | [open](../records/video-s60sc-esp32-cam-mjpeg2sd-8d8f86e0.md) |
 | sachinchoolur/lightGallery | partial | 2026-09-05T06:58:12Z | [open](../records/video-sachinchoolur-lightgallery-231948f3.md) |
@@ -1210,7 +1210,7 @@ Records: `1496`
 | video-db/Director | partial | 2026-01-23T15:34:16Z | [open](../records/video-video-db-director-a5b28891.md) |
 | video-db/StreamRAG | partial | 2024-01-31T12:14:58Z | [open](../records/video-video-db-streamrag-055aea76.md) |
 | video-dev/hls.js | partial | 2026-09-09T11:35:35Z | [open](../records/video-video-dev-hls-js-963d08ad.md) |
-| videojs/video.js | partial | 2026-08-03T10:03:33Z | [open](../records/video-videojs-video-js-0736e49a.md) |
+| videojs/video.js | partial | 2026-09-10T10:20:54Z | [open](../records/video-videojs-video-js-0736e49a.md) |
 | vvo/gifify | partial | 2025-07-25T14:50:41Z | [open](../records/video-vvo-gifify-9d97ccc2.md) |
 | wassgha/rescript | partial | 2026-09-06T17:57:25Z | [open](../records/video-wassgha-rescript-b391e946.md) |
 | whitphx/streamlit-webrtc | partial | 2026-09-09T13:06:15Z | [open](../records/video-whitphx-streamlit-webrtc-b3307bc7.md) |
@@ -1272,7 +1272,7 @@ Records: `1496`
 | kmcclive/tricycle | partial | 2022-12-08T06:25:25Z | [open](../records/photography-kmcclive-tricycle-e54dad7e.md) |
 | koide3/direct_visual_lidar_calibration | partial | 2026-07-22T00:13:43Z | [open](../records/photography-koide3-direct-visual-lidar-calibration-507b0f15.md) |
 | kxvn-lx/Kontax-Cam | unknown | github_search_does_not_include_release_date | [open](../records/photography-kxvn-lx-kontax-cam-32050bac.md) |
-| lbalazscs/Pixelitor | partial | 2026-09-06T12:41:23Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
+| lbalazscs/Pixelitor | partial | 2026-09-10T10:26:07Z | [open](../records/photography-lbalazscs-pixelitor-3a1b5cdf.md) |
 | LLhon/Android-Video-Editor | partial | 2019-04-12T06:39:37Z | [open](../records/photography-llhon-android-video-editor-fc894c46.md) |
 | MetalPetal/MetalPetal | partial | 2024-04-10T13:30:17Z | [open](../records/photography-metalpetal-metalpetal-4d1be2e0.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/photography-mikeroyal-photogrammetry-guide-1e6df465.md) |
@@ -1287,7 +1287,7 @@ Records: `1496`
 | panpf/sketch | partial | 2026-08-08T08:33:06Z | [open](../records/photography-panpf-sketch-813812e6.md) |
 | PhotoFlare/photoflare | partial | 2026-09-09T08:01:32Z | [open](../records/photography-photoflare-photoflare-54d4deb9.md) |
 | photostructure/exiftool-vendored.js | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
-| PicPeak/picpeak | partial | 2026-09-09T20:35:29Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
+| PicPeak/picpeak | partial | 2026-09-10T11:17:35Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
 | piemonte/PBJVision | partial | 2021-03-03T06:14:45Z | [open](../records/photography-piemonte-pbjvision-040d75d4.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | unknown | github_search_does_not_include_release_date | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) |
 | qinjintian/qq-zone | partial | 2026-09-04T15:35:31Z | [open](../records/photography-qinjintian-qq-zone-4ca751a3.md) |

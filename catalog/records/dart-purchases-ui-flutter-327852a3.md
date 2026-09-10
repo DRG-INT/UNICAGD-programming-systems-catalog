@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 10.11.0 | 2026-09-03T05:17:03.512412Z | [https://pub.dev/api/packages/purchases_ui_flutter](https://pub.dev/api/packages/purchases_ui_flutter) |  |
+| stable | known | 10.12.0 | 2026-09-10T09:42:24.364055Z | [https://pub.dev/api/packages/purchases_ui_flutter](https://pub.dev/api/packages/purchases_ui_flutter) |  |
 | preview | known | 9.10.0-alphaaidl01 | 2025-12-01T12:35:59.006005Z | [https://pub.dev/api/packages/purchases_ui_flutter](https://pub.dev/api/packages/purchases_ui_flutter) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `filesystem_os` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/purchases_ui_flutter` at `2026-09-03T06:25:41+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/purchases_ui_flutter` at `2026-09-10T11:19:37+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

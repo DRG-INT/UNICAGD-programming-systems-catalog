@@ -40,7 +40,7 @@ inventory as part of operator onboarding, API understanding, and upgrade review.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

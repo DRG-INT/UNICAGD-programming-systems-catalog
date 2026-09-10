@@ -39,9 +39,9 @@ tooling, code generation, static analysis, and source transformation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | ISC; {"key": "", "name": "", "url": ""}; European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2 |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

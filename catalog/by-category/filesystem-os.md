@@ -552,7 +552,7 @@ Records: `1665`
 | phone_state | 4.0.1 | 2026-07-15T10:12:30.945046Z | [open](../records/dart-phone-state-a05f01ce.md) |
 | pluto_grid | 8.1.0 | 2025-12-12T06:29:40.165191Z | [open](../records/dart-pluto-grid-da5d9973.md) |
 | printing | 5.15.0 | 2026-06-16T19:52:56.957463Z | [open](../records/dart-printing-434f5074.md) |
-| purchases_ui_flutter | 10.11.0 | 2026-09-03T05:17:03.512412Z | [open](../records/dart-purchases-ui-flutter-327852a3.md) |
+| purchases_ui_flutter | 10.12.0 | 2026-09-10T09:42:24.364055Z | [open](../records/dart-purchases-ui-flutter-327852a3.md) |
 | quick_actions | 1.1.1 | 2026-09-09T14:48:46.344849Z | [open](../records/dart-quick-actions-42f45037.md) |
 | receive_sharing_intent | 1.9.0 | 2026-06-24T22:10:16.281163Z | [open](../records/dart-receive-sharing-intent-9c1ad31c.md) |
 | searchable_listview | 2.19.5 | 2026-05-30T11:19:25.055881Z | [open](../records/dart-searchable-listview-3fa3ca85.md) |
@@ -577,13 +577,13 @@ Records: `1665`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | partial | 2026-09-08T09:34:14Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| m1k1o/neko | partial | 2026-08-30T15:02:19Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | partial | 2026-09-10T11:12:45Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1283,7 +1283,7 @@ Records: `1665`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-09T21:05:20Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-10T09:44:27Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-09T10:38:07Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1314,7 +1314,7 @@ Records: `1665`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-10T08:24:31Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-10T09:35:00Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-09T19:36:26Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |

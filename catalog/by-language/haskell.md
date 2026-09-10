@@ -108,8 +108,8 @@ Records: `1645`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [text-zipper](../records/haskell-text-zipper-6676f63d.md) | 0.13 | 2023-02-04T20:59:07Z | registry-derived |
-| [zip](../records/haskell-zip-3da7792f.md) | 2.2.2 | 2026-06-14T13:24:17Z | registry-derived |
-| [zip-archive](../records/haskell-zip-archive-3e16172e.md) | 0.4.3.2 | 2024-04-09T16:45:10Z | registry-derived |
+| [zip](../records/haskell-zip-3da7792f.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [zip-archive](../records/haskell-zip-archive-3e16172e.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zstd](../records/haskell-zstd-01fb5311.md) | 0.1.4.0 | 2026-09-06T03:09:59Z | registry-derived |
 
 ### Concurrency Parallelism
@@ -380,7 +380,7 @@ Records: `1645`
 | [phonetic-languages-simplified-examples-array](../records/haskell-phonetic-languages-simplified-examples-array-87845a00.md) | 0.21.0.0 | 2022-09-13T19:37:53Z | registry-derived |
 | [phonetic-languages-ukrainian-array](../records/haskell-phonetic-languages-ukrainian-array-bbff0387.md) | 0.12.2.0 | 2024-02-22T20:51:33Z | registry-derived |
 | [shake-language-c](../records/haskell-shake-language-c-1a893a50.md) | 0.12.0 | 2018-03-14T21:34:10Z | registry-derived |
-| [yi-language](../records/haskell-yi-language-defafb2d.md) | 0.19.2 | 2024-10-25T11:56:36Z | registry-derived |
+| [yi-language](../records/haskell-yi-language-defafb2d.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
 ### Library
 
@@ -1485,14 +1485,14 @@ Records: `1645`
 | [yesod-markdown](../records/haskell-yesod-markdown-8c3c7de7.md) | 0.12.6.14 | 2024-05-08T15:15:31Z | registry-derived |
 | [yesod-persistent](../records/haskell-yesod-persistent-425557b9.md) | 1.6.0.9 | 2026-06-16T20:33:49Z | registry-derived |
 | [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | 1.2.13.3 | 2014-08-25T13:53:51Z | registry-derived |
-| [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | 1.6.1.3 | 2026-06-16T20:33:50Z | registry-derived |
-| [yi](../records/haskell-yi-3b78b64a.md) | 0.19.3 | 2024-11-01T13:06:18Z | registry-derived |
-| [yst](../records/haskell-yst-e5c97f24.md) | 0.7.2 | 2023-02-04T19:31:44Z | registry-derived |
+| [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [yi](../records/haskell-yi-3b78b64a.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [yst](../records/haskell-yst-e5c97f24.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-IO](../records/haskell-z-io-e37841a7.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
-| [zeolite-lang](../records/haskell-zeolite-lang-121149cb.md) | 0.24.1.0 | 2024-01-08T01:25:04Z | registry-derived |
+| [zeolite-lang](../records/haskell-zeolite-lang-121149cb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zeromq4-haskell](../records/haskell-zeromq4-haskell-8f1953e2.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
-| [zlib](../records/haskell-zlib-2a0db053.md) | 0.7.1.1 | 2025-09-06T12:21:07Z | registry-derived |
+| [zlib](../records/haskell-zlib-2a0db053.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zoom-cache](../records/haskell-zoom-cache-f1ef611e.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zoovisitor](../records/haskell-zoovisitor-25533034.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
@@ -1828,7 +1828,7 @@ Records: `1645`
 | [uri-bytestring](../records/haskell-uri-bytestring-a09e0036.md) | 0.4.0.1 | 2025-04-10T16:35:16Z | registry-derived |
 | [wai-test](../records/haskell-wai-test-6f3e611d.md) | 3.0.0 | 2014-06-09T07:43:33Z | registry-derived |
 | [yampa-test](../records/haskell-yampa-test-2be489e4.md) | 0.15 | 2025-02-28T06:55:50Z | registry-derived |
-| [yesod-test](../records/haskell-yesod-test-b573e9e5.md) | 1.7.0.3 | 2026-07-29T08:45:39Z | registry-derived |
+| [yesod-test](../records/haskell-yesod-test-b573e9e5.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 
 ### Tutorial Book Styleguide
 

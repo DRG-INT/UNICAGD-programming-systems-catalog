@@ -32,7 +32,7 @@ validation, regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.7.0.3 | 2026-07-29T08:45:39Z | [https://hackage.haskell.org/package/yesod-test](https://hackage.haskell.org/package/yesod-test) |  |
+| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ validation, regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/yesod-test` at `2026-09-08T00:34:58+00:00`.
+- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

@@ -411,9 +411,9 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | partial | 2026-09-10T05:01:25Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1142,7 +1142,7 @@ Records: `1648`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-10T03:25:57Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1357,7 +1357,7 @@ Records: `1648`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-10T09:30:39Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-10T10:56:51Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1435,7 +1435,7 @@ Records: `1648`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-09T10:57:35Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-10T09:34:55Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |

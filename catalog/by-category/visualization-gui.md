@@ -307,10 +307,10 @@ Records: `604`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 

@@ -41,9 +41,9 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GPL-3 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

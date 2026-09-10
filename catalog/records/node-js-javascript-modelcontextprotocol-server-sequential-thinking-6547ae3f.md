@@ -40,9 +40,9 @@ deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | SEE LICENSE IN LICENSE |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GPL-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

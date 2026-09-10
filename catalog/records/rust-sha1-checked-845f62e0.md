@@ -39,9 +39,9 @@ integrity, authentication, and key-management risk.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; Other; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

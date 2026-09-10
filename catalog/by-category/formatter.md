@@ -530,7 +530,7 @@ Records: `658`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -677,7 +677,7 @@ Records: `658`
 | JonasSinjan/solo_spicepy | partial | 2023-07-15T19:21:57Z | [open](../records/space-maps-jonassinjan-solo-spicepy-b281fcfb.md) |
 | MoTahaAboHeiba/E-Commerce-Lakehouse-Using-Databricks | partial | 2026-03-22T17:14:16Z | [open](../records/space-maps-motahaaboheiba-e-commerce-lakehouse-using-databricks-dd224fa3.md) |
 | nunobrum/PyLTSpice | partial | 2026-06-20T15:13:48Z | [open](../records/space-maps-nunobrum-pyltspice-f892529e.md) |
-| nyx-space/anise | partial | 2026-09-09T20:36:27Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
+| nyx-space/anise | partial | 2026-09-10T11:06:19Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
 | Team-Blackout/EvilZ.213.BLACKOUT_edition | partial | 2012-11-13T19:53:40Z | [open](../records/space-maps-team-blackout-evilz-213-blackout-edition-3d76a541.md) |
 | Xyce/XDM | partial | 2024-02-15T05:27:51Z | [open](../records/space-maps-xyce-xdm-4fd824bb.md) |
 | yashkhandelwal2828/cosmic-atlas | partial | 2026-08-22T13:37:11Z | [open](../records/space-maps-yashkhandelwal2828-cosmic-atlas-8073f13d.md) |
