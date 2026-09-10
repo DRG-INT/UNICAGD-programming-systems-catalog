@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `537`
+Records: `539`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `537`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1649)](filesystem-os.md) · [Formatter (657)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1458)](language-specification.md) · [Library (5900)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (537)](logging-observability.md)** · [Machine Learning (824)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1220)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (539)](logging-observability.md)** · [Machine Learning (828)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C99
 
@@ -353,7 +353,7 @@ Records: `537`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-09T21:24:25Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -504,7 +504,7 @@ Records: `537`
 | nickschoey/starwars | partial | 2021-01-05T20:21:45Z | [open](../records/space-maps-nickschoey-starwars-de85e166.md) |
 | olganedelcu/catalog-star-wars | partial | 2026-01-03T19:32:38Z | [open](../records/space-maps-olganedelcu-catalog-star-wars-614cc377.md) |
 | On1ari/starwars-catalog | partial | 2025-07-16T21:09:11Z | [open](../records/space-maps-on1ari-starwars-catalog-cb6bee5c.md) |
-| pickles4evaaaa/mybibliotheca | partial | 2026-08-30T21:37:06Z | [open](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) |
+| pickles4evaaaa/mybibliotheca | partial | 2026-09-09T22:01:39Z | [open](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) |
 | proxygo/catalogo-de-filmes-star-wars | partial | 2023-10-12T19:15:06Z | [open](../records/space-maps-proxygo-catalogo-de-filmes-star-wars-8eefd151.md) |
 | Quarior/Star-Wars-catalogs-for-Space-Engine | partial | 2023-06-22T13:10:18Z | [open](../records/space-maps-quarior-star-wars-catalogs-for-space-engine-acfd1c94.md) |
 | Quasarkiste487/starCatalogue | partial | 2026-03-10T15:22:17Z | [open](../records/space-maps-quasarkiste487-starcatalogue-553c179d.md) |
@@ -613,6 +613,8 @@ Records: `537`
 | analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
 | davigmacode/flutter_smart_select | partial | 2023-10-03T12:52:26Z | [open](../records/electromagnetoscopes-davigmacode-flutter-smart-select-fdc8fd87.md) |
 | sgoudelis/ground-station | partial | 2026-09-09T07:58:03Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
+| stephendpmurphy/icm20948 | partial | 2021-09-16T20:36:06Z | [open](../records/electromagnetoscopes-stephendpmurphy-icm20948-afb8461d.md) |
+| Varvrar/ios_logger | partial | 2020-09-07T10:59:44Z | [open](../records/electromagnetoscopes-varvrar-ios-logger-a2f9d628.md) |
 
 ## Radio Garden Speciality
 
@@ -629,7 +631,7 @@ Records: `537`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-09T23:04:28Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-10T00:07:53Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |

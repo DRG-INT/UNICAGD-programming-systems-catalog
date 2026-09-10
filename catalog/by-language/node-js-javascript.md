@@ -9,22 +9,22 @@ Records: `2440`
 ## Category Index
 
 [Api Abi Checker (231)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (202)](../by-category/benchmarking.md) · [Build System (1024)](../by-category/build-system.md) · [Cli (584)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (122)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
+[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1029)](../by-category/build-system.md) · [Cli (585)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (111)](../by-category/documentation.md)
-[Embedded Hardware (60)](../by-category/embedded-hardware.md) · [Ffi Bindings (470)](../by-category/ffi-bindings.md) · [Filesystem Os (1649)](../by-category/filesystem-os.md) · [Formatter (657)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (59)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1489)](../by-category/ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
+[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (657)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1458)](../by-category/language-specification.md) · [Library (5900)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (537)](../by-category/logging-observability.md) · [Machine Learning (824)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1071)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (447)](../by-category/package-manager.md) · [Parser Lexer Ast (1220)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (313)](../by-category/precommit-ci-quality.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5915)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (539)](../by-category/logging-observability.md) · [Machine Learning (828)](../by-category/machine-learning.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (447)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (403)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (627)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1644)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (597)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -383,8 +383,8 @@ Records: `2440`
 | [@env0/cli](../records/node-js-javascript-env0-cli-f8ec1602.md) | 1.0.25 | 2026-04-20T08:58:03.712Z | registry-derived |
 | [@expo/cli](../records/node-js-javascript-expo-cli-22f34048.md) | 57.0.23 | 2026-09-08T13:48:15.261Z | registry-derived |
 | [@expo/image-utils](../records/node-js-javascript-expo-image-utils-6fd48f78.md) | 0.11.5 | 2026-08-24T07:53:15.617Z | registry-derived |
-| [@fallow-cli/linux-x64-gnu](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) | 3.24.0 | 2026-09-09T17:11:17.659Z | registry-derived |
-| [@fallow-cli/linux-x64-musl](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) | 3.24.0 | 2026-09-09T17:08:52.129Z | registry-derived |
+| [@fallow-cli/linux-x64-gnu](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) | 3.24.1 | 2026-09-09T23:42:11.428Z | registry-derived |
+| [@fallow-cli/linux-x64-musl](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) | 3.24.1 | 2026-09-09T23:40:50.903Z | registry-derived |
 | [@farmfe/cli](../records/node-js-javascript-farmfe-cli-0b309d0f.md) | 1.0.5 | 2025-06-22T04:53:28.320Z | registry-derived |
 | [@fragment-dev/cli](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) | 2026.9.8-14 | 2026-09-08T23:19:31.350Z | registry-derived |
 | [@gltf-transform/cli](../records/node-js-javascript-gltf-transform-cli-56392446.md) | 4.5.0 | 2026-09-01T00:43:18.551Z | registry-derived |
@@ -661,7 +661,7 @@ Records: `2440`
 | [@sap/hana-database-explorer](../records/node-js-javascript-sap-hana-database-explorer-afd40f71.md) | 1.39.0 | 2026-06-25T14:42:46.669Z | registry-derived |
 | [@sap/hana-project-explorer](../records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) | 1.38.0 | 2026-06-26T09:58:53.379Z | registry-derived |
 | [@solumjs/database](../records/node-js-javascript-solumjs-database-6399521b.md) | 0.3.5 | 2026-08-27T08:28:33.613Z | registry-derived |
-| [@stacksjs/database](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) | 0.74.32 | 2026-09-09T05:22:01.660Z | registry-derived |
+| [@stacksjs/database](../records/node-js-javascript-stacksjs-database-6ccea6c0.md) | 0.74.33 | 2026-09-09T22:23:45.496Z | registry-derived |
 | [@strapi/database](../records/node-js-javascript-strapi-database-c0f9aa77.md) | 5.53.0 | 2026-09-09T12:48:59.414Z | registry-derived |
 | [@supabase/realtime-js](../records/node-js-javascript-supabase-realtime-js-a426c046.md) | 2.116.0 | 2026-09-07T16:30:14.946Z | registry-derived |
 | [@synor/database-postgresql](../records/node-js-javascript-synor-database-postgresql-694d4795.md) | 0.5.2 | 2021-03-05T07:14:43.605Z | registry-derived |
@@ -1669,7 +1669,7 @@ Records: `2440`
 | [@replit/database](../records/node-js-javascript-replit-database-0043e0f4.md) | 3.0.1 | 2024-04-15T20:42:25.524Z | registry-derived |
 | [@sap-cloud-sdk/http-client](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) | 4.9.1 | 2026-08-25T09:53:33.332Z | registry-derived |
 | [@solana/rpc-transport-http](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) | 8.3.0 | 2026-09-09T11:11:24.130Z | registry-derived |
-| [@stacksjs/http](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) | 0.74.32 | 2026-09-09T05:15:07.754Z | registry-derived |
+| [@stacksjs/http](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) | 0.74.33 | 2026-09-09T22:16:57.226Z | registry-derived |
 | [@szmarczak/http-timer](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) | 5.0.1 | 2021-08-20T23:26:11.251Z | registry-derived |
 | [@taquito/http-utils](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) | 25.0.0 | 2026-06-29T16:13:55.600Z | registry-derived |
 | [@tmcp/transport-http](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) | 0.9.0 | 2026-08-14T12:55:32.461Z | registry-derived |
@@ -2228,7 +2228,7 @@ Records: `2440`
 | [@iabtechlabtcf/testing](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) | 1.5.22 | 2026-09-01T18:14:14.773Z | registry-derived |
 | [@inngest/test](../records/node-js-javascript-inngest-test-8b100cd2.md) | 1.0.0 | 2026-03-25T14:11:16.511Z | registry-derived |
 | [@inquirer/testing](../records/node-js-javascript-inquirer-testing-6655503f.md) | 3.3.13 | 2026-09-07T17:56:43.708Z | registry-derived |
-| [@iobroker/testing](../records/node-js-javascript-iobroker-testing-1634fcb2.md) | 6.1.0 | 2026-09-06T09:54:04.591Z | registry-derived |
+| [@iobroker/testing](../records/node-js-javascript-iobroker-testing-1634fcb2.md) | 6.2.0 | 2026-09-09T22:20:18.184Z | registry-derived |
 | [@japa/runner](../records/node-js-javascript-japa-runner-e5c110c3.md) | 5.3.0 | 2026-01-17T08:07:46.880Z | registry-derived |
 | [@jest-mock/express](../records/node-js-javascript-jest-mock-express-619dafe1.md) | 3.0.0 | 2025-02-03T20:48:41.468Z | registry-derived |
 | [@jest/core](../records/node-js-javascript-jest-core-a19c88f3.md) | 30.5.1 | 2026-09-01T08:02:41.823Z | registry-derived |
@@ -2274,7 +2274,7 @@ Records: `2440`
 | [@smooai/testing](../records/node-js-javascript-smooai-testing-ec08ce63.md) | 1.4.0 | 2026-07-25T02:49:59.852Z | registry-derived |
 | [@smthrs/testing](../records/node-js-javascript-smthrs-testing-35159f03.md) | 0.35.0 | 2026-08-17T20:35:48.555Z | registry-derived |
 | [@solidjs/testing-library](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) | 0.8.10 | 2024-09-25T13:24:08.486Z | registry-derived |
-| [@stacksjs/testing](../records/node-js-javascript-stacksjs-testing-57469937.md) | 0.74.32 | 2026-09-09T05:22:33.484Z | registry-derived |
+| [@stacksjs/testing](../records/node-js-javascript-stacksjs-testing-57469937.md) | 0.74.33 | 2026-09-09T22:24:16.829Z | registry-derived |
 | [@storm-software/testing-tools](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) | 1.119.287 | 2026-09-06T05:19:32.185Z | registry-derived |
 | [@storybook/addon-vitest](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) | 10.6.0 | 2026-09-02T13:59:28.767Z | registry-derived |
 | [@storybook/cli](../records/node-js-javascript-storybook-cli-04f8ce22.md) | 10.6.0 | 2026-09-02T14:01:45.695Z | registry-derived |
@@ -2331,7 +2331,7 @@ Records: `2440`
 | [chromatic](../records/node-js-javascript-chromatic-d4979463.md) | 18.7.4 | 2026-09-09T20:19:56.656Z | registry-derived |
 | [cli-testing-library](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) | 4.0.0 | 2026-08-11T05:46:42.024Z | registry-derived |
 | [codeceptjs](../records/node-js-javascript-codeceptjs-c62ce818.md) | 4.1.0 | 2026-07-30T09:55:16.034Z | registry-derived |
-| [convex-test](../records/node-js-javascript-convex-test-7a685bbc.md) | 0.0.56 | 2026-08-20T00:31:25.277Z | registry-derived |
+| [convex-test](../records/node-js-javascript-convex-test-7a685bbc.md) | 0.0.57 | 2026-09-09T22:37:05.243Z | registry-derived |
 | [css-vendor](../records/node-js-javascript-css-vendor-97afeba9.md) | 2.0.8 | 2020-04-04T18:53:13.042Z | registry-derived |
 | [cypress](../records/node-js-javascript-cypress-8aa475c3.md) | 16.0.0 | 2026-09-01T14:33:18.616Z | registry-derived |
 | [cypress-image-diff-js](../records/node-js-javascript-cypress-image-diff-js-7fc57b07.md) | 2.8.0 | 2026-03-23T16:26:48.775Z | registry-derived |

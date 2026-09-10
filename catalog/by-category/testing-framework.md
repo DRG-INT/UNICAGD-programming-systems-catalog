@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `627`
+Records: `629`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `627`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1649)](filesystem-os.md) · [Formatter (657)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1458)](language-specification.md) · [Library (5900)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1220)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (539)](logging-observability.md) · [Machine Learning (828)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (627)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (629)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C99
 
@@ -177,7 +177,7 @@ Records: `627`
 | @iabtechlabtcf/testing | 1.5.22 | 2026-09-01T18:14:14.773Z | [open](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) |
 | @inngest/test | 1.0.0 | 2026-03-25T14:11:16.511Z | [open](../records/node-js-javascript-inngest-test-8b100cd2.md) |
 | @inquirer/testing | 3.3.13 | 2026-09-07T17:56:43.708Z | [open](../records/node-js-javascript-inquirer-testing-6655503f.md) |
-| @iobroker/testing | 6.1.0 | 2026-09-06T09:54:04.591Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
+| @iobroker/testing | 6.2.0 | 2026-09-09T22:20:18.184Z | [open](../records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | @japa/runner | 5.3.0 | 2026-01-17T08:07:46.880Z | [open](../records/node-js-javascript-japa-runner-e5c110c3.md) |
 | @jest-mock/express | 3.0.0 | 2025-02-03T20:48:41.468Z | [open](../records/node-js-javascript-jest-mock-express-619dafe1.md) |
 | @jest/core | 30.5.1 | 2026-09-01T08:02:41.823Z | [open](../records/node-js-javascript-jest-core-a19c88f3.md) |
@@ -223,7 +223,7 @@ Records: `627`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.32 | 2026-09-09T05:22:33.484Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.33 | 2026-09-09T22:24:16.829Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -280,7 +280,7 @@ Records: `627`
 | chromatic | 18.7.4 | 2026-09-09T20:19:56.656Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
 | cli-testing-library | 4.0.0 | 2026-08-11T05:46:42.024Z | [open](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
 | codeceptjs | 4.1.0 | 2026-07-30T09:55:16.034Z | [open](../records/node-js-javascript-codeceptjs-c62ce818.md) |
-| convex-test | 0.0.56 | 2026-08-20T00:31:25.277Z | [open](../records/node-js-javascript-convex-test-7a685bbc.md) |
+| convex-test | 0.0.57 | 2026-09-09T22:37:05.243Z | [open](../records/node-js-javascript-convex-test-7a685bbc.md) |
 | css-vendor | 2.0.8 | 2020-04-04T18:53:13.042Z | [open](../records/node-js-javascript-css-vendor-97afeba9.md) |
 | cypress | 16.0.0 | 2026-09-01T14:33:18.616Z | [open](../records/node-js-javascript-cypress-8aa475c3.md) |
 | cypress-image-diff-js | 2.8.0 | 2026-03-23T16:26:48.775Z | [open](../records/node-js-javascript-cypress-image-diff-js-7fc57b07.md) |
@@ -553,8 +553,8 @@ Records: `627`
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
 | Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | partial | 2026-09-01T20:28:29Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -696,6 +696,8 @@ Records: `627`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| aradfarahani/awesome-geophysics | partial | 2026-08-02T03:32:39Z | [open](../records/electromagnetoscopes-aradfarahani-awesome-geophysics-faed83f7.md) |
+| ErniW/Arduino-IMU-and-AHRS-tests | partial | 2025-11-10T12:10:07Z | [open](../records/electromagnetoscopes-erniw-arduino-imu-and-ahrs-tests-6026cf9d.md) |
 | IoT-PTv/IoT-PT-v1 | partial | 2025-08-25T04:45:30Z | [open](../records/electromagnetoscopes-iot-ptv-iot-pt-v1-052c2efe.md) |
 
 ## Repertoare Catalogs

@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `597`
+Records: `604`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `597`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1649)](filesystem-os.md) · [Formatter (657)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1458)](language-specification.md) · [Library (5900)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1220)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (539)](logging-observability.md) · [Machine Learning (828)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (597)](visualization-gui.md)** · [Web Framework (494)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · **[Visualization Gui (604)](visualization-gui.md)** · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -307,10 +307,10 @@ Records: `597`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -698,13 +698,20 @@ Records: `597`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alexpiti/Plot-Pattern | partial | 2022-05-30T11:57:43Z | [open](../records/electromagnetoscopes-alexpiti-plot-pattern-d5ed7aa8.md) |
+| asukiaaa/MPU9250_asukiaaa | partial | 2023-02-26T02:59:28Z | [open](../records/electromagnetoscopes-asukiaaa-mpu9250-asukiaaa-a4eec852.md) |
+| drcpattison/DPEng_ICM20948_AK09916 | partial | 2022-05-14T13:56:29Z | [open](../records/electromagnetoscopes-drcpattison-dpeng-icm20948-ak09916-4faabcbe.md) |
 | Gqrx | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gqrx-10a5b737.md) |
+| Infineon/TLV493D-A1B6-3DMagnetic-Sensor | partial | 2024-09-17T13:03:47Z | [open](../records/electromagnetoscopes-infineon-tlv493d-a1b6-3dmagnetic-sensor-46288326.md) |
 | kpreid/shinysdr | partial | 2020-09-17T04:34:50Z | [open](../records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
 | luigifcruz/pisdr-image | partial | 2024-01-25T23:31:05Z | [open](../records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
+| michaelwro/mag-cal-example | partial | 2024-02-22T17:55:50Z | [open](../records/electromagnetoscopes-michaelwro-mag-cal-example-d94f3aab.md) |
+| RCmags/basicMPU6050 | partial | 2023-11-19T01:01:43Z | [open](../records/electromagnetoscopes-rcmags-basicmpu6050-dc2bd37a.md) |
 | renanmav/pycst | partial | 2019-05-09T20:39:37Z | [open](../records/electromagnetoscopes-renanmav-pycst-f586fea1.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/electromagnetoscopes-rsadsb-adsb-deku-b3cb2015.md) |
 | SigDigger | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-sigdigger-9dac6595.md) |
+| sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library | partial | 2020-07-14T16:09:28Z | [open](../records/electromagnetoscopes-sparkfun-sparkfun-mag3110-breakout-board-arduino-library-bd73d0cd.md) |
 | tapparelj/gr-lora_sdr | partial | 2026-01-05T15:46:12Z | [open](../records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
+| wallarug/CircuitPython_MPU9250 | partial | 2024-03-03T10:06:39Z | [open](../records/electromagnetoscopes-wallarug-circuitpython-mpu9250-932fe89d.md) |
 
 ## Radio Garden Speciality
 

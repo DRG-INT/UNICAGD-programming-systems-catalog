@@ -1,0 +1,105 @@
+# leaflet.extras2
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: R](../by-language/r.md) · [Category: Fuzzer](../by-category/fuzzer.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://cran.r-project.org/web/packages/leaflet.extras2/index.html -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | R |
+| Category | Fuzzer |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://cran.r-project.org/web/packages/leaflet.extras2/index.html](https://cran.r-project.org/web/packages/leaflet.extras2/index.html) |
+| Source record ids | cran_packages_by_date-413f8c567a840a |
+
+## System Engineer Summary
+
+Extra Functionality for 'leaflet' Package
+
+## Operational Role
+
+For a systems engineer, leaflet.extras2 belongs in the R inventory as part of input-space
+exploration, parser hardening, and unsafe edge-case discovery.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 1.3.3 | 2026-09-09 23:50:02 UTC | [https://cran.r-project.org/web/packages/leaflet.extras2/DESCRIPTION](https://cran.r-project.org/web/packages/leaflet.extras2/DESCRIPTION) |  |
+| preview/nightly | unknown |  |  | unknown | cran_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Backup plan required |
+| Evidence | GPL-3 \| file LICENSE |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+
+## Engineering Notes
+
+- Treat category as `fuzzer` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/leaflet.extras2/DESCRIPTION` at `2026-09-10T00:26:07+00:00`.
+- Preview/nightly metadata is unknown because `cran_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| cran_available_packages_by_date | registry-derived | 2026-09-10 | `{"kind": "cran_available_packages_by_date", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `cran_packages_by_date-413f8c567a840a` from `cran_packages_by_date` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| fitzRoy | Fuzzer | [open](r-fitzroy-50a2e5e7.md) |
+| FuzzyLogit | Fuzzer | [open](r-fuzzylogit-11fa63db.md) |
+| fuzzySim | Fuzzer | [open](r-fuzzysim-537e1430.md) |
+| fuzzyurn | Fuzzer | [open](r-fuzzyurn-cf99907f.md) |
+| MFF | Fuzzer | [open](r-mff-84f3fe81.md) |
+| RapidFuzz | Fuzzer | [open](r-rapidfuzz-9d11599d.md) |
+| zoomerjoin | Fuzzer | [open](r-zoomerjoin-127b800b.md) |
+
+## Category Index
+
+[Api Abi Checker (231)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1029)](../by-category/build-system.md) · [Cli (585)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
+[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (657)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · **[Fuzzer (60)](../by-category/fuzzer.md)** · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5915)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (539)](../by-category/logging-observability.md) · [Machine Learning (828)](../by-category/machine-learning.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (447)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
+[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)

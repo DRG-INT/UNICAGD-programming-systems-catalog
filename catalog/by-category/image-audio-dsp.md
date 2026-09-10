@@ -9,22 +9,22 @@ Records: `443`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (202)](benchmarking.md) · [Build System (1024)](build-system.md) · [Cli (584)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (122)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (111)](documentation.md)
-[Embedded Hardware (60)](embedded-hardware.md) · [Ffi Bindings (470)](ffi-bindings.md) · [Filesystem Os (1649)](filesystem-os.md) · [Formatter (657)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (59)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1489)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 **[Image Audio Dsp (443)](image-audio-dsp.md)** · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1458)](language-specification.md) · [Library (5900)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (537)](logging-observability.md) · [Machine Learning (824)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1071)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1220)](parser-lexer-ast.md) · [Precommit Ci Quality (313)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (539)](logging-observability.md) · [Machine Learning (828)](machine-learning.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (403)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (627)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1644)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (597)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C++23
 
@@ -293,7 +293,7 @@ Records: `443`
 | Ankalot/XenRoll | partial | 2026-07-09T09:25:03Z | [open](../records/audio-ankalot-xenroll-4c124fc2.md) |
 | apfaudio/eurorack-pmod | partial | 2026-01-29T21:53:26Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/audio-ar1st0crat-nwaves-3e35452a.md) |
-| Ardour/ardour | partial | 2026-09-08T21:15:57Z | [open](../records/audio-ardour-ardour-2553c055.md) |
+| Ardour/ardour | partial | 2026-09-10T00:28:04Z | [open](../records/audio-ardour-ardour-2553c055.md) |
 | AudioKit/ROMPlayer | partial | 2019-12-29T21:15:21Z | [open](../records/audio-audiokit-romplayer-2b98bcd6.md) |
 | belangeo/pyo | partial | 2026-07-20T17:13:45Z | [open](../records/audio-belangeo-pyo-e606cff4.md) |
 | BOBONA/Just-a-Sample | partial | 2026-08-17T18:41:25Z | [open](../records/audio-bobona-just-a-sample-82526ac0.md) |
@@ -301,7 +301,7 @@ Records: `443`
 | Chowdhury-DSP/ChowMatrix | partial | 2022-07-16T14:37:08Z | [open](../records/audio-chowdhury-dsp-chowmatrix-3aab0cce.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/audio-cutterbl-soundtouchjs-ef09c7a0.md) |
 | cvde/RoomReverb | partial | 2025-09-15T17:11:38Z | [open](../records/audio-cvde-roomreverb-a0c4b46d.md) |
-| cycfi/q | partial | 2026-09-09T10:19:06Z | [open](../records/audio-cycfi-q-42b5713b.md) |
+| cycfi/q | partial | 2026-09-10T00:03:20Z | [open](../records/audio-cycfi-q-42b5713b.md) |
 | danfrz/PLEBTracker | partial | 2025-11-22T09:38:10Z | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
 | DBraun/DawDreamer | partial | 2026-09-01T04:25:36Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
 | DBraun/Sampler | partial | 2026-02-07T21:21:44Z | [open](../records/audio-dbraun-sampler-326175c5.md) |
@@ -571,7 +571,7 @@ Records: `443`
 | emidan19/deep-tempest | partial | 2025-05-28T14:13:19Z | [open](../records/electromagnetoscopes-emidan19-deep-tempest-2244295b.md) |
 | GNU Radio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gnu-radio-984c5d95.md) |
 | jeancsanchez/JcPlayer | partial | 2022-08-30T15:22:26Z | [open](../records/electromagnetoscopes-jeancsanchez-jcplayer-bcd3fe33.md) |
-| kbasaran/Speaker-Calculator | partial | 2026-09-01T18:33:57Z | [open](../records/electromagnetoscopes-kbasaran-speaker-calculator-d60ee43a.md) |
+| kbasaran/Speaker-Calculator | partial | 2026-09-09T06:34:32Z | [open](../records/electromagnetoscopes-kbasaran-speaker-calculator-d60ee43a.md) |
 | MeowLucian/SDR_Matlab_OFDM_802.11a | partial | 2018-04-07T01:23:52Z | [open](../records/electromagnetoscopes-meowlucian-sdr-matlab-ofdm-802-11a-2c32289f.md) |
 | Mictronics/multi-sdr-gps-sim | partial | 2025-01-17T08:08:19Z | [open](../records/electromagnetoscopes-mictronics-multi-sdr-gps-sim-a3c72c37.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/electromagnetoscopes-miek-inspectrum-db6d4384.md) |
