@@ -40,7 +40,7 @@ as part of wire formats, persistence, interoperability, and compatibility bounda
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | {"key": "", "name": "", "url": ""}; Apache-2.0; https://www.nuget.org/packages/Amazon.Lambda.Serialization.SystemTextJson/3.0.1/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Apache-2.0; https://www.nuget.org/packages/Amazon.Lambda.Serialization.SystemTextJson/3.0.1/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

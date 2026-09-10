@@ -42,7 +42,7 @@ tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-3 |
+| Evidence | GPL (>= 3); {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

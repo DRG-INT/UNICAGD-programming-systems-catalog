@@ -39,9 +39,9 @@ dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GPL (>= 3) |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2 |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

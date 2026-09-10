@@ -222,7 +222,7 @@ Records: `180`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-10T06:23:58Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-10T07:19:44Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

@@ -41,9 +41,9 @@ middleware policy, service structure, and deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT + file LICENSE |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

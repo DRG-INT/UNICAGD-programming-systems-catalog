@@ -39,9 +39,9 @@ tooling, code generation, static analysis, and source transformation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT + file LICENSE; https://www.nuget.org/packages/SpecFlow.Internal.Json/1.0.8/license |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

@@ -42,7 +42,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/GraphQL/8.8.5/license |
+| Evidence | MIT; https://www.nuget.org/packages/GraphQL/8.8.5/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

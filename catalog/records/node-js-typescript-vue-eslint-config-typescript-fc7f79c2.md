@@ -39,9 +39,9 @@ part of static feedback, style policy, defect prevention, and local/CI quality g
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | SEE LICENSE IN LICENSE |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

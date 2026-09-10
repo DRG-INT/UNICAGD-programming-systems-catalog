@@ -661,8 +661,8 @@ Records: `1222`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-10T05:14:57Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-09T20:13:04Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-10T05:34:57Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| HKUDS/LightRAG | partial | 2026-09-10T07:01:41Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-10T06:56:08Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -880,7 +880,7 @@ Records: `1222`
 | cds-astro/aladin-lite | partial | 2026-07-17T08:03:42Z | [open](../records/space-maps-cds-astro-aladin-lite-6a3ecb0e.md) |
 | cds-astro/ipyaladin | partial | 2026-09-02T11:48:28Z | [open](../records/space-maps-cds-astro-ipyaladin-0124a143.md) |
 | ceeK/Solar | partial | 2026-08-31T23:46:36Z | [open](../records/space-maps-ceek-solar-0818e1f0.md) |
-| celestiamobile/AndroidCelestia | partial | 2026-09-04T04:25:56Z | [open](../records/space-maps-celestiamobile-androidcelestia-6426e506.md) |
+| celestiamobile/AndroidCelestia | partial | 2026-09-10T06:11:07Z | [open](../records/space-maps-celestiamobile-androidcelestia-6426e506.md) |
 | CelestiaProject/Celestia | partial | 2026-09-09T20:26:07Z | [open](../records/space-maps-celestiaproject-celestia-77ed9958.md) |
 | clmun/Shadow | partial | 2026-04-14T09:23:19Z | [open](../records/space-maps-clmun-shadow-0c5d44f8.md) |
 | commenthol/astronomia | partial | 2025-08-30T08:12:39Z | [open](../records/space-maps-commenthol-astronomia-226c6abd.md) |
@@ -922,7 +922,7 @@ Records: `1222`
 | jarogumulec/perseidy | partial | 2026-08-12T07:13:34Z | [open](../records/space-maps-jarogumulec-perseidy-606b759b.md) |
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) |
-| jobovy/galpy | partial | 2026-09-10T02:49:41Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
+| jobovy/galpy | partial | 2026-09-10T06:45:20Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
 | JuliaAstro/SPICE.jl | partial | 2026-06-24T14:09:40Z | [open](../records/space-maps-juliaastro-spice-jl-78081df8.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | kaitlyndlee/AstroWebMaps | partial | 2019-10-11T17:52:05Z | [open](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) |
@@ -980,7 +980,7 @@ Records: `1222`
 | spacetelescope/webbpsf | partial | 2025-12-02T16:51:26Z | [open](../records/space-maps-spacetelescope-webbpsf-5be07f40.md) |
 | SpiceSharp/SpiceSharpParser | partial | 2026-08-01T17:44:33Z | [open](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/space-maps-starlink-starlink-7f05c3ed.md) |
-| Stellarium/stellarium | partial | 2026-09-09T07:15:49Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
+| Stellarium/stellarium | partial | 2026-09-10T07:08:59Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
 | steveberardi/starplot | partial | 2026-09-09T13:29:47Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/space-maps-stingraysoftware-stingray-96dfde34.md) |
 | sunpy/sunpy | partial | 2026-09-09T11:30:24Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |

@@ -807,7 +807,7 @@ Records: `1073`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-10T05:50:56Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-10T06:57:56Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -931,7 +931,7 @@ Records: `1073`
 | --- | --- | --- | --- |
 | Ching367436/spice-mac | partial | 2026-08-27T16:25:56Z | [open](../records/space-maps-ching367436-spice-mac-5719b99e.md) |
 | Corsinvest/cv4pve-vdi | partial | 2026-07-30T17:05:15Z | [open](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
-| electerm/electerm | partial | 2026-09-10T04:45:57Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
+| electerm/electerm | partial | 2026-09-10T05:45:37Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
 | fat/space-tweet | partial | 2025-12-23T00:46:18Z | [open](../records/space-maps-fat-space-tweet-f2d19386.md) |
 | FreeRDP/Remmina | partial | 2026-02-08T19:09:55Z | [open](../records/space-maps-freerdp-remmina-5536d2a1.md) |
 | fujiaze/Gaia-DR3-DR3SP-Client-C | partial | 2026-07-24T09:41:47Z | [open](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |

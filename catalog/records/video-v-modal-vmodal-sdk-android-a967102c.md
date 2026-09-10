@@ -32,7 +32,7 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-03T14:54:37Z | gh search repos topic:video-processing stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T06:16:47Z | gh search repos topic:video-processing stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

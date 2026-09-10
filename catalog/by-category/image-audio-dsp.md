@@ -302,7 +302,7 @@ Records: `444`
 | Chowdhury-DSP/ChowMatrix | partial | 2022-07-16T14:37:08Z | [open](../records/audio-chowdhury-dsp-chowmatrix-3aab0cce.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/audio-cutterbl-soundtouchjs-ef09c7a0.md) |
 | cvde/RoomReverb | partial | 2025-09-15T17:11:38Z | [open](../records/audio-cvde-roomreverb-a0c4b46d.md) |
-| cycfi/q | partial | 2026-09-10T04:11:57Z | [open](../records/audio-cycfi-q-42b5713b.md) |
+| cycfi/q | partial | 2026-09-10T06:50:35Z | [open](../records/audio-cycfi-q-42b5713b.md) |
 | danfrz/PLEBTracker | partial | 2025-11-22T09:38:10Z | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
 | DBraun/DawDreamer | partial | 2026-09-01T04:25:36Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
 | DBraun/Sampler | partial | 2026-02-07T21:21:44Z | [open](../records/audio-dbraun-sampler-326175c5.md) |

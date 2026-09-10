@@ -40,7 +40,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit; Unlicense; https://www.nuget.org/packages/Json.Net/1.0.33/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""}; Unlicense; https://www.nuget.org/packages/Json.Net/1.0.33/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

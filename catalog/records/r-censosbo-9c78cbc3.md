@@ -39,9 +39,9 @@ review, undefined-state detection, and regression prevention.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

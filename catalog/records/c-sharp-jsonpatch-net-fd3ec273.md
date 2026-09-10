@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other; {"key": "", "name": "", "url": ""}; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GPL-2; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

@@ -40,7 +40,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | Other; ISC License; https://api.github.com/licenses/isc |
+| Evidence | ISC License; https://api.github.com/licenses/isc |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
