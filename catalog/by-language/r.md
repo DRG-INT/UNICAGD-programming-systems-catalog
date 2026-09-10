@@ -1,6 +1,6 @@
 # R
 
-Records: `1970`
+Records: `1972`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `1970`
 [Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (976)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
 [Embedded Hardware (67)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1502)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](../by-category/image-audio-dsp.md) · [Interop Bindings (64)](../by-category/interop-bindings.md) · [Interpreter Runtime (281)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5969)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5970)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
 [Math Numeric Scientific (93)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1076)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (449)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -838,6 +838,7 @@ Records: `1970`
 | [DropCens](../records/r-dropcens-2c26588a.md) | 0.1.0 | 2026-08-09 08:00:17 UTC | registry-derived |
 | [DrugUtilisation](../records/r-drugutilisation-4f591066.md) | 1.3.1 | 2026-08-21 21:50:50 UTC | registry-derived |
 | [dsROCrate](../records/r-dsrocrate-67d49654.md) | 0.2.2 | 2026-08-21 15:40:02 UTC | registry-derived |
+| [DTRlearn2](../records/r-dtrlearn2-9b12ef36.md) | 2.1 | 2026-09-10 20:50:02 UTC | registry-derived |
 | [ducklake](../records/r-ducklake-c5eeb167.md) | 0.6.0 | 2026-09-09 14:50:02 UTC | registry-derived |
 | [earth](../records/r-earth-b151e3ae.md) | 5.3.6 | 2026-08-21 11:40:02 UTC | registry-derived |
 | [easybgm](../records/r-easybgm-a0a4f6bc.md) | 0.5.0 | 2026-09-10 11:30:02 UTC | registry-derived |
@@ -1340,6 +1341,12 @@ Records: `1970`
 | [cmrdesign](../records/r-cmrdesign-6a861ea1.md) | 0.1.0 | 2026-08-05 06:30:02 UTC | registry-derived |
 | [evalITR](../records/r-evalitr-3f630caf.md) | 1.1.0 | 2026-09-07 05:20:08 UTC | registry-derived |
 | [fluffy](../records/r-fluffy-84571a64.md) | 1.0.1 | 2026-08-20 14:30:19 UTC | registry-derived |
+
+### Linter
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [jsslintr](../records/r-jsslintr-a8557819.md) | 1.2.0 | 2026-09-10 20:20:02 UTC | registry-derived |
 
 ### Logging Observability
 

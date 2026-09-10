@@ -15,10 +15,10 @@ Records: `662`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · **[Formatter (662)](formatter.md)**
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -110,7 +110,7 @@ Records: `662`
 | sysinfo | 0.39.6 | 2026-07-09T10:46:59.210840Z | [open](../records/rust-sysinfo-f52c65cc.md) |
 | term | 1.2.1 | 2025-12-06T16:40:14.525516Z | [open](../records/rust-term-2f1f00ef.md) |
 | terminfo | 0.9.0 | 2024-05-08T13:44:46.919814Z | [open](../records/rust-terminfo-7ffe4400.md) |
-| toml_edit | 0.25.13+spec-1.1.0 | 2026-07-14T13:09:48.650874Z | [open](../records/rust-toml-edit-d8550b65.md) |
+| toml_edit | 0.25.14+spec-1.1.0 | 2026-09-10T20:28:40.360239Z | [open](../records/rust-toml-edit-d8550b65.md) |
 | toml_parser | 1.1.3+spec-1.1.0 | 2026-07-27T14:53:02.089853Z | [open](../records/rust-toml-parser-43492703.md) |
 | uname | 0.1.1 | 2016-10-11T18:23:38.774567Z | [open](../records/rust-uname-88f9e3b6.md) |
 | unit-prefix | 0.5.2 | 2025-11-16T23:46:07.469023Z | [open](../records/rust-unit-prefix-17abacee.md) |
@@ -170,8 +170,8 @@ Records: `662`
 | @doist/prettier-config | 4.0.1 | 2025-11-13T18:47:07.005Z | [open](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
 | @excalidraw/prettier-config | 1.0.2 | 2021-02-25T14:12:02.335Z | [open](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) |
 | @exodus/prettier | 1.0.0 | 2023-09-12T15:23:38.560Z | [open](../records/node-js-javascript-exodus-prettier-04dd5e42.md) |
-| @formatjs/cli | 6.16.24 | 2026-09-10T01:25:52.651Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
-| @formatjs/cli-lib | 10.0.0 | 2026-09-10T01:22:32.425Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @formatjs/cli | 6.16.25 | 2026-09-10T20:43:37.037Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | 10.0.1 | 2026-09-10T20:43:27.443Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @forsakringskassan/prettier-config | 3.7.8 | 2026-07-25T01:10:43.405Z | [open](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | @fsouza/prettierd | 0.29.0 | 2026-07-26T03:59:25.309Z | [open](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) |
 | @ganintegrity/prettier-config | 2.2.1 | 2026-06-08T07:17:05.224Z | [open](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
@@ -545,7 +545,7 @@ Records: `662`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-10T21:15:04Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-10T22:20:38Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -710,7 +710,7 @@ Records: `662`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| atsushieno/aap-core | partial | 2026-07-28T13:55:28Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
+| atsushieno/aap-core | partial | 2026-09-10T08:20:56Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
 | blackboxaudio/rotor | partial | 2024-11-21T23:50:42Z | [open](../records/audio-blackboxaudio-rotor-d437cf29.md) |
 | blackcandy-org/blackcandy | partial | 2026-09-09T10:23:45Z | [open](../records/audio-blackcandy-org-blackcandy-e95601ca.md) |
 | elk-audio/mda-vst3 | partial | 2022-11-14T09:26:47Z | [open](../records/audio-elk-audio-mda-vst3-c4b43ffb.md) |
@@ -736,7 +736,7 @@ Records: `662`
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-09T19:35:22Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-08T20:45:58Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-10T15:58:29Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-09-04T06:33:23Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-05T14:34:16Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
@@ -768,7 +768,7 @@ Records: `662`
 | catrujilla/pyDHM | partial | 2025-09-16T21:49:38Z | [open](../records/microscopy-catrujilla-pydhm-45508b54.md) |
 | cgohlke/roifile | partial | 2026-07-30T01:48:11Z | [open](../records/microscopy-cgohlke-roifile-2f114ba6.md) |
 | Euro-BioImaging/BatchConvert | partial | 2025-03-14T10:23:22Z | [open](../records/microscopy-euro-bioimaging-batchconvert-38646f25.md) |
-| fideus-labs/ngff-zarr | partial | 2026-09-09T09:13:00Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
+| fideus-labs/ngff-zarr | partial | 2026-09-10T11:44:43Z | [open](../records/microscopy-fideus-labs-ngff-zarr-384efdbf.md) |
 | imaging-formats/ome-types | partial | 2026-04-02T01:45:48Z | [open](../records/microscopy-imaging-formats-ome-types-d7936d3b.md) |
 | pymmcore-plus/ome-writers | partial | 2026-07-01T11:25:58Z | [open](../records/microscopy-pymmcore-plus-ome-writers-2a308f87.md) |
 
@@ -915,7 +915,7 @@ Records: `662`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alasca.cloud/tarook/tarook | partial | 2026-09-10T06:57:14.479Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
+| alasca.cloud/tarook/tarook | partial | 2026-09-10T11:43:50.394Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
 | gitlab-org/cves | partial | 2026-09-10T18:47:18.802Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |

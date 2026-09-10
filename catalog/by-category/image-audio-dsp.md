@@ -15,10 +15,10 @@ Records: `446`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 **[Image Audio Dsp (446)](image-audio-dsp.md)** · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -317,7 +317,7 @@ Records: `446`
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | fgnt/pb_bss | partial | 2025-05-19T09:09:42Z | [open](../records/audio-fgnt-pb-bss-f15b9a38.md) |
 | File-New-Project/EarTrumpet | partial | 2026-09-06T00:45:52Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
-| floe-audio/Floe | partial | 2026-09-08T09:16:35Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
+| floe-audio/Floe | partial | 2026-09-10T14:40:18Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
 | freeman-jiang/beatsync | partial | 2026-06-12T18:53:27Z | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
@@ -332,7 +332,7 @@ Records: `446`
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-08T08:46:43Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-10T08:51:38Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |
@@ -430,7 +430,7 @@ Records: `446`
 | aydinnyunus/exifLooter | partial | 2026-01-16T16:34:17Z | [open](../records/photography-aydinnyunus-exiflooter-d4ad4d7f.md) |
 | banterle/HDR_Toolbox | partial | 2026-07-23T09:26:37Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BinomialLLC/basis_universal | partial | 2026-09-01T04:08:12Z | [open](../records/photography-binomialllc-basis-universal-7a53e558.md) |
-| BradenM/pydngconverter | partial | 2026-09-07T18:10:42Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
+| BradenM/pydngconverter | partial | 2026-09-10T21:59:20Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
 | Breakthrough/PySceneDetect | partial | 2026-08-28T00:20:20Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | C4NU/Paddie | partial | 2026-04-30T08:21:37Z | [open](../records/photography-c4nu-paddie-df004a86.md) |
 | catalyst-team/catalyst | partial | 2026-07-08T21:40:01Z | [open](../records/photography-catalyst-team-catalyst-b551d064.md) |

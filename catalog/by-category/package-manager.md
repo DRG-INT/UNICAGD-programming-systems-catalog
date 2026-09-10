@@ -15,10 +15,10 @@ Records: `449`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (449)](package-manager.md)** · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -404,7 +404,7 @@ Records: `449`
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
 | modelscope/FunASR | partial | 2026-09-10T10:59:25Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
-| open-audio-stack/open-audio-stack-registry | partial | 2026-09-02T03:58:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
+| open-audio-stack/open-audio-stack-registry | partial | 2026-09-10T03:37:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video
 
@@ -412,7 +412,7 @@ Records: `449`
 | --- | --- | --- | --- |
 | AzuraCast/AzuraCast | partial | 2026-09-03T04:46:56Z | [open](../records/video-azuracast-azuracast-d01011b2.md) |
 | calesthio/OpenMontage | partial | 2026-08-22T18:22:24Z | [open](../records/video-calesthio-openmontage-675312f7.md) |
-| google-ai-edge/mediapipe | partial | 2026-09-10T16:53:44Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-10T19:46:56Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | kaltura/platform-install-packages | partial | 2023-03-31T20:11:47Z | [open](../records/video-kaltura-platform-install-packages-da4f9d30.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
@@ -443,7 +443,7 @@ Records: `449`
 | --- | --- | --- | --- |
 | AntonotnaWang/3DCellSeg | partial | 2023-04-10T20:56:26Z | [open](../records/microscopy-antonotnawang-3dcellseg-f26edf96.md) |
 | ciccalab/SIMPLI | partial | 2025-09-23T11:08:18Z | [open](../records/microscopy-ciccalab-simpli-f44ea336.md) |
-| DeepTrackAI/DeepTrack2 | partial | 2026-09-08T14:44:03Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
+| DeepTrackAI/DeepTrack2 | partial | 2026-09-10T12:39:03Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
 | lachlanchen/OpenHI | partial | 2026-09-09T05:37:29Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-01T12:58:34Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |
@@ -455,7 +455,7 @@ Records: `449`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | lgrcia/prose | partial | 2025-07-10T00:31:54Z | [open](../records/telescopes-lgrcia-prose-f417f514.md) |
-| spacetelescope/jwst | partial | 2026-09-09T19:16:04Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
+| spacetelescope/jwst | partial | 2026-09-10T12:54:25Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
 
 ## Radars
 

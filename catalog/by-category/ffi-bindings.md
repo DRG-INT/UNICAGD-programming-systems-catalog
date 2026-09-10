@@ -15,10 +15,10 @@ Records: `472`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · **[Ffi Bindings (472)](ffi-bindings.md)** · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -184,7 +184,7 @@ Records: `472`
 | vswhom-sys | 0.1.3 | 2025-02-20T17:45:22.368976Z | [open](../records/rust-vswhom-sys-466b39c5.md) |
 | wasi | 0.14.7+wasi-0.2.4 | 2025-09-15T22:01:38.940804Z | [open](../records/rust-wasi-8a254eb0.md) |
 | wasip2 | 2.0.0+wasi-0.2.12 | 2026-08-24T19:47:46.335251Z | [open](../records/rust-wasip2-eb496713.md) |
-| wasip3 | 0.8.0+wasi-0.3.0 | 2026-08-24T19:47:49.223398Z | [open](../records/rust-wasip3-12898cc2.md) |
+| wasip3 | 0.9.0+wasi-0.3.0 | 2026-09-10T21:01:46.174573Z | [open](../records/rust-wasip3-12898cc2.md) |
 | wayland-backend | 0.3.17 | 2026-08-14T21:50:33.143344Z | [open](../records/rust-wayland-backend-52ff5022.md) |
 | wayland-cursor | 0.31.14 | 2026-03-31T02:22:00.214711Z | [open](../records/rust-wayland-cursor-fd666f56.md) |
 | wayland-protocols | 0.32.13 | 2026-06-19T15:32:40.359346Z | [open](../records/rust-wayland-protocols-fa25a9a5.md) |

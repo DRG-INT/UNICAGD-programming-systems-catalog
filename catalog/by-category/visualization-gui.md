@@ -15,10 +15,10 @@ Records: `614`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -657,7 +657,7 @@ Records: `614`
 | --- | --- | --- | --- |
 | BodenmillerGroup/cytomapper | partial | 2026-08-25T10:34:33Z | [open](../records/microscopy-bodenmillergroup-cytomapper-a6aa55ab.md) |
 | DylanMuir/ReadImageJROI | partial | 2019-12-13T09:00:35Z | [open](../records/microscopy-dylanmuir-readimagejroi-cdcd6e99.md) |
-| hms-dbmi/viv | partial | 2026-09-01T08:19:28Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
+| hms-dbmi/viv | partial | 2026-09-10T20:26:53Z | [open](../records/microscopy-hms-dbmi-viv-ad3c5c92.md) |
 | napari | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/microscopy-napari-24961023.md) |
 | scenerygraphics/sciview | partial | 2026-09-08T13:50:11Z | [open](../records/microscopy-scenerygraphics-sciview-c324a0d7.md) |
 
@@ -667,7 +667,7 @@ Records: `614`
 | --- | --- | --- | --- |
 | juanmb/nextdriver | partial | 2022-02-28T13:44:12Z | [open](../records/telescopes-juanmb-nextdriver-d1392e60.md) |
 | KStars | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-kstars-8ac0884b.md) |
-| LouisDesdoigts/dLux | partial | 2026-08-25T19:43:39Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
+| LouisDesdoigts/dLux | partial | 2026-09-10T12:37:05Z | [open](../records/telescopes-louisdesdoigts-dlux-10106405.md) |
 | SAOImage DS9 | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-saoimage-ds9-75c04688.md) |
 | Stellarium | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/telescopes-stellarium-4df0b7db.md) |
 
@@ -681,7 +681,7 @@ Records: `614`
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | juliojsb/sarviewer | partial | 2019-06-03T16:42:23Z | [open](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
-| radarsimx/radarsimpy | partial | 2026-09-10T03:39:33Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| radarsimx/radarsimpy | partial | 2026-09-10T16:43:37Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | Stefal/rtkbase | partial | 2026-05-07T15:39:40Z | [open](../records/radars-stefal-rtkbase-1f60caca.md) |
 
 ## SatCom Satellites

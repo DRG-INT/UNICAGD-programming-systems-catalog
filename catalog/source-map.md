@@ -11,10 +11,10 @@
 [Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (976)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
 [Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1502)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5969)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5970)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
 [Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1076)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (449)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -2268,6 +2268,7 @@
 | `cran_packages_by_date-be7445bc418c7c` | AstraeaDB | [open](records/r-astraeadb-a63f29d0.md) |
 | `cran_packages_by_date-be901cf4384a2b` | acro | [open](records/r-acro-20137739.md) |
 | `cran_packages_by_date-beaa320f6d25b1` | CDMConnector | [open](records/r-cdmconnector-84a814d3.md) |
+| `cran_packages_by_date-bed510e3ec0dbc` | jsslintr | [open](records/r-jsslintr-a8557819.md) |
 | `cran_packages_by_date-befda52d835682` | compIndexBuilder | [open](records/r-compindexbuilder-dd8a292d.md) |
 | `cran_packages_by_date-bf116be6817a77` | rvisual | [open](records/r-rvisual-911d8ce5.md) |
 | `cran_packages_by_date-bf18defa0d0eab` | openNCAI | [open](records/r-openncai-a8096b4e.md) |
@@ -2456,6 +2457,7 @@
 | `cran_packages_by_date-d7e7ca0f28332a` | AddiVortes | [open](records/r-addivortes-3d7d418d.md) |
 | `cran_packages_by_date-d7ebfc9c5486a6` | bodycompref | [open](records/r-bodycompref-81b04a86.md) |
 | `cran_packages_by_date-d81111c5f1812f` | pharmr | [open](records/r-pharmr-6d27372d.md) |
+| `cran_packages_by_date-d828c86d236783` | DTRlearn2 | [open](records/r-dtrlearn2-9b12ef36.md) |
 | `cran_packages_by_date-d83af8c208ec32` | ForeCA | [open](records/r-foreca-3a912f7c.md) |
 | `cran_packages_by_date-d84268625dff99` | SMM | [open](records/r-smm-4f37397b.md) |
 | `cran_packages_by_date-d881e3e63e05b7` | tidygedcom | [open](records/r-tidygedcom-43e8e561.md) |
@@ -17743,6 +17745,7 @@
 | `hackage_recent-6179081120d6b4` | srtree-db | [open](records/haskell-srtree-db-c70023f5.md) |
 | `hackage_recent-62497183bd454a` | HMock | [open](records/haskell-hmock-98549601.md) |
 | `hackage_recent-665acdb3037336` | pure-cdt | [open](records/haskell-pure-cdt-0f524428.md) |
+| `hackage_recent-66faa519263c9e` | gitlab-haskell | [open](records/haskell-gitlab-haskell-3c43f582.md) |
 | `hackage_recent-6a3519652d8827` | kioku-api | [open](records/haskell-kioku-api-ebf3c8b4.md) |
 | `hackage_recent-6d113377a71df1` | mmzk-env | [open](records/haskell-mmzk-env-78c01d27.md) |
 | `hackage_recent-6d6804f387a552` | shikumi-cache | [open](records/haskell-shikumi-cache-b542d89a.md) |
@@ -18405,7 +18408,6 @@
 | `hackage_top_downloads-66a078f0d73705` | scripths | [open](records/haskell-scripths-79fd5b51.md) |
 | `hackage_top_downloads-66df62d7e24a2b` | haskell-packages | [open](records/haskell-haskell-packages-240f88dd.md) |
 | `hackage_top_downloads-66ed83388b898d` | filestore | [open](records/haskell-filestore-562a5ad2.md) |
-| `hackage_top_downloads-66faa519263c9e` | gitlab-haskell | [open](records/haskell-gitlab-haskell-3c43f582.md) |
 | `hackage_top_downloads-6736b04b1f6a92` | hjsonschema | [open](records/haskell-hjsonschema-585b7220.md) |
 | `hackage_top_downloads-6773ad3fe7be38` | pms-domain-model | [open](records/haskell-pms-domain-model-a9daeff9.md) |
 | `hackage_top_downloads-67b732613b57b3` | haskell-names | [open](records/haskell-haskell-names-9219b154.md) |
@@ -23749,6 +23751,7 @@
 | `npm_registry-01d1974184abae` | @wdio/visual-service | [open](records/node-js-javascript-wdio-visual-service-0c53ea2f.md) |
 | `npm_registry-01e734551651e3` | prettier-quick | [open](records/node-js-javascript-prettier-quick-335e2f8f.md) |
 | `npm_registry-01ebae9970394f` | @ganintegrity/prettier-config | [open](records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
+| `npm_registry-021400f3b18631` | @tryghost/http-stream | [open](records/node-js-javascript-tryghost-http-stream-8222db0c.md) |
 | `npm_registry-022969c07a84f3` | @vscode/sandbox-runtime | [open](records/node-js-javascript-vscode-sandbox-runtime-7698def6.md) |
 | `npm_registry-025ad4c1bbca8c` | cls-proxify | [open](records/node-js-javascript-cls-proxify-27c2e107.md) |
 | `npm_registry-025ca49bc27c34` | eslint-plugin-segment-security | [open](records/node-js-javascript-eslint-plugin-segment-security-1f6409d1.md) |

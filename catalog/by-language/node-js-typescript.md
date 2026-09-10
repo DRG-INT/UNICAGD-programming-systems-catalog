@@ -15,10 +15,10 @@ Records: `391`
 [Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (976)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
 [Embedded Hardware (67)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](../by-category/ide-editor-integration.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1502)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](../by-category/image-audio-dsp.md) · [Interop Bindings (64)](../by-category/interop-bindings.md) · [Interpreter Runtime (281)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5969)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5970)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
 [Math Numeric Scientific (93)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1076)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (449)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -295,7 +295,7 @@ Records: `391`
 | [@aws-lambda-powertools/logger](../records/node-js-typescript-aws-lambda-powertools-logger-8438a23a.md) | 2.35.0 | 2026-08-18T10:27:23.835Z | npm_registry |
 | [@aws/durable-execution-sdk-js-testing](../records/node-js-typescript-aws-durable-execution-sdk-js-testing-31e8c795.md) | 1.1.4 | 2026-09-08T17:41:13.865Z | registry-derived |
 | [@babel/plugin-syntax-typescript](../records/node-js-typescript-babel-plugin-syntax-typescript-f6dbb30b.md) | 8.0.3 | 2026-06-27T08:04:32.972Z | registry-derived |
-| [@babel/plugin-transform-typescript](../records/node-js-typescript-babel-plugin-transform-typescript-349f6b2b.md) | 8.0.1 | 2026-06-17T09:45:23.105Z | registry-derived |
+| [@babel/plugin-transform-typescript](../records/node-js-typescript-babel-plugin-transform-typescript-349f6b2b.md) | 8.0.5 | 2026-09-10T21:14:28.430Z | registry-derived |
 | [@babel/preset-typescript](../records/node-js-typescript-babel-preset-typescript-bae2a595.md) | 8.0.1 | 2026-06-17T09:45:25.966Z | registry-derived |
 | [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.3 | 2026-09-06T03:03:26.293Z | registry-derived |
 | [@betterer/typescript](../records/node-js-typescript-betterer-typescript-35e88ce6.md) | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | registry-derived |
@@ -515,7 +515,7 @@ Records: `391`
 | [volar-service-typescript](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) | 0.0.71 | 2026-05-09T23:48:57.498Z | registry-derived |
 | [volar-service-typescript-twoslash-queries](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) | 0.0.71 | 2026-05-09T23:48:59.933Z | registry-derived |
 | [yuku-parser](../records/node-js-typescript-yuku-parser-d16e0e7c.md) | 0.10.0 | 2026-09-10T08:25:05.395Z | registry-derived |
-| [zod](../records/node-js-typescript-zod-b5537602.md) | 4.6.1 | 2026-09-09T21:50:12.924Z | registry-derived |
+| [zod](../records/node-js-typescript-zod-b5537602.md) | 4.6.2 | 2026-09-10T21:44:31.022Z | registry-derived |
 
 ### Utility Library
 

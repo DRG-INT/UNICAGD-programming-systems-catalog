@@ -15,10 +15,10 @@ Records: `315`
 [Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
 [Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1501)](ide-editor-integration.md)
+[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5969)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
 [Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -56,7 +56,7 @@ Records: `315`
 | @aws-lambda-powertools/logger | 2.35.0 | 2026-08-18T10:27:23.835Z | [open](../records/node-js-typescript-aws-lambda-powertools-logger-8438a23a.md) |
 | @aws/durable-execution-sdk-js-testing | 1.1.4 | 2026-09-08T17:41:13.865Z | [open](../records/node-js-typescript-aws-durable-execution-sdk-js-testing-31e8c795.md) |
 | @babel/plugin-syntax-typescript | 8.0.3 | 2026-06-27T08:04:32.972Z | [open](../records/node-js-typescript-babel-plugin-syntax-typescript-f6dbb30b.md) |
-| @babel/plugin-transform-typescript | 8.0.1 | 2026-06-17T09:45:23.105Z | [open](../records/node-js-typescript-babel-plugin-transform-typescript-349f6b2b.md) |
+| @babel/plugin-transform-typescript | 8.0.5 | 2026-09-10T21:14:28.430Z | [open](../records/node-js-typescript-babel-plugin-transform-typescript-349f6b2b.md) |
 | @babel/preset-typescript | 8.0.1 | 2026-06-17T09:45:25.966Z | [open](../records/node-js-typescript-babel-preset-typescript-bae2a595.md) |
 | @better-auth/core | 1.7.3 | 2026-09-06T03:03:26.293Z | [open](../records/node-js-typescript-better-auth-core-fa635d03.md) |
 | @betterer/typescript | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | [open](../records/node-js-typescript-betterer-typescript-35e88ce6.md) |
@@ -276,7 +276,7 @@ Records: `315`
 | volar-service-typescript | 0.0.71 | 2026-05-09T23:48:57.498Z | [open](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) |
 | volar-service-typescript-twoslash-queries | 0.0.71 | 2026-05-09T23:48:59.933Z | [open](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) |
 | yuku-parser | 0.10.0 | 2026-09-10T08:25:05.395Z | [open](../records/node-js-typescript-yuku-parser-d16e0e7c.md) |
-| zod | 4.6.1 | 2026-09-09T21:50:12.924Z | [open](../records/node-js-typescript-zod-b5537602.md) |
+| zod | 4.6.2 | 2026-09-10T21:44:31.022Z | [open](../records/node-js-typescript-zod-b5537602.md) |
 
 ## Lua family
 
@@ -314,7 +314,7 @@ Records: `315`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-10T21:17:52Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-10T22:05:20Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -432,13 +432,13 @@ Records: `315`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| thkruz/keeptrack.space | partial | 2026-09-09T10:49:28Z | [open](../records/telescopes-thkruz-keeptrack-space-032f29ef.md) |
+| thkruz/keeptrack.space | partial | 2026-09-10T12:18:20Z | [open](../records/telescopes-thkruz-keeptrack-space-032f29ef.md) |
 
 ## Radars
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| thkruz/keeptrack.space | partial | 2026-09-09T10:49:28Z | [open](../records/radars-thkruz-keeptrack-space-1403f7f7.md) |
+| thkruz/keeptrack.space | partial | 2026-09-10T12:18:20Z | [open](../records/radars-thkruz-keeptrack-space-1403f7f7.md) |
 
 ## SatCom Satellites
 

@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-10T21:21:07+00:00`
+Generated: `2026-09-10T22:22:33+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -13,10 +13,10 @@ Generated: `2026-09-10T21:21:07+00:00`
 [Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (976)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
 [Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](by-category/ide-editor-integration.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1502)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5969)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5970)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
 [Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1076)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (449)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -34,11 +34,11 @@ Generated: `2026-09-10T21:21:07+00:00`
 | Julia | 2174 | 0 | [Julia](by-language/julia.md) |
 | Rust | 2183 | 2105 | [Rust](by-language/rust.md) |
 | Python | 664 | 516 | [Python](by-language/python.md) |
-| Node.js/JavaScript | 2449 | 2372 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
+| Node.js/JavaScript | 2450 | 2373 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 391 | 351 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1970 | 1970 | [R](by-language/r.md) |
-| Haskell | 1659 | 1658 | [Haskell](by-language/haskell.md) |
+| R | 1972 | 1972 | [R](by-language/r.md) |
+| Haskell | 1659 | 1648 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -123,17 +123,17 @@ Generated: `2026-09-10T21:21:07+00:00`
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 60 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 361 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
-| Ide Editor Integration | 1501 | [ide_editor_integration](by-category/ide-editor-integration.md) |
+| Ide Editor Integration | 1502 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 446 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 64 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 281 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 65 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
 | Language Specification | 1463 | [language_specification](by-category/language-specification.md) |
-| Library | 5969 | [library](by-category/library.md) |
+| Library | 5970 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 50 | [lint_rule_pack](by-category/lint-rule-pack.md) |
-| Linter | 349 | [linter](by-category/linter.md) |
+| Linter | 350 | [linter](by-category/linter.md) |
 | Logging Observability | 541 | [logging_observability](by-category/logging-observability.md) |
 | Machine Learning | 834 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 93 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
@@ -171,11 +171,11 @@ Generated: `2026-09-10T21:21:07+00:00`
 | Julia | 0 | 2174 |
 | Rust | 2105 | 78 |
 | Python | 516 | 148 |
-| Node.js/JavaScript | 2372 | 77 |
+| Node.js/JavaScript | 2373 | 77 |
 | Node.js/TypeScript | 351 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1970 | 0 |
-| Haskell | 1658 | 1 |
+| R | 1972 | 0 |
+| Haskell | 1648 | 11 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
