@@ -39,9 +39,9 @@ deployment packaging, embedding, upgrade cadence, and compatibility validation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | {"key": "", "name": "", "url": ""}; Eclipse Public License 1.0; https://api.github.com/licenses/epl-1.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

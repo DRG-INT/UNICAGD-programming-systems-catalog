@@ -175,7 +175,7 @@ Records: `139`
 | loader_overlay | 5.0.0 | 2024-12-23T14:25:10.865260Z | [open](../records/dart-loader-overlay-73331022.md) |
 | localstorage | 6.0.0 | 2025-03-18T11:06:50.301254Z | [open](../records/dart-localstorage-e3529975.md) |
 | retry | 3.1.2 | 2023-05-16T14:26:11.159498Z | [open](../records/dart-retry-e99e010e.md) |
-| synchronized | 3.4.1+2 | 2026-08-16T11:03:30.346467Z | [open](../records/dart-synchronized-efe2aca5.md) |
+| synchronized | 3.4.2 | 2026-09-10T12:00:27.642087Z | [open](../records/dart-synchronized-efe2aca5.md) |
 
 ## Engines
 

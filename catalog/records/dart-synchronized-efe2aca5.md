@@ -32,7 +32,7 @@ scheduling, I/O throughput, cancellation, and latency management.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.4.1+2 | 2026-08-16T11:03:30.346467Z | [https://pub.dev/api/packages/synchronized](https://pub.dev/api/packages/synchronized) |  |
+| stable | known | 3.4.2 | 2026-09-10T12:00:27.642087Z | [https://pub.dev/api/packages/synchronized](https://pub.dev/api/packages/synchronized) |  |
 | preview | known | 3.0.0-nullsafety.1 | 2020-11-19T19:36:43.405088Z | [https://pub.dev/api/packages/synchronized](https://pub.dev/api/packages/synchronized) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ scheduling, I/O throughput, cancellation, and latency management.
 
 - Treat category as `async_runtime` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/synchronized` at `2026-09-01T16:41:06+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/synchronized` at `2026-09-10T13:19:59+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

@@ -367,7 +367,7 @@ Records: `448`
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
 | Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | partial | 2025-06-09T17:11:17Z | [open](../records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
-| spacetelescope/jwst | partial | 2026-09-09T19:16:04Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
+| spacetelescope/jwst | partial | 2026-09-10T12:54:25Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 | Tanguy9862/Space-App | partial | 2025-01-29T02:36:15Z | [open](../records/space-maps-tanguy9862-space-app-ab1cd9d8.md) |
 
 ## Effects
@@ -417,7 +417,7 @@ Records: `448`
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
 | rushindrasinha/youtube-shorts-pipeline | partial | 2026-06-09T23:55:00Z | [open](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-08T16:18:33Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-10T13:00:06Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | streamlink/streamlink | partial | 2026-09-03T21:24:55Z | [open](../records/video-streamlink-streamlink-ff62fe99.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |

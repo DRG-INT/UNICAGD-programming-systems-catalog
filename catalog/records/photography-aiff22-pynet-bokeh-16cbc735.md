@@ -39,9 +39,9 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | BSD_3_clause + file LICENSE; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Other |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

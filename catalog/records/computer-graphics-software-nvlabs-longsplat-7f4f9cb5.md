@@ -41,7 +41,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; Other |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

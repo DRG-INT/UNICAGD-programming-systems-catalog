@@ -40,7 +40,7 @@ language integration, ABI ownership, memory safety, and runtime embedding.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Evidence | MIT License; https://api.github.com/licenses/mit; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

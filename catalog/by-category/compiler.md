@@ -225,7 +225,7 @@ Records: `176`
 | --- | --- | --- | --- |
 | seanwood/gcc-nmf | partial | 2019-04-08T19:05:51Z | [open](../records/audio-seanwood-gcc-nmf-11e855f5.md) |
 | vult-dsp/vult | partial | 2026-09-09T19:43:22Z | [open](../records/audio-vult-dsp-vult-61a05f1e.md) |
-| Wasted-Audio/hvcc | partial | 2026-09-09T20:29:20Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
+| Wasted-Audio/hvcc | partial | 2026-09-10T11:27:33Z | [open](../records/audio-wasted-audio-hvcc-6c62ec1c.md) |
 
 ## Telescopes
 

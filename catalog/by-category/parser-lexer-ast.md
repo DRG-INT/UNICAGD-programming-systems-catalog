@@ -917,7 +917,7 @@ Records: `1223`
 | hyqzz/Solar-Wanderer | partial | 2026-08-23T16:05:32Z | [open](../records/space-maps-hyqzz-solar-wanderer-0da77410.md) |
 | IO-Aerospace-software-engineering/Astrodynamics | partial | 2026-07-31T19:10:48Z | [open](../records/space-maps-io-aerospace-software-engineering-astrodynamics-07962c9b.md) |
 | isbeorn/nina | partial | 2026-09-09T13:56:04Z | [open](../records/space-maps-isbeorn-nina-fa29fd42.md) |
-| ivoyager/planetarium | partial | 2026-09-04T20:54:35Z | [open](../records/space-maps-ivoyager-planetarium-cd8798de.md) |
+| ivoyager/planetarium | partial | 2026-09-10T12:50:01Z | [open](../records/space-maps-ivoyager-planetarium-cd8798de.md) |
 | j314159/orrery | partial | 2026-09-07T16:34:51Z | [open](../records/space-maps-j314159-orrery-b808fb80.md) |
 | jagi/meteor-astronomy | partial | 2023-08-24T08:22:39Z | [open](../records/space-maps-jagi-meteor-astronomy-04405382.md) |
 | jarogumulec/perseidy | partial | 2026-08-12T07:13:34Z | [open](../records/space-maps-jarogumulec-perseidy-606b759b.md) |
@@ -942,7 +942,7 @@ Records: `1223`
 | mperrin/poppy | partial | 2026-08-20T13:45:22Z | [open](../records/space-maps-mperrin-poppy-fcd1ffe4.md) |
 | NAKULMAK05/AstroBuddy | partial | 2025-07-23T17:53:30Z | [open](../records/space-maps-nakulmak05-astrobuddy-393a853b.md) |
 | nasa-gcn/gcn.nasa.gov | partial | 2026-09-10T04:01:24Z | [open](../records/space-maps-nasa-gcn-gcn-nasa-gov-9c9cadae.md) |
-| nasa/apod-api | partial | 2026-09-09T15:01:03Z | [open](../records/space-maps-nasa-apod-api-f0e086d7.md) |
+| nasa/apod-api | partial | 2026-09-10T13:07:32Z | [open](../records/space-maps-nasa-apod-api-f0e086d7.md) |
 | nathan-osman/go-sunrise | partial | 2024-04-23T10:07:48Z | [open](../records/space-maps-nathan-osman-go-sunrise-8394ff76.md) |
 | natnqweb/SkyMap | partial | 2025-01-14T21:25:22Z | [open](../records/space-maps-natnqweb-skymap-70986dbe.md) |
 | nekitmm/starnet | partial | 2022-09-12T22:34:37Z | [open](../records/space-maps-nekitmm-starnet-873afb0c.md) |

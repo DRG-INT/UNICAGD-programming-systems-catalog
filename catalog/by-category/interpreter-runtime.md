@@ -318,7 +318,7 @@ Records: `280`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | redpanda-data/redpanda | partial | 2026-08-22T00:45:06Z | [open](../records/video-redpanda-data-redpanda-67d7afe6.md) |
-| v-modal/vmodal_sdk_android | partial | 2026-09-10T06:16:47Z | [open](../records/video-v-modal-vmodal-sdk-android-a967102c.md) |
+| v-modal/vmodal_sdk_android | partial | 2026-09-10T11:39:56Z | [open](../records/video-v-modal-vmodal-sdk-android-a967102c.md) |
 
 ## Photography
 

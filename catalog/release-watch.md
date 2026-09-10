@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T12:30:41+00:00`
+Generated: `2026-09-10T13:22:50+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -38,6 +38,7 @@ Generated: `2026-09-10T12:30:41+00:00`
 | pro_image_editor | Dart | Ide Editor Integration | 14.1.0 | 2026-09-10T12:12:26.807683Z | [open](records/dart-pro-image-editor-ca6b5a34.md) |
 | appsflyer_sdk | Dart | Filesystem Os | 7.0.2+1-rc1 | 2026-09-10T12:05:13.200533Z | [open](records/dart-appsflyer-sdk-6ae65c04.md) |
 | phino | Haskell | Library | 0.0.125 | 2026-09-10T12:02:32Z | [open](records/haskell-phino-0ffa79f2.md) |
+| synchronized | Dart | Async Runtime | 3.4.2 | 2026-09-10T12:00:27.642087Z | [open](records/dart-synchronized-efe2aca5.md) |
 | liquid_glass_widgets | Dart | Filesystem Os | 1.4.3 | 2026-09-10T11:18:59.586652Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
 | typed-rest-client | Node.js/TypeScript | Type Checker | 3.1.2 | 2026-09-10T11:11:50.763Z | [open](records/node-js-typescript-typed-rest-client-f0090a5f.md) |
 | aihc-cpp | Haskell | Machine Learning | 2.0.0.0 | 2026-09-10T11:00:24Z | [open](records/haskell-aihc-cpp-dcb7d8e3.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-10T12:30:41+00:00`
 | uroscores | R | Logging Observability | 0.1.0 | 2026-09-09 13:00:02 UTC | [open](records/r-uroscores-90eb0d77.md) |
 | CAST | R | Parser Lexer Ast | 1.1.2 | 2026-09-09 12:40:30 UTC | [open](records/r-cast-163dd49d.md) |
 | CLIQUE | R | Cli | 1.0.0 | 2026-09-09 12:40:23 UTC | [open](records/r-clique-b083559f.md) |
-| irace | R | Configuration | 4.4.4 | 2026-09-09 12:40:15 UTC | [open](records/r-irace-811174d4.md) |
 
 ## Unknown Reasons
 

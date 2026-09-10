@@ -106,7 +106,7 @@ Records: `287`
 | [ethz-pes/AI-mag](../records/matlab-ethz-pes-ai-mag-5ed37dd9.md) | partial | 2025-10-22T15:10:20Z | registry-derived |
 | [Ewenwan/Mathematics](../records/matlab-ewenwan-mathematics-14aba0bf.md) | partial | 2020-09-12T02:38:03Z | registry-derived |
 | [fangq/iso2mesh](../records/matlab-fangq-iso2mesh-3398b7c9.md) | partial | 2026-08-30T20:30:23Z | registry-derived |
-| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-04T21:46:08Z | registry-derived |
+| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-10T13:17:27Z | registry-derived |
 | [filipradenovic/cnnimageretrieval](../records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) | partial | 2022-06-02T18:54:49Z | registry-derived |
 | [Firmament-Autopilot/FMT-Model](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) | partial | 2026-07-24T05:58:41Z | registry-derived |
 | [flatironinstitute/CaImAn-MATLAB](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) | partial | 2023-07-04T01:09:30Z | registry-derived |

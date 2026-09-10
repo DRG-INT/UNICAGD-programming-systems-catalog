@@ -542,7 +542,7 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-10T11:26:24Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-10T13:17:15Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -715,7 +715,7 @@ Records: `658`
 | MikeMorenoDSP/LIRA-8 | partial | 2023-02-06T05:45:24Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | MycroftAI/ZZZ-RETIRED__openstt | partial | 2016-03-22T21:41:07Z | [open](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-09T11:37:00Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-10T11:37:24Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 

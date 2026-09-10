@@ -55,7 +55,7 @@ Records: `765`
 | [loader_overlay](../records/dart-loader-overlay-73331022.md) | 5.0.0 | 2024-12-23T14:25:10.865260Z | registry-derived |
 | [localstorage](../records/dart-localstorage-e3529975.md) | 6.0.0 | 2025-03-18T11:06:50.301254Z | registry-derived |
 | [retry](../records/dart-retry-e99e010e.md) | 3.1.2 | 2023-05-16T14:26:11.159498Z | registry-derived |
-| [synchronized](../records/dart-synchronized-efe2aca5.md) | 3.4.1+2 | 2026-08-16T11:03:30.346467Z | registry-derived |
+| [synchronized](../records/dart-synchronized-efe2aca5.md) | 3.4.2 | 2026-09-10T12:00:27.642087Z | registry-derived |
 
 ### Benchmarking
 

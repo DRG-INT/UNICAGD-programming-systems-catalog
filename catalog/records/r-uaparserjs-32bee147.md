@@ -39,9 +39,9 @@ generation, static analysis, and source transformation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0 \| file LICENSE |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Mixed license review |
+| Evidence | MIT License; https://api.github.com/licenses/mit; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; {"key": "", "name": "", "url": ""}; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
