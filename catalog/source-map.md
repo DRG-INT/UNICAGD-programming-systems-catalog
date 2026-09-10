@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (231)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1029)](by-category/build-system.md) · [Cli (585)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1029)](by-category/build-system.md) · [Cli (586)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (136)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (975)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
+[Cryptography (180)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (975)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
-[Embedded Hardware (65)](by-category/embedded-hardware.md) · [Ffi Bindings (471)](by-category/ffi-bindings.md) · [Filesystem Os (1666)](by-category/filesystem-os.md) · [Formatter (658)](by-category/formatter.md)
+[Embedded Hardware (65)](by-category/embedded-hardware.md) · [Ffi Bindings (471)](by-category/ffi-bindings.md) · [Filesystem Os (1667)](by-category/filesystem-os.md) · [Formatter (661)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1496)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1460)](by-category/language-specification.md) · [Library (5932)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1460)](by-category/language-specification.md) · [Library (5936)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (831)](by-category/machine-learning.md)
 [Math Numeric Scientific (91)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1074)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (448)](by-category/package-manager.md) · [Parser Lexer Ast (1223)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (338)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (648)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (630)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (604)](by-category/visualization-gui.md) · [Web Framework (494)](by-category/web-framework.md)
+[Security Sast (338)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (649)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (633)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (605)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1150,6 +1150,7 @@
 | `cran_packages_by_date-2bb6e6f3f1f4f8` | approximator | [open](records/r-approximator-c16a9169.md) |
 | `cran_packages_by_date-2be39ac1f4da26` | ekioplot | [open](records/r-ekioplot-2ce59050.md) |
 | `cran_packages_by_date-2ca6808ef970e7` | gkwreg | [open](records/r-gkwreg-db25c16d.md) |
+| `cran_packages_by_date-2cb9dc93bc79b9` | immunaut | [open](records/r-immunaut-c0975701.md) |
 | `cran_packages_by_date-2d33e01e34a6d6` | guideR | [open](records/r-guider-188f5cbf.md) |
 | `cran_packages_by_date-2d70d0cddb92ca` | gge | [open](records/r-gge-951d070d.md) |
 | `cran_packages_by_date-2dc23f92c6ae89` | HeatStressR | [open](records/r-heatstressr-efbc6ad7.md) |
@@ -1305,11 +1306,13 @@
 | `cran_packages_by_date-3ff286ccbe4354` | gorica | [open](records/r-gorica-b7655039.md) |
 | `cran_packages_by_date-4044ee82cf4974` | spCF | [open](records/r-spcf-0ee968e4.md) |
 | `cran_packages_by_date-4091a1c42baa61` | semanticfa | [open](records/r-semanticfa-d72b58ad.md) |
+| `cran_packages_by_date-40bf5e149432e3` | datawizard | [open](records/r-datawizard-62fb7afc.md) |
 | `cran_packages_by_date-40e182c2b5e2c1` | pre | [open](records/r-pre-14669e77.md) |
 | `cran_packages_by_date-413ecc5f4e6aec` | PGM2 | [open](records/r-pgm2-36428c7c.md) |
 | `cran_packages_by_date-413f8c567a840a` | leaflet.extras2 | [open](records/r-leaflet-extras2-c846c41d.md) |
 | `cran_packages_by_date-41523592deba46` | survalis | [open](records/r-survalis-1a651db3.md) |
 | `cran_packages_by_date-417f046279fe25` | mditools | [open](records/r-mditools-d2710433.md) |
+| `cran_packages_by_date-41809062c1876a` | liver | [open](records/r-liver-05b7675b.md) |
 | `cran_packages_by_date-41b171bac1673c` | multcomp | [open](records/r-multcomp-ff29e00f.md) |
 | `cran_packages_by_date-41d7bfdd04822d` | TH | [open](records/r-th-6c0bb6f6.md) |
 | `cran_packages_by_date-41e16b08c5b62c` | acR | [open](records/r-acr-06483fc8.md) |
@@ -1357,6 +1360,7 @@
 | `cran_packages_by_date-479dcfa443a2e5` | IndFarmCost | [open](records/r-indfarmcost-f513f388.md) |
 | `cran_packages_by_date-47ad04abe71f6d` | gss | [open](records/r-gss-171e2c52.md) |
 | `cran_packages_by_date-47cb8ec2fc20f8` | PricingBandits | [open](records/r-pricingbandits-de576312.md) |
+| `cran_packages_by_date-47de592fe3b20d` | CompositionalRF | [open](records/r-compositionalrf-9d8ef46e.md) |
 | `cran_packages_by_date-480a2244f5c98d` | dtametaTMB | [open](records/r-dtametatmb-28df18e4.md) |
 | `cran_packages_by_date-481b9e8ee043ae` | RelDists | [open](records/r-reldists-29ab375f.md) |
 | `cran_packages_by_date-483dba051527a2` | dyadMLM | [open](records/r-dyadmlm-a0536dff.md) |
@@ -1779,6 +1783,7 @@
 | `cran_packages_by_date-7f0ca909877cdb` | ClassifyITS | [open](records/r-classifyits-9d0d3143.md) |
 | `cran_packages_by_date-7f21e8ec80854e` | deltabreedquery | [open](records/r-deltabreedquery-613651ce.md) |
 | `cran_packages_by_date-7f2d52b038ce3a` | nof1kit | [open](records/r-nof1kit-df40f35e.md) |
+| `cran_packages_by_date-7f60b4862c4317` | co2e | [open](records/r-co2e-18cc38bd.md) |
 | `cran_packages_by_date-7f73a39984502c` | trend | [open](records/r-trend-26b91420.md) |
 | `cran_packages_by_date-7f8029e8737a1e` | iop | [open](records/r-iop-424a648e.md) |
 | `cran_packages_by_date-7f9447d052d1d5` | kvh | [open](records/r-kvh-f440c68a.md) |
@@ -1788,6 +1793,7 @@
 | `cran_packages_by_date-7fecefa9ba0849` | tanner | [open](records/r-tanner-99dfc021.md) |
 | `cran_packages_by_date-7fef30be0aefc8` | ggthemes | [open](records/r-ggthemes-d19d474f.md) |
 | `cran_packages_by_date-803a5c529f325e` | naive | [open](records/r-naive-5509a636.md) |
+| `cran_packages_by_date-804d93a93774d5` | RDieHarder | [open](records/r-rdieharder-9e6c07bc.md) |
 | `cran_packages_by_date-80518942fd13ed` | heims | [open](records/r-heims-9499322e.md) |
 | `cran_packages_by_date-807e0427188c10` | semFromKeys | [open](records/r-semfromkeys-de1ad150.md) |
 | `cran_packages_by_date-8084c2f704e518` | MosaiClusteR | [open](records/r-mosaicluster-ce1436ef.md) |
@@ -1893,6 +1899,7 @@
 | `cran_packages_by_date-8c9ff427600a08` | suppr | [open](records/r-suppr-dd4b95f3.md) |
 | `cran_packages_by_date-8cad6606c8a3c5` | FastJM | [open](records/r-fastjm-411c995d.md) |
 | `cran_packages_by_date-8ced3b54895e3e` | chaidr | [open](records/r-chaidr-5e01f51b.md) |
+| `cran_packages_by_date-8d0b9a3d85ec54` | epkde | [open](records/r-epkde-b37c87ab.md) |
 | `cran_packages_by_date-8d19378b2750b5` | rdborrow | [open](records/r-rdborrow-95d341d6.md) |
 | `cran_packages_by_date-8d748e93523316` | SynergyLMM | [open](records/r-synergylmm-7498225b.md) |
 | `cran_packages_by_date-8d926c02cb132b` | rncl | [open](records/r-rncl-afa93fc8.md) |
@@ -2572,6 +2579,7 @@
 | `cran_packages_by_date-e99987d00e5d60` | isoniche | [open](records/r-isoniche-a6c9218c.md) |
 | `cran_packages_by_date-e9c55f4087ef91` | ccda | [open](records/r-ccda-cf81dadc.md) |
 | `cran_packages_by_date-e9e41992275970` | polyglotSQL | [open](records/r-polyglotsql-f51f58a7.md) |
+| `cran_packages_by_date-e9fd5117ae4410` | infometrics | [open](records/r-infometrics-a06c3ff5.md) |
 | `cran_packages_by_date-ea378002e74c64` | moveEZ | [open](records/r-moveez-051173a5.md) |
 | `cran_packages_by_date-ea7efb44156535` | insurancerating | [open](records/r-insurancerating-fcf34652.md) |
 | `cran_packages_by_date-eaecb2ae9687c4` | tplyr2 | [open](records/r-tplyr2-30670dc5.md) |
@@ -17607,6 +17615,7 @@
 | `hackage_recent-2ea0355e73efdb` | keel-dyn | [open](records/haskell-keel-dyn-2d5e1e3a.md) |
 | `hackage_recent-30bbdc91959c46` | freckle-http | [open](records/haskell-freckle-http-ec27c9f6.md) |
 | `hackage_recent-31305628b3873b` | shikumi-trace | [open](records/haskell-shikumi-trace-4a116dca.md) |
+| `hackage_recent-31e105dd97c9a2` | atelier-prelude | [open](records/haskell-atelier-prelude-64875e60.md) |
 | `hackage_recent-31ecc5494c6ada` | keiro-pgmq | [open](records/haskell-keiro-pgmq-268c8f76.md) |
 | `hackage_recent-31f30d758ef83c` | aihc-cpp | [open](records/haskell-aihc-cpp-dcb7d8e3.md) |
 | `hackage_recent-35beadab7001d5` | what4-domains | [open](records/haskell-what4-domains-20a280a8.md) |
@@ -17616,6 +17625,7 @@
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
 | `hackage_recent-37353658c3dd2d` | hsinstall | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | `hackage_recent-394e34f595c790` | libheif-hs | [open](records/haskell-libheif-hs-92008b9d.md) |
+| `hackage_recent-39c15f52098971` | tricorder-types | [open](records/haskell-tricorder-types-5b7c3ebd.md) |
 | `hackage_recent-3b809eae641976` | htalkat | [open](records/haskell-htalkat-763c1531.md) |
 | `hackage_recent-3dac3a6b541303` | dtmc | [open](records/haskell-dtmc-cfd2fdd2.md) |
 | `hackage_recent-4108e47f4dc311` | s2n-tls | [open](records/haskell-s2n-tls-bb330827.md) |
@@ -17678,8 +17688,8 @@
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
 | `hackage_recent-c326797c1442e5` | ideas | [open](records/haskell-ideas-bf8cd393.md) |
-| `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_recent-c7bc43622e5761` | baikai-trace-otel | [open](records/haskell-baikai-trace-otel-4ce358b8.md) |
+| `hackage_recent-c97a9d9884736d` | atelier-core | [open](records/haskell-atelier-core-446a6fc4.md) |
 | `hackage_recent-caaad4e7e9d8e0` | servant-ede | [open](records/haskell-servant-ede-265a6dc2.md) |
 | `hackage_recent-cafe48bb462f82` | scip | [open](records/haskell-scip-895a15af.md) |
 | `hackage_recent-cb55b7d1e2bec0` | shikumi-optimize | [open](records/haskell-shikumi-optimize-88f02b37.md) |
@@ -18865,6 +18875,7 @@
 | `hackage_top_downloads-c68d119370a175` | language-ats | [open](records/haskell-language-ats-602673bb.md) |
 | `hackage_top_downloads-c68d2c51752e7c` | tracing | [open](records/haskell-tracing-ffb111c3.md) |
 | `hackage_top_downloads-c6a433e54ac734` | template-haskell | [open](records/haskell-template-haskell-105ba04a.md) |
+| `hackage_top_downloads-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
 | `hackage_top_downloads-c6a99f25db336e` | citeproc | [open](records/haskell-citeproc-d0edae83.md) |
 | `hackage_top_downloads-c6bf3f32570634` | jacinda | [open](records/haskell-jacinda-77fe1382.md) |
 | `hackage_top_downloads-c6da77e4d5c2f2` | dhall | [open](records/haskell-dhall-1d6993a7.md) |
@@ -25093,6 +25104,7 @@
 | `npm_registry-8827617c568b76` | pptr-testing-library | [open](records/node-js-javascript-pptr-testing-library-a2884268.md) |
 | `npm_registry-88642a6f90ec79` | getopts | [open](records/node-js-javascript-getopts-4e301e6f.md) |
 | `npm_registry-887a5f4d322018` | prettier-plugin-import-sort | [open](records/node-js-typescript-prettier-plugin-import-sort-66d210d7.md) |
+| `npm_registry-88acf9b96fbf1c` | @earendil-works/pi-server | [open](records/node-js-javascript-earendil-works-pi-server-16fd31fc.md) |
 | `npm_registry-88b2b9392e7ee5` | vietnam-address-database | [open](records/node-js-javascript-vietnam-address-database-9e72ef3a.md) |
 | `npm_registry-88b3e88e717d59` | @shahrad/prettier-config | [open](records/node-js-javascript-shahrad-prettier-config-20eb4bb4.md) |
 | `npm_registry-89046bf84ea45a` | @types/ember-testing-helpers | [open](records/node-js-typescript-types-ember-testing-helpers-ea96fde4.md) |
@@ -25742,6 +25754,7 @@
 | `npm_registry-c28f1a280246e4` | @formatjs/cli | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
 | `npm_registry-c2a88aa09fcaae` | @sap/hana-project-explorer | [open](records/node-js-javascript-sap-hana-project-explorer-0180f7e1.md) |
 | `npm_registry-c2a9bd1c0138f8` | @clerk/cli-darwin-arm64 | [open](records/node-js-javascript-clerk-cli-darwin-arm64-eb3bac3f.md) |
+| `npm_registry-c2acc3a3330a71` | @sa11y/matcher | [open](records/node-js-javascript-sa11y-matcher-2c7aadca.md) |
 | `npm_registry-c2b2e6183b9290` | prettier-plugin-organize-imports | [open](records/node-js-typescript-prettier-plugin-organize-imports-efa6e5ee.md) |
 | `npm_registry-c2b5f15171a2fb` | @subsquid/graphql-server | [open](records/node-js-javascript-subsquid-graphql-server-df5bcb94.md) |
 | `npm_registry-c2bc73b9e535d3` | @asaidimu/utils-database | [open](records/node-js-javascript-asaidimu-utils-database-3c9a1580.md) |
@@ -25796,6 +25809,7 @@
 | `npm_registry-c94a8c9467df12` | @transcend-io/mcp-server-preferences | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | `npm_registry-c985e916c4c703` | @tryghost/database-info | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
 | `npm_registry-c9bdbf5692d8ee` | http-browserify | [open](records/node-js-javascript-http-browserify-24d71388.md) |
+| `npm_registry-c9da1f28da8dca` | @clerk/cli-darwin-x64 | [open](records/node-js-javascript-clerk-cli-darwin-x64-951e689e.md) |
 | `npm_registry-c9dd504d47fb82` | @vue/compat | [open](records/node-js-javascript-vue-compat-d0b97399.md) |
 | `npm_registry-c9f2f9bc8a9cd6` | angular-eslint | [open](records/node-js-javascript-angular-eslint-be807fc1.md) |
 | `npm_registry-ca19917154c601` | @ionic/cli-framework-output | [open](records/node-js-javascript-ionic-cli-framework-output-8324bb8a.md) |
@@ -25908,6 +25922,7 @@
 | `npm_registry-d492e776032f7b` | eslint-plugin-json | [open](records/node-js-javascript-eslint-plugin-json-02f7cac4.md) |
 | `npm_registry-d499ade6bb21dd` | @pgpmjs/export | [open](records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
 | `npm_registry-d4b70f6b6a371b` | typescript-logic | [open](records/node-js-typescript-typescript-logic-67c2ede7.md) |
+| `npm_registry-d4bc4b1a20a8b0` | cliff | [open](records/node-js-javascript-cliff-d011311f.md) |
 | `npm_registry-d4ce84280fb44d` | @supabase/ssr | [open](records/node-js-javascript-supabase-ssr-8731a292.md) |
 | `npm_registry-d4e7263fb5a98e` | ts-essentials | [open](records/node-js-typescript-ts-essentials-af935135.md) |
 | `npm_registry-d4ef6366ddfdb7` | @stacksjs/security | [open](records/node-js-javascript-stacksjs-security-07024dc5.md) |
@@ -26009,6 +26024,7 @@
 | `npm_registry-df30ce720243a4` | @micham/sftp-mock-server | [open](records/node-js-javascript-micham-sftp-mock-server-82e00bda.md) |
 | `npm_registry-df3878692035db` | warehouse | [open](records/node-js-javascript-warehouse-f6e63362.md) |
 | `npm_registry-df98dd4466e31e` | @typescript/native-preview-linux-arm | [open](records/node-js-typescript-typescript-native-preview-linux-arm-3c94ff46.md) |
+| `npm_registry-dfc93bb49ca609` | @adobe/data-testing | [open](records/node-js-javascript-adobe-data-testing-fd96d5ef.md) |
 | `npm_registry-dfcdbe782f5f09` | react-native-ts-identity-orchestration | [open](records/node-js-javascript-react-native-ts-identity-orchestration-8488f2ea.md) |
 | `npm_registry-dfdf457d1536a6` | typescript-native-bridge | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
 | `npm_registry-dff1508831d9f1` | @genesislcap/prettier-config | [open](records/node-js-javascript-genesislcap-prettier-config-248c9610.md) |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `5932`
+Records: `5936`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `5932`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (586)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1667)](filesystem-os.md) · [Formatter (661)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · **[Library (5932)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · **[Library (5936)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (648)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (630)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (649)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (633)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (605)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -1651,7 +1651,7 @@ Records: `5932`
 | gpu-descriptor-types | 0.2.0 | 2024-04-09T19:58:06.565965Z | [open](../records/rust-gpu-descriptor-types-46d61884.md) |
 | hdrhistogram | 7.6.0 | 2026-07-18T17:50:04.467821Z | [open](../records/rust-hdrhistogram-bff499d5.md) |
 | heck | 0.5.0 | 2024-03-12T22:42:23.303234Z | [open](../records/rust-heck-cab523c6.md) |
-| hickory-proto | 0.26.2 | 2026-09-03T19:35:15.083130Z | [open](../records/rust-hickory-proto-f2323661.md) |
+| hickory-proto | 0.26.3 | 2026-09-10T14:17:26.849770Z | [open](../records/rust-hickory-proto-f2323661.md) |
 | histogram | 1.5.0 | 2026-07-02T19:38:16.200316Z | [open](../records/rust-histogram-4741394c.md) |
 | hkdf | 0.13.0 | 2026-03-30T14:36:50.965552Z | [open](../records/rust-hkdf-6a719215.md) |
 | hmac-drbg | 0.3.0 | 2020-06-15T02:27:43.953301Z | [open](../records/rust-hmac-drbg-bcd08d50.md) |
@@ -2635,6 +2635,7 @@ Records: `5932`
 | embryogrowth | 2026.8.24 | 2026-08-24 15:50:02 UTC | [open](../records/r-embryogrowth-6d261bd1.md) |
 | emulator | 1.3-0 | 2026-09-07 05:20:15 UTC | [open](../records/r-emulator-fe1cd53e.md) |
 | epicR | 1.0.2 | 2026-09-09 07:40:20 UTC | [open](../records/r-epicr-cdef34de.md) |
+| epkde | 0.1.0 | 2026-09-10 13:10:08 UTC | [open](../records/r-epkde-b37c87ab.md) |
 | epoxy | 1.0.1 | 2026-08-31 18:40:13 UTC | [open](../records/r-epoxy-6caa5386.md) |
 | equatiomatic | 0.4.9 | 2026-08-19 12:50:09 UTC | [open](../records/r-equatiomatic-d1f7cbbe.md) |
 | eulerr | 8.3.0 | 2026-08-21 21:50:10 UTC | [open](../records/r-eulerr-c769d78e.md) |
@@ -3193,6 +3194,8 @@ Records: `5932`
 | asn1-data | 0.7.2 | 2015-09-07T09:57:38Z | [open](../records/haskell-asn1-data-530c2108.md) |
 | asn1-encoding | 0.9.6 | 2019-09-29T19:07:14Z | [open](../records/haskell-asn1-encoding-bfa5eab2.md) |
 | asn1-types | 0.3.4 | 2020-03-24T20:32:54Z | [open](../records/haskell-asn1-types-0e892625.md) |
+| atelier-core | 0.6.0.0 | 2026-09-10T14:08:53Z | [open](../records/haskell-atelier-core-446a6fc4.md) |
+| atelier-prelude | 0.3.0.0 | 2026-09-10T14:08:46Z | [open](../records/haskell-atelier-prelude-64875e60.md) |
 | atomic-primops | 0.8.8 | 2024-06-20T20:33:01Z | [open](../records/haskell-atomic-primops-38c4ce12.md) |
 | attoparsec | 0.14.4 | 2022-01-10T18:41:09Z | [open](../records/haskell-attoparsec-2c743766.md) |
 | aur | 7.0.7 | 2021-10-21T21:44:16Z | [open](../records/haskell-aur-c80060a8.md) |
@@ -4104,8 +4107,9 @@ Records: `5932`
 | transformers-compat | 0.8 | 2026-01-11T02:47:58Z | [open](../records/haskell-transformers-compat-807e2060.md) |
 | transient | 0.7.0.0 | 2020-07-24T11:50:50Z | [open](../records/haskell-transient-c89f21cb.md) |
 | transient-universe | 0.6.0.1 | 2020-07-29T08:33:29Z | [open](../records/haskell-transient-universe-a8372c5c.md) |
-| tricorder | 0.2.2.0 | 2026-09-05T09:24:25Z | [open](../records/haskell-tricorder-354456ad.md) |
+| tricorder | 0.2.2.2 | 2026-09-10T14:09:10Z | [open](../records/haskell-tricorder-354456ad.md) |
 | tricorder-mcp | 0.1.1.0 | 2026-09-01T08:57:38Z | [open](../records/haskell-tricorder-mcp-95664038.md) |
+| tricorder-types | 0.2.0.0 | 2026-09-10T14:08:58Z | [open](../records/haskell-tricorder-types-5b7c3ebd.md) |
 | trifecta | 2.1.4 | 2024-02-07T15:52:11Z | [open](../records/haskell-trifecta-b5f6d0a8.md) |
 | ttc | 1.5.0.1 | 2026-01-10T10:29:39Z | [open](../records/haskell-ttc-b82444ef.md) |
 | tttool | 1.8.1 | 2019-03-30T20:32:32Z | [open](../records/haskell-tttool-dca398d9.md) |
@@ -4450,7 +4454,7 @@ Records: `5932`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-10T09:15:46Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-10T14:17:02Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5090,7 +5094,7 @@ Records: `5932`
 | fuddlesworth/PlasmaZones | partial | 2026-09-10T04:01:19Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-10T12:26:59Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-10T13:52:36Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-02T10:33:09Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -5269,7 +5273,7 @@ Records: `5932`
 | cdcseacave/TinyEXIF | partial | 2026-08-23T08:51:46Z | [open](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
 | colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
-| commons-app/apps-android-commons | partial | 2026-09-07T13:51:48Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
+| commons-app/apps-android-commons | partial | 2026-09-10T12:00:39Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
 | crazycodeboy/TakePhoto | partial | 2019-08-26T09:42:27Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | dearDreamWeb/camera-watermark | partial | 2026-04-20T14:12:10Z | [open](../records/photography-deardreamweb-camera-watermark-f0af2ad8.md) |
 | dorukkumkumoglu/optocamzero | partial | 2026-08-16T08:16:43Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |
@@ -5302,7 +5306,7 @@ Records: `5932`
 | McNopper/EGL | partial | 2026-08-01T18:15:48Z | [open](../records/photography-mcnopper-egl-83a16f1c.md) |
 | meetqy/rao-pics | partial | 2026-09-09T23:06:01Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
-| motioneye-project/motioneye | partial | 2026-09-09T18:32:56Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
+| motioneye-project/motioneye | partial | 2026-09-10T13:35:42Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
 | mustakshif/Asri | partial | 2026-09-09T05:02:59Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
 | natural-harmonia-gropius/hdr-toys | partial | 2026-09-04T16:30:47Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |

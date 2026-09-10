@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `630`
+Records: `633`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `630`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (586)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1667)](filesystem-os.md) · [Formatter (661)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5932)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5936)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (648)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (630)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (649)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (633)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (605)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -136,6 +136,7 @@ Records: `630`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @1024pix/ember-testing-library | 3.0.44 | 2026-08-27T18:00:34.894Z | [open](../records/node-js-javascript-1024pix-ember-testing-library-263142d5.md) |
+| @adobe/data-testing | 0.10.11 | 2026-09-05T00:06:28.164Z | [open](../records/node-js-javascript-adobe-data-testing-fd96d5ef.md) |
 | @airtable/blocks-testing | 0.0.6 | 2023-11-30T15:11:24.522Z | [open](../records/node-js-javascript-airtable-blocks-testing-62821417.md) |
 | @alfresco/adf-testing | 7.0.0-alpha.6 | 2024-11-20T17:10:53.435Z | [open](../records/node-js-javascript-alfresco-adf-testing-65808cb1.md) |
 | @apollo/react-testing | 4.0.0 | 2020-07-20T13:34:15.287Z | [open](../records/node-js-javascript-apollo-react-testing-111f6dbc.md) |
@@ -201,7 +202,7 @@ Records: `630`
 | @open-wc/testing | 5.0.0 | 2026-07-13T14:04:51.726Z | [open](../records/node-js-javascript-open-wc-testing-fb31caab.md) |
 | @open-wc/testing-helpers | 3.0.1 | 2024-04-23T15:31:03.343Z | [open](../records/node-js-javascript-open-wc-testing-helpers-c5380725.md) |
 | @open-wc/testing-karma | 4.0.9 | 2020-10-11T20:09:20.345Z | [open](../records/node-js-javascript-open-wc-testing-karma-46b98496.md) |
-| @opra/testing | 1.30.0 | 2026-09-09T15:27:09.856Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
+| @opra/testing | 1.30.1 | 2026-09-10T13:21:28.418Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
 | @percy/appium-app | 2.1.0 | 2025-04-22T12:40:46.092Z | [open](../records/node-js-javascript-percy-appium-app-cbe82335.md) |
 | @percy/cypress | 3.1.9 | 2026-07-13T12:56:39.908Z | [open](../records/node-js-javascript-percy-cypress-f70f3e03.md) |
 | @percy/playwright | 1.1.2 | 2026-08-06T10:43:46.572Z | [open](../records/node-js-javascript-percy-playwright-732244e2.md) |
@@ -218,6 +219,7 @@ Records: `630`
 | @redux-saga/testing-utils | 1.2.3 | 2026-05-21T15:33:39.087Z | [open](../records/node-js-javascript-redux-saga-testing-utils-600a4a68.md) |
 | @redwoodjs/testing | 8.9.0 | 2025-10-21T09:44:21.720Z | [open](../records/node-js-javascript-redwoodjs-testing-d84db9e5.md) |
 | @remix-run/testing | 2.17.5 | 2026-06-01T14:46:42.849Z | [open](../records/node-js-javascript-remix-run-testing-f8fe02b2.md) |
+| @sa11y/matcher | 8.0.28 | 2026-07-30T19:50:10.318Z | [open](../records/node-js-javascript-sa11y-matcher-2c7aadca.md) |
 | @scalar/api-client | 3.18.0 | 2026-09-07T10:41:36.045Z | [open](../records/node-js-javascript-scalar-api-client-e1c67cd3.md) |
 | @smithers-orchestrator/testing | 0.32.0 | 2026-08-01T05:00:36.872Z | [open](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) |
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
@@ -263,7 +265,7 @@ Records: `630`
 | @wojtekmaj/enzyme-adapter-react-17 | 0.8.0 | 2022-11-09T20:15:12.424Z | [open](../records/node-js-javascript-wojtekmaj-enzyme-adapter-react-17-369c0823.md) |
 | @wojtekmaj/enzyme-adapter-utils | 0.2.0 | 2022-11-09T20:10:25.997Z | [open](../records/node-js-javascript-wojtekmaj-enzyme-adapter-utils-fa80a11e.md) |
 | @workflow/world-testing | 4.1.20 | 2026-08-25T15:27:41.554Z | [open](../records/node-js-javascript-workflow-world-testing-e8f1bf30.md) |
-| @zwave-js/testing | 15.28.0 | 2026-08-28T11:51:12.443Z | [open](../records/node-js-javascript-zwave-js-testing-ca750bab.md) |
+| @zwave-js/testing | 15.29.0 | 2026-09-10T12:59:55.160Z | [open](../records/node-js-javascript-zwave-js-testing-ca750bab.md) |
 | ab-testing | 3.1.8 | 2021-05-24T07:32:37.640Z | [open](../records/node-js-javascript-ab-testing-19f0b31d.md) |
 | accessibility-checker | 4.0.34 | 2026-09-08T16:26:49.829Z | [open](../records/node-js-javascript-accessibility-checker-d6b9f1ad.md) |
 | ag-grid-testing | 0.0.3 | 2021-11-25T18:54:40.510Z | [open](../records/node-js-javascript-ag-grid-testing-18866aa9.md) |
@@ -473,6 +475,7 @@ Records: `630`
 | PropTestR | 1.0.0 | 2026-08-31 12:30:08 UTC | [open](../records/r-proptestr-bb4e82f3.md) |
 | RATest | 0.1.12 | 2026-09-07 17:20:02 UTC | [open](../records/r-ratest-d56ae4e0.md) |
 | RCtest | 1.2 | 2026-08-28 14:40:10 UTC | [open](../records/r-rctest-0fc77196.md) |
+| RDieHarder | 0.2.8 | 2026-09-10 12:30:02 UTC | [open](../records/r-rdieharder-9e6c07bc.md) |
 | rkt | 1.8 | 2026-08-25 21:20:08 UTC | [open](../records/r-rkt-30862909.md) |
 | robust2sls | 0.2.4 | 2026-08-20 13:40:02 UTC | [open](../records/r-robust2sls-542f6ca3.md) |
 | rquest | 1.1.0 | 2026-08-28 07:00:32 UTC | [open](../records/r-rquest-6ab7845d.md) |
@@ -874,4 +877,4 @@ Records: `630`
 | Gitea: marco.fullstack2/devops_test | partial | 2026-01-27T15:06:12Z | [open](../records/repository-workplaces-gitea-marco-fullstack2-devops-test-054aeba6.md) |
 | Gitea: nhanpt/config-server-test | partial | 2023-12-28T08:40:58Z | [open](../records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
 | Gitea: sillyguodong/asciicast_test | partial | 2023-04-21T03:04:25Z | [open](../records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
-| postgres-ai/database-lab | partial | 2026-09-10T11:22:10.323Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
+| postgres-ai/database-lab | partial | 2026-09-10T14:04:21.107Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |

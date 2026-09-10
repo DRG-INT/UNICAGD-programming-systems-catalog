@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `658`
+Records: `661`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `658`
 ## Category Index
 
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (586)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · **[Formatter (658)](formatter.md)**
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1667)](filesystem-os.md) · **[Formatter (661)](formatter.md)**
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5932)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5936)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (648)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (630)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (649)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (633)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (605)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -264,6 +264,7 @@ Records: `658`
 | assemblyscript-prettier | 3.0.4 | 2026-03-03T03:43:39.112Z | [open](../records/node-js-javascript-assemblyscript-prettier-f1dd53c2.md) |
 | check-prettier | 1.0.3 | 2019-05-07T06:28:08.297Z | [open](../records/node-js-javascript-check-prettier-8f7db215.md) |
 | cli-sprintf-format | 1.1.1 | 2021-12-21T15:51:17.206Z | [open](../records/node-js-javascript-cli-sprintf-format-fc6af79f.md) |
+| cliff | 0.1.10 | 2014-12-06T21:43:37.201Z | [open](../records/node-js-javascript-cliff-d011311f.md) |
 | editorconfig-to-prettier | 1.0.0 | 2023-03-16T13:14:56.014Z | [open](../records/node-js-javascript-editorconfig-to-prettier-547089ac.md) |
 | grunt-prettier | 2.2.0 | 2022-05-15T06:44:56.211Z | [open](../records/node-js-javascript-grunt-prettier-10164f57.md) |
 | gulp-prettier | 7.0.0 | 2026-07-17T05:35:45.158Z | [open](../records/node-js-javascript-gulp-prettier-e5bee6a9.md) |
@@ -405,6 +406,7 @@ Records: `658`
 | cffr | 1.4.2 | 2026-08-24 12:10:02 UTC | [open](../records/r-cffr-761a4643.md) |
 | collapse | 2.1.8 | 2026-08-30 16:00:02 UTC | [open](../records/r-collapse-8082d6f3.md) |
 | CopernicusMarine | 0.4.9 | 2026-08-28 10:10:02 UTC | [open](../records/r-copernicusmarine-99a19469.md) |
+| datawizard | 1.4.0 | 2026-09-10 12:40:02 UTC | [open](../records/r-datawizard-62fb7afc.md) |
 | dracor | 0.2.7 | 2026-08-24 05:10:02 UTC | [open](../records/r-dracor-8774410f.md) |
 | easyPSID | 0.1.3 | 2026-08-04 17:30:07 UTC | [open](../records/r-easypsid-c110c965.md) |
 | EBASS | 0.1.2 | 2026-09-04 12:00:37 UTC | [open](../records/r-ebass-c4bc4c3b.md) |
@@ -417,6 +419,7 @@ Records: `658`
 | hdf5r | 1.3.15 | 2026-09-07 05:30:02 UTC | [open](../records/r-hdf5r-a0643c8c.md) |
 | IBclust | 1.5 | 2026-08-28 07:01:50 UTC | [open](../records/r-ibclust-e6498036.md) |
 | immunogenetr | 1.5.0 | 2026-08-19 22:10:08 UTC | [open](../records/r-immunogenetr-ce62b227.md) |
+| infometrics | 0.3.0 | 2026-09-10 13:00:02 UTC | [open](../records/r-infometrics-a06c3ff5.md) |
 | insight | 1.5.4 | 2026-09-05 12:20:02 UTC | [open](../records/r-insight-1f8504de.md) |
 | ip2location | 8.1.4 | 2026-08-05 08:50:02 UTC | [open](../records/r-ip2location-eb92c1a3.md) |
 | ksformat | 0.8.4 | 2026-08-21 10:00:02 UTC | [open](../records/r-ksformat-b6803455.md) |
@@ -542,7 +545,7 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-10T13:17:15Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-10T14:09:02Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
