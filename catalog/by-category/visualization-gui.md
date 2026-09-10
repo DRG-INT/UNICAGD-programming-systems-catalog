@@ -14,11 +14,11 @@ Records: `604`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1665)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5929)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (830)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5932)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -465,7 +465,7 @@ Records: `604`
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-09-08T00:06:11Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-09T17:33:13Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-10T12:27:56Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
 | skfolio/skfolio | partial | 2026-09-09T13:28:08Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 

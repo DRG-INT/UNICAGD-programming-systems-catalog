@@ -1,6 +1,6 @@
 # Library
 
-Records: `5929`
+Records: `5932`
 
 ## Navigation
 
@@ -14,11 +14,11 @@ Records: `5929`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1665)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · **[Library (5929)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (830)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · **[Library (5932)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -2482,6 +2482,7 @@ Records: `5929`
 | apache.sedona | 1.9.1 | 2026-08-05 08:00:02 UTC | [open](../records/r-apache-sedona-fb35d634.md) |
 | APCalign | 2.0.1 | 2026-09-09 07:40:27 UTC | [open](../records/r-apcalign-e641e9be.md) |
 | APD | 1.0.1 | 2026-08-05 07:50:17 UTC | [open](../records/r-apd-5cc84cbb.md) |
+| approximator | 1.3-0 | 2026-09-10 11:10:02 UTC | [open](../records/r-approximator-c16a9169.md) |
 | arakno | 1.3.3 | 2026-08-28 10:30:14 UTC | [open](../records/r-arakno-9aa64a17.md) |
 | arcpbf | 0.3.0 | 2026-08-21 10:50:02 UTC | [open](../records/r-arcpbf-628ea622.md) |
 | armadillo4r | 15.4.2 | 2026-08-23 15:20:10 UTC | [open](../records/r-armadillo4r-e2218e57.md) |
@@ -2503,7 +2504,7 @@ Records: `5929`
 | bayesics | 3.0.2 | 2026-08-28 21:30:25 UTC | [open](../records/r-bayesics-ab31f3c3.md) |
 | BayesPPDSurv | 1.0.4 | 2026-08-24 08:10:14 UTC | [open](../records/r-bayesppdsurv-4a837754.md) |
 | BayesQRCount | 0.1.0 | 2026-08-05 09:30:08 UTC | [open](../records/r-bayesqrcount-49447662.md) |
-| BayesRTMB | 0.3.0 | 2026-08-20 12:12:04 UTC | [open](../records/r-bayesrtmb-b0ab0317.md) |
+| BayesRTMB | 0.4.0 | 2026-09-10 12:00:02 UTC | [open](../records/r-bayesrtmb-b0ab0317.md) |
 | bayess | 1.7 | 2026-08-28 09:50:37 UTC | [open](../records/r-bayess-abc3a694.md) |
 | BBEST | 0.1-9 | 2026-09-04 11:10:02 UTC | [open](../records/r-bbest-3f7f8b5f.md) |
 | bbqr | 0.1.0 | 2026-09-08 13:00:13 UTC | [open](../records/r-bbqr-79c915f9.md) |
@@ -2627,6 +2628,7 @@ Records: `5929`
 | dsROCrate | 0.2.2 | 2026-08-21 15:40:02 UTC | [open](../records/r-dsrocrate-67d49654.md) |
 | ducklake | 0.6.0 | 2026-09-09 14:50:02 UTC | [open](../records/r-ducklake-c5eeb167.md) |
 | earth | 5.3.6 | 2026-08-21 11:40:02 UTC | [open](../records/r-earth-b151e3ae.md) |
+| easybgm | 0.5.0 | 2026-09-10 11:30:02 UTC | [open](../records/r-easybgm-a0a4f6bc.md) |
 | edfinr | 0.2.0 | 2026-08-21 21:01:02 UTC | [open](../records/r-edfinr-795a1ce1.md) |
 | educabR | 1.1.0 | 2026-08-23 11:10:02 UTC | [open](../records/r-educabr-585a5bf1.md) |
 | EE.Data | 0.2.0 | 2026-08-21 05:46:50 UTC | [open](../records/r-ee-data-2f88eb9a.md) |
@@ -2751,6 +2753,7 @@ Records: `5929`
 | K4Guru | 0.1.0 | 2026-09-03 13:10:03 UTC | [open](../records/r-k4guru-5a67bf20.md) |
 | K4Rumah | 0.1.0 | 2026-08-08 12:30:23 UTC | [open](../records/r-k4rumah-f3ddf53d.md) |
 | K4Siswa | 0.1.0 | 2026-08-08 12:50:16 UTC | [open](../records/r-k4siswa-e3d668ea.md) |
+| kde1d | 1.2.0 | 2026-09-10 11:40:02 UTC | [open](../records/r-kde1d-5bbb5799.md) |
 | Keng | 2026.9.0 | 2026-09-01 11:40:23 UTC | [open](../records/r-keng-3c943f29.md) |
 | KernSmooth | 2.23-27 | 2026-08-12 06:40:09 UTC | [open](../records/r-kernsmooth-6a63d4ae.md) |
 | klassR | 1.0.7 | 2026-08-21 12:00:02 UTC | [open](../records/r-klassr-28fd0f6f.md) |
@@ -3852,7 +3855,7 @@ Records: `5929`
 | persistent | 2.18.1.0 | 2026-01-14T23:05:56Z | [open](../records/haskell-persistent-9b1724c4.md) |
 | persistent-mongoDB | 2.13.1.0 | 2024-09-13T15:11:56Z | [open](../records/haskell-persistent-mongodb-24599212.md) |
 | pgdl | 10.10 | 2018-01-15T17:33:34Z | [open](../records/haskell-pgdl-6b04d821.md) |
-| phino | 0.0.124 | 2026-09-10T10:11:54Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.125 | 2026-09-10T12:02:32Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4210,7 +4213,7 @@ Records: `5929`
 | yesod-form | 1.7.11 | 2026-07-29T16:00:00Z | [open](../records/haskell-yesod-form-9c06a755.md) |
 | yesod-markdown | 0.12.6.14 | 2024-05-08T15:15:31Z | [open](../records/haskell-yesod-markdown-8c3c7de7.md) |
 | yesod-persistent | 1.6.0.9 | 2026-06-16T20:33:49Z | [open](../records/haskell-yesod-persistent-425557b9.md) |
-| yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
+| yesod-platform | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-3b78b64a.md) |
 | yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
@@ -4461,7 +4464,7 @@ Records: `5929`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-10T09:37:27Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-10T12:13:22Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4770,7 +4773,7 @@ Records: `5929`
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-09-09T17:49:08Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-09T20:54:45Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-10T12:27:58Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-09T13:42:49Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4846,7 +4849,7 @@ Records: `5929`
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-09T20:46:09Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-10T11:40:40Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -4891,7 +4894,7 @@ Records: `5929`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-07T20:32:41Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-10T09:17:43Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-10T12:10:12Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-09T15:59:03Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |

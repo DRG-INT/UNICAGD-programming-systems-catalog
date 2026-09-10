@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) |
-| Source record ids | hackage_recent-6f6d58eea7fc96 |
+| Source record ids | hackage_top_downloads-6f6d58eea7fc96 |
 
 ## System Engineer Summary
 
-Hackage package recently uploaded by ClintAdams.
+Hackage package with 248 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.7 | 2026-09-08T22:48:09Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
-| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+| stable | known | 3.7 | 2026-09-08T22:48:09Z | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) |  |
+| candidate | partial | 2.6.1 |  | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-10T01:18:53+00:00`.
-- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/hOpenPGP` at `2026-09-10T12:30:24+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-10 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-10 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_recent-6f6d58eea7fc96` from `hackage_recent` as `registry_expansion`
+- `hackage_top_downloads-6f6d58eea7fc96` from `hackage_top_downloads` as `registry_expansion`
 
 </details>
 
@@ -93,11 +93,11 @@ Evidence records merged into this identity: `1`.
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1665)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1666)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1496)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · **[Library (5929)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (830)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · **[Library (5932)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (831)](../by-category/machine-learning.md)
 [Math Numeric Scientific (91)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1074)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1223)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)

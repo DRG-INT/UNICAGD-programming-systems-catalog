@@ -14,11 +14,11 @@ Records: `391`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1665)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1666)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1496)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5929)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (830)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5932)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (831)](../by-category/machine-learning.md)
 [Math Numeric Scientific (91)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1074)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1223)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -485,7 +485,7 @@ Records: `391`
 | [tslog](../records/node-js-typescript-tslog-595d00a5.md) | 5.1.0 | 2026-07-16T22:14:58.457Z | registry-derived |
 | [type-fest](../records/node-js-typescript-type-fest-05e5048b.md) | 5.9.0 | 2026-08-30T23:58:44.656Z | registry-derived |
 | [type-testing](../records/node-js-typescript-type-testing-4fa65126.md) | 0.2.0 | 2023-10-30T19:38:39.979Z | registry-derived |
-| [typed-rest-client](../records/node-js-typescript-typed-rest-client-f0090a5f.md) | 3.1.1 | 2026-09-08T10:42:04.063Z | registry-derived |
+| [typed-rest-client](../records/node-js-typescript-typed-rest-client-f0090a5f.md) | 3.1.2 | 2026-09-10T11:11:50.763Z | registry-derived |
 | [typedoc](../records/node-js-typescript-typedoc-e6a8fad4.md) | 0.28.20 | 2026-07-05T22:54:07.305Z | registry-derived |
 | [typescript-cacheable](../records/node-js-typescript-typescript-cacheable-74b82053.md) | 3.0.3 | 2022-04-04T01:48:52.953Z | registry-derived |
 | [typescript-collections](../records/node-js-typescript-typescript-collections-736f064a.md) | 1.3.3 | 2019-11-04T12:55:33.130Z | registry-derived |

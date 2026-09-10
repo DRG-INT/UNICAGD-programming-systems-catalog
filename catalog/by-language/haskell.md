@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1645`
+Records: `1646`
 
 ## Navigation
 
@@ -14,11 +14,11 @@ Records: `1645`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1665)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1666)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1496)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5929)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (830)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5932)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (831)](../by-category/machine-learning.md)
 [Math Numeric Scientific (91)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1074)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1223)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -1126,7 +1126,7 @@ Records: `1645`
 | [persistent](../records/haskell-persistent-9b1724c4.md) | 2.18.1.0 | 2026-01-14T23:05:56Z | registry-derived |
 | [persistent-mongoDB](../records/haskell-persistent-mongodb-24599212.md) | 2.13.1.0 | 2024-09-13T15:11:56Z | registry-derived |
 | [pgdl](../records/haskell-pgdl-6b04d821.md) | 10.10 | 2018-01-15T17:33:34Z | registry-derived |
-| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.124 | 2026-09-10T10:11:54Z | registry-derived |
+| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.125 | 2026-09-10T12:02:32Z | registry-derived |
 | [pinboard](../records/haskell-pinboard-08e346f1.md) | 0.10.3.0 | 2022-05-07T23:32:56Z | registry-derived |
 | [pinch](../records/haskell-pinch-801ed692.md) | 0.5.2.0 | 2024-07-09T02:44:30Z | registry-derived |
 | [plugins](../records/haskell-plugins-1103fc5c.md) | 1.6.2.1 | 2022-03-27T15:40:09Z | registry-derived |
@@ -1484,7 +1484,7 @@ Records: `1645`
 | [yesod-form](../records/haskell-yesod-form-9c06a755.md) | 1.7.11 | 2026-07-29T16:00:00Z | registry-derived |
 | [yesod-markdown](../records/haskell-yesod-markdown-8c3c7de7.md) | 0.12.6.14 | 2024-05-08T15:15:31Z | registry-derived |
 | [yesod-persistent](../records/haskell-yesod-persistent-425557b9.md) | 1.6.0.9 | 2026-06-16T20:33:49Z | registry-derived |
-| [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | 1.2.13.3 | 2014-08-25T13:53:51Z | registry-derived |
+| [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [yi](../records/haskell-yi-3b78b64a.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [yst](../records/haskell-yst-e5c97f24.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
@@ -1530,6 +1530,7 @@ Records: `1645`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [aihc-cpp](../records/haskell-aihc-cpp-dcb7d8e3.md) | 2.0.0.0 | 2026-09-10T11:00:24Z | registry-derived |
 | [aivika](../records/haskell-aivika-d4afe517.md) | 6.2 | 2025-10-07T08:58:53Z | registry-derived |
 | [aivika-experiment-chart](../records/haskell-aivika-experiment-chart-48bbe912.md) | 5.4.1 | 2023-10-14T12:03:42Z | registry-derived |
 | [algebraic-classes](../records/haskell-algebraic-classes-b195bceb.md) | 0.10 | 2026-01-05T17:25:11Z | registry-derived |

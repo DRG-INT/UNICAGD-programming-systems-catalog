@@ -14,11 +14,11 @@ Records: `315`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1665)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1666)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5929)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (830)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5932)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -246,7 +246,7 @@ Records: `315`
 | tslog | 5.1.0 | 2026-07-16T22:14:58.457Z | [open](../records/node-js-typescript-tslog-595d00a5.md) |
 | type-fest | 5.9.0 | 2026-08-30T23:58:44.656Z | [open](../records/node-js-typescript-type-fest-05e5048b.md) |
 | type-testing | 0.2.0 | 2023-10-30T19:38:39.979Z | [open](../records/node-js-typescript-type-testing-4fa65126.md) |
-| typed-rest-client | 3.1.1 | 2026-09-08T10:42:04.063Z | [open](../records/node-js-typescript-typed-rest-client-f0090a5f.md) |
+| typed-rest-client | 3.1.2 | 2026-09-10T11:11:50.763Z | [open](../records/node-js-typescript-typed-rest-client-f0090a5f.md) |
 | typedoc | 0.28.20 | 2026-07-05T22:54:07.305Z | [open](../records/node-js-typescript-typedoc-e6a8fad4.md) |
 | typescript-cacheable | 3.0.3 | 2022-04-04T01:48:52.953Z | [open](../records/node-js-typescript-typescript-cacheable-74b82053.md) |
 | typescript-collections | 1.3.3 | 2019-11-04T12:55:33.130Z | [open](../records/node-js-typescript-typescript-collections-736f064a.md) |
@@ -314,7 +314,7 @@ Records: `315`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-10T11:19:43Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-10T12:27:48Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -368,7 +368,7 @@ Records: `315`
 | amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
 | f5/unovis | partial | 2026-09-08T06:10:38Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | partial | 2026-07-29T11:57:08Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
-| openglobus/openglobus | partial | 2026-09-10T09:05:08Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
+| openglobus/openglobus | partial | 2026-09-10T11:49:21Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |
 | Turfjs/turf | partial | 2026-09-07T19:17:44Z | [open](../records/maps-turfjs-turf-bcfc41fa.md) |
 | yszhao91/cga.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-yszhao91-cga-js-5e6ba99c.md) |
@@ -500,8 +500,8 @@ Records: `315`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mikro-orm/mikro-orm | partial | 2026-09-08T11:30:19Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
-| prisma/orm | partial | 2026-09-09T17:23:56Z | [open](../records/databases-prisma-orm-d7875b44.md) |
+| prisma/orm | partial | 2026-09-10T12:26:39Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
 | sequelize/sequelize | partial | 2026-09-08T11:49:40Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
 | strapi/strapi | partial | 2026-09-08T11:41:18Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
-| typeorm/typeorm | partial | 2026-09-09T20:27:01Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |
+| typeorm/typeorm | partial | 2026-09-10T06:46:02Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |
