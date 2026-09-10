@@ -11,20 +11,20 @@ Records: `1648`
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (587)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1668)](filesystem-os.md) · [Formatter (661)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1669)](filesystem-os.md) · [Formatter (661)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1497)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5940)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5944)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (92)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1224)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (651)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (652)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (633)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md)** · [Utility Library (105)](utility-library.md) · [Visualization Gui (605)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+**[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md)** · [Utility Library (105)](utility-library.md) · [Visualization Gui (606)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -157,7 +157,7 @@ Records: `1648`
 | @neaps/tide-database | 0.9.20260907 | 2026-09-07T23:07:39.121Z | [open](../records/node-js-javascript-neaps-tide-database-72059e90.md) |
 | @percy/cli | 1.32.9 | 2026-09-08T08:30:51.298Z | [open](../records/node-js-javascript-percy-cli-8f36f781.md) |
 | @pnp/logging | 4.21.0 | 2026-08-24T16:58:43.098Z | [open](../records/node-js-javascript-pnp-logging-7af90765.md) |
-| @redocly/openapi-core | 2.51.2 | 2026-09-04T16:59:32.250Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
+| @redocly/openapi-core | 2.52.0 | 2026-09-10T15:42:54.464Z | [open](../records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
 | @remote-ui/testing | 1.4.6 | 2025-06-13T07:48:42.233Z | [open](../records/node-js-javascript-remote-ui-testing-259af30c.md) |
 | @subsquid/apollo-server-core | 3.14.0 | 2025-01-09T10:21:30.713Z | [open](../records/node-js-javascript-subsquid-apollo-server-core-cbb8f657.md) |
 | @subsquid/apollo-server-express | 3.14.1 | 2025-05-02T12:45:14.464Z | [open](../records/node-js-javascript-subsquid-apollo-server-express-d2da452c.md) |
@@ -411,9 +411,9 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-10T05:01:25Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1142,9 +1142,9 @@ Records: `1648`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-10T03:25:57Z | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1230,9 +1230,9 @@ Records: `1648`
 | github/gemoji | partial | 2025-11-24T05:09:16Z | [open](../records/icons-and-logos-github-gemoji-51179120.md) |
 | jeffreytse/jekyll-spaceship | partial | 2024-07-03T19:54:34Z | [open](../records/icons-and-logos-jeffreytse-jekyll-spaceship-b4d82d56.md) |
 | muan/mojibar | partial | 2023-01-25T05:33:39Z | [open](../records/icons-and-logos-muan-mojibar-30358614.md) |
-| primer/css | partial | 2026-09-09T18:31:36Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
+| primer/css | partial | 2026-09-10T05:35:22Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
 | primer/octicons | partial | 2026-09-09T22:23:41Z | [open](../records/icons-and-logos-primer-octicons-9ca40141.md) |
-| primer/react | partial | 2026-09-09T19:10:38Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
+| primer/react | partial | 2026-09-10T15:07:33Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
 | rickstaa/github-emoji-picker | partial | 2026-08-11T14:36:22Z | [open](../records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
 | simplelineicons/simplelineicons.github.io | partial | 2022-01-20T12:39:01Z | [open](../records/icons-and-logos-simplelineicons-simplelineicons-github-io-f89e24aa.md) |
 | tandpfun/skill-icons | partial | 2026-02-27T03:42:02Z | [open](../records/icons-and-logos-tandpfun-skill-icons-f2d47a09.md) |

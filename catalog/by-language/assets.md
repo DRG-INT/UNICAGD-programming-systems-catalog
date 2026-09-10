@@ -11,20 +11,20 @@ Records: `419`
 [Api Abi Checker (231)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1029)](../by-category/build-system.md) · [Cli (587)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
-[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (137)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (975)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1668)](../by-category/filesystem-os.md) · [Formatter (661)](../by-category/formatter.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1669)](../by-category/filesystem-os.md) · [Formatter (661)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1497)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5940)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5944)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (831)](../by-category/machine-learning.md)
 [Math Numeric Scientific (92)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1074)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1223)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1224)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (651)](../by-category/static-analyzer.md)
+[Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (652)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (633)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (605)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (606)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -32,7 +32,7 @@ Records: `419`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [FlutterGen/flutter_gen](../records/assets-fluttergen-flutter-gen-9d76f93b.md) | partial | 2026-09-09T00:25:54Z | registry-derived |
+| [FlutterGen/flutter_gen](../records/assets-fluttergen-flutter-gen-9d76f93b.md) | partial | 2026-09-10T14:43:03Z | registry-derived |
 | [grokability/jamf2snipe](../records/assets-grokability-jamf2snipe-ecf4667c.md) | partial | 2026-04-21T15:04:06Z | registry-derived |
 | [grokability/snipe-it](../records/assets-grokability-snipe-it-46ebe61f.md) | partial | 2026-09-10T09:46:18Z | registry-derived |
 | [locus84/Locus-Bundle-System](../records/assets-locus84-locus-bundle-system-464ddf27.md) | partial | 2024-04-01T07:25:14Z | registry-derived |
@@ -63,7 +63,7 @@ Records: `419`
 | [markstory/mini-asset](../records/assets-markstory-mini-asset-2d6a55bc.md) | partial | 2026-02-08T16:57:50Z | registry-derived |
 | [microsoft/maker.js](../records/assets-microsoft-maker-js-f91ce860.md) | partial | 2026-08-25T23:57:42Z | registry-derived |
 | [Numbersf/MakeFontsGreatAgain](../records/assets-numbersf-makefontsgreatagain-5c928149.md) | partial | 2026-09-03T05:03:55Z | registry-derived |
-| [openremote/openremote](../records/assets-openremote-openremote-92db2618.md) | partial | 2026-09-10T12:11:19Z | registry-derived |
+| [openremote/openremote](../records/assets-openremote-openremote-92db2618.md) | partial | 2026-09-10T12:48:42Z | registry-derived |
 | [parcel-bundler/parcel](../records/assets-parcel-bundler-parcel-b4cac5ec.md) | partial | 2026-09-06T13:12:08Z | registry-derived |
 | [pwitvoet/wadmaker](../records/assets-pwitvoet-wadmaker-8a507817.md) | partial | 2026-05-12T09:52:36Z | registry-derived |
 | [RodZill4/material-maker](../records/assets-rodzill4-material-maker-c64ba314.md) | partial | 2026-08-06T15:27:03Z | registry-derived |
@@ -171,12 +171,12 @@ Records: `419`
 | [adrische/quant-jobs-zurich](../records/assets-adrische-quant-jobs-zurich-97eab795.md) | partial | 2026-01-06T09:08:53Z | registry-derived |
 | [alexmyczko/fnt](../records/assets-alexmyczko-fnt-c8afcb60.md) | partial | 2026-09-05T01:16:51Z | registry-derived |
 | [Anmol-Baranwal/Awesome-Illustrations-4Projects](../records/assets-anmol-baranwal-awesome-illustrations-4projects-38c87dd7.md) | partial | 2023-06-19T10:33:24Z | registry-derived |
-| [brunomikoski/ScriptableObjectCollection](../records/assets-brunomikoski-scriptableobjectcollection-2d789cfa.md) | partial | 2026-09-09T14:02:12Z | registry-derived |
+| [brunomikoski/ScriptableObjectCollection](../records/assets-brunomikoski-scriptableobjectcollection-2d789cfa.md) | partial | 2026-09-10T14:40:53Z | registry-derived |
 | [caosdoar/Fornos](../records/assets-caosdoar-fornos-dc7540bd.md) | partial | 2018-12-21T23:14:53Z | registry-derived |
 | [cormullion/juliamono](../records/assets-cormullion-juliamono-bec7c369.md) | partial | 2026-07-18T11:18:41Z | registry-derived |
 | [creosB/Game-Asset-Auto-Redeemer](../records/assets-creosb-game-asset-auto-redeemer-74c8f79f.md) | partial | 2026-08-29T01:03:16Z | registry-derived |
 | [didiatworkz/screenly-ose-monitoring](../records/assets-didiatworkz-screenly-ose-monitoring-f088cdd0.md) | partial | 2021-12-24T15:06:57Z | registry-derived |
-| [dolag233/Serpent](../records/assets-dolag233-serpent-ea2f129d.md) | partial | 2026-09-10T04:52:42Z | registry-derived |
+| [dolag233/Serpent](../records/assets-dolag233-serpent-ea2f129d.md) | partial | 2026-09-10T14:53:49Z | registry-derived |
 | [donnikitos/vite-plugin-php](../records/assets-donnikitos-vite-plugin-php-5390082f.md) | partial | 2026-07-11T07:21:54Z | registry-derived |
 | [drinkthestars/shady](../records/assets-drinkthestars-shady-c710bb26.md) | partial | 2025-11-18T02:58:28Z | registry-derived |
 | [DrXie/OSFCC](../records/assets-drxie-osfcc-22529e95.md) | partial | 2020-04-27T13:08:47Z | registry-derived |
@@ -235,7 +235,7 @@ Records: `419`
 | [oblivioncth/Stexatlaser](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) | partial | 2026-08-26T18:53:52Z | registry-derived |
 | [Qftm/Information_Collection_Handbook](../records/assets-qftm-information-collection-handbook-97112bf4.md) | partial | 2023-03-08T14:10:29Z | registry-derived |
 | [SawyerRensel/Transmogrifier](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) | partial | 2026-07-16T00:26:47Z | registry-derived |
-| [sourcentis/mercator](../records/assets-sourcentis-mercator-b6bbd504.md) | partial | 2026-09-08T20:54:18Z | registry-derived |
+| [sourcentis/mercator](../records/assets-sourcentis-mercator-b6bbd504.md) | partial | 2026-09-10T16:13:54Z | registry-derived |
 | [ToxSam/os3a-gallery](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) | partial | 2026-02-10T16:33:02Z | registry-derived |
 | [trufont/trufont](../records/assets-trufont-trufont-b3154008.md) | partial | 2025-12-02T16:43:50Z | registry-derived |
 | [wangyz1999/3d-emoji-assets-generator](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) | partial | 2026-03-30T16:28:15Z | registry-derived |
@@ -279,7 +279,7 @@ Records: `419`
 | [epilys/gerb](../records/assets-epilys-gerb-11b0ad1a.md) | partial | 2024-10-17T10:23:39Z | registry-derived |
 | [fontra/fontra](../records/assets-fontra-fontra-5752503b.md) | partial | 2026-09-07T14:15:42Z | registry-derived |
 | [imadr/Unity-game-hacking](../records/assets-imadr-unity-game-hacking-14ce1631.md) | partial | 2022-11-14T15:38:12Z | registry-derived |
-| [itflow-org/itflow](../records/assets-itflow-org-itflow-94ed9c35.md) | partial | 2026-09-08T10:50:59Z | registry-derived |
+| [itflow-org/itflow](../records/assets-itflow-org-itflow-94ed9c35.md) | partial | 2026-09-10T15:53:00Z | registry-derived |
 | [javierbyte/brutalita](../records/assets-javierbyte-brutalita-1566daf1.md) | partial | 2026-09-09T01:03:07Z | registry-derived |
 | [JeffersonQin/YuzuMarker.FontDetection](../records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) | partial | 2025-02-22T22:38:43Z | registry-derived |
 | [listyque/TACTIC-Handler](../records/assets-listyque-tactic-handler-4eac647f.md) | partial | 2024-09-23T13:12:49Z | registry-derived |
@@ -339,16 +339,16 @@ Records: `419`
 | [assetic-php/assetic](../records/assets-assetic-php-assetic-8cd8ecc8.md) | partial | 2026-08-14T19:53:47Z | registry-derived |
 | [AssetRipper/AssetRipper.TextureDecoder](../records/assets-assetripper-assetripper-texturedecoder-8187a50f.md) | partial | 2026-08-23T20:53:43Z | registry-derived |
 | [beizhedenglong/weird-fonts](../records/assets-beizhedenglong-weird-fonts-065d7383.md) | partial | 2019-05-22T13:30:26Z | registry-derived |
-| [bestpractical/rt](../records/assets-bestpractical-rt-8129d040.md) | partial | 2026-09-09T22:14:22Z | registry-derived |
+| [bestpractical/rt](../records/assets-bestpractical-rt-8129d040.md) | partial | 2026-09-10T17:16:18Z | registry-derived |
 | [bluwy/svelte-preprocess-import-assets](../records/assets-bluwy-svelte-preprocess-import-assets-0e5b89b7.md) | partial | 2026-05-15T00:23:17Z | registry-derived |
 | [brightdigit/Speculid](../records/assets-brightdigit-speculid-c90bd3d1.md) | partial | 2025-06-23T06:45:02Z | registry-derived |
 | [chenjie1219/cartool](../records/assets-chenjie1219-cartool-95f8ff66.md) | partial | 2019-01-14T09:45:33Z | registry-derived |
 | [Chenyu-otf/chenyuluoyan_thin](../records/assets-chenyu-otf-chenyuluoyan-thin-17cf141a.md) | partial | 2025-02-28T15:06:02Z | registry-derived |
 | [chrissimpkins/codeface](../records/assets-chrissimpkins-codeface-3d2581d5.md) | partial | 2020-09-19T17:07:57Z | registry-derived |
 | [coollabsio/fonts](../records/assets-coollabsio-fonts-296495e3.md) | partial | 2026-01-16T18:37:01Z | registry-derived |
-| [DataGerry/DataGerry](../records/assets-datagerry-datagerry-dd6aa820.md) | partial | 2026-09-09T14:20:59Z | registry-derived |
+| [DataGerry/DataGerry](../records/assets-datagerry-datagerry-dd6aa820.md) | partial | 2026-09-10T13:31:45Z | registry-derived |
 | [Draneria/Metallics-by-Draneria_Krita-Brushes](../records/assets-draneria-metallics-by-draneria-krita-brushes-e6965ee3.md) | partial | 2025-04-13T11:54:36Z | registry-derived |
-| [edmozley/freeitsm](../records/assets-edmozley-freeitsm-6938af39.md) | partial | 2026-09-09T23:30:30Z | registry-derived |
+| [edmozley/freeitsm](../records/assets-edmozley-freeitsm-6938af39.md) | partial | 2026-09-10T16:55:40Z | registry-derived |
 | [EliteQuant/EliteQuant](../records/assets-elitequant-elitequant-ccb04f35.md) | partial | 2024-06-15T16:17:39Z | registry-derived |
 | [ErfanMo77/gltf-research-scenes](../records/assets-erfanmo77-gltf-research-scenes-9419053a.md) | partial | 2026-08-31T21:53:42Z | registry-derived |
 | [expo/google-fonts](../records/assets-expo-google-fonts-27084e7a.md) | partial | 2026-09-10T10:23:12Z | registry-derived |
@@ -356,7 +356,7 @@ Records: `419`
 | [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) | partial | 2026-08-05T12:41:45Z | registry-derived |
 | [FontManager/font-manager](../records/assets-fontmanager-font-manager-b4a35494.md) | partial | 2025-09-24T15:51:58Z | registry-derived |
 | [fonttools/fonttools](../records/assets-fonttools-fonttools-a4b5432b.md) | partial | 2026-09-09T17:49:08Z | registry-derived |
-| [frappe/erpnext](../records/assets-frappe-erpnext-d9e1ae16.md) | partial | 2026-09-10T12:27:58Z | registry-derived |
+| [frappe/erpnext](../records/assets-frappe-erpnext-d9e1ae16.md) | partial | 2026-09-10T15:21:48Z | registry-derived |
 | [Gaafar/dev-fonts](../records/assets-gaafar-dev-fonts-6d11b6eb.md) | partial | 2023-01-06T03:07:36Z | registry-derived |
 | [googlefonts/gftools](../records/assets-googlefonts-gftools-a07fff0e.md) | partial | 2026-09-09T13:42:49Z | registry-derived |
 | [hiqdev/asset-packagist](../records/assets-hiqdev-asset-packagist-ef04a544.md) | partial | 2026-09-01T12:10:46Z | registry-derived |
@@ -652,7 +652,7 @@ Records: `419`
 | [mopsicus/uis](../records/assets-mopsicus-uis-65c71459.md) | partial | 2026-06-04T08:08:04Z | registry-derived |
 | [quiple/galmuri](../records/assets-quiple-galmuri-cb71a160.md) | partial | 2026-08-22T05:48:41Z | registry-derived |
 | [RandomTBush/RTB-QuickBMS-Scripts](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) | partial | 2026-09-08T00:06:11Z | registry-derived |
-| [Shelf-nu/shelf.nu](../records/assets-shelf-nu-shelf-nu-2414163a.md) | partial | 2026-09-10T12:27:56Z | registry-derived |
+| [Shelf-nu/shelf.nu](../records/assets-shelf-nu-shelf-nu-2414163a.md) | partial | 2026-09-10T12:39:10Z | registry-derived |
 | [skfolio/skfolio](../records/assets-skfolio-skfolio-6087932e.md) | partial | 2026-09-09T13:28:08Z | registry-derived |
 | [TexturePacker](../records/assets-texturepacker-1148bb30.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 

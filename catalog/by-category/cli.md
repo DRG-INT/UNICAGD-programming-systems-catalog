@@ -11,20 +11,20 @@ Records: `587`
 [Api Abi Checker (231)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · **[Cli (587)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (137)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1668)](filesystem-os.md) · [Formatter (661)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1669)](filesystem-os.md) · [Formatter (661)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1497)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5940)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5944)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (831)](machine-learning.md)
 [Math Numeric Scientific (92)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1224)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (651)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (652)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (633)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (605)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (606)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -301,7 +301,7 @@ Records: `587`
 | @google/gemini-cli-core | 0.59.0 | 2026-09-08T21:13:36.100Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
 | @googleworkspace/cli | 0.22.5 | 2026-03-31T18:53:36.509Z | [open](../records/node-js-javascript-googleworkspace-cli-61e43374.md) |
 | @gql.tada/cli-utils | 1.9.3 | 2026-07-25T14:36:46.564Z | [open](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
-| @graphql-hive/cli | 0.63.1 | 2026-09-08T12:03:57.128Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
+| @graphql-hive/cli | 0.63.2 | 2026-09-10T15:50:45.249Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
 | @heroku-cli/color | 2.0.8 | 2026-08-21T21:56:08.999Z | [open](../records/node-js-javascript-heroku-cli-color-819b0a80.md) |
 | @heroku-cli/command | 13.2.0 | 2026-08-25T22:11:07.406Z | [open](../records/node-js-javascript-heroku-cli-command-51da9926.md) |
 | @hibas123/logging | 2.6.1 | 2020-09-30T15:28:25.680Z | [open](../records/node-js-javascript-hibas123-logging-85c98781.md) |
@@ -338,8 +338,8 @@ Records: `587`
 | @reflag/cli | 1.0.4 | 2025-10-29T11:05:21.020Z | [open](../records/node-js-javascript-reflag-cli-d57e61f7.md) |
 | @rspack/cli | 2.2.3 | 2026-09-08T08:45:31.242Z | [open](../records/node-js-javascript-rspack-cli-8e6b6307.md) |
 | @salesforce/cli | 2.150.6 | 2026-08-26T02:48:00.491Z | [open](../records/node-js-javascript-salesforce-cli-b9219aa7.md) |
-| @sanity/cli | 8.9.1 | 2026-09-03T14:32:53.771Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
-| @sanity/cli-core | 3.6.1 | 2026-09-03T08:46:26.024Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
+| @sanity/cli | 8.10.0 | 2026-09-10T15:58:24.345Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
+| @sanity/cli-core | 3.7.0 | 2026-09-10T15:58:18.717Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
 | @sap/appfront-cli | 1.16.1 | 2026-08-09T07:20:40.079Z | [open](../records/node-js-javascript-sap-appfront-cli-0314fdf9.md) |
 | @sazabi/cli | 1.5.3 | 2026-09-09T18:07:39.151Z | [open](../records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | @sentry/cli-darwin | 3.7.0 | 2026-08-28T09:23:05.442Z | [open](../records/node-js-javascript-sentry-cli-darwin-f7f0b0cc.md) |
@@ -354,7 +354,7 @@ Records: `587`
 | @snyk/cli-interface | 2.15.0 | 2026-02-24T13:18:57.167Z | [open](../records/node-js-javascript-snyk-cli-interface-0f5589a7.md) |
 | @statoscope/cli | 5.29.0 | 2025-04-04T18:50:46.219Z | [open](../records/node-js-javascript-statoscope-cli-1183dedd.md) |
 | @stoplight/cli | 6.0.2407 | 2025-11-20T02:40:24.867Z | [open](../records/node-js-javascript-stoplight-cli-730b609f.md) |
-| @stripe/cli | 1.50.10 | 2026-09-02T20:23:08.984Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
+| @stripe/cli | 1.50.11 | 2026-09-10T17:15:22.781Z | [open](../records/node-js-javascript-stripe-cli-f2f9a188.md) |
 | @supabase/cli-linux-x64 | 2.117.0 | 2026-09-07T16:50:52.480Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-04164519.md) |
 | @supabase/cli-linux-x64-musl | 2.117.0 | 2026-09-07T16:46:40.128Z | [open](../records/node-js-javascript-supabase-cli-linux-x64-musl-49b40394.md) |
 | @swc/cli | 0.8.1 | 2026-04-01T01:27:35.047Z | [open](../records/node-js-javascript-swc-cli-77c18ec0.md) |
@@ -536,18 +536,18 @@ Records: `587`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-09T00:07:22Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
-| yorukot/superfile | partial | 2026-09-09T23:24:45Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
+| golang-migrate/migrate | unknown | not_a_go_module_path | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
+| JanDeDobbeleer/oh-my-posh | unknown | not_a_go_module_path | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| yorukot/superfile | unknown | not_a_go_module_path | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-10T15:57:24Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-10T17:05:18Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-10T16:04:52Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-10T17:20:07Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -588,7 +588,7 @@ Records: `587`
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | unknown | github_search_does_not_include_release_date | [open](../records/maps-earthaccess-dev-earthaccess-69c17717.md) |
 | kraina-ai/quackosm | partial | 2026-09-07T22:01:28Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
-| organicmaps/organicmaps | partial | 2026-09-10T12:26:41Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
+| organicmaps/organicmaps | partial | 2026-09-10T17:17:46Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
 | Toblerity/Fiona | unknown | github_search_does_not_include_release_date | [open](../records/maps-toblerity-fiona-f99f05a8.md) |
 
 ## Space Maps
