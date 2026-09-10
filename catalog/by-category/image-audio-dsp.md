@@ -24,7 +24,7 @@ Records: `446`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -345,7 +345,7 @@ Records: `446`
 | jthorborg/signalizer | partial | 2026-08-01T15:42:02Z | [open](../records/audio-jthorborg-signalizer-c8caf869.md) |
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
-| katspaugh/wavesurfer.js | partial | 2026-09-03T18:48:16Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
+| katspaugh/wavesurfer.js | partial | 2026-09-10T19:05:05Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
 | koel/koel | partial | 2026-09-09T15:45:32Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
@@ -390,14 +390,14 @@ Records: `446`
 | spotify/basic-pitch | partial | 2025-11-13T14:40:46Z | [open](../records/audio-spotify-basic-pitch-05b329a5.md) |
 | spotify/pedalboard | partial | 2026-09-09T22:06:36Z | [open](../records/audio-spotify-pedalboard-2950d53f.md) |
 | ssabug/fxseq | partial | 2023-10-28T00:28:31Z | [open](../records/audio-ssabug-fxseq-872becec.md) |
-| strawberrymusicplayer/strawberry | partial | 2026-09-09T19:10:16Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
+| strawberrymusicplayer/strawberry | partial | 2026-09-10T19:12:32Z | [open](../records/audio-strawberrymusicplayer-strawberry-65e2b7e4.md) |
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
 | surge-synthesizer/surge | partial | 2026-09-05T09:17:39Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-10T12:36:33Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
-| thesofproject/sof | partial | 2026-09-10T13:17:09Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-10T14:36:47Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
+| thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |
 | unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |

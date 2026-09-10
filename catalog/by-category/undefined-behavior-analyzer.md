@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1648`
+Records: `1649`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `1648`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-**[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md)** · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+**[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md)** · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -1365,7 +1365,7 @@ Records: `1648`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alexirae/unreal-audio-dsp-collection-UE5 | partial | 2026-06-27T21:05:39Z | [open](../records/effects-alexirae-unreal-audio-dsp-collection-ue5-a5ff9e29.md) |
-| aws-deadline/deadline-cloud | partial | 2026-09-07T14:20:37Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
+| aws-deadline/deadline-cloud | partial | 2026-09-10T17:15:14Z | [open](../records/effects-aws-deadline-deadline-cloud-9cbaa801.md) |
 | benjojo/dubstep-data | partial | 2018-05-21T18:07:11Z | [open](../records/effects-benjojo-dubstep-data-f40ca662.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) |
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
@@ -1429,13 +1429,14 @@ Records: `1648`
 | bitmovin/bitmovin-python | partial | 2020-01-28T14:50:20Z | [open](../records/video-bitmovin-bitmovin-python-e9fb7e39.md) |
 | bluenviron/mediamtx | partial | 2026-09-08T17:03:44Z | [open](../records/video-bluenviron-mediamtx-e1135074.md) |
 | CarGuo/GSYVideoPlayer | partial | 2026-09-01T06:44:06Z | [open](../records/video-carguo-gsyvideoplayer-181bf65c.md) |
-| Chocobozzz/PeerTube | partial | 2026-09-10T14:19:52Z | [open](../records/video-chocobozzz-peertube-ff9a950e.md) |
+| chengyi-ai/native-subtitle-quote-image | partial | 2026-08-24T06:21:54Z | [open](../records/video-chengyi-ai-native-subtitle-quote-image-4aceabd6.md) |
+| Chocobozzz/PeerTube | partial | 2026-09-10T14:43:39Z | [open](../records/video-chocobozzz-peertube-ff9a950e.md) |
 | code-charity/youtube | partial | 2026-09-08T05:08:10Z | [open](../records/video-code-charity-youtube-413818e8.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/video-cookpete-react-player-4ee05d0c.md) |
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-10T12:37:03Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-10T18:51:44Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |

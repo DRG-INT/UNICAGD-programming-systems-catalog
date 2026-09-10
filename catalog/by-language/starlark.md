@@ -24,7 +24,7 @@ Records: `69`
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (656)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (634)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -33,16 +33,16 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-09-09T13:13:25Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-10T18:14:35Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-10T17:47:57Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-10T18:38:07Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-10T18:56:01Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
 | [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-02T11:40:11Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-09T08:25:39Z | registry-derived |
-| [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-10T16:55:08Z | registry-derived |
+| [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-10T18:32:32Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-07T17:12:58Z | registry-derived |
-| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-10T17:09:52Z | registry-derived |
+| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-10T19:11:30Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
 | [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-10T08:11:21Z | registry-derived |
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |

@@ -24,7 +24,7 @@ Records: `53`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -139,7 +139,7 @@ Records: `53`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| xiph/opus | partial | 2026-09-09T15:10:13Z | [open](../records/audio-xiph-opus-720976ad.md) |
+| xiph/opus | partial | 2026-09-10T18:31:37Z | [open](../records/audio-xiph-opus-720976ad.md) |
 
 ## Video
 

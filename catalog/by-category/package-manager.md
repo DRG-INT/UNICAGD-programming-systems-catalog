@@ -24,7 +24,7 @@ Records: `448`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -412,12 +412,12 @@ Records: `448`
 | --- | --- | --- | --- |
 | AzuraCast/AzuraCast | partial | 2026-09-03T04:46:56Z | [open](../records/video-azuracast-azuracast-d01011b2.md) |
 | calesthio/OpenMontage | partial | 2026-08-22T18:22:24Z | [open](../records/video-calesthio-openmontage-675312f7.md) |
-| google-ai-edge/mediapipe | partial | 2026-09-10T11:10:27Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-10T16:53:44Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | kaltura/platform-install-packages | partial | 2023-03-31T20:11:47Z | [open](../records/video-kaltura-platform-install-packages-da4f9d30.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
 | rushindrasinha/youtube-shorts-pipeline | partial | 2026-06-09T23:55:00Z | [open](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-10T13:00:06Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-10T15:58:48Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | streamlink/streamlink | partial | 2026-09-03T21:24:55Z | [open](../records/video-streamlink-streamlink-ff62fe99.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |

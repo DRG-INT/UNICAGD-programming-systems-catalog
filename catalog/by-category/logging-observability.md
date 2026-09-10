@@ -24,7 +24,7 @@ Records: `541`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -355,14 +355,14 @@ Records: `541`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-10T17:03:17Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-10T18:28:38Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-10T18:23:25Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-10T18:54:58Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-09T06:03:59Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |

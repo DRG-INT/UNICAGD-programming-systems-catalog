@@ -24,7 +24,7 @@ Records: `339`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 **[Security Sast (339)](security-sast.md)** · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## Julia
 
@@ -302,7 +302,7 @@ Records: `339`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| affaan-m/ECC | partial | 2026-09-10T14:31:38Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
+| affaan-m/ECC | partial | 2026-09-10T18:52:00Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 

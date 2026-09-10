@@ -32,7 +32,7 @@ allocation analysis, latency control, and capacity planning.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 9.29.0 | 2026-09-03T21:26:10.335661Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
+| stable | known | 9.30.0 | 2026-09-10T16:04:57.556860Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
 | preview | known | 10.0.0-alpha.5 | 2026-09-08T11:27:34.679741Z | [https://pub.dev/api/packages/sentry_dio](https://pub.dev/api/packages/sentry_dio) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ allocation analysis, latency control, and capacity planning.
 
 - Treat category as `profiler` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry_dio` at `2026-09-04T01:15:42+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/sentry_dio` at `2026-09-10T19:16:49+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -97,4 +97,4 @@ Evidence records merged into this identity: `1`.
 **[Profiler (94)](../by-category/profiler.md)** · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (656)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (634)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)

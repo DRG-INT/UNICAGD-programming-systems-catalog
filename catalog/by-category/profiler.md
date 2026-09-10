@@ -24,7 +24,7 @@ Records: `94`
 **[Profiler (94)](profiler.md)** · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -131,7 +131,7 @@ Records: `94`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | firebase_performance | 0.11.5 | 2026-08-24T13:41:38.990765Z | [open](../records/dart-firebase-performance-92ff4c46.md) |
-| sentry_dio | 9.29.0 | 2026-09-03T21:26:10.335661Z | [open](../records/dart-sentry-dio-7067a5da.md) |
+| sentry_dio | 9.30.0 | 2026-09-10T16:04:57.556860Z | [open](../records/dart-sentry-dio-7067a5da.md) |
 | stack_trace | 1.12.2 | 2026-08-28T20:42:47.771496Z | [open](../records/dart-stack-trace-b647609e.md) |
 
 ## Go

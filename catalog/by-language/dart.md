@@ -24,7 +24,7 @@ Records: `765`
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (656)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (634)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -544,8 +544,8 @@ Records: `765`
 | [jnigen](../records/dart-jnigen-8e59680d.md) | 1.0.0 | 2026-09-03T23:03:08.366814Z | registry-derived |
 | [protobuf](../records/dart-protobuf-7bdc6c86.md) | 6.0.0 | 2025-11-26T08:39:08.082637Z | registry-derived |
 | [screenshot](../records/dart-screenshot-1783622b.md) | 3.0.0 | 2024-05-14T11:36:00.674625Z | registry-derived |
-| [sembast](../records/dart-sembast-fa8ed2b5.md) | 3.8.9+1 | 2026-06-26T14:37:42.683385Z | registry-derived |
-| [sentry](../records/dart-sentry-27c4653e.md) | 9.29.0 | 2026-09-03T21:25:58.826778Z | registry-derived |
+| [sembast](../records/dart-sembast-fa8ed2b5.md) | 3.8.10 | 2026-09-10T15:32:17.330185Z | registry-derived |
+| [sentry](../records/dart-sentry-27c4653e.md) | 9.30.0 | 2026-09-10T16:04:39.565069Z | registry-derived |
 | [signals](../records/dart-signals-615e82a1.md) | 7.1.0 | 2026-05-29T06:27:09.278212Z | registry-derived |
 | [socket_io_client](../records/dart-socket-io-client-86cc0b29.md) | 3.1.6 | 2026-06-13T13:00:12.535833Z | registry-derived |
 
@@ -899,7 +899,7 @@ Records: `765`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [firebase_performance](../records/dart-firebase-performance-92ff4c46.md) | 0.11.5 | 2026-08-24T13:41:38.990765Z | registry-derived |
-| [sentry_dio](../records/dart-sentry-dio-7067a5da.md) | 9.29.0 | 2026-09-03T21:26:10.335661Z | registry-derived |
+| [sentry_dio](../records/dart-sentry-dio-7067a5da.md) | 9.30.0 | 2026-09-10T16:04:57.556860Z | registry-derived |
 | [stack_trace](../records/dart-stack-trace-b647609e.md) | 1.12.2 | 2026-08-28T20:42:47.771496Z | registry-derived |
 
 ### Project Scaffolding

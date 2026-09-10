@@ -24,7 +24,7 @@ Records: `65`
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (656)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (634)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1649)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## Julia
 
@@ -141,7 +141,7 @@ Records: `65`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jitsi/jitsi | partial | 2026-06-02T16:42:03Z | [open](../records/video-jitsi-jitsi-d268b078.md) |
-| jitsi/jitsi-meet | partial | 2026-09-10T02:52:16Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
+| jitsi/jitsi-meet | partial | 2026-09-10T18:18:00Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
 | miroslavpejic85/mirotalksfu | partial | 2026-09-06T17:35:21Z | [open](../records/video-miroslavpejic85-mirotalksfu-bd845714.md) |
 
 ## Radars

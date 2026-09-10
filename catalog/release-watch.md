@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T18:25:11+00:00`
+Generated: `2026-09-10T19:19:18+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -22,14 +22,14 @@ Generated: `2026-09-10T18:25:11+00:00`
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (656)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (634)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1649)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
 | Known stable release | 10671 |
-| Unknown stable release | 17898 |
+| Unknown stable release | 17899 |
 
 ## Newest Known Stable Metadata
 
@@ -73,12 +73,15 @@ Generated: `2026-09-10T18:25:11+00:00`
 | hOpenPGP | Haskell | Library | 3.7.1 | 2026-09-10T16:41:24Z | [open](records/haskell-hopenpgp-dbd93565.md) |
 | phino | Haskell | Library | 0.0.127 | 2026-09-10T16:08:54Z | [open](records/haskell-phino-0ffa79f2.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.304 | 2026-09-10T16:05:32.535Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
+| sentry_dio | Dart | Profiler | 9.30.0 | 2026-09-10T16:04:57.556860Z | [open](records/dart-sentry-dio-7067a5da.md) |
+| sentry | Dart | Interpreter Runtime | 9.30.0 | 2026-09-10T16:04:39.565069Z | [open](records/dart-sentry-27c4653e.md) |
 | @sanity/cli | Node.js/JavaScript | Cli | 8.10.0 | 2026-09-10T15:58:24.345Z | [open](records/node-js-javascript-sanity-cli-257446f0.md) |
 | @sanity/cli-core | Node.js/JavaScript | Cli | 3.7.0 | 2026-09-10T15:58:18.717Z | [open](records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
 | @graphql-hive/cli | Node.js/JavaScript | Cli | 0.63.2 | 2026-09-10T15:50:45.249Z | [open](records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
 | chromatic | Node.js/JavaScript | Testing Framework | 18.8.0 | 2026-09-10T15:47:18.058Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
 | @redocly/openapi-core | Node.js/JavaScript | Undefined Behavior Analyzer | 2.52.0 | 2026-09-10T15:42:54.464Z | [open](records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
 | @redocly/respect-core | Node.js/JavaScript | Testing Framework | 2.52.0 | 2026-09-10T15:41:10.367Z | [open](records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
+| sembast | Dart | Interpreter Runtime | 3.8.10 | 2026-09-10T15:32:17.330185Z | [open](records/dart-sembast-fa8ed2b5.md) |
 | @angular-devkit/schematics-cli | Node.js/JavaScript | Cli | 22.1.8 | 2026-09-10T15:08:55.473Z | [open](records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
 | @angular/cli | Node.js/JavaScript | Cli | 22.1.8 | 2026-09-10T15:07:20.042Z | [open](records/node-js-javascript-angular-cli-8e368136.md) |
 | @payloadcms/db-mongodb | Node.js/JavaScript | Ffi Bindings | 3.89.0 | 2026-09-10T14:50:50.637Z | [open](records/node-js-javascript-payloadcms-db-mongodb-3fe8b401.md) |
@@ -282,15 +285,12 @@ Generated: `2026-09-10T18:25:11+00:00`
 | @browserstack/mcp-server | Node.js/JavaScript | Ffi Bindings | 1.3.2 | 2026-09-09T07:27:07.037Z | [open](records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.182.2 | 2026-09-09T07:07:34.760Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
 | @umijs/server | Node.js/JavaScript | Web Framework | 4.7.16 | 2026-09-09T07:02:30.161Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
-| @logtape/testing | Node.js/JavaScript | Testing Framework | 2.3.4 | 2026-09-09T06:23:07.981Z | [open](records/node-js-javascript-logtape-testing-a3711ff5.md) |
-| @mastra/mcp-docs-server | Node.js/JavaScript | Documentation | 1.2.24 | 2026-09-09T05:53:08.286Z | [open](records/node-js-javascript-mastra-mcp-docs-server-d4b69d85.md) |
-| @unocss/cli | Node.js/JavaScript | Cli | 66.10.1 | 2026-09-09T04:41:48.837Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10275 |
+| gh_search_reports_activity_not_release_version | 10276 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

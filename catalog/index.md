@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-10T18:25:11+00:00`
+Generated: `2026-09-10T19:19:18+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -22,7 +22,7 @@ Generated: `2026-09-10T18:25:11+00:00`
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (656)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (634)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1649)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 ## Languages
 
@@ -65,7 +65,7 @@ Generated: `2026-09-10T18:25:11+00:00`
 | Space Maps | 656 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 782 | 8 | [Effects](by-language/effects.md) |
 | Audio | 481 | 6 | [Audio](by-language/audio.md) |
-| Video | 470 | 0 | [Video](by-language/video.md) |
+| Video | 471 | 0 | [Video](by-language/video.md) |
 | Photography | 599 | 0 | [Photography](by-language/photography.md) |
 | Microscopy | 194 | 0 | [Microscopy](by-language/microscopy.md) |
 | Telescopes | 271 | 0 | [Telescopes](by-language/telescopes.md) |
@@ -156,7 +156,7 @@ Generated: `2026-09-10T18:25:11+00:00`
 | Testing Framework | 634 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 70 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
 | Type Checker | 315 | [type_checker](by-category/type-checker.md) |
-| Undefined Behavior Analyzer | 1648 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
+| Undefined Behavior Analyzer | 1649 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 105 | [utility_library](by-category/utility-library.md) |
 | Visualization Gui | 614 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 495 | [web_framework](by-category/web-framework.md) |
@@ -202,7 +202,7 @@ Generated: `2026-09-10T18:25:11+00:00`
 | Space Maps | 0 | 656 |
 | Effects | 8 | 774 |
 | Audio | 6 | 475 |
-| Video | 0 | 470 |
+| Video | 0 | 471 |
 | Photography | 0 | 599 |
 | Microscopy | 0 | 194 |
 | Telescopes | 0 | 271 |
