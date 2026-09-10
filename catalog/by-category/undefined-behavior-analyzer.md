@@ -17,11 +17,11 @@ Records: `1648`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 **[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -411,7 +411,7 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-09T05:04:28Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-10T05:01:25Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1347,7 +1347,7 @@ Records: `1648`
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
-| rhannequin/astronoby | partial | 2026-09-08T01:42:40Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
+| rhannequin/astronoby | partial | 2026-09-10T01:42:48Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | segevl/dynamic_scheduler | partial | 2026-08-24T10:46:19Z | [open](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) |
@@ -1357,7 +1357,7 @@ Records: `1648`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-09T10:03:30Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-10T03:10:18Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1880,7 +1880,7 @@ Records: `1648`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-10T00:18:49Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T03:14:44.392Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T04:19:51.148Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |

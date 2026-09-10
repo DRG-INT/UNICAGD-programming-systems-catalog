@@ -1,6 +1,6 @@
 # R
 
-Records: `1917`
+Records: `1921`
 
 ## Navigation
 
@@ -17,11 +17,11 @@ Records: `1917`
 [Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1664)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5928)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
-[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
@@ -623,6 +623,7 @@ Records: `1917`
 | [baselinr](../records/r-baselinr-8b5c759c.md) | 0.6.0 | 2026-08-22 23:20:37 UTC | registry-derived |
 | [btw](../records/r-btw-e6fa9ede.md) | 1.5.0 | 2026-09-09 16:40:13 UTC | registry-derived |
 | [cdcanthro](../records/r-cdcanthro-3041967b.md) | 0.4.0 | 2026-08-31 15:20:03 UTC | registry-derived |
+| [csbewma](../records/r-csbewma-51895b0b.md) | 1.1.0 | 2026-09-10 03:30:02 UTC | registry-derived |
 | [csemTools](../records/r-csemtools-c10814a5.md) | 0.2.1 | 2026-08-26 18:00:02 UTC | registry-derived |
 | [DasGuptR](../records/r-dasguptr-b4cca0fa.md) | 2.2.0 | 2026-08-04 17:10:15 UTC | registry-derived |
 | [dccmidas](../records/r-dccmidas-9e59f289.md) | 0.1.3 | 2026-09-09 15:20:10 UTC | registry-derived |
@@ -863,6 +864,7 @@ Records: `1917`
 | [GDILM.SEIRS](../records/r-gdilm-seirs-f71deae9.md) | 0.0.7 | 2026-09-06 22:50:19 UTC | registry-derived |
 | [geobounds](../records/r-geobounds-0889a9a3.md) | 1.0.1 | 2026-09-05 19:00:02 UTC | registry-derived |
 | [geolibre](../records/r-geolibre-bac705f5.md) | 0.2.0 | 2026-09-03 11:30:02 UTC | registry-derived |
+| [GerminaR](../records/r-germinar-66c32ed0.md) | 2.1.7 | 2026-09-10 05:00:02 UTC | registry-derived |
 | [GetTDData](../records/r-gettddata-da30d6d0.md) | 1.7.0 | 2026-08-29 16:50:02 UTC | registry-derived |
 | [gfunctions](../records/r-gfunctions-501fc07a.md) | 1.2 | 2026-08-21 05:43:46 UTC | registry-derived |
 | [GGIRread](../records/r-ggirread-2f7f18be.md) | 1.0.10 | 2026-08-26 08:50:11 UTC | registry-derived |
@@ -1182,6 +1184,7 @@ Records: `1917`
 | [sgee](../records/r-sgee-9edd0ee9.md) | 0.6-2 | 2026-08-31 19:50:02 UTC | registry-derived |
 | [shinydataviewer](../records/r-shinydataviewer-4cb88020.md) | 0.2.0 | 2026-08-05 02:20:02 UTC | registry-derived |
 | [shinyelectron](../records/r-shinyelectron-56c9b295.md) | 0.2.1 | 2026-08-07 16:10:02 UTC | registry-derived |
+| [ShortForm](../records/r-shortform-867a579c.md) | 1.0.0 | 2026-09-10 03:30:08 UTC | registry-derived |
 | [shrinkGPR](../records/r-shrinkgpr-0c064502.md) | 2.1.0 | 2026-09-09 14:10:07 UTC | registry-derived |
 | [SimDesign](../records/r-simdesign-bfe4dc5d.md) | 2.27 | 2026-08-30 05:10:45 UTC | registry-derived |
 | [simglm](../records/r-simglm-dc59b7cc.md) | 1.0.0 | 2026-09-01 20:20:02 UTC | registry-derived |
@@ -1541,7 +1544,7 @@ Records: `1917`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [acR](../records/r-acr-06483fc8.md) | 0.3.3 | 2026-08-20 08:42:18 UTC | registry-derived |
+| [acR](../records/r-acr-06483fc8.md) | 0.3.4 | 2026-09-10 03:50:02 UTC | registry-derived |
 | [BNPmix](../records/r-bnpmix-cd5f272d.md) | 1.2.3 | 2026-08-04 20:40:02 UTC | registry-derived |
 | [ClassifyITS](../records/r-classifyits-9d0d3143.md) | 1.0.3 | 2026-08-25 23:20:09 UTC | registry-derived |
 | [maestro](../records/r-maestro-cf255b9c.md) | 1.3.0 | 2026-08-31 20:30:02 UTC | registry-derived |
@@ -1714,6 +1717,7 @@ Records: `1917`
 | [datom](../records/r-datom-465d8abc.md) | 0.1.2 | 2026-09-08 04:30:02 UTC | registry-derived |
 | [ErrorTracer](../records/r-errortracer-430fdc33.md) | 1.3.1 | 2026-08-19 20:50:02 UTC | registry-derived |
 | [geoprofiler](../records/r-geoprofiler-76565464.md) | 0.0.4 | 2026-08-28 20:40:02 UTC | registry-derived |
+| [HAPTRACE](../records/r-haptrace-5674a8ae.md) | 0.1.2 | 2026-09-10 04:10:02 UTC | registry-derived |
 | [Tplyr](../records/r-tplyr-6ac49fbf.md) | 1.4.1 | 2026-08-24 18:40:41 UTC | registry-derived |
 | [typetracer](../records/r-typetracer-499d7b72.md) | 0.2.5 | 2026-08-27 13:00:02 UTC | registry-derived |
 | [wikiprofiler](../records/r-wikiprofiler-c478bc70.md) | 0.1.7 | 2026-08-25 12:20:02 UTC | registry-derived |

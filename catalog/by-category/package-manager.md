@@ -17,11 +17,11 @@ Records: `448`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (448)](package-manager.md)** · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -190,7 +190,7 @@ Records: `448`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| acR | 0.3.3 | 2026-08-20 08:42:18 UTC | [open](../records/r-acr-06483fc8.md) |
+| acR | 0.3.4 | 2026-09-10 03:50:02 UTC | [open](../records/r-acr-06483fc8.md) |
 | BNPmix | 1.2.3 | 2026-08-04 20:40:02 UTC | [open](../records/r-bnpmix-cd5f272d.md) |
 | ClassifyITS | 1.0.3 | 2026-08-25 23:20:09 UTC | [open](../records/r-classifyits-9d0d3143.md) |
 | maestro | 1.3.0 | 2026-08-31 20:30:02 UTC | [open](../records/r-maestro-cf255b9c.md) |
@@ -403,7 +403,7 @@ Records: `448`
 | attenlabs/saa-sdk | partial | 2026-07-15T20:52:27Z | [open](../records/audio-attenlabs-saa-sdk-feb070cb.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-09T23:55:46Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-10T03:59:01Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-02T03:58:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video

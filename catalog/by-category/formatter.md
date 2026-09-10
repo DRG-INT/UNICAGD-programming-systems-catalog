@@ -17,11 +17,11 @@ Records: `658`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · **[Formatter (658)](formatter.md)**
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -542,7 +542,7 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-10T04:21:03Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-10T05:20:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -686,7 +686,7 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-09T23:11:34Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-10T02:03:33Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
 | AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-09T05:57:58Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | AmitDigga/threejs-galaxy-shader | partial | 2026-03-27T08:08:16Z | [open](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) |
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |
@@ -914,7 +914,7 @@ Records: `658`
 | alasca.cloud/tarook/tarook | partial | 2026-09-09T19:49:41.224Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
-| gitlab-org/cves | partial | 2026-09-10T01:24:00.784Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
+| gitlab-org/cves | partial | 2026-09-10T04:51:04.868Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | guided-explorations/aws/cloudformation/cloudformation-deploy | partial | 2026-07-14T13:33:11.462Z | [open](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
 | libosinfo/osinfo-db | partial | 2026-08-31T08:54:04.305Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
 | Screwtapello/isa65xx | partial | 2025-04-08T08:23:48.640Z | [open](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |

@@ -17,11 +17,11 @@ Records: `1495`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1495)](ide-editor-integration.md)**
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -691,10 +691,10 @@ Records: `1495`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-09T20:31:48Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-10T03:31:53Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-10T05:20:20Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-10T02:19:54Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-10T03:11:47Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-10T05:20:32Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-10T04:07:08Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-10T02:03:29Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -914,7 +914,7 @@ Records: `1495`
 | Miro28/Vega | partial | 2026-06-25T12:56:08Z | [open](../records/space-maps-miro28-vega-676a8f71.md) |
 | MuMashhour/NE555-SPICE-Model | partial | 2023-03-30T13:55:49Z | [open](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
 | MWATelescope/mwa_hyperdrive | partial | 2026-09-07T13:16:01Z | [open](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
-| nyx-space/nyx | partial | 2026-09-09T06:38:54Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
+| nyx-space/nyx | partial | 2026-09-10T03:42:41Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
 | prinz-ai/Solar-System | partial | 2026-06-10T01:58:11Z | [open](../records/space-maps-prinz-ai-solar-system-9d19ec67.md) |
 | quildtide/ICARUS-Map-Pack | partial | 2025-02-06T21:58:53Z | [open](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) |
 | Radio-Source/RadioSkyMap | partial | 2026-08-31T15:27:13Z | [open](../records/space-maps-radio-source-radioskymap-b6524398.md) |
@@ -977,7 +977,7 @@ Records: `1495`
 | RdenBlaauwen/RCAS-for-ReShade | partial | 2024-02-03T17:16:58Z | [open](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) |
 | Samsy/Post-Processing-Hack-Editor | unknown | github_latest_release_missing | [open](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) |
 | shamadee/web-dsp | partial | 2017-06-05T05:36:36Z | [open](../records/effects-shamadee-web-dsp-a3bd15e7.md) |
-| sideeffects/SideFXLabs | partial | 2026-09-09T04:01:22Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
+| sideeffects/SideFXLabs | partial | 2026-09-10T04:01:26Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
 | Souloist/audio-effects | partial | 2016-04-13T03:06:04Z | [open](../records/effects-souloist-audio-effects-d98c525b.md) |
 | supriya-project/supriya | partial | 2026-09-02T21:31:04Z | [open](../records/effects-supriya-project-supriya-d075f962.md) |
 | taco-group/SparkVSR | partial | 2026-08-03T04:15:33Z | [open](../records/effects-taco-group-sparkvsr-646d164d.md) |
@@ -993,7 +993,7 @@ Records: `1495`
 | --- | --- | --- | --- |
 | 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/audio-777arc-pysdr-e43c1cf4.md) |
 | alyssaxuu/motionity | partial | 2022-09-12T02:06:50Z | [open](../records/audio-alyssaxuu-motionity-3c2fb703.md) |
-| audacity/audacity | partial | 2026-09-09T16:05:36Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
+| audacity/audacity | partial | 2026-09-10T01:21:43Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
 | bitgapp/eqMac | partial | 2026-04-24T14:53:15Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
@@ -1091,7 +1091,7 @@ Records: `1495`
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-10T03:55:30Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-10T05:17:14Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | HUANGCHIHHUNGLeo/claude-real-video | partial | 2026-08-31T09:21:45Z | [open](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
@@ -1216,7 +1216,7 @@ Records: `1495`
 | whitphx/streamlit-webrtc | partial | 2026-09-09T13:06:15Z | [open](../records/video-whitphx-streamlit-webrtc-b3307bc7.md) |
 | williamyang1991/FRESCO | partial | 2024-05-24T10:29:17Z | [open](../records/video-williamyang1991-fresco-b6f6c186.md) |
 | williamyang1991/Rerender_A_Video | partial | 2024-03-09T12:34:21Z | [open](../records/video-williamyang1991-rerender-a-video-348cf4ec.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-10T03:12:08Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-10T04:33:06Z | [open](../records/video-wiltodelta-remove-ai-watermarks-ac76ecc7.md) |
 | wxbool/video-srt-windows | partial | 2023-03-10T05:03:22Z | [open](../records/video-wxbool-video-srt-windows-660989b7.md) |
 | WyattBlue/auto-editor | partial | 2026-09-07T02:25:02Z | [open](../records/video-wyattblue-auto-editor-c71dc819.md) |
 | x007xyz/flycut | partial | 2024-10-10T08:23:42Z | [open](../records/video-x007xyz-flycut-195646ac.md) |

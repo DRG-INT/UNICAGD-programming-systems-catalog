@@ -17,11 +17,11 @@ Records: `444`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 **[Image Audio Dsp (444)](image-audio-dsp.md)** · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -302,7 +302,7 @@ Records: `444`
 | Chowdhury-DSP/ChowMatrix | partial | 2022-07-16T14:37:08Z | [open](../records/audio-chowdhury-dsp-chowmatrix-3aab0cce.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/audio-cutterbl-soundtouchjs-ef09c7a0.md) |
 | cvde/RoomReverb | partial | 2025-09-15T17:11:38Z | [open](../records/audio-cvde-roomreverb-a0c4b46d.md) |
-| cycfi/q | partial | 2026-09-10T00:03:20Z | [open](../records/audio-cycfi-q-42b5713b.md) |
+| cycfi/q | partial | 2026-09-10T04:11:57Z | [open](../records/audio-cycfi-q-42b5713b.md) |
 | danfrz/PLEBTracker | partial | 2025-11-22T09:38:10Z | [open](../records/audio-danfrz-plebtracker-06b1bf3d.md) |
 | DBraun/DawDreamer | partial | 2026-09-01T04:25:36Z | [open](../records/audio-dbraun-dawdreamer-ff34815f.md) |
 | DBraun/Sampler | partial | 2026-02-07T21:21:44Z | [open](../records/audio-dbraun-sampler-326175c5.md) |
@@ -354,7 +354,7 @@ Records: `444`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
 | midas-research/audino | partial | 2026-02-03T14:08:58Z | [open](../records/audio-midas-research-audino-bfd86e43.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
-| mixxxdj/mixxx | partial | 2026-09-09T20:06:32Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| mixxxdj/mixxx | partial | 2026-09-10T01:38:15Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |

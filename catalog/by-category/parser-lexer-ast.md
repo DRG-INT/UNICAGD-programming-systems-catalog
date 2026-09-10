@@ -17,11 +17,11 @@ Records: `1222`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · **[Parser Lexer Ast (1222)](parser-lexer-ast.md)** · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -629,7 +629,7 @@ Records: `1222`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-09T16:31:27Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-10T05:04:14Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-10T02:38:23Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-09T21:27:42Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -660,7 +660,7 @@ Records: `1222`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-10T04:18:57Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-10T05:14:57Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-09T20:13:04Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-10T03:03:13Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
@@ -865,7 +865,7 @@ Records: `1222`
 | AstroAure/Astronomy-observations | partial | 2025-11-19T07:37:53Z | [open](../records/space-maps-astroaure-astronomy-observations-cc742c6e.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-09-07T16:51:31Z | [open](../records/space-maps-astropy-learn-astropy-tutorials-275724b5.md) |
 | astropy/astroquery | partial | 2026-09-04T03:39:09Z | [open](../records/space-maps-astropy-astroquery-b186d616.md) |
-| astropy/photutils | partial | 2026-09-09T19:38:15Z | [open](../records/space-maps-astropy-photutils-f03aef0e.md) |
+| astropy/photutils | partial | 2026-09-10T03:05:57Z | [open](../records/space-maps-astropy-photutils-f03aef0e.md) |
 | astrorigin/pyswisseph | partial | 2026-04-01T08:19:24Z | [open](../records/space-maps-astrorigin-pyswisseph-af6f961a.md) |
 | ATTron/astroz | partial | 2026-04-23T04:38:36Z | [open](../records/space-maps-attron-astroz-5fb43fe1.md) |
 | B612-Asteroid-Institute/naif_earth_itrf93 | partial | 2025-04-22T18:04:32Z | [open](../records/space-maps-b612-asteroid-institute-naif-earth-itrf93-995c10c9.md) |
@@ -922,12 +922,12 @@ Records: `1222`
 | jarogumulec/perseidy | partial | 2026-08-12T07:13:34Z | [open](../records/space-maps-jarogumulec-perseidy-606b759b.md) |
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) |
-| jobovy/galpy | partial | 2026-09-09T22:41:02Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
+| jobovy/galpy | partial | 2026-09-10T02:49:41Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
 | JuliaAstro/SPICE.jl | partial | 2026-06-24T14:09:40Z | [open](../records/space-maps-juliaastro-spice-jl-78081df8.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | kaitlyndlee/AstroWebMaps | partial | 2019-10-11T17:52:05Z | [open](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) |
 | kbrault/stardome | partial | 2026-08-01T09:36:28Z | [open](../records/space-maps-kbrault-stardome-23bdfa43.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-09T23:15:20Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-10T01:27:17Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
 | lenstronomy/lenstronomy | partial | 2026-09-07T00:13:35Z | [open](../records/space-maps-lenstronomy-lenstronomy-9b7bddbc.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/space-maps-lunohodov-awesome-astrophotography-1545bec0.md) |
 | makalin/skypin | partial | 2025-10-06T15:02:00Z | [open](../records/space-maps-makalin-skypin-ecae670c.md) |
@@ -940,7 +940,7 @@ Records: `1222`
 | minaskar/pocomc | partial | 2025-09-11T22:37:30Z | [open](../records/space-maps-minaskar-pocomc-4a3fd6eb.md) |
 | mperrin/poppy | partial | 2026-08-20T13:45:22Z | [open](../records/space-maps-mperrin-poppy-fcd1ffe4.md) |
 | NAKULMAK05/AstroBuddy | partial | 2025-07-23T17:53:30Z | [open](../records/space-maps-nakulmak05-astrobuddy-393a853b.md) |
-| nasa-gcn/gcn.nasa.gov | partial | 2026-09-09T11:32:40Z | [open](../records/space-maps-nasa-gcn-gcn-nasa-gov-9c9cadae.md) |
+| nasa-gcn/gcn.nasa.gov | partial | 2026-09-10T04:01:24Z | [open](../records/space-maps-nasa-gcn-gcn-nasa-gov-9c9cadae.md) |
 | nasa/apod-api | partial | 2026-09-09T15:01:03Z | [open](../records/space-maps-nasa-apod-api-f0e086d7.md) |
 | nathan-osman/go-sunrise | partial | 2024-04-23T10:07:48Z | [open](../records/space-maps-nathan-osman-go-sunrise-8394ff76.md) |
 | natnqweb/SkyMap | partial | 2025-01-14T21:25:22Z | [open](../records/space-maps-natnqweb-skymap-70986dbe.md) |
@@ -973,7 +973,7 @@ Records: `1222`
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/space-maps-saurvs-astro-rust-b959f43f.md) |
 | sczesla/PyAstronomy | partial | 2026-06-27T22:26:51Z | [open](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) |
 | sherpa/sherpa | partial | 2026-09-09T12:51:23Z | [open](../records/space-maps-sherpa-sherpa-9f2278ff.md) |
-| skyportal/skyportal | partial | 2026-09-09T20:50:59Z | [open](../records/space-maps-skyportal-skyportal-0f6b084a.md) |
+| skyportal/skyportal | partial | 2026-09-09T23:49:29Z | [open](../records/space-maps-skyportal-skyportal-0f6b084a.md) |
 | skypyproject/skypy | partial | 2026-06-22T19:20:21Z | [open](../records/space-maps-skypyproject-skypy-17100f66.md) |
 | smmariquit/atlas-of-my-skies | partial | 2026-09-07T02:46:29Z | [open](../records/space-maps-smmariquit-atlas-of-my-skies-ee81d2fb.md) |
 | spacetelescope/poppy | partial | 2026-08-26T14:23:04Z | [open](../records/space-maps-spacetelescope-poppy-ae2bd07f.md) |

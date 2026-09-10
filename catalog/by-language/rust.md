@@ -17,11 +17,11 @@ Records: `2183`
 [Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1664)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1460)](../by-category/language-specification.md) · [Library (5928)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
-[Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
@@ -399,7 +399,7 @@ Records: `2183`
 | [futures-intrusive](../records/rust-futures-intrusive-f4e5dbf1.md) | 0.5.0 | 2022-11-04T06:14:20.712105Z | registry-derived |
 | [is_ci](../records/rust-is-ci-2263da16.md) | 1.2.0 | 2024-02-04T02:57:53.234697Z | registry-derived |
 | [jiff-static](../records/rust-jiff-static-d0c4ed1c.md) | 0.2.35 | 2026-07-25T23:45:30.962090Z | registry-derived |
-| [open](../records/rust-open-64418b8a.md) | 5.4.3 | 2026-09-02T03:26:11.654067Z | registry-derived |
+| [open](../records/rust-open-64418b8a.md) | 5.4.4 | 2026-09-10T04:08:21.519593Z | registry-derived |
 | [parse-display](../records/rust-parse-display-b08fabd3.md) | 0.11.0 | 2026-05-04T03:23:11.235247Z | crates_io |
 | [parse-display-derive](../records/rust-parse-display-derive-7f3c22ad.md) | 0.11.0 | 2026-05-04T03:23:09.217350Z | crates_io |
 | [rust-ini](../records/rust-rust-ini-20701bb3.md) | 0.21.3 | 2025-08-30T17:27:36.967500Z | registry-derived |

@@ -17,11 +17,11 @@ Records: `585`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -318,7 +318,7 @@ Records: `585`
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
 | @microsoft/vally-cli | 0.16.0 | 2026-09-09T20:42:45.558Z | [open](../records/node-js-javascript-microsoft-vally-cli-48638457.md) |
-| @mintlify/cli | 4.0.1485 | 2026-09-09T20:17:05.764Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1486 | 2026-09-10T04:18:54.583Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.9.0 | 2026-09-02T16:11:20.951Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -421,8 +421,8 @@ Records: `585`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.8.1 | 2026-09-08T16:23:57.363Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.882 | 2026-09-09T20:17:09.282Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.882 | 2026-09-09T20:17:09.277Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.883 | 2026-09-10T04:18:57.907Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.883 | 2026-09-10T04:18:57.930Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 5.0.1 | 2026-09-03T19:41:20.078Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -545,7 +545,7 @@ Records: `585`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-10T03:36:15Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-10T04:18:10Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-10T05:20:00Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

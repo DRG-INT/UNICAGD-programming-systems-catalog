@@ -17,11 +17,11 @@ Records: `629`
 [Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
-[Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (629)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
@@ -223,7 +223,7 @@ Records: `629`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.34 | 2026-09-10T03:17:11.695Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.35 | 2026-09-10T05:09:59.390Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -371,7 +371,7 @@ Records: `629`
 | testing-library-table-queries | 0.5.0 | 2025-05-18T17:38:00.578Z | [open](../records/node-js-javascript-testing-library-table-queries-da107543.md) |
 | timekeeper | 2.3.1 | 2023-07-26T12:18:31.131Z | [open](../records/node-js-javascript-timekeeper-3f0058ec.md) |
 | trpc-ui | 1.0.15 | 2025-03-17T02:41:08.103Z | [open](../records/node-js-javascript-trpc-ui-7118f8c9.md) |
-| tstyche | 7.2.4 | 2026-09-05T07:09:47.007Z | [open](../records/node-js-javascript-tstyche-2294e4ce.md) |
+| tstyche | 7.2.5 | 2026-09-10T03:45:38.559Z | [open](../records/node-js-javascript-tstyche-2294e4ce.md) |
 | twig-testing-library | 1.2.0 | 2021-07-01T10:17:13.788Z | [open](../records/node-js-javascript-twig-testing-library-e67a53c6.md) |
 | typeorm-seeding | 1.6.1 | 2020-04-18T08:20:24.669Z | [open](../records/node-js-javascript-typeorm-seeding-f4bd376c.md) |
 | Vitest | 5.0.0 | 2026-09-03T12:24:30.312Z | [open](../records/node-js-javascript-vitest-607c3650.md) |
