@@ -33,7 +33,7 @@ operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-10T06:10:08.569Z | [https://gitlab.com/api/v4/projects?search=language%20server&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=language%20server&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T07:20:12.301Z | [https://gitlab.com/api/v4/projects?search=language%20server&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=language%20server&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

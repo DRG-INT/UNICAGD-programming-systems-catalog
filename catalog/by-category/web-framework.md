@@ -265,10 +265,10 @@ Records: `494`
 | @winor30/mcp-server-datadog | 1.8.0 | 2026-06-22T12:19:38.392Z | [open](../records/node-js-javascript-winor30-mcp-server-datadog-d7ec44ca.md) |
 | @zenstackhq/server | 3.9.3 | 2026-08-31T13:33:45.418Z | [open](../records/node-js-javascript-zenstackhq-server-99bce111.md) |
 | apollo-server-module-graphiql | 1.4.0 | 2018-07-13T18:46:58.732Z | [open](../records/node-js-javascript-apollo-server-module-graphiql-868b59df.md) |
-| appium-uiautomator2-server | 10.6.5 | 2026-09-10T06:11:23.667Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
+| appium-uiautomator2-server | 10.6.6 | 2026-09-10T07:12:41.933Z | [open](../records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
 | chrome-devtools-mcp | 1.9.0 | 2026-09-08T09:53:29.850Z | [open](../records/node-js-javascript-chrome-devtools-mcp-3aba1a23.md) |
 | code-server | 4.136.2 | 2026-09-08T20:00:36.438Z | [open](../records/node-js-javascript-code-server-cf26133a.md) |
-| decap-server | 3.11.1 | 2026-09-08T09:24:10.108Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |
+| decap-server | 3.11.2 | 2026-09-10T06:59:45.810Z | [open](../records/node-js-javascript-decap-server-cbdda5d6.md) |
 | es-dev-server | 2.1.0 | 2021-01-18T21:36:54.178Z | [open](../records/node-js-javascript-es-dev-server-02f41bcc.md) |
 | expo-server | 57.0.3 | 2026-08-14T14:22:51.084Z | [open](../records/node-js-javascript-expo-server-ef9c49be.md) |
 | Express | unknown | not_checked | [open](../records/node-js-javascript-express-e2432eae.md) |

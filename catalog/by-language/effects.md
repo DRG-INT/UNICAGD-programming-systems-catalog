@@ -650,7 +650,7 @@ Records: `782`
 | [aTool-org/canvas-nest-for-wp](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) | partial | 2019-08-14T12:12:34Z | registry-derived |
 | [BoyBaykiller/Newtonian-Particle-Simulator](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) | partial | 2024-12-20T03:42:26Z | registry-derived |
 | [CGRU/cgru](../records/effects-cgru-cgru-8bbfaaf5.md) | partial | 2026-09-09T11:22:34Z | registry-derived |
-| [cgwire/kitsu](../records/effects-cgwire-kitsu-2e008acc.md) | partial | 2026-09-09T13:11:46Z | registry-derived |
+| [cgwire/kitsu](../records/effects-cgwire-kitsu-2e008acc.md) | partial | 2026-09-10T07:35:45Z | registry-derived |
 | [csdjk/LearnUnityShader](../records/effects-csdjk-learnunityshader-524b804a.md) | partial | 2025-06-10T02:51:21Z | registry-derived |
 | [curly-brace/godot_force_shield_shader](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) | partial | 2017-09-23T07:17:03Z | registry-derived |
 | [Cyanilux/URP_WatercolourShaders](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) | partial | 2020-10-28T10:41:44Z | registry-derived |

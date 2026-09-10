@@ -537,7 +537,7 @@ Records: `1222`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aihc-parser | 3.0.0.0 | 2026-09-06T15:25:12Z | [open](../records/haskell-aihc-parser-d88ae54b.md) |
+| aihc-parser | 3.0.1.0 | 2026-09-10T06:37:12Z | [open](../records/haskell-aihc-parser-d88ae54b.md) |
 | amazonka-elasticache | 2.0 | 2023-07-27T21:11:31Z | [open](../records/haskell-amazonka-elasticache-0cc5aa14.md) |
 | amazonka-elasticbeanstalk | 2.0 | 2023-07-27T21:11:35Z | [open](../records/haskell-amazonka-elasticbeanstalk-366027e0.md) |
 | amazonka-elastictranscoder | 2.0 | 2023-07-27T21:11:48Z | [open](../records/haskell-amazonka-elastictranscoder-43c3d948.md) |

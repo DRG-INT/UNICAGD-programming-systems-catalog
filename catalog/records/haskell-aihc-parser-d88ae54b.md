@@ -32,7 +32,7 @@ code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.0.0.0 | 2026-09-06T15:25:12Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| stable | known | 3.0.1.0 | 2026-09-10T06:37:12Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ code generation, static analysis, and source transformation.
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-06T16:19:43+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-10T08:22:28+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-08 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| hackage_recent_uploads | registry-derived | 2026-09-10 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
 
 </details>
 

@@ -639,7 +639,7 @@ Records: `1029`
 | --- | --- | --- | --- |
 | adobe/rules_gitops | partial | 2026-09-09T13:13:25Z | [open](../records/starlark-adobe-rules-gitops-09140ed0.md) |
 | aspect-build/rules_js | partial | 2026-09-10T06:56:57Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
-| aspect-build/rules_py | partial | 2026-09-10T05:23:04Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
+| aspect-build/rules_py | partial | 2026-09-10T07:35:55Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
@@ -647,9 +647,9 @@ Records: `1029`
 | bazel-contrib/rules_go | partial | 2026-09-09T08:25:39Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-09T16:54:49Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-07T17:12:58Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
-| bazel-contrib/rules_scala | partial | 2026-09-09T21:14:54Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
+| bazel-contrib/rules_scala | partial | 2026-09-10T07:48:27Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
-| bazelbuild/rules_cc | partial | 2026-09-10T01:06:45Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
+| bazelbuild/rules_cc | partial | 2026-09-10T08:11:21Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-09T14:37:48Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
@@ -683,17 +683,17 @@ Records: `1029`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| agentscope-ai/agentscope | partial | 2026-09-10T06:57:13Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
+| agentscope-ai/agentscope | partial | 2026-09-10T07:35:54Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | ComposioHQ/composio | partial | 2026-09-10T05:05:22Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-09T23:56:50Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
-| deepset-ai/haystack | partial | 2026-09-10T06:46:28Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-10T08:21:50Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| deepset-ai/haystack | partial | 2026-09-10T08:23:48Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-09T07:22:45Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-10T07:20:04Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-10T08:25:03Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-10T07:15:30Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-10T08:01:43Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-09T22:50:34Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -966,14 +966,14 @@ Records: `1029`
 | hclivess/videer | partial | 2026-09-08T09:04:10Z | [open](../records/video-hclivess-videer-728d8699.md) |
 | kewlbear/FFmpeg-iOS-build-script | partial | 2024-06-18T06:18:06Z | [open](../records/video-kewlbear-ffmpeg-ios-build-script-7aee7f99.md) |
 | langhuihui/monibuca | partial | 2026-09-04T09:20:13Z | [open](../records/video-langhuihui-monibuca-da4238a2.md) |
-| livekit/agents | partial | 2026-09-10T06:13:27Z | [open](../records/video-livekit-agents-1122d840.md) |
+| livekit/agents | partial | 2026-09-10T07:52:46Z | [open](../records/video-livekit-agents-1122d840.md) |
 | nova-video-player/aos-AVP | partial | 2026-09-09T21:09:50Z | [open](../records/video-nova-video-player-aos-avp-927babe3.md) |
 | OlafenwaMoses/ImageAI | partial | 2024-08-03T09:45:20Z | [open](../records/video-olafenwamoses-imageai-614f65e4.md) |
 | opencodewin/MediaEditor | partial | 2024-12-04T10:46:14Z | [open](../records/video-opencodewin-mediaeditor-d98a3d1a.md) |
 | pion/turn | partial | 2026-09-08T18:42:39Z | [open](../records/video-pion-turn-e6218c3c.md) |
 | pipeless-ai/pipeless | partial | 2024-05-08T10:13:19Z | [open](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) |
 | pmh1314520/WebRPA | partial | 2026-09-01T10:44:42Z | [open](../records/video-pmh1314520-webrpa-25abd5b1.md) |
-| remotion-dev/remotion | partial | 2026-09-09T18:57:48Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
+| remotion-dev/remotion | partial | 2026-09-10T08:02:46Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
 | TheNickOfTime/handbrake-web | partial | 2026-03-27T02:31:22Z | [open](../records/video-thenickoftime-handbrake-web-5a475b6c.md) |
 | VideoFlint/Cabbage | partial | 2023-11-08T00:02:29Z | [open](../records/video-videoflint-cabbage-bf78fd50.md) |
 
@@ -995,7 +995,7 @@ Records: `1029`
 | labsyspharm/minerva-story | partial | 2024-05-08T18:52:37Z | [open](../records/microscopy-labsyspharm-minerva-story-6e0a209a.md) |
 | lemonspurple/DIY-Scanning-Tunneling-Microscope | partial | 2026-06-08T18:08:44Z | [open](../records/microscopy-lemonspurple-diy-scanning-tunneling-microscope-5995151b.md) |
 | royerlab/napari-mcp | partial | 2026-03-25T18:05:52Z | [open](../records/microscopy-royerlab-napari-mcp-5804742f.md) |
-| saeyslab/harpy | partial | 2026-09-09T19:03:21Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
+| saeyslab/harpy | partial | 2026-09-10T07:51:45Z | [open](../records/microscopy-saeyslab-harpy-13fb4e50.md) |
 
 ## Telescopes
 

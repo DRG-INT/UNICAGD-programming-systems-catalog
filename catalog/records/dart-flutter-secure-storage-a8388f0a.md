@@ -32,7 +32,7 @@ confidentiality, integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 11.0.0 | 2026-08-06T09:40:28.558266Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
+| stable | known | 11.1.0 | 2026-09-10T07:41:33.692224Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
 | preview | known | 11.0.0-beta.1 | 2026-06-02T12:38:34.843066Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ confidentiality, integrity, authentication, and key-management risk.
 
 - Treat category as `cryptography` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_secure_storage` at `2026-09-01T14:20:28+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_secure_storage` at `2026-09-10T08:22:29+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

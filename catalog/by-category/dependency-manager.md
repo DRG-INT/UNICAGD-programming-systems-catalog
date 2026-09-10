@@ -134,7 +134,7 @@ Records: `108`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtk-ai/rtk | partial | 2026-09-09T00:31:20Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
+| rtk-ai/rtk | partial | 2026-09-10T08:22:41Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 
@@ -306,5 +306,5 @@ Records: `108`
 | --- | --- | --- | --- |
 | Gitea: RiceField-Plugins/LibraryDependencies | partial | 2022-06-09T18:49:38Z | [open](../records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) |
 | gitlab-org/security-products/dependency-scanning | partial | 2026-01-07T10:21:59.705Z | [open](../records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) |
-| gitlab-org/security-products/gemnasium-db | partial | 2026-09-09T23:21:47.852Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
+| gitlab-org/security-products/gemnasium-db | partial | 2026-09-10T07:06:09.940Z | [open](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) |
 | gitlab-org/security-products/security-report-schemas | partial | 2026-09-02T12:31:27.706Z | [open](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) |

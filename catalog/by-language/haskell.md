@@ -1674,7 +1674,7 @@ Records: `1645`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 3.0.0.0 | 2026-09-06T15:25:12Z | registry-derived |
+| [aihc-parser](../records/haskell-aihc-parser-d88ae54b.md) | 3.0.1.0 | 2026-09-10T06:37:12Z | registry-derived |
 | [amazonka-elasticache](../records/haskell-amazonka-elasticache-0cc5aa14.md) | 2.0 | 2023-07-27T21:11:31Z | registry-derived |
 | [amazonka-elasticbeanstalk](../records/haskell-amazonka-elasticbeanstalk-366027e0.md) | 2.0 | 2023-07-27T21:11:35Z | registry-derived |
 | [amazonka-elastictranscoder](../records/haskell-amazonka-elastictranscoder-43c3d948.md) | 2.0 | 2023-07-27T21:11:48Z | registry-derived |

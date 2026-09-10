@@ -42,7 +42,7 @@ of low-noise code review, style consistency, and automation-friendly editing.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

@@ -197,7 +197,7 @@ Records: `765`
 | [cryptography](../records/dart-cryptography-262b11cd.md) | 2.9.0 | 2025-11-21T23:21:36.751492Z | registry-derived |
 | [csslib](../records/dart-csslib-4ea6544b.md) | 1.0.2 | 2024-10-29T14:00:34.896345Z | registry-derived |
 | [flutter_blurhash](../records/dart-flutter-blurhash-9f17cd53.md) | 0.9.1 | 2025-04-22T18:47:22.306471Z | registry-derived |
-| [flutter_secure_storage](../records/dart-flutter-secure-storage-a8388f0a.md) | 11.0.0 | 2026-08-06T09:40:28.558266Z | registry-derived |
+| [flutter_secure_storage](../records/dart-flutter-secure-storage-a8388f0a.md) | 11.1.0 | 2026-09-10T07:41:33.692224Z | registry-derived |
 | [hashlib](../records/dart-hashlib-081cb826.md) | 2.4.2 | 2026-07-08T16:53:04.811170Z | registry-derived |
 | [jose](../records/dart-jose-db6e5c50.md) | 0.3.5+2 | 2026-03-31T08:27:17.006179Z | registry-derived |
 | [readmore](../records/dart-readmore-e081a267.md) | 3.0.0 | 2024-03-27T23:46:43.720438Z | registry-derived |

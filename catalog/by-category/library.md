@@ -5062,7 +5062,7 @@ Records: `5928`
 | aTool-org/canvas-nest-for-wp | partial | 2019-08-14T12:12:34Z | [open](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) |
 | BoyBaykiller/Newtonian-Particle-Simulator | partial | 2024-12-20T03:42:26Z | [open](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) |
 | CGRU/cgru | partial | 2026-09-09T11:22:34Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
-| cgwire/kitsu | partial | 2026-09-09T13:11:46Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
+| cgwire/kitsu | partial | 2026-09-10T07:35:45Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
 | csdjk/LearnUnityShader | partial | 2025-06-10T02:51:21Z | [open](../records/effects-csdjk-learnunityshader-524b804a.md) |
 | curly-brace/godot_force_shield_shader | partial | 2017-09-23T07:17:03Z | [open](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) |
 | Cyanilux/URP_WatercolourShaders | partial | 2020-10-28T10:41:44Z | [open](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) |
@@ -5779,7 +5779,7 @@ Records: `5928`
 | evoiz/Agentic-Design-Patterns | partial | 2026-07-24T14:23:04Z | [open](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) |
 | fadeevab/design-patterns-rust | partial | 2025-01-01T17:16:57Z | [open](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) |
 | fbeline/design-patterns-JS | partial | 2023-02-10T16:43:18Z | [open](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) |
-| felangel/bloc | partial | 2026-09-10T00:05:15Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
+| felangel/bloc | partial | 2026-09-10T07:38:35Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
 | FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
 | Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
 | iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |

@@ -39,9 +39,9 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | SEE LICENSE IN GEOLITE2_LICENSE AND GEOLITE2_EULA |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

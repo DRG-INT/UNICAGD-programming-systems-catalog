@@ -89,7 +89,7 @@ Records: `404`
 | jsonrpsee | 0.26.0 | 2026-05-27T17:19:06.610255Z | [open](../records/rust-jsonrpsee-eaad6d22.md) |
 | jsonrpsee-core | 0.26.0 | 2026-05-27T17:18:55.270315Z | [open](../records/rust-jsonrpsee-core-dad7b335.md) |
 | jsonrpsee-types | 0.26.0 | 2026-05-27T17:18:52.674277Z | [open](../records/rust-jsonrpsee-types-e5045922.md) |
-| jsonschema | 0.55.1 | 2026-09-08T15:34:43.464986Z | [open](../records/rust-jsonschema-64fecdca.md) |
+| jsonschema | 0.56.0 | 2026-09-10T08:19:25.646308Z | [open](../records/rust-jsonschema-64fecdca.md) |
 | jsonwebtoken | 11.0.0 | 2026-07-24T10:59:32.987519Z | [open](../records/rust-jsonwebtoken-7e5361c0.md) |
 | libyml | 0.0.6 | 2026-05-29T19:54:08.134460Z | [open](../records/rust-libyml-b783402c.md) |
 | markup5ever | 0.39.0 | 2026-03-13T16:22:02.378383Z | [open](../records/rust-markup5ever-becfce56.md) |
@@ -377,7 +377,7 @@ Records: `404`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-10T04:19:57Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-10T07:28:05Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs

@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/copilot-libraries](https://hackage.haskell.org/package/copilot-libraries) |
-| Source record ids | hackage_recent-bfc76a7d8d9495 |
+| Source record ids | hackage_top_downloads-bfc76a7d8d9495 |
 
 ## System Engineer Summary
 
-Hackage package recently uploaded by IvanPerez.
+Hackage package with 71 recent downloads in the Hackage top-downloads listing.
 
 ## Operational Role
 
@@ -32,22 +32,22 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 4.8.1 | 2026-09-08T22:20:06Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| stable | known | 4.8.1 | 2026-09-08T22:20:06Z | [https://hackage.haskell.org/package/copilot-libraries](https://hackage.haskell.org/package/copilot-libraries) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-10T01:18:53+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/copilot-libraries` at `2026-09-10T08:26:33+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_recent_uploads | registry-derived | 2026-09-10 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+| hackage_top_downloads | registry-derived | 2026-09-10 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-10", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_recent-bfc76a7d8d9495` from `hackage_recent` as `registry_expansion`
+- `hackage_top_downloads-bfc76a7d8d9495` from `hackage_top_downloads` as `registry_expansion`
 
 </details>
 

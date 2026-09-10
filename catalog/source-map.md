@@ -17659,7 +17659,6 @@
 | `hackage_recent-bb087934ff56e0` | s2n-tls-ffi | [open](records/haskell-s2n-tls-ffi-105d666b.md) |
 | `hackage_recent-bb70de6d67b11f` | clash-shockwaves | [open](records/haskell-clash-shockwaves-0ff8e02b.md) |
 | `hackage_recent-bcf829c6d56eac` | copilot | [open](records/haskell-copilot-d7f340e0.md) |
-| `hackage_recent-bfc76a7d8d9495` | copilot-libraries | [open](records/haskell-copilot-libraries-cdc14724.md) |
 | `hackage_recent-c27fe6ee52d5b4` | kioku-cli | [open](records/haskell-kioku-cli-1c907a92.md) |
 | `hackage_recent-c326797c1442e5` | ideas | [open](records/haskell-ideas-bf8cd393.md) |
 | `hackage_recent-c6a78aab59f2d5` | hopenpgp-tools | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
@@ -18805,6 +18804,7 @@
 | `hackage_top_downloads-bfa281102da02a` | canadian-income-tax | [open](records/haskell-canadian-income-tax-f9b0ffaa.md) |
 | `hackage_top_downloads-bfabed019c42c7` | pandoc | [open](records/haskell-pandoc-53522543.md) |
 | `hackage_top_downloads-bfc69c700051ca` | gtk3 | [open](records/haskell-gtk3-d47bc009.md) |
+| `hackage_top_downloads-bfc76a7d8d9495` | copilot-libraries | [open](records/haskell-copilot-libraries-cdc14724.md) |
 | `hackage_top_downloads-c0135c2870b4e1` | phladiprelio-ukrainian-simple | [open](records/haskell-phladiprelio-ukrainian-simple-710985bf.md) |
 | `hackage_top_downloads-c0765893f04270` | amazonka-cloudformation | [open](records/haskell-amazonka-cloudformation-db4ba4be.md) |
 | `hackage_top_downloads-c086307f65c909` | microlens-mtl | [open](records/haskell-microlens-mtl-07c0a888.md) |

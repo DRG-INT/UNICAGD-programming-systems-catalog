@@ -142,7 +142,7 @@ Records: `481`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adplug/adplug](../records/audio-adplug-adplug-e2680a2a.md) | partial | 2026-09-05T18:45:02Z | registry-derived |
-| [ARM-software/CMSIS-DSP](../records/audio-arm-software-cmsis-dsp-5aab5965.md) | partial | 2026-09-10T06:25:40Z | registry-derived |
+| [ARM-software/CMSIS-DSP](../records/audio-arm-software-cmsis-dsp-5aab5965.md) | partial | 2026-09-10T07:25:58Z | registry-derived |
 | [reales/retromulator](../records/audio-reales-retromulator-fdf0cc26.md) | partial | 2026-07-24T07:24:46Z | registry-derived |
 | [zueblin/Polaron](../records/audio-zueblin-polaron-4f0534e8.md) | partial | 2020-09-05T12:28:45Z | registry-derived |
 
@@ -509,7 +509,7 @@ Records: `481`
 | [electro-smith/DaisySP](../records/audio-electro-smith-daisysp-caa53501.md) | partial | 2025-05-29T04:37:29Z | registry-derived |
 | [GuitarML/FunBox](../records/audio-guitarml-funbox-6cee70c5.md) | partial | 2026-07-10T15:59:36Z | registry-derived |
 | [haoheliu/voicefixer_main](../records/audio-haoheliu-voicefixer-main-daefc20f.md) | partial | 2024-01-13T00:38:35Z | registry-derived |
-| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-10T07:19:01Z | registry-derived |
+| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-10T08:22:59Z | registry-derived |
 | [ictnlp/StreamSpeech](../records/audio-ictnlp-streamspeech-abc4c0a4.md) | partial | 2025-06-29T02:06:27Z | registry-derived |
 | [iver56/audiomentations](../records/audio-iver56-audiomentations-bf487b1d.md) | partial | 2026-04-13T22:04:14Z | registry-derived |
 | [jefflai108/pytorch-kaldi-neural-speaker-embeddings](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) | partial | 2020-01-27T22:29:25Z | registry-derived |
@@ -699,7 +699,7 @@ Records: `481`
 | [QVbDev/quantumVerb](../records/audio-qvbdev-quantumverb-59e9d065.md) | partial | 2018-04-11T17:24:17Z | registry-derived |
 | [rsadsb/adsb_deku](../records/audio-rsadsb-adsb-deku-8c9a3700.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [sp-nitech/SPTK](../records/audio-sp-nitech-sptk-7cf4cfee.md) | partial | 2026-08-25T13:37:51Z | registry-derived |
-| [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-08T23:52:06Z | registry-derived |
+| [unchihugo/FluentFlyout](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) | partial | 2026-09-10T08:24:21Z | registry-derived |
 | [zynthian/zynthian-ui](../records/audio-zynthian-zynthian-ui-308e1a33.md) | partial | 2026-09-06T20:31:32Z | registry-derived |
 
 ### Web Framework

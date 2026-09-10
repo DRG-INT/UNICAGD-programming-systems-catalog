@@ -1166,7 +1166,7 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-10T07:01:56Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-10T07:48:55Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1880,14 +1880,14 @@ Records: `1648`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-10T00:18:49Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T04:19:51.148Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T07:37:47.360Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
 | gitlab-org/caproni | partial | 2026-09-10T06:18:42.634Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-09T08:49:10.879Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-09T23:46:26.796Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-10T08:20:24.832Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1900,7 +1900,7 @@ Records: `1648`
 | mt-ag-k8s-training-course/kubernetesexercises | partial | 2026-05-31T18:14:32.353Z | [open](../records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
 | mts-teta-public/devops-tools | partial | 2022-09-20T14:05:32.817Z | [open](../records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | nanuchi/bootcamp-kubernetes | partial | 2024-05-08T20:14:25.618Z | [open](../records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
-| ongresinc/stackgres | partial | 2026-09-09T17:07:46.050Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
+| ongresinc/stackgres | partial | 2026-09-10T07:39:53.564Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | rocha.public/cursos/jenkins-em-larga-escala | partial | 2018-04-27T17:12:30.554Z | [open](../records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |
@@ -1912,4 +1912,4 @@ Records: `1648`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-10T05:52:21.882Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-10T08:12:50.401Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

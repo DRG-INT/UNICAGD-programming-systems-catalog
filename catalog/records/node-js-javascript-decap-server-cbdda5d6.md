@@ -32,22 +32,22 @@ routing, middleware policy, service structure, and deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.11.1 | 2026-09-08T09:24:10.108Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 3.11.2 | 2026-09-10T06:59:45.810Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-08T14:22:38+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-10T08:22:18+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

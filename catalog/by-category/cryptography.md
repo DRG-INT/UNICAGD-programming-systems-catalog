@@ -213,7 +213,7 @@ Records: `180`
 | cryptography | 2.9.0 | 2025-11-21T23:21:36.751492Z | [open](../records/dart-cryptography-262b11cd.md) |
 | csslib | 1.0.2 | 2024-10-29T14:00:34.896345Z | [open](../records/dart-csslib-4ea6544b.md) |
 | flutter_blurhash | 0.9.1 | 2025-04-22T18:47:22.306471Z | [open](../records/dart-flutter-blurhash-9f17cd53.md) |
-| flutter_secure_storage | 11.0.0 | 2026-08-06T09:40:28.558266Z | [open](../records/dart-flutter-secure-storage-a8388f0a.md) |
+| flutter_secure_storage | 11.1.0 | 2026-09-10T07:41:33.692224Z | [open](../records/dart-flutter-secure-storage-a8388f0a.md) |
 | hashlib | 2.4.2 | 2026-07-08T16:53:04.811170Z | [open](../records/dart-hashlib-081cb826.md) |
 | jose | 0.3.5+2 | 2026-03-31T08:27:17.006179Z | [open](../records/dart-jose-db6e5c50.md) |
 | readmore | 3.0.0 | 2024-03-27T23:46:43.720438Z | [open](../records/dart-readmore-e081a267.md) |
@@ -222,7 +222,7 @@ Records: `180`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-10T07:19:44Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-10T08:09:11Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

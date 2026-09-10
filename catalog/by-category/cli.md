@@ -118,7 +118,7 @@ Records: `585`
 | Clap | unknown | not_checked | [open](../records/rust-clap-0bd402a9.md) |
 | clap_complete | 4.6.9 | 2026-08-06T13:28:20.621576Z | [open](../records/rust-clap-complete-57361877.md) |
 | colored | 3.1.1 | 2026-01-16T16:13:51.893178Z | [open](../records/rust-colored-10ab0e14.md) |
-| console | 0.16.4 | 2026-07-01T13:06:14.585167Z | [open](../records/rust-console-9d3db335.md) |
+| console | 0.16.6 | 2026-09-10T07:42:27.489839Z | [open](../records/rust-console-9d3db335.md) |
 | crossterm | 0.29.0 | 2025-04-05T15:21:48.500601Z | [open](../records/rust-crossterm-c2a7ccaf.md) |
 | dialoguer | unknown | not_checked | [open](../records/rust-dialoguer-1c72401f.md) |
 | euclid | 0.22.14 | 2026-03-18T20:00:26.960761Z | [open](../records/rust-euclid-154ffac3.md) |
@@ -310,7 +310,7 @@ Records: `585`
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @jscad/cli | 2.3.8 | 2026-02-22T00:37:56.918Z | [open](../records/node-js-javascript-jscad-cli-3e9c3318.md) |
 | @knocklabs/cli | 1.3.0 | 2026-09-08T20:53:10.588Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.184.6 | 2026-09-09T19:45:24.953Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.185.0 | 2026-09-10T07:31:23.463Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.1 | 2026-09-06T00:35:32.795Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -545,7 +545,7 @@ Records: `585`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-10T06:46:48Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-10T07:22:30Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-10T08:21:13Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

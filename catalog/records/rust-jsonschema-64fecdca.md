@@ -32,7 +32,7 @@ persistence, interoperability, and compatibility boundaries.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.55.1 | 2026-09-08T15:34:43.464986Z | [https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads) |  |
+| stable | known | 0.56.0 | 2026-09-10T08:19:25.646308Z | [https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ persistence, interoperability, and compatibility boundaries.
 
 - Treat category as `serialization` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads` at `2026-09-08T16:22:09+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=9&per_page=100&sort=downloads` at `2026-09-10T08:22:16+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

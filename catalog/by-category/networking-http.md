@@ -333,7 +333,7 @@ Records: `1073`
 | @replit/database | 3.0.1 | 2024-04-15T20:42:25.524Z | [open](../records/node-js-javascript-replit-database-0043e0f4.md) |
 | @sap-cloud-sdk/http-client | 4.9.1 | 2026-08-25T09:53:33.332Z | [open](../records/node-js-javascript-sap-cloud-sdk-http-client-39685909.md) |
 | @solana/rpc-transport-http | 8.3.0 | 2026-09-09T11:11:24.130Z | [open](../records/node-js-javascript-solana-rpc-transport-http-9bf28267.md) |
-| @stacksjs/http | 0.74.36 | 2026-09-10T05:43:33.904Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @stacksjs/http | 0.74.37 | 2026-09-10T07:03:07.499Z | [open](../records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | @szmarczak/http-timer | 5.0.1 | 2021-08-20T23:26:11.251Z | [open](../records/node-js-javascript-szmarczak-http-timer-6c6c6722.md) |
 | @taquito/http-utils | 25.0.0 | 2026-06-29T16:13:55.600Z | [open](../records/node-js-javascript-taquito-http-utils-f75d23ea.md) |
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |
@@ -786,7 +786,7 @@ Records: `1073`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-09T13:40:42Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| redis/go-redis | partial | 2026-09-10T07:55:45Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-09T23:26:55Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
@@ -807,7 +807,7 @@ Records: `1073`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-10T06:57:56Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-10T07:55:49Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 

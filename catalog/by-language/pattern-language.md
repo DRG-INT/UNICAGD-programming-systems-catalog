@@ -190,7 +190,7 @@ Records: `146`
 | [evoiz/Agentic-Design-Patterns](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) | partial | 2026-07-24T14:23:04Z | registry-derived |
 | [fadeevab/design-patterns-rust](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) | partial | 2025-01-01T17:16:57Z | registry-derived |
 | [fbeline/design-patterns-JS](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) | partial | 2023-02-10T16:43:18Z | registry-derived |
-| [felangel/bloc](../records/pattern-language-felangel-bloc-2de5d68d.md) | partial | 2026-09-10T00:05:15Z | registry-derived |
+| [felangel/bloc](../records/pattern-language-felangel-bloc-2de5d68d.md) | partial | 2026-09-10T07:38:35Z | registry-derived |
 | [FengJungle/DesignPattern](../records/pattern-language-fengjungle-designpattern-555629f0.md) | partial | 2024-04-17T07:27:17Z | registry-derived |
 | [Habrador/Unity-Programming-Patterns](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) | partial | 2026-04-28T12:37:06Z | registry-derived |
 | [iluwatar/java-design-patterns](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) | partial | 2026-08-31T22:43:02Z | registry-derived |
@@ -277,7 +277,7 @@ Records: `146`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [andrechristikan/ack-nestjs-boilerplate-kafka](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) | partial | 2023-07-19T10:53:33Z | registry-derived |
-| [cobusgreyling/loop-engineering](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) | partial | 2026-09-10T02:35:24Z | registry-derived |
+| [cobusgreyling/loop-engineering](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) | partial | 2026-09-10T08:01:51Z | registry-derived |
 
 ### Security Sast
 

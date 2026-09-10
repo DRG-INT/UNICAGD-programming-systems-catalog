@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T07:24:38+00:00`
+Generated: `2026-09-10T08:26:57+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,10 +35,16 @@ Generated: `2026-09-10T07:24:38+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| appium-uiautomator2-server | Node.js/JavaScript | Web Framework | 10.6.5 | 2026-09-10T06:11:23.667Z | [open](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.36 | 2026-09-10T05:50:24.154Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.36 | 2026-09-10T05:49:35.106Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.36 | 2026-09-10T05:43:33.904Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| jsonschema | Rust | Serialization | 0.56.0 | 2026-09-10T08:19:25.646308Z | [open](records/rust-jsonschema-64fecdca.md) |
+| console | Rust | Cli | 0.16.6 | 2026-09-10T07:42:27.489839Z | [open](records/rust-console-9d3db335.md) |
+| flutter_secure_storage | Dart | Cryptography | 11.1.0 | 2026-09-10T07:41:33.692224Z | [open](records/dart-flutter-secure-storage-a8388f0a.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.185.0 | 2026-09-10T07:31:23.463Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| appium-uiautomator2-server | Node.js/JavaScript | Web Framework | 10.6.6 | 2026-09-10T07:12:41.933Z | [open](records/node-js-javascript-appium-uiautomator2-server-156ed7d4.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.37 | 2026-09-10T07:09:26.325Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.37 | 2026-09-10T07:09:13.423Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.37 | 2026-09-10T07:03:07.499Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| decap-server | Node.js/JavaScript | Web Framework | 3.11.2 | 2026-09-10T06:59:45.810Z | [open](records/node-js-javascript-decap-server-cbdda5d6.md) |
+| aihc-parser | Haskell | Parser Lexer Ast | 3.0.1.0 | 2026-09-10T06:37:12Z | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.73.2 | 2026-09-10T05:41:19.985Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
 | @iobroker/testing | Node.js/JavaScript | Testing Framework | 6.2.1 | 2026-09-10T05:38:24.027Z | [open](records/node-js-javascript-iobroker-testing-1634fcb2.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.883 | 2026-09-10T04:18:57.930Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -79,7 +85,6 @@ Generated: `2026-09-10T07:24:38+00:00`
 | @angular/language-server | Node.js/JavaScript | Language Specification | 22.1.6 | 2026-09-09T20:12:52.558Z | [open](records/node-js-javascript-angular-language-server-3e834c73.md) |
 | jsonpath-rust | Rust | Ide Editor Integration | 1.0.11 | 2026-09-09T20:05:15.379170Z | [open](records/rust-jsonpath-rust-823f3ffa.md) |
 | @catladder/cli | Node.js/JavaScript | Cli | 5.1.3 | 2026-09-09T19:45:42.620Z | [open](records/node-js-javascript-catladder-cli-876a5bd9.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.184.6 | 2026-09-09T19:45:24.953Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @launchdarkly/node-server-sdk | Node.js/JavaScript | Ide Editor Integration | 9.13.3 | 2026-09-09T19:38:19.153Z | [open](records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
 | @launchdarkly/js-server-sdk-common | Node.js/JavaScript | Web Framework | 2.21.1 | 2026-09-09T19:36:56.899Z | [open](records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
 | @launchdarkly/openfeature-node-server | Node.js/JavaScript | Ide Editor Integration | 2.0.2 | 2026-09-09T19:36:47.141Z | [open](records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-10T07:24:38+00:00`
 | rtdists | R | Datetime | 0.12-0 | 2026-09-09 08:00:02 UTC | [open](records/r-rtdists-8094f645.md) |
 | ebrahim.gof | R | Testing Framework | 2.7.0 | 2026-09-09 07:50:02 UTC | [open](records/r-ebrahim-gof-516fb9cc.md) |
 | APCalign | R | Library | 2.0.1 | 2026-09-09 07:40:27 UTC | [open](records/r-apcalign-e641e9be.md) |
-| epicR | R | Library | 1.0.2 | 2026-09-09 07:40:20 UTC | [open](records/r-epicr-cdef34de.md) |
-| nhdR | R | Library | 0.6.2 | 2026-09-09 07:40:14 UTC | [open](records/r-nhdr-12976218.md) |
-| rurl | R | Library | 3.0.1 | 2026-09-09 07:40:02 UTC | [open](records/r-rurl-a75cfbba.md) |
-| RcppPlanc | R | Concurrency Parallelism | 2.0.16 | 2026-09-09 07:30:22 UTC | [open](records/r-rcppplanc-0cc4953d.md) |
-| acro | R | Filesystem Os | 1.0.0 | 2026-09-09 07:30:16 UTC | [open](records/r-acro-20137739.md) |
 
 ## Unknown Reasons
 

@@ -251,7 +251,7 @@ Records: `2183`
 | [Clap](../records/rust-clap-0bd402a9.md) | unknown | not_checked | catalog_seed |
 | [clap_complete](../records/rust-clap-complete-57361877.md) | 4.6.9 | 2026-08-06T13:28:20.621576Z | registry-derived |
 | [colored](../records/rust-colored-10ab0e14.md) | 3.1.1 | 2026-01-16T16:13:51.893178Z | registry-derived |
-| [console](../records/rust-console-9d3db335.md) | 0.16.4 | 2026-07-01T13:06:14.585167Z | unverified_seed |
+| [console](../records/rust-console-9d3db335.md) | 0.16.6 | 2026-09-10T07:42:27.489839Z | unverified_seed |
 | [crossterm](../records/rust-crossterm-c2a7ccaf.md) | 0.29.0 | 2025-04-05T15:21:48.500601Z | registry-derived |
 | [dialoguer](../records/rust-dialoguer-1c72401f.md) | unknown | not_checked | unverified_seed |
 | [euclid](../records/rust-euclid-154ffac3.md) | 0.22.14 | 2026-03-18T20:00:26.960761Z | registry-derived |
@@ -2290,7 +2290,7 @@ Records: `2183`
 | [jsonrpsee](../records/rust-jsonrpsee-eaad6d22.md) | 0.26.0 | 2026-05-27T17:19:06.610255Z | crates_io |
 | [jsonrpsee-core](../records/rust-jsonrpsee-core-dad7b335.md) | 0.26.0 | 2026-05-27T17:18:55.270315Z | crates_io |
 | [jsonrpsee-types](../records/rust-jsonrpsee-types-e5045922.md) | 0.26.0 | 2026-05-27T17:18:52.674277Z | crates_io |
-| [jsonschema](../records/rust-jsonschema-64fecdca.md) | 0.55.1 | 2026-09-08T15:34:43.464986Z | registry-derived |
+| [jsonschema](../records/rust-jsonschema-64fecdca.md) | 0.56.0 | 2026-09-10T08:19:25.646308Z | registry-derived |
 | [jsonwebtoken](../records/rust-jsonwebtoken-7e5361c0.md) | 11.0.0 | 2026-07-24T10:59:32.987519Z | registry-derived |
 | [libyml](../records/rust-libyml-b783402c.md) | 0.0.6 | 2026-05-29T19:54:08.134460Z | crates_io |
 | [markup5ever](../records/rust-markup5ever-becfce56.md) | 0.39.0 | 2026-03-13T16:22:02.378383Z | registry-derived |
