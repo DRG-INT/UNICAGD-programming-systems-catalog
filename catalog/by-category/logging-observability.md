@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `539`
+Records: `540`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `539`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · **[Logging Observability (539)](logging-observability.md)** · [Machine Learning (828)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · **[Logging Observability (540)](logging-observability.md)** · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -317,6 +317,7 @@ Records: `539`
 | log-warper | 1.9.0 | 2020-03-04T18:50:32Z | [open](../records/haskell-log-warper-e0ca6ea7.md) |
 | logfloat | 0.14.0.2 | 2026-02-28T23:39:53Z | [open](../records/haskell-logfloat-ecb44e29.md) |
 | logging-effect | 1.4.2 | 2026-01-28T23:44:02Z | [open](../records/haskell-logging-effect-3e66cfc8.md) |
+| logic-classes | 1.7.1 | 2016-09-18T15:08:04Z | [open](../records/haskell-logic-classes-daf64dca.md) |
 | logict | 0.8.2.0 | 2024-11-13T23:10:32Z | [open](../records/haskell-logict-915a27ee.md) |
 | monad-logger | 0.3.42 | 2025-03-10T08:59:44Z | [open](../records/haskell-monad-logger-05ede053.md) |
 | opentelemetry | 0.8.0 | 2022-04-07T09:58:08Z | [open](../records/haskell-opentelemetry-1219fa64.md) |
@@ -353,14 +354,14 @@ Records: `539`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-09T21:24:25Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | partial | 2026-09-09T22:21:38Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| langfuse/langfuse | partial | 2026-09-10T00:44:30Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
 | microsoft/semantic-kernel | partial | 2026-09-09T06:03:59Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
@@ -631,7 +632,7 @@ Records: `539`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-10T00:07:53Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-10T01:11:32Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |

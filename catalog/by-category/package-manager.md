@@ -1,6 +1,6 @@
 # Package Manager
 
-Records: `447`
+Records: `448`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `447`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (348)](linter.md) · [Logging Observability (539)](logging-observability.md) · [Machine Learning (828)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (447)](package-manager.md)** · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Other (14)](other.md) · **[Package Manager (448)](package-manager.md)** · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -216,6 +216,7 @@ Records: `447`
 | GPipe | 2.2.5 | 2020-04-10T18:59:10Z | [open](../records/haskell-gpipe-6f68fd36.md) |
 | pipes | 4.3.16 | 2021-05-07T02:43:12Z | [open](../records/haskell-pipes-76ae72a4.md) |
 | pipes-bytestring | 2.1.7 | 2021-02-12T21:37:43Z | [open](../records/haskell-pipes-bytestring-1f37c2f8.md) |
+| pipes-safe | 2.3.5 | 2023-11-04T03:52:29Z | [open](../records/haskell-pipes-safe-16bf46e5.md) |
 | pipes-text | 1.0.1 | 2022-05-26T17:17:53Z | [open](../records/haskell-pipes-text-f39907cf.md) |
 | registry | 0.6.3.3 | 2025-10-08T17:57:36Z | [open](../records/haskell-registry-b9f498cf.md) |
 | simple-pipe | 0.0.0.29 | 2015-09-29T03:12:41Z | [open](../records/haskell-simple-pipe-0fd27282.md) |
@@ -467,7 +468,7 @@ Records: `447`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AzuraCast/AzuraCast | partial | 2026-09-07T11:44:59Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
+| AzuraCast/AzuraCast | partial | 2026-09-09T22:30:53Z | [open](../records/electromagnetoscopes-azuracast-azuracast-24484a93.md) |
 | sh123/codec2_talkie | partial | 2026-02-24T18:32:54Z | [open](../records/electromagnetoscopes-sh123-codec2-talkie-05585c11.md) |
 
 ## Repertoare Catalogs
@@ -527,7 +528,7 @@ Records: `447`
 | Foulest/RepairKit | partial | 2026-09-07T18:54:36Z | [open](../records/catalogs-foulest-repairkit-96da04d2.md) |
 | GiovanniDicanio/WinReg | partial | 2026-08-21T18:01:01Z | [open](../records/catalogs-giovannidicanio-winreg-b855affc.md) |
 | git-pkgs/proxy | partial | 2026-09-04T15:34:02Z | [open](../records/catalogs-git-pkgs-proxy-d3c42acb.md) |
-| goharbor/harbor | partial | 2026-09-09T20:42:46Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
+| goharbor/harbor | partial | 2026-09-10T00:32:24Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
 | google/go-containerregistry | partial | 2026-09-09T21:22:59Z | [open](../records/catalogs-google-go-containerregistry-38c3c5cd.md) |
 | harrisonwang/wharf | partial | 2026-05-07T01:09:05Z | [open](../records/catalogs-harrisonwang-wharf-662407ae.md) |
 | hellzerg/optimizerNXT | partial | 2026-01-22T17:07:40Z | [open](../records/catalogs-hellzerg-optimizernxt-1c59a09c.md) |

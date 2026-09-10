@@ -1,6 +1,6 @@
 # Linter
 
-Records: `348`
+Records: `349`
 
 ## Navigation
 
@@ -14,13 +14,13 @@ Records: `348`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (657)](formatter.md)
+[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5915)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · **[Linter (348)](linter.md)** · [Logging Observability (539)](logging-observability.md) · [Machine Learning (828)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · **[Linter (349)](linter.md)** · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (447)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
@@ -395,6 +395,7 @@ Records: `348`
 | --- | --- | --- | --- |
 | hadolint | 2.15.1 | 2026-07-31T10:12:56Z | [open](../records/haskell-hadolint-e6160c0f.md) |
 | hlint | 3.10 | 2025-02-02T20:29:37Z | [open](../records/haskell-hlint-b4c36adf.md) |
+| hls-hlint-plugin | 2.6.0.0 | 2024-01-15T16:12:57Z | [open](../records/haskell-hls-hlint-plugin-5c28c681.md) |
 
 ## Dart
 
@@ -422,7 +423,7 @@ Records: `348`
 | github.com/terraform-linters/tflint-ruleset-aws/tools/release | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
 | github.com/Typescript-eslint/typescript-eslint | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | [open](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) |
 | github.com/z-shell/zsh-lint | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| golangci/golangci-lint | unknown | not_a_go_module_path | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
+| golangci/golangci-lint | partial | 2026-09-09T19:01:15Z | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
 
 ## Physics Engines
 

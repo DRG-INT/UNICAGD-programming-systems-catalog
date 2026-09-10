@@ -14,13 +14,13 @@ Records: `463`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (657)](../by-category/formatter.md)
+[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5915)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (348)](../by-category/linter.md) · [Logging Observability (539)](../by-category/logging-observability.md) · [Machine Learning (828)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (447)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
@@ -326,7 +326,7 @@ Records: `463`
 | --- | --- | --- | --- |
 | [About Swift](../records/swift-about-swift-8bde498c.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [airbnb/lottie-ios](../records/swift-airbnb-lottie-ios-63aa9a28.md) | partial | 2026-09-02T17:51:00Z | registry-derived |
-| [Alamofire/Alamofire](../records/swift-alamofire-alamofire-33377646.md) | partial | 2026-09-09T02:38:25Z | registry-derived |
+| [Alamofire/Alamofire](../records/swift-alamofire-alamofire-33377646.md) | partial | 2026-09-10T00:42:46Z | registry-derived |
 | [alienator88/Pearcleaner](../records/swift-alienator88-pearcleaner-bea02e76.md) | partial | 2026-06-22T18:49:18Z | registry-derived |
 | [allenwong/30DaysofSwift](../records/swift-allenwong-30daysofswift-c4ccdfef.md) | partial | 2022-05-21T17:40:30Z | registry-derived |
 | [altic-dev/FluidVoice](../records/swift-altic-dev-fluidvoice-f4158d5b.md) | partial | 2026-09-10T00:21:48Z | registry-derived |
@@ -372,7 +372,7 @@ Records: `463`
 | [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-09-09T02:45:27Z | registry-derived |
 | [lwouis/alt-tab-macos](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) | partial | 2026-09-05T19:27:11Z | registry-derived |
 | [mac-cain13/R.swift](../records/swift-mac-cain13-r-swift-576f6e69.md) | partial | 2025-04-01T13:18:36Z | registry-derived |
-| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-10T00:27:39Z | registry-derived |
+| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-10T01:17:56Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-09-09T04:52:08Z | registry-derived |
 | [maziyarpanahi/openmed](../records/swift-maziyarpanahi-openmed-4666ab59.md) | partial | 2026-09-09T09:29:01Z | registry-derived |
@@ -380,7 +380,7 @@ Records: `463`
 | [MonitorControl/MonitorControl](../records/swift-monitorcontrol-monitorcontrol-71ba7549.md) | partial | 2026-08-31T16:37:52Z | registry-derived |
 | [Mortennn/Dozer](../records/swift-mortennn-dozer-5a851823.md) | partial | 2023-11-30T13:45:27Z | registry-derived |
 | [Moya/Moya](../records/swift-moya-moya-934d110e.md) | partial | 2026-07-14T22:07:40Z | registry-derived |
-| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-10T00:30:17Z | registry-derived |
+| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-10T01:05:17Z | registry-derived |
 | [mrkai77/Loop](../records/swift-mrkai77-loop-00f0d1de.md) | partial | 2026-09-08T01:23:25Z | registry-derived |
 | [mxcl/PromiseKit](../records/swift-mxcl-promisekit-231b3051.md) | partial | 2026-06-03T18:37:03Z | registry-derived |
 | [newlinedotco/FlappySwift](../records/swift-newlinedotco-flappyswift-4860e4e2.md) | partial | 2023-04-29T03:44:50Z | registry-derived |
@@ -419,7 +419,7 @@ Records: `463`
 | [swift-package-manager](../records/swift-swift-package-manager-f64ded6a.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [SwifterSwift/SwifterSwift](../records/swift-swifterswift-swifterswift-6473bf68.md) | partial | 2026-08-09T05:41:29Z | registry-derived |
 | [SwiftGen/SwiftGen](../records/swift-swiftgen-swiftgen-b6a9b03e.md) | partial | 2026-04-16T08:20:58Z | registry-derived |
-| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | partial | 2026-09-10T00:21:56Z | registry-derived |
+| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | partial | 2026-09-10T01:15:57Z | registry-derived |
 | [swiftlang/swift-package-manager](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) | partial | 2026-09-09T21:43:14Z | registry-derived |
 | [SwiftUIX/SwiftUIX](../records/swift-swiftuix-swiftuix-7730751d.md) | partial | 2026-08-20T13:22:54Z | registry-derived |
 | [SwiftyJSON/SwiftyJSON](../records/swift-swiftyjson-swiftyjson-7752246a.md) | partial | 2026-08-18T07:07:07Z | registry-derived |
