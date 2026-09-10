@@ -12,19 +12,19 @@ Records: `60`
 [Benchmarking (203)](benchmarking.md) · [Build System (1029)](build-system.md) · [Cli (585)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (241)](datetime.md)
+[Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (975)](database-datastore.md) · [Datetime (242)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1665)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · **[Fuzzer (60)](fuzzer.md)** · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1496)](ide-editor-integration.md)
 [Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5928)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1460)](language-specification.md) · [Library (5929)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (830)](machine-learning.md)
+[Math Numeric Scientific (91)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1074)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1223)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (648)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (630)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
 ## C99
 
@@ -108,7 +108,7 @@ Records: `60`
 | emikhalev/leaflet-2gis | partial | 2023-06-18T13:05:57Z | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | partial | 2026-03-24T13:41:39Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
 | fleaflet/flutter_map | partial | 2026-09-04T12:57:45Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
-| geoman-io/leaflet-geoman | partial | 2026-08-17T11:54:00Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
+| geoman-io/leaflet-geoman | partial | 2026-09-10T02:52:52Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
@@ -124,7 +124,7 @@ Records: `60`
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |
 | stefanocudini/leaflet-panel-layers | partial | 2023-08-11T10:14:14Z | [open](../records/maps-stefanocudini-leaflet-panel-layers-1671721d.md) |
 | stefanocudini/leaflet-search | partial | 2024-06-30T08:08:14Z | [open](../records/maps-stefanocudini-leaflet-search-4701fbde.md) |
-| SuperMap/iClient-JavaScript | partial | 2026-09-08T10:37:59Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
+| SuperMap/iClient-JavaScript | partial | 2026-09-10T07:20:30Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
 | tomickigrzegorz/leaflet-examples | partial | 2026-08-28T16:30:35Z | [open](../records/maps-tomickigrzegorz-leaflet-examples-846ca4d6.md) |
 | Wildhoney/Leaflet.FreeDraw | partial | 2025-05-08T12:03:53Z | [open](../records/maps-wildhoney-leaflet-freedraw-f3c0cfd2.md) |
 
