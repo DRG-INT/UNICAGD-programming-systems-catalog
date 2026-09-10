@@ -19,7 +19,7 @@ Records: `5925`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · **[Library (5925)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
@@ -1537,7 +1537,7 @@ Records: `5925`
 | bit-set | 0.11.1 | 2026-07-10T12:48:28.097356Z | [open](../records/rust-bit-set-9b6d5be4.md) |
 | bit-vec | 0.10.1 | 2026-07-10T12:48:24.191676Z | [open](../records/rust-bit-vec-34108849.md) |
 | bitfield-struct | 0.13.0 | 2026-04-04T17:12:39.304557Z | [open](../records/rust-bitfield-struct-a77a102e.md) |
-| bitflags | 2.13.1 | 2026-07-15T20:36:19.695060Z | [open](../records/rust-bitflags-de28c0a2.md) |
+| bitflags | 2.13.2 | 2026-09-10T01:11:38.500809Z | [open](../records/rust-bitflags-de28c0a2.md) |
 | bitmaps | 3.2.1 | 2024-02-01T19:11:58.666570Z | [open](../records/rust-bitmaps-6e5fba37.md) |
 | blake2b_simd | 1.0.5 | 2026-08-20T09:25:54.918528Z | [open](../records/rust-blake2b-simd-6873d5a1.md) |
 | blake2s_simd | 1.0.5 | 2026-08-20T09:26:06.532455Z | [open](../records/rust-blake2s-simd-4fdaf8dd.md) |

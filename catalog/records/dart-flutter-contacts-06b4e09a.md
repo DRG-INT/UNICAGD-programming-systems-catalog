@@ -33,7 +33,7 @@ code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.4.1 | 2026-09-09T08:55:26.960530Z | [https://pub.dev/api/packages/flutter_contacts](https://pub.dev/api/packages/flutter_contacts) |  |
+| stable | known | 2.5.0 | 2026-09-10T01:59:59.344303Z | [https://pub.dev/api/packages/flutter_contacts](https://pub.dev/api/packages/flutter_contacts) |  |
 | preview | known | 2.0.0-beta.5 | 2026-03-05T19:12:31.333608Z | [https://pub.dev/api/packages/flutter_contacts](https://pub.dev/api/packages/flutter_contacts) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ code generation, static analysis, and source transformation.
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_contacts` at `2026-09-09T10:21:07+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_contacts` at `2026-09-10T02:20:32+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -99,7 +99,7 @@ Evidence records merged into this identity: `1`.
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · **[Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md)** · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)

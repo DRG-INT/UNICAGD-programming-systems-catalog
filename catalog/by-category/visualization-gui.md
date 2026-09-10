@@ -19,7 +19,7 @@ Records: `604`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
@@ -104,7 +104,7 @@ Records: `604`
 | secp256k1 | 0.33.1 | 2026-08-29T19:42:51.505142Z | [open](../records/rust-secp256k1-22ea0bdb.md) |
 | uint | 0.10.1 | 2026-08-08T15:16:15.201900Z | [open](../records/rust-uint-473ddc9b.md) |
 | utoipa-swagger-ui | 9.0.2 | 2025-05-25T17:04:44.516422Z | [open](../records/rust-utoipa-swagger-ui-b48a6482.md) |
-| uuid | 1.26.0 | 2026-08-26T22:08:30.860532Z | [open](../records/rust-uuid-adf167cf.md) |
+| uuid | 1.26.1 | 2026-09-10T00:30:44.938530Z | [open](../records/rust-uuid-adf167cf.md) |
 | uuid-simd | 0.8.0 | 2022-12-28T03:07:07.231984Z | [open](../records/rust-uuid-simd-13531ec0.md) |
 | winsafe | 0.0.28 | 2026-07-01T15:15:19.234320Z | [open](../records/rust-winsafe-a6e0dca2.md) |
 

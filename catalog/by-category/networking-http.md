@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1072`
+Records: `1073`
 
 ## Navigation
 
@@ -19,7 +19,7 @@ Records: `1072`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1072)](networking-http.md)**
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1073)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
@@ -287,7 +287,7 @@ Records: `1072`
 | @hapi/wreck | 18.1.2 | 2026-05-20T10:28:12.745Z | [open](../records/node-js-javascript-hapi-wreck-b2909f04.md) |
 | @hint/hint-http-cache | 4.0.23 | 2024-08-29T16:35:51.044Z | [open](../records/node-js-javascript-hint-hint-http-cache-2498c4ea.md) |
 | @hint/hint-http-compression | 5.2.27 | 2024-08-29T16:35:53.454Z | [open](../records/node-js-javascript-hint-hint-http-compression-1c29188f.md) |
-| @inversifyjs/http-core | 5.5.2 | 2026-08-29T19:33:33.882Z | [open](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
+| @inversifyjs/http-core | 5.6.0 | 2026-09-06T11:27:22.523Z | [open](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
 | @iobroker/db-objects-file | 7.2.2 | 2026-06-16T17:21:21.300Z | [open](../records/node-js-javascript-iobroker-db-objects-file-c8e68344.md) |
 | @iobroker/db-objects-redis | 7.2.2 | 2026-06-16T17:21:16.203Z | [open](../records/node-js-javascript-iobroker-db-objects-redis-f281a0a1.md) |
 | @iobroker/db-states-file | 7.2.2 | 2026-06-16T17:21:19.562Z | [open](../records/node-js-javascript-iobroker-db-states-file-a614795e.md) |
@@ -381,6 +381,7 @@ Records: `1072`
 | http-auth-connect | 1.0.6 | 2022-09-21T19:11:01.321Z | [open](../records/node-js-javascript-http-auth-connect-373f4edd.md) |
 | http-browserify | 1.7.0 | 2014-09-24T19:12:37.212Z | [open](../records/node-js-javascript-http-browserify-24d71388.md) |
 | http-cache-middleware | 1.4.1 | 2022-11-23T20:15:57.793Z | [open](../records/node-js-javascript-http-cache-middleware-b998fdf3.md) |
+| http-client | 4.3.1 | 2016-09-30T16:19:57.664Z | [open](../records/node-js-javascript-http-client-22175c8e.md) |
 | http-codex | 0.6.7 | 2026-05-18T19:04:51.801Z | [open](../records/node-js-javascript-http-codex-7504e7cf.md) |
 | http-compression | 1.1.3 | 2026-04-14T06:36:12.424Z | [open](../records/node-js-javascript-http-compression-9a5aab60.md) |
 | http-cookie-agent | 8.0.0 | 2026-05-06T06:24:30.593Z | [open](../records/node-js-javascript-http-cookie-agent-99f20bbf.md) |
@@ -806,7 +807,7 @@ Records: `1072`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-10T01:06:03Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-10T02:05:00Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1123,7 +1124,7 @@ Records: `1072`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-08T15:33:04Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-10T01:23:15Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 

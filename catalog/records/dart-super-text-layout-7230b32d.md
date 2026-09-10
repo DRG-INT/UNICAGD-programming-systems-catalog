@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.1.21 | 2026-06-12T06:14:31.854892Z | [https://pub.dev/api/packages/super_text_layout](https://pub.dev/api/packages/super_text_layout) |  |
+| stable | known | 0.1.22 | 2026-09-09T20:27:39.773991Z | [https://pub.dev/api/packages/super_text_layout](https://pub.dev/api/packages/super_text_layout) |  |
 | preview/nightly | unknown |  |  | unknown | pub_dev_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `configuration` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/super_text_layout` at `2026-09-01T16:41:10+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/super_text_layout` at `2026-09-10T02:20:35+00:00`.
 - Preview/nightly metadata is unknown because `pub_dev_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-09 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-09", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-10 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-10", "status": "registry-derived"}` |
 
 </details>
 
@@ -95,7 +95,7 @@ Evidence records merged into this identity: `1`.
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)

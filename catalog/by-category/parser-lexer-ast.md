@@ -19,7 +19,7 @@ Records: `1222`
 [Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
-[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1072)](networking-http.md)
+[Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · **[Parser Lexer Ast (1222)](parser-lexer-ast.md)** · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
@@ -600,7 +600,7 @@ Records: `1222`
 | confetti | 0.8.0 | 2024-09-28T21:47:44.167789Z | [open](../records/dart-confetti-dc49ae1e.md) |
 | enum_to_string | 2.2.1 | 2025-03-16T05:58:29.652754Z | [open](../records/dart-enum-to-string-d311278a.md) |
 | fast_immutable_collections | 11.2.0 | 2026-04-14T23:58:01.654840Z | [open](../records/dart-fast-immutable-collections-4cd6a34f.md) |
-| flutter_contacts | 2.4.1 | 2026-09-09T08:55:26.960530Z | [open](../records/dart-flutter-contacts-06b4e09a.md) |
+| flutter_contacts | 2.5.0 | 2026-09-10T01:59:59.344303Z | [open](../records/dart-flutter-contacts-06b4e09a.md) |
 | flutter_easyloading | 4.0.2 | 2026-07-30T02:17:48.509538Z | [open](../records/dart-flutter-easyloading-11a37cc7.md) |
 | flutter_localization | 0.4.1 | 2026-06-27T11:24:38.070693Z | [open](../records/dart-flutter-localization-8dc1d50f.md) |
 | freezed | 4.0.1 | 2026-08-29T17:50:43.317002Z | [open](../records/dart-freezed-eb25c993.md) |

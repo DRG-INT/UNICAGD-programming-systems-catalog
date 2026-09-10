@@ -19,7 +19,7 @@ Records: `2183`
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
@@ -1330,7 +1330,7 @@ Records: `2183`
 | [bit-set](../records/rust-bit-set-9b6d5be4.md) | 0.11.1 | 2026-07-10T12:48:28.097356Z | registry-derived |
 | [bit-vec](../records/rust-bit-vec-34108849.md) | 0.10.1 | 2026-07-10T12:48:24.191676Z | registry-derived |
 | [bitfield-struct](../records/rust-bitfield-struct-a77a102e.md) | 0.13.0 | 2026-04-04T17:12:39.304557Z | crates_io |
-| [bitflags](../records/rust-bitflags-de28c0a2.md) | 2.13.1 | 2026-07-15T20:36:19.695060Z | registry-derived |
+| [bitflags](../records/rust-bitflags-de28c0a2.md) | 2.13.2 | 2026-09-10T01:11:38.500809Z | registry-derived |
 | [bitmaps](../records/rust-bitmaps-6e5fba37.md) | 3.2.1 | 2024-02-01T19:11:58.666570Z | registry-derived |
 | [blake2b_simd](../records/rust-blake2b-simd-6873d5a1.md) | 1.0.5 | 2026-08-20T09:25:54.918528Z | registry-derived |
 | [blake2s_simd](../records/rust-blake2s-simd-4fdaf8dd.md) | 1.0.5 | 2026-08-20T09:26:06.532455Z | crates_io |
@@ -2486,7 +2486,7 @@ Records: `2183`
 | [secp256k1](../records/rust-secp256k1-22ea0bdb.md) | 0.33.1 | 2026-08-29T19:42:51.505142Z | registry-derived |
 | [uint](../records/rust-uint-473ddc9b.md) | 0.10.1 | 2026-08-08T15:16:15.201900Z | registry-derived |
 | [utoipa-swagger-ui](../records/rust-utoipa-swagger-ui-b48a6482.md) | 9.0.2 | 2025-05-25T17:04:44.516422Z | crates_io |
-| [uuid](../records/rust-uuid-adf167cf.md) | 1.26.0 | 2026-08-26T22:08:30.860532Z | registry-derived |
+| [uuid](../records/rust-uuid-adf167cf.md) | 1.26.1 | 2026-09-10T00:30:44.938530Z | registry-derived |
 | [uuid-simd](../records/rust-uuid-simd-13531ec0.md) | 0.8.0 | 2022-12-28T03:07:07.231984Z | crates_io |
 | [winsafe](../records/rust-winsafe-a6e0dca2.md) | 0.0.28 | 2026-07-01T15:15:19.234320Z | crates_io |
 

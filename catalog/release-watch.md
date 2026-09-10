@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T01:21:12+00:00`
+Generated: `2026-09-10T02:23:26+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -17,7 +17,7 @@ Generated: `2026-09-10T01:21:12+00:00`
 [Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1459)](by-category/language-specification.md) · [Library (5925)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (540)](by-category/logging-observability.md) · [Machine Learning (829)](by-category/machine-learning.md)
-[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1072)](by-category/networking-http.md)
+[Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1073)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (448)](by-category/package-manager.md) · [Parser Lexer Ast (1222)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (337)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (643)](by-category/static-analyzer.md)
@@ -28,13 +28,19 @@ Generated: `2026-09-10T01:21:12+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10613 |
+| Known stable release | 10614 |
 | Unknown stable release | 17819 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| flutter_contacts | Dart | Parser Lexer Ast | 2.5.0 | 2026-09-10T01:59:59.344303Z | [open](records/dart-flutter-contacts-06b4e09a.md) |
+| @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.24 | 2026-09-10T01:25:52.651Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.0 | 2026-09-10T01:22:32.425Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260910.1 | 2026-09-10T01:18:42.090Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| bitflags | Rust | Library | 2.13.2 | 2026-09-10T01:11:38.500809Z | [open](records/rust-bitflags-de28c0a2.md) |
+| uuid | Rust | Visualization Gui | 1.26.1 | 2026-09-10T00:30:44.938530Z | [open](records/rust-uuid-adf167cf.md) |
 | hdf5lib | R | Library | 2.2.0.0 | 2026-09-10 00:20:02 UTC | [open](records/r-hdf5lib-086bb900.md) |
 | @fallow-cli/linux-x64-gnu | Node.js/JavaScript | Cli | 3.24.1 | 2026-09-09T23:42:11.428Z | [open](records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | @fallow-cli/linux-x64-musl | Node.js/JavaScript | Cli | 3.24.1 | 2026-09-09T23:40:50.903Z | [open](records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
@@ -50,6 +56,7 @@ Generated: `2026-09-10T01:21:12+00:00`
 | mobile_scanner | Dart | Static Analyzer | 7.4.1 | 2026-09-09T21:28:23.659354Z | [open](records/dart-mobile-scanner-cd355124.md) |
 | @pgpm/database-jobs | Node.js/JavaScript | Database Datastore | 0.45.0 | 2026-09-09T21:09:30.487Z | [open](records/node-js-javascript-pgpm-database-jobs-3a4fc2ff.md) |
 | @microsoft/vally-cli | Node.js/JavaScript | Cli | 0.16.0 | 2026-09-09T20:42:45.558Z | [open](records/node-js-javascript-microsoft-vally-cli-48638457.md) |
+| super_text_layout | Dart | Configuration | 0.1.22 | 2026-09-09T20:27:39.773991Z | [open](records/dart-super-text-layout-7230b32d.md) |
 | chromatic | Node.js/JavaScript | Testing Framework | 18.7.4 | 2026-09-09T20:19:56.656Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.882 | 2026-09-09T20:17:09.282Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.882 | 2026-09-09T20:17:09.277Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -139,7 +146,6 @@ Generated: `2026-09-10T01:21:12+00:00`
 | datastar-hs-zstd | Haskell | Parser Lexer Ast | 1.0.0.0 | 2026-09-09T09:25:31Z | [open](records/haskell-datastar-hs-zstd-f5c720a9.md) |
 | datastar-hs | Haskell | Parser Lexer Ast | 1.1.0.2 | 2026-09-09T09:24:43Z | [open](records/haskell-datastar-hs-04e237be.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.18 | 2026-09-09T09:10:41.570Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
-| flutter_contacts | Dart | Parser Lexer Ast | 2.4.1 | 2026-09-09T08:55:26.960530Z | [open](records/dart-flutter-contacts-06b4e09a.md) |
 | encoding_rs | Rust | Language Specification | 0.8.41 | 2026-09-09T08:32:25.423945Z | [open](records/rust-encoding-rs-5d218ba4.md) |
 | @shopify/cli | Node.js/JavaScript | Build System | 4.8.0 | 2026-09-09T08:14:50.733Z | [open](records/node-js-javascript-shopify-cli-44d77c3d.md) |
 | node-media-server | Node.js/JavaScript | Web Framework | 4.4.0 | 2026-09-09T08:08:31.562Z | [open](records/node-js-javascript-node-media-server-61ce0684.md) |
@@ -279,12 +285,6 @@ Generated: `2026-09-10T01:21:12+00:00`
 | typed-peg | Haskell | Library | 0.2.0.0 | 2026-09-08T23:06:44Z | [open](records/haskell-typed-peg-d0f69182.md) |
 | @constructive-io/graphql-server | Node.js/JavaScript | Web Framework | 5.25.1 | 2026-09-08T23:04:35.503Z | [open](records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @remix-run/data-table-sqlite | Node.js/JavaScript | Database Datastore | 0.6.2 | 2026-09-08T23:03:12.296Z | [open](records/node-js-javascript-remix-run-data-table-sqlite-0532449b.md) |
-| @remix-run/data-table-postgres | Node.js/JavaScript | Database Datastore | 0.5.2 | 2026-09-08T23:03:05.286Z | [open](records/node-js-javascript-remix-run-data-table-postgres-53a6ca39.md) |
-| @remix-run/data-table-mysql | Node.js/JavaScript | Database Datastore | 0.5.2 | 2026-09-08T23:02:58.062Z | [open](records/node-js-javascript-remix-run-data-table-mysql-c95cb540.md) |
-| hopenpgp-tools | Haskell | Library | 0.26 | 2026-09-08T22:58:04Z | [open](records/haskell-hopenpgp-tools-39a59dde.md) |
-| mssql | Node.js/JavaScript | Networking Http | 12.7.1 | 2026-09-08T22:50:51.884Z | [open](records/node-js-javascript-mssql-d9e51b5e.md) |
-| hOpenPGP | Haskell | Library | 3.7 | 2026-09-08T22:48:09Z | [open](records/haskell-hopenpgp-dbd93565.md) |
-| copilot | Haskell | Library | 4.8.1 | 2026-09-08T22:20:13Z | [open](records/haskell-copilot-d7f340e0.md) |
 
 ## Unknown Reasons
 

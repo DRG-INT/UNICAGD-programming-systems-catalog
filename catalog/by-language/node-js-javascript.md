@@ -1,6 +1,6 @@
 # Node.js/JavaScript
 
-Records: `2440`
+Records: `2441`
 
 ## Navigation
 
@@ -19,7 +19,7 @@ Records: `2440`
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
@@ -843,8 +843,8 @@ Records: `2440`
 | [@doist/prettier-config](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) | 4.0.1 | 2025-11-13T18:47:07.005Z | npm_registry |
 | [@excalidraw/prettier-config](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) | 1.0.2 | 2021-02-25T14:12:02.335Z | npm_registry |
 | [@exodus/prettier](../records/node-js-javascript-exodus-prettier-04dd5e42.md) | 1.0.0 | 2023-09-12T15:23:38.560Z | npm_registry |
-| [@formatjs/cli](../records/node-js-javascript-formatjs-cli-5afa24d0.md) | 6.16.23 | 2026-09-03T17:24:23.589Z | registry-derived |
-| [@formatjs/cli-lib](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) | 9.0.9 | 2026-09-03T17:21:00.113Z | registry-derived |
+| [@formatjs/cli](../records/node-js-javascript-formatjs-cli-5afa24d0.md) | 6.16.24 | 2026-09-10T01:25:52.651Z | registry-derived |
+| [@formatjs/cli-lib](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) | 10.0.0 | 2026-09-10T01:22:32.425Z | registry-derived |
 | [@forsakringskassan/prettier-config](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) | 3.7.8 | 2026-07-25T01:10:43.405Z | npm_registry |
 | [@fsouza/prettierd](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) | 0.29.0 | 2026-07-26T03:59:25.309Z | npm_registry |
 | [@ganintegrity/prettier-config](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) | 2.2.1 | 2026-06-08T07:17:05.224Z | npm_registry |
@@ -1623,7 +1623,7 @@ Records: `2440`
 | [@hapi/wreck](../records/node-js-javascript-hapi-wreck-b2909f04.md) | 18.1.2 | 2026-05-20T10:28:12.745Z | registry-derived |
 | [@hint/hint-http-cache](../records/node-js-javascript-hint-hint-http-cache-2498c4ea.md) | 4.0.23 | 2024-08-29T16:35:51.044Z | registry-derived |
 | [@hint/hint-http-compression](../records/node-js-javascript-hint-hint-http-compression-1c29188f.md) | 5.2.27 | 2024-08-29T16:35:53.454Z | registry-derived |
-| [@inversifyjs/http-core](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) | 5.5.2 | 2026-08-29T19:33:33.882Z | registry-derived |
+| [@inversifyjs/http-core](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) | 5.6.0 | 2026-09-06T11:27:22.523Z | registry-derived |
 | [@iobroker/db-objects-file](../records/node-js-javascript-iobroker-db-objects-file-c8e68344.md) | 7.2.2 | 2026-06-16T17:21:21.300Z | registry-derived |
 | [@iobroker/db-objects-redis](../records/node-js-javascript-iobroker-db-objects-redis-f281a0a1.md) | 7.2.2 | 2026-06-16T17:21:16.203Z | registry-derived |
 | [@iobroker/db-states-file](../records/node-js-javascript-iobroker-db-states-file-a614795e.md) | 7.2.2 | 2026-06-16T17:21:19.562Z | registry-derived |
@@ -1717,6 +1717,7 @@ Records: `2440`
 | [http-auth-connect](../records/node-js-javascript-http-auth-connect-373f4edd.md) | 1.0.6 | 2022-09-21T19:11:01.321Z | registry-derived |
 | [http-browserify](../records/node-js-javascript-http-browserify-24d71388.md) | 1.7.0 | 2014-09-24T19:12:37.212Z | registry-derived |
 | [http-cache-middleware](../records/node-js-javascript-http-cache-middleware-b998fdf3.md) | 1.4.1 | 2022-11-23T20:15:57.793Z | registry-derived |
+| [http-client](../records/node-js-javascript-http-client-22175c8e.md) | 4.3.1 | 2016-09-30T16:19:57.664Z | registry-derived |
 | [http-codex](../records/node-js-javascript-http-codex-7504e7cf.md) | 0.6.7 | 2026-05-18T19:04:51.801Z | registry-derived |
 | [http-compression](../records/node-js-javascript-http-compression-9a5aab60.md) | 1.1.3 | 2026-04-14T06:36:12.424Z | registry-derived |
 | [http-cookie-agent](../records/node-js-javascript-http-cookie-agent-99f20bbf.md) | 8.0.0 | 2026-05-06T06:24:30.593Z | registry-derived |

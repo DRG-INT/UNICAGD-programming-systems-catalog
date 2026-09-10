@@ -19,7 +19,7 @@ Records: `765`
 [Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
-[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1072)](../by-category/networking-http.md)
+[Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
@@ -187,7 +187,7 @@ Records: `765`
 | [firebase_remote_config](../records/dart-firebase-remote-config-e1fb45c5.md) | 6.6.0 | 2026-08-24T13:41:26.512958Z | registry-derived |
 | [flutter_dotenv](../records/dart-flutter-dotenv-532a6d01.md) | 6.0.1 | 2026-04-21T02:20:23.599772Z | registry-derived |
 | [open_settings_plus](../records/dart-open-settings-plus-4bea84df.md) | 0.5.1 | 2026-09-01T03:06:00.905698Z | registry-derived |
-| [super_text_layout](../records/dart-super-text-layout-7230b32d.md) | 0.1.21 | 2026-06-12T06:14:31.854892Z | registry-derived |
+| [super_text_layout](../records/dart-super-text-layout-7230b32d.md) | 0.1.22 | 2026-09-09T20:27:39.773991Z | registry-derived |
 
 ### Cryptography
 
@@ -863,7 +863,7 @@ Records: `765`
 | [confetti](../records/dart-confetti-dc49ae1e.md) | 0.8.0 | 2024-09-28T21:47:44.167789Z | registry-derived |
 | [enum_to_string](../records/dart-enum-to-string-d311278a.md) | 2.2.1 | 2025-03-16T05:58:29.652754Z | registry-derived |
 | [fast_immutable_collections](../records/dart-fast-immutable-collections-4cd6a34f.md) | 11.2.0 | 2026-04-14T23:58:01.654840Z | registry-derived |
-| [flutter_contacts](../records/dart-flutter-contacts-06b4e09a.md) | 2.4.1 | 2026-09-09T08:55:26.960530Z | registry-derived |
+| [flutter_contacts](../records/dart-flutter-contacts-06b4e09a.md) | 2.5.0 | 2026-09-10T01:59:59.344303Z | registry-derived |
 | [flutter_easyloading](../records/dart-flutter-easyloading-11a37cc7.md) | 4.0.2 | 2026-07-30T02:17:48.509538Z | registry-derived |
 | [flutter_localization](../records/dart-flutter-localization-8dc1d50f.md) | 0.4.1 | 2026-06-27T11:24:38.070693Z | registry-derived |
 | [freezed](../records/dart-freezed-eb25c993.md) | 4.0.1 | 2026-08-29T17:50:43.317002Z | registry-derived |
