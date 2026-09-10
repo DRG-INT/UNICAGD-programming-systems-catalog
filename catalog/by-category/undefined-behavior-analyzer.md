@@ -13,16 +13,16 @@ Records: `1648`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 **[Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md)** · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -411,9 +411,9 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-09T05:04:28Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | partial | 2026-08-27T15:27:30Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1142,9 +1142,9 @@ Records: `1648`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-09T08:10:42Z | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1186,9 +1186,9 @@ Records: `1648`
 | argoproj/argo-workflows | partial | 2026-09-03T04:55:19Z | [open](../records/engines-argoproj-argo-workflows-a6929656.md) |
 | dariubs/awesome-workflow-automation | partial | 2026-04-28T14:45:31Z | [open](../records/engines-dariubs-awesome-workflow-automation-d7181907.md) |
 | devtron-labs/devtron | partial | 2026-09-04T03:34:11Z | [open](../records/engines-devtron-labs-devtron-23c3daec.md) |
-| hashintel/labs | partial | 2026-09-04T13:28:56Z | [open](../records/engines-hashintel-labs-272b9ddd.md) |
+| hashintel/labs | partial | 2026-09-09T04:01:02Z | [open](../records/engines-hashintel-labs-272b9ddd.md) |
 | jose-villegas/VCTRenderer | partial | 2026-02-14T14:45:57Z | [open](../records/engines-jose-villegas-vctrenderer-cebd55f6.md) |
-| lanl/dfnWorks | partial | 2026-08-20T21:19:18Z | [open](../records/engines-lanl-dfnworks-d6b382e9.md) |
+| lanl/dfnWorks | partial | 2026-09-08T15:58:59Z | [open](../records/engines-lanl-dfnworks-d6b382e9.md) |
 | MapServer/MapServer | partial | 2026-09-03T15:33:42Z | [open](../records/engines-mapserver-mapserver-b7716c81.md) |
 | pay-rails/pay | partial | 2026-08-23T13:26:36Z | [open](../records/engines-pay-rails-pay-08afb026.md) |
 | somta/Juggle | partial | 2026-06-12T02:44:23Z | [open](../records/engines-somta-juggle-8b99befd.md) |
@@ -1201,7 +1201,7 @@ Records: `1648`
 | OpenGATE/Gate | partial | 2026-07-27T10:33:06Z | [open](../records/physics-engines-opengate-gate-d921ed3d.md) |
 | Unity-Technologies/Robotics-Object-Pose-Estimation | partial | 2022-04-13T17:50:31Z | [open](../records/physics-engines-unity-technologies-robotics-object-pose-estimation-f90ff658.md) |
 | Unity-Technologies/Unity-Robotics-Hub | partial | 2024-11-26T12:02:53Z | [open](../records/physics-engines-unity-technologies-unity-robotics-hub-48628bc2.md) |
-| utilForever/CubbyFlow | partial | 2026-08-31T23:21:34Z | [open](../records/physics-engines-utilforever-cubbyflow-990dc01b.md) |
+| utilForever/CubbyFlow | partial | 2026-09-10T02:43:37Z | [open](../records/physics-engines-utilforever-cubbyflow-990dc01b.md) |
 | utilForever/CubbyFlow-v1 | partial | 2020-01-16T15:35:52Z | [open](../records/physics-engines-utilforever-cubbyflow-v1-ccf12789.md) |
 | wonmor/ElectronVisualized | partial | 2026-03-17T21:08:02Z | [open](../records/physics-engines-wonmor-electronvisualized-abd2d314.md) |
 
@@ -1209,10 +1209,10 @@ Records: `1648`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| agones-dev/agones | partial | 2026-09-04T05:14:11Z | [open](../records/game-engines-agones-dev-agones-16e87465.md) |
+| agones-dev/agones | partial | 2026-09-10T00:15:10Z | [open](../records/game-engines-agones-dev-agones-16e87465.md) |
 | aws/containers-roadmap | partial | 2025-03-25T18:13:16Z | [open](../records/game-engines-aws-containers-roadmap-04682765.md) |
 | gosu/gosu | partial | 2026-07-03T16:38:43Z | [open](../records/game-engines-gosu-gosu-8a3383db.md) |
-| ihhub/fheroes2 | partial | 2026-09-04T12:03:24Z | [open](../records/game-engines-ihhub-fheroes2-2169c061.md) |
+| ihhub/fheroes2 | partial | 2026-09-09T17:08:13Z | [open](../records/game-engines-ihhub-fheroes2-2169c061.md) |
 | juicycleff/flutter-unity-view-widget | partial | 2026-07-21T19:27:10Z | [open](../records/game-engines-juicycleff-flutter-unity-view-widget-7a35823f.md) |
 | leereilly/games | partial | 2025-09-13T20:06:46Z | [open](../records/game-engines-leereilly-games-e26381aa.md) |
 | weaveworks/scope | partial | 2023-07-07T03:37:03Z | [open](../records/game-engines-weaveworks-scope-237fa3ea.md) |
@@ -1231,7 +1231,7 @@ Records: `1648`
 | jeffreytse/jekyll-spaceship | partial | 2024-07-03T19:54:34Z | [open](../records/icons-and-logos-jeffreytse-jekyll-spaceship-b4d82d56.md) |
 | muan/mojibar | partial | 2023-01-25T05:33:39Z | [open](../records/icons-and-logos-muan-mojibar-30358614.md) |
 | primer/css | partial | 2026-09-09T18:31:36Z | [open](../records/icons-and-logos-primer-css-784ae164.md) |
-| primer/octicons | partial | 2026-09-04T16:20:43Z | [open](../records/icons-and-logos-primer-octicons-9ca40141.md) |
+| primer/octicons | partial | 2026-09-09T22:23:41Z | [open](../records/icons-and-logos-primer-octicons-9ca40141.md) |
 | primer/react | partial | 2026-09-09T19:10:38Z | [open](../records/icons-and-logos-primer-react-63b0b7cc.md) |
 | rickstaa/github-emoji-picker | partial | 2026-08-11T14:36:22Z | [open](../records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
 | simplelineicons/simplelineicons.github.io | partial | 2022-01-20T12:39:01Z | [open](../records/icons-and-logos-simplelineicons-simplelineicons-github-io-f89e24aa.md) |
@@ -1880,7 +1880,7 @@ Records: `1648`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-10T00:18:49Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T02:09:59.224Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-10T03:14:44.392Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-08-21T11:24:30.282Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |

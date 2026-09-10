@@ -1,6 +1,6 @@
 # Security Sast
 
-Records: `337`
+Records: `338`
 
 ## Navigation
 
@@ -13,16 +13,16 @@ Records: `337`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-**[Security Sast (337)](security-sast.md)** · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+**[Security Sast (338)](security-sast.md)** · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -296,7 +296,7 @@ Records: `337`
 | github.com/aws-samples/automated-security-helper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aws-samples-automated-security-helper-03349c19.md) |
 | github.com/Chronicle20/atlas/tools/packet-audit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-chronicle20-atlas-tools-packet-audit-394b6cff.md) |
 | github.com/santhsecurity/keyhog | v0.5.73 | 2026-08-30T15:31:03.095809Z | [open](../records/go-github-com-santhsecurity-keyhog-0f9fa50f.md) |
-| unionlabs/union | partial | 2026-07-25T18:20:02Z | [open](../records/go-unionlabs-union-93d74a53.md) |
+| unionlabs/union | unknown | not_a_go_module_path | [open](../records/go-unionlabs-union-93d74a53.md) |
 
 ## "aim's"
 
@@ -326,6 +326,12 @@ Records: `337`
 | --- | --- | --- | --- |
 | gmh5225/awesome-game-security | partial | 2026-09-04T11:45:07Z | [open](../records/engines-gmh5225-awesome-game-security-576a4d21.md) |
 | j3ssie/osmedeus | partial | 2026-08-08T14:26:33Z | [open](../records/engines-j3ssie-osmedeus-208343c3.md) |
+
+## Game Engines
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| gmh5225/awesome-game-security | partial | 2026-09-10T01:25:14Z | [open](../records/game-engines-gmh5225-awesome-game-security-d9de4419.md) |
 
 ## Icons and Logos
 

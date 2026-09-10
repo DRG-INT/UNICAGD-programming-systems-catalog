@@ -1,6 +1,6 @@
 # Engines
 
-Records: `184`
+Records: `185`
 
 ## Navigation
 
@@ -13,16 +13,16 @@ Records: `184`
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1664)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
+[Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
+[Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
 
@@ -64,7 +64,7 @@ Records: `184`
 | [sbhooley/ainativelang](../records/engines-sbhooley-ainativelang-d8561712.md) | partial | 2026-09-03T15:50:51Z | registry-derived |
 | [travisvroman/kohi](../records/engines-travisvroman-kohi-f653b0d5.md) | partial | 2026-09-04T03:27:59Z | registry-derived |
 | [vercel/workflow](../records/engines-vercel-workflow-738d28e4.md) | partial | 2026-09-04T01:24:12Z | registry-derived |
-| [zenineasa/Konjugate](../records/engines-zenineasa-konjugate-63526a02.md) | partial | 2026-09-04T13:43:13Z | registry-derived |
+| [zenineasa/Konjugate](../records/engines-zenineasa-konjugate-63526a02.md) | partial | 2026-09-09T21:57:54Z | registry-derived |
 
 ### Compiler
 
@@ -104,10 +104,16 @@ Records: `184`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ivankadric02-alt/wyrd-ecs-core](../records/engines-ivankadric02-alt-wyrd-ecs-core-fbb4ff06.md) | partial | 2026-09-04T16:13:07Z | registry-derived |
+| [ivankadric02-alt/wyrd-ecs-core](../records/engines-ivankadric02-alt-wyrd-ecs-core-fbb4ff06.md) | partial | 2026-09-09T23:08:01Z | registry-derived |
 | [margelo/react-native-filament](../records/engines-margelo-react-native-filament-bf057c64.md) | partial | 2026-05-27T12:30:27Z | registry-derived |
 | [sofa-framework/sofa](../records/engines-sofa-framework-sofa-951ffe2e.md) | partial | 2026-09-04T08:47:35Z | registry-derived |
 | [synodic/soul-engine](../records/engines-synodic-soul-engine-d14d09f6.md) | partial | 2025-11-20T23:59:10Z | registry-derived |
+
+### Debugger
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [oscar30gt/pulse](../records/engines-oscar30gt-pulse-8492c7a0.md) | partial | 2026-09-06T12:18:41Z | registry-derived |
 
 ### Dependency Manager
 
@@ -191,7 +197,7 @@ Records: `184`
 | [nipy/nipype](../records/engines-nipy-nipype-a54069eb.md) | partial | 2026-09-03T16:50:20Z | registry-derived |
 | [obeli-sk/obelisk](../records/engines-obeli-sk-obelisk-d9fd16a7.md) | partial | 2026-09-04T09:53:20Z | registry-derived |
 | [OpenDiablo2/OpenDiablo2](../records/engines-opendiablo2-opendiablo2-5f4517bb.md) | partial | 2021-10-21T13:18:36Z | registry-derived |
-| [openfootmanager/openfootmanager](../records/engines-openfootmanager-openfootmanager-ac13f333.md) | partial | 2026-09-04T11:09:07Z | registry-derived |
+| [openfootmanager/openfootmanager](../records/engines-openfootmanager-openfootmanager-ac13f333.md) | partial | 2026-09-10T02:34:57Z | registry-derived |
 | [OpenXRay/xray-16](../records/engines-openxray-xray-16-df29fdff.md) | partial | 2026-07-30T00:54:11Z | registry-derived |
 | [optimajet/WorkflowEngine.NET](../records/engines-optimajet-workflowengine-net-d3178bcb.md) | partial | 2026-08-18T15:16:18Z | registry-derived |
 | [Pantong51/GASContent](../records/engines-pantong51-gascontent-68545fdd.md) | partial | 2022-11-07T14:12:56Z | registry-derived |
@@ -251,7 +257,7 @@ Records: `184`
 | [danielgerlag/workflow-core](../records/engines-danielgerlag-workflow-core-58906f6f.md) | partial | 2026-08-22T18:10:17Z | registry-derived |
 | [dtm-labs/dtm](../records/engines-dtm-labs-dtm-91896a18.md) | partial | 2026-01-03T13:47:46Z | registry-derived |
 | [expr-lang/expr](../records/engines-expr-lang-expr-9f2f81f6.md) | partial | 2026-07-07T06:57:20Z | registry-derived |
-| [krABMaga/krABMaga](../records/engines-krabmaga-krabmaga-1745391e.md) | partial | 2026-09-04T13:00:02Z | registry-derived |
+| [krABMaga/krABMaga](../records/engines-krabmaga-krabmaga-1745391e.md) | partial | 2026-09-09T14:32:31Z | registry-derived |
 | [master-co/css](../records/engines-master-co-css-daa9361b.md) | partial | 2026-08-01T15:25:01Z | registry-derived |
 | [openkraken/kraken](../records/engines-openkraken-kraken-3bf4b456.md) | partial | 2022-12-30T15:02:55Z | registry-derived |
 
@@ -267,7 +273,7 @@ Records: `184`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bakiraa/qyvaria-hardlogic-kernel-engine](../records/engines-bakiraa-qyvaria-hardlogic-kernel-engine-5b89b6f1.md) | partial | 2026-09-04T14:42:04Z | registry-derived |
+| [bakiraa/qyvaria-hardlogic-kernel-engine](../records/engines-bakiraa-qyvaria-hardlogic-kernel-engine-5b89b6f1.md) | partial | 2026-09-10T02:39:57Z | registry-derived |
 
 ### Machine Learning
 
@@ -348,9 +354,9 @@ Records: `184`
 | [argoproj/argo-workflows](../records/engines-argoproj-argo-workflows-a6929656.md) | partial | 2026-09-03T04:55:19Z | registry-derived |
 | [dariubs/awesome-workflow-automation](../records/engines-dariubs-awesome-workflow-automation-d7181907.md) | partial | 2026-04-28T14:45:31Z | registry-derived |
 | [devtron-labs/devtron](../records/engines-devtron-labs-devtron-23c3daec.md) | partial | 2026-09-04T03:34:11Z | registry-derived |
-| [hashintel/labs](../records/engines-hashintel-labs-272b9ddd.md) | partial | 2026-09-04T13:28:56Z | registry-derived |
+| [hashintel/labs](../records/engines-hashintel-labs-272b9ddd.md) | partial | 2026-09-09T04:01:02Z | registry-derived |
 | [jose-villegas/VCTRenderer](../records/engines-jose-villegas-vctrenderer-cebd55f6.md) | partial | 2026-02-14T14:45:57Z | registry-derived |
-| [lanl/dfnWorks](../records/engines-lanl-dfnworks-d6b382e9.md) | partial | 2026-08-20T21:19:18Z | registry-derived |
+| [lanl/dfnWorks](../records/engines-lanl-dfnworks-d6b382e9.md) | partial | 2026-09-08T15:58:59Z | registry-derived |
 | [MapServer/MapServer](../records/engines-mapserver-mapserver-b7716c81.md) | partial | 2026-09-03T15:33:42Z | registry-derived |
 | [pay-rails/pay](../records/engines-pay-rails-pay-08afb026.md) | partial | 2026-08-23T13:26:36Z | registry-derived |
 | [somta/Juggle](../records/engines-somta-juggle-8b99befd.md) | partial | 2026-06-12T02:44:23Z | registry-derived |

@@ -13,16 +13,16 @@ Records: `658`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · **[Formatter (658)](formatter.md)**
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · **[Formatter (658)](formatter.md)**
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -530,7 +530,7 @@ Records: `658`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -542,7 +542,7 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-10T02:16:14Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-10T03:21:45Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -569,13 +569,13 @@ Records: `658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| assimp/assimp | partial | 2026-09-03T22:17:19Z | [open](../records/game-engines-assimp-assimp-442ead6f.md) |
+| assimp/assimp | partial | 2026-09-09T22:26:21Z | [open](../records/game-engines-assimp-assimp-442ead6f.md) |
 
 ## Icons and Logos
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| coreui/coreui-icons | partial | 2026-08-12T05:24:50Z | [open](../records/icons-and-logos-coreui-coreui-icons-28580f6f.md) |
+| coreui/coreui-icons | partial | 2026-09-07T15:37:24Z | [open](../records/icons-and-logos-coreui-coreui-icons-28580f6f.md) |
 | devblackops/Terminal-Icons | partial | 2024-08-06T15:47:02Z | [open](../records/icons-and-logos-devblackops-terminal-icons-848008fc.md) |
 | GnuriaN/format-README | partial | 2026-02-01T18:25:54Z | [open](../records/icons-and-logos-gnurian-format-readme-175ee10b.md) |
 | lukasoppermann/design-tokens | partial | 2026-02-16T09:28:58Z | [open](../records/icons-and-logos-lukasoppermann-design-tokens-3e78d848.md) |

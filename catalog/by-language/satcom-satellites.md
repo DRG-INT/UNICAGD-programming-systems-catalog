@@ -13,16 +13,16 @@ Records: `326`
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (136)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (180)](../by-category/cryptography.md) · [Data Science (39)](../by-category/data-science.md) · [Database Datastore (974)](../by-category/database-datastore.md) · [Datetime (241)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (44)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (64)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1663)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
+[Embedded Hardware (65)](../by-category/embedded-hardware.md) · [Ffi Bindings (471)](../by-category/ffi-bindings.md) · [Filesystem Os (1664)](../by-category/filesystem-os.md) · [Formatter (658)](../by-category/formatter.md)
 [Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
+[Image Audio Dsp (444)](../by-category/image-audio-dsp.md) · [Interop Bindings (63)](../by-category/interop-bindings.md) · [Interpreter Runtime (280)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1459)](../by-category/language-specification.md) · [Library (5925)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (540)](../by-category/logging-observability.md) · [Machine Learning (829)](../by-category/machine-learning.md)
 [Math Numeric Scientific (90)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1073)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (448)](../by-category/package-manager.md) · [Parser Lexer Ast (1222)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](../by-category/precommit-ci-quality.md)
 [Profiler (93)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (337)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
+[Security Sast (338)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (25)](../by-category/standard-library.md) · [Static Analyzer (643)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (629)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1648)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](../by-category/utility-library.md) · [Visualization Gui (604)](../by-category/visualization-gui.md) · [Web Framework (494)](../by-category/web-framework.md)
 
@@ -235,7 +235,7 @@ Records: `326`
 | --- | --- | --- | --- |
 | [CCSDSPy/ccsdspy](../records/satcom-satellites-ccsdspy-ccsdspy-6643ef17.md) | partial | 2026-08-13T00:50:16Z | registry-derived |
 | [cn0xroot/gr-replay](../records/satcom-satellites-cn0xroot-gr-replay-ac89c8ee.md) | partial | 2016-10-07T14:45:42Z | registry-derived |
-| [dernasherbrezon/r2cloud](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) | partial | 2026-09-09T06:14:56Z | registry-derived |
+| [dernasherbrezon/r2cloud](../records/satcom-satellites-dernasherbrezon-r2cloud-d7412eaf.md) | partial | 2026-09-09T21:33:48Z | registry-derived |
 | [emidan19/deep-tempest](../records/satcom-satellites-emidan19-deep-tempest-249c2c36.md) | partial | 2025-05-28T14:13:19Z | registry-derived |
 | [GNU Radio Satellite Workflows](../records/satcom-satellites-gnu-radio-satellite-workflows-de665cfb.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [gr-satellites](../records/satcom-satellites-gr-satellites-b6e76f51.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
@@ -377,7 +377,7 @@ Records: `326`
 | [analogdevicesinc/gr-iio](../records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) | partial | 2023-06-30T09:08:01Z | registry-derived |
 | [analogdevicesinc/plutosdr-fw](../records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) | partial | 2026-08-13T21:21:29Z | registry-derived |
 | [ANG13T/SatIntel](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) | partial | 2024-03-15T16:29:23Z | registry-derived |
-| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-09T07:50:38Z | registry-derived |
+| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-09T21:07:07Z | registry-derived |
 | [sam210723/COMS-1](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) | partial | 2019-08-03T07:17:39Z | registry-derived |
 | [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-09T07:58:03Z | registry-derived |
 
@@ -406,7 +406,7 @@ Records: `326`
 | [airframesio/xng](../records/satcom-satellites-airframesio-xng-5cd5b6f4.md) | partial | 2026-08-20T18:33:26Z | registry-derived |
 | [ameraner/dsen2-cr](../records/satcom-satellites-ameraner-dsen2-cr-ac4429cc.md) | partial | 2026-01-26T16:29:38Z | registry-derived |
 | [anfractuosity/ultrasonicnetworking](../records/satcom-satellites-anfractuosity-ultrasonicnetworking-009490a4.md) | partial | 2022-06-26T16:21:43Z | registry-derived |
-| [dotchance/nodalarc](../records/satcom-satellites-dotchance-nodalarc-405a4881.md) | partial | 2026-08-29T05:10:49Z | registry-derived |
+| [dotchance/nodalarc](../records/satcom-satellites-dotchance-nodalarc-405a4881.md) | partial | 2026-09-10T01:48:51Z | registry-derived |
 | [Muhammaduazir69/ns3-ntn-toolkit](../records/satcom-satellites-muhammaduazir69-ns3-ntn-toolkit-5e9691a1.md) | partial | 2026-08-28T00:01:01Z | registry-derived |
 | [nsmryan/CCSDS-Router](../records/satcom-satellites-nsmryan-ccsds-router-0f662998.md) | partial | 2019-07-27T18:01:08Z | registry-derived |
 | [osmocom/gr-osmosdr](../records/satcom-satellites-osmocom-gr-osmosdr-87d71d7c.md) | partial | 2026-08-22T23:11:47Z | registry-derived |

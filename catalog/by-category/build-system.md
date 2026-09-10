@@ -13,16 +13,16 @@ Records: `1029`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -628,9 +628,9 @@ Records: `1029`
 | github.com/espressif/esp32-arduino-lib-builder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-espressif-esp32-arduino-lib-builder-2032e2a7.md) |
 | github.com/Gumyr/build123d | v0.3.0 | 2026-08-30T10:07:18.967525Z | [open](../records/go-github-com-gumyr-build123d-042e26d3.md) |
 | github.com/osbuild/image-builder | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-osbuild-image-builder-77f333e8.md) |
-| go-chi/chi | partial | 2026-09-08T16:04:08Z | [open](../records/go-go-chi-chi-fa341546.md) |
+| go-chi/chi | unknown | not_a_go_module_path | [open](../records/go-go-chi-chi-fa341546.md) |
 | go.ytsaurus.tech/library/go/core/buildinfo | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-ytsaurus-tech-library-go-core-buildinfo-4bb9b494.md) |
-| gorilla/mux | partial | 2024-08-15T03:10:55Z | [open](../records/go-gorilla-mux-27a938a4.md) |
+| gorilla/mux | unknown | not_a_go_module_path | [open](../records/go-gorilla-mux-27a938a4.md) |
 | mmonterroca/docxgo | partial | 2026-08-26T23:05:23Z | [open](../records/go-mmonterroca-docxgo-56eccfba.md) |
 
 ## Starlark
@@ -691,9 +691,9 @@ Records: `1029`
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-09T07:22:45Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-10T02:15:28Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-10T03:18:46Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-10T02:15:58Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-10T03:07:01Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-08-27T10:35:01Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-09T22:50:34Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -722,17 +722,17 @@ Records: `1029`
 | sbhooley/ainativelang | partial | 2026-09-03T15:50:51Z | [open](../records/engines-sbhooley-ainativelang-d8561712.md) |
 | travisvroman/kohi | partial | 2026-09-04T03:27:59Z | [open](../records/engines-travisvroman-kohi-f653b0d5.md) |
 | vercel/workflow | partial | 2026-09-04T01:24:12Z | [open](../records/engines-vercel-workflow-738d28e4.md) |
-| zenineasa/Konjugate | partial | 2026-09-04T13:43:13Z | [open](../records/engines-zenineasa-konjugate-63526a02.md) |
+| zenineasa/Konjugate | partial | 2026-09-09T21:57:54Z | [open](../records/engines-zenineasa-konjugate-63526a02.md) |
 
 ## Physics Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ComputationalBiomechanicsLab/opensim-creator | partial | 2026-09-02T08:46:07Z | [open](../records/physics-engines-computationalbiomechanicslab-opensim-creator-75e68d35.md) |
-| DexForce/EmbodiChain | partial | 2026-09-04T17:01:57Z | [open](../records/physics-engines-dexforce-embodichain-412f39d8.md) |
+| ComputationalBiomechanicsLab/opensim-creator | partial | 2026-09-08T13:51:04Z | [open](../records/physics-engines-computationalbiomechanicslab-opensim-creator-75e68d35.md) |
+| DexForce/EmbodiChain | partial | 2026-09-10T03:04:00Z | [open](../records/physics-engines-dexforce-embodichain-412f39d8.md) |
 | Habrador/Ten-Minute-Physics-Unity | partial | 2026-04-20T08:44:50Z | [open](../records/physics-engines-habrador-ten-minute-physics-unity-ce30da7b.md) |
 | Pierre-Terdiman/PEEL_PhysX_Edition | partial | 2026-07-16T22:26:58Z | [open](../records/physics-engines-pierre-terdiman-peel-physx-edition-79c256c2.md) |
-| Rythe-Interactive/Rythe-Engine | partial | 2026-08-31T00:48:43Z | [open](../records/physics-engines-rythe-interactive-rythe-engine-6c9a9bf2.md) |
+| Rythe-Interactive/Rythe-Engine | partial | 2026-09-07T16:38:54Z | [open](../records/physics-engines-rythe-interactive-rythe-engine-6c9a9bf2.md) |
 
 ## Game Engines
 
@@ -742,8 +742,8 @@ Records: `1029`
 | egret-labs/egret-core | partial | 2022-07-20T07:18:32Z | [open](../records/game-engines-egret-labs-egret-core-1edfe586.md) |
 | ellisonleao/magictools | partial | 2026-09-01T19:44:33Z | [open](../records/game-engines-ellisonleao-magictools-4a219fe0.md) |
 | huxingyi/dust3d | partial | 2026-08-17T13:40:09Z | [open](../records/game-engines-huxingyi-dust3d-53b543aa.md) |
-| o3de/o3de | partial | 2026-09-04T02:20:27Z | [open](../records/game-engines-o3de-o3de-ef0e1ec2.md) |
-| tobspr-games/shapez.io | partial | 2026-04-28T06:56:37Z | [open](../records/game-engines-tobspr-games-shapez-io-1a3359b4.md) |
+| o3de/o3de | partial | 2026-09-08T20:54:54Z | [open](../records/game-engines-o3de-o3de-ef0e1ec2.md) |
+| tobspr-games/shapez.io | partial | 2026-09-07T13:22:33Z | [open](../records/game-engines-tobspr-games-shapez-io-1a3359b4.md) |
 | valence-rs/valence | partial | 2026-06-15T05:25:50Z | [open](../records/game-engines-valence-rs-valence-baa77696.md) |
 
 ## Icons and Logos

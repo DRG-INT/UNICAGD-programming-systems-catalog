@@ -9,16 +9,16 @@
 [Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (136)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (180)](by-category/cryptography.md) · [Data Science (39)](by-category/data-science.md) · [Database Datastore (974)](by-category/database-datastore.md) · [Datetime (241)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (44)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
-[Embedded Hardware (64)](by-category/embedded-hardware.md) · [Ffi Bindings (471)](by-category/ffi-bindings.md) · [Filesystem Os (1663)](by-category/filesystem-os.md) · [Formatter (658)](by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
+[Embedded Hardware (65)](by-category/embedded-hardware.md) · [Ffi Bindings (471)](by-category/ffi-bindings.md) · [Filesystem Os (1664)](by-category/filesystem-os.md) · [Formatter (658)](by-category/formatter.md)
 [Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1495)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (443)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
+[Image Audio Dsp (444)](by-category/image-audio-dsp.md) · [Interop Bindings (63)](by-category/interop-bindings.md) · [Interpreter Runtime (280)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1459)](by-category/language-specification.md) · [Library (5925)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (540)](by-category/logging-observability.md) · [Machine Learning (829)](by-category/machine-learning.md)
 [Math Numeric Scientific (90)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1073)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (448)](by-category/package-manager.md) · [Parser Lexer Ast (1222)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (314)](by-category/precommit-ci-quality.md)
 [Profiler (93)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (337)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (643)](by-category/static-analyzer.md)
+[Security Sast (338)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (25)](by-category/standard-library.md) · [Static Analyzer (643)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (629)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1648)](by-category/undefined-behavior-analyzer.md) · [Utility Library (104)](by-category/utility-library.md) · [Visualization Gui (604)](by-category/visualization-gui.md) · [Web Framework (494)](by-category/web-framework.md)
 
@@ -6146,6 +6146,7 @@
 | `github_search_assets-29da7ad3afa92b` | takushun-wu/WenJinMincho | [open](records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
 | `github_search_assets-29deacedf6252f` | adobe-fonts/source-serif | [open](records/assets-adobe-fonts-source-serif-d174881a.md) |
 | `github_search_assets-2a38b188845894` | Mathias-Boulay/Java-Mods-Optimizer | [open](records/assets-mathias-boulay-java-mods-optimizer-8e52f788.md) |
+| `github_search_assets-2acf9e3e7913ec` | johnfkoo951/cmds-eagle | [open](records/assets-johnfkoo951-cmds-eagle-35dff9df.md) |
 | `github_search_assets-2c23b9da58e76a` | hustvl/GaussianDreamerPro | [open](records/assets-hustvl-gaussiandreamerpro-3b33b5ad.md) |
 | `github_search_assets-2c5fbd75ec4baf` | mngshm/rxfetch | [open](records/assets-mngshm-rxfetch-4c26ed0b.md) |
 | `github_search_assets-2cb76818c8aad5` | Nieobie/game-icon-pack | [open](records/assets-nieobie-game-icon-pack-89be2753.md) |
@@ -9679,6 +9680,7 @@
 | `github_search_engines-a37d66c5d0b9c4` | dagucloud/dagu | [open](records/engines-dagucloud-dagu-55d5944a.md) |
 | `github_search_engines-a47bcaaf60d1ff` | skywind3000/RenderHelp | [open](records/engines-skywind3000-renderhelp-45e5a083.md) |
 | `github_search_engines-a4800348e14caf` | master-co/css | [open](records/engines-master-co-css-daa9361b.md) |
+| `github_search_engines-a5e034888ebfda` | oscar30gt/pulse | [open](records/engines-oscar30gt-pulse-8492c7a0.md) |
 | `github_search_engines-acdcbede7d65d1` | travisvroman/kohi | [open](records/engines-travisvroman-kohi-f653b0d5.md) |
 | `github_search_engines-ae9e52601f1b65` | bludit/bludit | [open](records/engines-bludit-bludit-8295a6ea.md) |
 | `github_search_engines-af0a5ceed4f5c5` | viewflow/viewflow | [open](records/engines-viewflow-viewflow-26a58ce9.md) |
@@ -10108,6 +10110,7 @@
 | `github_search_game_engines-9f994fffdaae7f` | thedmd/imgui-node-editor | [open](records/game-engines-thedmd-imgui-node-editor-2c997067.md) |
 | `github_search_game_engines-a0b1638c04f0d8` | kitao/pyxel | [open](records/game-engines-kitao-pyxel-3e315e56.md) |
 | `github_search_game_engines-a7b2d867faec2e` | emilk/egui | [open](records/game-engines-emilk-egui-3281d5d1.md) |
+| `github_search_game_engines-a82e766bea8800` | gmh5225/awesome-game-security | [open](records/game-engines-gmh5225-awesome-game-security-d9de4419.md) |
 | `github_search_game_engines-a96fcfda4b1b5d` | defold/defold | [open](records/game-engines-defold-defold-0ac0712d.md) |
 | `github_search_game_engines-a9fd5513140398` | libgdx/libgdx | [open](records/game-engines-libgdx-libgdx-f68bcec3.md) |
 | `github_search_game_engines-aa07f331a3e16f` | MovingBlocks/Terasology | [open](records/game-engines-movingblocks-terasology-efdac4a7.md) |
@@ -12897,6 +12900,7 @@
 | `github_search_physics_engines-51e6c32dd84ea3` | piqnt/planck.js | [open](records/physics-engines-piqnt-planck-js-c6c8f4fb.md) |
 | `github_search_physics_engines-5304918ea053b1` | Physics-Scaling/GeoPT | [open](records/physics-engines-physics-scaling-geopt-66352620.md) |
 | `github_search_physics_engines-534aecc52dcae2` | gaolongsen/multi-panel_mujoco-pyviewer | [open](records/physics-engines-gaolongsen-multi-panel-mujoco-pyviewer-ad0ad58c.md) |
+| `github_search_physics_engines-545f9f2b8b15e5` | MirroS-Lab/Code-as-World | [open](records/physics-engines-mirros-lab-code-as-world-1197d1f2.md) |
 | `github_search_physics_engines-547f8d78ec8546` | praxhna/3D_interactive_graphics_rendering_engine | [open](records/physics-engines-praxhna-3d-interactive-graphics-rendering-engine-4272b7af.md) |
 | `github_search_physics_engines-570d85fe5a4696` | saharan/OimoPhysics | [open](records/physics-engines-saharan-oimophysics-fa112ffe.md) |
 | `github_search_physics_engines-578a43b111322a` | vlvovch/PHYS6350-ComputationalPhysics | [open](records/physics-engines-vlvovch-phys6350-computationalphysics-a0a9e87d.md) |
@@ -12963,6 +12967,7 @@
 | `github_search_physics_engines-b70e596e08ed72` | dartsim/dart | [open](records/physics-engines-dartsim-dart-84ffc4ee.md) |
 | `github_search_physics_engines-b9d59162082af3` | fabmax/physx-jni | [open](records/physics-engines-fabmax-physx-jni-733428d2.md) |
 | `github_search_physics_engines-bb1a8ceb808c52` | juniorrojas/algovivo | [open](records/physics-engines-juniorrojas-algovivo-dba914da.md) |
+| `github_search_physics_engines-bba59d3de8d7c2` | NeLy-EPFL/flygym | [open](records/physics-engines-nely-epfl-flygym-f7fba955.md) |
 | `github_search_physics_engines-bc75f4a794c594` | sicmutils/sicmutils | [open](records/physics-engines-sicmutils-sicmutils-f64b46b3.md) |
 | `github_search_physics_engines-bd924e7f97e9d3` | quinton-ashley/p5play | [open](records/physics-engines-quinton-ashley-p5play-0c12631c.md) |
 | `github_search_physics_engines-c07b34b7d1bacd` | viblo/pymunk | [open](records/physics-engines-viblo-pymunk-077839b1.md) |

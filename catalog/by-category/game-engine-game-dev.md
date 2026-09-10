@@ -13,16 +13,16 @@ Records: `361`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · **[Game Engine Game Dev (361)](game-engine-game-dev.md)** · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -190,7 +190,7 @@ Records: `361`
 | nipy/nipype | partial | 2026-09-03T16:50:20Z | [open](../records/engines-nipy-nipype-a54069eb.md) |
 | obeli-sk/obelisk | partial | 2026-09-04T09:53:20Z | [open](../records/engines-obeli-sk-obelisk-d9fd16a7.md) |
 | OpenDiablo2/OpenDiablo2 | partial | 2021-10-21T13:18:36Z | [open](../records/engines-opendiablo2-opendiablo2-5f4517bb.md) |
-| openfootmanager/openfootmanager | partial | 2026-09-04T11:09:07Z | [open](../records/engines-openfootmanager-openfootmanager-ac13f333.md) |
+| openfootmanager/openfootmanager | partial | 2026-09-10T02:34:57Z | [open](../records/engines-openfootmanager-openfootmanager-ac13f333.md) |
 | OpenXRay/xray-16 | partial | 2026-07-30T00:54:11Z | [open](../records/engines-openxray-xray-16-df29fdff.md) |
 | optimajet/WorkflowEngine.NET | partial | 2026-08-18T15:16:18Z | [open](../records/engines-optimajet-workflowengine-net-d3178bcb.md) |
 | Pantong51/GASContent | partial | 2022-11-07T14:12:56Z | [open](../records/engines-pantong51-gascontent-68545fdd.md) |
@@ -216,28 +216,28 @@ Records: `361`
 | --- | --- | --- | --- |
 | amethyst/specs-physics | partial | 2020-05-04T12:46:13Z | [open](../records/physics-engines-amethyst-specs-physics-3048e624.md) |
 | anuraghazra/Atomic.js | partial | 2023-01-07T06:38:41Z | [open](../records/physics-engines-anuraghazra-atomic-js-10573c94.md) |
-| apistol78/traktor | partial | 2026-09-04T12:56:57Z | [open](../records/physics-engines-apistol78-traktor-5b8e37ae.md) |
-| avianphysics/avian | partial | 2026-08-31T11:32:10Z | [open](../records/physics-engines-avianphysics-avian-130b97c3.md) |
+| apistol78/traktor | partial | 2026-09-09T21:27:43Z | [open](../records/physics-engines-apistol78-traktor-5b8e37ae.md) |
+| avianphysics/avian | partial | 2026-09-08T11:44:56Z | [open](../records/physics-engines-avianphysics-avian-130b97c3.md) |
 | b-g/p5-matter-examples | partial | 2026-04-02T08:24:56Z | [open](../records/physics-engines-b-g-p5-matter-examples-b8f84cad.md) |
-| BeRo1985/kraft | partial | 2026-08-09T05:39:02Z | [open](../records/physics-engines-bero1985-kraft-47e98b3a.md) |
+| BeRo1985/kraft | partial | 2026-09-09T21:53:54Z | [open](../records/physics-engines-bero1985-kraft-47e98b3a.md) |
 | Box2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-box2d-237b7889.md) |
 | Bullet Physics | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-bullet-physics-9d2ea309.md) |
 | ByteArena/box2d | partial | 2020-09-05T02:40:06Z | [open](../records/physics-engines-bytearena-box2d-34e4f663.md) |
 | Chipmunk2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-chipmunk2d-2e5fd06d.md) |
-| chrxh/alien | partial | 2026-09-04T06:28:40Z | [open](../records/physics-engines-chrxh-alien-3b27ff54.md) |
-| cyberbotics/webots | partial | 2026-09-03T23:17:59Z | [open](../records/physics-engines-cyberbotics-webots-60d233be.md) |
+| chrxh/alien | partial | 2026-09-09T19:23:55Z | [open](../records/physics-engines-chrxh-alien-3b27ff54.md) |
+| cyberbotics/webots | partial | 2026-09-10T03:23:20Z | [open](../records/physics-engines-cyberbotics-webots-60d233be.md) |
 | dimforge/nphysics | partial | 2021-07-27T08:26:13Z | [open](../records/physics-engines-dimforge-nphysics-de907eea.md) |
 | dyn4j/dyn4j | partial | 2026-07-18T04:07:12Z | [open](../records/physics-engines-dyn4j-dyn4j-298d27ba.md) |
 | ehsanwwe/Unity-SoftBody-physics | partial | 2024-02-01T08:29:27Z | [open](../records/physics-engines-ehsanwwe-unity-softbody-physics-5d1461e6.md) |
 | erayzesen/QuarkPhysics | partial | 2025-10-17T06:34:37Z | [open](../records/physics-engines-erayzesen-quarkphysics-f7cee1a0.md) |
-| fegennari/3DWorld | partial | 2026-09-04T06:56:48Z | [open](../records/physics-engines-fegennari-3dworld-3b5f258b.md) |
+| fegennari/3DWorld | partial | 2026-09-08T05:21:56Z | [open](../records/physics-engines-fegennari-3dworld-3b5f258b.md) |
 | felipeek/raw-physics | partial | 2024-01-19T03:07:27Z | [open](../records/physics-engines-felipeek-raw-physics-493d9531.md) |
 | fenomas/voxel-physics-engine | partial | 2024-03-15T11:10:16Z | [open](../records/physics-engines-fenomas-voxel-physics-engine-e62b65d1.md) |
 | FormidableLabs/react-game-kit | partial | 2023-01-04T16:18:43Z | [open](../records/physics-engines-formidablelabs-react-game-kit-2f0bba98.md) |
 | gbionics/jaxsim | partial | 2026-09-01T13:56:56Z | [open](../records/physics-engines-gbionics-jaxsim-434cab27.md) |
 | gecko0307/dmech | partial | 2025-01-11T15:29:20Z | [open](../records/physics-engines-gecko0307-dmech-63ed4536.md) |
 | godot-jolt/godot-jolt | partial | 2026-03-16T08:52:54Z | [open](../records/physics-engines-godot-jolt-godot-jolt-55a60520.md) |
-| gurkenlabs/litiengine | partial | 2026-09-02T19:10:10Z | [open](../records/physics-engines-gurkenlabs-litiengine-6c5fa688.md) |
+| gurkenlabs/litiengine | partial | 2026-09-06T11:12:41Z | [open](../records/physics-engines-gurkenlabs-litiengine-6c5fa688.md) |
 | hannojg/react-native-box2d | partial | 2023-03-17T14:23:43Z | [open](../records/physics-engines-hannojg-react-native-box2d-2ae3a365.md) |
 | Hykudoru/Pescado-3D-Engine | partial | 2025-12-04T19:59:18Z | [open](../records/physics-engines-hykudoru-pescado-3d-engine-1dc8c396.md) |
 | Jolt Physics | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-jolt-physics-3ac5b243.md) |
@@ -248,7 +248,7 @@ Records: `361`
 | maplant/mgf | partial | 2020-04-27T18:57:23Z | [open](../records/physics-engines-maplant-mgf-22de4d2f.md) |
 | MichaelTMatthews/Jax2D | partial | 2026-04-20T08:59:00Z | [open](../records/physics-engines-michaeltmatthews-jax2d-f40911ea.md) |
 | NVIDIA PhysX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-nvidia-physx-8fd4adec.md) |
-| NVIDIAGameWorks/kaolin | partial | 2026-09-03T01:12:53Z | [open](../records/physics-engines-nvidiagameworks-kaolin-85fc233b.md) |
+| NVIDIAGameWorks/kaolin | partial | 2026-09-09T05:55:59Z | [open](../records/physics-engines-nvidiagameworks-kaolin-85fc233b.md) |
 | Open Dynamics Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/physics-engines-open-dynamics-engine-1018dfe4.md) |
 | openfl/box2d | partial | 2026-08-06T16:15:07Z | [open](../records/physics-engines-openfl-box2d-25afde36.md) |
 | passiomatic/sunny-land | partial | 2025-12-03T16:50:20Z | [open](../records/physics-engines-passiomatic-sunny-land-277f4acb.md) |
@@ -271,48 +271,48 @@ Records: `361`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 00-Evan/shattered-pixel-dungeon | partial | 2026-08-15T14:52:52Z | [open](../records/game-engines-00-evan-shattered-pixel-dungeon-29beff16.md) |
+| 00-Evan/shattered-pixel-dungeon | partial | 2026-09-09T17:20:49Z | [open](../records/game-engines-00-evan-shattered-pixel-dungeon-29beff16.md) |
 | AlmasB/FXGL | partial | 2026-07-01T14:39:51Z | [open](../records/game-engines-almasb-fxgl-e7b4c225.md) |
 | AmbientRun/Ambient | partial | 2025-01-07T09:48:53Z | [open](../records/game-engines-ambientrun-ambient-ff6b0404.md) |
 | amethyst/amethyst | partial | 2021-12-06T18:23:49Z | [open](../records/game-engines-amethyst-amethyst-54a05aa3.md) |
-| armory3d/armory | partial | 2026-07-16T06:31:41Z | [open](../records/game-engines-armory3d-armory-8c64e938.md) |
+| armory3d/armory | partial | 2026-09-09T11:57:47Z | [open](../records/game-engines-armory3d-armory-8c64e938.md) |
 | aws/lumberyard | partial | 2022-09-29T16:48:54Z | [open](../records/game-engines-aws-lumberyard-09cafaf4.md) |
-| BabylonJS/Babylon.js | partial | 2026-09-03T18:45:04Z | [open](../records/game-engines-babylonjs-babylon-js-bee87a1e.md) |
+| BabylonJS/Babylon.js | partial | 2026-09-10T00:00:57Z | [open](../records/game-engines-babylonjs-babylon-js-bee87a1e.md) |
 | bberak/react-native-game-engine | partial | 2024-12-31T04:31:45Z | [open](../records/game-engines-bberak-react-native-game-engine-d45a35a6.md) |
 | Bevy | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-bevy-60c1e426.md) |
-| bjornbytes/lovr | partial | 2026-09-03T06:33:25Z | [open](../records/game-engines-bjornbytes-lovr-f2582cf2.md) |
+| bjornbytes/lovr | partial | 2026-09-08T21:27:18Z | [open](../records/game-engines-bjornbytes-lovr-f2582cf2.md) |
 | BoomingTech/Piccolo | partial | 2024-09-30T07:32:52Z | [open](../records/game-engines-boomingtech-piccolo-e2075cff.md) |
 | Calinou/awesome-godot | partial | 2026-09-01T12:31:14Z | [open](../records/game-engines-calinou-awesome-godot-88886215.md) |
 | CharlesPikachu/Games | partial | 2024-07-25T16:56:33Z | [open](../records/game-engines-charlespikachu-games-f4a6529d.md) |
 | Cocos2d-x | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-cocos2d-x-e1a83bf7.md) |
 | dawdle-deer/awesome-learn-gamedev | partial | 2026-06-01T23:12:11Z | [open](../records/game-engines-dawdle-deer-awesome-learn-gamedev-eaa823a2.md) |
 | Defold | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-defold-d45c4b4f.md) |
-| defold/defold | partial | 2026-09-04T17:13:04Z | [open](../records/game-engines-defold-defold-0ac0712d.md) |
-| endless-sky/endless-sky | partial | 2026-09-02T10:46:35Z | [open](../records/game-engines-endless-sky-endless-sky-d268ae4d.md) |
+| defold/defold | partial | 2026-09-09T21:54:07Z | [open](../records/game-engines-defold-defold-0ac0712d.md) |
+| endless-sky/endless-sky | partial | 2026-09-09T18:50:06Z | [open](../records/game-engines-endless-sky-endless-sky-d268ae4d.md) |
 | EQMG/Acid | partial | 2023-09-21T04:41:02Z | [open](../records/game-engines-eqmg-acid-71537f30.md) |
-| evennia/evennia | partial | 2026-09-02T16:45:06Z | [open](../records/game-engines-evennia-evennia-5fb1bb6c.md) |
-| ezEngine/ezEngine | partial | 2026-09-04T14:51:09Z | [open](../records/game-engines-ezengine-ezengine-83c3e700.md) |
-| flame-engine/flame | partial | 2026-09-03T23:57:31Z | [open](../records/game-engines-flame-engine-flame-262cddbd.md) |
-| FlaxEngine/FlaxEngine | partial | 2026-09-02T21:27:55Z | [open](../records/game-engines-flaxengine-flaxengine-6d42abc3.md) |
-| FWGS/xash3d-fwgs | partial | 2026-09-04T14:41:39Z | [open](../records/game-engines-fwgs-xash3d-fwgs-6e84288e.md) |
-| FyroxEngine/Fyrox | partial | 2026-09-04T17:02:38Z | [open](../records/game-engines-fyroxengine-fyrox-86c81ff7.md) |
+| evennia/evennia | partial | 2026-09-09T13:02:17Z | [open](../records/game-engines-evennia-evennia-5fb1bb6c.md) |
+| ezEngine/ezEngine | partial | 2026-09-09T07:25:15Z | [open](../records/game-engines-ezengine-ezengine-83c3e700.md) |
+| flame-engine/flame | partial | 2026-09-09T07:41:31Z | [open](../records/game-engines-flame-engine-flame-262cddbd.md) |
+| FlaxEngine/FlaxEngine | partial | 2026-09-09T05:20:01Z | [open](../records/game-engines-flaxengine-flaxengine-6d42abc3.md) |
+| FWGS/xash3d-fwgs | partial | 2026-09-09T16:21:08Z | [open](../records/game-engines-fwgs-xash3d-fwgs-6e84288e.md) |
+| FyroxEngine/Fyrox | partial | 2026-09-08T17:37:37Z | [open](../records/game-engines-fyroxengine-fyrox-86c81ff7.md) |
 | ggez/ggez | partial | 2026-08-24T21:20:24Z | [open](../records/game-engines-ggez-ggez-4eabd373.md) |
 | Godot Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-godot-engine-a4802128.md) |
-| godotengine/godot | partial | 2026-09-04T14:14:56Z | [open](../records/game-engines-godotengine-godot-b93241b2.md) |
-| htdt/godogen | partial | 2026-07-26T18:44:23Z | [open](../records/game-engines-htdt-godogen-eb733000.md) |
+| godotengine/godot | partial | 2026-09-09T19:59:14Z | [open](../records/game-engines-godotengine-godot-b93241b2.md) |
+| htdt/godogen | partial | 2026-09-04T17:30:18Z | [open](../records/game-engines-htdt-godogen-eb733000.md) |
 | in0finite/SanAndreasUnity | partial | 2023-06-16T14:51:41Z | [open](../records/game-engines-in0finite-sanandreasunity-568062bf.md) |
-| isadorasophia/murder | partial | 2026-09-03T07:09:45Z | [open](../records/game-engines-isadorasophia-murder-d111932d.md) |
+| isadorasophia/murder | partial | 2026-09-10T00:04:28Z | [open](../records/game-engines-isadorasophia-murder-d111932d.md) |
 | jynew/jynew | partial | 2026-03-25T01:07:55Z | [open](../records/game-engines-jynew-jynew-064bf193.md) |
 | killop/anything_about_game | partial | 2026-08-31T03:38:38Z | [open](../records/game-engines-killop-anything-about-game-cf2472cd.md) |
-| kitao/pyxel | partial | 2026-08-30T05:40:48Z | [open](../records/game-engines-kitao-pyxel-3e315e56.md) |
+| kitao/pyxel | partial | 2026-09-06T16:54:02Z | [open](../records/game-engines-kitao-pyxel-3e315e56.md) |
 | libGDX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-libgdx-b036892d.md) |
 | Love2D | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-love2d-7dc38d2c.md) |
 | love2d-community/awesome-love2d | partial | 2026-08-23T19:12:18Z | [open](../records/game-engines-love2d-community-awesome-love2d-ba277ef4.md) |
 | love2d/love | partial | 2026-09-04T14:47:23Z | [open](../records/game-engines-love2d-love-585b9f75.md) |
-| magefree/mage | partial | 2026-09-03T18:04:10Z | [open](../records/game-engines-magefree-mage-9e8f6c37.md) |
+| magefree/mage | partial | 2026-09-10T01:51:39Z | [open](../records/game-engines-magefree-mage-9e8f6c37.md) |
 | mhxion/awesome-discord-communities | partial | 2026-04-25T19:09:39Z | [open](../records/game-engines-mhxion-awesome-discord-communities-f039058d.md) |
 | munificent/game-programming-patterns | partial | 2024-07-21T23:27:15Z | [open](../records/game-engines-munificent-game-programming-patterns-42e10199.md) |
-| nem0/LumixEngine | partial | 2026-09-04T13:22:32Z | [open](../records/game-engines-nem0-lumixengine-1e45d64d.md) |
+| nem0/LumixEngine | partial | 2026-09-09T22:24:58Z | [open](../records/game-engines-nem0-lumixengine-1e45d64d.md) |
 | Nukem9/dlssg-to-fsr3 | partial | 2025-03-16T18:56:26Z | [open](../records/game-engines-nukem9-dlssg-to-fsr3-18a05ea6.md) |
 | O3DE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-o3de-5c2f5359.md) |
 | OpenDiablo2/OpenDiablo2 | partial | 2021-10-21T13:18:36Z | [open](../records/game-engines-opendiablo2-opendiablo2-d8c6d72b.md) |
@@ -323,16 +323,16 @@ Records: `361`
 | piqnt/planck.js | partial | 2026-04-07T12:29:53Z | [open](../records/game-engines-piqnt-planck-js-cb96944f.md) |
 | pokepetter/ursina | partial | 2026-09-01T18:02:54Z | [open](../records/game-engines-pokepetter-ursina-42d8b633.md) |
 | QianMo/Unity-Design-Pattern | partial | 2020-02-06T05:00:57Z | [open](../records/game-engines-qianmo-unity-design-pattern-aab4b0fb.md) |
-| ramokz/phantom-camera | partial | 2026-09-01T20:36:49Z | [open](../records/game-engines-ramokz-phantom-camera-2b551fee.md) |
-| Redot-Engine/redot-engine | partial | 2026-09-04T14:01:01Z | [open](../records/game-engines-redot-engine-redot-engine-23eae5f1.md) |
+| ramokz/phantom-camera | partial | 2026-09-07T17:15:42Z | [open](../records/game-engines-ramokz-phantom-camera-2b551fee.md) |
+| Redot-Engine/redot-engine | partial | 2026-09-09T21:16:22Z | [open](../records/game-engines-redot-engine-redot-engine-23eae5f1.md) |
 | Ren'Py | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-ren-py-e43fed33.md) |
-| renpy/renpy | partial | 2026-09-04T09:42:00Z | [open](../records/game-engines-renpy-renpy-17d7fb81.md) |
+| renpy/renpy | partial | 2026-09-10T02:58:57Z | [open](../records/game-engines-renpy-renpy-17d7fb81.md) |
 | RyanNielson/awesome-unity | partial | 2025-01-22T15:47:15Z | [open](../records/game-engines-ryannielson-awesome-unity-828d865a.md) |
 | SFTtech/openage | partial | 2026-07-04T10:38:52Z | [open](../records/game-engines-sfttech-openage-5ac23ea3.md) |
 | skywind3000/mini3d | partial | 2024-09-23T16:16:14Z | [open](../records/game-engines-skywind3000-mini3d-60dd9064.md) |
 | Stride | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-stride-b11d3335.md) |
 | ThisisGame/cpp-game-engine-book | partial | 2024-04-19T16:28:18Z | [open](../records/game-engines-thisisgame-cpp-game-engine-book-db77adf2.md) |
-| turanszkij/WickedEngine | partial | 2026-08-31T15:27:47Z | [open](../records/game-engines-turanszkij-wickedengine-f57cd72b.md) |
+| turanszkij/WickedEngine | partial | 2026-09-08T13:05:55Z | [open](../records/game-engines-turanszkij-wickedengine-f57cd72b.md) |
 | Unity | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unity-4dc4dccb.md) |
 | Unreal Engine | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/game-engines-unreal-engine-1ab0de2d.md) |
 | urho3d/urho3d | partial | 2023-01-25T17:29:02Z | [open](../records/game-engines-urho3d-urho3d-87662fca.md) |
@@ -343,7 +343,7 @@ Records: `361`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Nieobie/game-icon-pack | partial | 2026-08-02T17:56:01Z | [open](../records/icons-and-logos-nieobie-game-icon-pack-603bee7d.md) |
-| seiyria/gameicons-font | partial | 2026-09-04T12:27:39Z | [open](../records/icons-and-logos-seiyria-gameicons-font-9f2f24cd.md) |
+| seiyria/gameicons-font | partial | 2026-09-09T12:39:56Z | [open](../records/icons-and-logos-seiyria-gameicons-font-9f2f24cd.md) |
 | Shinmera/promptfont | partial | 2026-05-17T17:45:11Z | [open](../records/icons-and-logos-shinmera-promptfont-e3c184c0.md) |
 
 ## Font Briefcase

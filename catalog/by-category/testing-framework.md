@@ -13,16 +13,16 @@ Records: `629`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1495)](ide-editor-integration.md)
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (629)](testing-framework.md)** · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -223,7 +223,7 @@ Records: `629`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.33 | 2026-09-09T22:24:16.829Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.34 | 2026-09-10T03:17:11.695Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -343,7 +343,7 @@ Records: `629`
 | playwright-testing-library | 4.5.0 | 2022-09-28T08:32:05.154Z | [open](../records/node-js-javascript-playwright-testing-library-85614bd4.md) |
 | pptr-testing-library | 0.8.0 | 2024-03-07T17:41:18.523Z | [open](../records/node-js-javascript-pptr-testing-library-a2884268.md) |
 | prisma-mock | 1.1.0 | 2026-02-18T15:22:38.845Z | [open](../records/node-js-javascript-prisma-mock-3dd24403.md) |
-| promptfoo | 0.122.2 | 2026-08-28T07:14:22.908Z | [open](../records/node-js-javascript-promptfoo-abf6f009.md) |
+| promptfoo | 0.123.0 | 2026-09-10T02:45:00.917Z | [open](../records/node-js-javascript-promptfoo-abf6f009.md) |
 | pseudo-localization | 3.1.2 | 2026-04-12T12:09:32.752Z | [open](../records/node-js-javascript-pseudo-localization-f7e6a0eb.md) |
 | qunit | 2.26.0 | 2026-06-01T04:14:37.006Z | [open](../records/node-js-javascript-qunit-96c25450.md) |
 | react-dom-testing | 1.12.0 | 2022-12-14T09:37:15.860Z | [open](../records/node-js-javascript-react-dom-testing-487acff1.md) |
@@ -551,10 +551,10 @@ Records: `629`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | partial | 2026-09-01T20:28:29Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -580,7 +580,7 @@ Records: `629`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | IvanMurzak/Unity-MCP | partial | 2026-09-04T11:07:32Z | [open](../records/game-engines-ivanmurzak-unity-mcp-d62d2f35.md) |
-| luanti-org/luanti | partial | 2026-09-04T15:15:10Z | [open](../records/game-engines-luanti-org-luanti-3688bb03.md) |
+| luanti-org/luanti | partial | 2026-09-08T18:48:36Z | [open](../records/game-engines-luanti-org-luanti-3688bb03.md) |
 
 ## Icons and Logos
 

@@ -13,16 +13,16 @@ Records: `1495`
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (136)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (180)](cryptography.md) · [Data Science (39)](data-science.md) · [Database Datastore (974)](database-datastore.md) · [Datetime (241)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (44)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (64)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1663)](filesystem-os.md) · [Formatter (658)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
+[Embedded Hardware (65)](embedded-hardware.md) · [Ffi Bindings (471)](ffi-bindings.md) · [Filesystem Os (1664)](filesystem-os.md) · [Formatter (658)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · **[Ide Editor Integration (1495)](ide-editor-integration.md)**
-[Image Audio Dsp (443)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Image Audio Dsp (444)](image-audio-dsp.md) · [Interop Bindings (63)](interop-bindings.md) · [Interpreter Runtime (280)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1459)](language-specification.md) · [Library (5925)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (349)](linter.md) · [Logging Observability (540)](logging-observability.md) · [Machine Learning (829)](machine-learning.md)
 [Math Numeric Scientific (90)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1073)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (448)](package-manager.md) · [Parser Lexer Ast (1222)](parser-lexer-ast.md) · [Precommit Ci Quality (314)](precommit-ci-quality.md)
 [Profiler (93)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (337)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
+[Security Sast (338)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (25)](standard-library.md) · [Static Analyzer (643)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (629)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
 [Undefined Behavior Analyzer (1648)](undefined-behavior-analyzer.md) · [Utility Library (104)](utility-library.md) · [Visualization Gui (604)](visualization-gui.md) · [Web Framework (494)](web-framework.md)
 
@@ -682,20 +682,20 @@ Records: `1495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | partial | 2026-09-07T03:26:21Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-09T20:31:48Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-10T01:52:09Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-10T03:21:28Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-05T16:04:02Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-10T02:19:54Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-10T00:25:36Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-10T00:08:27Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-10T03:11:47Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-10T03:08:54Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-10T02:03:29Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -733,8 +733,8 @@ Records: `1495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| freezy/VisualPinball.Engine | partial | 2026-09-02T23:18:10Z | [open](../records/physics-engines-freezy-visualpinball-engine-fc9f3475.md) |
-| iluaii/fwm | partial | 2026-09-04T15:45:18Z | [open](../records/physics-engines-iluaii-fwm-dc80ab13.md) |
+| freezy/VisualPinball.Engine | partial | 2026-09-09T20:41:59Z | [open](../records/physics-engines-freezy-visualpinball-engine-fc9f3475.md) |
+| iluaii/fwm | partial | 2026-09-09T09:14:03Z | [open](../records/physics-engines-iluaii-fwm-dc80ab13.md) |
 | johannes-do/multiplayer-babylon-js-game | partial | 2022-12-10T16:10:43Z | [open](../records/physics-engines-johannes-do-multiplayer-babylon-js-game-0189ac60.md) |
 | JordiCorbilla/thundax-delphi-physics-engine | partial | 2025-02-09T19:10:27Z | [open](../records/physics-engines-jordicorbilla-thundax-delphi-physics-engine-1f15f884.md) |
 | Mati365/micro-racing | partial | 2024-08-05T05:13:10Z | [open](../records/physics-engines-mati365-micro-racing-66c9923f.md) |
@@ -742,26 +742,26 @@ Records: `1495`
 | stevenlsw/physgen | partial | 2024-10-24T22:10:07Z | [open](../records/physics-engines-stevenlsw-physgen-04c29129.md) |
 | THU-SI/Physics3D | partial | 2024-06-12T10:28:25Z | [open](../records/physics-engines-thu-si-physics3d-940fe5e2.md) |
 | victorfisac/Physac | partial | 2024-10-20T15:16:31Z | [open](../records/physics-engines-victorfisac-physac-872bee73.md) |
-| vpdb/vpx-js | partial | 2026-08-26T16:07:04Z | [open](../records/physics-engines-vpdb-vpx-js-28bfe6a9.md) |
+| vpdb/vpx-js | partial | 2026-09-07T02:35:16Z | [open](../records/physics-engines-vpdb-vpx-js-28bfe6a9.md) |
 
 ## Game Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CoplayDev/unity-mcp | partial | 2026-09-02T23:25:12Z | [open](../records/game-engines-coplaydev-unity-mcp-39755166.md) |
+| CoplayDev/unity-mcp | partial | 2026-09-05T21:16:30Z | [open](../records/game-engines-coplaydev-unity-mcp-39755166.md) |
 | deepnight/ldtk | partial | 2026-07-12T13:55:51Z | [open](../records/game-engines-deepnight-ldtk-09980ea4.md) |
 | dfranx/SHADERed | partial | 2023-09-22T16:07:30Z | [open](../records/game-engines-dfranx-shadered-98539cf9.md) |
 | donnemartin/awesome-aws | partial | 2024-03-12T09:29:54Z | [open](../records/game-engines-donnemartin-awesome-aws-e4f374ad.md) |
 | gen2brain/raylib-go | partial | 2026-08-15T04:23:13Z | [open](../records/game-engines-gen2brain-raylib-go-a72c0456.md) |
-| KaijuEngine/kaiju | partial | 2026-08-29T08:18:09Z | [open](../records/game-engines-kaijuengine-kaiju-b0e7a98f.md) |
+| KaijuEngine/kaiju | partial | 2026-09-08T08:22:19Z | [open](../records/game-engines-kaijuengine-kaiju-b0e7a98f.md) |
 | Kavex/GameDev-Resources | partial | 2026-04-10T19:20:30Z | [open](../records/game-engines-kavex-gamedev-resources-6c6ff6f7.md) |
 | lettier/3d-game-shaders-for-beginners | partial | 2023-06-25T21:58:57Z | [open](../records/game-engines-lettier-3d-game-shaders-for-beginners-c97f2e28.md) |
-| mapeditor/tiled | partial | 2026-09-02T19:00:16Z | [open](../records/game-engines-mapeditor-tiled-4fb699d8.md) |
+| mapeditor/tiled | partial | 2026-09-07T15:00:16Z | [open](../records/game-engines-mapeditor-tiled-4fb699d8.md) |
 | opentk/opentk | partial | 2026-08-05T12:29:20Z | [open](../records/game-engines-opentk-opentk-5bd354d6.md) |
 | P1xt/p1xt-guides | partial | 2026-01-03T19:47:46Z | [open](../records/game-engines-p1xt-p1xt-guides-29b75ed6.md) |
-| PixiEditor/PixiEditor | partial | 2026-09-04T11:22:11Z | [open](../records/game-engines-pixieditor-pixieditor-d7027f2d.md) |
-| raysan5/raylib | partial | 2026-09-04T16:24:24Z | [open](../records/game-engines-raysan5-raylib-7f6a2c99.md) |
-| stride3d/stride | partial | 2026-09-03T09:16:03Z | [open](../records/game-engines-stride3d-stride-6e2b854d.md) |
+| PixiEditor/PixiEditor | partial | 2026-09-09T11:00:24Z | [open](../records/game-engines-pixieditor-pixieditor-d7027f2d.md) |
+| raysan5/raylib | partial | 2026-09-08T16:22:32Z | [open](../records/game-engines-raysan5-raylib-7f6a2c99.md) |
+| stride3d/stride | partial | 2026-09-09T13:26:21Z | [open](../records/game-engines-stride3d-stride-6e2b854d.md) |
 | thedmd/imgui-node-editor | partial | 2026-03-29T08:34:57Z | [open](../records/game-engines-thedmd-imgui-node-editor-2c997067.md) |
 
 ## Icons and Logos
@@ -780,7 +780,7 @@ Records: `1495`
 | hendurhance/ui-ux | partial | 2026-08-14T00:18:35Z | [open](../records/icons-and-logos-hendurhance-ui-ux-127977c6.md) |
 | hunghg255/reactjs-tiptap-editor | partial | 2026-08-15T23:29:40Z | [open](../records/icons-and-logos-hunghg255-reactjs-tiptap-editor-f3e43edb.md) |
 | juliettef/IconFontCppHeaders | partial | 2026-06-05T09:06:02Z | [open](../records/icons-and-logos-juliettef-iconfontcppheaders-8f33aea4.md) |
-| lucide-icons/lucide | partial | 2026-09-04T15:42:04Z | [open](../records/icons-and-logos-lucide-icons-lucide-d5375c95.md) |
+| lucide-icons/lucide | partial | 2026-09-09T21:05:35Z | [open](../records/icons-and-logos-lucide-icons-lucide-d5375c95.md) |
 | maoschanz/emoji-selector-for-gnome | partial | 2023-09-01T13:48:56Z | [open](../records/icons-and-logos-maoschanz-emoji-selector-for-gnome-f3647b28.md) |
 | neutraltone/awesome-stock-resources | partial | 2026-02-11T22:01:53Z | [open](../records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) |
 | nvim-tree/nvim-web-devicons | partial | 2026-08-30T23:11:57Z | [open](../records/icons-and-logos-nvim-tree-nvim-web-devicons-6083b38a.md) |
@@ -1360,7 +1360,7 @@ Records: `1495`
 | MarcHamamji/runner.nvim | partial | 2025-03-04T10:42:26Z | [open](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | MironPascalCaseFan/rittli.nvim | partial | 2024-11-29T13:40:56Z | [open](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | Mirsmog/real-icons.nvim | partial | 2026-08-04T22:30:42Z | [open](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
-| mrcjkb/haskell-tools.nvim | partial | 2026-09-09T00:29:37Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
+| mrcjkb/haskell-tools.nvim | partial | 2026-09-10T00:20:51Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | mrcjkb/telescope-manix | partial | 2026-09-06T00:27:41Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
@@ -1393,7 +1393,7 @@ Records: `1495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-07T15:02:35Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-10T00:42:50Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | bgin/RF-EMT | partial | 2026-09-07T11:32:58Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |
@@ -1460,7 +1460,7 @@ Records: `1495`
 | --- | --- | --- | --- |
 | abhiramAjay/Self-Healing-Repertoire-Engine | partial | 2026-02-05T07:43:18Z | [open](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) |
 | gastroph/Rock-Band-DLC---Leaderboards-App-for-Android | partial | 2010-04-16T20:13:37Z | [open](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) |
-| heylabs-co/dev-tools-portal | partial | 2026-09-09T20:50:01Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
+| heylabs-co/dev-tools-portal | partial | 2026-09-10T02:20:14Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
 | jasondentler/wild-catalog | partial | 2026-07-05T03:54:55Z | [open](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) |
 | pesnik/flask-repertoire | partial | 2025-03-13T21:08:48Z | [open](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) |
 | pesnik/gin-repertoire | partial | 2025-03-13T23:17:07Z | [open](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) |
