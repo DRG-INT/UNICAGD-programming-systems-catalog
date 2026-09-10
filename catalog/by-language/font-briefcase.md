@@ -1,6 +1,6 @@
 # Font Briefcase
 
-Records: `267`
+Records: `272`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `267`
 ## Category Index
 
 [Api Abi Checker (232)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1030)](../by-category/build-system.md) · [Cli (588)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](../by-category/benchmarking.md) · [Build System (1031)](../by-category/build-system.md) · [Cli (588)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](../by-category/community-reference.md) · [Compiler (176)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (53)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (138)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (181)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (976)](../by-category/database-datastore.md) · [Datetime (242)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (108)](../by-category/dependency-manager.md) · [Documentation (112)](../by-category/documentation.md)
-[Embedded Hardware (66)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
-[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (67)](../by-category/embedded-hardware.md) · [Ffi Bindings (472)](../by-category/ffi-bindings.md) · [Filesystem Os (1678)](../by-category/filesystem-os.md) · [Formatter (662)](../by-category/formatter.md)
+[Framework (63)](../by-category/framework.md) · [Fuzzer (60)](../by-category/fuzzer.md) · [Game Engine Game Dev (361)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](../by-category/image-audio-dsp.md) · [Interop Bindings (64)](../by-category/interop-bindings.md) · [Interpreter Runtime (281)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5968)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1463)](../by-category/language-specification.md) · [Library (5969)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (349)](../by-category/linter.md) · [Logging Observability (541)](../by-category/logging-observability.md) · [Machine Learning (834)](../by-category/machine-learning.md)
 [Math Numeric Scientific (93)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1076)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (449)](../by-category/package-manager.md) · [Parser Lexer Ast (1227)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (339)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (658)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (635)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](../by-category/tutorial-book-styleguide.md) · [Type Checker (315)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1649)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1650)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](../by-category/utility-library.md) · [Visualization Gui (614)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -53,6 +53,7 @@ Records: `267`
 | [jeerbl/webfonts-loader](../records/font-briefcase-jeerbl-webfonts-loader-b2ca96b0.md) | partial | 2026-02-18T00:54:53Z | registry-derived |
 | [JohnWong/IconFont](../records/font-briefcase-johnwong-iconfont-e032663b.md) | partial | 2016-07-11T10:11:02Z | registry-derived |
 | [jonpalmisc/vfit](../records/font-briefcase-jonpalmisc-vfit-7eca3de3.md) | partial | 2022-02-25T02:57:24Z | registry-derived |
+| [JWo1F/icofon](../records/font-briefcase-jwo1f-icofon-54386932.md) | partial | 2026-09-09T22:05:18Z | registry-derived |
 | [M5ez/M5ez](../records/font-briefcase-m5ez-m5ez-cbabb89d.md) | partial | 2022-11-11T13:40:06Z | registry-derived |
 | [microsoft/maker.js](../records/font-briefcase-microsoft-maker-js-eecfad86.md) | partial | 2026-08-25T23:57:42Z | registry-derived |
 | [Numbersf/MakeFontsGreatAgain](../records/font-briefcase-numbersf-makefontsgreatagain-492d22b2.md) | partial | 2026-09-03T05:03:55Z | registry-derived |
@@ -112,11 +113,17 @@ Records: `267`
 | --- | --- | --- | --- |
 | [ctrlcctrlv/some-time-later](../records/font-briefcase-ctrlcctrlv-some-time-later-e915329f.md) | partial | 2020-12-14T20:47:28Z | registry-derived |
 
+### Embedded Hardware
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [Fetten/woff2base64](../records/font-briefcase-fetten-woff2base64-b109c5b0.md) | partial | 2020-07-17T10:21:50Z | registry-derived |
+
 ### Ffi Bindings
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [twbs/icons](../records/font-briefcase-twbs-icons-623c4160.md) | partial | 2026-09-09T22:34:29Z | registry-derived |
+| [twbs/icons](../records/font-briefcase-twbs-icons-623c4160.md) | partial | 2026-09-09T23:56:26Z | registry-derived |
 
 ### Filesystem Os
 
@@ -165,7 +172,7 @@ Records: `267`
 | [kokokuo/scraper-fourone-jobs](../records/font-briefcase-kokokuo-scraper-fourone-jobs-469cbe70.md) | partial | 2022-12-08T05:49:51Z | registry-derived |
 | [KonghaYao/chinese-free-web-font-storage](../records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) | partial | 2026-06-16T07:38:56Z | registry-derived |
 | [rbanffy/3270font](../records/font-briefcase-rbanffy-3270font-bb4cce98.md) | partial | 2026-02-13T04:07:55Z | registry-derived |
-| [SixLabors/Fonts](../records/font-briefcase-sixlabors-fonts-14452040.md) | partial | 2026-09-04T15:09:47Z | registry-derived |
+| [SixLabors/Fonts](../records/font-briefcase-sixlabors-fonts-14452040.md) | partial | 2026-09-10T05:30:44Z | registry-derived |
 | [trufont/trufont](../records/font-briefcase-trufont-trufont-616b3d2e.md) | partial | 2025-12-02T16:43:50Z | registry-derived |
 
 ### Game Engine Game Dev
@@ -181,6 +188,7 @@ Records: `267`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [anewtypeofinterference/Optician-Sans](../records/font-briefcase-anewtypeofinterference-optician-sans-eb556d6c.md) | partial | 2021-12-19T01:29:00Z | registry-derived |
+| [bearcove/woofwoof](../records/font-briefcase-bearcove-woofwoof-2a84c276.md) | partial | 2026-01-02T16:27:35Z | registry-derived |
 | [epilys/gerb](../records/font-briefcase-epilys-gerb-e97840de.md) | partial | 2024-10-17T10:23:39Z | registry-derived |
 | [fontra/fontra](../records/font-briefcase-fontra-fontra-eddbba92.md) | partial | 2026-09-10T11:52:29Z | registry-derived |
 | [javierbyte/brutalita](../records/font-briefcase-javierbyte-brutalita-dc2ab11c.md) | partial | 2026-09-09T01:03:07Z | registry-derived |
@@ -209,6 +217,7 @@ Records: `267`
 | [0dist/fontview](../records/font-briefcase-0dist-fontview-fb53702c.md) | partial | 2024-12-08T08:44:04Z | registry-derived |
 | [abrudz/APL386](../records/font-briefcase-abrudz-apl386-d2beaf2f.md) | partial | 2025-03-11T15:02:26Z | registry-derived |
 | [adobe-fonts/adobe-blank-vf](../records/font-briefcase-adobe-fonts-adobe-blank-vf-33dc4d4a.md) | partial | 2022-07-22T07:16:33Z | registry-derived |
+| [adobe-fonts/width-and-vertical-width-vf](../records/font-briefcase-adobe-fonts-width-and-vertical-width-vf-cb3f4673.md) | partial | 2019-12-03T17:28:53Z | registry-derived |
 | [akngs/noto-kr-vf-distilled](../records/font-briefcase-akngs-noto-kr-vf-distilled-51bf251b.md) | partial | 2022-09-17T11:30:27Z | registry-derived |
 | [aliftype/amiri](../records/font-briefcase-aliftype-amiri-2659b81e.md) | partial | 2026-04-25T22:27:42Z | registry-derived |
 | [atelier-anchor/smiley-sans](../records/font-briefcase-atelier-anchor-smiley-sans-3ec5c5c2.md) | partial | 2024-12-10T17:36:25Z | registry-derived |
@@ -430,6 +439,7 @@ Records: `267`
 | --- | --- | --- | --- |
 | [ambroisemaupate/webfont-generator](../records/font-briefcase-ambroisemaupate-webfont-generator-cc50b8ed.md) | partial | 2021-04-22T18:49:15Z | registry-derived |
 | [bearcove/fontcull](../records/font-briefcase-bearcove-fontcull-c7a78ec4.md) | partial | 2026-06-18T11:23:11Z | registry-derived |
+| [exuanbo/file-icons-js](../records/font-briefcase-exuanbo-file-icons-js-efb54f36.md) | partial | 2026-04-29T20:29:00Z | registry-derived |
 | [githubnext/monaspace](../records/font-briefcase-githubnext-monaspace-a8c7b718.md) | partial | 2026-03-27T23:10:14Z | registry-derived |
 | [johnkil/Android-RobotoTextView](../records/font-briefcase-johnkil-android-robototextview-991c311a.md) | partial | 2017-07-26T11:32:54Z | registry-derived |
 | [KonghaYao/cn-font-split](../records/font-briefcase-konghayao-cn-font-split-4b1774ab.md) | partial | 2026-06-12T13:45:21Z | registry-derived |

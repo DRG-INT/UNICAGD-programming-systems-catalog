@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (232)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1030)](by-category/build-system.md) · [Cli (588)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1031)](by-category/build-system.md) · [Cli (588)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (138)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (976)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
-[Embedded Hardware (66)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](by-category/ide-editor-integration.md)
+[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5968)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5969)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
 [Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1076)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (449)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (658)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (635)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1649)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1650)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -9883,6 +9883,7 @@
 | `github_search_font_briefcase-13748ce6d6cf0a` | Buernia/Tiejili | [open](records/font-briefcase-buernia-tiejili-288f3a91.md) |
 | `github_search_font_briefcase-1529c53cc79d23` | WCYS-Co/Hauora-Sans | [open](records/font-briefcase-wcys-co-hauora-sans-c484e9cc.md) |
 | `github_search_font_briefcase-15b86271534d4e` | w3c/woff | [open](records/font-briefcase-w3c-woff-419d2114.md) |
+| `github_search_font_briefcase-15de35459715e7` | bearcove/woofwoof | [open](records/font-briefcase-bearcove-woofwoof-2a84c276.md) |
 | `github_search_font_briefcase-1721deb60c66fd` | vegaprotocol/alpha-lyrae | [open](records/font-briefcase-vegaprotocol-alpha-lyrae-d7174978.md) |
 | `github_search_font_briefcase-18b2dca8b02cd9` | jeerbl/webfonts-loader | [open](records/font-briefcase-jeerbl-webfonts-loader-b2ca96b0.md) |
 | `github_search_font_briefcase-1af9ac6ad9cb51` | qwerasd205/AnnotationMono | [open](records/font-briefcase-qwerasd205-annotationmono-110bd69b.md) |
@@ -9909,6 +9910,7 @@
 | `github_search_font_briefcase-29b627c0b18ca9` | epilys/gerb | [open](records/font-briefcase-epilys-gerb-e97840de.md) |
 | `github_search_font_briefcase-2b766c7d893210` | sun-typeface/SUIT | [open](records/font-briefcase-sun-typeface-suit-6a105eda.md) |
 | `github_search_font_briefcase-2bcba6d389c2c8` | twardoch/fonttools-opentype-feature-freezer | [open](records/font-briefcase-twardoch-fonttools-opentype-feature-freezer-309a5277.md) |
+| `github_search_font_briefcase-2ca8efcdf09d42` | JWo1F/icofon | [open](records/font-briefcase-jwo1f-icofon-54386932.md) |
 | `github_search_font_briefcase-2f3a4bc7437780` | brabadu/awesome-fonts | [open](records/font-briefcase-brabadu-awesome-fonts-6c975d56.md) |
 | `github_search_font_briefcase-2fb33fadd47e3c` | harfbuzz/harfbuzz | [open](records/font-briefcase-harfbuzz-harfbuzz-a3b0c0bf.md) |
 | `github_search_font_briefcase-2fc63fbc9ecae7` | atelier-anchor/smiley-sans | [open](records/font-briefcase-atelier-anchor-smiley-sans-3ec5c5c2.md) |
@@ -9980,6 +9982,7 @@
 | `github_search_font_briefcase-72591c8206e866` | bearcove/fontcull | [open](records/font-briefcase-bearcove-fontcull-c7a78ec4.md) |
 | `github_search_font_briefcase-7294de7a82d151` | steinbergmedia/bravura | [open](records/font-briefcase-steinbergmedia-bravura-dece6eea.md) |
 | `github_search_font_briefcase-733805e02e803c` | adobe-fonts/source-serif | [open](records/font-briefcase-adobe-fonts-source-serif-816acf27.md) |
+| `github_search_font_briefcase-73965d804c7d83` | exuanbo/file-icons-js | [open](records/font-briefcase-exuanbo-file-icons-js-efb54f36.md) |
 | `github_search_font_briefcase-769cbe3fc2c4fd` | kdydesign/fontagon | [open](records/font-briefcase-kdydesign-fontagon-8d22ca93.md) |
 | `github_search_font_briefcase-784ccf6ea378da` | KonghaYao/chinese-free-web-font-storage | [open](records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) |
 | `github_search_font_briefcase-7aea81d12d8d94` | sgmonda/sergamon | [open](records/font-briefcase-sgmonda-sergamon-dfa8eee2.md) |
@@ -10017,6 +10020,8 @@
 | `github_search_font_briefcase-9baaa87654c630` | ollimeier/font-tools-page | [open](records/font-briefcase-ollimeier-font-tools-page-f6a26bf1.md) |
 | `github_search_font_briefcase-9bc351fb26d114` | expo/google-fonts | [open](records/font-briefcase-expo-google-fonts-5303266a.md) |
 | `github_search_font_briefcase-9bd98583a9ecb6` | adobe-fonts/source-sans | [open](records/font-briefcase-adobe-fonts-source-sans-48ad90f9.md) |
+| `github_search_font_briefcase-9c6d03d56d9092` | adobe-fonts/width-and-vertical-width-vf | [open](records/font-briefcase-adobe-fonts-width-and-vertical-width-vf-cb3f4673.md) |
+| `github_search_font_briefcase-9d4bc4c9ae71f1` | Fetten/woff2base64 | [open](records/font-briefcase-fetten-woff2base64-b109c5b0.md) |
 | `github_search_font_briefcase-9e01667634bc24` | fontra/fontra | [open](records/font-briefcase-fontra-fontra-eddbba92.md) |
 | `github_search_font_briefcase-9e40a08e5269df` | noirblancrouge/Formera | [open](records/font-briefcase-noirblancrouge-formera-7d19b65e.md) |
 | `github_search_font_briefcase-a28cc49fde36ba` | Gaafar/dev-fonts | [open](records/font-briefcase-gaafar-dev-fonts-f0a8c10d.md) |

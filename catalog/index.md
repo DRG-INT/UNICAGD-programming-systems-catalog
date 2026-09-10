@@ -1,28 +1,28 @@
 # Catalog Index
 
-Generated: `2026-09-10T20:24:10+00:00`
+Generated: `2026-09-10T21:21:07+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
 [Api Abi Checker (232)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1030)](by-category/build-system.md) · [Cli (588)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1031)](by-category/build-system.md) · [Cli (588)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (138)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (976)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (112)](by-category/documentation.md)
-[Embedded Hardware (66)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1500)](by-category/ide-editor-integration.md)
+[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (472)](by-category/ffi-bindings.md) · [Filesystem Os (1678)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1501)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5968)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5969)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (349)](by-category/linter.md) · [Logging Observability (541)](by-category/logging-observability.md) · [Machine Learning (834)](by-category/machine-learning.md)
 [Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1076)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (449)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (658)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (635)](by-category/testing-framework.md) · [Tutorial Book Styleguide (70)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1649)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1650)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (614)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 ## Languages
 
@@ -57,7 +57,7 @@ Generated: `2026-09-10T20:24:10+00:00`
 | Physics Engines | 181 | 0 | [Physics Engines](by-language/physics-engines.md) |
 | Game Engines | 180 | 0 | [Game Engines](by-language/game-engines.md) |
 | Icons and Logos | 384 | 0 | [Icons and Logos](by-language/icons-and-logos.md) |
-| Font Briefcase | 267 | 0 | [Font Briefcase](by-language/font-briefcase.md) |
+| Font Briefcase | 272 | 0 | [Font Briefcase](by-language/font-briefcase.md) |
 | Assets | 419 | 0 | [Assets](by-language/assets.md) |
 | Maps | 608 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 158 | 0 | [Space Engines](by-language/space-engines.md) |
@@ -97,7 +97,7 @@ Generated: `2026-09-10T20:24:10+00:00`
 | Assertion Mocking | 46 | [assertion_mocking](by-category/assertion-mocking.md) |
 | Async Runtime | 139 | [async_runtime](by-category/async-runtime.md) |
 | Benchmarking | 203 | [benchmarking](by-category/benchmarking.md) |
-| Build System | 1030 | [build_system](by-category/build-system.md) |
+| Build System | 1031 | [build_system](by-category/build-system.md) |
 | Cli | 588 | [cli](by-category/cli.md) |
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 124 | [community_reference](by-category/community-reference.md) |
@@ -116,21 +116,21 @@ Generated: `2026-09-10T20:24:10+00:00`
 | Debugger | 45 | [debugger](by-category/debugger.md) |
 | Dependency Manager | 108 | [dependency_manager](by-category/dependency-manager.md) |
 | Documentation | 112 | [documentation](by-category/documentation.md) |
-| Embedded Hardware | 66 | [embedded_hardware](by-category/embedded-hardware.md) |
+| Embedded Hardware | 67 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 472 | [ffi_bindings](by-category/ffi-bindings.md) |
 | Filesystem Os | 1678 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 662 | [formatter](by-category/formatter.md) |
 | Framework | 63 | [framework](by-category/framework.md) |
 | Fuzzer | 60 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 361 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
-| Ide Editor Integration | 1500 | [ide_editor_integration](by-category/ide-editor-integration.md) |
+| Ide Editor Integration | 1501 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 446 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 64 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 281 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 65 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
 | Language Specification | 1463 | [language_specification](by-category/language-specification.md) |
-| Library | 5968 | [library](by-category/library.md) |
+| Library | 5969 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 50 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 349 | [linter](by-category/linter.md) |
@@ -156,7 +156,7 @@ Generated: `2026-09-10T20:24:10+00:00`
 | Testing Framework | 635 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 70 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
 | Type Checker | 315 | [type_checker](by-category/type-checker.md) |
-| Undefined Behavior Analyzer | 1649 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
+| Undefined Behavior Analyzer | 1650 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 105 | [utility_library](by-category/utility-library.md) |
 | Visualization Gui | 614 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 495 | [web_framework](by-category/web-framework.md) |
@@ -194,7 +194,7 @@ Generated: `2026-09-10T20:24:10+00:00`
 | Physics Engines | 0 | 181 |
 | Game Engines | 0 | 180 |
 | Icons and Logos | 0 | 384 |
-| Font Briefcase | 0 | 267 |
+| Font Briefcase | 0 | 272 |
 | Assets | 0 | 419 |
 | Maps | 0 | 608 |
 | Space Engines | 0 | 158 |
