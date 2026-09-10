@@ -586,7 +586,7 @@ Records: `1668`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T14:52:07Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-10T15:15:42Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-10T16:19:06Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1708,7 +1708,7 @@ Records: `1668`
 | lucasgelfond/exiftool-web | partial | 2026-01-10T18:07:32Z | [open](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
 | mbasso/awesome-wasm | partial | 2024-11-15T14:58:04Z | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
-| microsoft/fluentui-blazor | partial | 2026-09-09T16:15:08Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
+| microsoft/fluentui-blazor | partial | 2026-09-10T15:50:20Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | mosra/magnum | partial | 2026-08-23T10:24:48Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | nihui/opencv-mobile | partial | 2026-07-12T12:55:31Z | [open](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | tarmac-project/tarmac | partial | 2026-08-24T22:34:20Z | [open](../records/webassembly-tarmac-project-tarmac-0f9fb005.md) |
@@ -1722,7 +1722,7 @@ Records: `1668`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AdrianoBispo/estude-sap-cap-com-java | partial | 2026-01-16T14:24:41Z | [open](../records/sapjava-adrianobispo-estude-sap-cap-com-java-cd237f6f.md) |
-| cap-js-community/sap-afc-sdk | partial | 2026-09-08T15:15:08Z | [open](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) |
+| cap-js-community/sap-afc-sdk | partial | 2026-09-10T09:13:59Z | [open](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) |
 | cmunozhdz/HanaEjemplos | partial | 2024-02-19T04:13:34Z | [open](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) |
 | cosminnionutt/cloud-espm-v2 | partial | 2024-03-04T08:51:15Z | [open](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) |
 | Hosseini1373/MultitenantApp_CF_SAP_BTP_JAVA | partial | 2024-06-20T12:05:40Z | [open](../records/sapjava-hosseini1373-multitenantapp-cf-sap-btp-java-60965f5f.md) |
@@ -1880,7 +1880,7 @@ Records: `1668`
 | WAAppRouting | 0.0.5 | 2015-11-13T01:24:41Z | [open](../records/cocoa-waapprouting-28d367e4.md) |
 | WenchaoD/FSCalendar | partial | 2024-08-10T13:44:15Z | [open](../records/cocoa-wenchaod-fscalendar-a94a6797.md) |
 | wmcmahan/react-native-calendar-events | partial | 2026-01-05T21:09:47Z | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
-| wxWidgets/wxWidgets | partial | 2026-09-08T11:56:44Z | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
+| wxWidgets/wxWidgets | partial | 2026-09-10T16:00:15Z | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
 | xmartlabs/XLPagerTabStrip | partial | 2023-11-22T13:34:09Z | [open](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) |
 | Yalantis/FoldingTabBar.iOS | partial | 2022-06-13T14:56:56Z | [open](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) |
 | Yalantis/Koloda | partial | 2024-05-29T20:58:30Z | [open](../records/cocoa-yalantis-koloda-c5819ab8.md) |

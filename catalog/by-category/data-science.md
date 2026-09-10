@@ -106,7 +106,7 @@ Records: `40`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GeneBO98/tradetally | partial | 2026-09-10T13:08:18Z | [open](../records/magazines-genebo98-tradetally-aee8dd9b.md) |
+| GeneBO98/tradetally | partial | 2026-09-10T15:56:43Z | [open](../records/magazines-genebo98-tradetally-aee8dd9b.md) |
 
 ## WebAssembly
 

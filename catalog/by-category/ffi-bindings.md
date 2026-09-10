@@ -684,8 +684,8 @@ Records: `472`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| getsentry/sentry-cocoa | partial | 2026-09-09T20:52:57Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
-| madsmtm/objc2 | partial | 2026-09-09T19:04:09Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
+| getsentry/sentry-cocoa | partial | 2026-09-10T16:14:50Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
+| madsmtm/objc2 | partial | 2026-09-09T23:48:08Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-09T16:54:10Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 

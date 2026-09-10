@@ -960,7 +960,7 @@ Records: `765`
 | [fpdart](../records/dart-fpdart-7f9efbc7.md) | 1.2.0 | 2025-10-29T11:51:54.287015Z | registry-derived |
 | [network_image_mock](../records/dart-network-image-mock-24c76058.md) | 2.1.1 | 2022-06-28T07:41:35.318689Z | registry-derived |
 | [patrol](../records/dart-patrol-393eae62.md) | 4.9.0 | 2026-08-12T14:26:47.697537Z | registry-derived |
-| [sqflite_common_ffi](../records/dart-sqflite-common-ffi-53b37f78.md) | 2.4.2+1 | 2026-08-16T11:05:51.519419Z | registry-derived |
+| [sqflite_common_ffi](../records/dart-sqflite-common-ffi-53b37f78.md) | 2.4.3 | 2026-09-10T14:21:11.329855Z | registry-derived |
 | [test](../records/dart-test-85687c3f.md) | 1.32.0 | 2026-09-02T23:48:34.762194Z | registry-derived |
 
 ### Tutorial Book Styleguide

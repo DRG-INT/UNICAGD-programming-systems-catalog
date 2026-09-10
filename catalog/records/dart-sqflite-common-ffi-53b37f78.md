@@ -32,7 +32,7 @@ validation, regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.4.2+1 | 2026-08-16T11:05:51.519419Z | [https://pub.dev/api/packages/sqflite_common_ffi](https://pub.dev/api/packages/sqflite_common_ffi) |  |
+| stable | known | 2.4.3 | 2026-09-10T14:21:11.329855Z | [https://pub.dev/api/packages/sqflite_common_ffi](https://pub.dev/api/packages/sqflite_common_ffi) |  |
 | preview | known | 2.3.4-0 | 2024-10-17T20:25:36.688409Z | [https://pub.dev/api/packages/sqflite_common_ffi](https://pub.dev/api/packages/sqflite_common_ffi) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ validation, regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/sqflite_common_ffi` at `2026-09-01T16:41:07+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/sqflite_common_ffi` at `2026-09-10T16:19:58+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

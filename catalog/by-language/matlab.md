@@ -63,7 +63,7 @@ Records: `287`
 | [BIMK/PlatEMO](../records/matlab-bimk-platemo-b623ff0a.md) | partial | 2026-07-19T11:24:07Z | registry-derived |
 | [Bobholamovic/ChangeDetectionToolbox](../records/matlab-bobholamovic-changedetectiontoolbox-62a06817.md) | partial | 2021-02-24T11:02:46Z | registry-derived |
 | [Borye/machine-learning-coursera-1](../records/matlab-borye-machine-learning-coursera-1-3560aed1.md) | partial | 2019-07-28T13:49:39Z | registry-derived |
-| [brainstorm-tools/brainstorm3](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) | partial | 2026-09-03T15:35:24Z | registry-derived |
+| [brainstorm-tools/brainstorm3](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) | partial | 2026-09-10T16:11:36Z | registry-derived |
 | [braph-software/BRAPH-2](../records/matlab-braph-software-braph-2-7160692d.md) | partial | 2026-07-01T10:07:00Z | registry-derived |
 | [brendenlake/BPL](../records/matlab-brendenlake-bpl-909abb72.md) | partial | 2015-12-28T20:48:56Z | registry-derived |
 | [brendenlake/omniglot](../records/matlab-brendenlake-omniglot-d8bafdf7.md) | partial | 2023-02-01T21:28:32Z | registry-derived |
@@ -106,7 +106,7 @@ Records: `287`
 | [ethz-pes/AI-mag](../records/matlab-ethz-pes-ai-mag-5ed37dd9.md) | partial | 2025-10-22T15:10:20Z | registry-derived |
 | [Ewenwan/Mathematics](../records/matlab-ewenwan-mathematics-14aba0bf.md) | partial | 2020-09-12T02:38:03Z | registry-derived |
 | [fangq/iso2mesh](../records/matlab-fangq-iso2mesh-3398b7c9.md) | partial | 2026-08-30T20:30:23Z | registry-derived |
-| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-10T13:17:27Z | registry-derived |
+| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-10T15:33:30Z | registry-derived |
 | [filipradenovic/cnnimageretrieval](../records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) | partial | 2022-06-02T18:54:49Z | registry-derived |
 | [Firmament-Autopilot/FMT-Model](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) | partial | 2026-07-24T05:58:41Z | registry-derived |
 | [flatironinstitute/CaImAn-MATLAB](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) | partial | 2023-07-04T01:09:30Z | registry-derived |
@@ -188,7 +188,7 @@ Records: `287`
 | [matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](../records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) | partial | 2026-04-22T16:25:38Z | registry-derived |
 | [matlab-deep-learning/reinforcement_learning_financial_trading](../records/matlab-matlab-deep-learning-reinforcement-learning-financial-trading-9b4c6e01.md) | partial | 2026-02-13T08:51:45Z | registry-derived |
 | [matlab-deep-learning/transformer-models](../records/matlab-matlab-deep-learning-transformer-models-33203684.md) | partial | 2023-09-19T15:43:50Z | registry-derived |
-| [matlab/matlab-agentic-toolkit](../records/matlab-matlab-matlab-agentic-toolkit-29d3949c.md) | partial | 2026-08-27T15:34:48Z | registry-derived |
+| [matlab/matlab-agentic-toolkit](../records/matlab-matlab-matlab-agentic-toolkit-29d3949c.md) | partial | 2026-09-10T16:19:01Z | registry-derived |
 | [matlab2tikz/matlab2tikz](../records/matlab-matlab2tikz-matlab2tikz-842ae780.md) | partial | 2026-05-31T18:16:01Z | registry-derived |
 | [MATPOWER/matpower](../records/matlab-matpower-matpower-c0501830.md) | partial | 2026-08-04T21:33:11Z | registry-derived |
 | [matteonerini/ml-based-csi-feedback](../records/matlab-matteonerini-ml-based-csi-feedback-93efead0.md) | partial | 2026-03-23T16:06:09Z | registry-derived |

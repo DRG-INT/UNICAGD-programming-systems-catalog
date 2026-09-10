@@ -119,7 +119,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-10T13:08:18Z | registry-derived |
+| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-10T15:56:43Z | registry-derived |
 
 ### Database Datastore
 

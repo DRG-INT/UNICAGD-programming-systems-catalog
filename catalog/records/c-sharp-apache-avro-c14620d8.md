@@ -43,7 +43,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | https://www.nuget.org/packages/Apache.Avro/1.12.2/license |
+| Evidence | {"key": "", "name": "", "url": ""}; https://www.nuget.org/packages/Apache.Avro/1.12.2/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

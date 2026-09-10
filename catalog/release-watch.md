@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-10T15:24:43+00:00`
+Generated: `2026-09-10T16:22:27+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -42,6 +42,7 @@ Generated: `2026-09-10T15:24:43+00:00`
 | @payloadcms/drizzle | Node.js/JavaScript | Database Datastore | 3.89.0 | 2026-09-10T14:49:40.825Z | [open](records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) |
 | @payloadcms/db-postgres | Node.js/JavaScript | Ffi Bindings | 3.89.0 | 2026-09-10T14:49:31.380Z | [open](records/node-js-javascript-payloadcms-db-postgres-e8fe36c2.md) |
 | phino | Haskell | Library | 0.0.126 | 2026-09-10T14:40:41Z | [open](records/haskell-phino-0ffa79f2.md) |
+| sqflite_common_ffi | Dart | Testing Framework | 2.4.3 | 2026-09-10T14:21:11.329855Z | [open](records/dart-sqflite-common-ffi-53b37f78.md) |
 | sqflite | Dart | Database Datastore | 2.4.4 | 2026-09-10T14:19:09.906233Z | [open](records/dart-sqflite-095e3684.md) |
 | hickory-resolver | Rust | Undefined Behavior Analyzer | 0.26.3 | 2026-09-10T14:17:52.079379Z | [open](records/rust-hickory-resolver-4c9bf89d.md) |
 | hickory-proto | Rust | Library | 0.26.3 | 2026-09-10T14:17:26.849770Z | [open](records/rust-hickory-proto-f2323661.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-10T15:24:43+00:00`
 | btw | R | Language Specification | 1.5.0 | 2026-09-09 16:40:13 UTC | [open](records/r-btw-e6fa9ede.md) |
 | datacaged | R | Library | 0.2.1 | 2026-09-09 16:40:07 UTC | [open](records/r-datacaged-0983a23e.md) |
 | shinygenui | R | Visualization Gui | 0.1.0 | 2026-09-09 16:40:02 UTC | [open](records/r-shinygenui-3bedacc4.md) |
-| BOLDNODE | R | Ffi Bindings | 1.0.0 | 2026-09-09 16:30:31 UTC | [open](records/r-boldnode-7f2a24e5.md) |
 
 ## Unknown Reasons
 

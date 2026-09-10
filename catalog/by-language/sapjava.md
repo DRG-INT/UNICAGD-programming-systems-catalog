@@ -62,7 +62,7 @@ Records: `311`
 | [njgarg22/bookstore-products](../records/sapjava-njgarg22-bookstore-products-daaef4ff.md) | partial | 2020-10-17T19:47:24Z | registry-derived |
 | [SAP-samples/ams-samples-java](../records/sapjava-sap-samples-ams-samples-java-fd68629e.md) | partial | 2026-09-07T12:25:38Z | registry-derived |
 | [SAP-samples/cap-sflight](../records/sapjava-sap-samples-cap-sflight-49ffa5d9.md) | partial | 2026-08-19T13:06:57Z | registry-derived |
-| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-09T15:36:20Z | registry-derived |
+| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-10T15:02:45Z | registry-derived |
 | [SAP/cloud-sdk-java](../records/sapjava-sap-cloud-sdk-java-694206d3.md) | partial | 2026-09-09T00:53:59Z | registry-derived |
 | [THSRakesh/Employee-App](../records/sapjava-thsrakesh-employee-app-401aae99.md) | partial | 2026-01-22T12:48:14Z | registry-derived |
 
@@ -114,7 +114,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-09T19:32:35Z | registry-derived |
+| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-10T14:26:04Z | registry-derived |
 | [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-08T14:42:58Z | registry-derived |
 | [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | partial | 2026-06-11T22:33:27Z | registry-derived |
 
@@ -123,7 +123,7 @@ Records: `311`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AdrianoBispo/estude-sap-cap-com-java](../records/sapjava-adrianobispo-estude-sap-cap-com-java-cd237f6f.md) | partial | 2026-01-16T14:24:41Z | registry-derived |
-| [cap-js-community/sap-afc-sdk](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) | partial | 2026-09-08T15:15:08Z | registry-derived |
+| [cap-js-community/sap-afc-sdk](../records/sapjava-cap-js-community-sap-afc-sdk-ceed7a56.md) | partial | 2026-09-10T09:13:59Z | registry-derived |
 | [cmunozhdz/HanaEjemplos](../records/sapjava-cmunozhdz-hanaejemplos-adf0cff1.md) | partial | 2024-02-19T04:13:34Z | registry-derived |
 | [cosminnionutt/cloud-espm-v2](../records/sapjava-cosminnionutt-cloud-espm-v2-0b22ed02.md) | partial | 2024-03-04T08:51:15Z | registry-derived |
 | [Hosseini1373/MultitenantApp_CF_SAP_BTP_JAVA](../records/sapjava-hosseini1373-multitenantapp-cf-sap-btp-java-60965f5f.md) | partial | 2024-06-20T12:05:40Z | registry-derived |
@@ -360,7 +360,7 @@ Records: `311`
 | [newtork/dsag-ai-sdk-java](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) | partial | 2025-03-28T19:33:43Z | registry-derived |
 | [Pallavireddy23/ai-document-process-cap-java](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) | partial | 2026-01-02T12:40:28Z | registry-derived |
 | [phannindra-dev/portfolio](../records/sapjava-phannindra-dev-portfolio-beda514a.md) | partial | 2026-04-24T20:53:58Z | registry-derived |
-| [SAP/SapMachine](../records/sapjava-sap-sapmachine-4293ea0a.md) | partial | 2026-09-09T01:06:59Z | registry-derived |
+| [SAP/SapMachine](../records/sapjava-sap-sapmachine-4293ea0a.md) | partial | 2026-09-10T01:11:51Z | registry-derived |
 | [sharan-space1/asint_chat_llama](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) | partial | 2024-07-06T02:04:32Z | registry-derived |
 | [sree26365-dev/sap-abap-hana-learning](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) | partial | 2026-06-20T08:10:18Z | registry-derived |
 | [zkud/sap-cap-java-advanced-dev-containers-sample](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) | partial | 2025-03-20T18:38:12Z | registry-derived |
@@ -511,7 +511,7 @@ Records: `311`
 | [17Anurag/Inventory-Management-System](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) | partial | 2026-07-07T05:38:25Z | registry-derived |
 | [aryan-asint3/asset-management-ui5-cap-java](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) | partial | 2026-07-23T18:47:35Z | registry-derived |
 | [Azure-Samples/app-service-javascript-sap-cap-quickstart](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) | partial | 2026-09-09T14:33:42Z | registry-derived |
-| [Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) | partial | 2026-09-07T08:26:00Z | registry-derived |
+| [Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) | partial | 2026-09-10T04:42:20Z | registry-derived |
 | [Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) | partial | 2026-03-27T07:46:01Z | registry-derived |
 | [cap-java/cds-feature-advanced-event-mesh](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) | partial | 2026-08-27T15:04:53Z | registry-derived |
 | [com.sap.cds:cds-feature-message-queuing](../records/sapjava-com-sap-cds-cds-feature-message-queuing-cf687023.md) | 3.10.1 | 2025-05-16T11:26:32+00:00 | registry-derived |

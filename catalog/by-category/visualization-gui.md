@@ -756,7 +756,7 @@ Records: `605`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-09T13:40:03Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-10T04:49:03Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
 
@@ -767,7 +767,7 @@ Records: `605`
 | 17Anurag/Inventory-Management-System | partial | 2026-07-07T05:38:25Z | [open](../records/sapjava-17anurag-inventory-management-system-7e8f8760.md) |
 | aryan-asint3/asset-management-ui5-cap-java | partial | 2026-07-23T18:47:35Z | [open](../records/sapjava-aryan-asint3-asset-management-ui5-cap-java-2aeb5684.md) |
 | Azure-Samples/app-service-javascript-sap-cap-quickstart | partial | 2026-09-09T14:33:42Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cap-quickstart-ed07b42b.md) |
-| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | partial | 2026-09-07T08:26:00Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
+| Azure-Samples/app-service-javascript-sap-cloud-sdk-quickstart | partial | 2026-09-10T04:42:20Z | [open](../records/sapjava-azure-samples-app-service-javascript-sap-cloud-sdk-quickstart-a47547d2.md) |
 | Azure-Samples/functions-javascript-sap-cloud-sdk-quickstart | partial | 2026-03-27T07:46:01Z | [open](../records/sapjava-azure-samples-functions-javascript-sap-cloud-sdk-quickstart-7c7403ca.md) |
 | cap-java/cds-feature-advanced-event-mesh | partial | 2026-08-27T15:04:53Z | [open](../records/sapjava-cap-java-cds-feature-advanced-event-mesh-9f67184d.md) |
 | com.sap.cds:cds-feature-message-queuing | 3.10.1 | 2025-05-16T11:26:32+00:00 | [open](../records/sapjava-com-sap-cds-cds-feature-message-queuing-cf687023.md) |

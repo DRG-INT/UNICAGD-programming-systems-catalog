@@ -40,7 +40,7 @@ authentication, and key-management risk.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Other; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
