@@ -17,8 +17,8 @@ Records: `450`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (450)](package-manager.md)** · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -110,7 +110,7 @@ Records: `450`
 | @stoplight/prism-cli | 5.16.0 | 2026-07-17T08:02:36.635Z | [open](../records/node-js-javascript-stoplight-prism-cli-5e01c147.md) |
 | @transmute/security-context | 0.7.0-unstable.82 | 2023-12-06T23:41:48.389Z | [open](../records/node-js-javascript-transmute-security-context-11df38c8.md) |
 | @tryghost/logging | 5.4.1 | 2026-08-26T02:14:50.686Z | [open](../records/node-js-javascript-tryghost-logging-0633b988.md) |
-| @tryghost/server | 3.1.14 | 2026-09-03T21:05:49.719Z | [open](../records/node-js-javascript-tryghost-server-914387f6.md) |
+| @tryghost/server | 3.1.15 | 2026-09-11T18:03:02.370Z | [open](../records/node-js-javascript-tryghost-server-914387f6.md) |
 | @vltpkg/security-archive | 1.0.7 | 2026-08-28T20:46:36.667Z | [open](../records/node-js-javascript-vltpkg-security-archive-8f7805a6.md) |
 | @webiny/app-security | 5.44.0 | 2026-01-15T15:33:41.164Z | [open](../records/node-js-javascript-webiny-app-security-3dc692de.md) |
 | agent-security-scanner-mcp | 4.5.9 | 2026-08-06T01:55:27.453Z | [open](../records/node-js-javascript-agent-security-scanner-mcp-1c8d9216.md) |
@@ -384,7 +384,7 @@ Records: `450`
 | appliedapp/rusty_lights | partial | 2026-05-04T20:20:12Z | [open](../records/effects-appliedapp-rusty-lights-c67cc805.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
-| CialloKing/ba-click-fx | partial | 2026-09-10T21:40:07Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
+| CialloKing/ba-click-fx | partial | 2026-09-11T17:53:48Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
 | CyberAgentGameEntertainment/NovaShader | partial | 2026-09-07T02:51:55Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | partial | 2024-06-30T11:16:48Z | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |
@@ -423,7 +423,7 @@ Records: `450`
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
 | rushindrasinha/youtube-shorts-pipeline | partial | 2026-06-09T23:55:00Z | [open](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-11T16:06:49Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-11T17:28:21Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | streamlink/streamlink | partial | 2026-09-03T21:24:55Z | [open](../records/video-streamlink-streamlink-ff62fe99.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |

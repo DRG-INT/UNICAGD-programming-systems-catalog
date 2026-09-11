@@ -17,8 +17,8 @@ Records: `981`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -471,7 +471,7 @@ Records: `981`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-11T15:22:46Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-11T18:13:55Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Video
 
@@ -903,14 +903,14 @@ Records: `981`
 | gristlabs/grist-core | partial | 2026-09-08T15:00:24Z | [open](../records/databases-gristlabs-grist-core-d8e14d49.md) |
 | groue/GRDB.swift | partial | 2026-08-08T08:57:22Z | [open](../records/databases-groue-grdb-swift-f7a16ae4.md) |
 | gyoogle/tech-interview-for-developer | partial | 2025-06-04T08:16:06Z | [open](../records/databases-gyoogle-tech-interview-for-developer-dc2a8dbb.md) |
-| h2database/h2database | partial | 2026-09-04T18:53:02Z | [open](../records/databases-h2database-h2database-efc01145.md) |
+| h2database/h2database | partial | 2026-09-11T10:24:47Z | [open](../records/databases-h2database-h2database-efc01145.md) |
 | harelba/q | partial | 2026-02-06T23:25:37Z | [open](../records/databases-harelba-q-2f23fb6c.md) |
 | Hasura | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hasura-dca2450a.md) |
 | HelixDB/helix-db | partial | 2026-09-09T10:48:31Z | [open](../records/databases-helixdb-helix-db-97ccc5dd.md) |
 | hello245m/free-stockdb | partial | 2026-09-08T03:25:17Z | [open](../records/databases-hello245m-free-stockdb-4b014a28.md) |
 | hhyo/Archery | partial | 2026-09-04T08:46:36Z | [open](../records/databases-hhyo-archery-888ab9d4.md) |
 | Hibernate ORM | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-hibernate-orm-261d02b0.md) |
-| hibernate/hibernate-orm | partial | 2026-09-09T05:37:26Z | [open](../records/databases-hibernate-hibernate-orm-fc00d398.md) |
+| hibernate/hibernate-orm | partial | 2026-09-11T11:21:10Z | [open](../records/databases-hibernate-hibernate-orm-fc00d398.md) |
 | Holistics | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-holistics-39eb3ef7.md) |
 | hollischuang/toBeTopJavaer | partial | 2024-01-03T13:58:24Z | [open](../records/databases-hollischuang-tobetopjavaer-5643e8c0.md) |
 | HouzuoGuo/tiedot | partial | 2021-09-05T17:47:27Z | [open](../records/databases-houzuoguo-tiedot-a106fef2.md) |
@@ -930,7 +930,7 @@ Records: `981`
 | JKHeadley/rest-hapi | partial | 2023-03-26T17:51:24Z | [open](../records/databases-jkheadley-rest-hapi-11c0a4c0.md) |
 | JoeanAmier/TikTokDownloader | partial | 2026-09-07T15:40:37Z | [open](../records/databases-joeanamier-tiktokdownloader-f92c9371.md) |
 | JoeanAmier/XHS-Downloader | partial | 2026-09-07T12:03:01Z | [open](../records/databases-joeanamier-xhs-downloader-83e85d93.md) |
-| jOOQ/jOOQ | partial | 2026-09-09T07:10:36Z | [open](../records/databases-jooq-jooq-5d0aabf0.md) |
+| jOOQ/jOOQ | partial | 2026-09-11T12:53:23Z | [open](../records/databases-jooq-jooq-5d0aabf0.md) |
 | judasn/Linux-Tutorial | partial | 2022-06-11T07:40:03Z | [open](../records/databases-judasn-linux-tutorial-c6cc6957.md) |
 | juicedata/juicefs | partial | 2026-09-09T12:43:07Z | [open](../records/databases-juicedata-juicefs-8c02a9a4.md) |
 | jupyter-xeus/xeus-sql | partial | 2026-03-16T14:56:21Z | [open](../records/databases-jupyter-xeus-xeus-sql-561f1402.md) |
@@ -981,7 +981,7 @@ Records: `981`
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | MongoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mongodb-c5c57340.md) |
 | mongodb/mongo | partial | 2026-09-11T15:37:49Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
-| mongodb/mongo-cxx-driver | partial | 2026-09-04T12:49:11Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
+| mongodb/mongo-cxx-driver | partial | 2026-09-11T05:28:10Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
 | mouredev/hello-sql | partial | 2025-03-31T17:05:09Z | [open](../records/databases-mouredev-hello-sql-0b090060.md) |
 | msiemens/tinydb | partial | 2026-08-10T18:34:35Z | [open](../records/databases-msiemens-tinydb-137ac34b.md) |
 | MySQL | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mysql-42cb893b.md) |
@@ -991,8 +991,8 @@ Records: `981`
 | namidb/namidb | partial | 2026-09-09T16:53:46Z | [open](../records/databases-namidb-namidb-fb55fbd1.md) |
 | Neo4j | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-neo4j-7f075077.md) |
 | neo4j/neo4j | partial | 2026-09-10T17:24:46Z | [open](../records/databases-neo4j-neo4j-1651d75a.md) |
-| neo4j/neo4j-dotnet-driver | partial | 2026-09-07T11:09:41Z | [open](../records/databases-neo4j-neo4j-dotnet-driver-17b0523b.md) |
-| neo4j/neo4j-go-driver | partial | 2026-07-09T09:00:01Z | [open](../records/databases-neo4j-neo4j-go-driver-8a74d04c.md) |
+| neo4j/neo4j-dotnet-driver | partial | 2026-09-11T12:50:23Z | [open](../records/databases-neo4j-neo4j-dotnet-driver-17b0523b.md) |
+| neo4j/neo4j-go-driver | partial | 2026-09-10T11:55:41Z | [open](../records/databases-neo4j-neo4j-go-driver-8a74d04c.md) |
 | neo4j/neo4j-python-driver | partial | 2026-09-04T07:41:20Z | [open](../records/databases-neo4j-neo4j-python-driver-99f0ef58.md) |
 | Neon | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-neon-79b7afe1.md) |
 | nestjs/typeorm | partial | 2026-09-08T00:49:50Z | [open](../records/databases-nestjs-typeorm-3312e1e4.md) |
@@ -1025,7 +1025,7 @@ Records: `981`
 | pgAdmin | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-pgadmin-bf7e9fcd.md) |
 | pgBackRest | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgbackrest-4292e6fb.md) |
 | pgbackweb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgbackweb-8f1b1377.md) |
-| pgjdbc/pgjdbc | partial | 2026-09-09T05:37:47Z | [open](../records/databases-pgjdbc-pgjdbc-2feb3a76.md) |
+| pgjdbc/pgjdbc | partial | 2026-09-11T08:38:57Z | [open](../records/databases-pgjdbc-pgjdbc-2feb3a76.md) |
 | pgModeler | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmodeler-57f2b83f.md) |
 | PgStudio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgstudio-c8ac020e.md) |
 | pgweb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgweb-2d36bf1a.md) |
@@ -1069,7 +1069,7 @@ Records: `981`
 | run-llama/llama_index | partial | 2026-09-08T23:38:22Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
 | samber/awesome-olap | partial | 2026-09-03T18:44:49Z | [open](../records/databases-samber-awesome-olap-284e3c76.md) |
 | samuelclay/NewsBlur | partial | 2026-09-03T06:01:27Z | [open](../records/databases-samuelclay-newsblur-94b97b4e.md) |
-| schemacrawler/SchemaCrawler | partial | 2026-09-09T01:43:42Z | [open](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
+| schemacrawler/SchemaCrawler | partial | 2026-09-11T01:34:44Z | [open](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | ScyllaDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-scylladb-305a7332.md) |
 | seancorfield/next-jdbc | partial | 2026-08-31T02:54:14Z | [open](../records/databases-seancorfield-next-jdbc-f28adceb.md) |
 | SeaQL/sea-orm | partial | 2026-09-05T17:57:51Z | [open](../records/databases-seaql-sea-orm-dfb42d06.md) |

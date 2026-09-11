@@ -17,8 +17,8 @@ Records: `323`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · **[Precommit Ci Quality (323)](precommit-ci-quality.md)**
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -183,7 +183,7 @@ Records: `323`
 | CVXR | 1.9.2 | 2026-08-24 05:21:00 UTC | [open](../records/r-cvxr-462b1bfb.md) |
 | decimal | 0.1.0 | 2026-08-24 12:40:09 UTC | [open](../records/r-decimal-6cb5cc69.md) |
 | essential8 | 0.1.0 | 2026-09-03 11:20:09 UTC | [open](../records/r-essential8-dca4bda2.md) |
-| fable.bayesRecon | 0.2.0 | 2026-08-21 08:20:26 UTC | [open](../records/r-fable-bayesrecon-5e5c557b.md) |
+| fable.bayesRecon | 0.2.1 | 2026-09-11 16:40:02 UTC | [open](../records/r-fable-bayesrecon-5e5c557b.md) |
 | fcl | 0.1.5 | 2026-08-22 19:30:02 UTC | [open](../records/r-fcl-0ea3193e.md) |
 | hBayesDM | 2.0.1 | 2026-09-09 13:10:02 UTC | [open](../records/r-hbayesdm-6b8d4019.md) |
 | implicitMeasures | 1.0.0 | 2026-08-21 08:20:08 UTC | [open](../records/r-implicitmeasures-021e6566.md) |
@@ -403,7 +403,7 @@ Records: `323`
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
 | deric/DaVinciResolve-metadata | partial | 2025-10-13T08:04:47Z | [open](../records/photography-deric-davinciresolve-metadata-8a13e074.md) |
-| marcinz606/NegPy | partial | 2026-09-10T17:42:42Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-11T16:56:44Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-07T17:15:42Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-09-09T03:41:20Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

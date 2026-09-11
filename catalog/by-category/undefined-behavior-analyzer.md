@@ -17,8 +17,8 @@ Records: `1660`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -1465,7 +1465,7 @@ Records: `1660`
 | stupside/castor | partial | 2026-08-03T20:37:48Z | [open](../records/video-stupside-castor-29c42022.md) |
 | subin-kim-cv/NVP | partial | 2024-04-03T05:12:07Z | [open](../records/video-subin-kim-cv-nvp-fc8b6ed0.md) |
 | TheBluWiz/MuxMaster | partial | 2026-09-01T20:25:54Z | [open](../records/video-thebluwiz-muxmaster-a6b84c10.md) |
-| Tyrrrz/YoutubeDownloader | partial | 2026-09-11T16:16:13Z | [open](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) |
+| Tyrrrz/YoutubeDownloader | partial | 2026-09-11T17:26:30Z | [open](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) |
 | Vhonowslend/StreamFX-Public | partial | 2024-12-13T06:41:33Z | [open](../records/video-vhonowslend-streamfx-public-e4cd17b1.md) |
 | wang-bin/QtAV | partial | 2025-08-15T16:20:01Z | [open](../records/video-wang-bin-qtav-0a690b81.md) |
 
@@ -1473,7 +1473,7 @@ Records: `1660`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Afilmory/afilmory | partial | 2026-09-08T13:19:10Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
+| Afilmory/afilmory | partial | 2026-09-11T18:22:48Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
 | dougdonohoe/ddphotos | partial | 2026-09-10T13:25:19Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
@@ -1833,7 +1833,7 @@ Records: `1660`
 | --- | --- | --- | --- |
 | aerospike-community/aerospike-client-ruby | partial | 2026-06-22T21:15:26Z | [open](../records/databases-aerospike-community-aerospike-client-ruby-04491640.md) |
 | apache/incubator-pegasus | partial | 2026-06-16T08:03:52Z | [open](../records/databases-apache-incubator-pegasus-7ce631b5.md) |
-| apache/kyuubi | partial | 2026-09-09T10:26:33Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
+| apache/kyuubi | partial | 2026-09-11T01:56:32Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
 | bytebase/dbhub | partial | 2026-09-08T10:20:41Z | [open](../records/databases-bytebase-dbhub-ead21c0d.md) |
 | CaviraOSS/LongMemory | partial | 2026-08-31T16:18:42Z | [open](../records/databases-caviraoss-longmemory-7c32bdd6.md) |
 | christopherkarani/Wax | partial | 2026-09-09T11:17:55Z | [open](../records/databases-christopherkarani-wax-06442a2f.md) |
@@ -1870,7 +1870,7 @@ Records: `1660`
 | ubicloud/ubicloud | partial | 2026-09-08T12:24:56Z | [open](../records/databases-ubicloud-ubicloud-7e3cd300.md) |
 | warp-tech/warpgate | partial | 2026-09-06T11:09:20Z | [open](../records/databases-warp-tech-warpgate-2221afcb.md) |
 | WenjieDu/TSDB | partial | 2026-09-03T10:00:33Z | [open](../records/databases-wenjiedu-tsdb-d91c6ab6.md) |
-| Wisser/Jailer | partial | 2026-09-08T21:43:49Z | [open](../records/databases-wisser-jailer-b572d87a.md) |
+| Wisser/Jailer | partial | 2026-09-11T11:41:49Z | [open](../records/databases-wisser-jailer-b572d87a.md) |
 | ygvn/IPv6-Subnet-Calculator-Tool-CSharp | partial | 2025-01-21T12:39:01Z | [open](../records/databases-ygvn-ipv6-subnet-calculator-tool-csharp-45fd6ecb.md) |
 
 ## Repository Workplaces

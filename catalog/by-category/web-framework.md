@@ -17,8 +17,8 @@ Records: `495`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -235,14 +235,14 @@ Records: `495`
 | @supabase/mcp-server-supabase | 0.12.0 | 2026-09-04T13:33:08.786Z | [open](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) |
 | @tanstack/react-start-rsc | 0.1.51 | 2026-09-10T18:18:52.692Z | [open](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @toolbox-sdk/server | 1.11.0 | 2026-09-10T23:54:07.640Z | [open](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| @transcend-io/mcp-server-admin | 1.0.6 | 2026-09-11T14:26:33.607Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-assessment | 2.1.3 | 2026-09-11T14:29:14.249Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
-| @transcend-io/mcp-server-consent | 1.1.0 | 2026-09-11T14:30:45.274Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-discovery | 1.0.6 | 2026-09-11T14:26:33.438Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
-| @transcend-io/mcp-server-dsr | 2.0.3 | 2026-09-11T14:26:33.654Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
-| @transcend-io/mcp-server-inventory | 1.0.6 | 2026-09-11T14:26:34.287Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.7.9 | 2026-09-11T14:27:56.195Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-workflows | 1.0.6 | 2026-09-11T14:26:38.798Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-admin | 1.0.7 | 2026-09-11T17:44:39.060Z | [open](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| @transcend-io/mcp-server-assessment | 2.1.4 | 2026-09-11T17:45:36.600Z | [open](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-consent | 1.1.1 | 2026-09-11T17:45:35.991Z | [open](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-discovery | 1.0.7 | 2026-09-11T17:44:39.378Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-dsr | 2.0.4 | 2026-09-11T17:44:39.521Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | 1.0.7 | 2026-09-11T17:44:39.559Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-preferences | 0.7.10 | 2026-09-11T17:46:45.973Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-workflows | 1.0.7 | 2026-09-11T17:44:44.408Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.20 | 2026-09-10T12:51:14.362Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |

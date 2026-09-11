@@ -1,6 +1,6 @@
 # Library
 
-Records: `6067`
+Records: `6068`
 
 ## Navigation
 
@@ -17,8 +17,8 @@ Records: `6067`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6067)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6068)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -2867,7 +2867,7 @@ Records: `6067`
 | nmfkc | 0.9.6 | 2026-08-25 11:00:24 UTC | [open](../records/r-nmfkc-03f45a99.md) |
 | nmw | 0.5.1 | 2026-08-21 05:41:31 UTC | [open](../records/r-nmw-b45a0d22.md) |
 | nof1kit | 0.1.0 | 2026-08-08 11:50:07 UTC | [open](../records/r-nof1kit-df40f35e.md) |
-| normalblockr | 0.2.1 | 2026-09-03 12:00:02 UTC | [open](../records/r-normalblockr-5e5139d7.md) |
+| normalblockr | 0.3.0 | 2026-09-11 18:10:02 UTC | [open](../records/r-normalblockr-5e5139d7.md) |
 | NormData | 1.2 | 2026-08-21 07:20:10 UTC | [open](../records/r-normdata-bdccd058.md) |
 | normref | 0.1.2 | 2026-08-27 08:10:02 UTC | [open](../records/r-normref-452be04f.md) |
 | npwbs | 0.5.0 | 2026-08-04 08:50:07 UTC | [open](../records/r-npwbs-b2bcdf7a.md) |
@@ -2913,7 +2913,7 @@ Records: `6067`
 | poisFErobust | 2.0.1 | 2026-09-01 07:20:02 UTC | [open](../records/r-poisferobust-16b12538.md) |
 | polarzonoid | 0.4-0 | 2026-08-22 04:30:02 UTC | [open](../records/r-polarzonoid-729ef14a.md) |
 | PowerXgammaRF | 1.0.0 | 2026-08-21 13:20:24 UTC | [open](../records/r-powerxgammarf-5bd9852f.md) |
-| pre | 1.1.0 | 2026-08-31 22:10:06 UTC | [open](../records/r-pre-14669e77.md) |
+| pre | 1.1.1 | 2026-09-11 17:10:02 UTC | [open](../records/r-pre-14669e77.md) |
 | predHCS | 0.1.0 | 2026-08-05 09:20:09 UTC | [open](../records/r-predhcs-11f5cded.md) |
 | pressfreedom | 0.2.0 | 2026-09-08 13:40:02 UTC | [open](../records/r-pressfreedom-f7f37c03.md) |
 | primarycensored | 1.5.2 | 2026-09-11 03:00:02 UTC | [open](../records/r-primarycensored-b2014a72.md) |
@@ -3086,6 +3086,7 @@ Records: `6067`
 | tinytiger | 0.0.12 | 2026-08-22 17:00:02 UTC | [open](../records/r-tinytiger-07329421.md) |
 | tm | 0.7-19 | 2026-08-13 08:42:02 UTC | [open](../records/r-tm-e915b82a.md) |
 | tmap.sources | 0.1-1 | 2026-08-24 13:20:02 UTC | [open](../records/r-tmap-sources-5ff9fad8.md) |
+| tmbstan | 1.2.1 | 2026-09-11 17:00:02 UTC | [open](../records/r-tmbstan-3914d1b5.md) |
 | TrackTrap | 1.0.1 | 2026-08-20 06:42:04 UTC | [open](../records/r-tracktrap-f1c9fee7.md) |
 | trade | 0.8.6 | 2026-08-26 12:20:02 UTC | [open](../records/r-trade-efe5f3e0.md) |
 | traj | 3.1.0 | 2026-09-08 18:40:03 UTC | [open](../records/r-traj-cf332fde.md) |
@@ -4509,7 +4510,7 @@ Records: `6067`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T17:17:42Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T18:24:10Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4523,7 +4524,7 @@ Records: `6067`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-11T17:18:23Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-11T17:27:31Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5159,7 +5160,7 @@ Records: `6067`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 3c0tr/LitWithParticles | partial | 2025-12-18T02:27:51Z | [open](../records/effects-3c0tr-litwithparticles-4e7b0fd5.md) |
-| AcademySoftwareFoundation/OpenCue | partial | 2026-09-10T22:28:44Z | [open](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) |
+| AcademySoftwareFoundation/OpenCue | partial | 2026-09-11T17:32:08Z | [open](../records/effects-academysoftwarefoundation-opencue-4ae373a6.md) |
 | akof1314/UnityParticleSystemPreview | partial | 2025-02-19T13:20:39Z | [open](../records/effects-akof1314-unityparticlesystempreview-89de2d88.md) |
 | alexadam/glitch-studio | partial | 2020-07-04T12:35:23Z | [open](../records/effects-alexadam-glitch-studio-242af220.md) |
 | alexnikop/VFEZ-godot | partial | 2025-03-22T10:05:57Z | [open](../records/effects-alexnikop-vfez-godot-37aa177c.md) |
@@ -5188,10 +5189,10 @@ Records: `6067`
 | fand/vfx-js | partial | 2026-09-10T20:58:02Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
-| fuddlesworth/PlasmaZones | partial | 2026-09-11T16:14:11Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-11T18:16:10Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-11T14:25:26Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-11T17:11:18Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-11T13:43:06Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -6216,7 +6217,7 @@ Records: `6067`
 | cravendb | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cravendb-f38f9ff5.md) |
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
 | dolphindb/DolphinDBPlugin | partial | 2026-07-20T04:17:42Z | [open](../records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
-| duckdb/duckdb-odbc | partial | 2026-09-04T11:24:45Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
+| duckdb/duckdb-odbc | partial | 2026-09-11T09:07:24Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
 | duckdb/duckdb-r | partial | 2026-09-06T11:55:03Z | [open](../records/databases-duckdb-duckdb-r-6dc81616.md) |
 | duckdb/duckdb-wasm | partial | 2026-07-28T09:43:35Z | [open](../records/databases-duckdb-duckdb-wasm-c56947ec.md) |
 | ebean-orm/ebean | partial | 2026-08-28T22:43:07Z | [open](../records/databases-ebean-orm-ebean-f16dcb8d.md) |
@@ -6235,16 +6236,16 @@ Records: `6067`
 | minio/dsync | partial | 2019-11-12T10:46:21Z | [open](../records/databases-minio-dsync-d5937e8e.md) |
 | naver/spring-jdbc-plus | partial | 2025-12-22T01:26:45Z | [open](../records/databases-naver-spring-jdbc-plus-544a90e7.md) |
 | NoKV-Lab/NoKV | partial | 2026-09-08T03:06:24Z | [open](../records/databases-nokv-lab-nokv-679cc97b.md) |
-| pacman82/odbc2parquet | partial | 2026-09-08T16:57:45Z | [open](../records/databases-pacman82-odbc2parquet-98e72b2f.md) |
+| pacman82/odbc2parquet | partial | 2026-09-11T16:57:07Z | [open](../records/databases-pacman82-odbc2parquet-98e72b2f.md) |
 | pg\_back | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-back-2caa380c.md) |
 | pghoard | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pghoard-00e7248d.md) |
 | PsiACE/databend-internals | partial | 2024-01-26T03:04:19Z | [open](../records/databases-psiace-databend-internals-83bbddb4.md) |
 | scality/Zenko | partial | 2026-09-09T15:30:32Z | [open](../records/databases-scality-zenko-248037a0.md) |
 | scratchdata/scratchdata | partial | 2024-07-19T17:29:04Z | [open](../records/databases-scratchdata-scratchdata-7f09b0b9.md) |
 | snowflakedb/snowflake-jdbc | partial | 2026-09-08T12:16:21Z | [open](../records/databases-snowflakedb-snowflake-jdbc-81de35a1.md) |
-| spring-projects/spring-data-relational | partial | 2026-09-09T06:41:14Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
+| spring-projects/spring-data-relational | partial | 2026-09-10T13:56:35Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
 | storj/storj | partial | 2026-09-08T18:18:17Z | [open](../records/databases-storj-storj-1c5528ab.md) |
-| swaldman/c3p0 | partial | 2026-09-09T02:43:23Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
+| swaldman/c3p0 | partial | 2026-09-11T06:54:18Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |
 | treeverse/lakeFS | partial | 2026-08-19T13:41:32Z | [open](../records/databases-treeverse-lakefs-f069dae0.md) |
 | typelevel/doobie | partial | 2026-09-06T20:30:26Z | [open](../records/databases-typelevel-doobie-8033225a.md) |
 | zycgit/hasor | partial | 2022-12-14T20:50:39Z | [open](../records/databases-zycgit-hasor-03670d93.md) |

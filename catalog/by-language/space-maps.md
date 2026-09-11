@@ -17,8 +17,8 @@ Records: `656`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6067)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (854)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -84,7 +84,7 @@ Records: `656`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bluescarni/heyoka](../records/space-maps-bluescarni-heyoka-bf9e17ae.md) | partial | 2026-09-10T15:10:58Z | registry-derived |
+| [bluescarni/heyoka](../records/space-maps-bluescarni-heyoka-bf9e17ae.md) | partial | 2026-09-11T15:38:28Z | registry-derived |
 | [bluescarni/heyoka.py](../records/space-maps-bluescarni-heyoka-py-7446afa8.md) | partial | 2026-07-22T10:54:03Z | registry-derived |
 
 ### Concurrency Parallelism
@@ -107,7 +107,7 @@ Records: `656`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [astro-roro/Astro-Coverage-Planner](../records/space-maps-astro-roro-astro-coverage-planner-54f72bba.md) | partial | 2026-09-11T06:48:25Z | registry-derived |
+| [astro-roro/Astro-Coverage-Planner](../records/space-maps-astro-roro-astro-coverage-planner-54f72bba.md) | partial | 2026-09-11T12:19:06Z | registry-derived |
 
 ### Data Science
 
@@ -494,7 +494,7 @@ Records: `656`
 | [oaslananka/kicad-studio-kit](../records/space-maps-oaslananka-kicad-studio-kit-b96a6649.md) | partial | 2026-09-04T01:52:12Z | registry-derived |
 | [PAIR-code/font-explorer](../records/space-maps-pair-code-font-explorer-1514fd91.md) | partial | 2026-04-15T06:54:30Z | registry-derived |
 | [planetaryprobst/naif_spice](../records/space-maps-planetaryprobst-naif-spice-3899b064.md) | partial | 2025-09-22T23:38:10Z | registry-derived |
-| [RonTheRentalCop/Dirtlets](../records/space-maps-rontherentalcop-dirtlets-a42969ea.md) | partial | 2026-09-09T19:00:19Z | registry-derived |
+| [RonTheRentalCop/Dirtlets](../records/space-maps-rontherentalcop-dirtlets-a42969ea.md) | partial | 2026-09-11T03:25:09Z | registry-derived |
 | [Smoren/molecular-ts](../records/space-maps-smoren-molecular-ts-8f49e17d.md) | partial | 2026-09-06T10:11:52Z | registry-derived |
 | [ThomasWinn/repo-AiPlanetaryWars](../records/space-maps-thomaswinn-repo-aiplanetarywars-389320ec.md) | partial | 2019-02-24T06:59:38Z | registry-derived |
 | [timsainb/Tensorflow-MultiGPU-VAE-GAN](../records/space-maps-timsainb-tensorflow-multigpu-vae-gan-94d8fdf6.md) | partial | 2019-05-14T19:56:07Z | registry-derived |

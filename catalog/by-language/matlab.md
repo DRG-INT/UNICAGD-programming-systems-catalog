@@ -17,8 +17,8 @@ Records: `287`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6067)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (854)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -70,7 +70,7 @@ Records: `287`
 | [brianwade1/actor_critic_quadcopter](../records/matlab-brianwade1-actor-critic-quadcopter-293cfd51.md) | unknown | github_latest_release_missing | registry-derived |
 | [caiotavares/spectrum-sensing](../records/matlab-caiotavares-spectrum-sensing-56be35eb.md) | unknown | github_latest_release_missing | registry-derived |
 | [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | partial | 2022-05-27T10:01:26Z | registry-derived |
-| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-04T14:55:15Z | registry-derived |
+| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-11T18:02:12Z | registry-derived |
 | [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-09-07T14:34:12Z | registry-derived |
 | [Charleswyt/audio_steganalysis_ml](../records/matlab-charleswyt-audio-steganalysis-ml-b1f72059.md) | unknown | github_latest_release_missing | registry-derived |
 | [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | partial | 2026-06-23T16:12:49Z | registry-derived |

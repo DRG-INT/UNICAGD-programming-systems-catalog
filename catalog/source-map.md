@@ -13,8 +13,8 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1701)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (376)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6067)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (551)](by-category/logging-observability.md) · [Machine Learning (854)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6068)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (551)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1086)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -2025,6 +2025,7 @@
 | `cran_packages_by_date-98069c170cf5b5` | rfacebookstat | [open](records/r-rfacebookstat-858e33cb.md) |
 | `cran_packages_by_date-980e47601cdd55` | TFisher | [open](records/r-tfisher-9d22f8de.md) |
 | `cran_packages_by_date-983556b1f067d6` | nhanesR | [open](records/r-nhanesr-f61aeaed.md) |
+| `cran_packages_by_date-9848c59767a2df` | DUToolkit | [open](records/r-dutoolkit-0e23e903.md) |
 | `cran_packages_by_date-9858673dc5e3a7` | gpciEMprogII | [open](records/r-gpciemprogii-5b1599b7.md) |
 | `cran_packages_by_date-9899f3904fe73e` | glmmEP | [open](records/r-glmmep-cccc90e0.md) |
 | `cran_packages_by_date-98acfa347fb1b8` | spacetime | [open](records/r-spacetime-c4537dac.md) |
@@ -2324,6 +2325,7 @@
 | `cran_packages_by_date-c2802a93b234eb` | plugdensity | [open](records/r-plugdensity-29c7111f.md) |
 | `cran_packages_by_date-c28f47d63c442a` | exnexSurv | [open](records/r-exnexsurv-3d08d9fa.md) |
 | `cran_packages_by_date-c2a3f4760d2d12` | nlmixr2est | [open](records/r-nlmixr2est-a96ac8cf.md) |
+| `cran_packages_by_date-c302a0afb24220` | tmbstan | [open](records/r-tmbstan-3914d1b5.md) |
 | `cran_packages_by_date-c30ccd5ed40f9b` | gpcihybridII | [open](records/r-gpcihybridii-f090a1cb.md) |
 | `cran_packages_by_date-c33b8bedfe64c6` | countrycode | [open](records/r-countrycode-f298763e.md) |
 | `cran_packages_by_date-c33fcf58c9563f` | csemTools | [open](records/r-csemtools-c10814a5.md) |
