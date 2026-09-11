@@ -10,21 +10,21 @@ Records: `287`
 
 [Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (209)](../by-category/benchmarking.md) · [Build System (1040)](../by-category/build-system.md) · [Cli (596)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (125)](../by-category/community-reference.md) · [Compiler (179)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Community Reference (125)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (182)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (253)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6075)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -70,7 +70,7 @@ Records: `287`
 | [brianwade1/actor_critic_quadcopter](../records/matlab-brianwade1-actor-critic-quadcopter-293cfd51.md) | partial | 2022-03-15T03:18:18Z | registry-derived |
 | [caiotavares/spectrum-sensing](../records/matlab-caiotavares-spectrum-sensing-56be35eb.md) | partial | 2024-01-05T01:06:26Z | registry-derived |
 | [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | partial | 2022-05-27T10:01:26Z | registry-derived |
-| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-11T18:02:12Z | registry-derived |
+| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-11T22:05:54Z | registry-derived |
 | [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-09-07T14:34:12Z | registry-derived |
 | [Charleswyt/audio_steganalysis_ml](../records/matlab-charleswyt-audio-steganalysis-ml-b1f72059.md) | partial | 2019-09-02T02:14:46Z | registry-derived |
 | [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | partial | 2026-06-23T16:12:49Z | registry-derived |
@@ -106,7 +106,7 @@ Records: `287`
 | [ethz-pes/AI-mag](../records/matlab-ethz-pes-ai-mag-5ed37dd9.md) | partial | 2025-10-22T15:10:20Z | registry-derived |
 | [Ewenwan/Mathematics](../records/matlab-ewenwan-mathematics-14aba0bf.md) | partial | 2020-09-12T02:38:03Z | registry-derived |
 | [fangq/iso2mesh](../records/matlab-fangq-iso2mesh-3398b7c9.md) | partial | 2026-08-30T20:30:23Z | registry-derived |
-| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-11T07:44:05Z | registry-derived |
+| [fieldtrip/fieldtrip](../records/matlab-fieldtrip-fieldtrip-c82e0344.md) | partial | 2026-09-11T21:45:54Z | registry-derived |
 | [filipradenovic/cnnimageretrieval](../records/matlab-filipradenovic-cnnimageretrieval-4402bf85.md) | partial | 2022-06-02T18:54:49Z | registry-derived |
 | [Firmament-Autopilot/FMT-Model](../records/matlab-firmament-autopilot-fmt-model-e34acb3b.md) | partial | 2026-07-24T05:58:41Z | registry-derived |
 | [flatironinstitute/CaImAn-MATLAB](../records/matlab-flatironinstitute-caiman-matlab-f1d3a116.md) | partial | 2023-07-04T01:09:30Z | registry-derived |
@@ -277,7 +277,7 @@ Records: `287`
 | [torrvision/crfasrnn](../records/matlab-torrvision-crfasrnn-d754088d.md) | partial | 2019-11-30T13:17:39Z | registry-derived |
 | [toshiakit/MatGPT](../records/matlab-toshiakit-matgpt-c3e7e593.md) | partial | 2026-01-31T03:08:06Z | registry-derived |
 | [trekhleb/machine-learning-octave](../records/matlab-trekhleb-machine-learning-octave-3c6369fc.md) | partial | 2025-11-23T04:28:32Z | registry-derived |
-| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-11T20:21:46Z | registry-derived |
+| [ucdavis/erplab](../records/matlab-ucdavis-erplab-9a4c4944.md) | partial | 2026-09-11T22:07:27Z | registry-derived |
 | [ultralytics/functions-matlab](../records/matlab-ultralytics-functions-matlab-7687d566.md) | partial | 2026-08-28T10:25:16Z | registry-derived |
 | [ultralytics/magellan](../records/matlab-ultralytics-magellan-3c103d74.md) | partial | 2026-08-28T10:37:04Z | registry-derived |
 | [ultralytics/miniTimeCube](../records/matlab-ultralytics-minitimecube-2e723266.md) | partial | 2026-08-28T10:39:24Z | registry-derived |

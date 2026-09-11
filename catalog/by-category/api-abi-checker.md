@@ -10,21 +10,21 @@ Records: `236`
 
 **[Api Abi Checker (236)](api-abi-checker.md)** · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (596)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (179)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6075)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -70,7 +70,7 @@ Records: `236`
 | icu_collections | 2.3.0 | 2026-08-13T23:28:40.279341Z | [open](../records/rust-icu-collections-f1051597.md) |
 | icu_normalizer | 2.3.0 | 2026-08-13T23:28:56.931089Z | [open](../records/rust-icu-normalizer-6bdbe494.md) |
 | instability | 0.3.13 | 2026-08-03T09:53:41.672161Z | [open](../records/rust-instability-7526f160.md) |
-| libredox | 0.1.23 | 2026-09-01T16:28:56.798096Z | [open](../records/rust-libredox-9e706cf6.md) |
+| libredox | 0.1.24 | 2026-09-11T20:57:42.000749Z | [open](../records/rust-libredox-9e706cf6.md) |
 | lock_api | 0.4.14 | 2025-10-03T23:33:12.850087Z | [open](../records/rust-lock-api-c382907c.md) |
 | maybe-uninit | 2.0.0 | 2019-07-10T13:41:31.043470Z | [open](../records/rust-maybe-uninit-89e94b0f.md) |
 | ndk-context | 0.1.1 | 2022-04-19T14:40:07.603632Z | [open](../records/rust-ndk-context-3995eb76.md) |
@@ -264,7 +264,7 @@ Records: `236`
 | codingsince1985/geo-golang | partial | 2026-04-23T01:00:38Z | [open](../records/maps-codingsince1985-geo-golang-c71d4405.md) |
 | earthaccess-dev/earthaccess | partial | 2026-09-09T18:21:36Z | [open](../records/maps-earthaccess-dev-earthaccess-9eaebdbc.md) |
 | Esri/awesome-arcgis-developers | partial | 2026-04-14T09:15:02Z | [open](../records/maps-esri-awesome-arcgis-developers-30fc62ac.md) |
-| GIScience/openrouteservice | partial | 2026-09-08T15:54:45Z | [open](../records/maps-giscience-openrouteservice-a7ed6de4.md) |
+| GIScience/openrouteservice | partial | 2026-09-11T12:56:33Z | [open](../records/maps-giscience-openrouteservice-a7ed6de4.md) |
 | googlemaps/js-samples | partial | 2026-06-24T07:10:12Z | [open](../records/maps-googlemaps-js-samples-069a80da.md) |
 | googlemaps/v3-utility-library | partial | 2021-06-21T18:37:20Z | [open](../records/maps-googlemaps-v3-utility-library-cd0c8512.md) |
 | gregrickaby/local-weather | partial | 2026-06-02T02:18:11Z | [open](../records/maps-gregrickaby-local-weather-b2d8bd7d.md) |
@@ -273,7 +273,7 @@ Records: `236`
 | luanshixia/AutoCADCodePack | partial | 2024-05-26T04:51:19Z | [open](../records/maps-luanshixia-autocadcodepack-24044755.md) |
 | mapbox/mapbox-gl-geocoder | partial | 2026-08-11T18:58:55Z | [open](../records/maps-mapbox-mapbox-gl-geocoder-33308b01.md) |
 | mapbox/mapbox-java | partial | 2026-07-31T12:04:53Z | [open](../records/maps-mapbox-mapbox-java-84dd661d.md) |
-| maximn/google-maps | partial | 2026-09-08T20:26:28Z | [open](../records/maps-maximn-google-maps-cb0af817.md) |
+| maximn/google-maps | partial | 2026-09-11T22:09:44Z | [open](../records/maps-maximn-google-maps-cb0af817.md) |
 | O-X-L/ansible-opnsense | partial | 2026-08-03T10:08:37Z | [open](../records/maps-o-x-l-ansible-opnsense-268533f6.md) |
 | OpenCageData/python-opencage-geocoder | partial | 2026-06-08T15:44:25Z | [open](../records/maps-opencagedata-python-opencage-geocoder-83e75530.md) |
 | palewire/python-googlegeocoder | partial | 2024-01-11T22:04:07Z | [open](../records/maps-palewire-python-googlegeocoder-3d237438.md) |
