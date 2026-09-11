@@ -41,9 +41,9 @@ dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | {"key": "", "name": "", "url": ""}; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

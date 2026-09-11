@@ -39,9 +39,9 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Apache-2.0; https://www.nuget.org/packages/Cake.Json/11.0.0/license |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

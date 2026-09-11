@@ -33,8 +33,8 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-09-09T13:13:25Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-11T06:56:37Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T04:46:26Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-11T15:03:00Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T15:05:50Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
@@ -42,7 +42,7 @@ Records: `69`
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-09T08:25:39Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-11T06:39:10Z | registry-derived |
-| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-11T12:19:23Z | registry-derived |
+| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-11T15:12:50Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
 | [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-10T21:44:51Z | registry-derived |
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
@@ -140,7 +140,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-10T04:51:16Z | registry-derived |
+| [protoconf/protoconf](../records/starlark-protoconf-protoconf-2d2b3184.md) | partial | 2026-09-11T14:52:09Z | registry-derived |
 | [remarshal-project/remarshal](../records/starlark-remarshal-project-remarshal-9ffddf4f.md) | partial | 2026-08-01T07:20:07Z | registry-derived |
 
 ### Undefined Behavior Analyzer

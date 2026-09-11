@@ -40,7 +40,7 @@ part of service communication, clients/servers, protocol handling, and edge inte
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | BSD-3-Clause |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; {"key": "", "name": "", "url": ""} |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

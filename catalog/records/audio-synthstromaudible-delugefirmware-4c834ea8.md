@@ -32,16 +32,16 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-11T01:01:04Z | gh search repos topic:dsp stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T13:28:35Z | gh search repos topic:dsp stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

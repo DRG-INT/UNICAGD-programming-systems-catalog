@@ -40,7 +40,7 @@ part of request routing, middleware policy, service structure, and deployment su
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other; {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

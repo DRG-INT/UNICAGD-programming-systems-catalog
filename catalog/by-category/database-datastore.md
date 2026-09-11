@@ -471,7 +471,7 @@ Records: `981`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-11T07:49:09Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-11T11:24:22Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Video
 

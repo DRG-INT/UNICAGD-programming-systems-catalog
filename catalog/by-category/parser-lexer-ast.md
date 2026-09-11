@@ -634,11 +634,11 @@ Records: `1239`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | unknown | not_a_go_module_path | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | unknown | not_a_go_module_path | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-11T14:23:58Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
-| gravitational/teleport | partial | 2026-09-10T08:48:28Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
+| GopeedLab/gopeed | partial | 2026-09-11T14:46:16Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-11T01:32:47Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
-| praetorian-inc/nerva | partial | 2026-09-10T18:53:12Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
+| praetorian-inc/nerva | partial | 2026-09-11T15:20:29Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
 | zincsearch/zincsearch | partial | 2026-06-09T05:30:16Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
 ## Starlark
@@ -666,7 +666,7 @@ Records: `1239`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-11T09:12:38Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-11T13:01:01Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-11T15:19:36Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-11T10:11:32Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -936,7 +936,7 @@ Records: `1239`
 | jarogumulec/perseidy | partial | 2026-08-12T07:13:34Z | [open](../records/space-maps-jarogumulec-perseidy-606b759b.md) |
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) |
-| jobovy/galpy | partial | 2026-09-11T03:24:59Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
+| jobovy/galpy | partial | 2026-09-11T14:58:21Z | [open](../records/space-maps-jobovy-galpy-3ddf61a7.md) |
 | JuliaAstro/SPICE.jl | partial | 2026-06-24T14:09:40Z | [open](../records/space-maps-juliaastro-spice-jl-78081df8.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | kaitlyndlee/AstroWebMaps | partial | 2019-10-11T17:52:05Z | [open](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) |
@@ -983,7 +983,7 @@ Records: `1239`
 | robertobastone/MOCHA | partial | 2021-04-18T16:00:09Z | [open](../records/space-maps-robertobastone-mocha-a557cbc2.md) |
 | roe-dl/weewx-skymap-almanac | partial | 2026-08-24T06:45:03Z | [open](../records/space-maps-roe-dl-weewx-skymap-almanac-57e37b7b.md) |
 | sanderblue/solar-system-threejs | partial | 2022-12-07T17:32:03Z | [open](../records/space-maps-sanderblue-solar-system-threejs-de57e602.md) |
-| SAOImageDS9/SAOImageDS9 | partial | 2026-09-10T13:47:25Z | [open](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) |
+| SAOImageDS9/SAOImageDS9 | partial | 2026-09-11T14:11:18Z | [open](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) |
 | saurvs/astro-rust | partial | 2019-10-20T01:17:04Z | [open](../records/space-maps-saurvs-astro-rust-b959f43f.md) |
 | sczesla/PyAstronomy | partial | 2026-06-27T22:26:51Z | [open](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) |
 | sherpa/sherpa | partial | 2026-09-09T12:51:23Z | [open](../records/space-maps-sherpa-sherpa-9f2278ff.md) |
@@ -994,10 +994,10 @@ Records: `1239`
 | spacetelescope/webbpsf | partial | 2025-12-02T16:51:26Z | [open](../records/space-maps-spacetelescope-webbpsf-5be07f40.md) |
 | SpiceSharp/SpiceSharpParser | partial | 2026-08-01T17:44:33Z | [open](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/space-maps-starlink-starlink-7f05c3ed.md) |
-| Stellarium/stellarium | partial | 2026-09-11T10:56:39Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
+| Stellarium/stellarium | partial | 2026-09-11T14:56:36Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
 | steveberardi/starplot | partial | 2026-09-09T13:29:47Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/space-maps-stingraysoftware-stingray-96dfde34.md) |
-| sunpy/sunpy | partial | 2026-09-11T10:42:45Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |
+| sunpy/sunpy | partial | 2026-09-11T14:47:10Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |
 | tbonnardel/rigel | partial | 2020-10-06T17:00:48Z | [open](../records/space-maps-tbonnardel-rigel-9d53d779.md) |
 | theoknock/JABPlanetaryHourClockKitComplication | partial | 2020-08-14T15:52:06Z | [open](../records/space-maps-theoknock-jabplanetaryhourclockkitcomplication-ec1d659b.md) |
 | thisrares/astronomy-tools | partial | 2026-08-15T15:13:34Z | [open](../records/space-maps-thisrares-astronomy-tools-b3f511cc.md) |

@@ -41,7 +41,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE |
+| Evidence | MIT License; https://api.github.com/licenses/mit; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1 |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

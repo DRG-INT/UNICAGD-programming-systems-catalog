@@ -789,7 +789,7 @@ Records: `1086`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-11T13:46:34Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| redis/go-redis | partial | 2026-09-11T14:54:06Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
@@ -936,7 +936,7 @@ Records: `1086`
 | --- | --- | --- | --- |
 | Ching367436/spice-mac | partial | 2026-08-27T16:25:56Z | [open](../records/space-maps-ching367436-spice-mac-5719b99e.md) |
 | Corsinvest/cv4pve-vdi | partial | 2026-07-30T17:05:15Z | [open](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) |
-| electerm/electerm | partial | 2026-09-11T10:26:44Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
+| electerm/electerm | partial | 2026-09-11T14:59:58Z | [open](../records/space-maps-electerm-electerm-8c5dc479.md) |
 | fat/space-tweet | partial | 2025-12-23T00:46:18Z | [open](../records/space-maps-fat-space-tweet-f2d19386.md) |
 | FreeRDP/Remmina | partial | 2026-02-08T19:09:55Z | [open](../records/space-maps-freerdp-remmina-5536d2a1.md) |
 | fujiaze/Gaia-DR3-DR3SP-Client-C | partial | 2026-07-24T09:41:47Z | [open](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) |

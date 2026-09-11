@@ -296,11 +296,11 @@ Records: `448`
 | alyssaxuu/screenity | partial | 2026-09-05T17:12:39Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
 | Ameobea/web-synth | partial | 2026-08-13T07:15:16Z | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/audio-amsynth-amsynth-d2f54c63.md) |
-| andremichelle/openDAW | partial | 2026-09-11T11:18:45Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
+| andremichelle/openDAW | partial | 2026-09-11T14:50:16Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
 | Ankalot/XenRoll | partial | 2026-07-09T09:25:03Z | [open](../records/audio-ankalot-xenroll-4c124fc2.md) |
 | apfaudio/eurorack-pmod | partial | 2026-01-29T21:53:26Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/audio-ar1st0crat-nwaves-3e35452a.md) |
-| Ardour/ardour | partial | 2026-09-11T08:08:01Z | [open](../records/audio-ardour-ardour-2553c055.md) |
+| Ardour/ardour | partial | 2026-09-11T11:33:07Z | [open](../records/audio-ardour-ardour-2553c055.md) |
 | AudioKit/ROMPlayer | partial | 2019-12-29T21:15:21Z | [open](../records/audio-audiokit-romplayer-2b98bcd6.md) |
 | belangeo/pyo | partial | 2026-07-20T17:13:45Z | [open](../records/audio-belangeo-pyo-e606cff4.md) |
 | BOBONA/Just-a-Sample | partial | 2026-08-17T18:41:25Z | [open](../records/audio-bobona-just-a-sample-82526ac0.md) |
@@ -352,7 +352,7 @@ Records: `448`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-10T20:11:15Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-09T15:45:32Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-11T15:04:03Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
@@ -402,7 +402,7 @@ Records: `448`
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
 | surge-synthesizer/surge | partial | 2026-09-05T09:17:39Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-11T01:01:04Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-11T13:28:35Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |

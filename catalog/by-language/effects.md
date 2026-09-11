@@ -671,10 +671,10 @@ Records: `782`
 | [fand/vfx-js](../records/effects-fand-vfx-js-267d1f85.md) | partial | 2026-09-10T20:58:02Z | registry-derived |
 | [fearofcode/bateman](../records/effects-fearofcode-bateman-03c24113.md) | partial | 2014-05-12T03:19:06Z | registry-derived |
 | [FlexMonkey/ParticleCam](../records/effects-flexmonkey-particlecam-751034c0.md) | partial | 2019-02-15T15:49:32Z | registry-derived |
-| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-11T03:00:14Z | registry-derived |
+| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-11T15:19:09Z | registry-derived |
 | [GabrielSCabrera/nBody](../records/effects-gabrielscabrera-nbody-387acb4c.md) | partial | 2024-03-31T14:11:02Z | registry-derived |
 | [GarrettGunnell/Iterated-Function-Systems](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) | partial | 2024-11-30T14:42:06Z | registry-derived |
-| [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-10T22:44:07Z | registry-derived |
+| [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-11T14:25:26Z | registry-derived |
 | [glotzerlab/hoomd-blue](../records/effects-glotzerlab-hoomd-blue-5217e991.md) | partial | 2026-09-02T10:33:09Z | registry-derived |
 | [glotzerlab/hoomd-examples](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) | partial | 2026-08-31T13:19:32Z | registry-derived |
 | [henriquelalves/SimpleGodotCRTShader](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) | partial | 2024-09-02T21:57:23Z | registry-derived |
@@ -963,7 +963,7 @@ Records: `782`
 | [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-09-03T19:38:01Z | registry-derived |
 | [CompleteUnityDeveloper/Laser-Defender-Original](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) | partial | 2018-08-14T11:29:55Z | registry-derived |
 | [CustomPhase/CP_SSSSS](../records/effects-customphase-cp-sssss-c1aa7a17.md) | partial | 2019-05-26T11:39:20Z | registry-derived |
-| [devanshutak25/3d-resources](../records/effects-devanshutak25-3d-resources-06f6f596.md) | partial | 2026-09-02T17:39:01Z | registry-derived |
+| [devanshutak25/3d-resources](../records/effects-devanshutak25-3d-resources-06f6f596.md) | partial | 2026-09-11T14:24:18Z | registry-derived |
 | [drcmda/the-substance](../records/effects-drcmda-the-substance-4aa8820d.md) | partial | 2020-06-07T15:23:14Z | registry-derived |
 | [fazeaction/three-gpu-particle-system](../records/effects-fazeaction-three-gpu-particle-system-caae7202.md) | partial | 2023-03-06T02:46:39Z | registry-derived |
 | [Fubaxiusz/fubax-shaders](../records/effects-fubaxiusz-fubax-shaders-14b8761d.md) | partial | 2026-08-13T18:00:56Z | registry-derived |

@@ -41,9 +41,9 @@ persistence, migrations, performance, and operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT; {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit; Other |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; Other |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
