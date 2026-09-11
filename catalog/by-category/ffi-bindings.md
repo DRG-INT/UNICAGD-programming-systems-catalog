@@ -17,14 +17,14 @@ Records: `486`
 [Embedded Hardware (68)](embedded-hardware.md) · **[Ffi Bindings (486)](ffi-bindings.md)** · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -227,7 +227,7 @@ Records: `486`
 | @axiomhq/logging | 0.4.0 | 2026-08-04T10:18:22.560Z | [open](../records/node-js-javascript-axiomhq-logging-1a778042.md) |
 | @blocksuite/affine-block-database | 0.22.4 | 2025-07-01T05:43:11.761Z | [open](../records/node-js-javascript-blocksuite-affine-block-database-c0168ec8.md) |
 | @blocksuite/data-view | 0.22.4 | 2025-07-01T05:43:33.867Z | [open](../records/node-js-javascript-blocksuite-data-view-d981610e.md) |
-| @browserstack/mcp-server | 1.3.2 | 2026-09-09T07:27:07.037Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
+| @browserstack/mcp-server | 1.3.3 | 2026-09-11T12:45:23.423Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | @canva/cli | 2.11.0 | 2026-09-01T23:13:10.264Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
 | @datadog/openfeature-node-server | 2.2.0 | 2026-08-21T16:37:22.615Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @larksuite/cli | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](../records/node-js-javascript-larksuite-cli-442a55c5.md) |
@@ -615,7 +615,7 @@ Records: `486`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Arkanic/rtljs | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-arkanic-rtljs-1bff2dba.md) |
-| ElmerCSC/elmerfem | partial | 2026-09-11T13:14:49Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-11T13:37:30Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | hbldh/pymetawear | partial | 2023-05-30T14:04:42Z | [open](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 | youxch/Inverse-design-of-patch-antennas | partial | 2024-10-10T07:04:39Z | [open](../records/electromagnetoscopes-youxch-inverse-design-of-patch-antennas-3ea13c86.md) |
 

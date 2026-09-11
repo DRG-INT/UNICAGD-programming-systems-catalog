@@ -1,6 +1,6 @@
 # Library
 
-Records: `6060`
+Records: `6061`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `6060`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6060)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6061)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -1835,7 +1835,7 @@ Records: `6060`
 | slice-group-by | 0.3.1 | 2023-05-03T13:14:15.474244Z | [open](../records/rust-slice-group-by-fcc8a443.md) |
 | slotmap | 1.1.1 | 2025-12-06T12:30:22.308199Z | [open](../records/rust-slotmap-a02e5deb.md) |
 | slug | 0.1.6 | 2024-08-15T20:04:40.170528Z | [open](../records/rust-slug-94dc39e5.md) |
-| smallvec | 1.16.0 | 2026-09-03T18:50:48.151715Z | [open](../records/rust-smallvec-fae87076.md) |
+| smallvec | 1.16.1 | 2026-09-11T13:46:31.582594Z | [open](../records/rust-smallvec-fae87076.md) |
 | smart-default | 0.7.1 | 2023-04-24T15:51:20.102795Z | [open](../records/rust-smart-default-f5b27658.md) |
 | smartstring | 1.0.1 | 2022-03-24T18:30:52.441790Z | [open](../records/rust-smartstring-22233b15.md) |
 | smawk | 0.3.3 | 2026-06-16T07:57:57.903963Z | [open](../records/rust-smawk-c645798a.md) |
@@ -2728,6 +2728,7 @@ Records: `6060`
 | hopkins | 1.2 | 2026-09-09 16:10:01 UTC | [open](../records/r-hopkins-ac392d26.md) |
 | hours2lessons | 1.0.0 | 2026-09-10 15:30:24 UTC | [open](../records/r-hours2lessons-3d1ed7f0.md) |
 | howManyImputations | 0.2.6 | 2026-08-24 18:00:10 UTC | [open](../records/r-howmanyimputations-a86e6ecc.md) |
+| HRM | 1.3.0 | 2026-09-11 14:00:02 UTC | [open](../records/r-hrm-88628366.md) |
 | huge | 2.0.1 | 2026-08-04 10:30:34 UTC | [open](../records/r-huge-4b543849.md) |
 | huggingfaceR | 2.2.0 | 2026-08-29 18:10:02 UTC | [open](../records/r-huggingfacer-fa882b6e.md) |
 | HVS | 1.0.1 | 2026-08-19 16:10:15 UTC | [open](../records/r-hvs-28200727.md) |
@@ -4155,9 +4156,9 @@ Records: `6060`
 | transformers-compat | 0.8 | 2026-01-11T02:47:58Z | [open](../records/haskell-transformers-compat-807e2060.md) |
 | transient | 0.7.0.0 | 2020-07-24T11:50:50Z | [open](../records/haskell-transient-c89f21cb.md) |
 | transient-universe | 0.6.0.1 | 2020-07-29T08:33:29Z | [open](../records/haskell-transient-universe-a8372c5c.md) |
-| tricorder | 0.2.2.2 | 2026-09-10T14:09:10Z | [open](../records/haskell-tricorder-354456ad.md) |
-| tricorder-mcp | 0.1.1.0 | 2026-09-01T08:57:38Z | [open](../records/haskell-tricorder-mcp-95664038.md) |
-| tricorder-types | 0.2.0.0 | 2026-09-10T14:08:58Z | [open](../records/haskell-tricorder-types-5b7c3ebd.md) |
+| tricorder | 0.2.2.3 | 2026-09-11T13:57:20Z | [open](../records/haskell-tricorder-354456ad.md) |
+| tricorder-mcp | 0.1.2.1 | 2026-09-11T13:43:56Z | [open](../records/haskell-tricorder-mcp-95664038.md) |
+| tricorder-types | 0.3.0.0 | 2026-09-11T13:31:36Z | [open](../records/haskell-tricorder-types-5b7c3ebd.md) |
 | trifecta | 2.1.4 | 2024-02-07T15:52:11Z | [open](../records/haskell-trifecta-b5f6d0a8.md) |
 | ttc | 1.5.0.1 | 2026-01-10T10:29:39Z | [open](../records/haskell-ttc-b82444ef.md) |
 | tttool | 1.8.1 | 2019-03-30T20:32:32Z | [open](../records/haskell-tttool-dca398d9.md) |
@@ -4502,7 +4503,7 @@ Records: `6060`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T13:13:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T14:21:47Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5476,7 +5477,7 @@ Records: `6060`
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |
 | feedback-assistant/reports | partial | 2025-11-07T04:38:18Z | [open](../records/radars-feedback-assistant-reports-4bc463b2.md) |
 | fudanxu/SAR-Colorization | partial | 2018-04-23T10:29:38Z | [open](../records/radars-fudanxu-sar-colorization-ab744559.md) |
-| gnss-sdr/gnss-sdr | partial | 2026-09-07T19:39:36Z | [open](../records/radars-gnss-sdr-gnss-sdr-fb2437ad.md) |
+| gnss-sdr/gnss-sdr | partial | 2026-09-10T10:38:25Z | [open](../records/radars-gnss-sdr-gnss-sdr-fb2437ad.md) |
 | HamzaGhazouani/HGRippleRadarView | partial | 2019-10-13T20:27:29Z | [open](../records/radars-hamzaghazouani-hgrippleradarview-02e426a9.md) |
 | hi-paris/deepdespeckling | partial | 2025-07-25T10:03:26Z | [open](../records/radars-hi-paris-deepdespeckling-121ce4f7.md) |
 | hunterlew/mstar_deeplearning_project | partial | 2018-03-14T03:09:57Z | [open](../records/radars-hunterlew-mstar-deeplearning-project-f2f00b72.md) |
@@ -5493,7 +5494,7 @@ Records: `6060`
 | Marksman007577/Autonomous-Drive | partial | 2026-04-15T22:00:15Z | [open](../records/radars-marksman007577-autonomous-drive-b586becf.md) |
 | milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch | partial | 2020-11-11T07:15:43Z | [open](../records/radars-milleniums-high-resolution-remote-sensing-semantic-segmentation-pytorch-1037fac4.md) |
 | moienr/TemporalGAN | partial | 2024-08-13T08:19:30Z | [open](../records/radars-moienr-temporalgan-ffcc19f2.md) |
-| moov-io/fincen | partial | 2026-09-02T18:28:20Z | [open](../records/radars-moov-io-fincen-b43822ff.md) |
+| moov-io/fincen | partial | 2026-09-10T03:43:59Z | [open](../records/radars-moov-io-fincen-b43822ff.md) |
 | NeuroFan/Algorithmic-SAR-ADC-simulation-files | partial | 2024-06-29T10:51:12Z | [open](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) |
 | ngageoint/sarpy_apps | partial | 2025-08-19T15:16:27Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
 | Nouuu/Albion-Online-OpenRadar | partial | 2026-09-10T06:42:35Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
@@ -5510,7 +5511,7 @@ Records: `6060`
 | Research-and-Project/mmWave_radar_tracking | partial | 2024-12-19T01:30:23Z | [open](../records/radars-research-and-project-mmwave-radar-tracking-93627252.md) |
 | SAR-ARD/s1ard | partial | 2026-09-03T14:40:15Z | [open](../records/radars-sar-ard-s1ard-a9db69ca.md) |
 | scottstanie/apertools | partial | 2026-05-12T18:05:57Z | [open](../records/radars-scottstanie-apertools-e4d85ca7.md) |
-| senbox-org/microwave-toolbox | partial | 2026-09-02T20:09:54Z | [open](../records/radars-senbox-org-microwave-toolbox-c7fa5f67.md) |
+| senbox-org/microwave-toolbox | partial | 2026-09-09T13:01:35Z | [open](../records/radars-senbox-org-microwave-toolbox-c7fa5f67.md) |
 | senbox-org/s1tbx | partial | 2024-08-07T08:40:45Z | [open](../records/radars-senbox-org-s1tbx-186609d3.md) |
 | Shank2358/GGHL | partial | 2023-02-23T04:48:13Z | [open](../records/radars-shank2358-gghl-57fd795f.md) |
 | snstac/inrcot | partial | 2026-06-11T00:53:45Z | [open](../records/radars-snstac-inrcot-4c4b43ca.md) |
@@ -5544,13 +5545,13 @@ Records: `6060`
 | BitBangingBytes/gr-smart_meters | partial | 2023-09-25T14:44:10Z | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
 | blaylockbk/goes2go | partial | 2026-06-17T05:07:20Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
 | brian-armstrong/fec | partial | 2026-08-08T05:34:45Z | [open](../records/satcom-satellites-brian-armstrong-fec-b785fbe7.md) |
-| btfz-sdr/gnuradio_demo | partial | 2026-09-11T03:19:21Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
+| btfz-sdr/gnuradio_demo | partial | 2026-09-11T09:16:56Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/satcom-satellites-cariboulabs-cariboulite-4bcd3490.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/satcom-satellites-codyd51-gypsum-367a7afa.md) |
 | csdvb/dvbs2_tx | partial | 2018-06-14T20:47:16Z | [open](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) |
 | csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/satcom-satellites-csete-gpredict-00041760.md) |
 | DahnJ/EO-jobs | partial | 2026-06-15T01:11:51Z | [open](../records/satcom-satellites-dahnj-eo-jobs-976e2c28.md) |
-| daniestevez/gr-satellites | partial | 2026-09-09T19:22:05Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
+| daniestevez/gr-satellites | partial | 2026-09-11T07:16:10Z | [open](../records/satcom-satellites-daniestevez-gr-satellites-e33d9ffc.md) |
 | dariol83/drorbiteex | partial | 2024-07-14T15:06:16Z | [open](../records/satcom-satellites-dariol83-drorbiteex-4650c774.md) |
 | dernasherbrezon/jradio | partial | 2026-08-08T16:41:43Z | [open](../records/satcom-satellites-dernasherbrezon-jradio-5b3316f1.md) |
 | dimitriblock/gr-cheatsheet | partial | 2018-04-23T15:29:47Z | [open](../records/satcom-satellites-dimitriblock-gr-cheatsheet-302c9310.md) |
@@ -5603,7 +5604,7 @@ Records: `6060`
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-06T12:02:20Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| SatDump/SatDump | partial | 2026-09-11T10:25:53Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | satnogs/gr-satnogs | partial | 2018-12-17T14:53:47Z | [open](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
@@ -5647,7 +5648,7 @@ Records: `6060`
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
 | fanmingming/live | partial | 2026-09-11T12:36:40Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
-| fooyin/fooyin | partial | 2026-09-11T13:15:59Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fooyin/fooyin | partial | 2026-09-11T13:57:25Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | gaspode-t-wonderdog/moxon-frame-generator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) |
 | geekysuavo/pyppm | partial | 2021-07-04T15:42:35Z | [open](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
@@ -5723,7 +5724,7 @@ Records: `6060`
 | wheaney/magnetometer-calibrate | partial | 2024-11-18T18:58:52Z | [open](../records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
 | wodowiesel/PiFunk | partial | 2026-09-03T20:29:19Z | [open](../records/electromagnetoscopes-wodowiesel-pifunk-91f28ad9.md) |
-| x-extends/vxe-table | partial | 2026-09-11T08:55:48Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
+| x-extends/vxe-table | partial | 2026-09-11T13:52:22Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
 | Xinyuan-LilyGO/LilyGo-LoRa-Series | partial | 2026-08-28T02:48:29Z | [open](../records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) |
 | y20k/transistor | partial | 2024-02-20T21:00:23Z | [open](../records/electromagnetoscopes-y20k-transistor-f153afb0.md) |

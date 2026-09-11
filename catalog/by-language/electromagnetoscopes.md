@@ -17,14 +17,14 @@ Records: `499`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (666)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6060)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (550)](../by-category/logging-observability.md) · [Machine Learning (853)](../by-category/machine-learning.md)
-[Math Numeric Scientific (96)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6061)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (550)](../by-category/logging-observability.md) · [Machine Learning (854)](../by-category/machine-learning.md)
+[Math Numeric Scientific (96)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (641)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1659)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (644)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -155,7 +155,7 @@ Records: `499`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Arkanic/rtljs](../records/electromagnetoscopes-arkanic-rtljs-1bff2dba.md) | unknown | github_latest_release_missing | registry-derived |
-| [ElmerCSC/elmerfem](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) | partial | 2026-09-11T13:14:49Z | registry-derived |
+| [ElmerCSC/elmerfem](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) | partial | 2026-09-11T13:37:30Z | registry-derived |
 | [hbldh/pymetawear](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) | partial | 2023-05-30T14:04:42Z | registry-derived |
 | [youxch/Inverse-design-of-patch-antennas](../records/electromagnetoscopes-youxch-inverse-design-of-patch-antennas-3ea13c86.md) | partial | 2024-10-10T07:04:39Z | registry-derived |
 
@@ -341,7 +341,7 @@ Records: `499`
 | [fancompute/ceviche](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) | partial | 2023-07-06T21:35:53Z | registry-derived |
 | [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-11T12:36:40Z | registry-derived |
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-08-31T16:18:14Z | registry-derived |
-| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-11T13:15:59Z | registry-derived |
+| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-11T13:57:25Z | registry-derived |
 | [gaspode-t-wonderdog/moxon-frame-generator](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) | unknown | github_latest_release_missing | registry-derived |
 | [geekysuavo/pyppm](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) | partial | 2021-07-04T15:42:35Z | registry-derived |
 | [git-artes/gr-tempest](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
@@ -417,7 +417,7 @@ Records: `499`
 | [wheaney/magnetometer-calibrate](../records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) | partial | 2024-11-18T18:58:52Z | registry-derived |
 | [wiedehopf/readsb](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) | partial | 2026-08-22T14:44:23Z | registry-derived |
 | [wodowiesel/PiFunk](../records/electromagnetoscopes-wodowiesel-pifunk-91f28ad9.md) | partial | 2026-09-03T20:29:19Z | registry-derived |
-| [x-extends/vxe-table](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) | partial | 2026-09-11T08:55:48Z | registry-derived |
+| [x-extends/vxe-table](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) | partial | 2026-09-11T13:52:22Z | registry-derived |
 | [xaelsouth/rtl-wmbus](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) | partial | 2026-05-31T04:54:41Z | registry-derived |
 | [Xinyuan-LilyGO/LilyGo-LoRa-Series](../records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) | partial | 2026-08-28T02:48:29Z | registry-derived |
 | [y20k/transistor](../records/electromagnetoscopes-y20k-transistor-f153afb0.md) | partial | 2024-02-20T21:00:23Z | registry-derived |
@@ -431,7 +431,7 @@ Records: `499`
 | [analogcode/Swift-Radio-Pro](../records/electromagnetoscopes-analogcode-swift-radio-pro-46d0d487.md) | partial | 2026-07-05T16:45:42Z | registry-derived |
 | [analogdevicesinc/plutosdr-fw](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) | partial | 2026-08-13T21:21:29Z | registry-derived |
 | [davigmacode/flutter_smart_select](../records/electromagnetoscopes-davigmacode-flutter-smart-select-fdc8fd87.md) | partial | 2023-10-03T12:52:26Z | registry-derived |
-| [sgoudelis/ground-station](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) | partial | 2026-09-11T13:20:04Z | registry-derived |
+| [sgoudelis/ground-station](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) | partial | 2026-09-11T13:51:01Z | registry-derived |
 | [stephendpmurphy/icm20948](../records/electromagnetoscopes-stephendpmurphy-icm20948-afb8461d.md) | partial | 2021-09-16T20:36:06Z | registry-derived |
 | [Varvrar/ios_logger](../records/electromagnetoscopes-varvrar-ios-logger-a2f9d628.md) | partial | 2020-09-07T10:59:44Z | registry-derived |
 
@@ -511,7 +511,7 @@ Records: `499`
 | [flexcompute/tidy3d](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) | partial | 2026-08-07T07:32:11Z | registry-derived |
 | [Gjacquenot/Puma-EM](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) | partial | 2020-09-12T13:09:29Z | registry-derived |
 | [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-11T00:23:52Z | registry-derived |
-| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-11T13:21:13Z | registry-derived |
+| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-11T14:25:13Z | registry-derived |
 | [ocastilloreyes/petgem](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) | partial | 2026-07-30T08:00:28Z | registry-derived |
 | [pagermon/pagermon](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) | partial | 2026-08-04T22:51:57Z | registry-derived |
 | [psyb0t/piraterf](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) | partial | 2026-08-01T19:49:42Z | registry-derived |

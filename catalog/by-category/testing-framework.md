@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `641`
+Records: `644`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `641`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (641)](testing-framework.md)** · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · **[Testing Framework (644)](testing-framework.md)** · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -170,7 +170,7 @@ Records: `641`
 | @fast-check/jest | 2.3.0 | 2026-09-11T07:51:16.759Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
 | @fast-check/vitest | 0.5.0 | 2026-09-11T07:53:32.669Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | @fedify/testing | 2.3.6 | 2026-08-23T15:05:59.804Z | [open](../records/node-js-javascript-fedify-testing-fe851537.md) |
-| @genesislcap/foundation-testing | 15.27.0 | 2026-09-11T09:47:42.628Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| @genesislcap/foundation-testing | 15.27.1 | 2026-09-11T13:26:17.438Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | @golevelup/ts-vitest | 4.0.0 | 2026-03-18T20:15:23.670Z | [open](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) |
 | @graphql-codegen/testing | 5.0.1 | 2026-05-27T13:31:00.554Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
@@ -216,7 +216,7 @@ Records: `641`
 | @poppinss/prompts | 3.1.6 | 2025-12-12T07:54:55.554Z | [open](../records/node-js-javascript-poppinss-prompts-4a71453e.md) |
 | @prisma/dev | 0.25.2 | 2026-08-25T12:32:40.657Z | [open](../records/node-js-javascript-prisma-dev-ebabf9f7.md) |
 | @react-aria/test-utils | 1.0.0-rc.1 | 2026-09-01T14:24:42.369Z | [open](../records/node-js-javascript-react-aria-test-utils-ef51a2d5.md) |
-| @redocly/respect-core | 2.52.0 | 2026-09-10T15:41:10.367Z | [open](../records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
+| @redocly/respect-core | 2.52.1 | 2026-09-11T13:39:41.003Z | [open](../records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
 | @redux-saga/testing-utils | 1.2.3 | 2026-05-21T15:33:39.087Z | [open](../records/node-js-javascript-redux-saga-testing-utils-600a4a68.md) |
 | @redwoodjs/testing | 8.9.0 | 2025-10-21T09:44:21.720Z | [open](../records/node-js-javascript-redwoodjs-testing-d84db9e5.md) |
 | @remix-run/testing | 2.17.5 | 2026-06-01T14:46:42.849Z | [open](../records/node-js-javascript-remix-run-testing-f8fe02b2.md) |
@@ -279,6 +279,7 @@ Records: `641`
 | axe-core | 4.13.0 | 2026-08-05T16:53:07.262Z | [open](../records/node-js-javascript-axe-core-b55e29e7.md) |
 | babel-plugin-tester | 12.0.0 | 2025-06-14T11:53:52.570Z | [open](../records/node-js-javascript-babel-plugin-tester-d13f961e.md) |
 | bats | 1.13.0 | 2025-11-07T16:17:56.231Z | [open](../records/node-js-javascript-bats-fbd083a0.md) |
+| bs-dom-testing-library | 0.7.0 | 2020-10-21T12:17:32.984Z | [open](../records/node-js-javascript-bs-dom-testing-library-4608d821.md) |
 | chai-http | 5.1.2 | 2025-05-02T10:12:41.134Z | [open](../records/node-js-javascript-chai-http-410bbc52.md) |
 | chromatic | 18.8.0 | 2026-09-10T15:47:18.058Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
 | cli-testing-library | 4.0.0 | 2026-08-11T05:46:42.024Z | [open](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
@@ -516,7 +517,9 @@ Records: `641`
 | polysemy-test | 0.11.0.1 | 2026-04-27T14:41:34Z | [open](../records/haskell-polysemy-test-c2be84ef.md) |
 | shelltestrunner | 1.11 | 2025-11-18T08:57:22Z | [open](../records/haskell-shelltestrunner-fa7b5020.md) |
 | streaming-bytestring | 0.3.4 | 2025-02-11T09:33:05Z | [open](../records/haskell-streaming-bytestring-78cfcae5.md) |
-| sydtest | 0.30.0.0 | 2026-09-02T12:51:59Z | [open](../records/haskell-sydtest-4ee551d3.md) |
+| sydtest | 0.31.0.0 | 2026-09-11T13:41:53Z | [open](../records/haskell-sydtest-4ee551d3.md) |
+| sydtest-mutation-driver | 0.2.0.0 | 2026-09-11T13:41:56Z | [open](../records/haskell-sydtest-mutation-driver-308dc55e.md) |
+| sydtest-mutation-plugin | 0.5.0.0 | 2026-09-11T13:23:55Z | [open](../records/haskell-sydtest-mutation-plugin-e9523493.md) |
 | test-framework | 0.8.2.3 | 2026-01-05T13:44:05Z | [open](../records/haskell-test-framework-fa8f43e5.md) |
 | test-framework-quickcheck2 | 0.3.0.7 | 2026-01-05T13:43:55Z | [open](../records/haskell-test-framework-quickcheck2-52913538.md) |
 | test-sandbox | 0.1.9 | 2021-10-26T15:08:29Z | [open](../records/haskell-test-sandbox-6e07fc62.md) |

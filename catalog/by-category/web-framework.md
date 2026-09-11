@@ -17,14 +17,14 @@ Records: `495`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
 
 ## C++23
 
@@ -241,7 +241,7 @@ Records: `495`
 | @transcend-io/mcp-server-discovery | 1.0.5 | 2026-09-10T21:52:22.992Z | [open](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @transcend-io/mcp-server-dsr | 2.0.2 | 2026-09-10T21:52:22.864Z | [open](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | @transcend-io/mcp-server-inventory | 1.0.5 | 2026-09-10T21:52:22.751Z | [open](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-preferences | 0.7.3 | 2026-09-08T20:42:57.384Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-preferences | 0.7.8 | 2026-09-10T21:53:17.552Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-workflows | 1.0.5 | 2026-09-10T21:52:27.637Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
@@ -568,7 +568,7 @@ Records: `495`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-11T13:07:35Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-11T14:07:48Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 

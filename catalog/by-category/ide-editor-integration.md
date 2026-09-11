@@ -17,14 +17,14 @@ Records: `1511`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · **[Ide Editor Integration (1511)](ide-editor-integration.md)**
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -613,7 +613,7 @@ Records: `1511`
 | flutter_box_transform | 0.4.7 | 2025-03-26T10:53:15.777522Z | [open](../records/dart-flutter-box-transform-16ba1d97.md) |
 | flutter_image_slideshow | 0.1.6 | 2023-07-02T05:42:10.674055Z | [open](../records/dart-flutter-image-slideshow-e2e6ea1f.md) |
 | flutter_keyboard_size | 1.0.1 | 2022-10-18T10:49:32.759359Z | [open](../records/dart-flutter-keyboard-size-338c09b5.md) |
-| flutter_lucide | 1.44.0 | 2026-09-11T12:11:22.005009Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
+| flutter_lucide | 1.45.0 | 2026-09-11T12:39:46.495719Z | [open](../records/dart-flutter-lucide-ac11e8f7.md) |
 | flutter_nfc_kit | 3.6.2 | 2026-01-20T15:23:42.703588Z | [open](../records/dart-flutter-nfc-kit-0b36db6d.md) |
 | flutter_pdfview | 1.4.5 | 2026-08-03T08:46:40.273636Z | [open](../records/dart-flutter-pdfview-eb6c3523.md) |
 | flutter_redux | 0.10.0 | 2022-05-14T16:57:43.726716Z | [open](../records/dart-flutter-redux-e7325a5a.md) |
@@ -693,11 +693,11 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-11T13:01:33Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T14:21:50Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-11T12:15:22Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-11T12:45:06Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-11T13:27:34Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1402,11 +1402,11 @@ Records: `1511`
 | ashuttl/linecast | partial | 2026-09-11T00:06:15Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
-| bgin/RF-EMT | partial | 2026-09-07T11:32:58Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |
+| bgin/RF-EMT | partial | 2026-09-11T11:01:43Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |
 | ChenHongruixuan/ChangeDetectionRepository | partial | 2021-11-08T03:24:27Z | [open](../records/radars-chenhongruixuan-changedetectionrepository-b7588393.md) |
 | CyanideCN/PyCINRAD | partial | 2026-06-26T10:45:59Z | [open](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) |
 | fitoprincipe/geetools-code-editor | partial | 2023-10-02T23:06:19Z | [open](../records/radars-fitoprincipe-geetools-code-editor-1080a1fa.md) |
-| iann0036/iam-dataset | partial | 2026-09-07T16:42:57Z | [open](../records/radars-iann0036-iam-dataset-774cb2c0.md) |
+| iann0036/iam-dataset | partial | 2026-09-09T13:37:54Z | [open](../records/radars-iann0036-iam-dataset-774cb2c0.md) |
 | kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8 | partial | 2025-12-04T23:48:35Z | [open](../records/radars-kbhujbal-trident-synthetic-aperture-radar-maritime-vessel-detection-yolov8-84b83c31.md) |
 | manideep2510/eye-in-the-sky | partial | 2023-03-24T22:27:12Z | [open](../records/radars-manideep2510-eye-in-the-sky-f8be2776.md) |
 | PrideLab/PRIDE-PPPAR | partial | 2026-08-07T05:06:59Z | [open](../records/radars-pridelab-pride-pppar-ccbcde5b.md) |
@@ -1561,7 +1561,7 @@ Records: `1511`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-08T20:13:05Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-10T22:27:04Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-11T13:37:54Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

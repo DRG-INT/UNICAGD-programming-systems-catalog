@@ -17,14 +17,14 @@ Records: `666`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · **[Formatter (666)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -170,8 +170,8 @@ Records: `666`
 | @doist/prettier-config | 4.0.1 | 2025-11-13T18:47:07.005Z | [open](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
 | @excalidraw/prettier-config | 1.0.2 | 2021-02-25T14:12:02.335Z | [open](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) |
 | @exodus/prettier | 1.0.0 | 2023-09-12T15:23:38.560Z | [open](../records/node-js-javascript-exodus-prettier-04dd5e42.md) |
-| @formatjs/cli | 6.16.25 | 2026-09-10T20:43:37.037Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
-| @formatjs/cli-lib | 10.0.1 | 2026-09-10T20:43:27.443Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @formatjs/cli | 6.16.26 | 2026-09-11T13:34:37.229Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | 10.0.2 | 2026-09-11T13:32:37.728Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @forsakringskassan/prettier-config | 3.7.8 | 2026-07-25T01:10:43.405Z | [open](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | @fsouza/prettierd | 0.29.0 | 2026-07-26T03:59:25.309Z | [open](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) |
 | @ganintegrity/prettier-config | 2.2.1 | 2026-06-08T07:17:05.224Z | [open](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
@@ -546,7 +546,7 @@ Records: `666`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T13:14:44Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T14:25:20Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -824,7 +824,7 @@ Records: `666`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | gabledata/recap | partial | 2025-12-30T22:10:01Z | [open](../records/catalogs-gabledata-recap-0e1817aa.md) |
-| ihsn/nada | partial | 2026-09-11T13:08:54Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
+| ihsn/nada | partial | 2026-09-11T13:31:51Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
 | MediaSavvy/MediaSavvy | partial | 2026-08-16T16:39:22Z | [open](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) |
 | opengeos/Earth-Engine-Catalog | partial | 2026-09-11T03:36:46Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
 | postgrespro/rum | partial | 2026-09-07T12:55:16Z | [open](../records/catalogs-postgrespro-rum-fb7c64d1.md) |
@@ -922,7 +922,7 @@ Records: `666`
 | alasca.cloud/tarook/tarook | partial | 2026-09-11T08:28:44.370Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
-| gitlab-org/cves | partial | 2026-09-11T11:52:31.557Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
+| gitlab-org/cves | partial | 2026-09-11T13:25:27.407Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | guided-explorations/aws/cloudformation/cloudformation-deploy | partial | 2026-07-14T13:33:11.462Z | [open](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
 | libosinfo/osinfo-db | partial | 2026-09-11T00:26:00.206Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
 | Screwtapello/isa65xx | partial | 2025-04-08T08:23:48.640Z | [open](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |

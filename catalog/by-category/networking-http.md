@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1085`
+Records: `1086`
 
 ## Navigation
 
@@ -17,14 +17,14 @@ Records: `1085`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1085)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1086)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -397,6 +397,7 @@ Records: `1085`
 | http-proxy-3 | 2.0.1 | 2026-08-27T18:14:13.262Z | [open](../records/node-js-javascript-http-proxy-3-0a2b7d01.md) |
 | http-proxy-agent | 9.1.0 | 2026-06-08T16:47:24.200Z | [open](../records/node-js-javascript-http-proxy-agent-b340b619.md) |
 | http-proxy-node16 | 1.0.6 | 2025-01-09T13:42:34.536Z | [open](../records/node-js-javascript-http-proxy-node16-d499aaa0.md) |
+| http-rabbitmq-manager | 0.0.4 | 2018-05-06T14:56:54.075Z | [open](../records/node-js-javascript-http-rabbitmq-manager-2c577145.md) |
 | http-reasons | 0.1.0 | 2016-06-22T13:42:39.154Z | [open](../records/node-js-javascript-http-reasons-897bee63.md) |
 | http-response-object | 3.0.2 | 2019-03-20T05:58:08.292Z | [open](../records/node-js-javascript-http-response-object-b645cc49.md) |
 | http-server | 14.1.1 | 2022-05-31T21:34:27.707Z | [open](../records/node-js-javascript-http-server-18c342d2.md) |
@@ -788,7 +789,7 @@ Records: `1085`
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-11T12:56:08Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| redis/go-redis | partial | 2026-09-11T13:46:34Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
@@ -1058,7 +1059,7 @@ Records: `1085`
 | nshaud/DeepNetsForEO | partial | 2019-10-23T15:22:56Z | [open](../records/radars-nshaud-deepnetsforeo-d940b4c6.md) |
 | RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection | partial | 2024-10-13T18:54:40Z | [open](../records/radars-rituyadav92-radar-rgb-attentive-multimodal-object-detection-19eda9ab.md) |
 | TUMFTM/RadarGNN | partial | 2025-11-27T07:10:39Z | [open](../records/radars-tumftm-radargnn-505af59d.md) |
-| vlsi/ksar | partial | 2026-07-12T18:32:36Z | [open](../records/radars-vlsi-ksar-b267885c.md) |
+| vlsi/ksar | partial | 2026-09-09T06:52:41Z | [open](../records/radars-vlsi-ksar-b267885c.md) |
 | wgcban/ChangeFormer | partial | 2024-01-31T15:06:58Z | [open](../records/radars-wgcban-changeformer-a997cdc7.md) |
 | yizhou-wang/RODNet | partial | 2022-08-11T18:25:00Z | [open](../records/radars-yizhou-wang-rodnet-ad2cb74d.md) |
 
