@@ -17,7 +17,7 @@
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (549)](by-category/logging-observability.md) · [Machine Learning (852)](by-category/machine-learning.md)
 [Math Numeric Scientific (95)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1085)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](by-category/precommit-ci-quality.md)
-[Profiler (97)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (666)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (640)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1658)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
@@ -5759,6 +5759,7 @@
 | `github_search_aims-407cddca0878eb` | sansan0/TrendRadar | [open](records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | `github_search_aims-41c1202344df7f` | tinyhumansai/openhuman | [open](records/aim-s-tinyhumansai-openhuman-c683371f.md) |
 | `github_search_aims-420c6127cd8276` | HandsOnLLM/Hands-On-Large-Language-Models | [open](records/aim-s-handsonllm-hands-on-large-language-models-cb0aa8e6.md) |
+| `github_search_aims-423dd236c4f215` | langfuse/langfuse | [open](records/aim-s-langfuse-langfuse-5c6399a9.md) |
 | `github_search_aims-4a3e22fb01b687` | gitleaks/gitleaks | [open](records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | `github_search_aims-4caaabd7e9059e` | langfuse/langfuse | [open](records/aim-s-langfuse-langfuse-83471c55.md) |
 | `github_search_aims-4f295c23eb8a9f` | HKUDS/LightRAG | [open](records/aim-s-hkuds-lightrag-8991527b.md) |

@@ -21,7 +21,7 @@ Records: `271`
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (549)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
 [Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
-[Profiler (97)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
+[Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (666)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (640)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1658)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
@@ -185,7 +185,7 @@ Records: `271`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-10T15:50:54Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-11T08:39:37Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-08T13:47:24Z | registry-derived |
 | [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-09T18:43:09Z | registry-derived |
@@ -234,7 +234,7 @@ Records: `271`
 | [adrn/gala](../records/telescopes-adrn-gala-6a3e8fbd.md) | partial | 2026-09-08T12:47:47Z | registry-derived |
 | [AllskyTeam/allsky](../records/telescopes-allskyteam-allsky-a37843a6.md) | partial | 2026-08-31T20:50:25Z | registry-derived |
 | [amusecode/amuse](../records/telescopes-amusecode-amuse-e9459e7a.md) | partial | 2026-07-15T15:48:16Z | registry-derived |
-| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-11T05:10:35Z | registry-derived |
+| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-11T08:46:56Z | registry-derived |
 | [astrolabsoftware/spark-fits](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) | partial | 2023-04-12T06:06:50Z | registry-derived |
 | [astropy-learn/astropy-tutorials](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) | partial | 2026-09-07T16:51:31Z | registry-derived |
 | [astropy/astroquery](../records/telescopes-astropy-astroquery-218a1107.md) | partial | 2026-09-04T03:39:09Z | registry-derived |
@@ -325,7 +325,7 @@ Records: `271`
 | [PlasmaPy/PlasmaPy](../records/telescopes-plasmapy-plasmapy-dcb9bd68.md) | partial | 2026-09-08T13:09:49Z | registry-derived |
 | [pludov/mobindi](../records/telescopes-pludov-mobindi-2dcfeccf.md) | partial | 2026-06-13T21:45:03Z | registry-derived |
 | [polatory/polatory](../records/telescopes-polatory-polatory-50968260.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
-| [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-09-10T11:16:53Z | registry-derived |
+| [ppp-one/astra](../records/telescopes-ppp-one-astra-58695d7f.md) | partial | 2026-09-11T07:56:15Z | registry-derived |
 | [PyAutoLabs/PyAutoLens](../records/telescopes-pyautolabs-pyautolens-7eba1af6.md) | partial | 2026-09-08T18:19:47Z | registry-derived |
 | [quatrope/astroalign](../records/telescopes-quatrope-astroalign-6c654556.md) | partial | 2025-09-24T18:22:23Z | registry-derived |
 | [rhnvrm/galaxy-image-classifier-tensorflow](../records/telescopes-rhnvrm-galaxy-image-classifier-tensorflow-27b731bb.md) | partial | 2017-10-25T19:26:30Z | registry-derived |
@@ -339,7 +339,7 @@ Records: `271`
 | [scottstirling/pi2llm](../records/telescopes-scottstirling-pi2llm-576ad030.md) | partial | 2026-06-26T22:35:42Z | registry-derived |
 | [sczesla/PyAstronomy](../records/telescopes-sczesla-pyastronomy-16e94100.md) | partial | 2026-06-27T22:26:51Z | registry-derived |
 | [sherpa/sherpa](../records/telescopes-sherpa-sherpa-53f87797.md) | partial | 2026-09-09T12:51:23Z | registry-derived |
-| [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-09-10T20:53:15Z | registry-derived |
+| [Sigmyne/SuperNOVAS](../records/telescopes-sigmyne-supernovas-c1bcbf75.md) | partial | 2026-09-11T08:10:55Z | registry-derived |
 | [simonvoelcker/astrotools](../records/telescopes-simonvoelcker-astrotools-00019eec.md) | partial | 2023-05-01T21:39:45Z | registry-derived |
 | [skyportal/skyportal](../records/telescopes-skyportal-skyportal-ec9ec91c.md) | partial | 2026-09-09T17:24:29Z | registry-derived |
 | [skypyproject/skypy](../records/telescopes-skypyproject-skypy-fd952866.md) | partial | 2026-06-22T19:20:21Z | registry-derived |

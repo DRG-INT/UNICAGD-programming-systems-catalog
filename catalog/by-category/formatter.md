@@ -21,7 +21,7 @@ Records: `665`
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
-[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
@@ -545,7 +545,7 @@ Records: `665`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T08:02:23Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T09:19:24Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -712,7 +712,7 @@ Records: `665`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| atsushieno/aap-core | partial | 2026-09-10T08:20:56Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
+| atsushieno/aap-core | partial | 2026-09-11T09:14:36Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
 | blackboxaudio/rotor | partial | 2024-11-21T23:50:42Z | [open](../records/audio-blackboxaudio-rotor-d437cf29.md) |
 | blackcandy-org/blackcandy | partial | 2026-09-09T10:23:45Z | [open](../records/audio-blackcandy-org-blackcandy-e95601ca.md) |
 | elk-audio/mda-vst3 | partial | 2022-11-14T09:26:47Z | [open](../records/audio-elk-audio-mda-vst3-c4b43ffb.md) |

@@ -21,7 +21,7 @@ Records: `448`
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
-[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
@@ -338,7 +338,7 @@ Records: `448`
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-10T08:51:38Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-11T08:48:55Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |

@@ -21,7 +21,7 @@ Records: `1658`
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
-[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 **[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
@@ -1168,7 +1168,7 @@ Records: `1658`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-11T08:22:26Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-11T08:30:18Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1441,7 +1441,7 @@ Records: `1658`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-11T05:51:43Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-11T08:58:36Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-05T09:19:01Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1464,7 +1464,7 @@ Records: `1658`
 | stupside/castor | partial | 2026-08-03T20:37:48Z | [open](../records/video-stupside-castor-29c42022.md) |
 | subin-kim-cv/NVP | partial | 2024-04-03T05:12:07Z | [open](../records/video-subin-kim-cv-nvp-fc8b6ed0.md) |
 | TheBluWiz/MuxMaster | partial | 2026-09-01T20:25:54Z | [open](../records/video-thebluwiz-muxmaster-a6b84c10.md) |
-| Tyrrrz/YoutubeDownloader | partial | 2026-09-02T08:37:52Z | [open](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) |
+| Tyrrrz/YoutubeDownloader | partial | 2026-09-11T09:13:43Z | [open](../records/video-tyrrrz-youtubedownloader-ba91af3d.md) |
 | Vhonowslend/StreamFX-Public | partial | 2024-12-13T06:41:33Z | [open](../records/video-vhonowslend-streamfx-public-e4cd17b1.md) |
 | wang-bin/QtAV | partial | 2025-08-15T16:20:01Z | [open](../records/video-wang-bin-qtav-0a690b81.md) |
 

@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-11T08:25:34+00:00`
+Generated: `2026-09-11T09:22:56+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -19,7 +19,7 @@ Generated: `2026-09-11T08:25:34+00:00`
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (549)](by-category/logging-observability.md) · [Machine Learning (852)](by-category/machine-learning.md)
 [Math Numeric Scientific (95)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1085)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](by-category/precommit-ci-quality.md)
-[Profiler (97)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (666)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (640)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1658)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
@@ -46,7 +46,7 @@ Generated: `2026-09-11T08:25:34+00:00`
 | Go | 1052 | 424 | [Go](by-language/go.md) |
 | Starlark | 69 | 0 | [Starlark](by-language/starlark.md) |
 | Basilisk | 37 | 0 | [Basilisk](by-language/basilisk.md) |
-| "aim's" | 127 | 0 | ["aim's"](by-language/aim-s.md) |
+| "aim's" | 128 | 0 | ["aim's"](by-language/aim-s.md) |
 | nix | 10 | 0 | [nix](by-language/nix.md) |
 | Doctrines | 19 | 0 | [Doctrines](by-language/doctrines.md) |
 | APIs | 19 | 0 | [APIs](by-language/apis.md) |
@@ -144,7 +144,7 @@ Generated: `2026-09-11T08:25:34+00:00`
 | Package Manager | 450 | [package_manager](by-category/package-manager.md) |
 | Parser Lexer Ast | 1238 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 322 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
-| Profiler | 97 | [profiler](by-category/profiler.md) |
+| Profiler | 98 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 142 | [project_scaffolding](by-category/project-scaffolding.md) |
 | Registry Repository | 134 | [registry_repository](by-category/registry-repository.md) |
 | Sanitizer | 16 | [sanitizer](by-category/sanitizer.md) |
@@ -183,7 +183,7 @@ Generated: `2026-09-11T08:25:34+00:00`
 | Go | 424 | 628 |
 | Starlark | 0 | 69 |
 | Basilisk | 0 | 37 |
-| "aim's" | 0 | 127 |
+| "aim's" | 0 | 128 |
 | nix | 0 | 10 |
 | Doctrines | 0 | 19 |
 | APIs | 0 | 19 |

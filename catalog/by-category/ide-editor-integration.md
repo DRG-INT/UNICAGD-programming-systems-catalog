@@ -21,7 +21,7 @@ Records: `1511`
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
-[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
@@ -692,11 +692,11 @@ Records: `1511`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlexsJones/llmfit | partial | 2026-09-11T06:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-11T08:18:47Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T09:05:59Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-11T06:16:33Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-11T09:10:49Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-11T06:33:29Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-10T18:58:53Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1104,7 +1104,7 @@ Records: `1511`
 | ianramzy/decentralized-video-chat | partial | 2020-11-21T01:54:51Z | [open](../records/video-ianramzy-decentralized-video-chat-738bde44.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/video-iawia002-lux-e7456e22.md) |
 | Ichunjo/vardefunc | partial | 2026-09-03T23:13:17Z | [open](../records/video-ichunjo-vardefunc-35151cce.md) |
-| iina/iina | partial | 2026-09-11T07:12:10Z | [open](../records/video-iina-iina-8432935b.md) |
+| iina/iina | partial | 2026-09-11T08:35:41Z | [open](../records/video-iina-iina-8432935b.md) |
 | imputnet/cobalt | partial | 2026-04-06T11:59:56Z | [open](../records/video-imputnet-cobalt-e93bf65d.md) |
 | insidegui/WWDC | partial | 2026-06-17T20:11:54Z | [open](../records/video-insidegui-wwdc-29ce13c6.md) |
 | intel/libva | partial | 2026-07-31T09:06:23Z | [open](../records/video-intel-libva-f6047e5d.md) |
@@ -1131,7 +1131,7 @@ Records: `1511`
 | letoram/arcan | partial | 2026-07-29T00:15:26Z | [open](../records/video-letoram-arcan-3898f949.md) |
 | linzzzzzz/openclip | partial | 2026-08-24T06:16:38Z | [open](../records/video-linzzzzzz-openclip-e0a60aa0.md) |
 | live-keys/livekeys | partial | 2023-11-13T16:00:01Z | [open](../records/video-live-keys-livekeys-78b56f29.md) |
-| livekit/livekit | partial | 2026-09-10T00:34:07Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
+| livekit/livekit | partial | 2026-09-11T09:04:26Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/video-lucksiege-pictureselector-fce76f06.md) |
 | lynckia/licode | partial | 2026-09-08T22:33:45Z | [open](../records/video-lynckia-licode-cf1013dd.md) |
 | mafiosnik777/enhancr | partial | 2024-01-15T16:08:08Z | [open](../records/video-mafiosnik777-enhancr-3d2ed149.md) |
@@ -1149,7 +1149,7 @@ Records: `1511`
 | miru-project/miru-app | partial | 2025-12-05T14:04:55Z | [open](../records/video-miru-project-miru-app-f4628505.md) |
 | mltframework/mlt | partial | 2026-09-09T01:15:53Z | [open](../records/video-mltframework-mlt-5c98791c.md) |
 | mpc-hc/mpc-hc | partial | 2020-04-24T11:04:40Z | [open](../records/video-mpc-hc-mpc-hc-f58c3ebd.md) |
-| mpv-player/mpv | partial | 2026-09-08T03:32:28Z | [open](../records/video-mpv-player-mpv-9d355e25.md) |
+| mpv-player/mpv | partial | 2026-09-11T09:04:18Z | [open](../records/video-mpv-player-mpv-9d355e25.md) |
 | mpvnet-player/mpv.net | partial | 2026-02-09T13:12:05Z | [open](../records/video-mpvnet-player-mpv-net-f7891972.md) |
 | muaz-khan/RecordRTC | partial | 2024-05-13T00:39:07Z | [open](../records/video-muaz-khan-recordrtc-4bde1e7a.md) |
 | muaz-khan/RTCMultiConnection | partial | 2022-10-06T15:25:02Z | [open](../records/video-muaz-khan-rtcmulticonnection-a12fafe4.md) |
@@ -1293,7 +1293,7 @@ Records: `1511`
 | panpf/sketch | partial | 2026-08-08T08:33:06Z | [open](../records/photography-panpf-sketch-813812e6.md) |
 | PhotoFlare/photoflare | partial | 2026-09-09T08:01:32Z | [open](../records/photography-photoflare-photoflare-54d4deb9.md) |
 | photostructure/exiftool-vendored.js | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
-| PicPeak/picpeak | partial | 2026-09-11T08:24:07Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
+| PicPeak/picpeak | partial | 2026-09-11T09:22:13Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
 | piemonte/PBJVision | partial | 2021-03-03T06:14:45Z | [open](../records/photography-piemonte-pbjvision-040d75d4.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | unknown | github_search_does_not_include_release_date | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) |
 | qinjintian/qq-zone | partial | 2026-09-04T15:35:31Z | [open](../records/photography-qinjintian-qq-zone-4ca751a3.md) |
