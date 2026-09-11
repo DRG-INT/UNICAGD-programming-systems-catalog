@@ -17,7 +17,7 @@ Records: `308`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1468)](../by-category/language-specification.md) · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
 [Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-09-10T08:24:13Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T05:58:14Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T06:38:58Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |

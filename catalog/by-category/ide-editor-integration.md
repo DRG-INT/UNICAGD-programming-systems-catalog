@@ -17,7 +17,7 @@ Records: `1511`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · **[Ide Editor Integration (1511)](ide-editor-integration.md)**
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -684,22 +684,22 @@ Records: `1511`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | partial | 2026-09-07T03:26:21Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AlexsJones/llmfit | unknown | github_latest_release_missing | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | unknown | github_latest_release_missing | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
-| decolua/9router | unknown | github_latest_release_missing | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | unknown | github_latest_release_missing | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | unknown | github_latest_release_missing | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | unknown | github_latest_release_missing | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | unknown | github_latest_release_missing | [open](../records/aim-s-upstash-context7-9349bef0.md) |
-| voideditor/void | unknown | github_latest_release_missing | [open](../records/aim-s-voideditor-void-f00971ce.md) |
+| AlexsJones/llmfit | partial | 2026-09-11T06:44:29Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T06:30:09Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-11T06:16:33Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-11T06:33:29Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| upstash/context7 | partial | 2026-09-10T18:58:53Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software
 
@@ -1495,7 +1495,7 @@ Records: `1511`
 | clidey/whodb | partial | 2026-09-11T03:31:44Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
 | Esri/geoportal-server-catalog | partial | 2026-09-10T09:16:22Z | [open](../records/catalogs-esri-geoportal-server-catalog-528de935.md) |
 | fnplus/community-project-ideas | partial | 2025-02-21T18:58:09Z | [open](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) |
-| geonetwork/core-geonetwork | partial | 2026-09-11T06:15:11Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
+| geonetwork/core-geonetwork | partial | 2026-09-11T07:20:28Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
 | interactivethings/catalog | partial | 2025-10-10T15:02:22Z | [open](../records/catalogs-interactivethings-catalog-75b8f4c3.md) |
 | jinht/GuidePages | partial | 2018-12-17T13:04:31Z | [open](../records/catalogs-jinht-guidepages-bfe173bf.md) |
 | lofcz/Infidex | partial | 2025-12-30T17:35:01Z | [open](../records/catalogs-lofcz-infidex-7d75607d.md) |

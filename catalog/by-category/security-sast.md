@@ -17,7 +17,7 @@ Records: `340`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -296,13 +296,13 @@ Records: `340`
 | github.com/aws-samples/automated-security-helper | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-aws-samples-automated-security-helper-03349c19.md) |
 | github.com/Chronicle20/atlas/tools/packet-audit | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-chronicle20-atlas-tools-packet-audit-394b6cff.md) |
 | github.com/santhsecurity/keyhog | v0.5.73 | 2026-08-30T15:31:03.095809Z | [open](../records/go-github-com-santhsecurity-keyhog-0f9fa50f.md) |
-| unionlabs/union | unknown | not_a_go_module_path | [open](../records/go-unionlabs-union-93d74a53.md) |
+| unionlabs/union | partial | 2026-07-25T18:20:02Z | [open](../records/go-unionlabs-union-93d74a53.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| affaan-m/ECC | unknown | github_latest_release_missing | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
+| affaan-m/ECC | partial | 2026-09-10T20:57:26Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 
@@ -491,7 +491,7 @@ Records: `340`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amark/gun | partial | 2026-08-01T11:38:47Z | [open](../records/databases-amark-gun-b5e89507.md) |
-| apache/shardingsphere | partial | 2026-09-10T17:16:09Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
+| apache/shardingsphere | partial | 2026-09-11T07:03:07Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 | cookieY/Yearning | partial | 2026-08-24T11:46:31Z | [open](../records/databases-cookiey-yearning-30a7b49e.md) |
 | IoT-Technology/IoT-Technical-Guide | partial | 2023-09-05T12:28:00Z | [open](../records/databases-iot-technology-iot-technical-guide-4f9cb27e.md) |

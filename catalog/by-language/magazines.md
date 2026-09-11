@@ -17,7 +17,7 @@ Records: `311`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1468)](../by-category/language-specification.md) · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
 [Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
@@ -113,7 +113,7 @@ Records: `311`
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
-| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T06:21:20Z | registry-derived |
+| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T07:21:08Z | registry-derived |
 
 ### Data Science
 
@@ -164,7 +164,7 @@ Records: `311`
 | [iOS-Goodies/iOS-Goodies](../records/magazines-ios-goodies-ios-goodies-158d5e0d.md) | partial | 2023-11-20T16:07:55Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-25e7f065.md) | partial | 2026-07-12T20:45:38Z | registry-derived |
 | [joergi/MagPiDownloader](../records/magazines-joergi-magpidownloader-67f8e42e.md) | partial | 2026-08-03T14:10:04Z | registry-derived |
-| [journiv/journiv-app](../records/magazines-journiv-journiv-app-b0d9c829.md) | partial | 2026-09-11T06:03:46Z | registry-derived |
+| [journiv/journiv-app](../records/magazines-journiv-journiv-app-b0d9c829.md) | partial | 2026-09-11T07:03:31Z | registry-derived |
 | [openjournals/joss](../records/magazines-openjournals-joss-1c4447c8.md) | partial | 2026-09-10T11:25:07Z | registry-derived |
 | [OS2World/DEV-SAMPLES-C-ColorWheel](../records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) | partial | 2016-02-21T13:23:48Z | registry-derived |
 | [OS2World/DEV-SAMPLES-C-PM-ctrldes](../records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) | partial | 2023-05-23T20:21:17Z | registry-derived |

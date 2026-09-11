@@ -17,7 +17,7 @@ Records: `6050`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · **[Library (6050)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6050)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -4468,7 +4468,7 @@ Records: `6050`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | unknown | not_a_go_module_path | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | unknown | not_a_go_module_path | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | unknown | not_a_go_module_path | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4492,7 +4492,7 @@ Records: `6050`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T04:35:28Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4506,16 +4506,16 @@ Records: `6050`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | unknown | not_a_go_module_path | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-11T05:40:47Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| iamgadmarconi/ESA-Concurrent-Design-Challenge | unknown | github_latest_release_missing | [open](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) |
-| mujavidb/basiliskRobotsChallenge | unknown | github_latest_release_missing | [open](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) |
-| parthib007/Basilisk_Works | unknown | github_latest_release_missing | [open](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) |
-| yliu-fort/ChannelFlowLES | unknown | github_latest_release_missing | [open](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) |
+| iamgadmarconi/ESA-Concurrent-Design-Challenge | partial | 2025-07-17T16:45:54Z | [open](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) |
+| mujavidb/basiliskRobotsChallenge | partial | 2017-02-23T21:14:38Z | [open](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) |
+| parthib007/Basilisk_Works | partial | 2024-10-17T18:58:18Z | [open](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) |
+| yliu-fort/ChannelFlowLES | partial | 2024-07-21T00:34:37Z | [open](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) |
 
 ## Computer Graphics Software
 
@@ -5987,7 +5987,7 @@ Records: `6050`
 | arviprabhu/SAP-CAP-CF-JavaReuse | partial | 2021-06-11T11:59:47Z | [open](../records/sapjava-arviprabhu-sap-cap-cf-javareuse-007fd0fc.md) |
 | beroca/sap-cap-products-service-java | partial | 2024-02-15T23:23:42Z | [open](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) |
 | boudhayan-dev/spring-hana-cloud-foundry | partial | 2019-07-22T13:58:28Z | [open](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) |
-| cap-java/cds-feature-console | partial | 2026-09-05T06:02:20Z | [open](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) |
+| cap-java/cds-feature-console | partial | 2026-09-11T05:14:20Z | [open](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) |
 | cap-java/cds-feature-notifications | partial | 2026-09-07T15:35:34Z | [open](../records/sapjava-cap-java-cds-feature-notifications-3924ae76.md) |
 | com.sap.cds:cds-adapter-hcql | 3.10.1 | 2025-05-16T11:26:31+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-hcql-52ecb8ff.md) |
 | com.sap.cds:cds-adapter-messaging | 1.17.0 | 2021-07-14T08:05:55+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-messaging-2a5c1d9e.md) |

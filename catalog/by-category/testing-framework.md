@@ -17,7 +17,7 @@ Records: `639`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -556,16 +556,16 @@ Records: `639`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | unknown | not_a_go_module_path | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Xinyu01091002/Basilisk2D_test | unknown | github_latest_release_missing | [open](../records/basilisk-xinyu01091002-basilisk2d-test-759cdf71.md) |
+| Xinyu01091002/Basilisk2D_test | partial | 2024-07-19T10:07:00Z | [open](../records/basilisk-xinyu01091002-basilisk2d-test-759cdf71.md) |
 
 ## "aim's"
 
@@ -872,7 +872,7 @@ Records: `639`
 | invertase/react-native-firebase | partial | 2026-09-10T13:59:08Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-11T00:22:50Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-11T04:59:41Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

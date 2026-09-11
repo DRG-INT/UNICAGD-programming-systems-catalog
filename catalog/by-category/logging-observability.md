@@ -17,7 +17,7 @@ Records: `548`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (548)](logging-observability.md)** · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -357,15 +357,15 @@ Records: `548`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-10T18:28:38Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 2noise/ChatTTS | unknown | github_latest_release_missing | [open](../records/aim-s-2noise-chattts-5e993170.md) |
-| langfuse/langfuse | unknown | github_latest_release_missing | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
-| microsoft/semantic-kernel | unknown | github_latest_release_missing | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
+| 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
+| langfuse/langfuse | partial | 2026-09-11T07:14:59Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
+| microsoft/semantic-kernel | partial | 2026-09-11T06:58:37Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 
@@ -703,7 +703,7 @@ Records: `548`
 | Niki9001/purview-unified-sdk | partial | 2026-08-12T12:45:06Z | [open](../records/catalogs-niki9001-purview-unified-sdk-0a308ee8.md) |
 | opendatadiscovery/awesome-data-catalogs | partial | 2025-08-14T14:10:59Z | [open](../records/catalogs-opendatadiscovery-awesome-data-catalogs-123e6c4a.md) |
 | playmean/fap-list | partial | 2023-02-25T08:44:59Z | [open](../records/catalogs-playmean-fap-list-be7323da.md) |
-| Polydile/dile-components | partial | 2026-09-09T17:01:42Z | [open](../records/catalogs-polydile-dile-components-0f53e37e.md) |
+| Polydile/dile-components | partial | 2026-09-11T06:54:16Z | [open](../records/catalogs-polydile-dile-components-0f53e37e.md) |
 | raysan5/custom_game_engines | partial | 2025-10-28T20:25:23Z | [open](../records/catalogs-raysan5-custom-game-engines-538ff30d.md) |
 | redhat-cop/openshift-disconnected-operators | partial | 2025-02-05T23:15:39Z | [open](../records/catalogs-redhat-cop-openshift-disconnected-operators-40a78cf4.md) |
 | samapriya/awesome-gee-community-datasets | partial | 2026-09-11T02:02:34Z | [open](../records/catalogs-samapriya-awesome-gee-community-datasets-2d5f99df.md) |

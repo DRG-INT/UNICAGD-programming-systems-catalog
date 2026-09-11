@@ -17,7 +17,7 @@ Records: `1085`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1085)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -786,22 +786,22 @@ Records: `1085`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | partial | 2026-09-10T13:00:48Z | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | unknown | not_a_go_module_path | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| austinmhorn/basilisk | unknown | github_latest_release_missing | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
-| VatsalSy/BasiliskPostProcessingMatlab | unknown | github_latest_release_missing | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
-| VatsalSy/BasiliskVisualization | unknown | github_latest_release_missing | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
-| vitorvilela/droplet-particle-collision | unknown | github_latest_release_missing | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |
+| austinmhorn/basilisk | partial | 2026-09-04T04:23:33Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
+| VatsalSy/BasiliskPostProcessingMatlab | partial | 2018-10-11T21:15:19Z | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
+| VatsalSy/BasiliskVisualization | partial | 2018-08-16T21:26:37Z | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
+| vitorvilela/droplet-particle-collision | partial | 2020-05-22T22:00:38Z | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |
 
 ## "aim's"
 
@@ -809,7 +809,7 @@ Records: `1085`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | unknown | github_latest_release_missing | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-11T06:54:34Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1302,13 +1302,13 @@ Records: `1085`
 | aerospike/aerospike-client-rust | partial | 2026-09-07T08:39:47Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-08T16:56:13Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-11T04:20:56Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-11T05:09:05Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-02T00:26:05Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-09T07:41:11Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-08T11:03:19Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-11T02:55:57Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-11T06:47:42Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
@@ -1325,7 +1325,7 @@ Records: `1085`
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |
 | nosqlclient/nosqlclient | partial | 2023-08-15T07:45:24Z | [open](../records/databases-nosqlclient-nosqlclient-090af045.md) |
 | only-cliches/Nano-SQL | partial | 2026-02-17T11:36:12Z | [open](../records/databases-only-cliches-nano-sql-2e385bb5.md) |
-| OtterMind/Chat2DB | partial | 2026-09-11T02:50:59Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
+| OtterMind/Chat2DB | partial | 2026-09-11T06:54:34Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-09-07T08:30:34Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
@@ -1336,7 +1336,7 @@ Records: `1085`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-07T09:30:49Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-11T04:07:37Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-11T07:03:59Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-08T11:54:47Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |

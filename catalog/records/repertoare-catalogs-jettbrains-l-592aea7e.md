@@ -413,7 +413,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2021-08-18T13:41:54Z | gh search repos performance repertoire | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2021-08-18T13:41:54Z | gh search repos collection repertoire | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -438,7 +438,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "performance repertoire", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "collection repertoire", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 
@@ -458,6 +458,7 @@ Evidence records merged into this identity: `1`.
 | Name | Category | Page |
 | --- | --- | --- |
 | alaosama/ExquisiteProjects | Language Specification | [open](repertoare-catalogs-alaosama-exquisiteprojects-c25e7a56.md) |
+| CapoShiva/jjazz-repertoire | Language Specification | [open](repertoare-catalogs-caposhiva-jjazz-repertoire-40583d12.md) |
 | cuboulder-MSD/digColl_ricardoVinesPianoMusic | Language Specification | [open](repertoare-catalogs-cuboulder-msd-digcoll-ricardovinespianomusic-21a6efb2.md) |
 | Electronick79/ndossantos-COMP-596-Web-Application-Development | Language Specification | [open](repertoare-catalogs-electronick79-ndossantos-comp-596-web-application-development-0e6dc95b.md) |
 | governance-demo/na-ctl-inventory-realtime-scorer-cli | Language Specification | [open](repertoare-catalogs-governance-demo-na-ctl-inventory-realtime-scorer-cli-b87b8f89.md) |
@@ -474,7 +475,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · **[Language Specification (1468)](../by-category/language-specification.md)** · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · **[Language Specification (1469)](../by-category/language-specification.md)** · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
 [Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)

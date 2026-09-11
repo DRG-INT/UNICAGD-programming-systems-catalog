@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-11T06:28:26+00:00`
+Generated: `2026-09-11T07:23:49+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-11T06:28:26+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1699)](by-category/filesystem-os.md) · [Formatter (665)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (375)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (288)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1468)](by-category/language-specification.md) · [Library (6050)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6050)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (852)](by-category/machine-learning.md)
 [Math Numeric Scientific (95)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1085)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](by-category/precommit-ci-quality.md)
@@ -29,7 +29,7 @@ Generated: `2026-09-11T06:28:26+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10733 |
-| Unknown stable release | 18192 |
+| Unknown stable release | 18193 |
 
 ## Newest Known Stable Metadata
 
@@ -290,27 +290,26 @@ Generated: `2026-09-11T06:28:26+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 9850 |
+| gh_search_reports_activity_not_release_version | 10377 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
-| github_latest_release_missing | 721 |
 | packagist_package_metadata_missing | 619 |
 | github_search_does_not_include_release_date | 442 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
+| github_latest_release_missing | 363 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
-| not_a_go_module_path | 211 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
+| not_a_go_module_path | 44 |
 | hackage_top_downloads_page_does_not_include_release_date | 10 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

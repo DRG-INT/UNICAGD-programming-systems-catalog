@@ -17,7 +17,7 @@ Records: `852`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · **[Machine Learning (852)](machine-learning.md)**
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -483,58 +483,58 @@ Records: `852`
 | --- | --- | --- | --- |
 | bitbucket.org/itotcca/tx-rails | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-bitbucket-org-itotcca-tx-rails-34e72343.md) |
 | bufanyun/hotgo | unknown | not_a_go_module_path | [open](../records/go-bufanyun-hotgo-bf57dfd4.md) |
-| flipped-aurora/gin-vue-admin | unknown | not_a_go_module_path | [open](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) |
+| flipped-aurora/gin-vue-admin | partial | 2026-09-09T07:24:05Z | [open](../records/go-flipped-aurora-gin-vue-admin-734f09c8.md) |
 | ggwhite/go-masker | unknown | not_a_go_module_path | [open](../records/go-ggwhite-go-masker-2ecaacf4.md) |
 | gitee.com/open-mmlab/mmcv | v1.4.7 | 2026-08-30T16:32:50.707415Z | [open](../records/go-gitee-com-open-mmlab-mmcv-9c44c07f.md) |
 | gitee.com/wailsapp/wails/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-wailsapp-wails-v3-3c5b4a42.md) |
 | infinite-go.kontain.me | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-infinite-go-kontain-me-84a68d60.md) |
 | latere.ai/x/ci-gate | v0.5.0 | 2026-08-30T10:55:18.342292Z | [open](../records/go-latere-ai-x-ci-gate-4bfeb005.md) |
 | proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
-| samber/lo | unknown | not_a_go_module_path | [open](../records/go-samber-lo-293e189e.md) |
+| samber/lo | partial | 2026-09-09T10:10:25Z | [open](../records/go-samber-lo-293e189e.md) |
 | satmihir/fair | unknown | not_a_go_module_path | [open](../records/go-satmihir-fair-5ee21153.md) |
-| Tencent/WeKnora | unknown | not_a_go_module_path | [open](../records/go-tencent-weknora-254a9260.md) |
+| Tencent/WeKnora | partial | 2026-09-10T06:43:00Z | [open](../records/go-tencent-weknora-254a9260.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ahujasid/blender-mcp | unknown | github_latest_release_missing | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
-| bojieli/ai-agent-book | unknown | github_latest_release_missing | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
-| browser-use/browser-use | unknown | github_latest_release_missing | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
-| chatchat-space/Langchain-Chatchat | unknown | github_latest_release_missing | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
-| datawhalechina/happy-llm | unknown | github_latest_release_missing | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
-| datawhalechina/hello-agents | unknown | github_latest_release_missing | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
-| datawhalechina/self-llm | unknown | github_latest_release_missing | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | unknown | github_latest_release_missing | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
-| HKUDS/Vibe-Trading | unknown | github_latest_release_missing | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
+| ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
+| bojieli/ai-agent-book | partial | 2026-09-11T03:02:20Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
+| browser-use/browser-use | partial | 2026-09-10T04:20:25Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
+| chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
+| datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
+| datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
+| datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
+| firecrawl/firecrawl | partial | 2026-09-11T06:25:00Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| HKUDS/Vibe-Trading | partial | 2026-09-10T03:23:37Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
-| ItzCrazyKns/Vane | unknown | github_latest_release_missing | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | unknown | github_latest_release_missing | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
+| janhq/jan | partial | 2026-09-11T06:02:04Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
-| jeecgboot/JeecgBoot | unknown | github_latest_release_missing | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
-| JuliusBrussee/caveman | unknown | github_latest_release_missing | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
-| JushBJJ/Mr.-Ranedeer-AI-Tutor | unknown | github_latest_release_missing | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | unknown | github_latest_release_missing | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
-| linshenkx/prompt-optimizer | unknown | github_latest_release_missing | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
-| lyogavin/airllm | unknown | github_latest_release_missing | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
-| Mintplex-Labs/anything-llm | unknown | github_latest_release_missing | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | unknown | github_latest_release_missing | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | unknown | github_latest_release_missing | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
-| open-webui/open-webui | unknown | github_latest_release_missing | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
-| openai/openai-agents-python | unknown | github_latest_release_missing | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | unknown | github_latest_release_missing | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| jeecgboot/JeecgBoot | partial | 2026-09-10T07:02:10Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
+| JuliusBrussee/caveman | partial | 2026-09-10T07:32:18Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
+| JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
+| langchain-ai/langchain | partial | 2026-09-10T21:16:27Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
+| lyogavin/airllm | partial | 2026-09-11T06:22:58Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
+| Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
+| NousResearch/hermes-agent | partial | 2026-09-11T07:10:24Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-11T05:27:17Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
+| openai/openai-agents-python | partial | 2026-09-10T21:09:36Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
+| OpenHands/OpenHands | partial | 2026-09-11T05:37:47Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
-| rasbt/LLMs-from-scratch | unknown | github_latest_release_missing | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
-| run-llama/llama_index | unknown | github_latest_release_missing | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
-| ScrapeGraphAI/Scrapegraph-ai | unknown | github_latest_release_missing | [open](../records/aim-s-scrapegraphai-scrapegraph-ai-8c5361dd.md) |
-| shareAI-lab/learn-claude-code | unknown | github_latest_release_missing | [open](../records/aim-s-shareai-lab-learn-claude-code-eae6efc3.md) |
-| SillyTavern/SillyTavern | unknown | github_latest_release_missing | [open](../records/aim-s-sillytavern-sillytavern-869f2cb0.md) |
-| TauricResearch/TradingAgents | unknown | github_latest_release_missing | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
+| rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
+| run-llama/llama_index | partial | 2026-09-11T06:08:34Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
+| ScrapeGraphAI/Scrapegraph-ai | partial | 2026-09-07T13:49:52Z | [open](../records/aim-s-scrapegraphai-scrapegraph-ai-8c5361dd.md) |
+| shareAI-lab/learn-claude-code | partial | 2026-08-26T16:38:22Z | [open](../records/aim-s-shareai-lab-learn-claude-code-eae6efc3.md) |
+| SillyTavern/SillyTavern | partial | 2026-09-07T21:09:17Z | [open](../records/aim-s-sillytavern-sillytavern-869f2cb0.md) |
+| TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
-| The-Vibe-Company/quivr | unknown | github_latest_release_missing | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | unknown | github_latest_release_missing | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
-| VectifyAI/PageIndex | unknown | github_latest_release_missing | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
-| virgiliojr94/book-to-skill | unknown | github_latest_release_missing | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
+| The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
+| unslothai/unsloth | partial | 2026-09-11T07:21:00Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| VectifyAI/PageIndex | partial | 2026-09-10T12:07:41Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
+| virgiliojr94/book-to-skill | partial | 2026-09-06T21:24:33Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
 ## Computer Graphics Software
 

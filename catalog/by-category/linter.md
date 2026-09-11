@@ -17,7 +17,7 @@ Records: `350`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · **[Linter (350)](linter.md)** · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
@@ -429,7 +429,7 @@ Records: `350`
 | github.com/terraform-linters/tflint-ruleset-aws/tools/release | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
 | github.com/Typescript-eslint/typescript-eslint | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | [open](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) |
 | github.com/z-shell/zsh-lint | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| golangci/golangci-lint | unknown | not_a_go_module_path | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
+| golangci/golangci-lint | partial | 2026-09-09T19:01:15Z | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
 
 ## Physics Engines
 
