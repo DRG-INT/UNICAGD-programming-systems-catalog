@@ -1170,7 +1170,7 @@ Records: `1661`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-11T11:05:48Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-11T23:12:38Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1841,7 +1841,7 @@ Records: `1661`
 | cloudnative-pg/cloudnative-pg | partial | 2026-09-11T08:55:12Z | [open](../records/databases-cloudnative-pg-cloudnative-pg-5b60613f.md) |
 | CodingDocs/awesome-java | partial | 2026-03-10T08:34:42Z | [open](../records/databases-codingdocs-awesome-java-f7da703d.md) |
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
-| cube-js/cube | partial | 2026-09-11T20:05:04Z | [open](../records/databases-cube-js-cube-373699e3.md) |
+| cube-js/cube | partial | 2026-09-11T23:13:20Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-08T09:24:36Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
 | debezium/debezium | partial | 2026-09-11T13:32:52Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
@@ -1892,7 +1892,7 @@ Records: `1661`
 | Gitea: quxiaorui/action-send-mail | partial | 2024-02-26T12:43:08Z | [open](../records/repository-workplaces-gitea-quxiaorui-action-send-mail-a8703907.md) |
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
-| Gitea: zaccesss/.profile | partial | 2026-09-11T14:35:40Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
+| Gitea: zaccesss/.profile | partial | 2026-09-11T22:07:38Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
 | gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-11T14:39:34.672Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-09-10T17:37:33.192Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |

@@ -40,7 +40,7 @@ auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | CC0 |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

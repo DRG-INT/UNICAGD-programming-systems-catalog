@@ -884,7 +884,7 @@ Records: `646`
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
 | webhooksite/webhook.site | partial | 2026-07-22T10:28:58Z | [open](../records/databases-webhooksite-webhook-site-72a383fc.md) |
-| windmill-labs/windmill | partial | 2026-09-11T19:42:00Z | [open](../records/databases-windmill-labs-windmill-9aeebfb2.md) |
+| windmill-labs/windmill | partial | 2026-09-11T23:16:21Z | [open](../records/databases-windmill-labs-windmill-9aeebfb2.md) |
 | WiseLibs/better-sqlite3 | partial | 2026-08-10T03:10:10Z | [open](../records/databases-wiselibs-better-sqlite3-542212cd.md) |
 
 ## Repository Workplaces

@@ -1460,7 +1460,7 @@ Records: `1239`
 | appbaseio/dejavu | partial | 2026-07-02T11:08:58Z | [open](../records/databases-appbaseio-dejavu-cac2e2c6.md) |
 | arnaudroger/SimpleFlatMapper | partial | 2025-09-21T07:23:46Z | [open](../records/databases-arnaudroger-simpleflatmapper-bed9a08c.md) |
 | BDR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bdr-d3b5137a.md) |
-| calcom/cal.diy | partial | 2026-09-09T19:27:35Z | [open](../records/databases-calcom-cal-diy-2a9d1d15.md) |
+| calcom/cal.diy | partial | 2026-09-11T22:25:49Z | [open](../records/databases-calcom-cal-diy-2a9d1d15.md) |
 | chroma-core/chroma | partial | 2026-09-11T21:15:32Z | [open](../records/databases-chroma-core-chroma-4683632f.md) |
 | danny-avila/rag_api | partial | 2026-08-15T17:09:36Z | [open](../records/databases-danny-avila-rag-api-13cf38f8.md) |
 | datalevin/datalevin | partial | 2026-09-09T04:46:29Z | [open](../records/databases-datalevin-datalevin-fd00132f.md) |

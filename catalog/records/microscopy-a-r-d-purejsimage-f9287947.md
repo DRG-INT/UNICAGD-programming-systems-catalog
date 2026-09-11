@@ -41,9 +41,9 @@ behavior, deployment packaging, embedding, upgrade cadence, and compatibility va
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

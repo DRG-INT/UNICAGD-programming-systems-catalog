@@ -40,7 +40,7 @@ formats, persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | ISC License; https://api.github.com/licenses/isc; Apache-2.0; https://www.nuget.org/packages/Quartz.Serialization.Json/3.20.0/license |
+| Evidence | Other; Apache-2.0; https://www.nuget.org/packages/Quartz.Serialization.Json/3.20.0/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

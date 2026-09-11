@@ -33,16 +33,16 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-11T22:09:54Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T23:13:36Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

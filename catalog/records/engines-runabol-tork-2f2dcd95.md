@@ -40,9 +40,9 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

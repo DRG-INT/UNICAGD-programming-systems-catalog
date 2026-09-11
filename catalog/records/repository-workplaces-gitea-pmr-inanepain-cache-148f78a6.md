@@ -57,7 +57,7 @@ part of model pipelines, numerical runtime constraints, and data/deployment inte
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-10 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-10", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-11 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
 
 </details>
 

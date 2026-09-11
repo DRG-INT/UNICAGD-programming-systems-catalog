@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-11T21:03:36Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-11T21:51:45Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -154,7 +154,7 @@ Records: `308`
 | [TravorLZH/TravorOS](../records/assembly-travorlzh-travoros-9961f938.md) | partial | 2018-08-07T09:05:42Z | registry-derived |
 | [wichtounet/thor-os](../records/assembly-wichtounet-thor-os-cf1384c0.md) | partial | 2024-11-19T10:12:06Z | registry-derived |
 | [WindowsNT/asm](../records/assembly-windowsnt-asm-00dbedd0.md) | partial | 2025-05-10T09:55:30Z | registry-derived |
-| [XXIIVV/oscean](../records/assembly-xxiivv-oscean-5e954d22.md) | partial | 2026-09-11T19:12:45Z | registry-derived |
+| [XXIIVV/oscean](../records/assembly-xxiivv-oscean-5e954d22.md) | partial | 2026-09-11T23:00:35Z | registry-derived |
 | [yhs0602/Android-Disassembler](../records/assembly-yhs0602-android-disassembler-1d409abc.md) | partial | 2026-03-22T07:00:35Z | registry-derived |
 
 ### Formatter
@@ -220,14 +220,14 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xADE1A1DE/AssemblyLine](../records/assembly-0xade1a1de-assemblyline-114a6144.md) | partial | 2025-02-10T03:28:23Z | registry-derived |
-| [100thCoin/AccuracyCoin](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) | partial | 2026-09-11T02:46:33Z | registry-derived |
+| [100thCoin/AccuracyCoin](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) | partial | 2026-09-11T22:44:32Z | registry-derived |
 | [adriancable/8086tiny](../records/assembly-adriancable-8086tiny-c1d50ad4.md) | partial | 2022-09-07T17:43:45Z | registry-derived |
 | [akkartik/mu](../records/assembly-akkartik-mu-02abed58.md) | partial | 2026-04-02T02:16:40Z | registry-derived |
 | [alvin-tosh/Malware-Exhibit](../records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) | partial | 2024-01-12T06:43:27Z | registry-derived |
 | [apple/swift-crypto](../records/assembly-apple-swift-crypto-1f447802.md) | partial | 2026-09-02T09:52:42Z | registry-derived |
 | [Apress/low-level-programming](../records/assembly-apress-low-level-programming-3b2dd27a.md) | partial | 2023-11-27T22:46:21Z | registry-derived |
 | [avivbrook/Intel-Assembly-Language-Programming-Exercises](../records/assembly-avivbrook-intel-assembly-language-programming-exercises-027e9b7f.md) | partial | 2018-06-26T01:29:32Z | registry-derived |
-| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-11T20:16:16Z | registry-derived |
+| [aws/aws-lc](../records/assembly-aws-aws-lc-29f8be23.md) | partial | 2026-09-11T22:57:22Z | registry-derived |
 | [below/HelloSilicon](../records/assembly-below-hellosilicon-8ff6614f.md) | partial | 2026-05-15T21:16:21Z | registry-derived |
 | [bitdump/BLHeli](../records/assembly-bitdump-blheli-5d346476.md) | partial | 2025-08-21T07:30:10Z | registry-derived |
 | [blackbird71SR/Hello-World](../records/assembly-blackbird71sr-hello-world-2fa43546.md) | partial | 2024-03-02T10:40:36Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-09-10T08:24:13Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T22:18:26Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T22:54:10Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-11T22:17:19Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-11T23:09:53Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-09T01:04:36Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -396,7 +396,7 @@ Records: `308`
 | --- | --- | --- | --- |
 | [Chris1sFlaggin/LCSAJdump](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) | partial | 2026-06-22T08:17:14Z | registry-derived |
 | [coderaiser/nemesis](../records/assembly-coderaiser-nemesis-87becb25.md) | partial | 2026-02-08T13:40:01Z | registry-derived |
-| [gbdev/rgbds](../records/assembly-gbdev-rgbds-2d9bc1c6.md) | partial | 2026-09-11T20:31:21Z | registry-derived |
+| [gbdev/rgbds](../records/assembly-gbdev-rgbds-2d9bc1c6.md) | partial | 2026-09-11T23:04:31Z | registry-derived |
 | [giacomo-folli/asmlings](../records/assembly-giacomo-folli-asmlings-14c668aa.md) | partial | 2026-07-22T12:52:18Z | registry-derived |
 | [jishanshaikh4/8086-cheatsheet](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) | partial | 2022-10-02T05:33:54Z | registry-derived |
 | [NtRaiseHardError/Reverse-Engineering-101](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) | partial | 2019-06-02T00:50:14Z | registry-derived |

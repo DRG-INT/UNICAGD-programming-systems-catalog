@@ -40,7 +40,7 @@ persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

@@ -40,7 +40,7 @@ I/O throughput, cancellation, and latency management.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/10.0.11/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

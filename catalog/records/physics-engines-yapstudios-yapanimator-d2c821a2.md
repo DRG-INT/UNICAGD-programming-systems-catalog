@@ -40,7 +40,7 @@ language tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | Other; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

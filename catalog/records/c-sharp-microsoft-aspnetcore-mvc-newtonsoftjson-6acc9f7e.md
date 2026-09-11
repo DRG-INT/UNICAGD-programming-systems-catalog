@@ -40,9 +40,9 @@ part of low-noise code review, style consistency, and automation-friendly editin
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | Other; MIT; https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/10.0.11/license |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

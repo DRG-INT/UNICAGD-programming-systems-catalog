@@ -40,9 +40,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 4-Clause "Original" or "Old" License; https://api.github.com/licenses/bsd-4-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Mixed license review |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; BSD 4-Clause "Original" or "Old" License; https://api.github.com/licenses/bsd-4-clause |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

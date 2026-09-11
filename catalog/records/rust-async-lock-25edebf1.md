@@ -39,9 +39,9 @@ I/O throughput, cancellation, and latency management.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT; https://www.nuget.org/packages/Newtonsoft.Json/13.0.4/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

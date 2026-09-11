@@ -810,7 +810,7 @@ Records: `1086`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-11T16:50:36Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-11T22:27:25Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1326,7 +1326,7 @@ Records: `1086`
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |
 | nosqlclient/nosqlclient | partial | 2023-08-15T07:45:24Z | [open](../records/databases-nosqlclient-nosqlclient-090af045.md) |
 | only-cliches/Nano-SQL | partial | 2026-02-17T11:36:12Z | [open](../records/databases-only-cliches-nano-sql-2e385bb5.md) |
-| OtterMind/Chat2DB | partial | 2026-09-11T16:50:36Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
+| OtterMind/Chat2DB | partial | 2026-09-11T22:27:25Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-09-11T07:09:02Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |

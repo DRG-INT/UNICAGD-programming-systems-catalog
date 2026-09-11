@@ -830,7 +830,7 @@ Records: `981`
 | Ceph | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-ceph-c1eeab87.md) |
 | Chroma | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-chroma-1dc74975.md) |
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
-| citusdata/citus | partial | 2026-09-11T21:52:46Z | [open](../records/databases-citusdata-citus-5748489c.md) |
+| citusdata/citus | partial | 2026-09-11T22:58:48Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
 | clockworklabs/SpacetimeDB | partial | 2026-09-11T19:45:41Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
@@ -862,12 +862,12 @@ Records: `981`
 | dieselpoint/norm | partial | 2026-02-27T18:08:09Z | [open](../records/databases-dieselpoint-norm-d5dbd93a.md) |
 | dimitri/pgloader | partial | 2026-07-24T14:35:08Z | [open](../records/databases-dimitri-pgloader-b06e2e41.md) |
 | directus/directus | partial | 2026-09-11T20:59:46Z | [open](../records/databases-directus-directus-1a9841eb.md) |
-| discourse/discourse | partial | 2026-09-11T21:14:29Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
+| discourse/discourse | partial | 2026-09-11T22:13:39Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
 | distributedio/titan | partial | 2023-10-21T05:34:32Z | [open](../records/databases-distributedio-titan-2725f29d.md) |
 | doctrine/dbal | partial | 2026-09-07T06:38:33Z | [open](../records/databases-doctrine-dbal-55d5a11f.md) |
-| documenso/documenso | partial | 2026-09-11T20:07:49Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
+| documenso/documenso | partial | 2026-09-11T22:07:28Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
 | Dokploy/dokploy | partial | 2026-09-11T08:20:23Z | [open](../records/databases-dokploy-dokploy-05537e16.md) |
-| Dolibarr/dolibarr | partial | 2026-09-11T19:25:13Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
+| Dolibarr/dolibarr | partial | 2026-09-11T23:08:54Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
 | dotnet/efcore | partial | 2026-09-11T21:45:38Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
 | dragonflydb/dragonfly | partial | 2026-09-11T16:59:38Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
@@ -920,7 +920,7 @@ Records: `981`
 | impossibl/pgjdbc-ng | partial | 2024-06-21T05:24:50Z | [open](../records/databases-impossibl-pgjdbc-ng-63791c56.md) |
 | infinispan/infinispan | partial | 2026-09-11T15:46:57Z | [open](../records/databases-infinispan-infinispan-d1cf9b60.md) |
 | InfluxDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-influxdb-db18cf2c.md) |
-| InsForge/InsForge | partial | 2026-09-10T17:59:47Z | [open](../records/databases-insforge-insforge-e3aaf1f0.md) |
+| InsForge/InsForge | partial | 2026-09-11T22:39:08Z | [open](../records/databases-insforge-insforge-e3aaf1f0.md) |
 | itwanger/toBeBetterJavaer | partial | 2026-09-11T12:23:43Z | [open](../records/databases-itwanger-tobebetterjavaer-be3c87d7.md) |
 | j256/ormlite-jdbc | partial | 2026-08-13T19:32:32Z | [open](../records/databases-j256-ormlite-jdbc-ddc1b5b2.md) |
 | JackDB | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-jackdb-0e66a4e2.md) |
@@ -971,7 +971,7 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-11T22:17:55Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-11T23:01:38Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
@@ -1004,7 +1004,7 @@ Records: `981`
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | nitrite/nitrite-java | partial | 2026-09-10T03:27:40Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
 | nocodb/nocodb | partial | 2026-09-11T18:50:22Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
-| NodeBB/NodeBB | partial | 2026-09-11T20:42:27Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
+| NodeBB/NodeBB | partial | 2026-09-11T22:30:41Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
 | noodle-run/noodle | partial | 2024-10-17T02:31:07Z | [open](../records/databases-noodle-run-noodle-e7620669.md) |
 | oceanbase/oceanbase | partial | 2026-09-11T01:00:56Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
@@ -1016,7 +1016,7 @@ Records: `981`
 | outerbase/studio | partial | 2026-03-25T23:41:33Z | [open](../records/databases-outerbase-studio-5d199295.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-11T20:52:06Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-11T23:09:38Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pawelsalawa/letos | partial | 2026-08-24T18:18:03Z | [open](../records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | paypal/gimel | partial | 2025-07-10T08:52:55Z | [open](../records/databases-paypal-gimel-dac7e5cd.md) |
@@ -1063,7 +1063,7 @@ Records: `981`
 | reorproject/reor | partial | 2025-05-13T21:28:59Z | [open](../records/databases-reorproject-reor-6601e7a1.md) |
 | requery/requery | partial | 2026-02-09T08:58:28Z | [open](../records/databases-requery-requery-85762cf6.md) |
 | risinglightdb/risinglight | partial | 2025-08-10T04:37:32Z | [open](../records/databases-risinglightdb-risinglight-5fac81e7.md) |
-| risingwavelabs/risingwave | partial | 2026-09-11T18:28:32Z | [open](../records/databases-risingwavelabs-risingwave-fc224eaa.md) |
+| risingwavelabs/risingwave | partial | 2026-09-11T23:13:18Z | [open](../records/databases-risingwavelabs-risingwave-fc224eaa.md) |
 | RocksDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-rocksdb-a15d9be7.md) |
 | rqlite/rqlite | partial | 2026-09-11T12:24:53Z | [open](../records/databases-rqlite-rqlite-61a88f3e.md) |
 | run-llama/llama_index | partial | 2026-09-08T23:38:22Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
@@ -1083,7 +1083,7 @@ Records: `981`
 | spatie/laravel-schemaless-attributes | partial | 2026-06-02T06:36:27Z | [open](../records/databases-spatie-laravel-schemaless-attributes-b47e28be.md) |
 | sql-js/sql.js | partial | 2026-08-14T18:15:39Z | [open](../records/databases-sql-js-sql-js-ab84d5fd.md) |
 | SQLAlchemy | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-sqlalchemy-08e5134f.md) |
-| sqlc-dev/sqlc | partial | 2026-09-11T21:08:04Z | [open](../records/databases-sqlc-dev-sqlc-3d069154.md) |
+| sqlc-dev/sqlc | partial | 2026-09-11T21:28:29Z | [open](../records/databases-sqlc-dev-sqlc-3d069154.md) |
 | SQLite | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-sqlite-854b98c5.md) |
 | sqlmapproject/sqlmap | partial | 2026-09-08T23:00:02Z | [open](../records/databases-sqlmapproject-sqlmap-11b3c1ea.md) |
 | stoneatom/stonedb | partial | 2026-06-23T09:11:04Z | [open](../records/databases-stoneatom-stonedb-45269310.md) |
@@ -1105,7 +1105,7 @@ Records: `981`
 | Turso | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-turso-62cb710e.md) |
 | tursodatabase/agentfs | partial | 2026-06-03T10:48:12Z | [open](../records/databases-tursodatabase-agentfs-6fde2cd8.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/databases-tursodatabase-libsql-7be947ec.md) |
-| twentyhq/twenty | partial | 2026-09-11T20:17:47Z | [open](../records/databases-twentyhq-twenty-d5d0607f.md) |
+| twentyhq/twenty | partial | 2026-09-11T22:38:21Z | [open](../records/databases-twentyhq-twenty-d5d0607f.md) |
 | twitter/finagle | partial | 2026-08-13T18:10:51Z | [open](../records/databases-twitter-finagle-f47280d0.md) |
 | ty4z2008/Qix | partial | 2026-09-06T06:09:13Z | [open](../records/databases-ty4z2008-qix-50ded90a.md) |
 | Typesense | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-typesense-8520ac9c.md) |
@@ -1125,7 +1125,7 @@ Records: `981`
 | vlcn-io/cr-sqlite | partial | 2026-08-10T10:55:49Z | [open](../records/databases-vlcn-io-cr-sqlite-548c9b6c.md) |
 | volcengine/MineContext | partial | 2026-05-07T13:23:05Z | [open](../records/databases-volcengine-minecontext-175b292e.md) |
 | Vonng/ddia | partial | 2026-08-30T01:20:59Z | [open](../records/databases-vonng-ddia-08c2e7f3.md) |
-| vrana/adminer | partial | 2026-09-11T14:10:27Z | [open](../records/databases-vrana-adminer-61729166.md) |
+| vrana/adminer | partial | 2026-09-11T22:36:13Z | [open](../records/databases-vrana-adminer-61729166.md) |
 | wal-e | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-wal-e-470e7aed.md) |
 | Weaviate | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-weaviate-919e9163.md) |
 | weaviate/recipes | partial | 2026-08-27T18:00:42Z | [open](../records/databases-weaviate-recipes-113b16c1.md) |

@@ -172,7 +172,7 @@ Records: `146`
 | [jettbrains/-L-](../records/pattern-language-jettbrains-l-79bdf591.md) | partial | 2021-08-18T13:41:54Z | registry-derived |
 | [kauemurakami/getx_pattern](../records/pattern-language-kauemurakami-getx-pattern-12da1121.md) | partial | 2023-01-04T12:00:45Z | registry-derived |
 | [oodesign](../records/pattern-language-oodesign-a4146ecf.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [rodrigorodrigues/microservices-design-patterns](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) | partial | 2026-09-10T18:55:00Z | registry-derived |
+| [rodrigorodrigues/microservices-design-patterns](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) | partial | 2026-09-11T22:59:25Z | registry-derived |
 | [sanusanth/c-basic-programs](../records/pattern-language-sanusanth-c-basic-programs-1f309b84.md) | partial | 2021-07-24T11:30:02Z | registry-derived |
 | [sourcemaking](../records/pattern-language-sourcemaking-eb7fd693.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 
