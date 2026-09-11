@@ -40,7 +40,7 @@ intelligence, refactoring assistance, diagnostics, and navigation.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; Other |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

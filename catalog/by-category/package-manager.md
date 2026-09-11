@@ -451,7 +451,7 @@ Records: `450`
 | ciccalab/SIMPLI | partial | 2025-09-23T11:08:18Z | [open](../records/microscopy-ciccalab-simpli-f44ea336.md) |
 | DeepTrackAI/DeepTrack2 | partial | 2026-09-10T12:39:03Z | [open](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) |
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
-| lachlanchen/OpenHI | partial | 2026-09-09T05:37:29Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
+| lachlanchen/OpenHI | partial | 2026-09-11T04:13:53Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-01T12:58:34Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |
 | nf-core/spatialvi | partial | 2026-09-04T13:42:58Z | [open](../records/microscopy-nf-core-spatialvi-764d8d93.md) |
 | SPerrott22/Deepcell-to-QuPath | partial | 2025-04-26T00:18:52Z | [open](../records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) |

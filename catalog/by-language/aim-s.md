@@ -46,22 +46,22 @@ Records: `127`
 | [DietrichGebert/ponytail](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) | partial | 2026-09-07T16:27:01Z | registry-derived |
 | [khoj-ai/khoj](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) | partial | 2026-08-02T01:55:40Z | registry-derived |
 | [langchain-ai/langgraph](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) | partial | 2026-09-10T17:11:59Z | registry-derived |
-| [langgenius/dify](../records/aim-s-langgenius-dify-d0663497.md) | partial | 2026-09-11T04:08:14Z | registry-derived |
+| [langgenius/dify](../records/aim-s-langgenius-dify-d0663497.md) | partial | 2026-09-11T05:04:47Z | registry-derived |
 | [rohitg00/ai-engineering-from-scratch](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) | partial | 2026-09-07T11:42:35Z | registry-derived |
-| [Significant-Gravitas/AutoGPT](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) | partial | 2026-09-11T00:07:26Z | registry-derived |
+| [Significant-Gravitas/AutoGPT](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) | partial | 2026-09-11T05:00:31Z | registry-derived |
 | [tinyhumansai/openhuman](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) | partial | 2026-09-04T04:53:43Z | registry-derived |
 | [tirth8205/code-review-graph](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) | partial | 2026-09-10T10:34:39Z | registry-derived |
-| [vercel/ai](../records/aim-s-vercel-ai-ae0b1907.md) | partial | 2026-09-11T04:21:28Z | registry-derived |
+| [vercel/ai](../records/aim-s-vercel-ai-ae0b1907.md) | partial | 2026-09-11T05:13:29Z | registry-derived |
 | [Zackriya-Solutions/meetily](../records/aim-s-zackriya-solutions-meetily-959563c6.md) | partial | 2026-09-10T18:28:42Z | registry-derived |
 
 ### Cli
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [esengine/DeepSeek-Reasonix](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) | partial | 2026-09-11T03:46:10Z | registry-derived |
+| [esengine/DeepSeek-Reasonix](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) | partial | 2026-09-11T04:53:15Z | registry-derived |
 | [feder-cr/AIHawk](../records/aim-s-feder-cr-aihawk-d86efbac.md) | partial | 2026-09-04T21:57:35Z | registry-derived |
 | [Ollama](../records/aim-s-ollama-e5017466.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [QwenLM/qwen-code](../records/aim-s-qwenlm-qwen-code-59e3d415.md) | partial | 2026-09-11T04:20:26Z | registry-derived |
+| [QwenLM/qwen-code](../records/aim-s-qwenlm-qwen-code-59e3d415.md) | partial | 2026-09-11T05:18:40Z | registry-derived |
 
 ### Configuration
 
@@ -115,7 +115,7 @@ Records: `127`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [BerriAI/litellm](../records/aim-s-berriai-litellm-e0f6dc28.md) | partial | 2026-09-11T04:12:33Z | registry-derived |
+| [BerriAI/litellm](../records/aim-s-berriai-litellm-e0f6dc28.md) | partial | 2026-09-11T05:19:32Z | registry-derived |
 | [google/langextract](../records/aim-s-google-langextract-8fb0b488.md) | partial | 2026-09-07T05:38:38Z | registry-derived |
 
 ### Framework
@@ -145,7 +145,7 @@ Records: `127`
 | --- | --- | --- | --- |
 | [llama.cpp](../records/aim-s-llama-cpp-9828c514.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [ONNX Runtime](../records/aim-s-onnx-runtime-98d3a1c6.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [ray-project/ray](../records/aim-s-ray-project-ray-95a80ced.md) | partial | 2026-09-11T04:21:31Z | registry-derived |
+| [ray-project/ray](../records/aim-s-ray-project-ray-95a80ced.md) | partial | 2026-09-11T05:15:15Z | registry-derived |
 | [vLLM](../records/aim-s-vllm-0a7ec6b2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 
 ### Language Specification
@@ -158,7 +158,7 @@ Records: `127`
 | [mlabonne/llm-course](../records/aim-s-mlabonne-llm-course-686674f6.md) | partial | 2026-02-05T13:09:26Z | registry-derived |
 | [mukul975/Anthropic-Cybersecurity-Skills](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) | partial | 2026-08-31T04:32:44Z | registry-derived |
 | [p-e-w/heretic](../records/aim-s-p-e-w-heretic-a6b88cd3.md) | partial | 2026-09-05T16:11:52Z | registry-derived |
-| [sgl-project/sglang](../records/aim-s-sgl-project-sglang-4b12b8a7.md) | partial | 2026-09-11T04:22:23Z | registry-derived |
+| [sgl-project/sglang](../records/aim-s-sgl-project-sglang-4b12b8a7.md) | partial | 2026-09-11T05:17:33Z | registry-derived |
 | [yamadashy/repomix](../records/aim-s-yamadashy-repomix-25d6e394.md) | partial | 2026-09-10T15:14:45Z | registry-derived |
 
 ### Logging Observability
@@ -186,7 +186,7 @@ Records: `127`
 | [HKUDS/Vibe-Trading](../records/aim-s-hkuds-vibe-trading-eb525e68.md) | partial | 2026-09-10T03:23:37Z | registry-derived |
 | [Hugging Face Transformers](../records/aim-s-hugging-face-transformers-9b7d820e.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [ItzCrazyKns/Vane](../records/aim-s-itzcrazykns-vane-331d2e53.md) | partial | 2026-09-01T14:12:12Z | registry-derived |
-| [janhq/jan](../records/aim-s-janhq-jan-f71b49a2.md) | partial | 2026-09-11T03:58:09Z | registry-derived |
+| [janhq/jan](../records/aim-s-janhq-jan-f71b49a2.md) | partial | 2026-09-11T04:45:27Z | registry-derived |
 | [JAX](../records/aim-s-jax-160b4e37.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [jeecgboot/JeecgBoot](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) | partial | 2026-09-10T07:02:10Z | registry-derived |
 | [JuliusBrussee/caveman](../records/aim-s-juliusbrussee-caveman-aee4c811.md) | partial | 2026-09-10T07:32:18Z | registry-derived |
@@ -209,7 +209,7 @@ Records: `127`
 | [TauricResearch/TradingAgents](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) | partial | 2026-09-07T22:51:54Z | registry-derived |
 | [TensorFlow](../records/aim-s-tensorflow-128400a0.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [The-Vibe-Company/quivr](../records/aim-s-the-vibe-company-quivr-87a49b49.md) | partial | 2026-08-31T18:02:45Z | registry-derived |
-| [unslothai/unsloth](../records/aim-s-unslothai-unsloth-b9510699.md) | partial | 2026-09-11T04:13:59Z | registry-derived |
+| [unslothai/unsloth](../records/aim-s-unslothai-unsloth-b9510699.md) | partial | 2026-09-11T05:18:51Z | registry-derived |
 | [VectifyAI/PageIndex](../records/aim-s-vectifyai-pageindex-7c207d93.md) | partial | 2026-09-10T12:07:41Z | registry-derived |
 | [virgiliojr94/book-to-skill](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) | partial | 2026-09-06T21:24:33Z | registry-derived |
 
@@ -222,7 +222,7 @@ Records: `127`
 | [mem0ai/mem0](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) | partial | 2026-09-10T23:04:17Z | registry-derived |
 | [MemPalace/mempalace](../records/aim-s-mempalace-mempalace-24dc978a.md) | partial | 2026-09-08T19:49:28Z | registry-derived |
 | [tinyhumansai/openhuman](../records/aim-s-tinyhumansai-openhuman-c683371f.md) | partial | 2026-09-11T03:01:06Z | registry-derived |
-| [vllm-project/vllm](../records/aim-s-vllm-project-vllm-5af67423.md) | partial | 2026-09-11T03:52:46Z | registry-derived |
+| [vllm-project/vllm](../records/aim-s-vllm-project-vllm-5af67423.md) | partial | 2026-09-11T05:19:58Z | registry-derived |
 | [zhayujie/CowAgent](../records/aim-s-zhayujie-cowagent-fa45ff55.md) | partial | 2026-09-11T02:42:45Z | registry-derived |
 
 ### Networking Http
@@ -243,9 +243,9 @@ Records: `127`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AstrBotDevs/AstrBot](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) | partial | 2026-09-10T19:56:35Z | registry-derived |
-| [HKUDS/LightRAG](../records/aim-s-hkuds-lightrag-8991527b.md) | partial | 2026-09-11T04:06:25Z | registry-derived |
-| [labring/FastGPT](../records/aim-s-labring-fastgpt-678e4e69.md) | partial | 2026-09-11T03:23:39Z | registry-derived |
+| [AstrBotDevs/AstrBot](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) | partial | 2026-09-11T04:37:58Z | registry-derived |
+| [HKUDS/LightRAG](../records/aim-s-hkuds-lightrag-8991527b.md) | partial | 2026-09-11T05:01:07Z | registry-derived |
+| [labring/FastGPT](../records/aim-s-labring-fastgpt-678e4e69.md) | partial | 2026-09-11T05:12:32Z | registry-derived |
 
 ### Registry Repository
 
@@ -270,7 +270,7 @@ Records: `127`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [paperless-ngx/paperless-ngx](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) | partial | 2026-09-11T02:19:26Z | registry-derived |
+| [paperless-ngx/paperless-ngx](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) | partial | 2026-09-11T04:56:58Z | registry-derived |
 | [ZhuLinsen/daily_stock_analysis](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) | partial | 2026-09-06T12:34:16Z | registry-derived |
 
 ### Testing Framework
@@ -290,7 +290,7 @@ Records: `127`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mastra-ai/mastra](../records/aim-s-mastra-ai-mastra-de910197.md) | partial | 2026-09-11T04:09:48Z | registry-derived |
+| [mastra-ai/mastra](../records/aim-s-mastra-ai-mastra-de910197.md) | partial | 2026-09-11T05:04:44Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 

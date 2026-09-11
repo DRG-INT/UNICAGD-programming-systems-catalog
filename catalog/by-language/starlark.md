@@ -34,7 +34,7 @@ Records: `69`
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-09-09T13:13:25Z | registry-derived |
 | [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-11T03:14:47Z | registry-derived |
-| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T02:15:54Z | registry-derived |
+| [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T04:46:26Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
@@ -148,7 +148,7 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [cruise-automation/isopod](../records/starlark-cruise-automation-isopod-0fd20340.md) | partial | 2023-11-17T05:24:18Z | registry-derived |
-| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-10T21:53:38Z | registry-derived |
+| [openrundev/openrun](../records/starlark-openrundev-openrun-0f48908b.md) | partial | 2026-09-11T05:00:41Z | registry-derived |
 | [tidbyt/community](../records/starlark-tidbyt-community-62c4caad.md) | partial | 2026-08-28T05:00:24Z | registry-derived |
 
 ### Visualization Gui

@@ -42,9 +42,9 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; https://www.nuget.org/packages/Apache.Avro/1.12.2/license |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

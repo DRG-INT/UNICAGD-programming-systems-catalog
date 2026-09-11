@@ -276,7 +276,7 @@ Records: `194`
 | [ciccalab/SIMPLI](../records/microscopy-ciccalab-simpli-f44ea336.md) | partial | 2025-09-23T11:08:18Z | registry-derived |
 | [DeepTrackAI/DeepTrack2](../records/microscopy-deeptrackai-deeptrack2-c4bed0ae.md) | partial | 2026-09-10T12:39:03Z | registry-derived |
 | [hallvaaw/awesome-biological-image-analysis](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) | partial | 2026-09-01T08:44:58Z | registry-derived |
-| [lachlanchen/OpenHI](../records/microscopy-lachlanchen-openhi-6563c12a.md) | partial | 2026-09-09T05:37:29Z | registry-derived |
+| [lachlanchen/OpenHI](../records/microscopy-lachlanchen-openhi-6563c12a.md) | partial | 2026-09-11T04:13:53Z | registry-derived |
 | [nf-core/mcmicro](../records/microscopy-nf-core-mcmicro-5fb60926.md) | partial | 2026-09-01T12:58:34Z | registry-derived |
 | [nf-core/spatialvi](../records/microscopy-nf-core-spatialvi-764d8d93.md) | partial | 2026-09-04T13:42:58Z | registry-derived |
 | [SPerrott22/Deepcell-to-QuPath](../records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) | partial | 2025-04-26T00:18:52Z | registry-derived |

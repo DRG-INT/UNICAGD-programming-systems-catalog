@@ -305,7 +305,7 @@ Records: `599`
 | [fastvideo/pgm2dng](../records/photography-fastvideo-pgm2dng-d1583b9e.md) | partial | 2026-07-21T05:55:54Z | registry-derived |
 | [geerlingguy/pi-timelapse](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [GimelStudio/GimelStudio](../records/photography-gimelstudio-gimelstudio-c971959d.md) | partial | 2026-06-18T03:36:38Z | registry-derived |
-| [GraphiteEditor/Graphite](../records/photography-graphiteeditor-graphite-f4ddca51.md) | partial | 2026-09-11T00:13:12Z | registry-derived |
+| [GraphiteEditor/Graphite](../records/photography-graphiteeditor-graphite-f4ddca51.md) | partial | 2026-09-11T02:13:00Z | registry-derived |
 | [guanyingc/DeepHDRVideo](../records/photography-guanyingc-deephdrvideo-b6233de5.md) | partial | 2026-03-16T14:48:31Z | registry-derived |
 | [hjdhjd/homebridge-unifi-protect](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) | partial | 2026-07-19T20:47:25Z | registry-derived |
 | [hkk595/Resizer](../records/photography-hkk595-resizer-84d16447.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -354,7 +354,7 @@ Records: `599`
 | [tannerhelland/PhotoDemon](../records/photography-tannerhelland-photodemon-a6f66710.md) | partial | 2026-08-18T17:17:58Z | registry-derived |
 | [test-full-band/tfb-video](../records/photography-test-full-band-tfb-video-4f53f9ac.md) | partial | 2024-12-14T19:18:09Z | registry-derived |
 | [thumbsup/thumbsup](../records/photography-thumbsup-thumbsup-c22883cd.md) | partial | 2026-02-28T02:10:14Z | registry-derived |
-| [wiltodelta/remove-ai-watermarks](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) | partial | 2026-09-11T00:46:44Z | registry-derived |
+| [wiltodelta/remove-ai-watermarks](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) | partial | 2026-09-11T04:13:54Z | registry-derived |
 | [woelper/oculante](../records/photography-woelper-oculante-7408791d.md) | partial | 2026-08-31T22:33:46Z | registry-derived |
 | [xemle/home-gallery](../records/photography-xemle-home-gallery-5b6dd9db.md) | partial | 2026-06-25T21:41:23Z | registry-derived |
 | [xmtggh/VideoCalling](../records/photography-xmtggh-videocalling-89dad280.md) | partial | 2019-08-26T02:13:50Z | registry-derived |
@@ -805,7 +805,7 @@ Records: `599`
 | [peerpx/peerpx](../records/photography-peerpx-peerpx-8179ea23.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [photostructure/photostructure-for-servers](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Piwigo/Piwigo](../records/photography-piwigo-piwigo-ebe912b3.md) | partial | 2026-09-01T10:24:21Z | registry-derived |
-| [qubvel-org/segmentation_models.pytorch](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) | partial | 2026-09-10T07:29:52Z | registry-derived |
+| [qubvel-org/segmentation_models.pytorch](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) | partial | 2026-09-11T01:43:01Z | registry-derived |
 | [tonytonyjan/exif](../records/photography-tonytonyjan-exif-1f2f7a7f.md) | partial | 2023-08-25T06:25:19Z | registry-derived |
 | [tub-rip/cmax_slam](../records/photography-tub-rip-cmax-slam-9275230c.md) | partial | 2025-03-12T22:13:06Z | registry-derived |
 | [tumuyan/RealSR-NCNN-Android](../records/photography-tumuyan-realsr-ncnn-android-4b7ae31a.md) | partial | 2026-05-30T08:52:28Z | registry-derived |

@@ -40,7 +40,7 @@ validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | {"key": "", "name": "", "url": ""}; Apache-2.0; https://www.nuget.org/packages/WireMock.Net/2.15.0/license |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; MIT License; https://api.github.com/licenses/mit; Apache-2.0; https://www.nuget.org/packages/WireMock.Net/2.15.0/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

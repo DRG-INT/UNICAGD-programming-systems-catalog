@@ -222,7 +222,7 @@ Records: `182`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-11T02:17:47Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-11T05:03:56Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

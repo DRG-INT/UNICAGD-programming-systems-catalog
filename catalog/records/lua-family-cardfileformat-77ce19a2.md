@@ -40,7 +40,7 @@ review, style consistency, and automation-friendly editing.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

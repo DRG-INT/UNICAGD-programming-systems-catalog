@@ -4481,7 +4481,7 @@ Records: `6034`
 | gitlab.com/sequoia-pgp/sequoia-gpg-agent | v0.3.1 | 2026-08-30T15:31:10.349155Z | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
-| go-ffmt/ffmt | unknown | not_a_go_module_path | [open](../records/go-go-ffmt-ffmt-70684860.md) |
+| go-ffmt/ffmt | partial | 2021-11-19T15:22:56Z | [open](../records/go-go-ffmt-ffmt-70684860.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
@@ -4490,7 +4490,7 @@ Records: `6034`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T03:53:45Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T04:35:28Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4503,8 +4503,8 @@ Records: `6034`
 | rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
-| sun8911879/shadowsocksR | unknown | not_a_go_module_path | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-11T04:22:02Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
+| temporalio/temporal | partial | 2026-09-11T05:13:50Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5532,7 +5532,7 @@ Records: `6034`
 | BitBangingBytes/gr-smart_meters | partial | 2023-09-25T14:44:10Z | [open](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) |
 | blaylockbk/goes2go | partial | 2026-06-17T05:07:20Z | [open](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) |
 | brian-armstrong/fec | partial | 2026-08-08T05:34:45Z | [open](../records/satcom-satellites-brian-armstrong-fec-b785fbe7.md) |
-| btfz-sdr/gnuradio_demo | partial | 2026-09-10T06:49:34Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
+| btfz-sdr/gnuradio_demo | partial | 2026-09-11T03:19:21Z | [open](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) |
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/satcom-satellites-cariboulabs-cariboulite-4bcd3490.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/satcom-satellites-codyd51-gypsum-367a7afa.md) |
 | csdvb/dvbs2_tx | partial | 2018-06-14T20:47:16Z | [open](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) |
@@ -5627,10 +5627,10 @@ Records: `6034`
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-10T15:26:57Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-11T02:33:26Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-10T22:22:35Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-11T02:34:37Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-10T22:49:06Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | geekysuavo/pyppm | partial | 2021-07-04T15:42:35Z | [open](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |

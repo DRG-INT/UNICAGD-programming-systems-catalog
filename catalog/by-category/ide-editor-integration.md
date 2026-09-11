@@ -1261,7 +1261,7 @@ Records: `1506`
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
-| GraphiteEditor/Graphite | partial | 2026-09-11T00:13:12Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
+| GraphiteEditor/Graphite | partial | 2026-09-11T02:13:00Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
@@ -1310,7 +1310,7 @@ Records: `1506`
 | tannerhelland/PhotoDemon | partial | 2026-08-18T17:17:58Z | [open](../records/photography-tannerhelland-photodemon-a6f66710.md) |
 | test-full-band/tfb-video | partial | 2024-12-14T19:18:09Z | [open](../records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | thumbsup/thumbsup | partial | 2026-02-28T02:10:14Z | [open](../records/photography-thumbsup-thumbsup-c22883cd.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-11T00:46:44Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-11T04:13:54Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
 | woelper/oculante | partial | 2026-08-31T22:33:46Z | [open](../records/photography-woelper-oculante-7408791d.md) |
 | xemle/home-gallery | partial | 2026-06-25T21:41:23Z | [open](../records/photography-xemle-home-gallery-5b6dd9db.md) |
 | xmtggh/VideoCalling | partial | 2019-08-26T02:13:50Z | [open](../records/photography-xmtggh-videocalling-89dad280.md) |

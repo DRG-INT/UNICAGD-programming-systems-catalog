@@ -40,7 +40,7 @@ of wire formats, persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; MIT; https://www.nuget.org/packages/Microsoft.Azure.Core.NewtonsoftJson/2.0.0/license |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Microsoft.Azure.Core.NewtonsoftJson/2.0.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

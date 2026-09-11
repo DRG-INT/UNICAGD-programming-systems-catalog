@@ -664,9 +664,9 @@ Records: `1238`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-10T19:56:35Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-11T04:06:25Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-11T03:23:39Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-11T04:37:58Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-11T05:01:07Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-11T05:12:32Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -1122,11 +1122,11 @@ Records: `1238`
 | adrn/gala | partial | 2026-09-08T12:47:47Z | [open](../records/telescopes-adrn-gala-6a3e8fbd.md) |
 | AllskyTeam/allsky | partial | 2026-08-31T20:50:25Z | [open](../records/telescopes-allskyteam-allsky-a37843a6.md) |
 | amusecode/amuse | partial | 2026-07-15T15:48:16Z | [open](../records/telescopes-amusecode-amuse-e9459e7a.md) |
-| art-den/astra_lite | partial | 2026-09-10T03:51:03Z | [open](../records/telescopes-art-den-astra-lite-8f947ea9.md) |
+| art-den/astra_lite | partial | 2026-09-11T05:10:35Z | [open](../records/telescopes-art-den-astra-lite-8f947ea9.md) |
 | astrolabsoftware/spark-fits | partial | 2023-04-12T06:06:50Z | [open](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-09-07T16:51:31Z | [open](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) |
 | astropy/astroquery | partial | 2026-09-04T03:39:09Z | [open](../records/telescopes-astropy-astroquery-218a1107.md) |
-| astropy/photutils | partial | 2026-09-11T00:16:30Z | [open](../records/telescopes-astropy-photutils-5b2bafdc.md) |
+| astropy/photutils | partial | 2026-09-11T01:50:21Z | [open](../records/telescopes-astropy-photutils-5b2bafdc.md) |
 | astrorigin/pyswisseph | partial | 2026-04-01T08:19:24Z | [open](../records/telescopes-astrorigin-pyswisseph-f5236430.md) |
 | ATTron/astroz | partial | 2026-04-23T04:38:36Z | [open](../records/telescopes-attron-astroz-fcd297f0.md) |
 | BenJuan26/OpenSkyStacker | partial | 2021-03-01T01:56:17Z | [open](../records/telescopes-benjuan26-openskystacker-f95f560a.md) |
@@ -1179,7 +1179,7 @@ Records: `1238`
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) |
 | jbrazio/ardufocus-ascom | partial | 2021-02-21T11:08:23Z | [open](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) |
-| jobovy/galpy | partial | 2026-09-11T01:01:42Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
+| jobovy/galpy | partial | 2026-09-11T03:24:59Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | JuliaAstro/AstroImages.jl | partial | 2026-07-30T16:20:41Z | [open](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) |
 | kylecorry31/Trail-Sense | partial | 2026-09-10T21:42:36Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
@@ -1305,7 +1305,7 @@ Records: `1238`
 | flexcompute/tidy3d | partial | 2026-08-07T07:32:11Z | [open](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) |
 | Gjacquenot/Puma-EM | partial | 2020-09-12T13:09:29Z | [open](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) |
 | libretime/libretime | partial | 2026-09-11T00:23:52Z | [open](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) |
-| meshtastic/Meshtastic-Android | partial | 2026-09-11T01:17:49Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
+| meshtastic/Meshtastic-Android | partial | 2026-09-11T04:04:55Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | ocastilloreyes/petgem | partial | 2026-07-30T08:00:28Z | [open](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) |
 | pagermon/pagermon | partial | 2026-08-04T22:51:57Z | [open](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) |
 | psyb0t/piraterf | partial | 2026-08-01T19:49:42Z | [open](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) |

@@ -706,7 +706,7 @@ Records: `642`
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | juliojsb/sarviewer | partial | 2019-06-03T16:42:23Z | [open](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
-| radarsimx/radarsimpy | partial | 2026-09-11T00:22:32Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| radarsimx/radarsimpy | partial | 2026-09-11T01:47:06Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | Stefal/rtkbase | partial | 2026-05-07T15:39:40Z | [open](../records/radars-stefal-rtkbase-1f60caca.md) |
 
 ## SatCom Satellites

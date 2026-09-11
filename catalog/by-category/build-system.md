@@ -639,7 +639,7 @@ Records: `1035`
 | --- | --- | --- | --- |
 | adobe/rules_gitops | partial | 2026-09-09T13:13:25Z | [open](../records/starlark-adobe-rules-gitops-09140ed0.md) |
 | aspect-build/rules_js | partial | 2026-09-11T03:14:47Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
-| aspect-build/rules_py | partial | 2026-09-11T02:15:54Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
+| aspect-build/rules_py | partial | 2026-09-11T04:46:26Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
@@ -691,12 +691,12 @@ Records: `1035`
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-10T17:11:59Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-11T04:08:14Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-11T05:04:47Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-11T00:07:26Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-11T05:00:31Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-10T10:34:39Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-11T04:21:28Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| vercel/ai | partial | 2026-09-11T05:13:29Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
 | Zackriya-Solutions/meetily | partial | 2026-09-10T18:28:42Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software

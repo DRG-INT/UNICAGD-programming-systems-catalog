@@ -40,7 +40,7 @@ routing, middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; ISC License; https://api.github.com/licenses/isc |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

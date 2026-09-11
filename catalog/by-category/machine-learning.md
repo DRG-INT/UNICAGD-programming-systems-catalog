@@ -509,7 +509,7 @@ Records: `851`
 | HKUDS/Vibe-Trading | partial | 2026-09-10T03:23:37Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-11T03:58:09Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-11T04:45:27Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-10T07:02:10Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-10T07:32:18Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
@@ -532,7 +532,7 @@ Records: `851`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-11T04:13:59Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-11T05:18:51Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-10T12:07:41Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-06T21:24:33Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 

@@ -299,7 +299,7 @@ Records: `326`
 | [BitBangingBytes/gr-smart_meters](../records/satcom-satellites-bitbangingbytes-gr-smart-meters-4a6e02bf.md) | partial | 2023-09-25T14:44:10Z | registry-derived |
 | [blaylockbk/goes2go](../records/satcom-satellites-blaylockbk-goes2go-6d604dc4.md) | partial | 2026-06-17T05:07:20Z | registry-derived |
 | [brian-armstrong/fec](../records/satcom-satellites-brian-armstrong-fec-b785fbe7.md) | partial | 2026-08-08T05:34:45Z | registry-derived |
-| [btfz-sdr/gnuradio_demo](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) | partial | 2026-09-10T06:49:34Z | registry-derived |
+| [btfz-sdr/gnuradio_demo](../records/satcom-satellites-btfz-sdr-gnuradio-demo-1b296ec6.md) | partial | 2026-09-11T03:19:21Z | registry-derived |
 | [cariboulabs/cariboulite](../records/satcom-satellites-cariboulabs-cariboulite-4bcd3490.md) | partial | 2025-07-24T17:35:47Z | registry-derived |
 | [codyd51/gypsum](../records/satcom-satellites-codyd51-gypsum-367a7afa.md) | partial | 2024-04-15T17:30:55Z | registry-derived |
 | [csdvb/dvbs2_tx](../records/satcom-satellites-csdvb-dvbs2-tx-c714b8f5.md) | partial | 2018-06-14T20:47:16Z | registry-derived |

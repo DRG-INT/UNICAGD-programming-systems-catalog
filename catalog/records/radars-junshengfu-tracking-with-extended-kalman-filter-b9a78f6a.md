@@ -41,7 +41,7 @@ inventory as part of device constraints, cross-compilation, driver behavior, and
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

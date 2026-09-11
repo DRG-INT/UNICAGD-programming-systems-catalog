@@ -87,7 +87,7 @@ Records: `287`
 | [cybergalactic/MSS](../records/matlab-cybergalactic-mss-a9aab0e3.md) | partial | 2026-09-07T16:43:18Z | registry-derived |
 | [cycleuser/Stanford-CS-229](../records/matlab-cycleuser-stanford-cs-229-ac92424c.md) | partial | 2022-03-01T05:11:19Z | registry-derived |
 | [daijifeng001/R-FCN](../records/matlab-daijifeng001-r-fcn-0144dda6.md) | partial | 2017-05-05T15:50:59Z | registry-derived |
-| [davidscmx/radar-target-generation-and-detection](../records/matlab-davidscmx-radar-target-generation-and-detection-7a8cb8e0.md) | unknown | github_latest_release_missing | registry-derived |
+| [davidscmx/radar-target-generation-and-detection](../records/matlab-davidscmx-radar-target-generation-and-detection-7a8cb8e0.md) | partial | 2024-09-12T09:48:22Z | registry-derived |
 | [davidvarga/MBeautifier](../records/matlab-davidvarga-mbeautifier-5504e7cb.md) | partial | 2025-04-17T09:40:43Z | registry-derived |
 | [denkywu/SAR-Synthetic-Aperture-Radar](../records/matlab-denkywu-sar-synthetic-aperture-radar-e2231d51.md) | partial | 2023-11-19T03:15:56Z | registry-derived |
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/matlab-denkywu-simulation-of-sar-imaging-algorithm-b74c974f.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
@@ -162,8 +162,8 @@ Records: `287`
 | [ktekeli/audio-steganography-algorithms](../records/matlab-ktekeli-audio-steganography-algorithms-59a5ea02.md) | partial | 2023-11-07T11:06:31Z | registry-derived |
 | [kyamagu/mexopencv](../records/matlab-kyamagu-mexopencv-201dfc1f.md) | partial | 2020-10-23T01:25:05Z | registry-derived |
 | [lab-midas/ismrm-moco-workshop](../records/matlab-lab-midas-ismrm-moco-workshop-9d9fbbf2.md) | partial | 2024-08-30T19:09:23Z | registry-derived |
-| [lacerbi/optimviz](../records/matlab-lacerbi-optimviz-978d4349.md) | unknown | github_latest_release_missing | registry-derived |
-| [lamfur07/Flight-Dynamics-and-Control-UAVs](../records/matlab-lamfur07-flight-dynamics-and-control-uavs-4a90914e.md) | unknown | github_latest_release_missing | registry-derived |
+| [lacerbi/optimviz](../records/matlab-lacerbi-optimviz-978d4349.md) | partial | 2022-02-24T07:33:42Z | registry-derived |
+| [lamfur07/Flight-Dynamics-and-Control-UAVs](../records/matlab-lamfur07-flight-dynamics-and-control-uavs-4a90914e.md) | partial | 2023-06-12T18:39:18Z | registry-derived |
 | [layumi/Image-Text-Embedding](../records/matlab-layumi-image-text-embedding-7ecad011.md) | partial | 2026-07-06T00:56:20Z | registry-derived |
 | [Linfeng-Tang/Image-Fusion](../records/matlab-linfeng-tang-image-fusion-8beb660a.md) | partial | 2026-08-05T02:21:06Z | registry-derived |
 | [lintingbin/machine-learning-ex](../records/matlab-lintingbin-machine-learning-ex-d3e0e2d6.md) | partial | 2017-07-02T16:31:40Z | registry-derived |
@@ -183,7 +183,7 @@ Records: `287`
 | [MartinHahner/FoggySynscapes](../records/matlab-martinhahner-foggysynscapes-42c8d9f2.md) | partial | 2022-02-09T18:57:20Z | registry-derived |
 | [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](../records/matlab-mathfoundationrl-book-mathematical-foundation-of-reinforcement-learning-34855485.md) | partial | 2026-09-08T06:41:29Z | registry-derived |
 | [mathworks/awesome-matlab-students](../records/matlab-mathworks-awesome-matlab-students-5d111c82.md) | partial | 2026-09-09T13:23:29Z | registry-derived |
-| [mathworks/Simscape-Battery-Electric-Vehicle-Model](../records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) | unknown | github_latest_release_missing | registry-derived |
+| [mathworks/Simscape-Battery-Electric-Vehicle-Model](../records/matlab-mathworks-simscape-battery-electric-vehicle-model-25267591.md) | partial | 2026-08-20T14:42:27Z | registry-derived |
 | [matlab-deep-learning/llms-with-matlab](../records/matlab-matlab-deep-learning-llms-with-matlab-206936ca.md) | partial | 2026-06-15T10:30:40Z | registry-derived |
 | [matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub](../records/matlab-matlab-deep-learning-matlab-deep-learning-model-hub-4365bfd4.md) | partial | 2026-04-22T16:25:38Z | registry-derived |
 | [matlab-deep-learning/reinforcement_learning_financial_trading](../records/matlab-matlab-deep-learning-reinforcement-learning-financial-trading-9b4c6e01.md) | partial | 2026-02-13T08:51:45Z | registry-derived |

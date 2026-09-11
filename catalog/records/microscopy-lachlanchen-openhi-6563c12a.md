@@ -35,7 +35,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T05:37:29Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T04:13:53Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -43,7 +43,7 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -614,7 +614,7 @@ Records: `483`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ElmerCSC/elmerfem | partial | 2026-09-10T15:28:51Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-11T05:12:34Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | hbldh/pymetawear | partial | 2023-05-30T14:04:42Z | [open](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 
 ## Radio Garden Speciality

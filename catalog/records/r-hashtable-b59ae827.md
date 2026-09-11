@@ -41,9 +41,9 @@ authentication, and key-management risk.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

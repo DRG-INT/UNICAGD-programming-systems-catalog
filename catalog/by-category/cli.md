@@ -545,10 +545,10 @@ Records: `592`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-11T03:46:10Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-11T04:53:15Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-11T04:20:26Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-11T05:18:40Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

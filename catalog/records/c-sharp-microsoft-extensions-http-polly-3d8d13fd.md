@@ -42,9 +42,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT; https://www.nuget.org/packages/Microsoft.Extensions.Http.Polly/10.0.11/license |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Microsoft.Extensions.Http.Polly/10.0.11/license |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

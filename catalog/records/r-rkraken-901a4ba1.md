@@ -41,9 +41,9 @@ reproducibility, cross-platform build policy, and CI integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

@@ -39,9 +39,9 @@ unit/integration validation, regression protection, and release confidence.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD-3-Clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Backup plan required |
+| Evidence | GPL-2 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

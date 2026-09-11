@@ -40,7 +40,7 @@ language integration, ABI ownership, memory safety, and runtime embedding.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
