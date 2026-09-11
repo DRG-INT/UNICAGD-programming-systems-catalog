@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-10 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-11 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-11", "status": "registry-derived"}` |
 
 </details>
 

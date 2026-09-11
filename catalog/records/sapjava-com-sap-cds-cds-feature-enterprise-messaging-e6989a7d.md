@@ -40,9 +40,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-10 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-11 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cds\"", "retrieved": "2026-09-11", "status": "registry-derived"}` |
 
 </details>
 

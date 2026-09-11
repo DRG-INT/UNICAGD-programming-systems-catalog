@@ -588,7 +588,7 @@ Records: `1699`
 | gosom/scrapemate | unknown | not_a_go_module_path | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-11T10:19:25Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-11T11:07:11Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -992,7 +992,7 @@ Records: `1699`
 | AmirhosseinHonardoust/Handwritten-Digit-GAN | partial | 2026-09-01T12:31:43Z | [open](../records/space-maps-amirhosseinhonardoust-handwritten-digit-gan-bcfbcf65.md) |
 | arturania/cspice | partial | 2022-05-10T22:48:14Z | [open](../records/space-maps-arturania-cspice-0baa86fe.md) |
 | ayushsi42/geo-sim | partial | 2026-03-10T18:05:51Z | [open](../records/space-maps-ayushsi42-geo-sim-918033d0.md) |
-| cosmoscout/cosmoscout-vr | partial | 2026-09-07T12:34:46Z | [open](../records/space-maps-cosmoscout-cosmoscout-vr-4e8ff6a8.md) |
+| cosmoscout/cosmoscout-vr | partial | 2026-09-11T09:10:51Z | [open](../records/space-maps-cosmoscout-cosmoscout-vr-4e8ff6a8.md) |
 | daoneil/spacemission | partial | 2022-08-01T01:32:37Z | [open](../records/space-maps-daoneil-spacemission-af0bad68.md) |
 | demul/extrinsic2pyramid | partial | 2025-02-17T06:43:36Z | [open](../records/space-maps-demul-extrinsic2pyramid-3922b529.md) |
 | dixieflatline76/Spice | partial | 2026-08-18T20:25:46Z | [open](../records/space-maps-dixieflatline76-spice-800b944f.md) |
@@ -1238,13 +1238,13 @@ Records: `1699`
 | jatinchowdhury18/ChowPhaser | partial | 2022-02-23T08:14:59Z | [open](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) |
 | josephernest/SamplerBox | partial | 2024-05-09T19:18:19Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
 | joshwcomeau/key-and-pad | partial | 2022-12-12T07:44:58Z | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
-| juce-framework/JUCE | partial | 2026-09-09T10:41:13Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
+| juce-framework/JUCE | partial | 2026-09-11T10:31:24Z | [open](../records/audio-juce-framework-juce-7765dd0c.md) |
 | kushview/element | partial | 2026-09-09T01:15:00Z | [open](../records/audio-kushview-element-3d0d8878.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/audio-martinber-noaa-apt-c11a6202.md) |
 | microsoft/torchscale | partial | 2024-04-11T13:58:57Z | [open](../records/audio-microsoft-torchscale-35290025.md) |
 | microsoft/UniSpeech | partial | 2024-04-05T13:14:48Z | [open](../records/audio-microsoft-unispeech-787685ec.md) |
 | mimium-org/mimium | partial | 2024-12-22T10:14:15Z | [open](../records/audio-mimium-org-mimium-8b76284d.md) |
-| openframeworks/openFrameworks | partial | 2026-09-11T03:15:50Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
+| openframeworks/openFrameworks | partial | 2026-09-11T11:20:03Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
 | polykit/pico-dco | unknown | github_latest_release_missing | [open](../records/audio-polykit-pico-dco-17364b22.md) |
 | Rikorose/DeepFilterNet | partial | 2024-10-17T08:35:11Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
 | rishikanthc/Scriberr | partial | 2026-06-01T03:07:49Z | [open](../records/audio-rishikanthc-scriberr-55b843d3.md) |
@@ -1333,7 +1333,7 @@ Records: `1699`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-11T09:48:05Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-11T11:21:34Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-09T22:53:47Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |

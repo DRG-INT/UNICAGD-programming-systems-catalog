@@ -41,7 +41,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | PostgreSQL; https://www.nuget.org/packages/Npgsql.Json.NET/10.0.3/license |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
