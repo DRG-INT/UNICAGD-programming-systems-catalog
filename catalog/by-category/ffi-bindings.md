@@ -24,7 +24,7 @@ Records: `486`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -698,7 +698,7 @@ Records: `486`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| getsentry/sentry-cocoa | partial | 2026-09-11T20:17:19Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
+| getsentry/sentry-cocoa | partial | 2026-09-11T20:34:54Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
 | madsmtm/objc2 | partial | 2026-09-09T23:48:08Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-09T16:54:10Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
@@ -711,13 +711,13 @@ Records: `486`
 | duckdb/duckdb-rs | partial | 2026-09-08T09:35:40Z | [open](../records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
 | electric-sql/pglite | partial | 2026-08-26T18:35:11Z | [open](../records/databases-electric-sql-pglite-aaa8e71d.md) |
 | geldata/gel-python | partial | 2025-11-06T02:05:16Z | [open](../records/databases-geldata-gel-python-70c815ca.md) |
-| HDFGroup/hdf5 | partial | 2026-09-08T05:29:45Z | [open](../records/databases-hdfgroup-hdf5-b4780cb8.md) |
+| HDFGroup/hdf5 | partial | 2026-09-11T14:59:04Z | [open](../records/databases-hdfgroup-hdf5-b4780cb8.md) |
 | Koka/odbc-rs | partial | 2024-08-07T20:26:24Z | [open](../records/databases-koka-odbc-rs-22556c1f.md) |
 | maxi-k/btrblocks | partial | 2025-04-07T10:12:31Z | [open](../records/databases-maxi-k-btrblocks-dc270804.md) |
-| mongodb/mongo-csharp-driver | partial | 2026-09-02T17:31:26Z | [open](../records/databases-mongodb-mongo-csharp-driver-9f56565d.md) |
-| mongodb/node-mongodb-native | partial | 2026-09-07T10:42:34Z | [open](../records/databases-mongodb-node-mongodb-native-de777c0a.md) |
+| mongodb/mongo-csharp-driver | partial | 2026-09-10T14:46:11Z | [open](../records/databases-mongodb-mongo-csharp-driver-9f56565d.md) |
+| mongodb/node-mongodb-native | partial | 2026-09-11T12:31:32Z | [open](../records/databases-mongodb-node-mongodb-native-de777c0a.md) |
 | neo4j/neo4j-jdbc | partial | 2026-09-07T12:19:20Z | [open](../records/databases-neo4j-neo4j-jdbc-bb89a9b2.md) |
-| oracle/docker-images | partial | 2026-09-02T22:53:10Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
+| oracle/docker-images | partial | 2026-09-10T11:04:26Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
 | parthsarthi03/raptor | partial | 2024-09-03T08:34:31Z | [open](../records/databases-parthsarthi03-raptor-aabfb858.md) |
 | pixelsdb/pixels | partial | 2026-09-08T06:06:29Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
 | rusqlite/rusqlite | partial | 2026-09-06T07:01:19Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |

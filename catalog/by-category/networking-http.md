@@ -24,7 +24,7 @@ Records: `1086`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -1271,14 +1271,14 @@ Records: `1086`
 | --- | --- | --- | --- |
 | daltoniam/Starscream | unknown | github_search_does_not_include_release_date | [open](../records/swift-daltoniam-starscream-9636cfb7.md) |
 | Dimillian/RedditOS | partial | 2023-10-23T16:52:36Z | [open](../records/swift-dimillian-redditos-725a3cef.md) |
-| jellyfin/Swiftfin | partial | 2026-09-11T15:18:11Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
+| jellyfin/Swiftfin | partial | 2026-09-11T20:58:38Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
 | joreilly/PeopleInSpace | partial | 2026-09-06T03:40:06Z | [open](../records/swift-joreilly-peopleinspace-32675233.md) |
 | kean/Pulse | unknown | github_search_does_not_include_release_date | [open](../records/swift-kean-pulse-8d6e61db.md) |
 | Moya/Moya | unknown | github_search_does_not_include_release_date | [open](../records/swift-moya-moya-feb40e46.md) |
 | permissionlesstech/bitchat | unknown | github_search_does_not_include_release_date | [open](../records/swift-permissionlesstech-bitchat-1323762a.md) |
 | ProjectKumo/KumoApp | partial | 2026-06-05T17:08:02Z | [open](../records/swift-projectkumo-kumoapp-163c7695.md) |
 | SwiftcordApp/Swiftcord | partial | 2026-06-20T10:38:53Z | [open](../records/swift-swiftcordapp-swiftcord-66b78add.md) |
-| TableProApp/TablePro | partial | 2026-09-11T18:52:37Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
+| TableProApp/TablePro | partial | 2026-09-11T20:37:39Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
 
 ## Cocoa
 
@@ -1303,8 +1303,8 @@ Records: `1086`
 | aerospike/aerospike-client-rust | partial | 2026-09-10T16:54:35Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-08T16:56:13Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-11T20:23:01Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
-| brianc/node-postgres | partial | 2026-09-02T00:26:05Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-11T21:16:56Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-11T18:25:27Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
@@ -1315,7 +1315,7 @@ Records: `1086`
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | geldata/gel-elixir | partial | 2026-02-20T22:42:45Z | [open](../records/databases-geldata-gel-elixir-a46bd8bb.md) |
 | go-xorm/xorm | partial | 2020-04-03T01:12:12Z | [open](../records/databases-go-xorm-xorm-28a3d567.md) |
-| HeidiSQL/HeidiSQL | partial | 2026-08-27T17:26:07Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
+| HeidiSQL/HeidiSQL | partial | 2026-09-10T16:18:48Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
 | HTTP-RPC/Kilo | partial | 2026-09-06T21:05:32Z | [open](../records/databases-http-rpc-kilo-1640999c.md) |
 | hyparam/icebird | partial | 2026-09-06T00:31:08Z | [open](../records/databases-hyparam-icebird-b87f30a3.md) |
 | influxdb-rs/influxdb-rust | partial | 2026-03-02T05:09:46Z | [open](../records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
@@ -1329,16 +1329,16 @@ Records: `1086`
 | OtterMind/Chat2DB | partial | 2026-09-11T16:50:36Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
-| PyMySQL/PyMySQL | partial | 2026-09-07T08:30:34Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
+| PyMySQL/PyMySQL | partial | 2026-09-11T07:09:02Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
 | qdrant/qdrant-client | partial | 2026-09-09T10:04:48Z | [open](../records/databases-qdrant-qdrant-client-c2e262b3.md) |
 | Query-farm/httpserver | partial | 2026-09-04T20:19:43Z | [open](../records/databases-query-farm-httpserver-36ffb344.md) |
 | SAP/go-hdb | partial | 2026-09-08T22:34:22Z | [open](../records/databases-sap-go-hdb-a1c93dee.md) |
 | SheetJS/sheetjs | partial | 2024-04-18T08:06:46Z | [open](../records/databases-sheetjs-sheetjs-8657dc9b.md) |
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
-| sourcenetwork/defradb | partial | 2026-09-07T09:30:49Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
+| sourcenetwork/defradb | partial | 2026-09-11T18:16:05Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
 | t8y2/dbx | partial | 2026-09-11T17:01:24Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
-| TableProApp/TablePro | partial | 2026-09-08T11:54:47Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
+| TableProApp/TablePro | partial | 2026-09-11T20:37:39Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |
 

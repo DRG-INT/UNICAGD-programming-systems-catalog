@@ -39,9 +39,9 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | MIT; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl; {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

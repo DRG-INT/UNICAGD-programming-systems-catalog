@@ -32,7 +32,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2025-07-29T01:12:55Z | [https://gitea.com/api/v1/repos/search?q=compiler&limit=50](https://gitea.com/api/v1/repos/search?q=compiler&limit=50) | gitea_search_api_reports_activity_not_release_version |
+| stable | partial |  | 2025-07-29T01:12:55Z | [https://gitea.com/api/v1/repos/search?q=language&limit=50](https://gitea.com/api/v1/repos/search?q=language&limit=50) | gitea_search_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitea_search_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-11 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "compiler", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-11 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
 
 </details>
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

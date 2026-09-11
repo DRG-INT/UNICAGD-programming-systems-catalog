@@ -24,7 +24,7 @@ Records: `179`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -252,7 +252,7 @@ Records: `179`
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
 | HexHive/retrowrite | partial | 2025-04-26T16:48:55Z | [open](../records/assembly-hexhive-retrowrite-c7fefa2b.md) |
-| illegalstudio/elephc | partial | 2026-09-11T18:01:37Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
+| illegalstudio/elephc | partial | 2026-09-11T21:03:36Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | joexbayer/RetrOS-32 | partial | 2026-02-22T16:07:58Z | [open](../records/assembly-joexbayer-retros-32-b6c205a2.md) |
 | JustasMasiulis/inline_syscall | partial | 2024-06-21T00:26:33Z | [open](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
@@ -271,7 +271,7 @@ Records: `179`
 | Asterius - A Haskell to WebAssembly compiler | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-asterius-a-haskell-to-webassembly-compiler-4b7ccecb.md) |
 | Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++ | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-binaryen-binaryen-is-a-compiler-and-toolchain-infrastructure-library-for-webassembly-written-in-c-b9de4902.md) |
 | bytecodealliance/lucet | partial | 2022-03-23T22:18:15Z | [open](../records/webassembly-bytecodealliance-lucet-9e0dc166.md) |
-| dy/jz | partial | 2026-09-11T20:04:46Z | [open](../records/webassembly-dy-jz-fadb9eec.md) |
+| dy/jz | partial | 2026-09-11T20:30:03Z | [open](../records/webassembly-dy-jz-fadb9eec.md) |
 | Emscripten - LLVM-based project that compiles C and C++ | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-emscripten-llvm-based-project-that-compiles-c-and-c-c903d9d1.md) |
 | emscripten-core/emscripten | partial | 2026-09-11T10:43:28Z | [open](../records/webassembly-emscripten-core-emscripten-919748ea.md) |
 | grain-lang/grain | partial | 2026-09-11T17:42:00Z | [open](../records/webassembly-grain-lang-grain-612ed58b.md) |
@@ -289,7 +289,7 @@ Records: `179`
 | tinygo-org/tinygo | partial | 2026-09-11T14:05:48Z | [open](../records/webassembly-tinygo-org-tinygo-509450fb.md) |
 | titzer/wizard-engine | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-titzer-wizard-engine-a95b7825.md) |
 | toyobayashi/emnapi | partial | 2026-09-04T07:50:22Z | [open](../records/webassembly-toyobayashi-emnapi-9dae3d7d.md) |
-| tursodatabase/turso | partial | 2026-09-11T20:17:18Z | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
+| tursodatabase/turso | partial | 2026-09-11T20:37:59Z | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
 | tyfkda/xcc | partial | 2026-09-09T01:00:50Z | [open](../records/webassembly-tyfkda-xcc-1f5eed90.md) |
 | wazero/wazero | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wazero-wazero-d7577722.md) |
 | WebAssembly for the GNU Toolchain | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-for-the-gnu-toolchain-bcf332d8.md) |
@@ -299,8 +299,8 @@ Records: `179`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| tobymao/sqlglot | partial | 2026-09-08T12:17:19Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
-| tursodatabase/turso | partial | 2026-09-11T20:17:18Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
+| tobymao/sqlglot | partial | 2026-09-11T21:19:29Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
+| tursodatabase/turso | partial | 2026-09-11T20:37:59Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
 
 ## Repository Workplaces
 

@@ -24,7 +24,7 @@ Records: `855`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -508,7 +508,7 @@ Records: `855`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-08-26T06:33:41Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-11T20:13:31Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-11T21:10:33Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-11T17:28:22Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -521,8 +521,8 @@ Records: `855`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-11T06:22:58Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-11T20:11:53Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-11T20:12:40Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-11T21:10:41Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-11T21:17:16Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-10T21:09:36Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-11T20:12:34Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -990,7 +990,7 @@ Records: `855`
 | --- | --- | --- | --- |
 | Chris1sFlaggin/LCSAJdump | partial | 2026-06-22T08:17:14Z | [open](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) |
 | coderaiser/nemesis | partial | 2026-02-08T13:40:01Z | [open](../records/assembly-coderaiser-nemesis-87becb25.md) |
-| gbdev/rgbds | partial | 2026-09-11T20:20:29Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| gbdev/rgbds | partial | 2026-09-11T20:31:21Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
 | giacomo-folli/asmlings | partial | 2026-07-22T12:52:18Z | [open](../records/assembly-giacomo-folli-asmlings-14c668aa.md) |
 | jishanshaikh4/8086-cheatsheet | partial | 2022-10-02T05:33:54Z | [open](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | NtRaiseHardError/Reverse-Engineering-101 | partial | 2019-06-02T00:50:14Z | [open](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) |

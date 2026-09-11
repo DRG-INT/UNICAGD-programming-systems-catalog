@@ -24,7 +24,7 @@ Records: `95`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -250,7 +250,7 @@ Records: `95`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/cloudberry | partial | 2026-09-08T11:47:36Z | [open](../records/databases-apache-cloudberry-5e9a8481.md) |
+| apache/cloudberry | partial | 2026-09-11T16:21:42Z | [open](../records/databases-apache-cloudberry-5e9a8481.md) |
 | dingodb/dingo | partial | 2026-07-10T11:13:29Z | [open](../records/databases-dingodb-dingo-78d057f3.md) |
 | pg\_probackup | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-probackup-e70f04d4.md) |
 | Pometry/Raphtory | partial | 2026-09-08T11:56:11Z | [open](../records/databases-pometry-raphtory-3352e434.md) |

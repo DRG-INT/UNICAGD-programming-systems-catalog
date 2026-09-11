@@ -24,7 +24,7 @@ Records: `318`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## Python
 
@@ -315,7 +315,7 @@ Records: `318`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-11T20:22:52Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-11T21:18:20Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -507,9 +507,9 @@ Records: `318`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mikro-orm/mikro-orm | partial | 2026-09-08T11:30:19Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
+| mikro-orm/mikro-orm | partial | 2026-09-11T21:00:59Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
 | prisma/orm | partial | 2026-09-11T19:54:51Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
-| sequelize/sequelize | partial | 2026-09-08T11:49:40Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
-| strapi/strapi | partial | 2026-09-08T11:41:18Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
+| sequelize/sequelize | partial | 2026-09-11T20:51:22Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
+| strapi/strapi | partial | 2026-09-11T20:51:12Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
 | typeorm/typeorm | partial | 2026-09-11T07:22:38Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |

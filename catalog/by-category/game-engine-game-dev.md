@@ -24,7 +24,7 @@ Records: `376`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -561,7 +561,7 @@ Records: `376`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alanchn31/Data-Engineering-Projects | partial | 2023-02-08T00:44:31Z | [open](../records/databases-alanchn31-data-engineering-projects-ec5e441e.md) |
-| apache/datafusion-ballista | partial | 2026-09-08T07:58:10Z | [open](../records/databases-apache-datafusion-ballista-0541951e.md) |
+| apache/datafusion-ballista | partial | 2026-09-11T07:04:46Z | [open](../records/databases-apache-datafusion-ballista-0541951e.md) |
 | Jayvardhan-Reddy/Azure-Certification-DP-200 | partial | 2020-08-05T02:50:07Z | [open](../records/databases-jayvardhan-reddy-azure-certification-dp-200-bc190a86.md) |
 | qala-io/java-course | partial | 2025-08-20T08:48:10Z | [open](../records/databases-qala-io-java-course-54153d86.md) |
 

@@ -24,7 +24,7 @@ Records: `311`
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -113,7 +113,7 @@ Records: `311`
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
-| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T19:25:06Z | registry-derived |
+| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T21:16:20Z | registry-derived |
 
 ### Data Science
 
@@ -526,7 +526,7 @@ Records: `311`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [brandonp2412/Quitter](../records/magazines-brandonp2412-quitter-639e86aa.md) | partial | 2026-09-10T19:10:11Z | registry-derived |
+| [brandonp2412/Quitter](../records/magazines-brandonp2412-quitter-639e86aa.md) | partial | 2026-09-11T21:04:21Z | registry-derived |
 | [krrishd/write](../records/magazines-krrishd-write-37bef373.md) | partial | 2018-03-12T19:56:25Z | registry-derived |
 
 ### Web Framework

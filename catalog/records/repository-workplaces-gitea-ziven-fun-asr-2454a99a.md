@@ -40,9 +40,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-10 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-10", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-11 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
 
 </details>
 
@@ -104,4 +104,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

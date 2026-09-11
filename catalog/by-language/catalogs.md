@@ -24,7 +24,7 @@ Records: `285`
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -269,7 +269,7 @@ Records: `285`
 | [Fleex255/PolicyPlus](../records/catalogs-fleex255-policyplus-b34a9b34.md) | partial | 2025-12-27T20:44:47Z | registry-derived |
 | [Foulest/RepairKit](../records/catalogs-foulest-repairkit-96da04d2.md) | partial | 2026-09-07T18:54:36Z | registry-derived |
 | [GiovanniDicanio/WinReg](../records/catalogs-giovannidicanio-winreg-b855affc.md) | partial | 2026-08-21T18:01:01Z | registry-derived |
-| [git-pkgs/proxy](../records/catalogs-git-pkgs-proxy-d3c42acb.md) | partial | 2026-09-10T15:17:24Z | registry-derived |
+| [git-pkgs/proxy](../records/catalogs-git-pkgs-proxy-d3c42acb.md) | partial | 2026-09-10T20:34:29Z | registry-derived |
 | [goharbor/harbor](../records/catalogs-goharbor-harbor-ec2d9450.md) | partial | 2026-09-11T11:18:34Z | registry-derived |
 | [google/go-containerregistry](../records/catalogs-google-go-containerregistry-38c3c5cd.md) | partial | 2026-09-11T19:32:29Z | registry-derived |
 | [harrisonwang/wharf](../records/catalogs-harrisonwang-wharf-662407ae.md) | partial | 2026-05-07T01:09:05Z | registry-derived |

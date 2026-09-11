@@ -24,7 +24,7 @@ Records: `1511`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -693,10 +693,10 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-11T19:55:10Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T21:06:06Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-11T18:11:25Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-11T21:08:44Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-11T16:11:52Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1549,7 +1549,7 @@ Records: `1511`
 | oded8bit/Assembly-Lib | partial | 2018-03-19T16:54:22Z | [open](../records/assembly-oded8bit-assembly-lib-a552ed5a.md) |
 | robalb/x86-64-playground | partial | 2026-01-18T19:17:26Z | [open](../records/assembly-robalb-x86-64-playground-c440c3c0.md) |
 | sehugg/8bitworkshop | partial | 2026-09-11T15:03:39Z | [open](../records/assembly-sehugg-8bitworkshop-62e01cd8.md) |
-| Specy/asm-editor | partial | 2026-09-11T20:20:44Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
+| Specy/asm-editor | partial | 2026-09-11T21:04:06Z | [open](../records/assembly-specy-asm-editor-c3b9e30b.md) |
 | ThomasJaeger/VisualMASM | partial | 2018-01-26T12:10:31Z | [open](../records/assembly-thomasjaeger-visualmasm-c78674ab.md) |
 
 ## Pattern language
@@ -1726,24 +1726,24 @@ Records: `1511`
 | bytedance/bitsail | partial | 2024-01-01T15:59:00Z | [open](../records/databases-bytedance-bitsail-ee54726e.md) |
 | chartdb/chartdb | partial | 2026-09-07T01:04:22Z | [open](../records/databases-chartdb-chartdb-227bd0d2.md) |
 | cooperl22/laravel-db2 | partial | 2024-03-13T12:41:31Z | [open](../records/databases-cooperl22-laravel-db2-7e6a4b52.md) |
-| Dailin521/codex-provider-sync | partial | 2026-09-08T12:14:11Z | [open](../records/databases-dailin521-codex-provider-sync-805d5bca.md) |
+| Dailin521/codex-provider-sync | partial | 2026-09-11T17:13:37Z | [open](../records/databases-dailin521-codex-provider-sync-805d5bca.md) |
 | DataGrip | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datagrip-eadfb401.md) |
 | DBConvert Streams | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbconvert-streams-c7b82bda.md) |
 | dbForge Edge | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbforge-edge-707600a6.md) |
-| drawdb-io/drawdb | partial | 2026-09-06T13:08:11Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
+| drawdb-io/drawdb | partial | 2026-09-11T16:03:51Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
 | dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | ebogdum/callfs | partial | 2026-09-05T07:32:30Z | [open](../records/databases-ebogdum-callfs-c43437b9.md) |
-| facebook/rocksdb | partial | 2026-09-11T15:35:36Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
+| facebook/rocksdb | partial | 2026-09-11T20:39:23Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
 | firebolt-db/firebolt-core | partial | 2026-09-07T06:43:42Z | [open](../records/databases-firebolt-db-firebolt-core-79afc996.md) |
 | freakmaxi/kertish-dos | partial | 2024-12-15T20:29:43Z | [open](../records/databases-freakmaxi-kertish-dos-06018bc3.md) |
-| fuzhengwei/CodeGuide | partial | 2026-09-06T00:49:50Z | [open](../records/databases-fuzhengwei-codeguide-a9f99769.md) |
+| fuzhengwei/CodeGuide | partial | 2026-09-09T00:19:45Z | [open](../records/databases-fuzhengwei-codeguide-a9f99769.md) |
 | garystafford/tickit-data-lake-demo | partial | 2022-01-26T03:30:20Z | [open](../records/databases-garystafford-tickit-data-lake-demo-11e83eee.md) |
 | infobip/infobip-spring-data-querydsl | partial | 2026-05-11T13:41:08Z | [open](../records/databases-infobip-infobip-spring-data-querydsl-01140cbb.md) |
 | jdbc-observations/datasource-proxy | partial | 2025-07-14T04:03:40Z | [open](../records/databases-jdbc-observations-datasource-proxy-2bf56772.md) |
 | kangkaisen/olap-performance | partial | 2025-12-16T13:12:26Z | [open](../records/databases-kangkaisen-olap-performance-93dc589e.md) |
 | kostafey/ejc-sql | partial | 2026-09-06T21:47:28Z | [open](../records/databases-kostafey-ejc-sql-c8c72200.md) |
-| linq2db/linq2db | partial | 2026-09-08T11:37:42Z | [open](../records/databases-linq2db-linq2db-7aa962a2.md) |
-| MariaDB/server | partial | 2026-09-09T11:06:10Z | [open](../records/databases-mariadb-server-574f45f3.md) |
+| linq2db/linq2db | partial | 2026-09-11T20:34:29Z | [open](../records/databases-linq2db-linq2db-7aa962a2.md) |
+| MariaDB/server | partial | 2026-09-11T20:47:18Z | [open](../records/databases-mariadb-server-574f45f3.md) |
 | mosuka/phalanx | partial | 2023-03-02T06:06:28Z | [open](../records/databases-mosuka-phalanx-0c5d2079.md) |
 | nraiden/cofounder | partial | 2024-11-08T20:47:03Z | [open](../records/databases-nraiden-cofounder-6327561e.md) |
 | Numeracy | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-numeracy-204806a1.md) |
@@ -1751,7 +1751,7 @@ Records: `1511`
 | pg-status | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-status-98905a80.md) |
 | pgbackup-sidecar | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgbackup-sidecar-e9843914.md) |
 | scalikejdbc/scalikejdbc | partial | 2026-09-10T05:07:57Z | [open](../records/databases-scalikejdbc-scalikejdbc-66110b6c.md) |
-| skaiworldwide-oss/agensgraph | partial | 2026-09-08T05:14:22Z | [open](../records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
+| skaiworldwide-oss/agensgraph | partial | 2026-09-11T05:52:09Z | [open](../records/databases-skaiworldwide-oss-agensgraph-e4229279.md) |
 | Snailclimb/JavaGuide | partial | 2026-09-05T12:30:20Z | [open](../records/databases-snailclimb-javaguide-e7b49521.md) |
 | sqlchat/sqlchat | partial | 2026-04-21T03:03:56Z | [open](../records/databases-sqlchat-sqlchat-113bc49b.md) |
 | thanos-io/objstore | partial | 2026-09-07T15:23:42Z | [open](../records/databases-thanos-io-objstore-953881aa.md) |

@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `495`
+Records: `496`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `495`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (496)](web-framework.md)**
 
 ## C++23
 
@@ -649,8 +649,8 @@ Records: `495`
 | aws-solutions-library-samples/data-lakes-on-aws | partial | 2026-09-04T16:16:53Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | boilingdata/boilstream | partial | 2026-07-03T11:38:01Z | [open](../records/databases-boilingdata-boilstream-8489b4c0.md) |
 | borisdj/EFCore.BulkExtensions | partial | 2026-08-14T12:25:19Z | [open](../records/databases-borisdj-efcore-bulkextensions-221ede9a.md) |
-| coollabsio/coolify | partial | 2026-09-08T12:26:41Z | [open](../records/databases-coollabsio-coolify-1bdaf4b8.md) |
-| dbgate/dbgate | partial | 2026-09-07T10:34:40Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
+| coollabsio/coolify | partial | 2026-09-11T18:46:21Z | [open](../records/databases-coollabsio-coolify-1bdaf4b8.md) |
+| dbgate/dbgate | partial | 2026-09-09T10:14:48Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-04T11:30:10Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
@@ -659,7 +659,7 @@ Records: `495`
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |
-| Maxteabag/sqlit | partial | 2026-09-06T01:09:18Z | [open](../records/databases-maxteabag-sqlit-20f35e8c.md) |
+| Maxteabag/sqlit | partial | 2026-09-10T05:39:26Z | [open](../records/databases-maxteabag-sqlit-20f35e8c.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-09T16:28:44Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
 | pentaho/mondrian | partial | 2026-09-08T02:11:27Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
@@ -668,7 +668,8 @@ Records: `495`
 | rpbouman/huey | partial | 2026-08-23T20:03:47Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
 | scality/cloudserver | partial | 2026-09-09T16:10:55Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
 | SeekStorm/SeekStorm | partial | 2026-09-09T07:33:11Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
-| TabularisDB/tabularis | partial | 2026-09-04T07:56:50Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
+| TabularisDB/tabularis | partial | 2026-09-11T15:27:06Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
+| tcgoetz/GarminDB | partial | 2026-09-11T20:27:25Z | [open](../records/databases-tcgoetz-garmindb-9cf19139.md) |
 | versity/versitygw | partial | 2026-09-09T18:25:43Z | [open](../records/databases-versity-versitygw-b1f49ebe.md) |
 | xo/dbtpl | partial | 2026-09-08T01:42:41Z | [open](../records/databases-xo-dbtpl-4a8added.md) |
 

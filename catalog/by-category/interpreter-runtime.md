@@ -24,7 +24,7 @@ Records: `289`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -222,7 +222,7 @@ Records: `289`
 | --- | --- | --- | --- |
 | llama.cpp | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-llama-cpp-9828c514.md) |
 | ONNX Runtime | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-runtime-98d3a1c6.md) |
-| ray-project/ray | partial | 2026-09-11T18:02:39Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
+| ray-project/ray | partial | 2026-09-11T21:12:29Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
 | vLLM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-vllm-0a7ec6b2.md) |
 
 ## Engines
@@ -501,7 +501,7 @@ Records: `289`
 | --- | --- | --- | --- |
 | activeloopai/deeplake | partial | 2026-05-21T15:28:00Z | [open](../records/databases-activeloopai-deeplake-8b22558d.md) |
 | babyfish-ct/jimmer | partial | 2026-09-11T16:12:07Z | [open](../records/databases-babyfish-ct-jimmer-9ee1c78e.md) |
-| builderz-labs/mission-control | partial | 2026-09-07T00:27:51Z | [open](../records/databases-builderz-labs-mission-control-fff15440.md) |
+| builderz-labs/mission-control | partial | 2026-09-11T05:02:40Z | [open](../records/databases-builderz-labs-mission-control-fff15440.md) |
 | guang19/framework-learning | partial | 2022-09-08T01:20:10Z | [open](../records/databases-guang19-framework-learning-16651c7a.md) |
 | jdbi/jdbi | partial | 2026-09-11T18:04:11Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
 | langchain4j/langchain4j | partial | 2026-09-09T10:24:50Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |

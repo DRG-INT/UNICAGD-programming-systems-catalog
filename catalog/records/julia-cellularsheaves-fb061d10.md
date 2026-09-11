@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -99,4 +99,4 @@ Raw evidence is compacted in `catalog/enriched_records.json` for repository-size
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1660)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

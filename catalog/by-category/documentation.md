@@ -24,7 +24,7 @@ Records: `115`
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## Julia
 
@@ -279,7 +279,7 @@ Records: `115`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| SAP/ai-sdk | partial | 2026-09-11T14:30:24Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
+| SAP/ai-sdk | partial | 2026-09-11T21:15:48Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
 | SAP/cloud-sdk | partial | 2026-09-08T14:42:58Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
 | souzamarcelo9/sap-contas-apagar-worker | partial | 2026-06-11T22:33:27Z | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
 
