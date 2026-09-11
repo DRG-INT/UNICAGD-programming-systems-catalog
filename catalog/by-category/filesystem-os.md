@@ -588,7 +588,7 @@ Records: `1693`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | unknown | not_a_go_module_path | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-10T22:50:37Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-11T02:54:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -848,12 +848,12 @@ Records: `1693`
 | arthur-e/Wicket | partial | 2021-09-13T16:04:15Z | [open](../records/maps-arthur-e-wicket-f4681949.md) |
 | atlasdatatech/tiler | partial | 2024-06-02T05:15:30Z | [open](../records/maps-atlasdatatech-tiler-6dc4bb32.md) |
 | BigBodyCobain/Shadowbroker | unknown | github_search_does_not_include_release_date | [open](../records/maps-bigbodycobain-shadowbroker-535b05ca.md) |
-| bilawalsidhu/gods-eye-view | partial | 2026-09-05T08:30:57Z | [open](../records/maps-bilawalsidhu-gods-eye-view-dabd39de.md) |
-| CesiumGS/cesium | partial | 2026-09-08T09:56:54Z | [open](../records/maps-cesiumgs-cesium-0b127eb9.md) |
+| bilawalsidhu/gods-eye-view | partial | 2026-09-11T03:00:24Z | [open](../records/maps-bilawalsidhu-gods-eye-view-dabd39de.md) |
+| CesiumGS/cesium | partial | 2026-09-11T00:40:36Z | [open](../records/maps-cesiumgs-cesium-0b127eb9.md) |
 | CesiumGS/cesium-unreal | partial | 2026-09-10T18:25:48Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-11T02:12:24Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-11T03:06:38Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -861,11 +861,11 @@ Records: `1693`
 | eurostat/eurostat-map | partial | 2026-08-25T14:15:04Z | [open](../records/maps-eurostat-eurostat-map-3607c2dc.md) |
 | fatiando/verde | partial | 2026-08-04T17:47:38Z | [open](../records/maps-fatiando-verde-bc8675d9.md) |
 | fenwii/OpenHarmony | partial | 2025-07-01T13:08:55Z | [open](../records/maps-fenwii-openharmony-29b44e36.md) |
-| Freika/dawarich | partial | 2026-09-09T18:50:54Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
+| Freika/dawarich | partial | 2026-09-10T22:10:20Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
 | gaopengbin/geo-downloader | partial | 2026-09-08T04:13:07Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
-| GenericMappingTools/gmt | partial | 2026-09-11T02:01:23Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
+| GenericMappingTools/gmt | partial | 2026-09-11T03:01:28Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | geocompx/geocompr | partial | 2026-07-30T08:33:15Z | [open](../records/maps-geocompx-geocompr-56cd97d0.md) |
 | GeoNode/geonode | partial | 2026-09-08T15:10:03Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-07T07:43:37Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
@@ -877,7 +877,7 @@ Records: `1693`
 | giswqs/earthengine-py-notebooks | partial | 2021-03-16T15:05:05Z | [open](../records/maps-giswqs-earthengine-py-notebooks-ddfabcd8.md) |
 | giswqs/geog-312 | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-geog-312-52015923.md) |
 | giswqs/intro-gispro | partial | 2026-08-16T19:53:05Z | [open](../records/maps-giswqs-intro-gispro-2e41cded.md) |
-| googlemaps/android-maps-compose | partial | 2026-09-08T10:23:32Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
+| googlemaps/android-maps-compose | partial | 2026-09-10T17:31:47Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
 | headwaymaps/headway | partial | 2026-09-10T21:47:19Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-08T22:42:40Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
@@ -899,7 +899,7 @@ Records: `1693`
 | mapbox/mapbox-gl-native | partial | 2023-07-27T10:31:03Z | [open](../records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
 | mapbox/MapboxGeocoder.swift | partial | 2022-09-16T19:41:09Z | [open](../records/maps-mapbox-mapboxgeocoder-swift-8e8212bc.md) |
 | maplibre/maplibre-compose | partial | 2026-09-09T22:06:21Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
-| maplibre/maplibre-native | partial | 2026-09-09T22:14:16Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
+| maplibre/maplibre-native | partial | 2026-09-11T02:11:07Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
 | Mapsui/Mapsui | partial | 2026-09-08T09:02:04Z | [open](../records/maps-mapsui-mapsui-d3cbf954.md) |
 | maptiler/qgis-maptiler-plugin | partial | 2026-08-11T10:56:34Z | [open](../records/maps-maptiler-qgis-maptiler-plugin-142df605.md) |
 | marceloprates/prettymaps | partial | 2026-07-30T16:29:42Z | [open](../records/maps-marceloprates-prettymaps-e0130cc1.md) |
@@ -940,7 +940,7 @@ Records: `1693`
 | react-native-maps/react-native-maps | partial | 2026-09-10T07:43:16Z | [open](../records/maps-react-native-maps-react-native-maps-aca06963.md) |
 | ropensci/osmdata | partial | 2026-09-01T12:00:08Z | [open](../records/maps-ropensci-osmdata-731b87a2.md) |
 | sacridini/Awesome-Geospatial | partial | 2026-09-09T07:55:28Z | [open](../records/maps-sacridini-awesome-geospatial-f07fd742.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-08T02:03:19Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-11T02:02:34Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
 | sethoscope/heatmap | partial | 2026-06-20T01:58:04Z | [open](../records/maps-sethoscope-heatmap-7bb1b329.md) |
 | stepankuzmin/tilelive-postgis | partial | 2026-09-03T23:48:42Z | [open](../records/maps-stepankuzmin-tilelive-postgis-326f9d25.md) |
 | Stratio/cassandra-lucene-index | partial | 2020-05-27T11:21:14Z | [open](../records/maps-stratio-cassandra-lucene-index-681d0861.md) |
@@ -1004,7 +1004,7 @@ Records: `1693`
 | JosePabloTec/NASA-SOJOURNER-Mapping-Motion-Planning | partial | 2026-01-25T08:40:35Z | [open](../records/space-maps-josepablotec-nasa-sojourner-mapping-motion-planning-c360a632.md) |
 | JouleCai/geospacelab | partial | 2026-06-30T07:28:01Z | [open](../records/space-maps-joulecai-geospacelab-4066a81a.md) |
 | kensyo-lab/my-physics-script | partial | 2026-03-14T04:42:27Z | [open](../records/space-maps-kensyo-lab-my-physics-script-eaa0acca.md) |
-| kpobrien/JosephsonCircuits.jl | partial | 2026-09-11T01:37:34Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
+| kpobrien/JosephsonCircuits.jl | partial | 2026-09-11T02:46:53Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
 | kumarprabhakaransaravanakumar-wq/terra-prospect | partial | 2026-06-15T01:37:13Z | [open](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) |
 | mtickle/space-game | partial | 2026-08-21T10:36:59Z | [open](../records/space-maps-mtickle-space-game-790526f7.md) |
 | natashabatalha/picaso | partial | 2026-08-28T23:55:30Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |

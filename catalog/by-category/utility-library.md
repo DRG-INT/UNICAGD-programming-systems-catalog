@@ -197,9 +197,9 @@ Records: `105`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | dereuromark/cakephp-geo | partial | 2026-08-02T09:42:21Z | [open](../records/maps-dereuromark-cakephp-geo-542287c4.md) |
-| googlemaps/android-maps-utils | partial | 2026-09-08T08:37:06Z | [open](../records/maps-googlemaps-android-maps-utils-2073f2f0.md) |
+| googlemaps/android-maps-utils | partial | 2026-09-10T19:13:18Z | [open](../records/maps-googlemaps-android-maps-utils-2073f2f0.md) |
 | mapnik/mapnik | partial | 2026-09-08T08:46:54Z | [open](../records/maps-mapnik-mapnik-e2a47503.md) |
-| MRPT/mrpt | partial | 2026-09-07T22:19:43Z | [open](../records/maps-mrpt-mrpt-8dee486a.md) |
+| MRPT/mrpt | partial | 2026-09-11T02:38:11Z | [open](../records/maps-mrpt-mrpt-8dee486a.md) |
 
 ## Space Engines
 

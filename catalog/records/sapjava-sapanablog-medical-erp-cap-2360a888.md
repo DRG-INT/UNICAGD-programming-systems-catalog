@@ -33,7 +33,7 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-07-12T14:42:34Z | gh search repos SAP CAP Java | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-07-12T14:42:34Z | gh search repos SAP HANA Java | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "SAP CAP Java", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "SAP HANA Java", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 

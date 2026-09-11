@@ -183,7 +183,7 @@ Records: `656`
 | [JosePabloTec/NASA-SOJOURNER-Mapping-Motion-Planning](../records/space-maps-josepablotec-nasa-sojourner-mapping-motion-planning-c360a632.md) | partial | 2026-01-25T08:40:35Z | registry-derived |
 | [JouleCai/geospacelab](../records/space-maps-joulecai-geospacelab-4066a81a.md) | partial | 2026-06-30T07:28:01Z | registry-derived |
 | [kensyo-lab/my-physics-script](../records/space-maps-kensyo-lab-my-physics-script-eaa0acca.md) | partial | 2026-03-14T04:42:27Z | registry-derived |
-| [kpobrien/JosephsonCircuits.jl](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) | partial | 2026-09-11T01:37:34Z | registry-derived |
+| [kpobrien/JosephsonCircuits.jl](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) | partial | 2026-09-11T02:46:53Z | registry-derived |
 | [kumarprabhakaransaravanakumar-wq/terra-prospect](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) | partial | 2026-06-15T01:37:13Z | registry-derived |
 | [mtickle/space-game](../records/space-maps-mtickle-space-game-790526f7.md) | partial | 2026-08-21T10:36:59Z | registry-derived |
 | [natashabatalha/picaso](../records/space-maps-natashabatalha-picaso-5a86c662.md) | partial | 2026-08-28T23:55:30Z | registry-derived |
@@ -527,7 +527,7 @@ Records: `656`
 | --- | --- | --- | --- |
 | [Ching367436/spice-mac](../records/space-maps-ching367436-spice-mac-5719b99e.md) | partial | 2026-08-27T16:25:56Z | registry-derived |
 | [Corsinvest/cv4pve-vdi](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) | partial | 2026-07-30T17:05:15Z | registry-derived |
-| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-11T01:25:52Z | registry-derived |
+| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-11T02:50:33Z | registry-derived |
 | [fat/space-tweet](../records/space-maps-fat-space-tweet-f2d19386.md) | partial | 2025-12-23T00:46:18Z | registry-derived |
 | [FreeRDP/Remmina](../records/space-maps-freerdp-remmina-5536d2a1.md) | partial | 2026-02-08T19:09:55Z | registry-derived |
 | [fujiaze/Gaia-DR3-DR3SP-Client-C](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) | partial | 2026-07-24T09:41:47Z | registry-derived |
@@ -597,7 +597,7 @@ Records: `656`
 | [commenthol/astronomia](../records/space-maps-commenthol-astronomia-226c6abd.md) | partial | 2025-08-30T08:12:39Z | registry-derived |
 | [cosmonium/cosmonium](../records/space-maps-cosmonium-cosmonium-df2f2e69.md) | partial | 2026-09-08T21:33:10Z | registry-derived |
 | [crismunoz303/cosmos-observatory](../records/space-maps-crismunoz303-cosmos-observatory-34b24108.md) | partial | 2026-09-08T23:34:00Z | registry-derived |
-| [danieljprice/phantom](../records/space-maps-danieljprice-phantom-726925e7.md) | partial | 2026-09-11T01:45:27Z | registry-derived |
+| [danieljprice/phantom](../records/space-maps-danieljprice-phantom-726925e7.md) | partial | 2026-09-11T03:21:28Z | registry-derived |
 | [dcunited001/astrology-map](../records/space-maps-dcunited001-astrology-map-1c432d7c.md) | partial | 2023-01-04T08:16:06Z | registry-derived |
 | [dEskoG/rDUINOScope](../records/space-maps-deskog-rduinoscope-01775dc3.md) | partial | 2020-06-23T12:05:59Z | registry-derived |
 | [dfm/celerite](../records/space-maps-dfm-celerite-b3cf4ae5.md) | partial | 2026-06-22T01:52:22Z | registry-derived |
@@ -889,7 +889,7 @@ Records: `656`
 | [inbalpaz/CLANS](../records/space-maps-inbalpaz-clans-88d3b06d.md) | partial | 2024-12-05T14:27:09Z | registry-derived |
 | [jeffreymorganio/d3-space-filler-explorer](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) | partial | 2020-08-14T18:14:55Z | registry-derived |
 | [JohnEdChristensen/WebbCompare](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) | partial | 2024-03-01T22:17:38Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) | partial | 2026-09-10T04:38:10Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) | partial | 2026-09-11T03:17:27Z | registry-derived |
 | [KDE/filelight](../records/space-maps-kde-filelight-548ef1de.md) | partial | 2026-09-06T02:30:31Z | registry-derived |
 | [kevincon/utilityknife](../records/space-maps-kevincon-utilityknife-0060e5b5.md) | partial | 2023-05-02T03:56:38Z | registry-derived |
 | [kitanokitsune/gEDA-WIN](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) | partial | 2018-07-31T13:51:54Z | registry-derived |

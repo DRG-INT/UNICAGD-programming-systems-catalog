@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GPL (>= 3); MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ persistence, interoperability, and compatibility boundaries.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 

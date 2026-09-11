@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-10 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud\"", "retrieved": "2026-09-10", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-11 | `{"kind": "maven_central_search", "query": "g:\"com.sap.cloud\"", "retrieved": "2026-09-11", "status": "registry-derived"}` |
 
 </details>
 

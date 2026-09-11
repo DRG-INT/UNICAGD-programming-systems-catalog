@@ -411,7 +411,7 @@ Records: `2450`
 | [@metamask/messenger-cli](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) | 0.2.0 | 2026-04-20T16:40:19.418Z | registry-derived |
 | [@microsoft/m365agentstoolkit-cli](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) | 1.1.16 | 2026-09-03T09:20:17.630Z | registry-derived |
 | [@microsoft/vally-cli](../records/node-js-javascript-microsoft-vally-cli-48638457.md) | 0.16.0 | 2026-09-09T20:42:45.558Z | registry-derived |
-| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1488 | 2026-09-10T22:03:35.660Z | registry-derived |
+| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1489 | 2026-09-11T02:21:17.009Z | registry-derived |
 | [@module-federation/cli](../records/node-js-javascript-module-federation-cli-ad5965f3.md) | 2.9.0 | 2026-08-24T08:21:41.802Z | registry-derived |
 | [@mongosh/logging](../records/node-js-javascript-mongosh-logging-a2ed4564.md) | 5.2.0 | 2026-07-01T01:01:34.354Z | npm_registry |
 | [@napi-rs/cli](../records/node-js-javascript-napi-rs-cli-3160c98d.md) | 3.9.1 | 2026-09-10T13:38:48.082Z | registry-derived |
@@ -514,8 +514,8 @@ Records: `2450`
 | [lmnr-cli](../records/node-js-javascript-lmnr-cli-446632fc.md) | 0.5.0 | 2026-08-21T15:24:37.896Z | registry-derived |
 | [locize-cli](../records/node-js-javascript-locize-cli-9156d8b9.md) | 12.8.1 | 2026-09-08T16:23:57.363Z | registry-derived |
 | [meow](../records/node-js-javascript-meow-f24d3a17.md) | 14.1.0 | 2026-02-20T10:30:43.850Z | registry-derived |
-| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.885 | 2026-09-10T22:03:38.845Z | registry-derived |
-| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.885 | 2026-09-10T22:03:38.894Z | registry-derived |
+| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.886 | 2026-09-11T02:21:20.246Z | registry-derived |
+| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.886 | 2026-09-11T02:21:20.263Z | registry-derived |
 | [oclif](../records/node-js-javascript-oclif-1e846831.md) | 5.0.1 | 2026-09-03T19:41:20.078Z | unverified_seed |
 | [openapi-merge-cli](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) | 2.0.2 | 2026-08-08T02:12:42.793Z | registry-derived |
 | [ora](../records/node-js-javascript-ora-ad5f9a2f.md) | unknown | not_checked | unverified_seed |

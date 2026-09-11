@@ -664,8 +664,8 @@ Records: `1236`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-10T19:56:35Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-11T02:06:57Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-10T17:34:42Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| HKUDS/LightRAG | partial | 2026-09-11T03:16:09Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-11T02:59:33Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -789,7 +789,7 @@ Records: `1236`
 | maddevsio/ariadna | partial | 2020-06-19T11:45:47Z | [open](../records/maps-maddevsio-ariadna-6b23941a.md) |
 | mapbox/supercluster | partial | 2026-09-03T08:35:00Z | [open](../records/maps-mapbox-supercluster-20551b86.md) |
 | maplibre/flutter-maplibre-gl | partial | 2026-09-09T21:16:05Z | [open](../records/maps-maplibre-flutter-maplibre-gl-8bd7f64b.md) |
-| maplibre/martin | partial | 2026-09-09T17:32:42Z | [open](../records/maps-maplibre-martin-cbc4e95e.md) |
+| maplibre/martin | partial | 2026-09-11T00:42:27Z | [open](../records/maps-maplibre-martin-cbc4e95e.md) |
 | matplotlib/basemap | partial | 2026-05-04T11:17:03Z | [open](../records/maps-matplotlib-basemap-6bf2476d.md) |
 | metosin/reitit | partial | 2026-09-08T05:39:13Z | [open](../records/maps-metosin-reitit-3a6bffb1.md) |
 | mkeller3/FastVector | partial | 2022-07-08T21:06:36Z | [open](../records/maps-mkeller3-fastvector-40abd912.md) |
@@ -898,7 +898,7 @@ Records: `1236`
 | commenthol/astronomia | partial | 2025-08-30T08:12:39Z | [open](../records/space-maps-commenthol-astronomia-226c6abd.md) |
 | cosmonium/cosmonium | partial | 2026-09-08T21:33:10Z | [open](../records/space-maps-cosmonium-cosmonium-df2f2e69.md) |
 | crismunoz303/cosmos-observatory | partial | 2026-09-08T23:34:00Z | [open](../records/space-maps-crismunoz303-cosmos-observatory-34b24108.md) |
-| danieljprice/phantom | partial | 2026-09-11T01:45:27Z | [open](../records/space-maps-danieljprice-phantom-726925e7.md) |
+| danieljprice/phantom | partial | 2026-09-11T03:21:28Z | [open](../records/space-maps-danieljprice-phantom-726925e7.md) |
 | dcunited001/astrology-map | partial | 2023-01-04T08:16:06Z | [open](../records/space-maps-dcunited001-astrology-map-1c432d7c.md) |
 | dEskoG/rDUINOScope | partial | 2020-06-23T12:05:59Z | [open](../records/space-maps-deskog-rduinoscope-01775dc3.md) |
 | dfm/celerite | partial | 2026-06-22T01:52:22Z | [open](../records/space-maps-dfm-celerite-b3cf4ae5.md) |
@@ -1487,10 +1487,10 @@ Records: `1236`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-04T01:58:25Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-07T12:38:01Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-10T19:25:51Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-11T03:19:25Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
-| scylladb/scylladb | partial | 2026-09-10T21:43:00Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
+| scylladb/scylladb | partial | 2026-09-11T03:22:08Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
 | Slony-I | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-slony-i-cc9dd3b4.md) |
 | Spock | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-spock-80573fc1.md) |
 | StarTrail-org/LEANN | partial | 2026-09-05T09:57:42Z | [open](../records/databases-startrail-org-leann-a6b16bc8.md) |

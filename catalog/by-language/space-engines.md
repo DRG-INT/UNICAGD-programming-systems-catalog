@@ -192,7 +192,7 @@ Records: `158`
 | [LoicViennois/KSP-DeltaV-Planner](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) | partial | 2026-09-09T08:31:35Z | registry-derived |
 | [nmisyats/KSP-MGA-Planner](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) | partial | 2026-06-08T16:41:24Z | registry-derived |
 | [podgorskiy/KeplerOrbits](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) | partial | 2023-04-02T23:28:28Z | registry-derived |
-| [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-09-09T16:51:09Z | registry-derived |
+| [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-09-11T02:51:11Z | registry-derived |
 | [usuaero/PyProp](../records/space-engines-usuaero-pyprop-cf41d1df.md) | partial | 2021-06-21T16:46:34Z | registry-derived |
 | [wedesoft/sfsim](../records/space-engines-wedesoft-sfsim-99e126c8.md) | partial | 2026-09-10T22:32:09Z | registry-derived |
 
@@ -358,7 +358,7 @@ Records: `158`
 | [arasgungore/rocket-flight-simulator](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [davidcalhoun/tle.js](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) | partial | 2026-07-21T22:01:04Z | registry-derived |
 | [ep2lab/dimagno](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) | partial | 2024-10-21T08:59:37Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-10T04:38:10Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-11T03:17:27Z | registry-derived |
 
 ### Web Framework
 

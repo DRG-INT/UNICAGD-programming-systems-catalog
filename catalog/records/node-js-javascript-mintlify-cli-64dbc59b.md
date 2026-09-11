@@ -34,7 +34,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 4.0.1488 | 2026-09-10T22:03:35.660Z | [https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 4.0.1489 | 2026-09-11T02:21:17.009Z | [https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -49,7 +49,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 - Treat category as `cli` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-10T22:18:18+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=cli&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-11T03:20:12+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

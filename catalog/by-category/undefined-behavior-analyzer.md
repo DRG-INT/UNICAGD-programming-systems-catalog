@@ -1855,7 +1855,7 @@ Records: `1653`
 | simonw/datasette | partial | 2026-09-02T21:28:42Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-08T12:27:24Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-11T02:21:59Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-11T02:46:53Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |

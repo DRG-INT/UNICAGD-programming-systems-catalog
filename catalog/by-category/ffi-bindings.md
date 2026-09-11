@@ -487,7 +487,7 @@ Records: `481`
 | --- | --- | --- | --- |
 | crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
-| geoserver/geoserver | partial | 2026-09-09T15:41:01Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
+| geoserver/geoserver | partial | 2026-09-11T03:11:45Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
 | geotools/geotools | partial | 2026-09-09T15:14:08Z | [open](../records/maps-geotools-geotools-a7928212.md) |
 | mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
@@ -718,7 +718,7 @@ Records: `481`
 | rusqlite/rusqlite | partial | 2026-09-06T07:01:19Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-09T00:32:41Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-11T01:27:48Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-11T02:32:43Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-11T02:25:09+00:00`
+Generated: `2026-09-11T03:23:34+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,9 @@ Generated: `2026-09-11T02:25:09+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| mintlify | Node.js/JavaScript | Cli | 4.2.886 | 2026-09-11T02:21:20.263Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.886 | 2026-09-11T02:21:20.246Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1489 | 2026-09-11T02:21:17.009Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | structured-headers | Node.js/JavaScript | Networking Http | 2.1.0 | 2026-09-11T01:49:18.023Z | [open](records/node-js-javascript-structured-headers-06c81359.md) |
 | toml_edit | Rust | Formatter | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](records/rust-toml-edit-d8550b65.md) |
 | @unocss/cli | Node.js/JavaScript | Cli | 66.10.2 | 2026-09-11T01:29:28.485Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
@@ -58,9 +61,6 @@ Generated: `2026-09-11T02:25:09+00:00`
 | content-type | Node.js/JavaScript | Networking Http | 3.1.0 | 2026-09-10T23:10:26.268Z | [open](records/node-js-javascript-content-type-3b23af00.md) |
 | @inversifyjs/http-core | Node.js/JavaScript | Networking Http | 5.6.1 | 2026-09-10T22:47:00.489Z | [open](records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
 | @logux/server | Node.js/JavaScript | Build System | 0.16.2 | 2026-09-10T22:26:28.654Z | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.885 | 2026-09-10T22:03:38.894Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.885 | 2026-09-10T22:03:38.845Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1488 | 2026-09-10T22:03:35.660Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @transcend-io/mcp-server-base | Node.js/JavaScript | Parser Lexer Ast | 2.2.2 | 2026-09-10T21:53:39.291Z | [open](records/node-js-javascript-transcend-io-mcp-server-base-8b65e39b.md) |
 | @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 2.1.2 | 2026-09-10T21:53:19.681Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
 | @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.0.5 | 2026-09-10T21:53:17.927Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |

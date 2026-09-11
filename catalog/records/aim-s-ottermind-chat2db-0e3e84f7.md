@@ -35,7 +35,7 @@ communication, clients/servers, protocol handling, and edge integration.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-10T16:41:22Z | gh search repos topic:llm stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T02:50:59Z | gh search repos topic:llm stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -43,7 +43,7 @@ communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other |
+| Evidence | {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

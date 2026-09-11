@@ -638,7 +638,7 @@ Records: `1033`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adobe/rules_gitops | partial | 2026-09-09T13:13:25Z | [open](../records/starlark-adobe-rules-gitops-09140ed0.md) |
-| aspect-build/rules_js | partial | 2026-09-11T01:22:23Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
+| aspect-build/rules_js | partial | 2026-09-11T03:14:47Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
 | aspect-build/rules_py | partial | 2026-09-11T02:15:54Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
@@ -683,15 +683,15 @@ Records: `1033`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| agentscope-ai/agentscope | partial | 2026-09-10T07:35:54Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
+| agentscope-ai/agentscope | partial | 2026-09-11T02:51:25Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | ComposioHQ/composio | partial | 2026-09-11T00:58:34Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-11T01:03:17Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-11T03:21:12Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-10T16:04:59Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-10T17:11:59Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-11T02:18:48Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-11T03:21:24Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
 | Significant-Gravitas/AutoGPT | partial | 2026-09-11T00:07:26Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
@@ -850,7 +850,7 @@ Records: `1033`
 | mark-when/markwhen | partial | 2023-12-11T19:14:41Z | [open](../records/maps-mark-when-markwhen-a69d618c.md) |
 | NASAWorldWind/WorldWindJava | partial | 2024-09-24T20:07:25Z | [open](../records/maps-nasaworldwind-worldwindjava-5ccaa328.md) |
 | noncomputable/AgentMaps | partial | 2024-09-17T05:46:55Z | [open](../records/maps-noncomputable-agentmaps-d9a25ae5.md) |
-| onthegomap/planetiler | partial | 2026-09-07T12:39:52Z | [open](../records/maps-onthegomap-planetiler-3a2ddfcf.md) |
+| onthegomap/planetiler | partial | 2026-09-10T11:33:56Z | [open](../records/maps-onthegomap-planetiler-3a2ddfcf.md) |
 | openaddresses/openaddresses | partial | 2026-09-06T10:46:26Z | [open](../records/maps-openaddresses-openaddresses-2339fe96.md) |
 | softwareunderground/awesome-open-geoscience | partial | 2026-05-26T11:55:08Z | [open](../records/maps-softwareunderground-awesome-open-geoscience-8eefdce0.md) |
 | stablekernel/aqueduct | partial | 2021-03-26T13:19:09Z | [open](../records/maps-stablekernel-aqueduct-1173e0fd.md) |
@@ -904,7 +904,7 @@ Records: `1033`
 | --- | --- | --- | --- |
 | AuburnSounds/Dplug | partial | 2026-07-02T13:19:52Z | [open](../records/effects-auburnsounds-dplug-3c33ea8b.md) |
 | c8r/iso | partial | 2018-06-03T18:44:56Z | [open](../records/effects-c8r-iso-4a2333dd.md) |
-| ChrisBuilds/terminaltexteffects | partial | 2026-09-11T01:24:10Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
+| ChrisBuilds/terminaltexteffects | partial | 2026-09-11T02:23:37Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
 | CuarzoSoftware/Louvre | partial | 2026-08-31T18:15:35Z | [open](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) |
 | DatanoiseTV/PicoADK-Hardware | partial | 2024-01-05T12:00:10Z | [open](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) |
 | james34602/JamesDSPManager | partial | 2025-06-18T14:08:35Z | [open](../records/effects-james34602-jamesdspmanager-b977897f.md) |
@@ -1288,7 +1288,7 @@ Records: `1033`
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | smart-data-lake/smart-data-lake | partial | 2026-09-09T15:54:14Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
-| supabase/supabase | partial | 2026-09-11T02:09:18Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-11T03:18:39Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-09-03T23:52:27Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |

@@ -220,7 +220,7 @@ Records: `308`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xADE1A1DE/AssemblyLine](../records/assembly-0xade1a1de-assemblyline-114a6144.md) | partial | 2025-02-10T03:28:23Z | registry-derived |
-| [100thCoin/AccuracyCoin](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) | partial | 2026-09-05T17:17:29Z | registry-derived |
+| [100thCoin/AccuracyCoin](../records/assembly-100thcoin-accuracycoin-a8cc820c.md) | partial | 2026-09-11T02:46:33Z | registry-derived |
 | [adriancable/8086tiny](../records/assembly-adriancable-8086tiny-c1d50ad4.md) | partial | 2022-09-07T17:43:45Z | registry-derived |
 | [akkartik/mu](../records/assembly-akkartik-mu-02abed58.md) | partial | 2026-04-02T02:16:40Z | registry-derived |
 | [alvin-tosh/Malware-Exhibit](../records/assembly-alvin-tosh-malware-exhibit-e411e5da.md) | partial | 2024-01-12T06:43:27Z | registry-derived |

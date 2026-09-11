@@ -512,7 +512,7 @@ Records: `639`
 | ProfessionalWiki/Maps | partial | 2026-09-07T16:18:31Z | [open](../records/maps-professionalwiki-maps-5fd035f2.md) |
 | QGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-qgis-23704893.md) |
 | sakitam-fdd/ol3Echarts | unknown | github_search_does_not_include_release_date | [open](../records/maps-sakitam-fdd-ol3echarts-2454ef93.md) |
-| SciTools/cartopy | partial | 2026-09-04T14:38:29Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
+| SciTools/cartopy | partial | 2026-09-11T02:00:15Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
 | tentone/geo-three | partial | 2026-04-05T09:36:24Z | [open](../records/maps-tentone-geo-three-c2f6b656.md) |
 | Viglino/ol-ext | partial | 2026-07-08T01:30:43Z | [open](../records/maps-viglino-ol-ext-ecc4dbc2.md) |
 | visgl/deck.gl | partial | 2026-09-10T21:53:30Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
@@ -525,7 +525,7 @@ Records: `639`
 | arasgungore/rocket-flight-simulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) |
 | davidcalhoun/tle.js | partial | 2026-07-21T22:01:04Z | [open](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) |
 | ep2lab/dimagno | partial | 2024-10-21T08:59:37Z | [open](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) |
-| jrenaud90/TidalPy | partial | 2026-09-10T04:38:10Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
+| jrenaud90/TidalPy | partial | 2026-09-11T03:17:27Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
 
 ## Space Shuttles
 
@@ -562,7 +562,7 @@ Records: `639`
 | inbalpaz/CLANS | partial | 2024-12-05T14:27:09Z | [open](../records/space-maps-inbalpaz-clans-88d3b06d.md) |
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
-| jrenaud90/TidalPy | partial | 2026-09-10T04:38:10Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| jrenaud90/TidalPy | partial | 2026-09-11T03:17:27Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
 | KDE/filelight | partial | 2026-09-06T02:30:31Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |

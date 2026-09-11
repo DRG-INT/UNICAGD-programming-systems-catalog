@@ -121,12 +121,12 @@ Records: `63`
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
 | iamtekson/leaflet-geojson-vt | partial | 2025-03-14T16:11:03Z | [open](../records/maps-iamtekson-leaflet-geojson-vt-70b4c629.md) |
-| JamesLMilner/terra-draw | partial | 2026-09-01T22:02:06Z | [open](../records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
+| JamesLMilner/terra-draw | partial | 2026-09-08T21:48:46Z | [open](../records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
 | Leaflet/Leaflet | partial | 2026-09-09T21:11:20Z | [open](../records/maps-leaflet-leaflet-98e4aefd.md) |
 | Leaflet/Leaflet.VectorGrid | partial | 2025-01-09T18:01:02Z | [open](../records/maps-leaflet-leaflet-vectorgrid-fc95009b.md) |
 | NICEXAI/leaflet_zh | partial | 2023-11-14T14:08:47Z | [open](../records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
 | opengeos/Awesome-GEE | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-awesome-gee-588f3052.md) |
-| python-visualization/folium | partial | 2026-09-09T17:10:30Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
+| python-visualization/folium | partial | 2026-09-10T16:59:26Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
 | r-spatial/mapview | unknown | github_search_does_not_include_release_date | [open](../records/maps-r-spatial-mapview-430d7bbc.md) |
 | rstudio/leaflet | partial | 2025-10-08T20:50:29Z | [open](../records/maps-rstudio-leaflet-de5ff58a.md) |
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |

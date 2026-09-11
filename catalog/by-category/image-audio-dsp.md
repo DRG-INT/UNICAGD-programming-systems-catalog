@@ -196,7 +196,7 @@ Records: `447`
 | plant99/felicette | partial | 2022-03-12T00:43:06Z | [open](../records/maps-plant99-felicette-bd213c8f.md) |
 | TomSchimansky/TkinterMapView | partial | 2026-06-28T12:22:26Z | [open](../records/maps-tomschimansky-tkintermapview-b6ce4dd7.md) |
 | tumic0/QtPBFImagePlugin | partial | 2025-10-27T05:08:04Z | [open](../records/maps-tumic0-qtpbfimageplugin-aae45eb2.md) |
-| WebODM/WebODM | partial | 2026-09-06T01:40:54Z | [open](../records/maps-webodm-webodm-07b5e298.md) |
+| WebODM/WebODM | partial | 2026-09-10T16:58:30Z | [open](../records/maps-webodm-webodm-07b5e298.md) |
 
 ## Space Maps
 
