@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-07-23T09:26:37Z | gh search repos language:MATLAB topic:matlab | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T13:10:36Z | gh search repos language:MATLAB topic:matlab | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

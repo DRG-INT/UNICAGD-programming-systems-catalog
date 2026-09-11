@@ -4502,7 +4502,7 @@ Records: `6060`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T10:53:53Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T13:13:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5637,17 +5637,17 @@ Records: `6060`
 | ChrisZonghaoLi/motion_tracking_using_magnetometer | partial | 2022-06-30T22:47:40Z | [open](../records/electromagnetoscopes-chriszonghaoli-motion-tracking-using-magnetometer-6d499bf3.md) |
 | codyd51/gypsum | partial | 2024-04-15T17:30:55Z | [open](../records/electromagnetoscopes-codyd51-gypsum-e23d7a76.md) |
 | coreemu/core | partial | 2026-06-02T03:44:27Z | [open](../records/electromagnetoscopes-coreemu-core-41eeec64.md) |
-| daniestevez/gr-satellites | partial | 2026-09-09T19:22:05Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
+| daniestevez/gr-satellites | partial | 2026-09-11T07:16:10Z | [open](../records/electromagnetoscopes-daniestevez-gr-satellites-11887e4d.md) |
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-11T02:33:26Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-11T08:30:47Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-11T02:34:37Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-11T12:36:40Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
-| fooyin/fooyin | partial | 2026-09-10T22:49:06Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fooyin/fooyin | partial | 2026-09-11T13:15:59Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | gaspode-t-wonderdog/moxon-frame-generator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) |
 | geekysuavo/pyppm | partial | 2021-07-04T15:42:35Z | [open](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
@@ -5688,7 +5688,7 @@ Records: `6060`
 | nkarasiak/dzetsaka | partial | 2026-07-29T21:21:24Z | [open](../records/electromagnetoscopes-nkarasiak-dzetsaka-ddb75c4b.md) |
 | nliaudat/magnetometer_calibration | partial | 2025-08-21T17:01:14Z | [open](../records/electromagnetoscopes-nliaudat-magnetometer-calibration-856003ca.md) |
 | nliaudat/weatherstation | partial | 2021-11-09T06:51:20Z | [open](../records/electromagnetoscopes-nliaudat-weatherstation-8cd7f04b.md) |
-| open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
+| open-sdr/openwifi | partial | 2026-09-11T11:55:48Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | OpenATS/OpenATS | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openats-openats-7ca6c997.md) |
 | OpenRTX/OpenRTX | partial | 2026-09-07T19:16:58Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
@@ -5703,7 +5703,7 @@ Records: `6060`
 | rofl0r/MacGeiger | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rofl0r-macgeiger-79d68312.md) |
 | rookiepeng/antenna-models | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rookiepeng-antenna-models-0eb8a406.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | partial | 2026-09-06T12:02:20Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| SatDump/SatDump | partial | 2026-09-11T10:25:53Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |
 | simpeg-research/heagy-2018-fracture-physprops | partial | 2019-07-06T23:36:52Z | [open](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) |
@@ -5723,7 +5723,7 @@ Records: `6060`
 | wheaney/magnetometer-calibrate | partial | 2024-11-18T18:58:52Z | [open](../records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
 | wodowiesel/PiFunk | partial | 2026-09-03T20:29:19Z | [open](../records/electromagnetoscopes-wodowiesel-pifunk-91f28ad9.md) |
-| x-extends/vxe-table | partial | 2026-09-10T10:12:25Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
+| x-extends/vxe-table | partial | 2026-09-11T08:55:48Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
 | Xinyuan-LilyGO/LilyGo-LoRa-Series | partial | 2026-08-28T02:48:29Z | [open](../records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) |
 | y20k/transistor | partial | 2024-02-20T21:00:23Z | [open](../records/electromagnetoscopes-y20k-transistor-f153afb0.md) |

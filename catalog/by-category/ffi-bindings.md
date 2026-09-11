@@ -615,7 +615,7 @@ Records: `486`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Arkanic/rtljs | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-arkanic-rtljs-1bff2dba.md) |
-| ElmerCSC/elmerfem | partial | 2026-09-11T05:12:34Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-11T13:14:49Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | hbldh/pymetawear | partial | 2023-05-30T14:04:42Z | [open](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 | youxch/Inverse-design-of-patch-antennas | partial | 2024-10-10T07:04:39Z | [open](../records/electromagnetoscopes-youxch-inverse-design-of-patch-antennas-3ea13c86.md) |
 

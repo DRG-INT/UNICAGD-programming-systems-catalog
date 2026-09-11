@@ -40,7 +40,7 @@ part of wire formats, persistence, interoperability, and compatibility boundarie
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/GraphQL.Client.Serializer.SystemTextJson/6.1.0/license |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT; https://www.nuget.org/packages/GraphQL.Client.Serializer.SystemTextJson/6.1.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -42,7 +42,7 @@ persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; Other; https://stocksharp.com/en/en/products/eula/ |
+| Evidence | GPL (>= 3); https://stocksharp.com/en/en/products/eula/ |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

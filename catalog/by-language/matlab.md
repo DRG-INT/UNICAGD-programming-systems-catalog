@@ -54,7 +54,7 @@ Records: `287`
 | [ayrna/orca](../records/matlab-ayrna-orca-3c3bbfa2.md) | unknown | github_latest_release_missing | registry-derived |
 | [baidut/BIMEF](../records/matlab-baidut-bimef-148fd500.md) | unknown | github_latest_release_missing | registry-derived |
 | [baidut/OpenCE](../records/matlab-baidut-opence-da08b629.md) | unknown | github_latest_release_missing | registry-derived |
-| [banterle/HDR_Toolbox](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) | partial | 2026-07-23T09:26:37Z | registry-derived |
+| [banterle/HDR_Toolbox](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) | partial | 2026-09-11T13:10:36Z | registry-derived |
 | [bcmi/Image-Harmonization-Dataset-iHarmony4](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) | partial | 2026-08-20T08:31:02Z | registry-derived |
 | [benfulcher/hctsa](../records/matlab-benfulcher-hctsa-738269ba.md) | partial | 2026-09-10T23:08:00Z | registry-derived |
 | [bertinetto/cfnet](../records/matlab-bertinetto-cfnet-658a3dfe.md) | partial | 2018-05-31T13:59:08Z | registry-derived |
@@ -201,7 +201,7 @@ Records: `287`
 | [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-10T17:56:41Z | registry-derived |
 | [moranzcw/AndrewNg-Machine-Learning-NOTES](../records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) | unknown | github_latest_release_missing | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
-| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-09T07:45:56Z | registry-derived |
+| [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-11T13:11:30Z | registry-derived |
 | [nanahou/Awesome-Speech-Enhancement](../records/matlab-nanahou-awesome-speech-enhancement-bba57755.md) | partial | 2020-12-01T10:20:50Z | registry-derived |
 | [NerdsWithAttitudes/WarpFactory](../records/matlab-nerdswithattitudes-warpfactory-c9f05d2d.md) | partial | 2024-05-24T08:27:17Z | registry-derived |
 | [NeuroJSON/jsonlab](../records/matlab-neurojson-jsonlab-36111c60.md) | partial | 2026-08-30T17:11:32Z | registry-derived |

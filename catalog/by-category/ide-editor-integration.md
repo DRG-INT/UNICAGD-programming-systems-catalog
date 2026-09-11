@@ -693,11 +693,11 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-11T12:22:56Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T13:01:33Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-11T12:15:22Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-11T11:16:14Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-11T12:45:06Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1675,7 +1675,7 @@ Records: `1511`
 | Ray Wenderlich Tutorials, Videos, Podcasts and books | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-ray-wenderlich-tutorials-videos-podcasts-and-books-2b3a68af.md) |
 | Raywenderlich | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-raywenderlich-b3948c7d.md) |
 | sanzaru/SimpleToast | partial | 2026-02-14T17:26:06Z | [open](../records/swift-sanzaru-simpletoast-1145da94.md) |
-| sindresorhus/Gifski | partial | 2026-07-08T14:50:30Z | [open](../records/swift-sindresorhus-gifski-48156fab.md) |
+| sindresorhus/Gifski | partial | 2026-09-11T10:57:58Z | [open](../records/swift-sindresorhus-gifski-48156fab.md) |
 | spacenation/swiftui-sliders | partial | 2025-08-01T18:08:20Z | [open](../records/swift-spacenation-swiftui-sliders-3c2bf396.md) |
 | Spin | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-spin-fcbc44bd.md) |
 | Swift & SwiftUI Tutorials | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-swiftui-tutorials-fabbb0ce.md) |

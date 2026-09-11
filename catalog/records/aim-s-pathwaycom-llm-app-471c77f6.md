@@ -41,9 +41,9 @@ acquisition, lockfile policy, provenance control, and supply-chain monitoring.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | {"key": "", "name": "", "url": ""}; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

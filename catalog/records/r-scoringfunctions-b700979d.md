@@ -39,9 +39,9 @@ code generation, static analysis, and source transformation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2 |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GPL-3 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

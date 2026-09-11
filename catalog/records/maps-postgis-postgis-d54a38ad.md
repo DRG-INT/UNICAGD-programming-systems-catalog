@@ -40,7 +40,7 @@ migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

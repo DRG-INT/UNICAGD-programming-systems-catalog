@@ -84,7 +84,7 @@ Records: `308`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-10T13:25:57Z | registry-derived |
+| [mytechnotalent/Hacking-Windows](../records/assembly-mytechnotalent-hacking-windows-8a5a66d0.md) | partial | 2026-09-11T13:07:32Z | registry-derived |
 | [reworkd/AgentGPT](../records/assembly-reworkd-agentgpt-75e0a085.md) | partial | 2025-04-29T01:19:32Z | registry-derived |
 
 ### Cryptography
@@ -280,7 +280,7 @@ Records: `308`
 | [mirrorer/libbpg](../records/assembly-mirrorer-libbpg-745138b3.md) | partial | 2022-01-30T03:10:24Z | registry-derived |
 | [mschwartz/assembly-tutorial](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) | partial | 2026-05-03T23:34:30Z | registry-derived |
 | [mtuomi/SecondReality](../records/assembly-mtuomi-secondreality-5c489f57.md) | partial | 2022-06-27T15:45:39Z | registry-derived |
-| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-10T13:30:17Z | registry-derived |
+| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-11T13:07:04Z | registry-derived |
 | [nanochess/bootOS](../records/assembly-nanochess-bootos-3579b41b.md) | partial | 2026-08-01T04:58:00Z | registry-derived |
 | [nemasu/asmttpd](../records/assembly-nemasu-asmttpd-9a612693.md) | partial | 2025-03-01T14:36:22Z | registry-derived |
 | [netwide-assembler/nasm](../records/assembly-netwide-assembler-nasm-7b1656d3.md) | partial | 2026-08-19T23:47:10Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-09-10T08:24:13Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T12:25:30Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-11T13:20:35Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-11T12:18:46Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-11T13:01:06Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-09T01:04:36Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -330,7 +330,7 @@ Records: `308`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-11T01:45:58Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-11T11:29:30Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-11T13:04:05Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-07T12:37:33Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-08-27T18:45:27Z | registry-derived |
 

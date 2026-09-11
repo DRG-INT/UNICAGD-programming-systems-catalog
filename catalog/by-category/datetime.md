@@ -181,7 +181,7 @@ Records: `253`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | partial | 2026-09-11T12:22:12Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-11T12:41:51Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 

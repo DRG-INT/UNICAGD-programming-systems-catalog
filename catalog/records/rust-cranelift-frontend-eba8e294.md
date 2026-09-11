@@ -40,7 +40,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; https://www.nuget.org/packages/JsonPath.Net/3.0.2/license |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
