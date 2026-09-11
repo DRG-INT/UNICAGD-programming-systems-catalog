@@ -8,7 +8,7 @@ Records: `287`
 
 ## Category Index
 
-[Api Abi Checker (235)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (209)](../by-category/benchmarking.md) · [Build System (1040)](../by-category/build-system.md) · [Cli (595)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](../by-category/community-reference.md) · [Compiler (177)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (140)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -17,13 +17,13 @@ Records: `287`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (549)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
-[Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6057)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (550)](../by-category/logging-observability.md) · [Machine Learning (853)](../by-category/machine-learning.md)
+[Math Numeric Scientific (96)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (666)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (640)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (641)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1658)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
@@ -57,7 +57,7 @@ Records: `287`
 | [banterle/HDR_Toolbox](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) | partial | 2026-07-23T09:26:37Z | registry-derived |
 | [bcmi/Image-Harmonization-Dataset-iHarmony4](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) | partial | 2026-08-20T08:31:02Z | registry-derived |
 | [benfulcher/hctsa](../records/matlab-benfulcher-hctsa-738269ba.md) | partial | 2026-09-10T23:08:00Z | registry-derived |
-| [bertinetto/cfnet](../records/matlab-bertinetto-cfnet-658a3dfe.md) | unknown | github_latest_release_missing | registry-derived |
+| [bertinetto/cfnet](../records/matlab-bertinetto-cfnet-658a3dfe.md) | partial | 2018-05-31T13:59:08Z | registry-derived |
 | [bertinetto/siamese-fc](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) | partial | 2019-05-16T10:10:53Z | registry-derived |
 | [bertinetto/staple](../records/matlab-bertinetto-staple-d5a45a59.md) | unknown | github_latest_release_missing | registry-derived |
 | [BIMK/PlatEMO](../records/matlab-bimk-platemo-b623ff0a.md) | partial | 2026-07-19T11:24:07Z | registry-derived |
@@ -173,7 +173,7 @@ Records: `287`
 | [ltfat/ltfat](../records/matlab-ltfat-ltfat-fdb19b53.md) | unknown | github_latest_release_missing | registry-derived |
 | [luanfujun/deep-photo-styletransfer](../records/matlab-luanfujun-deep-photo-styletransfer-635a29ea.md) | partial | 2021-08-02T01:07:44Z | registry-derived |
 | [LyricYang/MIMO_OFDM](../records/matlab-lyricyang-mimo-ofdm-e01bbb58.md) | partial | 2018-05-11T06:28:47Z | registry-derived |
-| [lzz19980125/awesome-time-series-segmentation-papers](../records/matlab-lzz19980125-awesome-time-series-segmentation-papers-c7af1a9e.md) | unknown | github_latest_release_missing | registry-derived |
+| [lzz19980125/awesome-time-series-segmentation-papers](../records/matlab-lzz19980125-awesome-time-series-segmentation-papers-c7af1a9e.md) | partial | 2026-07-21T04:10:25Z | registry-derived |
 | [m-r-s/hearingaid-prototype](../records/matlab-m-r-s-hearingaid-prototype-1ca66334.md) | unknown | github_latest_release_missing | registry-derived |
 | [mahmoudnafifi/Exposure_Correction](../records/matlab-mahmoudnafifi-exposure-correction-5fc16b8a.md) | partial | 2023-12-24T01:15:11Z | registry-derived |
 | [mahmoudnafifi/WB_sRGB](../records/matlab-mahmoudnafifi-wb-srgb-cd32a6ab.md) | unknown | github_latest_release_missing | registry-derived |
@@ -208,7 +208,7 @@ Records: `287`
 | [NYU-DiffusionMRI/SMI](../records/matlab-nyu-diffusionmri-smi-5dabd7af.md) | unknown | github_latest_release_missing | registry-derived |
 | [okbalefthanded/bci_toolbox](../records/matlab-okbalefthanded-bci-toolbox-4ba10aff.md) | unknown | github_latest_release_missing | registry-derived |
 | [olzhas/rrt_toolbox](../records/matlab-olzhas-rrt-toolbox-b502a12a.md) | partial | 2021-03-11T19:19:43Z | registry-derived |
-| [OpenOCL/OpenOCL](../records/matlab-openocl-openocl-422ec187.md) | unknown | github_latest_release_missing | registry-derived |
+| [OpenOCL/OpenOCL](../records/matlab-openocl-openocl-422ec187.md) | partial | 2020-05-24T08:18:30Z | registry-derived |
 | [ori-mrg/robotcar-dataset-sdk](../records/matlab-ori-mrg-robotcar-dataset-sdk-30bb9ec0.md) | partial | 2022-02-25T14:24:48Z | registry-derived |
 | [ox-vgg/vgg_face2](../records/matlab-ox-vgg-vgg-face2-8f879ce5.md) | partial | 2020-02-18T15:30:05Z | registry-derived |
 | [panditanvita/BTCpredictor](../records/matlab-panditanvita-btcpredictor-daf6fdab.md) | partial | 2018-01-07T04:40:22Z | registry-derived |
@@ -258,7 +258,7 @@ Records: `287`
 | [SPIRIT-org/SPIRIT](../records/matlab-spirit-org-spirit-85199c7a.md) | partial | 2026-08-21T15:55:07Z | registry-derived |
 | [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-11T06:05:05Z | registry-derived |
 | [spm/spm12](../records/matlab-spm-spm12-7cee6644.md) | partial | 2024-02-05T13:43:41Z | registry-derived |
-| [SrirajBehera/Machine-Learning-Andrew-Ng](../records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) | unknown | github_latest_release_missing | registry-derived |
+| [SrirajBehera/Machine-Learning-Andrew-Ng](../records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) | partial | 2021-08-13T13:42:45Z | registry-derived |
 | [star2dust/paper-simulation](../records/matlab-star2dust-paper-simulation-9ae3627c.md) | partial | 2022-04-21T09:58:05Z | registry-derived |
 | [SteveLuH/tiadc-mismatch-model](../records/matlab-steveluh-tiadc-mismatch-model-8a0a686a.md) | unknown | github_latest_release_missing | registry-derived |
 | [steven2358/kafbox](../records/matlab-steven2358-kafbox-3e080a4d.md) | unknown | github_latest_release_missing | registry-derived |

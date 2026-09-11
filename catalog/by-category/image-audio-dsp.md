@@ -8,7 +8,7 @@ Records: `448`
 
 ## Category Index
 
-[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -17,13 +17,13 @@ Records: `448`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 **[Image Audio Dsp (448)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
@@ -213,7 +213,7 @@ Records: `448`
 | aldebaro/dsp-audio | partial | 2022-04-01T19:20:23Z | [open](../records/effects-aldebaro-dsp-audio-1b6cfc46.md) |
 | alexanderattar/dsp | partial | 2013-05-20T00:53:54Z | [open](../records/effects-alexanderattar-dsp-c82d4f48.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/effects-amsynth-amsynth-8b3d3dde.md) |
-| andremichelle/openDAW | partial | 2026-08-29T06:05:32Z | [open](../records/effects-andremichelle-opendaw-162571f1.md) |
+| andremichelle/openDAW | partial | 2026-09-11T10:10:54Z | [open](../records/effects-andremichelle-opendaw-162571f1.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/effects-ar1st0crat-nwaves-4f5d754c.md) |
 | BA17-loma-1/Audio_Signal_Processing_Toolbox | partial | 2017-07-05T05:22:05Z | [open](../records/effects-ba17-loma-1-audio-signal-processing-toolbox-15d836ba.md) |
 | bajelidze/FPGA-Audio-Effects-System | partial | 2019-06-15T19:00:18Z | [open](../records/effects-bajelidze-fpga-audio-effects-system-f26bc7f5.md) |
@@ -222,7 +222,7 @@ Records: `448`
 | chenwj1989/pafx | partial | 2026-06-09T09:49:35Z | [open](../records/effects-chenwj1989-pafx-ac1e16fc.md) |
 | cutterbl/SoundTouchJS | partial | 2026-08-03T17:39:09Z | [open](../records/effects-cutterbl-soundtouchjs-471a5022.md) |
 | cycfi/hz_audio_to_midi | partial | 2024-10-12T07:14:24Z | [open](../records/effects-cycfi-hz-audio-to-midi-a8cbfec4.md) |
-| cycfi/q | partial | 2026-09-09T10:19:06Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
+| cycfi/q | partial | 2026-09-10T06:50:35Z | [open](../records/effects-cycfi-q-adb0f6f9.md) |
 | danielraffel/pulp-classic-effects | partial | 2026-07-27T01:54:17Z | [open](../records/effects-danielraffel-pulp-classic-effects-7b197f0e.md) |
 | DiffAPF/torchcomp | partial | 2026-02-10T13:08:21Z | [open](../records/effects-diffapf-torchcomp-c6e61558.md) |
 | digitaldanny/AudioEffectsGlove | partial | 2021-05-21T02:02:26Z | [open](../records/effects-digitaldanny-audioeffectsglove-48108d52.md) |
@@ -258,7 +258,7 @@ Records: `448`
 | NickCulbertson/Custom-DSP-AudioKit | partial | 2024-10-03T13:55:37Z | [open](../records/effects-nickculbertson-custom-dsp-audiokit-4d381c5e.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/effects-npisanti-ofxpdsp-51683253.md) |
 | olilarkin/awesome-musicdsp | partial | 2026-05-30T16:10:00Z | [open](../records/effects-olilarkin-awesome-musicdsp-c372f59b.md) |
-| OpenShot/libopenshot-audio | partial | 2026-08-31T02:37:41Z | [open](../records/effects-openshot-libopenshot-audio-b3a4cc5e.md) |
+| OpenShot/libopenshot-audio | partial | 2026-09-11T00:09:00Z | [open](../records/effects-openshot-libopenshot-audio-b3a4cc5e.md) |
 | orottier/web-audio-api-rs | partial | 2026-09-05T08:15:22Z | [open](../records/effects-orottier-web-audio-api-rs-689b486f.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/effects-pavel-demin-red-pitaya-notes-97f5a036.md) |
 | PieterPenninckx/rsynth | partial | 2023-10-28T12:27:05Z | [open](../records/effects-pieterpenninckx-rsynth-d66f9d98.md) |
@@ -280,8 +280,8 @@ Records: `448`
 | SuomiKP31/JUCE_VST3_Mixer | partial | 2025-03-17T22:48:38Z | [open](../records/effects-suomikp31-juce-vst3-mixer-7284b1f7.md) |
 | SuperKogito/pydiogment | partial | 2023-07-06T21:48:22Z | [open](../records/effects-superkogito-pydiogment-ee1478f0.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/effects-superkogito-spafe-ee3f7bf4.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-07T02:04:18Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
-| thesofproject/sof | partial | 2026-09-07T13:16:24Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-11T01:01:04Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
+| thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
 | tholman/image-nodes | partial | 2017-11-23T05:02:10Z | [open](../records/effects-tholman-image-nodes-87dfe942.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/effects-xdsopl-robot36-6c1d230b.md) |
@@ -296,7 +296,7 @@ Records: `448`
 | alyssaxuu/screenity | partial | 2026-09-05T17:12:39Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
 | Ameobea/web-synth | partial | 2026-08-13T07:15:16Z | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/audio-amsynth-amsynth-d2f54c63.md) |
-| andremichelle/openDAW | partial | 2026-08-29T06:05:32Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
+| andremichelle/openDAW | partial | 2026-09-11T10:10:54Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
 | Ankalot/XenRoll | partial | 2026-07-09T09:25:03Z | [open](../records/audio-ankalot-xenroll-4c124fc2.md) |
 | apfaudio/eurorack-pmod | partial | 2026-01-29T21:53:26Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/audio-ar1st0crat-nwaves-3e35452a.md) |
@@ -360,11 +360,11 @@ Records: `448`
 | michaelwillis/dragonfly-reverb | partial | 2026-05-21T15:59:51Z | [open](../records/audio-michaelwillis-dragonfly-reverb-7aa868bf.md) |
 | midas-research/audino | partial | 2026-02-03T14:08:58Z | [open](../records/audio-midas-research-audino-bfd86e43.md) |
 | miek/inspectrum | partial | 2025-12-06T15:44:29Z | [open](../records/audio-miek-inspectrum-a2b95ec1.md) |
-| mixxxdj/mixxx | partial | 2026-09-11T07:36:51Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
+| mixxxdj/mixxx | partial | 2026-09-11T08:47:52Z | [open](../records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
-| mpv-player/mpv | partial | 2026-09-08T03:32:28Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
+| mpv-player/mpv | partial | 2026-09-11T09:04:18Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
 | mumble-voip/mumble | partial | 2026-09-11T07:39:26Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |

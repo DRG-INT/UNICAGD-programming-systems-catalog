@@ -8,7 +8,7 @@ Records: `1085`
 
 ## Category Index
 
-[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -17,13 +17,13 @@ Records: `1085`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1085)](networking-http.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
+[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1085)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
@@ -80,7 +80,7 @@ Records: `1085`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | actix-http | 3.13.5 | 2026-09-02T13:30:04.048236Z | [open](../records/rust-actix-http-649d5d41.md) |
-| actix-server | 2.9.2 | 2026-09-10T23:42:40.930131Z | [open](../records/rust-actix-server-e5a4daec.md) |
+| actix-server | 2.9.3 | 2026-09-11T10:02:20.784334Z | [open](../records/rust-actix-server-e5a4daec.md) |
 | attohttpc | 0.31.0 | 2026-05-25T03:09:33.175942Z | [open](../records/rust-attohttpc-ed4c6017.md) |
 | aws-http | 0.60.6 | 2024-08-09T19:35:18.677687Z | [open](../records/rust-aws-http-8b04a69b.md) |
 | aws-sigv4 | 1.5.1 | 2026-07-08T19:08:55.193683Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
@@ -428,7 +428,7 @@ Records: `1085`
 | matter-server | 1.4.0 | 2026-08-07T08:52:35.642Z | [open](../records/node-js-javascript-matter-server-239f0299.md) |
 | methods | 1.1.2 | 2016-01-18T02:53:56.364Z | [open](../records/node-js-javascript-methods-3568f6db.md) |
 | mimic-response | 4.0.0 | 2021-08-11T14:32:51.305Z | [open](../records/node-js-javascript-mimic-response-f670bb0c.md) |
-| morgan | 1.12.0 | 2026-08-28T06:33:38.276Z | [open](../records/node-js-javascript-morgan-237acd1a.md) |
+| morgan | 1.12.1 | 2026-09-11T08:57:42.376Z | [open](../records/node-js-javascript-morgan-237acd1a.md) |
 | mssql | 12.7.2 | 2026-09-10T14:02:07.792Z | [open](../records/node-js-javascript-mssql-d9e51b5e.md) |
 | needle | 3.5.0 | 2026-03-12T22:24:55.522Z | [open](../records/node-js-javascript-needle-900f8cd1.md) |
 | negotiator | 1.1.0 | 2026-08-20T16:45:05.235Z | [open](../records/node-js-javascript-negotiator-b46d6520.md) |
@@ -792,7 +792,7 @@ Records: `1085`
 | spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
-| yincongcyincong/mcp-client-go | unknown | not_a_go_module_path | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
+| yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
 
@@ -809,7 +809,7 @@ Records: `1085`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-11T09:19:47Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-11T10:00:54Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
