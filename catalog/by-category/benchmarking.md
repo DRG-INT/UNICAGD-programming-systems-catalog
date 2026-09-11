@@ -1,6 +1,6 @@
 # Benchmarking
 
-Records: `208`
+Records: `209`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `208`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-**[Benchmarking (208)](benchmarking.md)** · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+**[Benchmarking (209)](benchmarking.md)** · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (287)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1081)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (642)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -131,18 +131,18 @@ Records: `208`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
-| kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
-| nats-io/nats-server | partial | 2026-09-10T16:42:27Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
-| nelthaarion/breeze | partial | 2026-09-06T22:05:23Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
-| sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
-| tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
+| jeffotoni/quick | unknown | not_a_go_module_path | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
+| kataras/iris | unknown | not_a_go_module_path | [open](../records/go-kataras-iris-811820fb.md) |
+| nats-io/nats-server | unknown | not_a_go_module_path | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
+| nelthaarion/breeze | unknown | not_a_go_module_path | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
+| sohaha/zlsgo | unknown | not_a_go_module_path | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
+| tigalabs/tigago | unknown | not_a_go_module_path | [open](../records/go-tigalabs-tigago-6e360e88.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-11T04:01:31Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | unknown | github_latest_release_missing | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Computer Graphics Software
 
@@ -301,6 +301,7 @@ Records: `208`
 | --- | --- | --- | --- |
 | eldruin/lsm303agr-rs | partial | 2024-06-24T20:22:44Z | [open](../records/electromagnetoscopes-eldruin-lsm303agr-rs-f0561090.md) |
 | google/ceviche-challenges | partial | 2024-01-20T18:04:58Z | [open](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) |
+| KJ7LNW/xnec2c | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-kj7lnw-xnec2c-b0133631.md) |
 | luigifcruz/CyberEther | partial | 2026-09-11T04:55:16Z | [open](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) |
 
 ## Repertoare Catalogs
@@ -387,7 +388,7 @@ Records: `208`
 | --- | --- | --- | --- |
 | apple/swift-nio | partial | 2026-09-09T15:08:33Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
 | ordo-one/benchmark | partial | 2026-07-24T09:37:23Z | [open](../records/swift-ordo-one-benchmark-1abb4df6.md) |
-| rarestype/swift-json | partial | 2026-09-10T05:37:27Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
+| rarestype/swift-json | partial | 2026-09-11T04:03:43Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
 
 ## Cocoa
 

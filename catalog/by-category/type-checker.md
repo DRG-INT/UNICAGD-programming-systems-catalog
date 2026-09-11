@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `316`
+Records: `318`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `316`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (208)](benchmarking.md) · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (287)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1081)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · **[Type Checker (316)](type-checker.md)**
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (642)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## Python
 
@@ -85,6 +85,7 @@ Records: `316`
 | @modelcontextprotocol/server | 2.0.0 | 2026-07-27T23:55:22.239Z | [open](../records/node-js-typescript-modelcontextprotocol-server-982407a5.md) |
 | @netlify/database | 2.0.1 | 2026-09-02T10:47:18.446Z | [open](../records/node-js-typescript-netlify-database-f6babfde.md) |
 | @octokit/types | 18.0.0 | 2026-08-29T16:03:59.320Z | [open](../records/node-js-typescript-octokit-types-1dc649aa.md) |
+| @onyx.dev/onyx-database | 2.8.2 | 2026-09-04T05:48:38.212Z | [open](../records/node-js-typescript-onyx-dev-onyx-database-b04b75b8.md) |
 | @openai/codex-security | 0.1.24 | 2026-08-29T16:42:54.898Z | [open](../records/node-js-typescript-openai-codex-security-800e2a12.md) |
 | @openapi-codegen/typescript | 11.1.0 | 2025-10-01T08:48:57.116Z | [open](../records/node-js-typescript-openapi-codegen-typescript-da91dfb8.md) |
 | @plandek-utils/logging | 1.1.0 | 2025-01-31T12:17:18.650Z | [open](../records/node-js-typescript-plandek-utils-logging-83d4cb73.md) |
@@ -314,7 +315,7 @@ Records: `316`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-11T05:04:44Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | unknown | github_latest_release_missing | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -447,11 +448,17 @@ Records: `316`
 | --- | --- | --- | --- |
 | thkruz/keeptrack.space | partial | 2026-09-10T12:18:20Z | [open](../records/satcom-satellites-thkruz-keeptrack-space-1aff0f13.md) |
 
+## Electromagnetoscopes
+
+| Name | Release | Date | Page |
+| --- | --- | --- | --- |
+| y1feng200156/ham-study | partial | 2026-03-01T11:25:24Z | [open](../records/electromagnetoscopes-y1feng200156-ham-study-a6ac46b5.md) |
+
 ## Catalogs
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bencoveney/barrelsby | partial | 2026-09-04T03:43:44Z | [open](../records/catalogs-bencoveney-barrelsby-ca292e3c.md) |
+| bencoveney/barrelsby | partial | 2026-09-09T01:10:02Z | [open](../records/catalogs-bencoveney-barrelsby-ca292e3c.md) |
 
 ## Magazines
 
@@ -494,7 +501,7 @@ Records: `316`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2FastLabs/agent-squad | unknown | github_search_does_not_include_release_date | [open](../records/swift-2fastlabs-agent-squad-f20b0f0c.md) |
-| NativeScript/NativeScript | partial | 2026-09-10T20:18:29Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
+| NativeScript/NativeScript | partial | 2026-09-10T22:07:21Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
 
 ## Databases
 

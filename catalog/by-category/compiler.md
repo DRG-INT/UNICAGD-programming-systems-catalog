@@ -9,22 +9,22 @@ Records: `177`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (208)](benchmarking.md) · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · **[Compiler (177)](compiler.md)** · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · **[Compiler (177)](compiler.md)** · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (287)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1081)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (642)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -183,7 +183,7 @@ Records: `177`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aspect-build/rules_ts | partial | 2026-09-04T18:22:22Z | [open](../records/starlark-aspect-build-rules-ts-800a8700.md) |
+| aspect-build/rules_ts | unknown | github_latest_release_missing | [open](../records/starlark-aspect-build-rules-ts-800a8700.md) |
 
 ## Engines
 
@@ -250,7 +250,7 @@ Records: `177`
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
 | HexHive/retrowrite | partial | 2025-04-26T16:48:55Z | [open](../records/assembly-hexhive-retrowrite-c7fefa2b.md) |
-| illegalstudio/elephc | partial | 2026-09-11T00:48:30Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
+| illegalstudio/elephc | partial | 2026-09-11T06:22:08Z | [open](../records/assembly-illegalstudio-elephc-5fbaada8.md) |
 | joexbayer/RetrOS-32 | partial | 2026-02-22T16:07:58Z | [open](../records/assembly-joexbayer-retros-32-b6c205a2.md) |
 | JustasMasiulis/inline_syscall | partial | 2024-06-21T00:26:33Z | [open](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) |
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
@@ -287,7 +287,7 @@ Records: `177`
 | tinygo-org/tinygo | partial | 2026-09-10T19:21:40Z | [open](../records/webassembly-tinygo-org-tinygo-509450fb.md) |
 | titzer/wizard-engine | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-titzer-wizard-engine-a95b7825.md) |
 | toyobayashi/emnapi | partial | 2026-09-04T07:50:22Z | [open](../records/webassembly-toyobayashi-emnapi-9dae3d7d.md) |
-| tursodatabase/turso | partial | 2026-09-10T20:39:44Z | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
+| tursodatabase/turso | partial | 2026-09-11T05:54:45Z | [open](../records/webassembly-tursodatabase-turso-a563c571.md) |
 | tyfkda/xcc | partial | 2026-09-09T01:00:50Z | [open](../records/webassembly-tyfkda-xcc-1f5eed90.md) |
 | wazero/wazero | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-wazero-wazero-d7577722.md) |
 | WebAssembly for the GNU Toolchain | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-webassembly-for-the-gnu-toolchain-bcf332d8.md) |
@@ -309,7 +309,7 @@ Records: `177`
 | BuildGrid/recc | partial | 2024-11-19T23:12:30.966Z | [open](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | cznic/cc | partial | 2026-09-07T17:10:15.759Z | [open](../records/repository-workplaces-cznic-cc-89e992e6.md) |
 | dfffffff/gcc6809 | partial | 2019-11-29T14:34:33.015Z | [open](../records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
-| freepascal.org/fpc/source | partial | 2026-09-11T03:17:35.570Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
+| freepascal.org/fpc/source | partial | 2026-09-11T06:07:42.563Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | Gitea: 6lin/sbcl | partial | 2022-09-16T23:40:41Z | [open](../records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | Gitea: catdog100/zlcompiler | partial | 2025-01-10T08:36:43Z | [open](../records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | Gitea: EnderIce2/Fennix | partial | 2025-04-14T01:21:22Z | [open](../records/repository-workplaces-gitea-enderice2-fennix-a295c30d.md) |

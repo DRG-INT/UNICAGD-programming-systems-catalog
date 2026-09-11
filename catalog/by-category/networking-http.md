@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1081`
+Records: `1085`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1081`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (208)](benchmarking.md) · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (287)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1081)](networking-http.md)**
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (642)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1085)](networking-http.md)**
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -785,23 +785,23 @@ Records: `1081`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-10T13:00:48Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
-| teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
+| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | unknown | not_a_go_module_path | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| austinmhorn/basilisk | partial | 2026-09-04T04:23:33Z | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
-| VatsalSy/BasiliskPostProcessingMatlab | partial | 2018-10-11T21:15:19Z | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
-| VatsalSy/BasiliskVisualization | partial | 2018-08-16T21:26:37Z | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
-| vitorvilela/droplet-particle-collision | partial | 2020-05-22T22:00:38Z | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |
+| austinmhorn/basilisk | unknown | github_latest_release_missing | [open](../records/basilisk-austinmhorn-basilisk-a8abe142.md) |
+| VatsalSy/BasiliskPostProcessingMatlab | unknown | github_latest_release_missing | [open](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) |
+| VatsalSy/BasiliskVisualization | unknown | github_latest_release_missing | [open](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) |
+| vitorvilela/droplet-particle-collision | unknown | github_latest_release_missing | [open](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) |
 
 ## "aim's"
 
@@ -809,7 +809,7 @@ Records: `1081`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-11T02:50:59Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | unknown | github_latest_release_missing | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1084,6 +1084,8 @@ Records: `1081`
 | --- | --- | --- | --- |
 | AsmSafone/RadioPlayerV3 | partial | 2025-06-16T12:02:30Z | [open](../records/electromagnetoscopes-asmsafone-radioplayerv3-cb668f6d.md) |
 | cpainchaud/RFLink32 | partial | 2026-07-30T11:19:07Z | [open](../records/electromagnetoscopes-cpainchaud-rflink32-443611fd.md) |
+| dh1tw/remoteRotator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-dh1tw-remoterotator-4fabfc0e.md) |
+| hudsonvalleydigitalnetwork/hasviolet | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-hudsonvalleydigitalnetwork-hasviolet-ce5bb324.md) |
 | liamcottle/reticulum-meshchat | partial | 2026-08-15T00:45:27Z | [open](../records/electromagnetoscopes-liamcottle-reticulum-meshchat-06a9395e.md) |
 | meshcore-dev/meshcore-ha | partial | 2026-09-03T15:45:13Z | [open](../records/electromagnetoscopes-meshcore-dev-meshcore-ha-99d8a718.md) |
 | osmocom/gr-osmosdr | partial | 2026-08-22T23:11:47Z | [open](../records/electromagnetoscopes-osmocom-gr-osmosdr-e519982e.md) |
@@ -1130,7 +1132,7 @@ Records: `1081`
 | --- | --- | --- | --- |
 | ashvardanian/less_slow.cpp | partial | 2026-07-27T01:01:01Z | [open](../records/assembly-ashvardanian-less-slow-cpp-50768d6c.md) |
 | minio/highwayhash | partial | 2026-03-21T05:38:40Z | [open](../records/assembly-minio-highwayhash-5634a2cc.md) |
-| nyxos-dev/nyx-os | partial | 2026-09-10T01:23:15Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
+| nyxos-dev/nyx-os | partial | 2026-09-11T02:55:31Z | [open](../records/assembly-nyxos-dev-nyx-os-a701d2ff.md) |
 | OpenMachine-ai/tinyfive | partial | 2023-11-01T23:04:08Z | [open](../records/assembly-openmachine-ai-tinyfive-d7147317.md) |
 | OWASP/ZSC | partial | 2024-03-14T22:19:20Z | [open](../records/assembly-owasp-zsc-566fd5f9.md) |
 
@@ -1232,7 +1234,9 @@ Records: `1081`
 | deislabs/wagi | partial | 2022-06-15T16:22:16Z | [open](../records/webassembly-deislabs-wagi-65e75fe1.md) |
 | deislabs/wasi-experimental-http | partial | 2023-03-14T17:13:55Z | [open](../records/webassembly-deislabs-wasi-experimental-http-bee04041.md) |
 | dispatchrun/net | partial | 2024-12-11T23:36:01Z | [open](../records/webassembly-dispatchrun-net-ea550bf8.md) |
+| evgeny-nadymov/telegram-react | partial | 2025-02-23T05:45:20Z | [open](../records/webassembly-evgeny-nadymov-telegram-react-7bf2bf4e.md) |
 | joreilly/PeopleInSpace | partial | 2026-09-06T03:40:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
+| near/nearcore | partial | 2026-09-10T15:39:16Z | [open](../records/webassembly-near-nearcore-94125d0d.md) |
 | WebAssembly/WASI | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-wasi-e42b23bc.md) |
 | WebAssembly/wasi-http | partial | 2025-11-25T22:56:11Z | [open](../records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
 
@@ -1273,7 +1277,7 @@ Records: `1081`
 | permissionlesstech/bitchat | unknown | github_search_does_not_include_release_date | [open](../records/swift-permissionlesstech-bitchat-1323762a.md) |
 | ProjectKumo/KumoApp | partial | 2026-06-05T17:08:02Z | [open](../records/swift-projectkumo-kumoapp-163c7695.md) |
 | SwiftcordApp/Swiftcord | partial | 2026-06-20T10:38:53Z | [open](../records/swift-swiftcordapp-swiftcord-66b78add.md) |
-| TableProApp/TablePro | partial | 2026-09-09T16:51:36Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
+| TableProApp/TablePro | partial | 2026-09-11T04:13:44Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
 
 ## Cocoa
 
@@ -1341,7 +1345,7 @@ Records: `1081`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dalibo/pg_migrate | partial | 2026-09-08T15:06:12.308Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
+| dalibo/pg_migrate | partial | 2026-09-10T09:45:19.023Z | [open](../records/repository-workplaces-dalibo-pg-migrate-f66a654f.md) |
 | Gitea: AaronFiore/btcpayserver-docker | partial | 2026-08-27T21:27:13Z | [open](../records/repository-workplaces-gitea-aaronfiore-btcpayserver-docker-65536044.md) |
 | Gitea: ks2515/codecrafters-http-server-go | partial | 2024-06-28T05:27:11Z | [open](../records/repository-workplaces-gitea-ks2515-codecrafters-http-server-go-a645fafb.md) |
 | Gitea: Opsdff/RiviLib | partial | 2026-07-10T13:49:56Z | [open](../records/repository-workplaces-gitea-opsdff-rivilib-b63af9b3.md) |

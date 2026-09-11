@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `642`
+Records: `648`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `642`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (208)](benchmarking.md) · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (287)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1081)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · **[Visualization Gui (642)](visualization-gui.md)** · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · **[Visualization Gui (648)](visualization-gui.md)** · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -309,22 +309,22 @@ Records: `642`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
-| kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| kungfusheep/glyph | unknown | not_a_go_module_path | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| KCarretto/paragon | partial | 2024-02-07T15:42:41Z | [open](../records/starlark-kcarretto-paragon-6c42eaa2.md) |
+| KCarretto/paragon | unknown | github_latest_release_missing | [open](../records/starlark-kcarretto-paragon-6c42eaa2.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Anupamchaudhary17/ln2-drop-evap | partial | 2026-05-11T15:29:32Z | [open](../records/basilisk-anupamchaudhary17-ln2-drop-evap-254571c9.md) |
+| Anupamchaudhary17/ln2-drop-evap | unknown | github_latest_release_missing | [open](../records/basilisk-anupamchaudhary17-ln2-drop-evap-254571c9.md) |
 
 ## Renderers
 
@@ -728,9 +728,11 @@ Records: `642`
 | AliRezaJoodi/Electronics_Exercises | partial | 2026-06-26T00:29:05Z | [open](../records/electromagnetoscopes-alirezajoodi-electronics-exercises-a1c21a7f.md) |
 | asukiaaa/MPU9250_asukiaaa | partial | 2023-02-26T02:59:28Z | [open](../records/electromagnetoscopes-asukiaaa-mpu9250-asukiaaa-a4eec852.md) |
 | drcpattison/DPEng_ICM20948_AK09916 | partial | 2022-05-14T13:56:29Z | [open](../records/electromagnetoscopes-drcpattison-dpeng-icm20948-ak09916-4faabcbe.md) |
+| f4goh/VnArduino | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-f4goh-vnarduino-926dc684.md) |
 | fredilarsen/TeslaChargeDoorOpener | partial | 2020-05-19T11:24:41Z | [open](../records/electromagnetoscopes-fredilarsen-teslachargedooropener-23a31b83.md) |
 | Gqrx | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-gqrx-10a5b737.md) |
 | Infineon/TLV493D-A1B6-3DMagnetic-Sensor | partial | 2024-09-17T13:03:47Z | [open](../records/electromagnetoscopes-infineon-tlv493d-a1b6-3dmagnetic-sensor-46288326.md) |
+| k3ng/k3ng_antenna_tuner | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-k3ng-k3ng-antenna-tuner-6bb2eba2.md) |
 | kholia/Easy-Digital-Beacons-v1 | partial | 2023-10-02T15:01:34Z | [open](../records/electromagnetoscopes-kholia-easy-digital-beacons-v1-6bb323cc.md) |
 | kpreid/shinysdr | partial | 2020-09-17T04:34:50Z | [open](../records/electromagnetoscopes-kpreid-shinysdr-75d6b192.md) |
 | kriswiner/MMC5983MA | partial | 2020-09-14T20:49:11Z | [open](../records/electromagnetoscopes-kriswiner-mmc5983ma-f5f511a5.md) |
@@ -738,11 +740,13 @@ Records: `642`
 | luigifcruz/pisdr-image | partial | 2024-01-25T23:31:05Z | [open](../records/electromagnetoscopes-luigifcruz-pisdr-image-67058165.md) |
 | michaelwro/mag-cal-example | partial | 2024-02-22T17:55:50Z | [open](../records/electromagnetoscopes-michaelwro-mag-cal-example-d94f3aab.md) |
 | NamNamIoT/ArduLora | partial | 2026-06-10T14:32:10Z | [open](../records/electromagnetoscopes-namnamiot-ardulora-0389e080.md) |
+| oi8509701-ui/radar-system | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-oi8509701-ui-radar-system-25a01bc6.md) |
 | RCmags/basicMPU6050 | partial | 2023-11-19T01:01:43Z | [open](../records/electromagnetoscopes-rcmags-basicmpu6050-dc2bd37a.md) |
-| renanmav/pycst | partial | 2019-05-09T20:39:37Z | [open](../records/electromagnetoscopes-renanmav-pycst-f586fea1.md) |
+| renanmav/pycst | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-renanmav-pycst-f586fea1.md) |
 | RFD-FHEM/SIGNALDuino | partial | 2026-08-04T17:44:16Z | [open](../records/electromagnetoscopes-rfd-fhem-signalduino-1713af73.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/electromagnetoscopes-rsadsb-adsb-deku-b3cb2015.md) |
 | SigDigger | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-sigdigger-9dac6595.md) |
+| soligen2010/RC_RX_CABELL_V3_FHSS | partial | 2021-11-10T06:03:35Z | [open](../records/electromagnetoscopes-soligen2010-rc-rx-cabell-v3-fhss-509521e4.md) |
 | sparkfun/SparkFun_LSM303C_6_DOF_IMU_Breakout_Arduino_Library | partial | 2019-06-10T23:17:40Z | [open](../records/electromagnetoscopes-sparkfun-sparkfun-lsm303c-6-dof-imu-breakout-arduino-library-9d66eb81.md) |
 | sparkfun/SparkFun_MAG3110_Breakout_Board_Arduino_Library | partial | 2020-07-14T16:09:28Z | [open](../records/electromagnetoscopes-sparkfun-sparkfun-mag3110-breakout-board-arduino-library-bd73d0cd.md) |
 | tapparelj/gr-lora_sdr | partial | 2026-01-05T15:46:12Z | [open](../records/electromagnetoscopes-tapparelj-gr-lora-sdr-26e08518.md) |
@@ -790,12 +794,14 @@ Records: `642`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-11T03:56:57Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-11T06:05:18Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | emilk/egui | partial | 2026-09-10T15:38:06Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
+| langhuihui/jessibuca | partial | 2026-09-09T01:52:46Z | [open](../records/webassembly-langhuihui-jessibuca-ca741e72.md) |
 | tinysearch/tinysearch | partial | 2026-08-15T16:16:50Z | [open](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
-| wasmerio/wasmer-sdk | partial | 2026-09-08T07:20:06Z | [open](../records/webassembly-wasmerio-wasmer-sdk-08a1075e.md) |
+| wasmerio/wasmer-sdk | partial | 2026-09-11T04:33:07Z | [open](../records/webassembly-wasmerio-wasmer-sdk-08a1075e.md) |
 | xiaoyu1998/web3.learning | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
+| yuankunzhang/charming | partial | 2026-01-16T09:09:40Z | [open](../records/webassembly-yuankunzhang-charming-7f725d15.md) |
 
 ## SAPJava
 

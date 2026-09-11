@@ -1,6 +1,6 @@
 # Interpreter Runtime
 
-Records: `287`
+Records: `288`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `287`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (208)](benchmarking.md) · [Build System (1035)](build-system.md) · [Cli (592)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (980)](database-datastore.md) · [Datetime (249)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (483)](ffi-bindings.md) · [Filesystem Os (1696)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1506)](ide-editor-integration.md)
-[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · **[Interpreter Runtime (287)](interpreter-runtime.md)** · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6034)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (851)](machine-learning.md)
-[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (101)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1081)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (320)](precommit-ci-quality.md)
-[Profiler (96)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
-[Undefined Behavior Analyzer (1656)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (642)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · **[Interpreter Runtime (288)](interpreter-runtime.md)** · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1468)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -189,7 +189,7 @@ Records: `287`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asdf-vm/asdf | partial | 2026-09-03T13:48:57Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
+| asdf-vm/asdf | unknown | not_a_go_module_path | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
 | github.com/btc-vision/btc-runtime | v1.10.6 | 2026-08-30T12:53:01.50741Z | [open](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) |
 | github.com/btc-vision/op-vm | v0.3.8 | 2026-08-30T16:32:47.097658Z | [open](../records/go-github-com-btc-vision-op-vm-0f62577b.md) |
 | github.com/esotericsoftware/spine-runtimes | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
@@ -205,7 +205,7 @@ Records: `287`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bazel-contrib/rules_jvm_external | partial | 2026-09-10T16:39:07Z | [open](../records/starlark-bazel-contrib-rules-jvm-external-5d599720.md) |
+| bazel-contrib/rules_jvm_external | unknown | github_latest_release_missing | [open](../records/starlark-bazel-contrib-rules-jvm-external-5d599720.md) |
 | starlark-go | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-starlark-go-17e4e439.md) |
 | starlark-rust | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-starlark-rust-9ce7042b.md) |
 
@@ -221,7 +221,7 @@ Records: `287`
 | --- | --- | --- | --- |
 | llama.cpp | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-llama-cpp-9828c514.md) |
 | ONNX Runtime | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-runtime-98d3a1c6.md) |
-| ray-project/ray | partial | 2026-09-11T05:15:15Z | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
+| ray-project/ray | unknown | github_latest_release_missing | [open](../records/aim-s-ray-project-ray-95a80ced.md) |
 | vLLM | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-vllm-0a7ec6b2.md) |
 
 ## Engines
@@ -428,7 +428,7 @@ Records: `287`
 | google/highway | partial | 2026-09-10T11:01:17Z | [open](../records/webassembly-google-highway-0f405ea0.md) |
 | hemashushu/practice-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-hemashushu-practice-wasm-af9b64ef.md) |
 | kanaka/mal | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kanaka-mal-bd74d373.md) |
-| konsoletyper/teavm | partial | 2026-09-10T18:02:30Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
+| konsoletyper/teavm | partial | 2026-09-10T18:27:32Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
 | leaningtech/webvm | partial | 2026-08-27T13:53:21Z | [open](../records/webassembly-leaningtech-webvm-e3518757.md) |
 | libraries/pywasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-libraries-pywasm-371c9f97.md) |
 | lifthrasiir/wah | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lifthrasiir-wah-6064c64b.md) |
@@ -449,9 +449,10 @@ Records: `287`
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-10T23:31:49Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
 | wasm3/wasm3 | partial | 2026-09-10T19:48:43Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-10T18:43:12Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-11T05:04:19Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmerio/wasmer-go | partial | 2025-02-01T18:39:34Z | [open](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |
+| wasmerio/wasmer-python | partial | 2023-09-17T14:48:07Z | [open](../records/webassembly-wasmerio-wasmer-python-5f08abff.md) |
 | wasmi-labs/wasmi | partial | 2026-09-01T11:50:21Z | [open](../records/webassembly-wasmi-labs-wasmi-2de8afe8.md) |
 | wazero/wazero | partial | 2026-09-08T08:35:16Z | [open](../records/webassembly-wazero-wazero-e01a87a9.md) |
 | WEREMSOFT/spine-raylib-runtimes | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-weremsoft-spine-raylib-runtimes-10c81a49.md) |
