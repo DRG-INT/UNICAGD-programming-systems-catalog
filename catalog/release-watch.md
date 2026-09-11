@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-11T01:22:36+00:00`
+Generated: `2026-09-11T02:25:09+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -16,7 +16,7 @@ Generated: `2026-09-11T01:22:36+00:00`
 [Framework (63)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (373)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (282)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1464)](by-category/language-specification.md) · [Library (6025)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (547)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
 [Math Numeric Scientific (94)](by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1079)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1236)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -28,14 +28,26 @@ Generated: `2026-09-11T01:22:36+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10729 |
-| Unknown stable release | 18059 |
+| Known stable release | 10725 |
+| Unknown stable release | 18064 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| structured-headers | Node.js/JavaScript | Networking Http | 2.1.0 | 2026-09-11T01:49:18.023Z | [open](records/node-js-javascript-structured-headers-06c81359.md) |
+| toml_edit | Rust | Formatter | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](records/rust-toml-edit-d8550b65.md) |
+| @unocss/cli | Node.js/JavaScript | Cli | 66.10.2 | 2026-09-11T01:29:28.485Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
+| code-server | Node.js/JavaScript | Web Framework | 4.137.0 | 2026-09-11T01:18:48.481Z | [open](records/node-js-javascript-code-server-cf26133a.md) |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.6.0 | 2026-09-11T01:16:55.803Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| @athenna/database | Node.js/JavaScript | Database Datastore | 5.64.0 | 2026-09-11T01:11:46.885Z | [open](records/node-js-javascript-athenna-database-561068b6.md) |
+| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.43 | 2026-09-11T00:40:01.215Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
+| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.43 | 2026-09-11T00:39:08.547Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.43 | 2026-09-11T00:32:02.341Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
+| @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:28:25.847Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
+| @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:27:36.385Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
 | yaml-rust2 | Rust | Parser Lexer Ast | 0.13.0 | 2026-09-11T00:00:22.447567Z | [open](records/rust-yaml-rust2-fae38726.md) |
+| dataRetrieval | R | Logging Observability | 2.7.26 | 2026-09-11 02:10:02 UTC | [open](records/r-dataretrieval-6237bbef.md) |
 | @toolbox-sdk/server | Node.js/JavaScript | Web Framework | 1.11.0 | 2026-09-10T23:54:07.640Z | [open](records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
 | hledger-web | Haskell | Library | 1.52.4 | 2026-09-10T23:44:25Z | [open](records/haskell-hledger-web-8f01564b.md) |
 | hledger-ui | Haskell | Visualization Gui | 1.52.4 | 2026-09-10T23:44:22Z | [open](records/haskell-hledger-ui-8c0b5874.md) |
@@ -66,11 +78,7 @@ Generated: `2026-09-11T01:22:36+00:00`
 | windmill-cli | Node.js/JavaScript | Cli | 1.809.0 | 2026-09-10T21:01:09.672Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.25 | 2026-09-10T20:43:37.037Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.1 | 2026-09-10T20:43:27.443Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
-| @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.42 | 2026-09-10T20:36:05.472Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
-| @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.42 | 2026-09-10T20:35:05.785Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
-| toml_edit | Rust | Formatter | 0.25.14+spec-1.1.0 | 2026-09-10T20:28:40.360239Z | [open](records/rust-toml-edit-d8550b65.md) |
 | toml | Rust | Language Specification | 1.1.6+spec-1.1.0 | 2026-09-10T20:28:39.522017Z | [open](records/rust-toml-ee71db50.md) |
-| @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.42 | 2026-09-10T20:28:33.452Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.183.0 | 2026-09-10T20:14:11.553Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.183.0 | 2026-09-10T20:13:22.882Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | holeyexp | Haskell | Library | 0.3.0.2 | 2026-09-10T20:09:12Z | [open](records/haskell-holeyexp-db5dc519.md) |
@@ -277,20 +285,12 @@ Generated: `2026-09-11T01:22:36+00:00`
 | super_text_layout | Dart | Configuration | 0.1.22 | 2026-09-09T20:27:39.773991Z | [open](records/dart-super-text-layout-7230b32d.md) |
 | drift | Dart | Library | 2.35.0 | 2026-09-09T20:15:01.193120Z | [open](records/dart-drift-2c8ff8ba.md) |
 | @angular/compiler-cli | Node.js/JavaScript | Compiler | 22.1.6 | 2026-09-09T20:13:27.504Z | [open](records/node-js-javascript-angular-compiler-cli-2d6ddb22.md) |
-| @angular/language-server | Node.js/JavaScript | Language Specification | 22.1.6 | 2026-09-09T20:12:52.558Z | [open](records/node-js-javascript-angular-language-server-3e834c73.md) |
-| jsonpath-rust | Rust | Ide Editor Integration | 1.0.11 | 2026-09-09T20:05:15.379170Z | [open](records/rust-jsonpath-rust-823f3ffa.md) |
-| @catladder/cli | Node.js/JavaScript | Cli | 5.1.3 | 2026-09-09T19:45:42.620Z | [open](records/node-js-javascript-catladder-cli-876a5bd9.md) |
-| @launchdarkly/node-server-sdk | Node.js/JavaScript | Ide Editor Integration | 9.13.3 | 2026-09-09T19:38:19.153Z | [open](records/node-js-javascript-launchdarkly-node-server-sdk-ee82236b.md) |
-| @launchdarkly/js-server-sdk-common | Node.js/JavaScript | Web Framework | 2.21.1 | 2026-09-09T19:36:56.899Z | [open](records/node-js-javascript-launchdarkly-js-server-sdk-common-321e695d.md) |
-| @launchdarkly/openfeature-node-server | Node.js/JavaScript | Ide Editor Integration | 2.0.2 | 2026-09-09T19:36:47.141Z | [open](records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
-| @launchdarkly/vercel-server-sdk | Node.js/JavaScript | Ide Editor Integration | 1.3.57 | 2026-09-09T19:36:31.483Z | [open](records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
-| @typespec/http | Node.js/JavaScript | Ffi Bindings | 1.16.0 | 2026-09-09T19:36:24.817Z | [open](records/node-js-javascript-typespec-http-a3ff49d1.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10163 |
+| gh_search_reports_activity_not_release_version | 10434 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -298,19 +298,18 @@ Generated: `2026-09-11T01:22:36+00:00`
 | github_search_does_not_include_release_date | 442 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
-| github_latest_release_missing | 310 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
+| github_latest_release_missing | 214 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
-| not_a_go_module_path | 182 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
+| hackage_top_downloads_page_does_not_include_release_date | 10 |
+| not_a_go_module_path | 8 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
-| hackage_top_downloads_page_does_not_include_release_date | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

@@ -18,7 +18,7 @@ Records: `54`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -84,8 +84,8 @@ Records: `54`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | text-zipper | 0.13 | 2023-02-04T20:59:07Z | [open](../records/haskell-text-zipper-6676f63d.md) |
-| zip | 2.2.2 | 2026-06-14T13:24:17Z | [open](../records/haskell-zip-3da7792f.md) |
-| zip-archive | 0.4.3.2 | 2024-04-09T16:45:10Z | [open](../records/haskell-zip-archive-3e16172e.md) |
+| zip | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-3da7792f.md) |
+| zip-archive | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-archive-3e16172e.md) |
 | zstd | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](../records/haskell-zstd-01fb5311.md) |
 
 ## Dart

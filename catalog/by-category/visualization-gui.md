@@ -18,7 +18,7 @@ Records: `639`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -309,10 +309,10 @@ Records: `639`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -515,7 +515,7 @@ Records: `639`
 | SciTools/cartopy | partial | 2026-09-04T14:38:29Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
 | tentone/geo-three | partial | 2026-04-05T09:36:24Z | [open](../records/maps-tentone-geo-three-c2f6b656.md) |
 | Viglino/ol-ext | partial | 2026-07-08T01:30:43Z | [open](../records/maps-viglino-ol-ext-ecc4dbc2.md) |
-| visgl/deck.gl | partial | 2026-09-10T13:25:47Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
+| visgl/deck.gl | partial | 2026-09-10T21:53:30Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
 | w3reality/three-geo | partial | 2025-02-25T08:20:32Z | [open](../records/maps-w3reality-three-geo-19abad00.md) |
 
 ## Space Engines

@@ -1,6 +1,6 @@
 # R
 
-Records: `1975`
+Records: `1976`
 
 ## Navigation
 
@@ -18,7 +18,7 @@ Records: `1975`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (373)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (282)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1464)](../by-category/language-specification.md) · [Library (6025)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (547)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
 [Math Numeric Scientific (94)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1079)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1236)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -1360,6 +1360,7 @@ Records: `1975`
 | [bios2mds](../records/r-bios2mds-ccbe3b63.md) | 1.2.4 | 2026-08-21 17:40:08 UTC | registry-derived |
 | [casebase](../records/r-casebase-aea74542.md) | 0.10.7 | 2026-09-03 17:50:02 UTC | registry-derived |
 | [corrgram](../records/r-corrgram-e4e8c16a.md) | 1.16 | 2026-09-02 19:40:02 UTC | registry-derived |
+| [dataRetrieval](../records/r-dataretrieval-6237bbef.md) | 2.7.26 | 2026-09-11 02:10:02 UTC | registry-derived |
 | [dowser](../records/r-dowser-d24a07c1.md) | 2.5.1 | 2026-08-20 11:20:10 UTC | registry-derived |
 | [Elja](../records/r-elja-f8285cbf.md) | 1.0.1 | 2026-08-24 19:20:02 UTC | registry-derived |
 | [ERBioR](../records/r-erbior-330dd8f4.md) | 0.9.0 | 2026-09-09 14:50:26 UTC | registry-derived |

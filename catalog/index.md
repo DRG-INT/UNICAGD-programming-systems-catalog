@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-11T01:22:36+00:00`
+Generated: `2026-09-11T02:25:09+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -16,7 +16,7 @@ Generated: `2026-09-11T01:22:36+00:00`
 [Framework (63)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (373)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (282)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1464)](by-category/language-specification.md) · [Library (6025)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (547)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
 [Math Numeric Scientific (94)](by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1079)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1236)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -37,8 +37,8 @@ Generated: `2026-09-11T01:22:36+00:00`
 | Node.js/JavaScript | 2450 | 2373 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 391 | 351 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 1975 | 1975 | [R](by-language/r.md) |
-| Haskell | 1685 | 1680 | [Haskell](by-language/haskell.md) |
+| R | 1976 | 1976 | [R](by-language/r.md) |
+| Haskell | 1685 | 1675 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -134,7 +134,7 @@ Generated: `2026-09-11T01:22:36+00:00`
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 50 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 350 | [linter](by-category/linter.md) |
-| Logging Observability | 547 | [logging_observability](by-category/logging-observability.md) |
+| Logging Observability | 548 | [logging_observability](by-category/logging-observability.md) |
 | Machine Learning | 845 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 94 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 100 | [memory_analyzer](by-category/memory-analyzer.md) |
@@ -174,8 +174,8 @@ Generated: `2026-09-11T01:22:36+00:00`
 | Node.js/JavaScript | 2373 | 77 |
 | Node.js/TypeScript | 351 | 40 |
 | Lua family | 0 | 1937 |
-| R | 1975 | 0 |
-| Haskell | 1680 | 5 |
+| R | 1976 | 0 |
+| Haskell | 1675 | 10 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

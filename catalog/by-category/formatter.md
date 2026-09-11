@@ -18,7 +18,7 @@ Records: `664`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -110,7 +110,7 @@ Records: `664`
 | sysinfo | 0.39.6 | 2026-07-09T10:46:59.210840Z | [open](../records/rust-sysinfo-f52c65cc.md) |
 | term | 1.2.1 | 2025-12-06T16:40:14.525516Z | [open](../records/rust-term-2f1f00ef.md) |
 | terminfo | 0.9.0 | 2024-05-08T13:44:46.919814Z | [open](../records/rust-terminfo-7ffe4400.md) |
-| toml_edit | 0.25.14+spec-1.1.0 | 2026-09-10T20:28:40.360239Z | [open](../records/rust-toml-edit-d8550b65.md) |
+| toml_edit | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](../records/rust-toml-edit-d8550b65.md) |
 | toml_parser | 1.1.3+spec-1.1.0 | 2026-07-27T14:53:02.089853Z | [open](../records/rust-toml-parser-43492703.md) |
 | uname | 0.1.1 | 2016-10-11T18:23:38.774567Z | [open](../records/rust-uname-88f9e3b6.md) |
 | unit-prefix | 0.5.2 | 2025-11-16T23:46:07.469023Z | [open](../records/rust-unit-prefix-17abacee.md) |
@@ -533,7 +533,7 @@ Records: `664`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -545,7 +545,7 @@ Records: `664`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T01:17:02Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T02:22:23Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -638,7 +638,7 @@ Records: `664`
 | davemlz/eemont | unknown | github_search_does_not_include_release_date | [open](../records/maps-davemlz-eemont-fb067ac2.md) |
 | MIERUNE/plateau-gis-converter | partial | 2026-09-07T05:43:47Z | [open](../records/maps-mierune-plateau-gis-converter-33d0b196.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
-| proj4js/proj4js | partial | 2026-08-31T07:26:28Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
+| proj4js/proj4js | partial | 2026-09-11T01:32:46Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
 | pyproj4/pyproj | partial | 2026-09-09T06:03:15Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 | simonpoole/mapsplit | partial | 2025-08-29T08:42:49Z | [open](../records/maps-simonpoole-mapsplit-9201cef5.md) |
@@ -920,7 +920,7 @@ Records: `664`
 | alasca.cloud/tarook/tarook | partial | 2026-09-10T11:43:50.394Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
-| gitlab-org/cves | partial | 2026-09-10T18:47:18.802Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
+| gitlab-org/cves | partial | 2026-09-11T01:19:21.240Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | guided-explorations/aws/cloudformation/cloudformation-deploy | partial | 2026-07-14T13:33:11.462Z | [open](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
 | libosinfo/osinfo-db | partial | 2026-09-11T00:26:00.206Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
 | Screwtapello/isa65xx | partial | 2025-04-08T08:23:48.640Z | [open](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |

@@ -18,7 +18,7 @@ Records: `318`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · **[Precommit Ci Quality (318)](precommit-ci-quality.md)**
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -265,7 +265,7 @@ Records: `318`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
-| tmrts/go-patterns | unknown | not_a_go_module_path | [open](../records/go-tmrts-go-patterns-62512270.md) |
+| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 
@@ -371,7 +371,7 @@ Records: `318`
 | maxmahlke/rocks | partial | 2026-09-10T11:08:22Z | [open](../records/space-maps-maxmahlke-rocks-873f5e31.md) |
 | Rishav-k/Steriographic-Projection | partial | 2023-04-06T10:14:55Z | [open](../records/space-maps-rishav-k-steriographic-projection-1254199a.md) |
 | Swanson-Hysell/2019_Tunnunik | partial | 2019-02-04T16:57:11Z | [open](../records/space-maps-swanson-hysell-2019-tunnunik-bb4f3dd1.md) |
-| VirtualPlanetaryLaboratory/vplanet | partial | 2026-08-11T21:24:13Z | [open](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |
+| VirtualPlanetaryLaboratory/vplanet | partial | 2026-09-10T22:50:33Z | [open](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) |
 
 ## Effects
 

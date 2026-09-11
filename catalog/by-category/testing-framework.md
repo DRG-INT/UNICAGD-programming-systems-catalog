@@ -18,7 +18,7 @@ Records: `638`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -225,7 +225,7 @@ Records: `638`
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
 | @smthrs/testing | 0.35.0 | 2026-08-17T20:35:48.555Z | [open](../records/node-js-javascript-smthrs-testing-35159f03.md) |
 | @solidjs/testing-library | 0.8.10 | 2024-09-25T13:24:08.486Z | [open](../records/node-js-javascript-solidjs-testing-library-4973b45e.md) |
-| @stacksjs/testing | 0.74.42 | 2026-09-10T20:35:05.785Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
+| @stacksjs/testing | 0.74.43 | 2026-09-11T00:39:08.547Z | [open](../records/node-js-javascript-stacksjs-testing-57469937.md) |
 | @storm-software/testing-tools | 1.119.287 | 2026-09-06T05:19:32.185Z | [open](../records/node-js-javascript-storm-software-testing-tools-3111101a.md) |
 | @storybook/addon-vitest | 10.6.0 | 2026-09-02T13:59:28.767Z | [open](../records/node-js-javascript-storybook-addon-vitest-61ff1281.md) |
 | @storybook/cli | 10.6.0 | 2026-09-02T14:01:45.695Z | [open](../records/node-js-javascript-storybook-cli-04f8ce22.md) |
@@ -556,10 +556,10 @@ Records: `638`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -868,10 +868,10 @@ Records: `638`
 | benbjohnson/litestream | partial | 2026-09-03T23:00:29Z | [open](../records/databases-benbjohnson-litestream-d7da8b84.md) |
 | datopian/r2-bucket-uploader | partial | 2025-04-19T05:32:39Z | [open](../records/databases-datopian-r2-bucket-uploader-a0c1456a.md) |
 | dominikhei/Local-Data-LakeHouse | partial | 2023-09-02T20:04:35Z | [open](../records/databases-dominikhei-local-data-lakehouse-4f8f71d9.md) |
-| invertase/react-native-firebase | partial | 2026-09-10T10:37:07Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
+| invertase/react-native-firebase | partial | 2026-09-10T13:59:08Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-10T19:48:02Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-11T00:22:50Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

@@ -18,7 +18,7 @@ Records: `782`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (373)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (282)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1464)](../by-category/language-specification.md) · [Library (6025)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (547)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
 [Math Numeric Scientific (94)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1079)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1236)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -53,7 +53,7 @@ Records: `782`
 | --- | --- | --- | --- |
 | [AuburnSounds/Dplug](../records/effects-auburnsounds-dplug-3c33ea8b.md) | partial | 2026-07-02T13:19:52Z | registry-derived |
 | [c8r/iso](../records/effects-c8r-iso-4a2333dd.md) | partial | 2018-06-03T18:44:56Z | registry-derived |
-| [ChrisBuilds/terminaltexteffects](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) | partial | 2026-09-10T01:20:29Z | registry-derived |
+| [ChrisBuilds/terminaltexteffects](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) | partial | 2026-09-11T01:24:10Z | registry-derived |
 | [CuarzoSoftware/Louvre](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) | partial | 2026-08-31T18:15:35Z | registry-derived |
 | [DatanoiseTV/PicoADK-Hardware](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) | partial | 2024-01-05T12:00:10Z | registry-derived |
 | [james34602/JamesDSPManager](../records/effects-james34602-jamesdspmanager-b977897f.md) | partial | 2025-06-18T14:08:35Z | registry-derived |
@@ -265,7 +265,7 @@ Records: `782`
 | [getoffmyhack/waveSDR](../records/effects-getoffmyhack-wavesdr-29b3c175.md) | partial | 2026-08-01T17:26:02Z | registry-derived |
 | [ghaerr/agg-2.6](../records/effects-ghaerr-agg-2-6-d129da6e.md) | partial | 2023-09-13T00:27:54Z | registry-derived |
 | [gnuradio/gnuradio](../records/effects-gnuradio-gnuradio-792f9652.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
-| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-10T23:12:50Z | registry-derived |
+| [grizzlypeak3d/DJV](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) | partial | 2026-09-11T00:07:03Z | registry-derived |
 | [HEnquist/camilladsp](../records/effects-henquist-camilladsp-d941192e.md) | partial | 2026-09-07T13:12:10Z | registry-derived |
 | [hexianWeb/lego-stylized-nature](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) | partial | 2026-07-08T07:37:58Z | registry-derived |
 | [hifiberry/hifiberry-os](../records/effects-hifiberry-hifiberry-os-23434356.md) | partial | 2026-09-07T13:19:11Z | registry-derived |

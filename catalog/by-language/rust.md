@@ -18,7 +18,7 @@ Records: `2183`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (373)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (282)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1464)](../by-category/language-specification.md) · [Library (6025)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (547)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
 [Math Numeric Scientific (94)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1079)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1236)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -982,7 +982,7 @@ Records: `2183`
 | [sysinfo](../records/rust-sysinfo-f52c65cc.md) | 0.39.6 | 2026-07-09T10:46:59.210840Z | registry-derived |
 | [term](../records/rust-term-2f1f00ef.md) | 1.2.1 | 2025-12-06T16:40:14.525516Z | registry-derived |
 | [terminfo](../records/rust-terminfo-7ffe4400.md) | 0.9.0 | 2024-05-08T13:44:46.919814Z | crates_io |
-| [toml_edit](../records/rust-toml-edit-d8550b65.md) | 0.25.14+spec-1.1.0 | 2026-09-10T20:28:40.360239Z | registry-derived |
+| [toml_edit](../records/rust-toml-edit-d8550b65.md) | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | registry-derived |
 | [toml_parser](../records/rust-toml-parser-43492703.md) | 1.1.3+spec-1.1.0 | 2026-07-27T14:53:02.089853Z | registry-derived |
 | [uname](../records/rust-uname-88f9e3b6.md) | 0.1.1 | 2016-10-11T18:23:38.774567Z | crates_io |
 | [unit-prefix](../records/rust-unit-prefix-17abacee.md) | 0.5.2 | 2025-11-16T23:46:07.469023Z | registry-derived |

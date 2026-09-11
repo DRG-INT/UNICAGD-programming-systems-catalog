@@ -18,7 +18,7 @@ Records: `114`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -170,7 +170,7 @@ Records: `114`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Esri/arcgis-python-api | partial | 2026-09-08T22:12:31Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
+| Esri/arcgis-python-api | partial | 2026-09-10T22:41:11Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
 | OSM Wiki Map Features | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-osm-wiki-map-features-2e7d7417.md) |
 | shortbread-tiles/shortbread-docs | partial | 2026-09-02T20:17:37Z | [open](../records/maps-shortbread-tiles-shortbread-docs-0c976170.md) |
 
@@ -278,7 +278,7 @@ Records: `114`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| SAP/ai-sdk | partial | 2026-09-10T14:26:04Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
+| SAP/ai-sdk | partial | 2026-09-10T23:16:30Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
 | SAP/cloud-sdk | partial | 2026-09-08T14:42:58Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
 | souzamarcelo9/sap-contas-apagar-worker | partial | 2026-06-11T22:33:27Z | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
 

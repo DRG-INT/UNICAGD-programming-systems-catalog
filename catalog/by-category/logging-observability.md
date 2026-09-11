@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `547`
+Records: `548`
 
 ## Navigation
 
@@ -18,7 +18,7 @@ Records: `547`
 [Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
 [Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (547)](logging-observability.md)** · [Machine Learning (845)](machine-learning.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (548)](logging-observability.md)** · [Machine Learning (845)](machine-learning.md)
 [Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
@@ -256,6 +256,7 @@ Records: `547`
 | bios2mds | 1.2.4 | 2026-08-21 17:40:08 UTC | [open](../records/r-bios2mds-ccbe3b63.md) |
 | casebase | 0.10.7 | 2026-09-03 17:50:02 UTC | [open](../records/r-casebase-aea74542.md) |
 | corrgram | 1.16 | 2026-09-02 19:40:02 UTC | [open](../records/r-corrgram-e4e8c16a.md) |
+| dataRetrieval | 2.7.26 | 2026-09-11 02:10:02 UTC | [open](../records/r-dataretrieval-6237bbef.md) |
 | dowser | 2.5.1 | 2026-08-20 11:20:10 UTC | [open](../records/r-dowser-d24a07c1.md) |
 | Elja | 1.0.1 | 2026-08-24 19:20:02 UTC | [open](../records/r-elja-f8285cbf.md) |
 | ERBioR | 0.9.0 | 2026-09-09 14:50:26 UTC | [open](../records/r-erbior-330dd8f4.md) |
@@ -356,7 +357,7 @@ Records: `547`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-10T18:28:38Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 

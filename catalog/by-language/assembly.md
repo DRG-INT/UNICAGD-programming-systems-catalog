@@ -18,7 +18,7 @@ Records: `308`
 [Framework (63)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (373)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (447)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (282)](../by-category/interpreter-runtime.md) · [Jit Vm (65)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1464)](../by-category/language-specification.md) · [Library (6025)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (547)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
+[Lint Rule Pack (50)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (845)](../by-category/machine-learning.md)
 [Math Numeric Scientific (94)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1079)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1236)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](../by-category/precommit-ci-quality.md)
 [Profiler (94)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (133)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-10T23:18:05Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-11T02:07:21Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-09T01:04:36Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -328,7 +328,7 @@ Records: `308`
 | [virtualagc/virtualagc](../records/assembly-virtualagc-virtualagc-45e1ca87.md) | partial | 2026-09-08T14:51:38Z | registry-derived |
 | [VitorVilela7/wide-snes](../records/assembly-vitorvilela7-wide-snes-d07bc41e.md) | partial | 2023-07-03T20:54:27Z | registry-derived |
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
-| [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-07T22:30:12Z | registry-derived |
+| [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-11T01:45:58Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
 | [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-10T19:40:07Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-07T12:37:33Z | registry-derived |
