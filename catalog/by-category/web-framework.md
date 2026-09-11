@@ -12,19 +12,19 @@ Records: `495`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
+[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
 
 ## C++23
 
@@ -157,7 +157,7 @@ Records: `495`
 | @allurereport/plugin-server-reload | 3.17.0 | 2026-09-09T12:42:46.354Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
 | @allurereport/static-server | 3.17.0 | 2026-09-09T12:42:57.069Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | 1.13.6 | 2026-05-08T03:59:36.082Z | [open](../records/node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
-| @apify/actors-mcp-server | 0.15.6 | 2026-09-10T08:29:31.154Z | [open](../records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
+| @apify/actors-mcp-server | 0.15.7 | 2026-09-11T11:39:01.733Z | [open](../records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @apollo/server | 5.5.1 | 2026-05-05T16:05:58.885Z | [open](../records/node-js-javascript-apollo-server-46e17e33.md) |
 | @apollo/server-gateway-interface | 2.0.0 | 2025-07-17T16:58:17.056Z | [open](../records/node-js-javascript-apollo-server-gateway-interface-242837fc.md) |
 | @apollo/server-plugin-response-cache | 5.0.0 | 2025-07-17T16:58:17.695Z | [open](../records/node-js-javascript-apollo-server-plugin-response-cache-af5e58f9.md) |
@@ -249,7 +249,7 @@ Records: `495`
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
 | @umijs/server | 4.7.17 | 2026-09-11T08:03:03.325Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
-| @upstash/context7-mcp | 4.0.7 | 2026-09-09T14:03:21.539Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
+| @upstash/context7-mcp | 4.1.0 | 2026-09-11T10:51:11.002Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/android-server | 2.2.0 | 2026-08-03T13:16:02.753Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
@@ -602,7 +602,7 @@ Records: `495`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdrienTorris/awesome-blazor | partial | 2026-09-03T07:36:15Z | [open](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) |
+| AdrienTorris/awesome-blazor | partial | 2026-09-11T07:43:21Z | [open](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) |
 | ant-design-blazor/ant-design-blazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-15cc0a46.md) |
 | Olin - WebAssembly on the server | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-olin-webassembly-on-the-server-4133420f.md) |
 | PeterHuZQ/EOS-Dapp | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-peterhuzq-eos-dapp-4e03fdd8.md) |

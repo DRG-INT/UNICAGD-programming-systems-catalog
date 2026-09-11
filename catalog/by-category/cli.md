@@ -12,19 +12,19 @@ Records: `595`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · **[Cli (595)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -248,7 +248,7 @@ Records: `595`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @accio-ai/cli | 0.1.56 | 2026-09-02T10:04:23.544Z | [open](../records/node-js-javascript-accio-ai-cli-98437ac9.md) |
-| @alwaysmeticulous/cli | 2.337.1 | 2026-09-08T09:50:30.105Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
+| @alwaysmeticulous/cli | 2.340.0 | 2026-09-11T10:42:33.491Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
 | @amplitude/ampli | 1.36.6 | 2026-07-10T19:21:05.428Z | [open](../records/node-js-javascript-amplitude-ampli-69d1d68a.md) |
 | @angular-devkit/schematics-cli | 22.1.8 | 2026-09-10T15:08:55.473Z | [open](../records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
 | @angular/cli | 22.1.8 | 2026-09-10T15:07:20.042Z | [open](../records/node-js-javascript-angular-cli-8e368136.md) |
@@ -290,7 +290,7 @@ Records: `595`
 | @devcycle/cli | 6.3.2 | 2026-04-28T19:32:47.623Z | [open](../records/node-js-javascript-devcycle-cli-ece13be6.md) |
 | @devvit/cli | 0.14.3 | 2026-09-08T19:03:13.422Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
 | @env0/cli | 1.0.25 | 2026-04-20T08:58:03.712Z | [open](../records/node-js-javascript-env0-cli-f8ec1602.md) |
-| @expo/cli | 57.0.23 | 2026-09-08T13:48:15.261Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
+| @expo/cli | 57.0.24 | 2026-09-11T11:32:24.741Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
 | @expo/image-utils | 0.11.5 | 2026-08-24T07:53:15.617Z | [open](../records/node-js-javascript-expo-image-utils-6fd48f78.md) |
 | @fallow-cli/linux-x64-gnu | 3.25.0 | 2026-09-11T08:34:05.594Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-gnu-c24edc1b.md) |
 | @fallow-cli/linux-x64-musl | 3.25.0 | 2026-09-11T08:35:56.264Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
@@ -312,7 +312,7 @@ Records: `595`
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @jscad/cli | 2.3.8 | 2026-02-22T00:37:56.918Z | [open](../records/node-js-javascript-jscad-cli-3e9c3318.md) |
 | @knocklabs/cli | 1.3.0 | 2026-09-08T20:53:10.588Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.196.1 | 2026-09-11T10:15:00.775Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.198.1 | 2026-09-11T12:17:57.856Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.1 | 2026-09-06T00:35:32.795Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
@@ -540,17 +540,17 @@ Records: `595`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-09T00:07:22Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| JanDeDobbeleer/oh-my-posh | partial | 2026-09-11T11:43:53Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-11T00:21:18Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-11T11:19:52Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-11T12:08:36Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-11T11:05:11Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-11T12:26:06Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 

@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `666`
+Records: `667`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `666`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (666)](static-analyzer.md)**
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (667)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -176,6 +176,7 @@ Records: `666`
 | boa | 1.1.9 | 2026-08-27 13:10:08 UTC | [open](../records/r-boa-9975165f.md) |
 | bsitar | 0.4.0 | 2026-08-28 15:40:08 UTC | [open](../records/r-bsitar-395aff6c.md) |
 | BUSfinancial | 0.1.0 | 2026-09-03 13:20:02 UTC | [open](../records/r-busfinancial-657c5f95.md) |
+| cABCanalysis | 1.0.2 | 2026-09-11 10:40:02 UTC | [open](../records/r-cabcanalysis-ce0253f1.md) |
 | cards | 0.9.0 | 2026-08-21 13:40:18 UTC | [open](../records/r-cards-ddd94f46.md) |
 | catfda | 0.1.0 | 2026-09-08 11:50:09 UTC | [open](../records/r-catfda-48ce7503.md) |
 | ccda | 1.2 | 2026-09-09 14:10:19 UTC | [open](../records/r-ccda-cf81dadc.md) |
@@ -901,8 +902,8 @@ Records: `666`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-11T09:53:09.660Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-11T09:26:01.841Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-11T10:57:46.605Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-11T12:26:20.317Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-08-27T18:19:28.289Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-10T08:06:27.211Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

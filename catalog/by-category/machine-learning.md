@@ -12,19 +12,19 @@ Records: `853`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · **[Machine Learning (853)](machine-learning.md)**
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -319,7 +319,7 @@ Records: `853`
 | grangers | 0.1.1 | 2026-08-04 14:20:09 UTC | [open](../records/r-grangers-d6500269.md) |
 | HaploVar | 0.1.2 | 2026-09-07 06:40:36 UTC | [open](../records/r-haplovar-1186ff85.md) |
 | healthyR.ai | 0.1.2 | 2026-08-21 14:40:33 UTC | [open](../records/r-healthyr-ai-f4a6cb94.md) |
-| htmlreportR | 1.0.0 | 2024-08-19 08:20:06 UTC | [open](../records/r-htmlreportr-7b1fcac8.md) |
+| htmlreportR | 2.0.1 | 2026-09-11 10:20:02 UTC | [open](../records/r-htmlreportr-7b1fcac8.md) |
 | ic.infer | 1.1-8 | 2026-08-21 11:20:02 UTC | [open](../records/r-ic-infer-85eea075.md) |
 | icarm | 0.3.0 | 2026-08-21 05:42:36 UTC | [open](../records/r-icarm-5e012f17.md) |
 | IGPFrailty | 0.1.0 | 2026-08-25 05:21:06 UTC | [open](../records/r-igpfrailty-34b7cd8d.md) |
@@ -519,11 +519,11 @@ Records: `853`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-11T06:22:58Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-11T11:12:14Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-11T12:27:22Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-11T10:16:18Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-10T21:09:36Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-11T11:00:16Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-11T12:18:55Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T06:08:34Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -533,8 +533,8 @@ Records: `853`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-11T11:18:45Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
-| VectifyAI/PageIndex | partial | 2026-09-11T10:45:30Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
+| unslothai/unsloth | partial | 2026-09-11T12:17:30Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| VectifyAI/PageIndex | partial | 2026-09-11T12:21:46Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-06T21:24:33Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
 ## Computer Graphics Software
@@ -1039,7 +1039,7 @@ Records: `853`
 | newtork/dsag-ai-sdk-java | partial | 2025-03-28T19:33:43Z | [open](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) |
 | Pallavireddy23/ai-document-process-cap-java | partial | 2026-01-02T12:40:28Z | [open](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) |
 | phannindra-dev/portfolio | partial | 2026-04-24T20:53:58Z | [open](../records/sapjava-phannindra-dev-portfolio-beda514a.md) |
-| SAP/SapMachine | partial | 2026-09-11T01:09:58Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
+| SAP/SapMachine | partial | 2026-09-11T12:03:46Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
 | sharan-space1/asint_chat_llama | partial | 2024-07-06T02:04:32Z | [open](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) |
 | sree26365-dev/sap-abap-hana-learning | partial | 2026-06-20T08:10:18Z | [open](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) |
 | zkud/sap-cap-java-advanced-dev-containers-sample | partial | 2025-03-20T18:38:12Z | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |

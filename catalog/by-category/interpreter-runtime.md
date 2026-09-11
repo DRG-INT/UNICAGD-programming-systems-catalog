@@ -12,19 +12,19 @@ Records: `288`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · **[Interpreter Runtime (288)](interpreter-runtime.md)** · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -178,7 +178,7 @@ Records: `288`
 | built_value | 8.13.0 | 2026-09-02T07:26:58.797202Z | [open](../records/dart-built-value-97fbb3d3.md) |
 | dart_frog | 1.2.6 | 2025-11-03T16:55:50.938426Z | [open](../records/dart-dart-frog-5b77c559.md) |
 | jnigen | 1.0.0 | 2026-09-03T23:03:08.366814Z | [open](../records/dart-jnigen-8e59680d.md) |
-| protobuf | 6.0.0 | 2025-11-26T08:39:08.082637Z | [open](../records/dart-protobuf-7bdc6c86.md) |
+| protobuf | 6.1.0 | 2026-09-11T11:58:15.235407Z | [open](../records/dart-protobuf-7bdc6c86.md) |
 | screenshot | 3.0.0 | 2024-05-14T11:36:00.674625Z | [open](../records/dart-screenshot-1783622b.md) |
 | sembast | 3.8.10 | 2026-09-10T15:32:17.330185Z | [open](../records/dart-sembast-fa8ed2b5.md) |
 | sentry | 9.30.0 | 2026-09-10T16:04:39.565069Z | [open](../records/dart-sentry-27c4653e.md) |
@@ -449,7 +449,7 @@ Records: `288`
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-10T23:31:49Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
 | wasm3/wasm3 | partial | 2026-09-10T19:48:43Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-11T06:28:31Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-11T10:24:53Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmerio/wasmer-go | partial | 2025-02-01T18:39:34Z | [open](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |
 | wasmerio/wasmer-python | partial | 2023-09-17T14:48:07Z | [open](../records/webassembly-wasmerio-wasmer-python-5f08abff.md) |

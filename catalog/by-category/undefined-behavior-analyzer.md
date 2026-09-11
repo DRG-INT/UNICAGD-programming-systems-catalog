@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1658`
+Records: `1659`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `1658`
 [Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
+[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6057)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6060)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (550)](logging-observability.md) · [Machine Learning (853)](machine-learning.md)
 [Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (641)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-**[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+**[Undefined Behavior Analyzer (1659)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -1641,7 +1641,8 @@ Records: `1658`
 | datahub-project/datahub | partial | 2026-09-11T05:55:46Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-11T02:13:09Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| fossaryhq/catalog | partial | 2026-09-11T09:45:26Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-11T10:23:23Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-09-07T08:05:43Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-10T09:44:57Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
 | llnl/llnl.github.io | partial | 2026-09-10T16:10:00Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
@@ -1679,7 +1680,7 @@ Records: `1658`
 | NathanGeerinck/laravel-newsletter | partial | 2018-09-26T13:41:42Z | [open](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | openjournals/joss | unknown | github_search_does_not_include_release_date | [open](../records/magazines-openjournals-joss-843100bc.md) |
-| openlibhums/janeway | partial | 2026-09-08T10:26:15Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
+| openlibhums/janeway | partial | 2026-09-11T11:52:47Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
 | petterh/range-slider | partial | 2016-02-01T16:19:29Z | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
 | rubin55/gdm-examples | partial | 2018-11-10T20:28:04Z | [open](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | rust-gamedev/rust-gamedev.github.io | partial | 2025-08-28T14:43:46Z | [open](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
@@ -1699,7 +1700,7 @@ Records: `1658`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-10T10:37:12Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-11T07:39:14Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
@@ -1897,7 +1898,7 @@ Records: `1658`
 | gitlab-org/caproni | partial | 2026-09-11T09:42:01.571Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-11T09:29:36.124Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-11T11:00:47.526Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1922,4 +1923,4 @@ Records: `1658`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-11T09:57:31.298Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-11T11:49:15.038Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

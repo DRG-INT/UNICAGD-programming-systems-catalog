@@ -8,19 +8,19 @@
 [Benchmarking (209)](by-category/benchmarking.md) · [Build System (1040)](by-category/build-system.md) · [Cli (595)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](by-category/community-reference.md) · [Compiler (177)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (140)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (252)](by-category/datetime.md)
+[Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1699)](by-category/filesystem-os.md) · [Formatter (665)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (375)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1701)](by-category/filesystem-os.md) · [Formatter (666)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (376)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (288)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6057)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6060)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (550)](by-category/logging-observability.md) · [Machine Learning (853)](by-category/machine-learning.md)
 [Math Numeric Scientific (96)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1085)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (666)](by-category/static-analyzer.md)
+[Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (667)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (641)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1658)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1659)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1197,6 +1197,7 @@
 | `cran_packages_by_date-322d4beacf9c56` | cataScience | [open](records/r-catascience-c8c9bef6.md) |
 | `cran_packages_by_date-323dce6387a077` | MChtest | [open](records/r-mchtest-abd26776.md) |
 | `cran_packages_by_date-3241615f608fcd` | douconca | [open](records/r-douconca-ffb3f3af.md) |
+| `cran_packages_by_date-326aeb4ced0f7a` | danlex | [open](records/r-danlex-f8075393.md) |
 | `cran_packages_by_date-326b2c4a945e2e` | mvrsquared | [open](records/r-mvrsquared-a768913b.md) |
 | `cran_packages_by_date-32717f070ea9f6` | ons | [open](records/r-ons-a872c320.md) |
 | `cran_packages_by_date-328b8153886626` | gfunctions | [open](records/r-gfunctions-501fc07a.md) |
@@ -1876,6 +1877,7 @@
 | `cran_packages_by_date-872dc47db4d4f5` | rpivotTable | [open](records/r-rpivottable-515f899a.md) |
 | `cran_packages_by_date-873b8700909eb3` | RobustLPA | [open](records/r-robustlpa-67ed512d.md) |
 | `cran_packages_by_date-873fd27935f3fd` | rtpcr | [open](records/r-rtpcr-9ae72338.md) |
+| `cran_packages_by_date-8747459190b75d` | simplermarkdown | [open](records/r-simplermarkdown-0754946e.md) |
 | `cran_packages_by_date-87537960fbe62c` | RESI | [open](records/r-resi-c14c374d.md) |
 | `cran_packages_by_date-87538ebc49a5e2` | fuzzySim | [open](records/r-fuzzysim-537e1430.md) |
 | `cran_packages_by_date-877091ccce7ed6` | cfbfastR | [open](records/r-cfbfastr-43d0f654.md) |
@@ -2228,6 +2230,7 @@
 | `cran_packages_by_date-b4ca765cd984fe` | Directional | [open](records/r-directional-45bf5156.md) |
 | `cran_packages_by_date-b4d521975460ce` | SporeLag | [open](records/r-sporelag-74c50e27.md) |
 | `cran_packages_by_date-b4d94cf35c5097` | ksformat | [open](records/r-ksformat-b6803455.md) |
+| `cran_packages_by_date-b5062e5224d342` | cABCanalysis | [open](records/r-cabcanalysis-ce0253f1.md) |
 | `cran_packages_by_date-b5be8cbb11e68d` | PEAXAI | [open](records/r-peaxai-69079a84.md) |
 | `cran_packages_by_date-b5db3550b44530` | Rmalschains | [open](records/r-rmalschains-568d821e.md) |
 | `cran_packages_by_date-b60e308fe0dcb9` | cpge | [open](records/r-cpge-2d2eddf7.md) |
@@ -2398,6 +2401,7 @@
 | `cran_packages_by_date-cd84a8368ed331` | dataSDA | [open](records/r-datasda-3cbeee9e.md) |
 | `cran_packages_by_date-cdbaad922d2789` | RIFanalysis | [open](records/r-rifanalysis-8f1ffcb3.md) |
 | `cran_packages_by_date-cdd8470f7d8b60` | tmdbR | [open](records/r-tmdbr-0ee79e2b.md) |
+| `cran_packages_by_date-cde439d8b3cc73` | c3dr | [open](records/r-c3dr-89abb472.md) |
 | `cran_packages_by_date-ce06effb70dfb8` | bain | [open](records/r-bain-318aac57.md) |
 | `cran_packages_by_date-ce0ba6d22c413a` | IVDML | [open](records/r-ivdml-adb8ec84.md) |
 | `cran_packages_by_date-ce1a0c2383fd7c` | PubMatrixR | [open](records/r-pubmatrixr-7a077552.md) |
@@ -2640,8 +2644,10 @@
 | `cran_packages_by_date-eb8f6940e631c5` | rcontroll | [open](records/r-rcontroll-3db49076.md) |
 | `cran_packages_by_date-eb935835c8d295` | pxweb | [open](records/r-pxweb-b6548dad.md) |
 | `cran_packages_by_date-eb9c2eac6a6b83` | lrstat | [open](records/r-lrstat-d346572b.md) |
+| `cran_packages_by_date-eb9e23428b8d86` | eidosapi | [open](records/r-eidosapi-38f266ef.md) |
 | `cran_packages_by_date-ebcac61aa2d50b` | syrona | [open](records/r-syrona-bc749954.md) |
 | `cran_packages_by_date-eca33821d3a8c2` | contactsurveys | [open](records/r-contactsurveys-358899f8.md) |
+| `cran_packages_by_date-ecaaa3ca5a4a03` | segmented | [open](records/r-segmented-a7216d83.md) |
 | `cran_packages_by_date-ecb055bdf91187` | ggResidpanel | [open](records/r-ggresidpanel-6d20fe4a.md) |
 | `cran_packages_by_date-ed2d347250e8ed` | LUCIDus | [open](records/r-lucidus-62988eed.md) |
 | `cran_packages_by_date-ed3ac1a88f0d19` | CNVScope | [open](records/r-cnvscope-228dc8ec.md) |
@@ -2722,6 +2728,7 @@
 | `cran_packages_by_date-f50b75976e508e` | mclink | [open](records/r-mclink-373687ae.md) |
 | `cran_packages_by_date-f5146120d874f9` | minirocketR | [open](records/r-minirocketr-9e056b43.md) |
 | `cran_packages_by_date-f52d50f8a86d0b` | nlmixr2 | [open](records/r-nlmixr2-adfec204.md) |
+| `cran_packages_by_date-f53f2abd762d77` | validateR | [open](records/r-validater-18c176cf.md) |
 | `cran_packages_by_date-f579503e10310c` | ENMeval | [open](records/r-enmeval-fa5fc684.md) |
 | `cran_packages_by_date-f58bfaed438a01` | DEoptimR | [open](records/r-deoptimr-fe7549d5.md) |
 | `cran_packages_by_date-f5aa440edce7f9` | gofPHCS | [open](records/r-gofphcs-cf013f64.md) |
@@ -2776,6 +2783,7 @@
 | `cran_packages_by_date-fc6e887a083dd1` | ivdtools | [open](records/r-ivdtools-4bc3751f.md) |
 | `cran_packages_by_date-fc8fa50c518751` | mixtime | [open](records/r-mixtime-a2ca6fa3.md) |
 | `cran_packages_by_date-fca0e5872e214d` | hierNet | [open](records/r-hiernet-d3f5ab45.md) |
+| `cran_packages_by_date-fca885d911d20d` | pedFamilias | [open](records/r-pedfamilias-a872d9a4.md) |
 | `cran_packages_by_date-fccc07f7488fbb` | themescopeR | [open](records/r-themescoper-eedc4e53.md) |
 | `cran_packages_by_date-fcdb8278594858` | RFmstate | [open](records/r-rfmstate-1bc5b660.md) |
 | `cran_packages_by_date-fcdddb71927d36` | BKVerify | [open](records/r-bkverify-2e517280.md) |
@@ -7053,6 +7061,7 @@
 | `github_search_catalogs-02cf7614ef3c2a` | hellzerg/optimizerNXT | [open](records/catalogs-hellzerg-optimizernxt-1c59a09c.md) |
 | `github_search_catalogs-03049a6ab44ea6` | agentclientprotocol/registry | [open](records/catalogs-agentclientprotocol-registry-7431edbd.md) |
 | `github_search_catalogs-033724997c906a` | skilld-dev/skilld | [open](records/catalogs-skilld-dev-skilld-f86e137d.md) |
+| `github_search_catalogs-03ee84ef88b7ad` | fossaryhq/catalog | [open](records/catalogs-fossaryhq-catalog-c3ae2133.md) |
 | `github_search_catalogs-05c2728c1e90d3` | liumingmusic/react-native-full-example | [open](records/catalogs-liumingmusic-react-native-full-example-c2ed4270.md) |
 | `github_search_catalogs-0623e490fec58b` | apache/gravitino | [open](records/catalogs-apache-gravitino-f9021fca.md) |
 | `github_search_catalogs-07e529f219aaee` | cloudflare/serverless-registry | [open](records/catalogs-cloudflare-serverless-registry-7e15c0d4.md) |
@@ -18015,7 +18024,6 @@
 | `hackage_recent-02ddd1d9509596` | fuyu-gpio-direct | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
 | `hackage_recent-06875ef13f88c3` | copilot-interpreter | [open](records/haskell-copilot-interpreter-ce6cf1ea.md) |
 | `hackage_recent-08efc48cf33993` | baikai | [open](records/haskell-baikai-a604f283.md) |
-| `hackage_recent-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
 | `hackage_recent-1004c3738efce0` | copilot-verifier | [open](records/haskell-copilot-verifier-14ea6c5e.md) |
 | `hackage_recent-1197835ee1801b` | sectile | [open](records/haskell-sectile-00259ea8.md) |
@@ -18032,6 +18040,7 @@
 | `hackage_recent-1f69dbd7dfac1e` | secretspec | [open](records/haskell-secretspec-dd9d987d.md) |
 | `hackage_recent-1ff7b0c59c3981` | bugsnag-yesod | [open](records/haskell-bugsnag-yesod-b94b89ea.md) |
 | `hackage_recent-207f02f36f7529` | hhp | [open](records/haskell-hhp-f30f7714.md) |
+| `hackage_recent-27661bfd61e3a2` | bluefin-random | [open](records/haskell-bluefin-random-129c4b61.md) |
 | `hackage_recent-28da5347c95bd3` | cryptol | [open](records/haskell-cryptol-f32fd08e.md) |
 | `hackage_recent-292f708a0cbc6c` | seihou-core | [open](records/haskell-seihou-core-e40f5cc9.md) |
 | `hackage_recent-2c80f696145345` | kioku-core | [open](records/haskell-kioku-core-38935c2c.md) |
@@ -18076,7 +18085,6 @@
 | `hackage_recent-6d6804f387a552` | shikumi-cache | [open](records/haskell-shikumi-cache-b542d89a.md) |
 | `hackage_recent-6d7aceee949008` | baikai-agent | [open](records/haskell-baikai-agent-51cdfaa3.md) |
 | `hackage_recent-6d9e1206b95312` | effectful-core | [open](records/haskell-effectful-core-7289fcb1.md) |
-| `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_recent-70643b614e9981` | thread-utils-context | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | `hackage_recent-70822653d85203` | cabal-add | [open](records/haskell-cabal-add-666244f2.md) |
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
@@ -18113,6 +18121,7 @@
 | `hackage_recent-ac4a69efbf5c4c` | warp-s2n-tls | [open](records/haskell-warp-s2n-tls-077e8c67.md) |
 | `hackage_recent-acacdf29b1acc2` | shikumi-tools | [open](records/haskell-shikumi-tools-b32cbff9.md) |
 | `hackage_recent-adb71b5b82b688` | keiro-ops | [open](records/haskell-keiro-ops-66c89cb6.md) |
+| `hackage_recent-ae10114e37a4f7` | bluefin-internal | [open](records/haskell-bluefin-internal-be13a89f.md) |
 | `hackage_recent-aff683b7cc08d1` | PenroseKiteDart | [open](records/haskell-penrosekitedart-fee1bf50.md) |
 | `hackage_recent-b0a2156f477e6d` | bugsnag-wai | [open](records/haskell-bugsnag-wai-3c1467be.md) |
 | `hackage_recent-b26c11f9336870` | futhark-manifest | [open](records/haskell-futhark-manifest-93681739.md) |
@@ -18142,6 +18151,7 @@
 | `hackage_recent-dffafcd891d797` | keel-abi | [open](records/haskell-keel-abi-d416a882.md) |
 | `hackage_recent-e16b07423abf5c` | datastar-hs | [open](records/haskell-datastar-hs-04e237be.md) |
 | `hackage_recent-e607038ff784fc` | tricorder | [open](records/haskell-tricorder-354456ad.md) |
+| `hackage_recent-e96fef15488e1e` | bluefin | [open](records/haskell-bluefin-ca9dd322.md) |
 | `hackage_recent-f3b71fb2557cf8` | redis-glob | [open](records/haskell-redis-glob-c0be12d6.md) |
 | `hackage_recent-f45b0d7f060783` | pgmq-effectful | [open](records/haskell-pgmq-effectful-762abfb0.md) |
 | `hackage_recent-f4cb020830b71d` | copilot-visualizer | [open](records/haskell-copilot-visualizer-6c40b195.md) |
@@ -18200,6 +18210,7 @@
 | `hackage_top_downloads-08b0299d556775` | Unique | [open](records/haskell-unique-ea505c30.md) |
 | `hackage_top_downloads-08c7458040fc29` | hw-prim | [open](records/haskell-hw-prim-469f0960.md) |
 | `hackage_top_downloads-08e8b635c4a6fa` | base-prelude | [open](records/haskell-base-prelude-683a3f63.md) |
+| `hackage_top_downloads-093cf7e166c197` | phino | [open](records/haskell-phino-0ffa79f2.md) |
 | `hackage_top_downloads-0944a70fa96b1b` | fasta | [open](records/haskell-fasta-01ab7c49.md) |
 | `hackage_top_downloads-0972cfb82a918e` | not-gloss | [open](records/haskell-not-gloss-7665a3d6.md) |
 | `hackage_top_downloads-0997b911467b73` | network-uri | [open](records/haskell-network-uri-ef1bd1e0.md) |
@@ -18790,6 +18801,7 @@
 | `hackage_top_downloads-6f2f7a2b4f34fd` | hakyll-images | [open](records/haskell-hakyll-images-f64f99bf.md) |
 | `hackage_top_downloads-6f600b423be81c` | yesod-markdown | [open](records/haskell-yesod-markdown-8c3c7de7.md) |
 | `hackage_top_downloads-6f6778566cb5e3` | epub-tools | [open](records/haskell-epub-tools-fa26ba0a.md) |
+| `hackage_top_downloads-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_top_downloads-6fb011a4d833da` | butcher | [open](records/haskell-butcher-ceb9004a.md) |
 | `hackage_top_downloads-6ff04c51ced4ef` | groundhog-th | [open](records/haskell-groundhog-th-95ce5f1b.md) |
 | `hackage_top_downloads-7022895753a5a7` | phoityne-vscode | [open](records/haskell-phoityne-vscode-7dec1bd7.md) |
@@ -19188,7 +19200,6 @@
 | `hackage_top_downloads-addf0c8f72c915` | jsaddle-wkwebview | [open](records/haskell-jsaddle-wkwebview-a3e5208b.md) |
 | `hackage_top_downloads-adfddf3ef129d5` | twitter-conduit | [open](records/haskell-twitter-conduit-fffb2d48.md) |
 | `hackage_top_downloads-adff47a27e0936` | ipython-kernel | [open](records/haskell-ipython-kernel-ff5dc0de.md) |
-| `hackage_top_downloads-ae10114e37a4f7` | bluefin-internal | [open](records/haskell-bluefin-internal-be13a89f.md) |
 | `hackage_top_downloads-ae453a41c97f58` | HsHTSLib | [open](records/haskell-hshtslib-cf41c678.md) |
 | `hackage_top_downloads-ae4f7392941ec7` | slack-web | [open](records/haskell-slack-web-8cfb2dde.md) |
 | `hackage_top_downloads-ae7ba350b02cc3` | debian-build | [open](records/haskell-debian-build-4cad6065.md) |
@@ -19542,7 +19553,6 @@
 | `hackage_top_downloads-e8e4b7d20248cd` | rest-core | [open](records/haskell-rest-core-a6339c70.md) |
 | `hackage_top_downloads-e8ebcda22455f4` | genvalidity | [open](records/haskell-genvalidity-bfbd8df6.md) |
 | `hackage_top_downloads-e94b88096271ee` | ihaskell-hvega | [open](records/haskell-ihaskell-hvega-f9d2bf54.md) |
-| `hackage_top_downloads-e96fef15488e1e` | bluefin | [open](records/haskell-bluefin-ca9dd322.md) |
 | `hackage_top_downloads-e99035925dadc3` | serialport | [open](records/haskell-serialport-c2e6214a.md) |
 | `hackage_top_downloads-e993fefc8cd39a` | regex-examples | [open](records/haskell-regex-examples-d1ca5d0c.md) |
 | `hackage_top_downloads-e9c1d8223cd51d` | antiope-sqs | [open](records/haskell-antiope-sqs-1c2fe3a2.md) |

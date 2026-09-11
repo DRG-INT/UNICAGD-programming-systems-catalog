@@ -12,19 +12,19 @@ Records: `467`
 [Benchmarking (209)](../by-category/benchmarking.md) · [Build System (1040)](../by-category/build-system.md) · [Cli (595)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](../by-category/community-reference.md) · [Compiler (177)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (140)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (182)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (252)](../by-category/datetime.md)
+[Cryptography (182)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (253)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (666)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6057)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6060)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (550)](../by-category/logging-observability.md) · [Machine Learning (853)](../by-category/machine-learning.md)
 [Math Numeric Scientific (96)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (666)](../by-category/static-analyzer.md)
+[Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (641)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1658)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1659)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -60,17 +60,17 @@ Records: `467`
 | [extism/extism](../records/webassembly-extism-extism-7f80b48c.md) | partial | 2026-09-02T18:02:51Z | registry-derived |
 | [golemcloud/golem](../records/webassembly-golemcloud-golem-14251c66.md) | partial | 2026-09-11T06:20:32Z | registry-derived |
 | [hexops/vecty](../records/webassembly-hexops-vecty-883121fc.md) | partial | 2022-10-16T21:47:38Z | registry-derived |
-| [JetBrains/compose-multiplatform](../records/webassembly-jetbrains-compose-multiplatform-11636c4e.md) | partial | 2026-09-11T03:12:45Z | registry-derived |
+| [JetBrains/compose-multiplatform](../records/webassembly-jetbrains-compose-multiplatform-11636c4e.md) | partial | 2026-09-11T11:45:56Z | registry-derived |
 | [kanaka/mal](../records/webassembly-kanaka-mal-077545d0.md) | partial | 2025-10-22T16:42:57Z | registry-derived |
 | [leptos-rs/leptos](../records/webassembly-leptos-rs-leptos-831793ba.md) | partial | 2026-09-09T13:58:01Z | registry-derived |
 | [mbasso/asm-dom](../records/webassembly-mbasso-asm-dom-e1407840.md) | partial | 2023-03-03T18:16:02Z | registry-derived |
 | [mosra/magnum](../records/webassembly-mosra-magnum-7354176b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [oqtane/oqtane.framework](../records/webassembly-oqtane-oqtane-framework-3c2c720d.md) | partial | 2026-09-10T20:03:45Z | registry-derived |
-| [slint-ui/slint](../records/webassembly-slint-ui-slint-1565f5f8.md) | partial | 2026-09-11T07:07:26Z | registry-derived |
+| [slint-ui/slint](../records/webassembly-slint-ui-slint-1565f5f8.md) | partial | 2026-09-11T12:20:16Z | registry-derived |
 | [spinframework/spin](../records/webassembly-spinframework-spin-bc703583.md) | partial | 2026-09-10T15:52:13Z | registry-derived |
 | [TokamakUI/Tokamak](../records/webassembly-tokamakui-tokamak-0097025f.md) | partial | 2024-03-23T16:00:17Z | registry-derived |
 | [trunk-rs/trunk](../records/webassembly-trunk-rs-trunk-a4abb93b.md) | partial | 2026-09-09T16:04:37Z | registry-derived |
-| [unoplatform/uno](../records/webassembly-unoplatform-uno-0c5b85c2.md) | partial | 2026-09-11T04:35:56Z | registry-derived |
+| [unoplatform/uno](../records/webassembly-unoplatform-uno-0c5b85c2.md) | partial | 2026-09-11T11:52:58Z | registry-derived |
 | [wasmCloud/wasmCloud](../records/webassembly-wasmcloud-wasmcloud-94656d9f.md) | partial | 2026-09-10T20:23:09Z | registry-derived |
 
 ### Cli
@@ -101,7 +101,7 @@ Records: `467`
 | [bytecodealliance/lucet](../records/webassembly-bytecodealliance-lucet-9e0dc166.md) | partial | 2022-03-23T22:18:15Z | registry-derived |
 | [dy/jz](../records/webassembly-dy-jz-fadb9eec.md) | partial | 2026-09-11T03:13:27Z | registry-derived |
 | [Emscripten - LLVM-based project that compiles C and C++](../records/webassembly-emscripten-llvm-based-project-that-compiles-c-and-c-c903d9d1.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [emscripten-core/emscripten](../records/webassembly-emscripten-core-emscripten-919748ea.md) | partial | 2026-09-10T16:00:24Z | registry-derived |
+| [emscripten-core/emscripten](../records/webassembly-emscripten-core-emscripten-919748ea.md) | partial | 2026-09-11T10:43:28Z | registry-derived |
 | [grain-lang/grain](../records/webassembly-grain-lang-grain-612ed58b.md) | partial | 2026-09-10T20:38:45Z | registry-derived |
 | [iden3/circom](../records/webassembly-iden3-circom-ca42a3d1.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ilwasm - CIL to WebAssembly compiler](../records/webassembly-ilwasm-cil-to-webassembly-compiler-59942fe8.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
@@ -114,10 +114,10 @@ Records: `467`
 | [sdiehl/wasm](../records/webassembly-sdiehl-wasm-632e15fb.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [SwadicalRag/wasm2lua](../records/webassembly-swadicalrag-wasm2lua-9438fb13.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [TinyGo - Go for embedded devices and WebAssembly. Creates very small .wasm files.](../records/webassembly-tinygo-go-for-embedded-devices-and-webassembly-creates-very-small-wasm-files-2517e753.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [tinygo-org/tinygo](../records/webassembly-tinygo-org-tinygo-509450fb.md) | partial | 2026-09-10T19:21:40Z | registry-derived |
+| [tinygo-org/tinygo](../records/webassembly-tinygo-org-tinygo-509450fb.md) | partial | 2026-09-11T12:01:47Z | registry-derived |
 | [titzer/wizard-engine](../records/webassembly-titzer-wizard-engine-a95b7825.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [toyobayashi/emnapi](../records/webassembly-toyobayashi-emnapi-9dae3d7d.md) | partial | 2026-09-04T07:50:22Z | registry-derived |
-| [tursodatabase/turso](../records/webassembly-tursodatabase-turso-a563c571.md) | partial | 2026-09-11T05:54:45Z | registry-derived |
+| [tursodatabase/turso](../records/webassembly-tursodatabase-turso-a563c571.md) | partial | 2026-09-11T11:40:14Z | registry-derived |
 | [tyfkda/xcc](../records/webassembly-tyfkda-xcc-1f5eed90.md) | partial | 2026-09-09T01:00:50Z | registry-derived |
 | [wazero/wazero](../records/webassembly-wazero-wazero-d7577722.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [WebAssembly for the GNU Toolchain](../records/webassembly-webassembly-for-the-gnu-toolchain-bcf332d8.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
@@ -208,7 +208,7 @@ Records: `467`
 | [lucasgelfond/exiftool-web](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) | partial | 2026-01-10T18:07:32Z | registry-derived |
 | [mafintosh/blake2b-wasm](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [mbasso/awesome-wasm](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) | partial | 2024-11-15T14:58:04Z | registry-derived |
-| [microsoft/fluentui-blazor](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) | partial | 2026-09-11T07:20:12Z | registry-derived |
+| [microsoft/fluentui-blazor](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) | partial | 2026-09-11T12:09:12Z | registry-derived |
 | [mosra/magnum](../records/webassembly-mosra-magnum-973479c6.md) | partial | 2026-08-23T10:24:48Z | registry-derived |
 | [nihui/opencv-mobile](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) | partial | 2026-07-12T12:55:31Z | registry-derived |
 | [not-fl3/macroquad](../records/webassembly-not-fl3-macroquad-ace3e52a.md) | partial | 2026-08-18T09:37:35Z | registry-derived |
@@ -322,7 +322,7 @@ Records: `467`
 | [wasm-micro-runtime/wasm-micro-runtime](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) | partial | 2026-09-10T23:31:49Z | registry-derived |
 | [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [wasm3/wasm3](../records/webassembly-wasm3-wasm3-d6e345d2.md) | partial | 2026-09-10T19:48:43Z | registry-derived |
-| [WasmEdge/WasmEdge](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) | partial | 2026-09-11T06:28:31Z | registry-derived |
+| [WasmEdge/WasmEdge](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) | partial | 2026-09-11T10:24:53Z | registry-derived |
 | [Wasmer - Standalone JIT WebAssembly Runtime](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [wasmerio/wasmer-go](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) | partial | 2025-02-01T18:39:34Z | registry-derived |
 | [wasmerio/wasmer-python](../records/webassembly-wasmerio-wasmer-python-5f08abff.md) | partial | 2023-09-17T14:48:07Z | registry-derived |
@@ -388,7 +388,7 @@ Records: `467`
 | [Implex-ltd/hcaptcha-reverse](../records/webassembly-implex-ltd-hcaptcha-reverse-64b09389.md) | partial | 2025-09-26T18:48:51Z | registry-derived |
 | [InsightSoftwareConsortium/ITK-Wasm](../records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) | partial | 2026-09-10T02:53:38Z | registry-derived |
 | [iRath96/webNBT](../records/webassembly-irath96-webnbt-35ce95aa.md) | partial | 2022-04-29T17:48:51Z | registry-derived |
-| [JetBrains/kotlin](../records/webassembly-jetbrains-kotlin-df8d54fa.md) | partial | 2026-09-11T07:22:43Z | registry-derived |
+| [JetBrains/kotlin](../records/webassembly-jetbrains-kotlin-df8d54fa.md) | partial | 2026-09-11T12:24:59Z | registry-derived |
 | [jungomi/xxhash-wasm](../records/webassembly-jungomi-xxhash-wasm-49598b2a.md) | partial | 2024-11-19T13:37:31Z | registry-derived |
 | [KhronosGroupArchives/Basis-Universal-Transcoders](../records/webassembly-khronosgrouparchives-basis-universal-transcoders-5be15dfa.md) | partial | 2023-07-17T12:09:33Z | registry-derived |
 | [kign/c4wa](../records/webassembly-kign-c4wa-49154407.md) | partial | 2022-01-29T06:17:26Z | registry-derived |
@@ -489,14 +489,14 @@ Records: `467`
 | [enbop/fungi](../records/webassembly-enbop-fungi-7b479335.md) | partial | 2026-09-06T09:21:06Z | registry-derived |
 | [ffmpegwasm/ffmpeg.wasm](../records/webassembly-ffmpegwasm-ffmpeg-wasm-f15629cd.md) | partial | 2026-02-01T08:35:30Z | registry-derived |
 | [Hanks10100/wasm-examples](../records/webassembly-hanks10100-wasm-examples-da36e03e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [jupyterlite/jupyterlite](../records/webassembly-jupyterlite-jupyterlite-7833185c.md) | partial | 2026-09-10T15:45:37Z | registry-derived |
+| [jupyterlite/jupyterlite](../records/webassembly-jupyterlite-jupyterlite-7833185c.md) | partial | 2026-09-11T10:40:22Z | registry-derived |
 | [Kimundi/greenwasm](../records/webassembly-kimundi-greenwasm-88dc6321.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Kong/ngx_wasm_module](../records/webassembly-kong-ngx-wasm-module-ad00be97.md) | partial | 2026-02-03T21:18:17Z | registry-derived |
 | [Kotlin/kotlin-wasm-examples](../records/webassembly-kotlin-kotlin-wasm-examples-24c10135.md) | partial | 2026-01-14T11:54:22Z | registry-derived |
 | [LingDong-/wasm-fun](../records/webassembly-lingdong-wasm-fun-c02d519e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lldap/lldap](../records/webassembly-lldap-lldap-2dbc8ad4.md) | partial | 2026-08-28T21:38:48Z | registry-derived |
 | [mbebenita/WasmExplorer](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [meshery/meshery](../records/webassembly-meshery-meshery-19a90056.md) | partial | 2026-09-11T00:44:35Z | registry-derived |
+| [meshery/meshery](../records/webassembly-meshery-meshery-19a90056.md) | partial | 2026-09-11T12:18:43Z | registry-derived |
 | [nebulet/nebulet](../records/webassembly-nebulet-nebulet-31ed69e9.md) | partial | 2023-02-28T21:27:36Z | registry-derived |
 | [rstropek/rust-samples](../records/webassembly-rstropek-rust-samples-7a66305a.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [rust-windowing/winit](../records/webassembly-rust-windowing-winit-3721948f.md) | partial | 2026-09-07T10:12:40Z | registry-derived |
@@ -598,13 +598,13 @@ Records: `467`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AdrienTorris/awesome-blazor](../records/webassembly-adrientorris-awesome-blazor-baae6774.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [Automattic/harper](../records/webassembly-automattic-harper-ac075554.md) | partial | 2026-09-10T20:46:17Z | registry-derived |
+| [Automattic/harper](../records/webassembly-automattic-harper-ac075554.md) | partial | 2026-09-11T10:59:53Z | registry-derived |
 | [drbh/wasm-fingerprint](../records/webassembly-drbh-wasm-fingerprint-2d024b12.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [esimov/pigo](../records/webassembly-esimov-pigo-47c4c3e9.md) | partial | 2025-05-03T15:07:42Z | registry-derived |
 | [jameslittle230/stork](../records/webassembly-jameslittle230-stork-1024e297.md) | partial | 2023-07-01T14:15:45Z | registry-derived |
 | [satabin/swam](../records/webassembly-satabin-swam-0cad2eae.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [unum-cloud/USearch](../records/webassembly-unum-cloud-usearch-c7ae11cc.md) | partial | 2026-08-31T22:47:21Z | registry-derived |
-| [wasmerio/wasmer](../records/webassembly-wasmerio-wasmer-6c9ffa90.md) | partial | 2026-09-10T19:26:00Z | registry-derived |
+| [wasmerio/wasmer](../records/webassembly-wasmerio-wasmer-6c9ffa90.md) | partial | 2026-09-11T08:48:35Z | registry-derived |
 
 ### Precommit Ci Quality
 
@@ -702,7 +702,7 @@ Records: `467`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ant-design-blazor/ant-design-blazor](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) | partial | 2026-09-09T07:23:57Z | registry-derived |
-| [dotnetcore/BootstrapBlazor](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) | partial | 2026-09-11T06:51:32Z | registry-derived |
+| [dotnetcore/BootstrapBlazor](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) | partial | 2026-09-11T11:06:59Z | registry-derived |
 | [emilk/egui](../records/webassembly-emilk-egui-edf7b99e.md) | partial | 2026-09-10T15:38:06Z | registry-derived |
 | [langhuihui/jessibuca](../records/webassembly-langhuihui-jessibuca-ca741e72.md) | partial | 2026-09-09T01:52:46Z | registry-derived |
 | [tinysearch/tinysearch](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) | partial | 2026-08-15T16:16:50Z | registry-derived |
@@ -715,7 +715,7 @@ Records: `467`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AdrienTorris/awesome-blazor](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) | partial | 2026-09-03T07:36:15Z | registry-derived |
+| [AdrienTorris/awesome-blazor](../records/webassembly-adrientorris-awesome-blazor-c2dd8cea.md) | partial | 2026-09-11T07:43:21Z | registry-derived |
 | [ant-design-blazor/ant-design-blazor](../records/webassembly-ant-design-blazor-ant-design-blazor-15cc0a46.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Olin - WebAssembly on the server](../records/webassembly-olin-webassembly-on-the-server-4133420f.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [PeterHuZQ/EOS-Dapp](../records/webassembly-peterhuzq-eos-dapp-4e03fdd8.md) | unknown | github_search_does_not_include_release_date | registry-derived |
