@@ -76,7 +76,7 @@ Records: `311`
 | --- | --- | --- | --- |
 | [AmmarAbouZor/tui-journal](../records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) | partial | 2026-09-06T10:33:11Z | registry-derived |
 | [BohdanPetryshyn/formzero](../records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) | partial | 2026-04-26T06:56:02Z | registry-derived |
-| [DouglasdeMoura/chroncal](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) | partial | 2026-09-09T19:32:04Z | registry-derived |
+| [DouglasdeMoura/chroncal](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) | partial | 2026-09-11T14:45:42Z | registry-derived |
 | [jrnl-org/jrnl](../records/magazines-jrnl-org-jrnl-c7f0a1c9.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [schollz/gojot](../records/magazines-schollz-gojot-d3f97729.md) | partial | 2019-01-08T15:26:31Z | registry-derived |
 
@@ -113,13 +113,13 @@ Records: `311`
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
-| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T11:09:49Z | registry-derived |
+| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-11T16:28:50Z | registry-derived |
 
 ### Data Science
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-10T23:42:06Z | registry-derived |
+| [GeneBO98/tradetally](../records/magazines-genebo98-tradetally-aee8dd9b.md) | partial | 2026-09-11T14:58:04Z | registry-derived |
 
 ### Database Datastore
 
@@ -535,6 +535,6 @@ Records: `311`
 | --- | --- | --- | --- |
 | [arneb/django-campaign](../records/magazines-arneb-django-campaign-acca3d0d.md) | partial | 2023-11-05T07:55:01Z | registry-derived |
 | [benji6/moodtracker](../records/magazines-benji6-moodtracker-844d4a49.md) | partial | 2026-09-09T16:26:35Z | registry-derived |
-| [DenserMeerkat/June](../records/magazines-densermeerkat-june-9f006367.md) | partial | 2026-09-06T17:24:29Z | registry-derived |
+| [DenserMeerkat/June](../records/magazines-densermeerkat-june-9f006367.md) | partial | 2026-09-11T16:23:52Z | registry-derived |
 | [russmiles/life-preserver-introductory-article-developer-magazine](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) | partial | 2013-10-16T14:30:28Z | registry-derived |
 | [sergeyyarkov/digital-store](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) | unknown | github_search_does_not_include_release_date | registry-derived |

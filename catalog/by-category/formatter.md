@@ -547,7 +547,7 @@ Records: `667`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T16:21:22Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T17:20:00Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -887,7 +887,7 @@ Records: `667`
 | anoop-pande-23/Supplier-information-portal | partial | 2025-12-23T11:02:58Z | [open](../records/sapjava-anoop-pande-23-supplier-information-portal-25d0a6a5.md) |
 | santhosh0000000/ETL_SAP-HDFS | partial | 2023-08-06T09:42:48Z | [open](../records/sapjava-santhosh0000000-etl-sap-hdfs-63dea297.md) |
 | santhosh0000000/ETL_sap_hive | partial | 2023-09-09T13:45:15Z | [open](../records/sapjava-santhosh0000000-etl-sap-hive-d456012e.md) |
-| SAP/jfrevents | partial | 2026-09-11T10:33:06Z | [open](../records/sapjava-sap-jfrevents-92736fde.md) |
+| SAP/jfrevents | partial | 2026-09-11T12:32:51Z | [open](../records/sapjava-sap-jfrevents-92736fde.md) |
 
 ## Swift
 

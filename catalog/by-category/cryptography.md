@@ -302,7 +302,7 @@ Records: `182`
 | hashirshoaeb/star_book | partial | 2025-05-29T09:00:13Z | [open](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) |
 | jendrikseipp/rednotebook | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
 | lunatask/lunatask | partial | 2026-06-10T21:01:27Z | [open](../records/magazines-lunatask-lunatask-2f6be720.md) |
-| memrynote/memry | partial | 2026-09-11T11:09:49Z | [open](../records/magazines-memrynote-memry-3848d952.md) |
+| memrynote/memry | partial | 2026-09-11T16:28:50Z | [open](../records/magazines-memrynote-memry-3848d952.md) |
 
 ## Assembly
 

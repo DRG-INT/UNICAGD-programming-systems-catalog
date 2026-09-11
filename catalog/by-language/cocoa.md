@@ -59,7 +59,7 @@ Records: `349`
 | [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
 | [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
-| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-11T12:24:56Z | registry-derived |
+| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-11T16:52:47Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
 | [xmartlabs/Eureka](../records/cocoa-xmartlabs-eureka-e10ee14d.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
@@ -132,7 +132,7 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-10T19:26:21Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-11T15:51:21Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-09T23:48:08Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
 | [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-09T16:54:10Z | registry-derived |
@@ -151,7 +151,7 @@ Records: `349`
 | [Countly](../records/cocoa-countly-2297ca5c.md) | 26.1.0 | 2026-02-18 14:12:24 UTC | registry-derived |
 | [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | partial | 2026-08-24T16:54:29Z | registry-derived |
 | [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | partial | 2020-10-19T07:14:11Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-10T14:35:55Z | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-11T14:32:29Z | registry-derived |
 | [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | partial | 2023-03-13T12:23:46Z | registry-derived |
 | [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | partial | 2021-04-29T15:34:36Z | registry-derived |
 | [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | partial | 2026-08-21T18:15:48Z | registry-derived |
@@ -160,7 +160,7 @@ Records: `349`
 | [Heimdallr.swift](../records/cocoa-heimdallr-swift-1def73fc.md) | 4.0.0 | 2024-01-04T09:06:03Z | registry-derived |
 | [iOS-Viper-Architecture](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) | unknown | cocoapods_metadata_missing | registry-derived |
 | [ivanvorobei/awesome-ios](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) | partial | 2023-03-06T08:19:36Z | registry-derived |
-| [iziz/libPhoneNumber-iOS](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) | partial | 2026-08-29T15:30:59Z | registry-derived |
+| [iziz/libPhoneNumber-iOS](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) | partial | 2026-09-11T17:09:25Z | registry-derived |
 | [JLRoutes](../records/cocoa-jlroutes-7a9922bb.md) | 2.1.1 | 2021-08-10T19:10:38Z | registry-derived |
 | [joeldev/JLRoutes](../records/cocoa-joeldev-jlroutes-352fbc29.md) | partial | 2023-02-21T14:37:00Z | registry-derived |
 | [JonasGessner/JGProgressHUD](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) | partial | 2023-10-18T01:21:10Z | registry-derived |
@@ -203,7 +203,7 @@ Records: `349`
 | [WAAppRouting](../records/cocoa-waapprouting-28d367e4.md) | 0.0.5 | 2015-11-13T01:24:41Z | registry-derived |
 | [WenchaoD/FSCalendar](../records/cocoa-wenchaod-fscalendar-a94a6797.md) | partial | 2024-08-10T13:44:15Z | registry-derived |
 | [wmcmahan/react-native-calendar-events](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) | partial | 2026-01-05T21:09:47Z | registry-derived |
-| [wxWidgets/wxWidgets](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) | partial | 2026-09-10T16:45:20Z | registry-derived |
+| [wxWidgets/wxWidgets](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) | partial | 2026-09-11T14:55:34Z | registry-derived |
 | [xmartlabs/XLPagerTabStrip](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) | partial | 2023-11-22T13:34:09Z | registry-derived |
 | [Yalantis/FoldingTabBar.iOS](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) | partial | 2022-06-13T14:56:56Z | registry-derived |
 | [Yalantis/Koloda](../records/cocoa-yalantis-koloda-c5819ab8.md) | partial | 2024-05-29T20:58:30Z | registry-derived |

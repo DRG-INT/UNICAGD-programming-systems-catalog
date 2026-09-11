@@ -62,7 +62,7 @@ Records: `312`
 | [njgarg22/bookstore-products](../records/sapjava-njgarg22-bookstore-products-daaef4ff.md) | partial | 2020-10-17T19:47:24Z | registry-derived |
 | [SAP-samples/ams-samples-java](../records/sapjava-sap-samples-ams-samples-java-fd68629e.md) | partial | 2026-09-07T12:25:38Z | registry-derived |
 | [SAP-samples/cap-sflight](../records/sapjava-sap-samples-cap-sflight-49ffa5d9.md) | partial | 2026-08-19T13:06:57Z | registry-derived |
-| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-11T11:09:31Z | registry-derived |
+| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-11T16:14:29Z | registry-derived |
 | [SAP/cloud-sdk-java](../records/sapjava-sap-cloud-sdk-java-694206d3.md) | partial | 2026-09-09T00:53:59Z | registry-derived |
 | [THSRakesh/Employee-App](../records/sapjava-thsrakesh-employee-app-401aae99.md) | partial | 2026-01-22T12:48:14Z | registry-derived |
 
@@ -114,7 +114,7 @@ Records: `312`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-11T11:24:20Z | registry-derived |
+| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-11T14:30:24Z | registry-derived |
 | [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-08T14:42:58Z | registry-derived |
 | [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | partial | 2026-06-11T22:33:27Z | registry-derived |
 
@@ -137,7 +137,7 @@ Records: `312`
 | [anoop-pande-23/Supplier-information-portal](../records/sapjava-anoop-pande-23-supplier-information-portal-25d0a6a5.md) | partial | 2025-12-23T11:02:58Z | registry-derived |
 | [santhosh0000000/ETL_SAP-HDFS](../records/sapjava-santhosh0000000-etl-sap-hdfs-63dea297.md) | partial | 2023-08-06T09:42:48Z | registry-derived |
 | [santhosh0000000/ETL_sap_hive](../records/sapjava-santhosh0000000-etl-sap-hive-d456012e.md) | partial | 2023-09-09T13:45:15Z | registry-derived |
-| [SAP/jfrevents](../records/sapjava-sap-jfrevents-92736fde.md) | partial | 2026-09-11T10:33:06Z | registry-derived |
+| [SAP/jfrevents](../records/sapjava-sap-jfrevents-92736fde.md) | partial | 2026-09-11T12:32:51Z | registry-derived |
 
 ### Framework
 
@@ -187,7 +187,7 @@ Records: `312`
 | [rangasri85/ranga](../records/sapjava-rangasri85-ranga-3185d6ee.md) | partial | 2019-12-14T13:14:42Z | registry-derived |
 | [SAP-archive/cloud-sample-library](../records/sapjava-sap-archive-cloud-sample-library-47935dc9.md) | partial | 2020-12-17T00:24:57Z | registry-derived |
 | [SAP-samples/hana-apl-apis-runtimes](../records/sapjava-sap-samples-hana-apl-apis-runtimes-e35cdaa8.md) | partial | 2026-06-23T13:24:11Z | registry-derived |
-| [SAP/smart-test-picker](../records/sapjava-sap-smart-test-picker-05c91710.md) | partial | 2026-09-10T19:46:23Z | registry-derived |
+| [SAP/smart-test-picker](../records/sapjava-sap-smart-test-picker-05c91710.md) | partial | 2026-09-11T14:34:32Z | registry-derived |
 
 ### Language Specification
 
@@ -410,7 +410,7 @@ Records: `312`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [com.sap.cloud.sdk.services:recast-ai](../records/sapjava-com-sap-cloud-sdk-services-recast-ai-0fabd146.md) | 3.78.0 | 2022-12-19T12:44:13+00:00 | registry-derived |
-| [SAP/sailing-analytics](../records/sapjava-sap-sailing-analytics-18e68ac1.md) | partial | 2026-09-09T21:58:28Z | registry-derived |
+| [SAP/sailing-analytics](../records/sapjava-sap-sailing-analytics-18e68ac1.md) | partial | 2026-09-11T15:31:13Z | registry-derived |
 
 ### Precommit Ci Quality
 
