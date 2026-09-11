@@ -17,7 +17,7 @@ Records: `648`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -310,7 +310,7 @@ Records: `648`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
-| kungfusheep/glyph | unknown | not_a_go_module_path | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
+| kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
 | piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
@@ -795,7 +795,7 @@ Records: `648`
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
 | dotnetcore/BootstrapBlazor | partial | 2026-09-11T11:06:59Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
-| emilk/egui | partial | 2026-09-10T15:38:06Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
+| emilk/egui | partial | 2026-09-11T15:54:57Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
 | langhuihui/jessibuca | partial | 2026-09-09T01:52:46Z | [open](../records/webassembly-langhuihui-jessibuca-ca741e72.md) |
 | tinysearch/tinysearch | partial | 2026-08-15T16:16:50Z | [open](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
 | vugu/vugu | partial | 2026-09-01T16:39:00Z | [open](../records/webassembly-vugu-vugu-38501d3e.md) |
@@ -829,7 +829,7 @@ Records: `648`
 | daprice/Variablur | partial | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
 | EmergeTools/Pow | partial | 2026-04-13T04:12:15Z | [open](../records/swift-emergetools-pow-7350bd32.md) |
 | hackiftekhar/IQKeyboardManager | unknown | github_search_does_not_include_release_date | [open](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
-| iPlug2/iPlug2 | partial | 2026-08-19T20:14:26Z | [open](../records/swift-iplug2-iplug2-0fdb4d87.md) |
+| iPlug2/iPlug2 | partial | 2026-09-11T20:02:05Z | [open](../records/swift-iplug2-iplug2-0fdb4d87.md) |
 | ivanvorobei/SwiftUI | partial | 2023-12-07T14:10:03Z | [open](../records/swift-ivanvorobei-swiftui-f5c23a1b.md) |
 | jasonjmcghee/rem | partial | 2024-05-30T04:28:09Z | [open](../records/swift-jasonjmcghee-rem-75c0a744.md) |
 | jordansinger/SwiftUI-Kit | partial | 2023-11-10T11:25:31Z | [open](../records/swift-jordansinger-swiftui-kit-7ffc2af6.md) |

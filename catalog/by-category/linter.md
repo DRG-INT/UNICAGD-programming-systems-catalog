@@ -17,7 +17,7 @@ Records: `350`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · **[Linter (350)](linter.md)** · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -113,7 +113,7 @@ Records: `350`
 | @locker/eslint-config-locker | 0.27.9 | 2026-08-31T20:02:20.217Z | [open](../records/node-js-javascript-locker-eslint-config-locker-70aa0ece.md) |
 | @locker/eslint-plugin-locker | 0.27.9 | 2026-08-31T20:03:13.489Z | [open](../records/node-js-javascript-locker-eslint-plugin-locker-3da5aed5.md) |
 | @lwc/eslint-plugin-lwc | 3.5.0 | 2026-03-27T17:10:13.555Z | [open](../records/node-js-javascript-lwc-eslint-plugin-lwc-c01396ff.md) |
-| @markuplint/cli-utils | 4.18.0 | 2026-04-22T00:44:34.518Z | [open](../records/node-js-javascript-markuplint-cli-utils-7177a9a3.md) |
+| @markuplint/cli-utils | 5.0.0 | 2026-09-11T20:03:42.359Z | [open](../records/node-js-javascript-markuplint-cli-utils-7177a9a3.md) |
 | @microsoft/eslint-formatter-sarif | 3.1.0 | 2024-04-12T17:21:26.996Z | [open](../records/node-js-javascript-microsoft-eslint-formatter-sarif-b90f9dff.md) |
 | @microsoft/eslint-plugin-sdl | 1.1.0 | 2025-02-18T11:02:59.772Z | [open](../records/node-js-javascript-microsoft-eslint-plugin-sdl-f5041a5d.md) |
 | @nabla/vite-plugin-eslint | 3.0.1 | 2026-03-18T09:36:12.944Z | [open](../records/node-js-javascript-nabla-vite-plugin-eslint-225d34f7.md) |

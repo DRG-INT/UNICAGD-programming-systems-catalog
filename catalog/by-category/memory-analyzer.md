@@ -17,7 +17,7 @@ Records: `102`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · **[Memory Analyzer (102)](memory-analyzer.md)** · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -134,7 +134,7 @@ Records: `102`
 | mem0ai/mem0 | partial | 2026-09-11T15:36:33Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-11T18:57:00Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-11T19:06:40Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-11T19:07:30Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-11T20:13:00Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-11T09:15:04Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Physics Engines
@@ -187,7 +187,7 @@ Records: `102`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | baotonglu/dash | partial | 2024-04-16T11:31:59Z | [open](../records/catalogs-baotonglu-dash-cf3f420e.md) |
-| FgForrest/evitaDB | partial | 2026-09-11T14:24:57Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
+| FgForrest/evitaDB | partial | 2026-09-11T19:32:45Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
 | ggrandes/kvstore | partial | 2025-08-27T19:31:26Z | [open](../records/catalogs-ggrandes-kvstore-6580d57c.md) |
 | go-ego/riot | partial | 2020-10-13T13:31:05Z | [open](../records/catalogs-go-ego-riot-e4bf73d9.md) |
 | thustorage/Sherman | partial | 2024-10-05T02:40:11Z | [open](../records/catalogs-thustorage-sherman-1b85d616.md) |
@@ -212,7 +212,7 @@ Records: `102`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | plbrault/youre-the-os | partial | 2026-07-05T06:56:56Z | [open](../records/webassembly-plbrault-youre-the-os-d4e46ea2.md) |
-| ruvnet/RuVector | partial | 2026-09-11T01:28:45Z | [open](../records/webassembly-ruvnet-ruvector-92764a9f.md) |
+| ruvnet/RuVector | partial | 2026-09-11T15:31:43Z | [open](../records/webassembly-ruvnet-ruvector-92764a9f.md) |
 | studio-lagier/heapviz | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-studio-lagier-heapviz-52eb5d17.md) |
 
 ## Swift

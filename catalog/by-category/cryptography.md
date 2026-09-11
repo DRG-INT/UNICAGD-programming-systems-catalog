@@ -17,7 +17,7 @@ Records: `182`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -213,7 +213,7 @@ Records: `182`
 | cryptography | 2.9.0 | 2025-11-21T23:21:36.751492Z | [open](../records/dart-cryptography-262b11cd.md) |
 | csslib | 1.0.2 | 2024-10-29T14:00:34.896345Z | [open](../records/dart-csslib-4ea6544b.md) |
 | flutter_blurhash | 0.9.1 | 2025-04-22T18:47:22.306471Z | [open](../records/dart-flutter-blurhash-9f17cd53.md) |
-| flutter_secure_storage | 11.1.0 | 2026-09-10T07:41:33.692224Z | [open](../records/dart-flutter-secure-storage-a8388f0a.md) |
+| flutter_secure_storage | 11.1.1 | 2026-09-11T20:08:14.955343Z | [open](../records/dart-flutter-secure-storage-a8388f0a.md) |
 | hashlib | 2.4.2 | 2026-07-08T16:53:04.811170Z | [open](../records/dart-hashlib-081cb826.md) |
 | jose | 0.3.5+2 | 2026-03-31T08:27:17.006179Z | [open](../records/dart-jose-db6e5c50.md) |
 | readmore | 3.0.0 | 2024-03-27T23:46:43.720438Z | [open](../records/dart-readmore-e081a267.md) |
@@ -302,7 +302,7 @@ Records: `182`
 | hashirshoaeb/star_book | partial | 2025-05-29T09:00:13Z | [open](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) |
 | jendrikseipp/rednotebook | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
 | lunatask/lunatask | partial | 2026-06-10T21:01:27Z | [open](../records/magazines-lunatask-lunatask-2f6be720.md) |
-| memrynote/memry | partial | 2026-09-11T16:28:50Z | [open](../records/magazines-memrynote-memry-3848d952.md) |
+| memrynote/memry | partial | 2026-09-11T19:25:06Z | [open](../records/magazines-memrynote-memry-3848d952.md) |
 
 ## Assembly
 

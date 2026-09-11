@@ -17,7 +17,7 @@ Records: `134`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -197,7 +197,7 @@ Records: `134`
 | CKAN | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ckan-265fba92.md) |
 | DataHub | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-datahub-fc4a0261.md) |
 | Ecosyste.ms | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-ecosyste-ms-b04b4db1.md) |
-| EpicWink/proxpi | partial | 2026-09-11T04:54:14Z | [open](../records/catalogs-epicwink-proxpi-19684f44.md) |
+| EpicWink/proxpi | partial | 2026-09-11T06:48:23Z | [open](../records/catalogs-epicwink-proxpi-19684f44.md) |
 | FreeCAD/FreeCAD-addons | partial | 2026-07-24T17:34:19Z | [open](../records/catalogs-freecad-freecad-addons-a615b5b9.md) |
 | geerlingguy/ansible-role-solr | partial | 2026-08-21T14:17:49Z | [open](../records/catalogs-geerlingguy-ansible-role-solr-8acb37a8.md) |
 | gibatronic/ngx-superbindex | partial | 2026-09-10T14:13:17Z | [open](../records/catalogs-gibatronic-ngx-superbindex-189e5489.md) |
@@ -211,7 +211,7 @@ Records: `134`
 | OpenMetadata | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openmetadata-f48d69a5.md) |
 | qoomon/aws-s3-bucket-browser | partial | 2026-07-25T19:14:53Z | [open](../records/catalogs-qoomon-aws-s3-bucket-browser-8bd94cab.md) |
 | rayanfer32/TgindexPro | partial | 2021-07-16T09:44:26Z | [open](../records/catalogs-rayanfer32-tgindexpro-d2a71717.md) |
-| scalacenter/scaladex | partial | 2026-09-10T15:15:24Z | [open](../records/catalogs-scalacenter-scaladex-93a340c2.md) |
+| scalacenter/scaladex | partial | 2026-09-11T12:29:39Z | [open](../records/catalogs-scalacenter-scaladex-93a340c2.md) |
 | SPDX License List | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-spdx-license-list-ea4e5cc6.md) |
 | Stratio/cassandra-lucene-index | partial | 2020-05-27T11:21:14Z | [open](../records/catalogs-stratio-cassandra-lucene-index-6874dd3d.md) |
 | tarzanek/luke | partial | 2018-10-22T17:04:17Z | [open](../records/catalogs-tarzanek-luke-89e6540e.md) |

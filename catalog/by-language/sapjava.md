@@ -17,7 +17,7 @@ Records: `312`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
@@ -63,7 +63,7 @@ Records: `312`
 | [SAP-samples/ams-samples-java](../records/sapjava-sap-samples-ams-samples-java-fd68629e.md) | partial | 2026-09-07T12:25:38Z | registry-derived |
 | [SAP-samples/cap-sflight](../records/sapjava-sap-samples-cap-sflight-49ffa5d9.md) | partial | 2026-08-19T13:06:57Z | registry-derived |
 | [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-11T16:14:29Z | registry-derived |
-| [SAP/cloud-sdk-java](../records/sapjava-sap-cloud-sdk-java-694206d3.md) | partial | 2026-09-09T00:53:59Z | registry-derived |
+| [SAP/cloud-sdk-java](../records/sapjava-sap-cloud-sdk-java-694206d3.md) | partial | 2026-09-11T19:07:05Z | registry-derived |
 | [THSRakesh/Employee-App](../records/sapjava-thsrakesh-employee-app-401aae99.md) | partial | 2026-01-22T12:48:14Z | registry-derived |
 
 ### Cli
@@ -205,7 +205,7 @@ Records: `312`
 | [arviprabhu/SAP-CAP-CF-JavaReuse](../records/sapjava-arviprabhu-sap-cap-cf-javareuse-007fd0fc.md) | partial | 2021-06-11T11:59:47Z | registry-derived |
 | [beroca/sap-cap-products-service-java](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) | partial | 2024-02-15T23:23:42Z | registry-derived |
 | [boudhayan-dev/spring-hana-cloud-foundry](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) | partial | 2019-07-22T13:58:28Z | registry-derived |
-| [cap-java/cds-feature-console](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) | partial | 2026-09-11T05:14:20Z | registry-derived |
+| [cap-java/cds-feature-console](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) | partial | 2026-09-11T17:34:54Z | registry-derived |
 | [cap-java/cds-feature-notifications](../records/sapjava-cap-java-cds-feature-notifications-3924ae76.md) | partial | 2026-09-07T15:35:34Z | registry-derived |
 | [com.sap.cds:cds-adapter-hcql](../records/sapjava-com-sap-cds-cds-adapter-hcql-52ecb8ff.md) | 3.10.1 | 2025-05-16T11:26:31+00:00 | registry-derived |
 | [com.sap.cds:cds-adapter-messaging](../records/sapjava-com-sap-cds-cds-adapter-messaging-2a5c1d9e.md) | 1.17.0 | 2021-07-14T08:05:55+00:00 | registry-derived |
@@ -410,7 +410,7 @@ Records: `312`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [com.sap.cloud.sdk.services:recast-ai](../records/sapjava-com-sap-cloud-sdk-services-recast-ai-0fabd146.md) | 3.78.0 | 2022-12-19T12:44:13+00:00 | registry-derived |
-| [SAP/sailing-analytics](../records/sapjava-sap-sailing-analytics-18e68ac1.md) | partial | 2026-09-11T15:31:13Z | registry-derived |
+| [SAP/sailing-analytics](../records/sapjava-sap-sailing-analytics-18e68ac1.md) | partial | 2026-09-11T18:11:28Z | registry-derived |
 
 ### Precommit Ci Quality
 

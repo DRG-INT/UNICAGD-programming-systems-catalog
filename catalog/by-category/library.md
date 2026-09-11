@@ -1,6 +1,6 @@
 # Library
 
-Records: `6068`
+Records: `6069`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `6068`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6068)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6069)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -1518,7 +1518,7 @@ Records: `6068`
 | auto_enums | 0.8.10 | 2026-07-25T05:51:45.402598Z | [open](../records/rust-auto-enums-554be482.md) |
 | aws-credential-types | 1.3.0 | 2026-07-08T19:08:20.561050Z | [open](../records/rust-aws-credential-types-0c3a278f.md) |
 | aws-sdk-dynamodb | 1.123.0 | 2026-08-25T20:33:02.272627Z | [open](../records/rust-aws-sdk-dynamodb-2a0d1737.md) |
-| aws-sdk-s3 | 1.146.0 | 2026-09-08T19:07:28.870875Z | [open](../records/rust-aws-sdk-s3-e7593d5c.md) |
+| aws-sdk-s3 | 1.146.1 | 2026-09-11T19:08:17.164298Z | [open](../records/rust-aws-sdk-s3-e7593d5c.md) |
 | aws-sdk-secretsmanager | 1.114.0 | 2026-08-25T20:53:39.172482Z | [open](../records/rust-aws-sdk-secretsmanager-7debe3fd.md) |
 | aws-sdk-sso | 1.109.0 | 2026-09-04T19:06:56.666403Z | [open](../records/rust-aws-sdk-sso-1ed360a6.md) |
 | aws-sdk-ssooidc | 1.111.0 | 2026-09-04T19:07:01.502485Z | [open](../records/rust-aws-sdk-ssooidc-05591401.md) |
@@ -3905,7 +3905,7 @@ Records: `6068`
 | pgmq-core | 0.6.0.0 | 2026-09-10T19:39:05Z | [open](../records/haskell-pgmq-core-34d8e251.md) |
 | pgmq-effectful | 0.6.0.0 | 2026-09-10T19:39:28Z | [open](../records/haskell-pgmq-effectful-762abfb0.md) |
 | pgmq-migration | 0.6.0.0 | 2026-09-10T19:39:21Z | [open](../records/haskell-pgmq-migration-ed203ec5.md) |
-| phino | 0.0.127 | 2026-09-10T16:08:54Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.128 | 2026-09-11T18:33:45Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4123,6 +4123,7 @@ Records: `6068`
 | swish | 0.10.11.0 | 2026-01-08T11:37:21Z | [open](../records/haskell-swish-d9c11381.md) |
 | syb | 0.7.4 | 2026-03-07T17:18:44Z | [open](../records/haskell-syb-fa0311dd.md) |
 | syb-with-class | 0.6.1.14 | 2022-04-20T19:21:15Z | [open](../records/haskell-syb-with-class-f21f0b9f.md) |
+| symbol | 0.3.0 | 2026-09-11T18:37:27Z | [open](../records/haskell-symbol-1a2e84c0.md) |
 | syntactic | 3.8.5 | 2026-03-21T12:34:23Z | [open](../records/haskell-syntactic-b5d8e11b.md) |
 | synthesizer-core | 0.9.0.1 | 2026-07-09T14:51:24Z | [open](../records/haskell-synthesizer-core-892f4041.md) |
 | system-fileio | 0.3.16.7 | 2025-05-14T09:13:23Z | [open](../records/haskell-system-fileio-17a471dc.md) |
@@ -4485,10 +4486,10 @@ Records: `6068`
 | code.linenisgreat.com/madder/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-code-linenisgreat-com-madder-go-69f64a7e.md) |
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
-| CycloneDX/cyclonedx-gomod | unknown | not_a_go_module_path | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
+| CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
 | darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
-| gbrlsnchs/jwt | unknown | not_a_go_module_path | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
-| gethugothemes/hugo-modules | unknown | not_a_go_module_path | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
+| gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
+| gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
 | git.sr.ht/~sbinet/hep | v0.19.0 | 2026-08-30T12:54:31.594234Z | [open](../records/go-git-sr-ht-sbinet-hep-dbf72bae.md) |
 | gitee.com/hongzhaomin/ioc/annotation | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitee-com-hongzhaomin-ioc-annotation-778adf40.md) |
@@ -4510,21 +4511,21 @@ Records: `6068`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T18:52:29Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-11T20:14:52Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
-| Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
+| Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
 | oxequa/grace | partial | 2018-03-30T10:16:21Z | [open](../records/go-oxequa-grace-a2ea7491.md) |
 | PacktWorkshops/The-Go-Workshop | partial | 2023-02-24T17:42:39Z | [open](../records/go-packtworkshops-the-go-workshop-010b2ee6.md) |
 | paepcke.de/opnborg | v0.1.193 | 2026-08-30T12:53:55.779483Z | [open](../records/go-paepcke-de-opnborg-5d6e838f.md) |
-| phuctm97/go-restful | unknown | not_a_go_module_path | [open](../records/go-phuctm97-go-restful-8f3f1208.md) |
+| phuctm97/go-restful | partial | 2019-10-08T14:34:36Z | [open](../records/go-phuctm97-go-restful-8f3f1208.md) |
 | piko.sh/piko/wdk/highlight/highlight_chroma | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-piko-sh-piko-wdk-highlight-highlight-chroma-d02208be.md) |
 | rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-11T17:27:31Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-11T20:20:47Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5971,7 +5972,7 @@ Records: `6068`
 | sycamore-rs/sycamore | partial | 2026-08-31T03:52:01Z | [open](../records/webassembly-sycamore-rs-sycamore-97b446f4.md) |
 | thangchung/webassembly-tour | partial | 2021-06-12T08:54:22Z | [open](../records/webassembly-thangchung-webassembly-tour-7b4868ce.md) |
 | torch2424/as-bind | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-torch2424-as-bind-a6b95cd1.md) |
-| tree-sitter/tree-sitter | partial | 2026-09-11T05:38:42Z | [open](../records/webassembly-tree-sitter-tree-sitter-b8fc67da.md) |
+| tree-sitter/tree-sitter | partial | 2026-09-11T16:59:36Z | [open](../records/webassembly-tree-sitter-tree-sitter-b8fc67da.md) |
 | turbolent/w2c2 | partial | 2026-08-01T02:53:16Z | [open](../records/webassembly-turbolent-w2c2-3487d59f.md) |
 | VERT-sh/VERT | partial | 2026-09-10T18:50:58Z | [open](../records/webassembly-vert-sh-vert-a7d5e315.md) |
 | vshymanskyy/wasm2native | partial | 2022-03-14T15:23:04Z | [open](../records/webassembly-vshymanskyy-wasm2native-6ecf4a45.md) |
@@ -6005,7 +6006,7 @@ Records: `6068`
 | arviprabhu/SAP-CAP-CF-JavaReuse | partial | 2021-06-11T11:59:47Z | [open](../records/sapjava-arviprabhu-sap-cap-cf-javareuse-007fd0fc.md) |
 | beroca/sap-cap-products-service-java | partial | 2024-02-15T23:23:42Z | [open](../records/sapjava-beroca-sap-cap-products-service-java-811bea3d.md) |
 | boudhayan-dev/spring-hana-cloud-foundry | partial | 2019-07-22T13:58:28Z | [open](../records/sapjava-boudhayan-dev-spring-hana-cloud-foundry-d0e303cd.md) |
-| cap-java/cds-feature-console | partial | 2026-09-11T05:14:20Z | [open](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) |
+| cap-java/cds-feature-console | partial | 2026-09-11T17:34:54Z | [open](../records/sapjava-cap-java-cds-feature-console-4f369a7c.md) |
 | cap-java/cds-feature-notifications | partial | 2026-09-07T15:35:34Z | [open](../records/sapjava-cap-java-cds-feature-notifications-3924ae76.md) |
 | com.sap.cds:cds-adapter-hcql | 3.10.1 | 2025-05-16T11:26:31+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-hcql-52ecb8ff.md) |
 | com.sap.cds:cds-adapter-messaging | 1.17.0 | 2021-07-14T08:05:55+00:00 | [open](../records/sapjava-com-sap-cds-cds-adapter-messaging-2a5c1d9e.md) |

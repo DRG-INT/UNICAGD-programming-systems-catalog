@@ -17,7 +17,7 @@ Records: `765`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
@@ -197,7 +197,7 @@ Records: `765`
 | [cryptography](../records/dart-cryptography-262b11cd.md) | 2.9.0 | 2025-11-21T23:21:36.751492Z | registry-derived |
 | [csslib](../records/dart-csslib-4ea6544b.md) | 1.0.2 | 2024-10-29T14:00:34.896345Z | registry-derived |
 | [flutter_blurhash](../records/dart-flutter-blurhash-9f17cd53.md) | 0.9.1 | 2025-04-22T18:47:22.306471Z | registry-derived |
-| [flutter_secure_storage](../records/dart-flutter-secure-storage-a8388f0a.md) | 11.1.0 | 2026-09-10T07:41:33.692224Z | registry-derived |
+| [flutter_secure_storage](../records/dart-flutter-secure-storage-a8388f0a.md) | 11.1.1 | 2026-09-11T20:08:14.955343Z | registry-derived |
 | [hashlib](../records/dart-hashlib-081cb826.md) | 2.4.2 | 2026-07-08T16:53:04.811170Z | registry-derived |
 | [jose](../records/dart-jose-db6e5c50.md) | 0.3.5+2 | 2026-03-31T08:27:17.006179Z | registry-derived |
 | [readmore](../records/dart-readmore-e081a267.md) | 3.0.0 | 2024-03-27T23:46:43.720438Z | registry-derived |

@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1693`
+Records: `1694`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `1693`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
@@ -1155,7 +1155,7 @@ Records: `1693`
 | [pgmq-core](../records/haskell-pgmq-core-34d8e251.md) | 0.6.0.0 | 2026-09-10T19:39:05Z | registry-derived |
 | [pgmq-effectful](../records/haskell-pgmq-effectful-762abfb0.md) | 0.6.0.0 | 2026-09-10T19:39:28Z | registry-derived |
 | [pgmq-migration](../records/haskell-pgmq-migration-ed203ec5.md) | 0.6.0.0 | 2026-09-10T19:39:21Z | registry-derived |
-| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.127 | 2026-09-10T16:08:54Z | registry-derived |
+| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.128 | 2026-09-11T18:33:45Z | registry-derived |
 | [pinboard](../records/haskell-pinboard-08e346f1.md) | 0.10.3.0 | 2022-05-07T23:32:56Z | registry-derived |
 | [pinch](../records/haskell-pinch-801ed692.md) | 0.5.2.0 | 2024-07-09T02:44:30Z | registry-derived |
 | [plugins](../records/haskell-plugins-1103fc5c.md) | 1.6.2.1 | 2022-03-27T15:40:09Z | registry-derived |
@@ -1373,6 +1373,7 @@ Records: `1693`
 | [swish](../records/haskell-swish-d9c11381.md) | 0.10.11.0 | 2026-01-08T11:37:21Z | registry-derived |
 | [syb](../records/haskell-syb-fa0311dd.md) | 0.7.4 | 2026-03-07T17:18:44Z | registry-derived |
 | [syb-with-class](../records/haskell-syb-with-class-f21f0b9f.md) | 0.6.1.14 | 2022-04-20T19:21:15Z | registry-derived |
+| [symbol](../records/haskell-symbol-1a2e84c0.md) | 0.3.0 | 2026-09-11T18:37:27Z | registry-derived |
 | [syntactic](../records/haskell-syntactic-b5d8e11b.md) | 3.8.5 | 2026-03-21T12:34:23Z | registry-derived |
 | [synthesizer-core](../records/haskell-synthesizer-core-892f4041.md) | 0.9.0.1 | 2026-07-09T14:51:24Z | registry-derived |
 | [system-fileio](../records/haskell-system-fileio-17a471dc.md) | 0.3.16.7 | 2025-05-14T09:13:23Z | registry-derived |

@@ -17,7 +17,7 @@ Records: `2183`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)
@@ -1311,7 +1311,7 @@ Records: `2183`
 | [auto_enums](../records/rust-auto-enums-554be482.md) | 0.8.10 | 2026-07-25T05:51:45.402598Z | crates_io |
 | [aws-credential-types](../records/rust-aws-credential-types-0c3a278f.md) | 1.3.0 | 2026-07-08T19:08:20.561050Z | registry-derived |
 | [aws-sdk-dynamodb](../records/rust-aws-sdk-dynamodb-2a0d1737.md) | 1.123.0 | 2026-08-25T20:33:02.272627Z | crates_io |
-| [aws-sdk-s3](../records/rust-aws-sdk-s3-e7593d5c.md) | 1.146.0 | 2026-09-08T19:07:28.870875Z | registry-derived |
+| [aws-sdk-s3](../records/rust-aws-sdk-s3-e7593d5c.md) | 1.146.1 | 2026-09-11T19:08:17.164298Z | registry-derived |
 | [aws-sdk-secretsmanager](../records/rust-aws-sdk-secretsmanager-7debe3fd.md) | 1.114.0 | 2026-08-25T20:53:39.172482Z | crates_io |
 | [aws-sdk-sso](../records/rust-aws-sdk-sso-1ed360a6.md) | 1.109.0 | 2026-09-04T19:06:56.666403Z | registry-derived |
 | [aws-sdk-ssooidc](../records/rust-aws-sdk-ssooidc-05591401.md) | 1.111.0 | 2026-09-04T19:07:01.502485Z | registry-derived |
@@ -1965,7 +1965,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [actix-http](../records/rust-actix-http-649d5d41.md) | 3.13.5 | 2026-09-02T13:30:04.048236Z | registry-derived |
-| [actix-server](../records/rust-actix-server-e5a4daec.md) | 2.9.3 | 2026-09-11T10:02:20.784334Z | registry-derived |
+| [actix-server](../records/rust-actix-server-e5a4daec.md) | 2.9.4 | 2026-09-11T18:41:39.446680Z | registry-derived |
 | [attohttpc](../records/rust-attohttpc-ed4c6017.md) | 0.31.0 | 2026-05-25T03:09:33.175942Z | crates_io |
 | [aws-http](../records/rust-aws-http-8b04a69b.md) | 0.60.6 | 2024-08-09T19:35:18.677687Z | crates_io |
 | [aws-sigv4](../records/rust-aws-sigv4-3f7fb63e.md) | 1.5.1 | 2026-07-08T19:08:55.193683Z | registry-derived |

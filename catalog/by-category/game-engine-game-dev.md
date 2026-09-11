@@ -17,7 +17,7 @@ Records: `376`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · **[Game Engine Game Dev (376)](game-engine-game-dev.md)** · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -512,7 +512,7 @@ Records: `376`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asciimoo/hister | partial | 2026-09-10T17:08:40Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
+| asciimoo/hister | partial | 2026-09-11T08:03:19Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
 | gamedilong/awesome-cn | partial | 2020-01-23T06:56:32Z | [open](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) |
 
 ## Assembly
@@ -542,10 +542,10 @@ Records: `376`
 | boa-dev/boa | partial | 2026-09-06T22:33:03Z | [open](../records/webassembly-boa-dev-boa-27f5e4a0.md) |
 | ColinEberhardt/wasm-game-of-life | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-colineberhardt-wasm-game-of-life-82167b9c.md) |
 | dsekz/twitter-x-xp-forwarded-for-header | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-fa8e3e36.md) |
-| kitao/pyxel | partial | 2026-09-06T16:54:02Z | [open](../records/webassembly-kitao-pyxel-5f7affc7.md) |
+| kitao/pyxel | partial | 2026-09-11T19:00:58Z | [open](../records/webassembly-kitao-pyxel-5f7affc7.md) |
 | MaxBittker/sandspiel | partial | 2026-09-10T19:59:08Z | [open](../records/webassembly-maxbittker-sandspiel-36849093.md) |
-| mytechnotalent/Reverse-Engineering | partial | 2026-09-10T13:30:17Z | [open](../records/webassembly-mytechnotalent-reverse-engineering-0aa90184.md) |
-| obeli-sk/obelisk | partial | 2026-09-10T17:52:44Z | [open](../records/webassembly-obeli-sk-obelisk-c5fc4657.md) |
+| mytechnotalent/Reverse-Engineering | partial | 2026-09-11T13:07:04Z | [open](../records/webassembly-mytechnotalent-reverse-engineering-0aa90184.md) |
+| obeli-sk/obelisk | partial | 2026-09-11T20:20:49Z | [open](../records/webassembly-obeli-sk-obelisk-c5fc4657.md) |
 | Porting Games to the Web with WebAssembly (2019) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-porting-games-to-the-web-with-webassembly-2019-0fa6beb2.md) |
 | wasvy-org/wasvy | partial | 2026-07-19T21:16:44Z | [open](../records/webassembly-wasvy-org-wasvy-fa0894e6.md) |
 

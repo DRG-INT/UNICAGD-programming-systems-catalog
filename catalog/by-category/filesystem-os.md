@@ -17,7 +17,7 @@ Records: `1701`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · **[Filesystem Os (1701)](filesystem-os.md)** · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -587,10 +587,10 @@ Records: `1701`
 | fyne-io/fyne | partial | 2026-09-10T17:17:50Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
 | ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
 | go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
-| gosom/scrapemate | unknown | not_a_go_module_path | [open](../records/go-gosom-scrapemate-536afe4d.md) |
+| gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-11T19:12:06Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-11T20:17:45Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -612,7 +612,7 @@ Records: `1701`
 | Fosowl/agenticSeek | partial | 2026-09-07T07:54:16Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-11T18:53:11Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-11T19:21:55Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1654,16 +1654,16 @@ Records: `1701`
 | songtianlun/diarum | partial | 2026-08-04T05:10:54Z | [open](../records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 | spatie/Mailcoach | partial | 2026-03-09T09:27:14Z | [open](../records/magazines-spatie-mailcoach-b99f99d2.md) |
 | stefanbc/Asgar | partial | 2023-09-05T02:36:38Z | [open](../records/magazines-stefanbc-asgar-eb9aacac.md) |
-| TryGhost/Alto | partial | 2026-09-11T07:38:29Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
-| TryGhost/Casper | partial | 2026-09-11T07:44:40Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
-| TryGhost/Dawn | partial | 2026-09-11T07:38:30Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
-| TryGhost/Dope | partial | 2026-09-11T07:38:30Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
-| TryGhost/Edge | partial | 2026-09-11T07:38:39Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
+| TryGhost/Alto | partial | 2026-09-11T18:07:54Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
+| TryGhost/Casper | partial | 2026-09-11T18:09:24Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
+| TryGhost/Dawn | partial | 2026-09-11T18:08:01Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
+| TryGhost/Dope | partial | 2026-09-11T18:08:53Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
+| TryGhost/Edge | partial | 2026-09-11T18:07:56Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
 | TryGhost/Edition | partial | 2026-09-01T15:21:37Z | [open](../records/magazines-tryghost-edition-30f487ea.md) |
 | TryGhost/Journal | partial | 2026-09-01T15:22:39Z | [open](../records/magazines-tryghost-journal-0be492cf.md) |
-| TryGhost/London | partial | 2026-09-11T07:38:27Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
-| TryGhost/Massively | partial | 2026-09-07T19:54:15Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
-| TryGhost/Source | partial | 2026-09-11T10:59:29Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
+| TryGhost/London | partial | 2026-09-11T18:07:56Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
+| TryGhost/Massively | partial | 2026-09-11T19:04:40Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
+| TryGhost/Source | partial | 2026-09-11T19:04:45Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
 | TryGhost/Themes | partial | 2026-09-01T15:18:30Z | [open](../records/magazines-tryghost-themes-8b8724da.md) |
 | unkn0w/disposable-email-domain-list | partial | 2026-07-27T07:07:18Z | [open](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 
@@ -1685,7 +1685,7 @@ Records: `1701`
 | IlanVinograd/OS_32Bit | partial | 2025-01-18T11:17:35Z | [open](../records/assembly-ilanvinograd-os-32bit-c56640cb.md) |
 | leoncinardo/MascOS | partial | 2026-04-26T16:15:37Z | [open](../records/assembly-leoncinardo-mascos-e4ea93aa.md) |
 | maniekx86/stillalive-os | partial | 2025-09-16T11:55:24Z | [open](../records/assembly-maniekx86-stillalive-os-3b900496.md) |
-| moby/moby | partial | 2026-09-10T23:45:28Z | [open](../records/assembly-moby-moby-727c8e59.md) |
+| moby/moby | partial | 2026-09-11T18:41:01Z | [open](../records/assembly-moby-moby-727c8e59.md) |
 | OpenRakis/Spice86 | partial | 2026-09-11T17:08:22Z | [open](../records/assembly-openrakis-spice86-2cdaf101.md) |
 | owent/libcopp | partial | 2026-01-20T11:34:32Z | [open](../records/assembly-owent-libcopp-45c438d7.md) |
 | rwfpl/rewolf-wow64ext | partial | 2023-01-17T20:00:42Z | [open](../records/assembly-rwfpl-rewolf-wow64ext-24fabb9b.md) |
@@ -1695,7 +1695,7 @@ Records: `1701`
 | TravorLZH/TravorOS | partial | 2018-08-07T09:05:42Z | [open](../records/assembly-travorlzh-travoros-9961f938.md) |
 | wichtounet/thor-os | partial | 2024-11-19T10:12:06Z | [open](../records/assembly-wichtounet-thor-os-cf1384c0.md) |
 | WindowsNT/asm | partial | 2025-05-10T09:55:30Z | [open](../records/assembly-windowsnt-asm-00dbedd0.md) |
-| XXIIVV/oscean | partial | 2026-09-10T17:33:00Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
+| XXIIVV/oscean | partial | 2026-09-11T19:12:45Z | [open](../records/assembly-xxiivv-oscean-5e954d22.md) |
 | yhs0602/Android-Disassembler | partial | 2026-03-22T07:00:35Z | [open](../records/assembly-yhs0602-android-disassembler-1d409abc.md) |
 
 ## Pattern language
@@ -1733,10 +1733,10 @@ Records: `1701`
 | binji/raw-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-binji-raw-wasm-c2dcf640.md) |
 | eoswindev/contract | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eoswindev-contract-31970bee.md) |
 | ericfish/EOS-Dev-Book | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-ericfish-eos-dev-book-ab3602a2.md) |
-| google/filament | partial | 2026-09-11T05:54:47Z | [open](../records/webassembly-google-filament-da286b6c.md) |
+| google/filament | partial | 2026-09-11T20:05:58Z | [open](../records/webassembly-google-filament-da286b6c.md) |
 | HaliteChallenge/Halite-III | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-halitechallenge-halite-iii-d1e574a8.md) |
 | kateinoigakukun/wasi-vfs | partial | 2026-04-12T20:39:33Z | [open](../records/webassembly-kateinoigakukun-wasi-vfs-380e4080.md) |
-| linera-io/linera-protocol | partial | 2026-09-11T04:13:53Z | [open](../records/webassembly-linera-io-linera-protocol-3393389c.md) |
+| linera-io/linera-protocol | partial | 2026-09-11T19:13:00Z | [open](../records/webassembly-linera-io-linera-protocol-3393389c.md) |
 | lucasgelfond/exiftool-web | partial | 2026-01-10T18:07:32Z | [open](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
 | mbasso/awesome-wasm | partial | 2024-11-15T14:58:04Z | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
@@ -1781,7 +1781,7 @@ Records: `1701`
 | CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
 | darrylmorley/whatcable | partial | 2026-09-09T14:55:53Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
 | dkhamsing/open-source-ios-apps | partial | 2026-09-11T14:32:29Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
-| duongductrong/Snapzy | partial | 2026-09-10T16:18:30Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
+| duongductrong/Snapzy | partial | 2026-09-11T15:35:03Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
 | eleev/ios-learning-materials | partial | 2026-08-18T18:26:29Z | [open](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
 | facebook/facebook-ios-sdk | unknown | github_search_does_not_include_release_date | [open](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) |
@@ -1792,7 +1792,7 @@ Records: `1701`
 | HeroTransitions/Hero | unknown | github_search_does_not_include_release_date | [open](../records/swift-herotransitions-hero-9ca9fa5f.md) |
 | huri000/SwiftEntryKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-huri000-swiftentrykit-74ba9318.md) |
 | ianyh/Amethyst | unknown | github_search_does_not_include_release_date | [open](../records/swift-ianyh-amethyst-89eb6987.md) |
-| iziz/libPhoneNumber-iOS | partial | 2026-08-29T15:30:59Z | [open](../records/swift-iziz-libphonenumber-ios-5988fef5.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-09-11T19:06:05Z | [open](../records/swift-iziz-libphonenumber-ios-5988fef5.md) |
 | jaywcjlove/awesome-mac | unknown | github_search_does_not_include_release_date | [open](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) |
 | JerryZLiu/Dayflow | unknown | github_search_does_not_include_release_date | [open](../records/swift-jerryzliu-dayflow-93341cb6.md) |
 | jordanbaird/Ice | partial | 2025-09-20T20:28:17Z | [open](../records/swift-jordanbaird-ice-93d7b333.md) |
@@ -1838,7 +1838,7 @@ Records: `1701`
 | SnapKit/SnapKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-snapkit-snapkit-842184a7.md) |
 | soapyigu/Swift-30-Projects | unknown | github_search_does_not_include_release_date | [open](../records/swift-soapyigu-swift-30-projects-c53d5056.md) |
 | StateViewController | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-stateviewcontroller-85dd22f3.md) |
-| superhighfives/pika | partial | 2026-09-11T04:22:57Z | [open](../records/swift-superhighfives-pika-8f5e8eb2.md) |
+| superhighfives/pika | partial | 2026-09-11T15:11:57Z | [open](../records/swift-superhighfives-pika-8f5e8eb2.md) |
 | SwiftKickMobile/SwiftMessages | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftkickmobile-swiftmessages-2192f7cd.md) |
 | TelegramMessenger/Telegram-iOS | unknown | github_search_does_not_include_release_date | [open](../records/swift-telegrammessenger-telegram-ios-f4bcfba9.md) |
 | tisfeng/Easydict | unknown | github_search_does_not_include_release_date | [open](../records/swift-tisfeng-easydict-1f84a530.md) |
@@ -1870,7 +1870,7 @@ Records: `1701`
 | Heimdallr.swift | 4.0.0 | 2024-01-04T09:06:03Z | [open](../records/cocoa-heimdallr-swift-1def73fc.md) |
 | iOS-Viper-Architecture | unknown | cocoapods_metadata_missing | [open](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) |
 | ivanvorobei/awesome-ios | partial | 2023-03-06T08:19:36Z | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
-| iziz/libPhoneNumber-iOS | partial | 2026-09-11T17:09:25Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-09-11T19:06:05Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
 | JLRoutes | 2.1.1 | 2021-08-10T19:10:38Z | [open](../records/cocoa-jlroutes-7a9922bb.md) |
 | joeldev/JLRoutes | partial | 2023-02-21T14:37:00Z | [open](../records/cocoa-joeldev-jlroutes-352fbc29.md) |
 | JonasGessner/JGProgressHUD | partial | 2023-10-18T01:21:10Z | [open](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) |

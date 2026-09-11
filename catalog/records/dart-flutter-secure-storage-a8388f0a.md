@@ -32,7 +32,7 @@ confidentiality, integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 11.1.0 | 2026-09-10T07:41:33.692224Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
+| stable | known | 11.1.1 | 2026-09-11T20:08:14.955343Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
 | preview | known | 11.0.0-beta.1 | 2026-06-02T12:38:34.843066Z | [https://pub.dev/api/packages/flutter_secure_storage](https://pub.dev/api/packages/flutter_secure_storage) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ confidentiality, integrity, authentication, and key-management risk.
 
 - Treat category as `cryptography` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_secure_storage` at `2026-09-10T08:22:29+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_secure_storage` at `2026-09-11T20:20:34+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -95,7 +95,7 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1701)](../by-category/filesystem-os.md) · [Formatter (667)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (376)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6068)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6069)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (551)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1086)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (323)](../by-category/precommit-ci-quality.md)

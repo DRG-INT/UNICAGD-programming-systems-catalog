@@ -17,7 +17,7 @@ Records: `646`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -141,10 +141,10 @@ Records: `646`
 | @alfresco/adf-testing | 7.0.0-alpha.6 | 2024-11-20T17:10:53.435Z | [open](../records/node-js-javascript-alfresco-adf-testing-65808cb1.md) |
 | @apollo/react-testing | 4.0.0 | 2020-07-20T13:34:15.287Z | [open](../records/node-js-javascript-apollo-react-testing-111f6dbc.md) |
 | @argos-ci/browser | 6.4.5 | 2026-08-02T12:58:16.403Z | [open](../records/node-js-javascript-argos-ci-browser-fe19edc4.md) |
-| @argos-ci/cli | 6.9.2 | 2026-09-04T14:13:22.552Z | [open](../records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
-| @argos-ci/core | 6.8.3 | 2026-09-04T14:13:19.107Z | [open](../records/node-js-javascript-argos-ci-core-16d6b998.md) |
-| @argos-ci/playwright | 7.5.0 | 2026-09-04T14:15:05.650Z | [open](../records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
-| @argos-ci/storybook | 6.3.0 | 2026-09-05T10:48:26.984Z | [open](../records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
+| @argos-ci/cli | 6.9.3 | 2026-09-11T19:15:21.444Z | [open](../records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
+| @argos-ci/core | 6.8.4 | 2026-09-11T19:16:13.276Z | [open](../records/node-js-javascript-argos-ci-core-16d6b998.md) |
+| @argos-ci/playwright | 7.5.1 | 2026-09-11T19:16:23.545Z | [open](../records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
+| @argos-ci/storybook | 6.3.1 | 2026-09-11T19:15:43.050Z | [open](../records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
 | @atomic-testing/component-driver-html | 0.104.0 | 2026-08-20T13:18:24.603Z | [open](../records/node-js-javascript-atomic-testing-component-driver-html-6686bccf.md) |
 | @atomic-testing/dom-core | 0.104.0 | 2026-08-20T13:17:40.098Z | [open](../records/node-js-javascript-atomic-testing-dom-core-0cf77348.md) |
 | @atomic-testing/playwright | 0.104.0 | 2026-08-20T13:20:54.461Z | [open](../records/node-js-javascript-atomic-testing-playwright-2dd5d8af.md) |
@@ -284,7 +284,7 @@ Records: `646`
 | chromatic | 18.8.1 | 2026-09-11T15:09:03.730Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
 | cli-testing-library | 4.0.0 | 2026-08-11T05:46:42.024Z | [open](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
 | codeceptjs | 4.1.0 | 2026-07-30T09:55:16.034Z | [open](../records/node-js-javascript-codeceptjs-c62ce818.md) |
-| convex-test | 0.0.57 | 2026-09-09T22:37:05.243Z | [open](../records/node-js-javascript-convex-test-7a685bbc.md) |
+| convex-test | 0.0.58 | 2026-09-11T19:54:06.970Z | [open](../records/node-js-javascript-convex-test-7a685bbc.md) |
 | css-vendor | 2.0.8 | 2020-04-04T18:53:13.042Z | [open](../records/node-js-javascript-css-vendor-97afeba9.md) |
 | cypress | 16.0.0 | 2026-09-01T14:33:18.616Z | [open](../records/node-js-javascript-cypress-8aa475c3.md) |
 | cypress-image-diff-js | 2.8.0 | 2026-03-23T16:26:48.775Z | [open](../records/node-js-javascript-cypress-image-diff-js-7fc57b07.md) |
@@ -562,7 +562,7 @@ Records: `646`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| CorentinGS/chess | unknown | not_a_go_module_path | [open](../records/go-corentings-chess-b4035143.md) |
+| CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
 | Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
 | quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |

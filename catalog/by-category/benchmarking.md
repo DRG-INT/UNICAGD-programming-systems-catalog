@@ -17,7 +17,7 @@ Records: `209`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6068)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6069)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
@@ -131,12 +131,12 @@ Records: `209`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| jeffotoni/quick | unknown | not_a_go_module_path | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
+| jeffotoni/quick | partial | 2026-05-08T15:01:00Z | [open](../records/go-jeffotoni-quick-3e9e02ab.md) |
 | kataras/iris | partial | 2026-07-27T09:34:12Z | [open](../records/go-kataras-iris-811820fb.md) |
 | nats-io/nats-server | partial | 2026-09-11T15:42:50Z | [open](../records/go-nats-io-nats-server-a11f8ca6.md) |
-| nelthaarion/breeze | unknown | not_a_go_module_path | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
-| sohaha/zlsgo | unknown | not_a_go_module_path | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
-| tigalabs/tigago | unknown | not_a_go_module_path | [open](../records/go-tigalabs-tigago-6e360e88.md) |
+| nelthaarion/breeze | partial | 2026-09-10T21:14:02Z | [open](../records/go-nelthaarion-breeze-919adbb5.md) |
+| sohaha/zlsgo | partial | 2026-07-20T07:16:38Z | [open](../records/go-sohaha-zlsgo-804fc40e.md) |
+| tigalabs/tigago | partial | 2022-11-12T12:26:48Z | [open](../records/go-tigalabs-tigago-6e360e88.md) |
 
 ## "aim's"
 
