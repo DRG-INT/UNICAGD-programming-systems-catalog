@@ -9,7 +9,7 @@ Records: `495`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
@@ -17,14 +17,14 @@ Records: `495`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · **[Web Framework (495)](web-framework.md)**
 
 ## C++23
 
@@ -247,7 +247,7 @@ Records: `495`
 | @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.20 | 2026-09-10T12:51:14.362Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
-| @umijs/server | 4.7.16 | 2026-09-09T07:02:30.161Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
+| @umijs/server | 4.7.17 | 2026-09-11T08:03:03.325Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
 | @upstash/context7-mcp | 4.0.7 | 2026-09-09T14:03:21.539Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/android-server | 2.2.0 | 2026-08-03T13:16:02.753Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
@@ -292,7 +292,7 @@ Records: `495`
 | nise | 6.1.5 | 2026-04-11T16:53:28.589Z | [open](../records/node-js-javascript-nise-77cc8dea.md) |
 | node-git-server | 1.0.0 | 2022-07-11T06:10:12.631Z | [open](../records/node-js-javascript-node-git-server-66706502.md) |
 | node-media-server | 4.4.3 | 2026-09-10T09:35:27.534Z | [open](../records/node-js-javascript-node-media-server-61ce0684.md) |
-| node-opcua-server | 2.183.0 | 2026-09-10T20:14:11.553Z | [open](../records/node-js-javascript-node-opcua-server-32472434.md) |
+| node-opcua-server | 2.183.1 | 2026-09-11T08:05:43.583Z | [open](../records/node-js-javascript-node-opcua-server-32472434.md) |
 | parse-server | 9.10.0 | 2026-07-13T01:05:33.110Z | [open](../records/node-js-javascript-parse-server-ccf3124b.md) |
 | pglite-server | 0.1.5 | 2026-02-07T15:42:23.150Z | [open](../records/node-js-javascript-pglite-server-99d33674.md) |
 | pushstate-server | 3.1.0 | 2019-02-12T15:15:42.853Z | [open](../records/node-js-javascript-pushstate-server-e4f6f274.md) |
@@ -498,7 +498,7 @@ Records: `495`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | agentstation/starmap | partial | 2026-09-01T18:39:39Z | [open](../records/space-maps-agentstation-starmap-8fdcd317.md) |
-| Cognitohazard/ltspice-mcp | partial | 2026-09-09T01:10:02Z | [open](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) |
+| Cognitohazard/ltspice-mcp | partial | 2026-09-11T05:40:48Z | [open](../records/space-maps-cognitohazard-ltspice-mcp-ccd6f8ba.md) |
 | peteanderson80/coco-caption | partial | 2023-02-02T12:41:12Z | [open](../records/space-maps-peteanderson80-coco-caption-9e729876.md) |
 
 ## Effects

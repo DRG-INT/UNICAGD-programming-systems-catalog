@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (235)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1040)](by-category/build-system.md) · [Cli (593)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1040)](by-category/build-system.md) · [Cli (595)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](by-category/community-reference.md) · [Compiler (177)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (140)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (252)](by-category/datetime.md)
@@ -13,14 +13,14 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1699)](by-category/filesystem-os.md) · [Formatter (665)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (375)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (288)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6050)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (852)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6056)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (549)](by-category/logging-observability.md) · [Machine Learning (852)](by-category/machine-learning.md)
 [Math Numeric Scientific (95)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1085)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](by-category/precommit-ci-quality.md)
 [Profiler (97)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (663)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (639)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1658)](by-category/undefined-behavior-analyzer.md) · [Utility Library (106)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (666)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (640)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1658)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (648)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -893,6 +893,7 @@
 | `cran_packages_by_date-0ad36d1dcc6064` | VLMC | [open](records/r-vlmc-dda4f603.md) |
 | `cran_packages_by_date-0ae570689845db` | roads | [open](records/r-roads-57016556.md) |
 | `cran_packages_by_date-0af300864897ee` | BivKLD | [open](records/r-bivkld-f8a06bc5.md) |
+| `cran_packages_by_date-0b2a783f5a3ccf` | MBHdesign | [open](records/r-mbhdesign-fa941706.md) |
 | `cran_packages_by_date-0b6d40f3ec1a0d` | CausalState | [open](records/r-causalstate-3d54ad2d.md) |
 | `cran_packages_by_date-0baff75eb3be4f` | c3 | [open](records/r-c3-1fc1201b.md) |
 | `cran_packages_by_date-0bc35b7087dceb` | scov | [open](records/r-scov-c80bd944.md) |
@@ -931,6 +932,7 @@
 | `cran_packages_by_date-10107c8fdc5d26` | llamaR | [open](records/r-llamar-6bb0a48d.md) |
 | `cran_packages_by_date-10982cffe06c8e` | PxWebApiData | [open](records/r-pxwebapidata-7e7a97c2.md) |
 | `cran_packages_by_date-10a5388ccc7f9f` | Statamarkdown | [open](records/r-statamarkdown-0cb821c0.md) |
+| `cran_packages_by_date-10b957f2abe265` | crmn | [open](records/r-crmn-b57b32b1.md) |
 | `cran_packages_by_date-110431ad4221e1` | grmtree | [open](records/r-grmtree-7bd888b0.md) |
 | `cran_packages_by_date-11153dc8214b16` | miapack | [open](records/r-miapack-d6f599dd.md) |
 | `cran_packages_by_date-115861d9328c19` | rstudiothemes | [open](records/r-rstudiothemes-1ea19ceb.md) |
@@ -1454,6 +1456,7 @@
 | `cran_packages_by_date-52f13d9e314a40` | mapnhanespa | [open](records/r-mapnhanespa-ac9da626.md) |
 | `cran_packages_by_date-5310543074b96e` | rjd3xjars | [open](records/r-rjd3xjars-1b26591f.md) |
 | `cran_packages_by_date-53be029b172ba6` | PTLENKies | [open](records/r-ptlenkies-95124d4c.md) |
+| `cran_packages_by_date-53d0d2f805fddf` | spatstat.utils | [open](records/r-spatstat-utils-e9bae30a.md) |
 | `cran_packages_by_date-53e647e8cc4977` | inferstat | [open](records/r-inferstat-8a10c87c.md) |
 | `cran_packages_by_date-5406be69e9fc81` | repo | [open](records/r-repo-1b48584f.md) |
 | `cran_packages_by_date-5408bffb6a037f` | DAGassist | [open](records/r-dagassist-b248a183.md) |
@@ -1586,6 +1589,7 @@
 | `cran_packages_by_date-63a1bdd65fab31` | confidenceCurves | [open](records/r-confidencecurves-97918e35.md) |
 | `cran_packages_by_date-63aa4c529156bb` | r4pde | [open](records/r-r4pde-c9e87443.md) |
 | `cran_packages_by_date-63b550b16195ad` | summata | [open](records/r-summata-bb837bd7.md) |
+| `cran_packages_by_date-63cbe0fc364c3d` | evola | [open](records/r-evola-2b243439.md) |
 | `cran_packages_by_date-63dcc383ab34c1` | RCurl | [open](records/r-rcurl-072f2355.md) |
 | `cran_packages_by_date-6421b2bcfa3806` | riskPredictClustData | [open](records/r-riskpredictclustdata-34315fd2.md) |
 | `cran_packages_by_date-64343a5727e743` | GLHD | [open](records/r-glhd-7b95ebc1.md) |
@@ -1647,6 +1651,7 @@
 | `cran_packages_by_date-6c4f120ea0f8e2` | isocountry | [open](records/r-isocountry-2291694b.md) |
 | `cran_packages_by_date-6c5d554d5c1330` | openscoring | [open](records/r-openscoring-7f6eebf2.md) |
 | `cran_packages_by_date-6ca4972ced4342` | FactoMineR | [open](records/r-factominer-4fff017e.md) |
+| `cran_packages_by_date-6d067605e55a10` | sommer | [open](records/r-sommer-289afe0d.md) |
 | `cran_packages_by_date-6d0d68da8d9a6f` | statease | [open](records/r-statease-15caaa60.md) |
 | `cran_packages_by_date-6d8d378d2e883a` | D4TAlink.light | [open](records/r-d4talink-light-d725bd05.md) |
 | `cran_packages_by_date-6d8d7d6d1d650a` | tram | [open](records/r-tram-3c8e1e4a.md) |
@@ -1848,6 +1853,7 @@
 | `cran_packages_by_date-847de6759703d3` | EDIutils | [open](records/r-ediutils-613f36b0.md) |
 | `cran_packages_by_date-84aba603066200` | stepcount | [open](records/r-stepcount-2583c11b.md) |
 | `cran_packages_by_date-84f3b02f1a8605` | cardinalfda | [open](records/r-cardinalfda-cb361987.md) |
+| `cran_packages_by_date-853538102df245` | simr | [open](records/r-simr-e09db19c.md) |
 | `cran_packages_by_date-855e18da4007ff` | circumplex | [open](records/r-circumplex-e80741d7.md) |
 | `cran_packages_by_date-856bd54d0833fe` | policytree | [open](records/r-policytree-989effd3.md) |
 | `cran_packages_by_date-859ca29b71d718` | gamstransfer | [open](records/r-gamstransfer-36e2e484.md) |
@@ -1941,6 +1947,7 @@
 | `cran_packages_by_date-8fa9f996a36cd2` | readNSx | [open](records/r-readnsx-d0c4eb4f.md) |
 | `cran_packages_by_date-8fc99a1aeacbc5` | grt | [open](records/r-grt-5dc177f8.md) |
 | `cran_packages_by_date-8fdf738229eb6b` | hockeystick | [open](records/r-hockeystick-1ba5d0f4.md) |
+| `cran_packages_by_date-8fe7e0d71327f7` | lme4breeding | [open](records/r-lme4breeding-d936aad8.md) |
 | `cran_packages_by_date-8fefa1dd8eb8fd` | RSEML | [open](records/r-rseml-3f12746d.md) |
 | `cran_packages_by_date-8ffa70a4af85fb` | PLSsemEngine | [open](records/r-plssemengine-421937bf.md) |
 | `cran_packages_by_date-901acf4287a040` | resemble | [open](records/r-resemble-e664c62d.md) |
@@ -2168,6 +2175,7 @@
 | `cran_packages_by_date-ac7c6771908748` | EFAtools | [open](records/r-efatools-98f22e4b.md) |
 | `cran_packages_by_date-acd36d9f15692f` | DepDoubleTruncKS | [open](records/r-depdoubletruncks-0f7d5586.md) |
 | `cran_packages_by_date-acf5f0c00157e3` | recipes | [open](records/r-recipes-3c2cc0ff.md) |
+| `cran_packages_by_date-ad1ae079328d3a` | sf | [open](records/r-sf-d645920e.md) |
 | `cran_packages_by_date-ad2adb4086f8f6` | seqmagick | [open](records/r-seqmagick-7853840d.md) |
 | `cran_packages_by_date-add57519214f99` | ofemeantest | [open](records/r-ofemeantest-8c9a2d80.md) |
 | `cran_packages_by_date-adddf255931af9` | datasetjson | [open](records/r-datasetjson-816e7708.md) |
@@ -2236,6 +2244,7 @@
 | `cran_packages_by_date-b8a088c3a89d58` | salmonMSE | [open](records/r-salmonmse-8060cab1.md) |
 | `cran_packages_by_date-b8e29ec8b928fc` | IGPFrailty | [open](records/r-igpfrailty-34b7cd8d.md) |
 | `cran_packages_by_date-b9b2913b8da714` | AdsorpR | [open](records/r-adsorpr-d73e1be6.md) |
+| `cran_packages_by_date-b9b5dd22a9f6f8` | grattanInflators | [open](records/r-grattaninflators-3bffc26f.md) |
 | `cran_packages_by_date-b9c1f4a611ff15` | ravepipeline | [open](records/r-ravepipeline-8cdfb5b3.md) |
 | `cran_packages_by_date-b9d5d8d3a65246` | RSQLite.toolkit | [open](records/r-rsqlite-toolkit-c2082ddc.md) |
 | `cran_packages_by_date-ba02a6104d3441` | Keng | [open](records/r-keng-3c943f29.md) |
@@ -2473,6 +2482,7 @@
 | `cran_packages_by_date-d881e3e63e05b7` | tidygedcom | [open](records/r-tidygedcom-43e8e561.md) |
 | `cran_packages_by_date-d8949f2e5d92a8` | CLDedgelister | [open](records/r-cldedgelister-12643d0d.md) |
 | `cran_packages_by_date-d8a29c142a4362` | checker | [open](records/r-checker-4a867235.md) |
+| `cran_packages_by_date-d8beb6de74b806` | wcswatin | [open](records/r-wcswatin-d3d2f92f.md) |
 | `cran_packages_by_date-d9646790eaadf3` | graphvec | [open](records/r-graphvec-9d46eb2d.md) |
 | `cran_packages_by_date-d96502edbb00b3` | geostatsp | [open](records/r-geostatsp-0adaba0c.md) |
 | `cran_packages_by_date-d991e9a5afdbc5` | vimixr | [open](records/r-vimixr-f8799ed6.md) |
@@ -2480,6 +2490,7 @@
 | `cran_packages_by_date-da4b70ca4a5c8a` | tesouror | [open](records/r-tesouror-0a7b94e7.md) |
 | `cran_packages_by_date-da555f6fab78f9` | nodbi | [open](records/r-nodbi-eed93726.md) |
 | `cran_packages_by_date-da9688f350c54b` | spmodel | [open](records/r-spmodel-a596fec2.md) |
+| `cran_packages_by_date-dad7aa57a7753c` | afc | [open](records/r-afc-cfe05721.md) |
 | `cran_packages_by_date-dad8b1833269a1` | dendroextras | [open](records/r-dendroextras-9d022229.md) |
 | `cran_packages_by_date-db0a3338b31684` | minex | [open](records/r-minex-a53683b5.md) |
 | `cran_packages_by_date-db10cd5853c0f3` | scimesh | [open](records/r-scimesh-91e77ee3.md) |
@@ -2614,6 +2625,7 @@
 | `cran_packages_by_date-e9fd5117ae4410` | infometrics | [open](records/r-infometrics-a06c3ff5.md) |
 | `cran_packages_by_date-ea378002e74c64` | moveEZ | [open](records/r-moveez-051173a5.md) |
 | `cran_packages_by_date-ea7efb44156535` | insurancerating | [open](records/r-insurancerating-fcf34652.md) |
+| `cran_packages_by_date-ea9cad4df0a58b` | ICESat2VegR | [open](records/r-icesat2vegr-37412692.md) |
 | `cran_packages_by_date-eaecb2ae9687c4` | tplyr2 | [open](records/r-tplyr2-30670dc5.md) |
 | `cran_packages_by_date-eaf7cb4f41cfa2` | bayesqm | [open](records/r-bayesqm-5bfa0e0e.md) |
 | `cran_packages_by_date-eb14241e11885b` | kfda | [open](records/r-kfda-5f736055.md) |
@@ -24577,6 +24589,7 @@
 | `npm_registry-2d67d323d394a0` | @rnx-kit/types-plugin-typescript | [open](records/node-js-typescript-rnx-kit-types-plugin-typescript-bb0636b5.md) |
 | `npm_registry-2d813208bcbfdf` | @devcontainers/cli | [open](records/node-js-javascript-devcontainers-cli-6df3ec6d.md) |
 | `npm_registry-2dbe11f8984710` | @chanzuckerberg/axe-storybook-testing | [open](records/node-js-javascript-chanzuckerberg-axe-storybook-testing-e02a0405.md) |
+| `npm_registry-2dd41899fad60b` | @gjsify/cli | [open](records/node-js-javascript-gjsify-cli-93fdc27b.md) |
 | `npm_registry-2ddcf2c3902193` | mutation-server-protocol | [open](records/node-js-javascript-mutation-server-protocol-97fe4ce4.md) |
 | `npm_registry-2e054545351078` | @digitalbazaar/security-context | [open](records/node-js-javascript-digitalbazaar-security-context-be7e7702.md) |
 | `npm_registry-2e170d51b3ff79` | type-testing | [open](records/node-js-typescript-type-testing-4fa65126.md) |
@@ -26587,6 +26600,7 @@
 | `npm_registry-ea7d86ce213446` | @sap/logging | [open](records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | `npm_registry-eab6efec33d4f7` | acorn-typescript | [open](records/node-js-typescript-acorn-typescript-8a3c641b.md) |
 | `npm_registry-eaefaef2e457e1` | @graphql-codegen/typescript-operations | [open](records/node-js-typescript-graphql-codegen-typescript-operations-925915b6.md) |
+| `npm_registry-eb0365f1990dcb` | @oxc-angular-testing/jest | [open](records/node-js-javascript-oxc-angular-testing-jest-7c731da7.md) |
 | `npm_registry-eb17438b861a2c` | ubiq-security-fpe | [open](records/node-js-javascript-ubiq-security-fpe-89313e04.md) |
 | `npm_registry-eb3bea496409b5` | eslint-plugin-babel | [open](records/node-js-javascript-eslint-plugin-babel-bd91318f.md) |
 | `npm_registry-eb4953bd0fcc77` | agent-security-scanner-mcp | [open](records/node-js-javascript-agent-security-scanner-mcp-1c8d9216.md) |

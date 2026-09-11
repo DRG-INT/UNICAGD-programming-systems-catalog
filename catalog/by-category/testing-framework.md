@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `639`
+Records: `640`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `639`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
@@ -17,14 +17,14 @@ Records: `639`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6050)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6056)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (639)](testing-framework.md)** · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (640)](testing-framework.md)** · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -167,8 +167,8 @@ Records: `639`
 | @ember/test-helpers | 5.4.3 | 2026-06-12T16:29:39.921Z | [open](../records/node-js-javascript-ember-test-helpers-4de3b607.md) |
 | @ephox/agar | 10.0.0 | 2026-03-31T04:20:35.547Z | [open](../records/node-js-javascript-ephox-agar-6f0ac225.md) |
 | @ethereum-waffle/ens | 4.0.3 | 2023-01-26T13:40:29.215Z | [open](../records/node-js-javascript-ethereum-waffle-ens-9b249fe3.md) |
-| @fast-check/jest | 2.2.0 | 2026-03-08T13:49:07.370Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
-| @fast-check/vitest | 0.4.1 | 2026-04-28T22:22:05.897Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
+| @fast-check/jest | 2.3.0 | 2026-09-11T07:51:16.759Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
+| @fast-check/vitest | 0.5.0 | 2026-09-11T07:53:32.669Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | @fedify/testing | 2.3.6 | 2026-08-23T15:05:59.804Z | [open](../records/node-js-javascript-fedify-testing-fe851537.md) |
 | @genesislcap/foundation-testing | 15.26.0 | 2026-09-09T13:46:52.409Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
@@ -203,11 +203,12 @@ Records: `639`
 | @open-wc/testing-helpers | 3.0.1 | 2024-04-23T15:31:03.343Z | [open](../records/node-js-javascript-open-wc-testing-helpers-c5380725.md) |
 | @open-wc/testing-karma | 4.0.9 | 2020-10-11T20:09:20.345Z | [open](../records/node-js-javascript-open-wc-testing-karma-46b98496.md) |
 | @opra/testing | 1.30.1 | 2026-09-10T13:21:28.418Z | [open](../records/node-js-javascript-opra-testing-a0ec9557.md) |
+| @oxc-angular-testing/jest | 0.0.16-beta.1 | 2026-08-22T00:34:00.676Z | [open](../records/node-js-javascript-oxc-angular-testing-jest-7c731da7.md) |
 | @percy/appium-app | 2.1.0 | 2025-04-22T12:40:46.092Z | [open](../records/node-js-javascript-percy-appium-app-cbe82335.md) |
 | @percy/cypress | 3.1.9 | 2026-07-13T12:56:39.908Z | [open](../records/node-js-javascript-percy-cypress-f70f3e03.md) |
 | @percy/playwright | 1.1.2 | 2026-08-06T10:43:46.572Z | [open](../records/node-js-javascript-percy-playwright-732244e2.md) |
 | @percy/selenium-webdriver | 2.2.7 | 2026-07-13T12:56:09.968Z | [open](../records/node-js-javascript-percy-selenium-webdriver-9f80bd32.md) |
-| @percy/storybook | 10.0.2 | 2026-08-21T10:22:22.331Z | [open](../records/node-js-javascript-percy-storybook-ee778c3d.md) |
+| @percy/storybook | 10.0.3 | 2026-09-11T08:02:48.490Z | [open](../records/node-js-javascript-percy-storybook-ee778c3d.md) |
 | @pinia/testing | 2.0.1 | 2026-07-15T08:38:23.086Z | [open](../records/node-js-javascript-pinia-testing-0962d80c.md) |
 | @playwright-testing-library/test | 4.5.0 | 2022-09-28T19:49:10.503Z | [open](../records/node-js-javascript-playwright-testing-library-test-f5a36ca3.md) |
 | @playwright/experimental-ct-core | 1.62.1 | 2026-07-30T16:37:26.596Z | [open](../records/node-js-javascript-playwright-experimental-ct-core-933720a7.md) |
@@ -297,7 +298,7 @@ Records: `639`
 | enzyme-adapter-utils | 1.14.2 | 2024-02-10T02:58:37.543Z | [open](../records/node-js-javascript-enzyme-adapter-utils-82bde20d.md) |
 | enzyme-matchers | 7.1.2 | 2019-10-29T15:42:33.560Z | [open](../records/node-js-javascript-enzyme-matchers-4434c567.md) |
 | exframe-testing | 4.0.2 | 2026-07-15T10:47:20.142Z | [open](../records/node-js-javascript-exframe-testing-7e2f2db3.md) |
-| fast-check | 4.9.0 | 2026-07-08T21:33:03.026Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
+| fast-check | 4.10.0 | 2026-09-11T07:53:24.309Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
 | firebase-functions-test | 3.5.0 | 2026-05-08T21:21:33.788Z | [open](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) |
 | fresh | 0.5.2 | 2017-09-14T05:03:12.205Z | [open](../records/node-js-javascript-fresh-e4b0551f.md) |
 | graphile-test | 5.14.6 | 2026-09-08T19:01:06.355Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
@@ -334,7 +335,7 @@ Records: `639`
 | neon-testing | 3.0.1 | 2026-08-14T19:19:26.164Z | [open](../records/node-js-javascript-neon-testing-03fdcc58.md) |
 | ngx-translate-testing | 7.0.0 | 2023-06-10T12:32:20.605Z | [open](../records/node-js-javascript-ngx-translate-testing-45664b62.md) |
 | node-mocks-http | 1.18.1 | 2026-07-16T21:25:09.103Z | [open](../records/node-js-javascript-node-mocks-http-5a34d793.md) |
-| node-opcua-address-space-for-conformance-testing | 2.183.0 | 2026-09-10T20:13:22.882Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
+| node-opcua-address-space-for-conformance-testing | 2.183.1 | 2026-09-11T08:04:22.130Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | oauth2-mock-server | 9.1.0 | 2026-06-30T09:59:08.498Z | [open](../records/node-js-javascript-oauth2-mock-server-20f3c489.md) |
 | oauth2-server | 3.1.1 | 2020-07-14T18:27:11.508Z | [open](../records/node-js-javascript-oauth2-server-6670efea.md) |
 | ospec | 4.2.1 | 2024-09-02T16:24:31.235Z | [open](../records/node-js-javascript-ospec-f0172c41.md) |
@@ -888,4 +889,4 @@ Records: `639`
 | Gitea: marco.fullstack2/devops_test | partial | 2026-01-27T15:06:12Z | [open](../records/repository-workplaces-gitea-marco-fullstack2-devops-test-054aeba6.md) |
 | Gitea: nhanpt/config-server-test | partial | 2023-12-28T08:40:58Z | [open](../records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
 | Gitea: sillyguodong/asciicast_test | partial | 2023-04-21T03:04:25Z | [open](../records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
-| postgres-ai/database-lab | partial | 2026-09-11T04:06:17.068Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
+| postgres-ai/database-lab | partial | 2026-09-11T07:31:47.175Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |

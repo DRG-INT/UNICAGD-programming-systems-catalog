@@ -9,7 +9,7 @@ Records: `765`
 ## Category Index
 
 [Api Abi Checker (235)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (209)](../by-category/benchmarking.md) · [Build System (1040)](../by-category/build-system.md) · [Cli (593)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (209)](../by-category/benchmarking.md) · [Build System (1040)](../by-category/build-system.md) · [Cli (595)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](../by-category/community-reference.md) · [Compiler (177)](../by-category/compiler.md) · [Compiler Diagnostics (25)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (140)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (182)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (252)](../by-category/datetime.md)
@@ -17,14 +17,14 @@ Records: `765`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1699)](../by-category/filesystem-os.md) · [Formatter (665)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (375)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (288)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6050)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (548)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6056)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (549)](../by-category/logging-observability.md) · [Machine Learning (852)](../by-category/machine-learning.md)
 [Math Numeric Scientific (95)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1085)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1238)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (322)](../by-category/precommit-ci-quality.md)
 [Profiler (97)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (663)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (639)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1658)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (106)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
+[Security Sast (340)](../by-category/security-sast.md) · [Serialization (404)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (666)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (640)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1658)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (648)](../by-category/visualization-gui.md) · [Web Framework (495)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -71,7 +71,7 @@ Records: `765`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [accessibility_tools](../records/dart-accessibility-tools-02c388e7.md) | 2.8.0 | 2025-11-13T10:37:26.877158Z | registry-derived |
+| [accessibility_tools](../records/dart-accessibility-tools-02c388e7.md) | 3.0.0 | 2026-09-11T07:38:44.544170Z | registry-derived |
 | [alchemist](../records/dart-alchemist-fcb4ed9e.md) | 0.14.0 | 2026-03-13T13:33:30.915976Z | registry-derived |
 | [auto_injector](../records/dart-auto-injector-f55dd145.md) | 2.2.0 | 2026-06-24T01:06:01.014247Z | registry-derived |
 | [bloc_test](../records/dart-bloc-test-67133360.md) | 10.0.0 | 2025-01-12T21:09:50.622153Z | registry-derived |
@@ -210,7 +210,7 @@ Records: `765`
 | [drift_flutter](../records/dart-drift-flutter-475023b9.md) | 0.3.1 | 2026-07-11T09:52:38.707710Z | registry-derived |
 | [postgres](../records/dart-postgres-36d0d96d.md) | 3.5.12 | 2026-06-11T15:02:50.869497Z | registry-derived |
 | [sqflite](../records/dart-sqflite-095e3684.md) | 2.4.4 | 2026-09-10T14:19:09.906233Z | registry-derived |
-| [sqflite_common](../records/dart-sqflite-common-296faecb.md) | 2.5.11 | 2026-06-11T21:45:31.594596Z | registry-derived |
+| [sqflite_common](../records/dart-sqflite-common-296faecb.md) | 2.5.12 | 2026-09-10T14:19:34.034587Z | registry-derived |
 | [sqlite3_flutter_libs](../records/dart-sqlite3-flutter-libs-9b6fee4a.md) | 0.6.0+eol | 2026-02-15T18:55:45.668038Z | registry-derived |
 | [timezone](../records/dart-timezone-b9205c53.md) | 0.11.1 | 2026-06-29T07:44:30.784613Z | registry-derived |
 
@@ -478,7 +478,7 @@ Records: `765`
 | [photo_manager](../records/dart-photo-manager-329b0817.md) | 3.12.0 | 2026-08-09T00:51:03.188008Z | registry-derived |
 | [photo_view](../records/dart-photo-view-57a30e6c.md) | 0.15.0 | 2024-04-17T21:10:06.324115Z | registry-derived |
 | [postgrest](../records/dart-postgrest-159001a6.md) | 2.9.1 | 2026-08-05T08:47:45.204815Z | registry-derived |
-| [pro_image_editor](../records/dart-pro-image-editor-ca6b5a34.md) | 14.1.0 | 2026-09-10T12:12:26.807683Z | registry-derived |
+| [pro_image_editor](../records/dart-pro-image-editor-ca6b5a34.md) | 14.1.1 | 2026-09-11T07:44:22.975825Z | registry-derived |
 | [pro_video_editor](../records/dart-pro-video-editor-f2637419.md) | 2.12.0 | 2026-09-10T09:34:36.293796Z | registry-derived |
 | [profanity_filter](../records/dart-profanity-filter-9c55e3a5.md) | 2.0.0 | 2021-06-29T16:50:08.536195Z | registry-derived |
 | [saver_gallery](../records/dart-saver-gallery-bfdf1959.md) | 5.1.0 | 2026-05-29T08:05:20.881418Z | registry-derived |
@@ -1018,7 +1018,7 @@ Records: `765`
 | [just_waveform](../records/dart-just-waveform-564e0a55.md) | 0.0.7 | 2025-03-30T13:09:38.884961Z | registry-derived |
 | [native_device_orientation](../records/dart-native-device-orientation-94e1f74f.md) | 2.1.3 | 2026-09-06T21:06:14.200391Z | registry-derived |
 | [persistent_bottom_nav_bar_v2](../records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) | 6.4.0 | 2026-08-10T22:23:40.208953Z | registry-derived |
-| [pin_code_fields](../records/dart-pin-code-fields-1b47ca5f.md) | 9.4.0 | 2026-05-20T09:53:40.015281Z | registry-derived |
+| [pin_code_fields](../records/dart-pin-code-fields-1b47ca5f.md) | 10.0.0 | 2026-09-11T07:55:50.991810Z | registry-derived |
 | [scaled_app](../records/dart-scaled-app-83e99a29.md) | 2.3.2 | 2026-08-18T15:26:31.052429Z | registry-derived |
 | [shadcn_ui](../records/dart-shadcn-ui-58fde214.md) | 0.56.3 | 2026-09-03T12:41:04.564642Z | registry-derived |
 | [sizer](../records/dart-sizer-a32a470d.md) | 3.1.3 | 2025-08-26T09:28:34.030481Z | registry-derived |

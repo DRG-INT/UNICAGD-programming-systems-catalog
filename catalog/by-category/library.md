@@ -1,6 +1,6 @@
 # Library
 
-Records: `6050`
+Records: `6056`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `6050`
 ## Category Index
 
 [Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (593)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (252)](datetime.md)
@@ -17,14 +17,14 @@ Records: `6050`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1699)](filesystem-os.md) · [Formatter (665)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (375)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6050)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (548)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6056)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (549)](logging-observability.md) · [Machine Learning (852)](machine-learning.md)
 [Math Numeric Scientific (95)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1085)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1238)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
 [Profiler (97)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (663)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (639)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (106)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (666)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (640)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1658)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -2470,6 +2470,7 @@ Records: `6050`
 | AdMit | 2.1.12 | 2026-08-21 15:50:12 UTC | [open](../records/r-admit-c8c00ab6.md) |
 | AdsorpR | 0.1.1 | 2026-09-02 11:10:14 UTC | [open](../records/r-adsorpr-d73e1be6.md) |
 | aemo | 0.4.2 | 2026-09-09 10:40:33 UTC | [open](../records/r-aemo-46c8bc85.md) |
+| afc | 1.5.0 | 2026-09-11 07:30:02 UTC | [open](../records/r-afc-cfe05721.md) |
 | agridatasets | 0.1.1 | 2026-08-20 23:02:10 UTC | [open](../records/r-agridatasets-e3f10978.md) |
 | ALDEx3 | 1.3.1 | 2026-08-26 15:40:02 UTC | [open](../records/r-aldex3-abb0334f.md) |
 | allofus | 1.3.0 | 2026-09-03 15:40:08 UTC | [open](../records/r-allofus-51762bfa.md) |
@@ -2589,6 +2590,7 @@ Records: `6050`
 | countSTAR | 1.2.1 | 2026-08-21 05:50:02 UTC | [open](../records/r-countstar-46511233.md) |
 | coursekata | 0.20.1 | 2026-08-22 15:10:32 UTC | [open](../records/r-coursekata-356923c4.md) |
 | cox.rvph | 0.2.1 | 2026-09-05 16:20:15 UTC | [open](../records/r-cox-rvph-ebf0e677.md) |
+| crmn | 0.0.22 | 2026-09-11 07:40:07 UTC | [open](../records/r-crmn-b57b32b1.md) |
 | crops | 1.0.4 | 2026-09-04 13:50:01 UTC | [open](../records/r-crops-133aa91c.md) |
 | crs | 0.15-46 | 2026-08-19 16:40:02 UTC | [open](../records/r-crs-15303fff.md) |
 | csranks | 1.3.0 | 2026-08-21 05:44:19 UTC | [open](../records/r-csranks-d89e3d2e.md) |
@@ -2642,6 +2644,7 @@ Records: `6050`
 | eulerr | 8.3.0 | 2026-08-21 21:50:10 UTC | [open](../records/r-eulerr-c769d78e.md) |
 | evalHTE | 0.2.0 | 2026-09-07 08:30:02 UTC | [open](../records/r-evalhte-ae43f06b.md) |
 | evgam | 1.0.2 | 2026-09-03 14:30:09 UTC | [open](../records/r-evgam-fb8105aa.md) |
+| evola | 1.0.9 | 2026-09-11 06:30:12 UTC | [open](../records/r-evola-2b243439.md) |
 | exdqlm | 1.1.1 | 2026-08-28 19:00:02 UTC | [open](../records/r-exdqlm-82eabd48.md) |
 | ExpDesignR | 1.0.0 | 2026-09-01 12:40:08 UTC | [open](../records/r-expdesignr-ca6d468b.md) |
 | ExperimentalDesignGeneratorandRandomiser | 0.1.0 | 2026-09-02 12:30:13 UTC | [open](../records/r-experimentaldesigngeneratorandrandomiser-c207090b.md) |
@@ -2679,7 +2682,7 @@ Records: `6050`
 | gfunctions | 1.2 | 2026-08-21 05:43:46 UTC | [open](../records/r-gfunctions-501fc07a.md) |
 | GGIRread | 1.0.10 | 2026-08-26 08:50:11 UTC | [open](../records/r-ggirread-2f7f18be.md) |
 | ggm | 2.5.4 | 2026-08-04 11:00:02 UTC | [open](../records/r-ggm-6ef30c61.md) |
-| ggRandomForests | 3.5.2 | 2026-08-21 08:20:15 UTC | [open](../records/r-ggrandomforests-9702efc3.md) |
+| ggRandomForests | 3.5.3 | 2026-09-11 06:30:02 UTC | [open](../records/r-ggrandomforests-9702efc3.md) |
 | gkwdist | 1.1.5 | 2026-08-23 06:50:02 UTC | [open](../records/r-gkwdist-f32a856a.md) |
 | gkwreg | 2.1.18 | 2026-08-24 07:40:10 UTC | [open](../records/r-gkwreg-db25c16d.md) |
 | glcdp | 1.0.0 | 2026-08-06 13:00:02 UTC | [open](../records/r-glcdp-348db18b.md) |
@@ -2785,6 +2788,7 @@ Records: `6050`
 | linl | 0.0.6 | 2026-08-26 12:20:08 UTC | [open](../records/r-linl-02b38623.md) |
 | litedown | 0.11 | 2026-08-26 17:00:10 UTC | [open](../records/r-litedown-4e417d6a.md) |
 | litReview | 1.1.0 | 2026-08-26 11:50:02 UTC | [open](../records/r-litreview-308d8b58.md) |
+| lme4breeding | 1.1.4 | 2026-09-11 06:40:15 UTC | [open](../records/r-lme4breeding-d936aad8.md) |
 | lobstr | 1.2.2 | 2026-09-01 02:20:10 UTC | [open](../records/r-lobstr-a91719e0.md) |
 | localIV | 0.3.2 | 2026-08-21 05:42:04 UTC | [open](../records/r-localiv-e6cc531b.md) |
 | locaR | 0.3.0 | 2026-08-21 05:42:10 UTC | [open](../records/r-locar-7b4de61e.md) |
@@ -2930,7 +2934,7 @@ Records: `6050`
 | ratingtables | 0.2.2 | 2026-09-05 23:10:02 UTC | [open](../records/r-ratingtables-5c5cd2b3.md) |
 | rcompanion | 2.5.4 | 2026-08-20 05:20:43 UTC | [open](../records/r-rcompanion-9895bbbc.md) |
 | rcontroll | 0.1.3 | 2026-08-04 08:40:08 UTC | [open](../records/r-rcontroll-3db49076.md) |
-| RCppAD | 1.20260000.0 | 2026-08-07 16:10:22 UTC | [open](../records/r-rcppad-87e98746.md) |
+| RCppAD | 1.20260000.0-1 | 2026-09-11 07:00:22 UTC | [open](../records/r-rcppad-87e98746.md) |
 | RcppCGAL | 6.2.1 | 2026-09-05 05:10:13 UTC | [open](../records/r-rcppcgal-fbf935e3.md) |
 | RcppClassicExamples | 0.1.5 | 2026-09-02 17:20:07 UTC | [open](../records/r-rcppclassicexamples-6ab58c03.md) |
 | RcppExamples | 0.1.11 | 2026-09-03 14:40:08 UTC | [open](../records/r-rcppexamples-636ba5fe.md) |
@@ -3000,6 +3004,7 @@ Records: `6050`
 | SEQTaRget | 1.4.4 | 2026-08-28 07:50:02 UTC | [open](../records/r-seqtarget-050f7cdd.md) |
 | seqwrap | 0.8.1 | 2026-09-03 11:20:02 UTC | [open](../records/r-seqwrap-781d4d4f.md) |
 | SeuratExplorer | 0.1.8 | 2026-09-01 07:20:07 UTC | [open](../records/r-seuratexplorer-6311b262.md) |
+| sf | 1.1-3 | 2026-09-11 06:40:02 UTC | [open](../records/r-sf-d645920e.md) |
 | sgee | 0.6-2 | 2026-08-31 19:50:02 UTC | [open](../records/r-sgee-9edd0ee9.md) |
 | shinydataviewer | 0.2.0 | 2026-08-05 02:20:02 UTC | [open](../records/r-shinydataviewer-4cb88020.md) |
 | shinyelectron | 0.2.1 | 2026-08-07 16:10:02 UTC | [open](../records/r-shinyelectron-56c9b295.md) |
@@ -3019,6 +3024,7 @@ Records: `6050`
 | smoothROC | 0.1.0 | 2026-08-07 17:10:07 UTC | [open](../records/r-smoothroc-d767a4ae.md) |
 | smqf | 1.1-8 | 2026-08-30 14:10:02 UTC | [open](../records/r-smqf-319365b3.md) |
 | soilVAE | 0.1.10 | 2026-08-22 17:50:02 UTC | [open](../records/r-soilvae-55b34e7a.md) |
+| sommer | 4.4.7 | 2026-09-11 06:50:02 UTC | [open](../records/r-sommer-289afe0d.md) |
 | sondage | 0.9.1 | 2026-08-04 23:20:02 UTC | [open](../records/r-sondage-e582e1f3.md) |
 | sov | 2.0.0 | 2026-08-21 05:40:36 UTC | [open](../records/r-sov-a35583b7.md) |
 | spaMM | 4.7.0 | 2026-09-09 23:40:02 UTC | [open](../records/r-spamm-b06f6c06.md) |
@@ -4483,7 +4489,7 @@ Records: `6050`
 | gitlab.com/sequoia-pgp/sequoia-gpg-agent | v0.3.1 | 2026-08-30T15:31:10.349155Z | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-gpg-agent-5b376c5c.md) |
 | gitlab.com/sequoia-pgp/sequoia.git | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gitlab-com-sequoia-pgp-sequoia-git-723cf535.md) |
 | gitlab.com/umbrellazone/smartacme | v1.0.9 | 2026-08-30T10:07:20.216337Z | [open](../records/go-gitlab-com-umbrellazone-smartacme-de305f20.md) |
-| go-ffmt/ffmt | unknown | not_a_go_module_path | [open](../records/go-go-ffmt-ffmt-70684860.md) |
+| go-ffmt/ffmt | partial | 2021-11-19T15:22:56Z | [open](../records/go-go-ffmt-ffmt-70684860.md) |
 | go.cozymore.dev/krkstops | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-cozymore-dev-krkstops-34ccbe5a.md) |
 | go.gary.cool/go-stockutil | v1.8.53 | 2026-08-30T16:30:21.724665Z | [open](../records/go-go-gary-cool-go-stockutil-dd0c06ad.md) |
 | go.lumeweb.com/portal-plugin-billing | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-go-lumeweb-com-portal-plugin-billing-4d35205b.md) |
@@ -4493,7 +4499,7 @@ Records: `6050`
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
 | Infisical/infisical | partial | 2026-09-11T04:35:28Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | unknown | not_a_go_module_path | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4505,7 +4511,7 @@ Records: `6050`
 | rsc.io/cmd/gofixerr | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-rsc-io-cmd-gofixerr-73d47a44.md) |
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
-| sun8911879/shadowsocksR | unknown | not_a_go_module_path | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
+| sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
 | temporalio/temporal | partial | 2026-09-11T05:40:47Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
@@ -5171,7 +5177,7 @@ Records: `6050`
 | fand/vfx-js | partial | 2026-09-10T20:58:02Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
-| fuddlesworth/PlasmaZones | partial | 2026-09-10T23:17:44Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-11T03:00:14Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
 | ggarra13/mrv2 | partial | 2026-09-10T22:44:07Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
@@ -5210,7 +5216,7 @@ Records: `6050`
 | MatthewSRC/native-springs-shaders | partial | 2026-05-31T16:04:21Z | [open](../records/effects-matthewsrc-native-springs-shaders-ae91911b.md) |
 | miickel/flutter_particle_clock | partial | 2023-03-19T15:48:27Z | [open](../records/effects-miickel-flutter-particle-clock-00b2a89b.md) |
 | mvilledieu/shadertoy-react | partial | 2023-03-07T00:26:39Z | [open](../records/effects-mvilledieu-shadertoy-react-ce4d2733.md) |
-| MysteryPancake/Houdini-Fun | partial | 2026-09-10T00:38:56Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
+| MysteryPancake/Houdini-Fun | partial | 2026-09-11T05:58:32Z | [open](../records/effects-mysterypancake-houdini-fun-2e70635d.md) |
 | nanndoj/react-native-particles | partial | 2023-01-25T20:46:04Z | [open](../records/effects-nanndoj-react-native-particles-f96caf6b.md) |
 | nolangz/3D-Chladni | partial | 2026-07-18T11:40:22Z | [open](../records/effects-nolangz-3d-chladni-45d7a880.md) |
 | ntsc-rs/ntsc-rs | partial | 2026-09-06T18:14:58Z | [open](../records/effects-ntsc-rs-ntsc-rs-7ace46da.md) |
@@ -5410,7 +5416,7 @@ Records: `6050`
 | t3mujinpack/t3mujinpack | partial | 2025-04-02T17:19:29Z | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
 | TheCrypt0/yi-hack-v4 | partial | 2021-04-16T13:12:08Z | [open](../records/photography-thecrypt0-yi-hack-v4-0c4f21cf.md) |
 | tj/letterbox | partial | 2023-03-07T02:21:23Z | [open](../records/photography-tj-letterbox-4bff8695.md) |
-| toonoumi/FreeCCR | partial | 2026-09-05T07:13:13Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
+| toonoumi/FreeCCR | partial | 2026-09-11T05:39:22Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
 | trimmer-io/go-xmp | partial | 2021-11-04T18:27:44Z | [open](../records/photography-trimmer-io-go-xmp-9ead3a5c.md) |
 | WangShuo1143368701/WSLiveDemo | partial | 2022-04-04T06:24:43Z | [open](../records/photography-wangshuo1143368701-wslivedemo-b17eb18b.md) |
 | yanzhenjie/Album | partial | 2022-08-25T21:09:56Z | [open](../records/photography-yanzhenjie-album-0ebba730.md) |
