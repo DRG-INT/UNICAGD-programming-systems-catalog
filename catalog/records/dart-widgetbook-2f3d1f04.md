@@ -34,7 +34,7 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
 | stable | known | 3.25.0 | 2026-06-25T09:01:48.027239Z | [https://pub.dev/api/packages/widgetbook](https://pub.dev/api/packages/widgetbook) |  |
-| preview | known | 4.0.0-beta.13 | 2026-08-28T08:04:49.267557Z | [https://pub.dev/api/packages/widgetbook](https://pub.dev/api/packages/widgetbook) |  |
+| preview | known | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [https://pub.dev/api/packages/widgetbook](https://pub.dev/api/packages/widgetbook) |  |
 
 ## License And Use Alert
 

@@ -33,16 +33,16 @@ review, style consistency, and automation-friendly editing.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-02T08:32:33Z | gh search repos topic:assets stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-09T22:26:21Z | gh search repos topic:assets stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; Other |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ review, style consistency, and automation-friendly editing.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-02 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:assets stars:>100", "retrieved": "2026-09-02", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:assets stars:>100", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 

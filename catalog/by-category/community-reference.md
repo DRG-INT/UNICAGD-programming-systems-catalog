@@ -197,7 +197,7 @@ Records: `125`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aourednik/historical-basemaps | partial | 2026-09-10T19:35:07Z | [open](../records/maps-aourednik-historical-basemaps-c396c4ac.md) |
+| aourednik/historical-basemaps | partial | 2026-09-11T03:34:24Z | [open](../records/maps-aourednik-historical-basemaps-c396c4ac.md) |
 | awesome-spectral-indices/awesome-spectral-indices | partial | 2026-09-10T06:50:28Z | [open](../records/maps-awesome-spectral-indices-awesome-spectral-indices-817670f6.md) |
 | wbkd/awesome-d3 | partial | 2023-01-13T16:10:34Z | [open](../records/maps-wbkd-awesome-d3-6bfaaabb.md) |
 

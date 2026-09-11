@@ -1273,7 +1273,7 @@ Records: `1660`
 | githubnext/monaspace | partial | 2026-03-27T23:10:14Z | [open](../records/assets-githubnext-monaspace-701f8aac.md) |
 | Michaelredaa/Djed | partial | 2023-04-24T21:26:55Z | [open](../records/assets-michaelredaa-djed-42fed982.md) |
 | omeryusufyagci/fast-music-remover | partial | 2025-01-15T19:11:56Z | [open](../records/assets-omeryusufyagci-fast-music-remover-e8de33c8.md) |
-| OpenCSGs/csghub | partial | 2026-09-08T01:53:01Z | [open](../records/assets-opencsgs-csghub-88ed3839.md) |
+| OpenCSGs/csghub | partial | 2026-09-11T02:55:17Z | [open](../records/assets-opencsgs-csghub-88ed3839.md) |
 | opensourcedesign/fonts | partial | 2020-08-31T04:08:37Z | [open](../records/assets-opensourcedesign-fonts-b0aeea5a.md) |
 | PixelRubro/ParallaxerSystemForUnity | partial | 2024-12-30T01:38:33Z | [open](../records/assets-pixelrubro-parallaxersystemforunity-8df9f352.md) |
 | rmrevin/yii2-fontawesome | partial | 2023-07-31T17:36:25Z | [open](../records/assets-rmrevin-yii2-fontawesome-37981861.md) |
@@ -1306,7 +1306,7 @@ Records: `1660`
 | MapServer/MapServer | partial | 2026-09-06T18:04:41Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-10T23:33:08Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-11T07:18:05Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
 | rspatial/terra | partial | 2026-09-08T17:47:17Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
@@ -1845,7 +1845,7 @@ Records: `1660`
 | debezium/debezium | partial | 2026-09-11T13:32:52Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-08T01:33:38Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-11T17:12:03Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-11T19:18:45Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-08T07:02:37Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |
@@ -1862,7 +1862,7 @@ Records: `1660`
 | simonw/datasette | partial | 2026-09-02T21:28:42Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-08T12:27:24Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-11T03:56:52Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-11T15:30:18Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |

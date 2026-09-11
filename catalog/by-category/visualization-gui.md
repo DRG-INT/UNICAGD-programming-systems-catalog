@@ -302,7 +302,7 @@ Records: `648`
 | scaled_app | 2.3.2 | 2026-08-18T15:26:31.052429Z | [open](../records/dart-scaled-app-83e99a29.md) |
 | shadcn_ui | 0.56.3 | 2026-09-03T12:41:04.564642Z | [open](../records/dart-shadcn-ui-58fde214.md) |
 | sizer | 3.1.3 | 2025-08-26T09:28:34.030481Z | [open](../records/dart-sizer-a32a470d.md) |
-| skeletonizer | 2.1.3 | 2026-02-13T07:42:20.195362Z | [open](../records/dart-skeletonizer-cfc381b3.md) |
+| skeletonizer | 3.0.0 | 2026-09-11T14:26:38.136632Z | [open](../records/dart-skeletonizer-cfc381b3.md) |
 | smooth_page_indicator | 3.0.0 | 2026-08-21T21:31:58.921064Z | [open](../records/dart-smooth-page-indicator-c9646ffc.md) |
 
 ## Go
@@ -492,8 +492,8 @@ Records: `648`
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-09-08T00:06:11Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-10T12:39:10Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
-| skfolio/skfolio | partial | 2026-09-09T13:28:08Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-11T17:23:11Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| skfolio/skfolio | partial | 2026-09-11T13:44:26Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
 ## Maps
@@ -515,7 +515,7 @@ Records: `648`
 | SciTools/cartopy | partial | 2026-09-11T02:00:15Z | [open](../records/maps-scitools-cartopy-9d7a828c.md) |
 | tentone/geo-three | partial | 2026-04-05T09:36:24Z | [open](../records/maps-tentone-geo-three-c2f6b656.md) |
 | Viglino/ol-ext | partial | 2026-07-08T01:30:43Z | [open](../records/maps-viglino-ol-ext-ecc4dbc2.md) |
-| visgl/deck.gl | partial | 2026-09-10T21:53:30Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
+| visgl/deck.gl | partial | 2026-09-11T09:49:12Z | [open](../records/maps-visgl-deck-gl-53e12f71.md) |
 | w3reality/three-geo | partial | 2025-02-25T08:20:32Z | [open](../records/maps-w3reality-three-geo-19abad00.md) |
 
 ## Space Engines
@@ -525,7 +525,7 @@ Records: `648`
 | arasgungore/rocket-flight-simulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) |
 | davidcalhoun/tle.js | partial | 2026-07-21T22:01:04Z | [open](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) |
 | ep2lab/dimagno | partial | 2024-10-21T08:59:37Z | [open](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) |
-| jrenaud90/TidalPy | partial | 2026-09-11T03:17:27Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
+| jrenaud90/TidalPy | partial | 2026-09-11T04:23:10Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
 
 ## Space Shuttles
 

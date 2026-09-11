@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.1.3 | 2026-02-13T07:42:20.195362Z | [https://pub.dev/api/packages/skeletonizer](https://pub.dev/api/packages/skeletonizer) |  |
+| stable | known | 3.0.0 | 2026-09-11T14:26:38.136632Z | [https://pub.dev/api/packages/skeletonizer](https://pub.dev/api/packages/skeletonizer) |  |
 | preview | known | 2.0.0-pre | 2025-04-17T19:35:02.764361Z | [https://pub.dev/api/packages/skeletonizer](https://pub.dev/api/packages/skeletonizer) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `visualization_gui` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/skeletonizer` at `2026-09-01T16:41:06+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/skeletonizer` at `2026-09-11T19:17:39+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

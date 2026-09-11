@@ -32,7 +32,7 @@ persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T15:00:24Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T18:31:52Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -57,7 +57,7 @@ persistence, migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-08 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-08", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 

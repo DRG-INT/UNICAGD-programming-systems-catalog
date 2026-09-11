@@ -170,7 +170,7 @@ Records: `115`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Esri/arcgis-python-api | partial | 2026-09-10T22:41:11Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
+| Esri/arcgis-python-api | partial | 2026-09-11T09:47:30Z | [open](../records/maps-esri-arcgis-python-api-81b2ba91.md) |
 | OSM Wiki Map Features | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-osm-wiki-map-features-2e7d7417.md) |
 | shortbread-tiles/shortbread-docs | partial | 2026-09-02T20:17:37Z | [open](../records/maps-shortbread-tiles-shortbread-docs-0c976170.md) |
 

@@ -373,7 +373,7 @@ Records: `450`
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
 | Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | partial | 2025-06-09T17:11:17Z | [open](../records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
-| spacetelescope/jwst | partial | 2026-09-10T12:54:25Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
+| spacetelescope/jwst | partial | 2026-09-11T19:17:53Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 | Tanguy9862/Space-App | partial | 2025-01-29T02:36:15Z | [open](../records/space-maps-tanguy9862-space-app-ab1cd9d8.md) |
 
 ## Effects

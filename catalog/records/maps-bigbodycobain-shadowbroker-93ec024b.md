@@ -35,7 +35,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-10T07:24:47Z | gh search repos topic:gis stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T07:38:16Z | gh search repos topic:gis stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -43,7 +43,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

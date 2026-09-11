@@ -547,7 +547,7 @@ Records: `667`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T18:25:10Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T19:18:47Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -610,7 +610,7 @@ Records: `667`
 | --- | --- | --- | --- |
 | 0xC0000054/pdn-ddsfiletype-plus | partial | 2026-03-22T23:48:30Z | [open](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) |
 | aMarCruz/react-native-text-size | partial | 2024-07-17T10:20:57Z | [open](../records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
-| assimp/assimp | partial | 2026-09-02T08:32:33Z | [open](../records/assets-assimp-assimp-e26f9fa8.md) |
+| assimp/assimp | partial | 2026-09-09T22:26:21Z | [open](../records/assets-assimp-assimp-e26f9fa8.md) |
 | BlackFoundryCom/InriaFonts | partial | 2021-12-08T05:49:01Z | [open](../records/assets-blackfoundrycom-inriafonts-1005f303.md) |
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
 | elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
@@ -625,7 +625,7 @@ Records: `667`
 | oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-10T16:13:54Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-11T14:00:32Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 | wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |

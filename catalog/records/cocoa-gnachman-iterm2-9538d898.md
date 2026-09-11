@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-10T23:26:48Z | gh search repos language:Objective-C stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T19:05:53Z | gh search repos language:Objective-C stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Other; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

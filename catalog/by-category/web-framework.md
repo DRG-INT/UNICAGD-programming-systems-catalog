@@ -452,7 +452,7 @@ Records: `495`
 | django-webpack/django-webpack-loader | partial | 2026-05-13T14:48:04Z | [open](../records/assets-django-webpack-django-webpack-loader-61d7c881.md) |
 | internet-development/www-server-mono | partial | 2026-08-22T06:50:35Z | [open](../records/assets-internet-development-www-server-mono-b5773f46.md) |
 | jansol/texpresso | partial | 2025-10-27T22:38:49Z | [open](../records/assets-jansol-texpresso-c8f9d0fc.md) |
-| MarSeventh/CloudFlare-ImgBed | partial | 2026-09-09T11:31:47Z | [open](../records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
+| MarSeventh/CloudFlare-ImgBed | partial | 2026-09-11T02:41:32Z | [open](../records/assets-marseventh-cloudflare-imgbed-2006c876.md) |
 | OCSInventory-NG/OCSInventory-Server | partial | 2026-08-25T07:32:32Z | [open](../records/assets-ocsinventory-ng-ocsinventory-server-75ffaffe.md) |
 | rykener/django-manifest-loader | partial | 2022-06-14T19:22:54Z | [open](../records/assets-rykener-django-manifest-loader-feff5b7a.md) |
 
@@ -472,7 +472,7 @@ Records: `495`
 | freerouting/freerouting | partial | 2026-09-08T07:12:16Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-09T16:20:18Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-10T13:25:13Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-11T16:19:26Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
 | katanemo/plano | partial | 2026-08-19T19:29:08Z | [open](../records/maps-katanemo-plano-886a078b.md) |
@@ -655,7 +655,7 @@ Records: `495`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-11T16:50:16Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-11T18:13:35Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |

@@ -124,7 +124,7 @@ Records: `308`
 | [cheng-alvin/jas](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) | partial | 2026-04-23T12:31:32Z | registry-derived |
 | [encounter/objdiff](../records/assembly-encounter-objdiff-533f7383.md) | partial | 2026-08-29T22:14:27Z | registry-derived |
 | [hugsy/bochscpu-python](../records/assembly-hugsy-bochscpu-python-bba92484.md) | partial | 2025-08-10T17:01:32Z | registry-derived |
-| [KolibriOS/kolibrios](../records/assembly-kolibrios-kolibrios-ceca7961.md) | partial | 2026-09-10T17:35:07Z | registry-derived |
+| [KolibriOS/kolibrios](../records/assembly-kolibrios-kolibrios-ceca7961.md) | partial | 2026-09-11T18:54:16Z | registry-derived |
 
 ### Filesystem Os
 

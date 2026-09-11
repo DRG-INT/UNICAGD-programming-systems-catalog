@@ -32,7 +32,7 @@ Records: `158`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-10T17:55:07Z | registry-derived |
+| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-11T07:21:18Z | registry-derived |
 
 ### Benchmarking
 
@@ -51,7 +51,7 @@ Records: `158`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bluescarni/heyoka](../records/space-engines-bluescarni-heyoka-0a38e447.md) | partial | 2026-09-10T15:10:58Z | registry-derived |
+| [bluescarni/heyoka](../records/space-engines-bluescarni-heyoka-0a38e447.md) | partial | 2026-09-11T15:38:28Z | registry-derived |
 | [bluescarni/heyoka.py](../records/space-engines-bluescarni-heyoka-py-a173cf06.md) | partial | 2026-07-22T10:54:03Z | registry-derived |
 
 ### Compression
@@ -151,7 +151,7 @@ Records: `158`
 | [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-156822c1.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [JuliaAstro/GeneralAstrodynamics.jl](../records/space-engines-juliaastro-generalastrodynamics-jl-7232995f.md) | partial | 2026-05-06T04:24:06Z | registry-derived |
 | [JuliaSpaceMissionDesign/Ephemerides.jl](../records/space-engines-juliaspacemissiondesign-ephemerides-jl-1c705450.md) | partial | 2025-03-23T09:47:16Z | registry-derived |
-| [nyx-space/nyx](../records/space-engines-nyx-space-nyx-f54af692.md) | partial | 2026-09-11T02:17:00Z | registry-derived |
+| [nyx-space/nyx](../records/space-engines-nyx-space-nyx-f54af692.md) | partial | 2026-09-11T13:58:02Z | registry-derived |
 | [Starainrt/astro](../records/space-engines-starainrt-astro-97e8d2a3.md) | partial | 2026-08-06T04:42:42Z | registry-derived |
 | [TheSpaceDevs/Tutorials](../records/space-engines-thespacedevs-tutorials-24f5a0d6.md) | partial | 2025-05-03T08:01:41Z | registry-derived |
 | [Thomas-Loudis/georb](../records/space-engines-thomas-loudis-georb-01fab219.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -162,7 +162,7 @@ Records: `158`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [NythicalNorm/VoxelSpaceProgram](../records/space-engines-nythicalnorm-voxelspaceprogram-60276ab4.md) | partial | 2026-09-10T22:39:57Z | registry-derived |
+| [NythicalNorm/VoxelSpaceProgram](../records/space-engines-nythicalnorm-voxelspaceprogram-60276ab4.md) | partial | 2026-09-11T18:36:43Z | registry-derived |
 | [qsantos/spyce](../records/space-engines-qsantos-spyce-36ab5cb0.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Language Specification
@@ -194,7 +194,7 @@ Records: `158`
 | [podgorskiy/KeplerOrbits](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) | partial | 2023-04-02T23:28:28Z | registry-derived |
 | [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-09-11T02:51:11Z | registry-derived |
 | [usuaero/PyProp](../records/space-engines-usuaero-pyprop-cf41d1df.md) | partial | 2021-06-21T16:46:34Z | registry-derived |
-| [wedesoft/sfsim](../records/space-engines-wedesoft-sfsim-99e126c8.md) | partial | 2026-09-10T22:32:09Z | registry-derived |
+| [wedesoft/sfsim](../records/space-engines-wedesoft-sfsim-99e126c8.md) | partial | 2026-09-11T14:40:29Z | registry-derived |
 
 ### Logging Observability
 
@@ -243,17 +243,17 @@ Records: `158`
 | --- | --- | --- | --- |
 | [Arrowstar/ksptot](../records/space-engines-arrowstar-ksptot-0193b8c4.md) | partial | 2026-08-31T15:11:17Z | registry-derived |
 | [astrobook/astrobook](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) | partial | 2021-02-19T07:33:04Z | registry-derived |
-| [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-11T02:22:47Z | registry-derived |
-| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-11T01:23:19Z | registry-derived |
+| [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-11T07:11:18Z | registry-derived |
+| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-11T16:14:37Z | registry-derived |
 | [bluescarni/piranha](../records/space-engines-bluescarni-piranha-892e8cb6.md) | partial | 2022-07-06T14:41:33Z | registry-derived |
 | [ChristopherRabotin/smd](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) | partial | 2018-01-18T01:07:09Z | registry-derived |
 | [cisprague/Astro.IQ](../records/space-engines-cisprague-astro-iq-88ee2214.md) | partial | 2022-06-26T08:19:19Z | registry-derived |
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-10T07:29:30Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-11T17:02:01Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-09T14:30:57Z | registry-derived |
+| [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-09T19:48:01Z | registry-derived |
 | [gberrante/map_3d](../records/space-engines-gberrante-map-3d-291724c2.md) | partial | 2026-09-04T06:50:37Z | registry-derived |
 | [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -271,9 +271,9 @@ Records: `158`
 | [swtnikita50/CR3BP-MatlabLibrary](../records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) | partial | 2023-06-15T05:38:59Z | registry-derived |
 | [tamaskis/planet3D-MATLAB](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) | partial | 2023-05-21T01:19:09Z | registry-derived |
 | [TheWand3rer/Universe](../records/space-engines-thewand3rer-universe-b6822711.md) | partial | 2026-06-03T18:28:06Z | registry-derived |
-| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-09T18:38:48Z | registry-derived |
+| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-11T15:09:35Z | registry-derived |
 | [ut-astria/orbdetpy](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) | partial | 2023-07-05T20:53:31Z | registry-derived |
-| [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-09T09:48:57Z | registry-derived |
+| [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-11T08:38:25Z | registry-derived |
 
 ### Precommit Ci Quality
 
@@ -358,7 +358,7 @@ Records: `158`
 | [arasgungore/rocket-flight-simulator](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [davidcalhoun/tle.js](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) | partial | 2026-07-21T22:01:04Z | registry-derived |
 | [ep2lab/dimagno](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) | partial | 2024-10-21T08:59:37Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-11T03:17:27Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-11T04:23:10Z | registry-derived |
 
 ### Web Framework
 

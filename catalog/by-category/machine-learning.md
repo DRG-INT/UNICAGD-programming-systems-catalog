@@ -521,11 +521,11 @@ Records: `855`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-11T06:22:58Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-11T18:05:57Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-11T18:24:30Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-11T19:12:43Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-11T18:56:15Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-10T21:09:36Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-11T18:14:32Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-11T18:27:47Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -661,7 +661,7 @@ Records: `855`
 | Nenkai/GraniteTextureReader | partial | 2026-07-13T20:46:59Z | [open](../records/assets-nenkai-granitetexturereader-ce49c3de.md) |
 | ogxd/project-curator | partial | 2024-04-09T07:31:31Z | [open](../records/assets-ogxd-project-curator-975298c7.md) |
 | Sarath18/terrain_generator | partial | 2021-01-31T11:39:42Z | [open](../records/assets-sarath18-terrain-generator-b656de86.md) |
-| ShaigroRB/freetchio | partial | 2026-09-07T01:28:37Z | [open](../records/assets-shaigrorb-freetchio-fa6ad739.md) |
+| ShaigroRB/freetchio | partial | 2026-09-11T15:23:08Z | [open](../records/assets-shaigrorb-freetchio-fa6ad739.md) |
 | smlu/Urgon | partial | 2025-09-28T20:45:58Z | [open](../records/assets-smlu-urgon-4eff0f19.md) |
 | umaichanuwu/AnimeLinks | partial | 2026-05-29T04:50:28Z | [open](../records/assets-umaichanuwu-animelinks-81918c32.md) |
 | umaichanuwu/StarRailTextures | partial | 2026-06-01T02:19:40Z | [open](../records/assets-umaichanuwu-starrailtextures-bee766ee.md) |
@@ -673,7 +673,7 @@ Records: `855`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Adamant-im/adamant-explorer | partial | 2026-08-01T17:56:02Z | [open](../records/maps-adamant-im-adamant-explorer-65f99887.md) |
-| BigBodyCobain/Shadowbroker | partial | 2026-09-10T07:24:47Z | [open](../records/maps-bigbodycobain-shadowbroker-93ec024b.md) |
+| BigBodyCobain/Shadowbroker | partial | 2026-09-11T07:38:16Z | [open](../records/maps-bigbodycobain-shadowbroker-93ec024b.md) |
 | cesiumlab/XbsjEarthUI | partial | 2023-03-04T04:27:00Z | [open](../records/maps-cesiumlab-xbsjearthui-ebc31770.md) |
 | darkmoonight/Rain | partial | 2026-08-03T20:33:12Z | [open](../records/maps-darkmoonight-rain-cd8bf6ae.md) |
 | Esri/arcgis-maps-sdk-dotnet-samples | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-maps-sdk-dotnet-samples-0c5516d2.md) |
@@ -687,7 +687,7 @@ Records: `855`
 | ngageoint/hootenanny | partial | 2026-09-08T19:02:28Z | [open](../records/maps-ngageoint-hootenanny-ef5b4528.md) |
 | openeventdata/mordecai | partial | 2021-09-17T11:54:38Z | [open](../records/maps-openeventdata-mordecai-3aa9fc97.md) |
 | openstreetmap/openstreetmap-website | partial | 2026-09-08T16:33:56Z | [open](../records/maps-openstreetmap-openstreetmap-website-e9c62754.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-11T02:02:34Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-11T16:52:45Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
 | sylvainjule/kirby-locator | partial | 2025-08-06T23:10:42Z | [open](../records/maps-sylvainjule-kirby-locator-ad754d9e.md) |
 | w3reality/three-geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-w3reality-three-geo-ccdac8ff.md) |
 

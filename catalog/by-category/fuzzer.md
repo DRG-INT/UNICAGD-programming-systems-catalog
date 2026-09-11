@@ -116,7 +116,7 @@ Records: `63`
 | emikhalev/leaflet-2gis | partial | 2023-06-18T13:05:57Z | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | partial | 2026-03-24T13:41:39Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
 | fleaflet/flutter_map | partial | 2026-09-04T12:57:45Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
-| geoman-io/leaflet-geoman | partial | 2026-09-10T02:52:52Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
+| geoman-io/leaflet-geoman | partial | 2026-09-11T11:32:09Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
@@ -126,13 +126,13 @@ Records: `63`
 | Leaflet/Leaflet.VectorGrid | partial | 2025-01-09T18:01:02Z | [open](../records/maps-leaflet-leaflet-vectorgrid-fc95009b.md) |
 | NICEXAI/leaflet_zh | partial | 2023-11-14T14:08:47Z | [open](../records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
 | opengeos/Awesome-GEE | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-awesome-gee-588f3052.md) |
-| python-visualization/folium | partial | 2026-09-10T16:59:26Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
+| python-visualization/folium | partial | 2026-09-11T17:01:45Z | [open](../records/maps-python-visualization-folium-ce762251.md) |
 | r-spatial/mapview | unknown | github_search_does_not_include_release_date | [open](../records/maps-r-spatial-mapview-430d7bbc.md) |
 | rstudio/leaflet | partial | 2025-10-08T20:50:29Z | [open](../records/maps-rstudio-leaflet-de5ff58a.md) |
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |
 | stefanocudini/leaflet-panel-layers | partial | 2023-08-11T10:14:14Z | [open](../records/maps-stefanocudini-leaflet-panel-layers-1671721d.md) |
 | stefanocudini/leaflet-search | partial | 2024-06-30T08:08:14Z | [open](../records/maps-stefanocudini-leaflet-search-4701fbde.md) |
-| SuperMap/iClient-JavaScript | partial | 2026-09-10T07:20:30Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
+| SuperMap/iClient-JavaScript | partial | 2026-09-11T09:28:36Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
 | tomickigrzegorz/leaflet-examples | partial | 2026-08-28T16:30:35Z | [open](../records/maps-tomickigrzegorz-leaflet-examples-846ca4d6.md) |
 | Wildhoney/Leaflet.FreeDraw | partial | 2025-05-08T12:03:53Z | [open](../records/maps-wildhoney-leaflet-freedraw-f3c0cfd2.md) |
 

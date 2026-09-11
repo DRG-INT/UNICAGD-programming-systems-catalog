@@ -203,7 +203,7 @@ Records: `179`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluescarni/heyoka | partial | 2026-09-10T15:10:58Z | [open](../records/space-engines-bluescarni-heyoka-0a38e447.md) |
+| bluescarni/heyoka | partial | 2026-09-11T15:38:28Z | [open](../records/space-engines-bluescarni-heyoka-0a38e447.md) |
 | bluescarni/heyoka.py | partial | 2026-07-22T10:54:03Z | [open](../records/space-engines-bluescarni-heyoka-py-a173cf06.md) |
 
 ## Space Maps
@@ -300,7 +300,7 @@ Records: `179`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | tobymao/sqlglot | partial | 2026-09-08T12:17:19Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
-| tursodatabase/turso | partial | 2026-09-11T17:14:41Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
+| tursodatabase/turso | partial | 2026-09-11T19:08:51Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
 
 ## Repository Workplaces
 

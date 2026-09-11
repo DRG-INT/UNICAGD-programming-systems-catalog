@@ -41,7 +41,7 @@ control, artifact reproducibility, cross-platform build policy, and CI integrati
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other |
+| Evidence | Microsoft Public License; https://api.github.com/licenses/ms-pl |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

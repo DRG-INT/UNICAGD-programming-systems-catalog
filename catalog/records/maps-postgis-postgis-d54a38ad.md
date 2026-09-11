@@ -32,7 +32,7 @@ migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-11T02:39:27Z | gh search repos topic:geospatial stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T09:40:25Z | gh search repos topic:gis stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:geospatial stars:>100", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gis stars:>100", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
 
 </details>
 

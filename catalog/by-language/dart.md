@@ -1022,7 +1022,7 @@ Records: `765`
 | [scaled_app](../records/dart-scaled-app-83e99a29.md) | 2.3.2 | 2026-08-18T15:26:31.052429Z | registry-derived |
 | [shadcn_ui](../records/dart-shadcn-ui-58fde214.md) | 0.56.3 | 2026-09-03T12:41:04.564642Z | registry-derived |
 | [sizer](../records/dart-sizer-a32a470d.md) | 3.1.3 | 2025-08-26T09:28:34.030481Z | registry-derived |
-| [skeletonizer](../records/dart-skeletonizer-cfc381b3.md) | 2.1.3 | 2026-02-13T07:42:20.195362Z | registry-derived |
+| [skeletonizer](../records/dart-skeletonizer-cfc381b3.md) | 3.0.0 | 2026-09-11T14:26:38.136632Z | registry-derived |
 | [smooth_page_indicator](../records/dart-smooth-page-indicator-c9646ffc.md) | 3.0.0 | 2026-08-21T21:31:58.921064Z | registry-derived |
 
 ### Web Framework
