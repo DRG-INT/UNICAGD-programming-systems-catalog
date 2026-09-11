@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (235)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (208)](by-category/benchmarking.md) · [Build System (1033)](by-category/build-system.md) · [Cli (590)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (125)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (54)](by-category/compression.md)
+[Benchmarking (208)](by-category/benchmarking.md) · [Build System (1035)](by-category/build-system.md) · [Cli (592)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (125)](by-category/community-reference.md) · [Compiler (177)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (54)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (140)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (977)](by-category/database-datastore.md) · [Datetime (248)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (109)](by-category/dependency-manager.md) · [Documentation (114)](by-category/documentation.md)
-[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (481)](by-category/ffi-bindings.md) · [Filesystem Os (1693)](by-category/filesystem-os.md) · [Formatter (664)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (373)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (447)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (282)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1464)](by-category/language-specification.md) · [Library (6025)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
-[Math Numeric Scientific (94)](by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1079)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1236)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](by-category/precommit-ci-quality.md)
-[Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (658)](by-category/static-analyzer.md)
+[Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (980)](by-category/database-datastore.md) · [Datetime (249)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
+[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (483)](by-category/ffi-bindings.md) · [Filesystem Os (1696)](by-category/filesystem-os.md) · [Formatter (665)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (375)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1506)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (447)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (287)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1468)](by-category/language-specification.md) · [Library (6034)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (548)](by-category/logging-observability.md) · [Machine Learning (851)](by-category/machine-learning.md)
+[Math Numeric Scientific (95)](by-category/math-numeric-scientific.md) · [Memory Analyzer (101)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1081)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1238)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (320)](by-category/precommit-ci-quality.md)
+[Profiler (96)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Security Sast (340)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (658)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (638)](by-category/testing-framework.md) · [Tutorial Book Styleguide (72)](by-category/tutorial-book-styleguide.md) · [Type Checker (316)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1653)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (639)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1656)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (642)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1959,10 +1959,12 @@
 | `cran_packages_by_date-9219b9008dc113` | scROSHI | [open](records/r-scroshi-05d7c938.md) |
 | `cran_packages_by_date-92b972af32ddac` | depictr | [open](records/r-depictr-4b19a4b8.md) |
 | `cran_packages_by_date-92c491933531d5` | actiread | [open](records/r-actiread-2ef203db.md) |
+| `cran_packages_by_date-933d5cc27a8330` | mx.api | [open](records/r-mx-api-3f4c2efe.md) |
 | `cran_packages_by_date-93523c8d0fd6fa` | int3ract | [open](records/r-int3ract-d2f37bfb.md) |
 | `cran_packages_by_date-93dfa5600b8abd` | enrollcast | [open](records/r-enrollcast-7031ad93.md) |
 | `cran_packages_by_date-93eea37f1bfc30` | LogicForest | [open](records/r-logicforest-d95cf8d4.md) |
 | `cran_packages_by_date-942fbdf5258020` | treestats | [open](records/r-treestats-521a3d28.md) |
+| `cran_packages_by_date-9453da5237ab0f` | ggformula | [open](records/r-ggformula-ba88946c.md) |
 | `cran_packages_by_date-949cd9259906b1` | segen | [open](records/r-segen-6af5835b.md) |
 | `cran_packages_by_date-94a4e1ebb0f42c` | NHANES | [open](records/r-nhanes-0e00e861.md) |
 | `cran_packages_by_date-94b2ad65e4e7eb` | resmush | [open](records/r-resmush-f4d0c58e.md) |
@@ -2175,6 +2177,7 @@
 | `cran_packages_by_date-aef6615484a772` | ONAM | [open](records/r-onam-aeee732a.md) |
 | `cran_packages_by_date-af14aa698a7339` | erplots | [open](records/r-erplots-4de42c76.md) |
 | `cran_packages_by_date-af26a650190350` | lattice | [open](records/r-lattice-a35f5756.md) |
+| `cran_packages_by_date-af50d52cb687d7` | primarycensored | [open](records/r-primarycensored-b2014a72.md) |
 | `cran_packages_by_date-afa56d4e6c4f7f` | rlas | [open](records/r-rlas-63762d9d.md) |
 | `cran_packages_by_date-afa990341acef6` | prrd | [open](records/r-prrd-b53ae408.md) |
 | `cran_packages_by_date-afab57309cc450` | psrwe | [open](records/r-psrwe-f563f448.md) |
@@ -16503,10 +16506,12 @@
 | `github_search_webassembly-08f337ac542b97` | rivet-dev/agentos | [open](records/webassembly-rivet-dev-agentos-6c03f7ec.md) |
 | `github_search_webassembly-0945da43a9e0f8` | spinframework/spin | [open](records/webassembly-spinframework-spin-bc703583.md) |
 | `github_search_webassembly-0a26d64a3da7c7` | JetBrains/compose-multiplatform | [open](records/webassembly-jetbrains-compose-multiplatform-11636c4e.md) |
+| `github_search_webassembly-0b75076f30b0fb` | NerdLang/nerd | [open](records/webassembly-nerdlang-nerd-af8074cf.md) |
 | `github_search_webassembly-0be5d458235f5c` | yoyow-org/yoyow-core | [open](records/webassembly-yoyow-org-yoyow-core-98d0bb33.md) |
 | `github_search_webassembly-0c90d530fbe42c` | lucasgelfond/exiftool-web | [open](records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | `github_search_webassembly-0cfda889d08f18` | shanlusun/blockchain | [open](records/webassembly-shanlusun-blockchain-c79004b4.md) |
 | `github_search_webassembly-0d577f2517c4fb` | HaliteChallenge/Halite-III | [open](records/webassembly-halitechallenge-halite-iii-1ef7ef5f.md) |
+| `github_search_webassembly-0dd93439496135` | cloudflare/workers-sdk | [open](records/webassembly-cloudflare-workers-sdk-222a2f6f.md) |
 | `github_search_webassembly-0ec124cc5ce0f8` | satabin/swam | [open](records/webassembly-satabin-swam-0cad2eae.md) |
 | `github_search_webassembly-0f37278a357b53` | ruby/ruby.wasm | [open](records/webassembly-ruby-ruby-wasm-2e017805.md) |
 | `github_search_webassembly-0f3bc0accea948` | WebAssembly/multi-memory | [open](records/webassembly-webassembly-multi-memory-48ae7fdf.md) |
@@ -16517,6 +16522,7 @@
 | `github_search_webassembly-1424ab3d92bf80` | makepad/stitch | [open](records/webassembly-makepad-stitch-24ff8709.md) |
 | `github_search_webassembly-1579008a554519` | dispatchrun/net | [open](records/webassembly-dispatchrun-net-ea550bf8.md) |
 | `github_search_webassembly-16db09462894f0` | bytecodealliance/go-modules | [open](records/webassembly-bytecodealliance-go-modules-8f0382d7.md) |
+| `github_search_webassembly-195184251d2d72` | skerkour/black-hat-rust | [open](records/webassembly-skerkour-black-hat-rust-9da6bbfa.md) |
 | `github_search_webassembly-1992883056c175` | svenstaro/genact | [open](records/webassembly-svenstaro-genact-2670193d.md) |
 | `github_search_webassembly-1b5890881d7f4d` | sola-st/wasm-binary-security | [open](records/webassembly-sola-st-wasm-binary-security-9e8b7e09.md) |
 | `github_search_webassembly-1b6bee7e21704b` | Implex-ltd/hcaptcha-reverse | [open](records/webassembly-implex-ltd-hcaptcha-reverse-64b09389.md) |
@@ -16527,8 +16533,11 @@
 | `github_search_webassembly-20d11cb9802c29` | LingDong-/wasm-fun | [open](records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | `github_search_webassembly-210d7c8e882db8` | WebAssembly/exception-handling | [open](records/webassembly-webassembly-exception-handling-8f6731bf.md) |
 | `github_search_webassembly-21636dd5672b29` | SwiftTUI/swift-tui | [open](records/webassembly-swifttui-swift-tui-ed1cb3aa.md) |
+| `github_search_webassembly-21979846178645` | dy/jz | [open](records/webassembly-dy-jz-fadb9eec.md) |
 | `github_search_webassembly-21f043505cf6df` | clojurewasm/ClojureWasm | [open](records/webassembly-clojurewasm-clojurewasm-154fbd90.md) |
 | `github_search_webassembly-223e690f67a336` | nalgeon/codapi-js | [open](records/webassembly-nalgeon-codapi-js-17b81d12.md) |
+| `github_search_webassembly-23339a497683cd` | trunk-rs/trunk | [open](records/webassembly-trunk-rs-trunk-a4abb93b.md) |
+| `github_search_webassembly-2342645b263d49` | electric-sql/pglite | [open](records/webassembly-electric-sql-pglite-3582082e.md) |
 | `github_search_webassembly-2344041d78ebb5` | chevdor/subwasm | [open](records/webassembly-chevdor-subwasm-777bc49e.md) |
 | `github_search_webassembly-23c0f0d4c19fab` | eoswindev/contract | [open](records/webassembly-eoswindev-contract-1d5d81af.md) |
 | `github_search_webassembly-256395032e3ff8` | WebAssembly/multi-value | [open](records/webassembly-webassembly-multi-value-a8a6d774.md) |
@@ -16537,6 +16546,7 @@
 | `github_search_webassembly-26fb13a2b5e37c` | rstropek/rust-samples | [open](records/webassembly-rstropek-rust-samples-4c42720f.md) |
 | `github_search_webassembly-2795dcb7a97e0a` | chevdor/subwasm | [open](records/webassembly-chevdor-subwasm-3e8ba506.md) |
 | `github_search_webassembly-27f66ecaa46715` | binji/raw-wasm | [open](records/webassembly-binji-raw-wasm-c2dcf640.md) |
+| `github_search_webassembly-28b9daef31f4ca` | wasmerio/wasmer-sdk | [open](records/webassembly-wasmerio-wasmer-sdk-08a1075e.md) |
 | `github_search_webassembly-28c0432b669c3f` | astrid-runtime/astrid | [open](records/webassembly-astrid-runtime-astrid-00366bc4.md) |
 | `github_search_webassembly-2922071b372dc6` | AdrienTorris/awesome-blazor | [open](records/webassembly-adrientorris-awesome-blazor-baae6774.md) |
 | `github_search_webassembly-2a00ba22f517c4` | WebAssembly/js-types | [open](records/webassembly-webassembly-js-types-3d58675a.md) |
@@ -16544,10 +16554,13 @@
 | `github_search_webassembly-2dc2dadb0de3f8` | mbasso/awesome-wasm | [open](records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
 | `github_search_webassembly-2e195a8bbfaaef` | WebAssembly/wasi-libc | [open](records/webassembly-webassembly-wasi-libc-445eb458.md) |
 | `github_search_webassembly-2f1bc94a6dab78` | jupyterlite/jupyterlite | [open](records/webassembly-jupyterlite-jupyterlite-647ef8ae.md) |
+| `github_search_webassembly-303251824b9ca5` | lldap/lldap | [open](records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | `github_search_webassembly-304d2aeaa4ef98` | turbolent/w2c2 | [open](records/webassembly-turbolent-w2c2-3487d59f.md) |
 | `github_search_webassembly-307d87ddbb6537` | sdiehl/wasm | [open](records/webassembly-sdiehl-wasm-aebcaea5.md) |
 | `github_search_webassembly-31b1d66b074924` | WebAssembly/relaxed-simd | [open](records/webassembly-webassembly-relaxed-simd-bc2b7543.md) |
 | `github_search_webassembly-32e585a2c330ba` | wasmerio/io-devices-lib | [open](records/webassembly-wasmerio-io-devices-lib-0eb00bc1.md) |
+| `github_search_webassembly-330e1afc6ffac6` | obi1kenobi/trustfall | [open](records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
+| `github_search_webassembly-333bc1a742e700` | ffmpegwasm/ffmpeg.wasm | [open](records/webassembly-ffmpegwasm-ffmpeg-wasm-f15629cd.md) |
 | `github_search_webassembly-33ecf0ad4de389` | nihui/opencv-mobile | [open](records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | `github_search_webassembly-342112b7fce4de` | WebAssembly/interface-types | [open](records/webassembly-webassembly-interface-types-ecb8be0b.md) |
 | `github_search_webassembly-351435be21a4b9` | bytecodealliance/wasmtime-go | [open](records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
@@ -16559,6 +16572,9 @@
 | `github_search_webassembly-369a2758f272c2` | ballercat/walt | [open](records/webassembly-ballercat-walt-6804b42b.md) |
 | `github_search_webassembly-3707256bd79002` | bytecodealliance/lucet | [open](records/webassembly-bytecodealliance-lucet-9e0dc166.md) |
 | `github_search_webassembly-3733ebb7d6998a` | xiangechen/chili3d | [open](records/webassembly-xiangechen-chili3d-024832bd.md) |
+| `github_search_webassembly-376cc988cae520` | emilk/egui | [open](records/webassembly-emilk-egui-edf7b99e.md) |
+| `github_search_webassembly-37c9f3eab823e0` | chaosprint/glicol | [open](records/webassembly-chaosprint-glicol-417fdc12.md) |
+| `github_search_webassembly-37e52984e45aeb` | not-fl3/macroquad | [open](records/webassembly-not-fl3-macroquad-ace3e52a.md) |
 | `github_search_webassembly-381afd04a76009` | libraries/pywasm | [open](records/webassembly-libraries-pywasm-3cfb5d94.md) |
 | `github_search_webassembly-385f82b5933f8e` | ColinEberhardt/wasm-game-of-life | [open](records/webassembly-colineberhardt-wasm-game-of-life-82167b9c.md) |
 | `github_search_webassembly-38d4b4786d17d1` | WebAssembly/wasi-cli | [open](records/webassembly-webassembly-wasi-cli-fb8bc0ae.md) |
@@ -16572,6 +16588,7 @@
 | `github_search_webassembly-3b9ba99732c786` | iRath96/webNBT | [open](records/webassembly-irath96-webnbt-35ce95aa.md) |
 | `github_search_webassembly-3bdb4d167abaf8` | mewz-project/wasker | [open](records/webassembly-mewz-project-wasker-952047fb.md) |
 | `github_search_webassembly-3c9bc87877ece4` | jupyterlite/jupyterlite | [open](records/webassembly-jupyterlite-jupyterlite-7833185c.md) |
+| `github_search_webassembly-3cb5a27196184d` | Megabit/Blazorise | [open](records/webassembly-megabit-blazorise-7828a636.md) |
 | `github_search_webassembly-3d38b92a593a4c` | vugu/vugu | [open](records/webassembly-vugu-vugu-38501d3e.md) |
 | `github_search_webassembly-3edc6cdd3fddf1` | AssemblyScript/examples | [open](records/webassembly-assemblyscript-examples-7e243366.md) |
 | `github_search_webassembly-3fd4fc3220725d` | makepad/stitch | [open](records/webassembly-makepad-stitch-167602b2.md) |
@@ -16600,9 +16617,12 @@
 | `github_search_webassembly-4c57958460c866` | Kong/ngx_wasm_module | [open](records/webassembly-kong-ngx-wasm-module-ad00be97.md) |
 | `github_search_webassembly-4c9117551e0aa7` | wazero/wazero | [open](records/webassembly-wazero-wazero-e01a87a9.md) |
 | `github_search_webassembly-4ca0a404614425` | xiaoyu1998/web3.learning | [open](records/webassembly-xiaoyu1998-web3-learning-35c3e808.md) |
+| `github_search_webassembly-4d71107a78817c` | wasm-bindgen/wasm-pack | [open](records/webassembly-wasm-bindgen-wasm-pack-d81b4b23.md) |
+| `github_search_webassembly-4d9a50b90b397e` | tinysearch/tinysearch | [open](records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
 | `github_search_webassembly-4dcd2f762071c0` | WebAssembly/function-references | [open](records/webassembly-webassembly-function-references-baaa4e2d.md) |
 | `github_search_webassembly-4e736895c3ca55` | Evian-Zhang/wasm-tutorial | [open](records/webassembly-evian-zhang-wasm-tutorial-3d8765f3.md) |
 | `github_search_webassembly-4e77fac8f4dc81` | davidfowl/TodoApp | [open](records/webassembly-davidfowl-todoapp-08cec4e6.md) |
+| `github_search_webassembly-4e84fc44197720` | mlua-rs/mlua | [open](records/webassembly-mlua-rs-mlua-a4a5b409.md) |
 | `github_search_webassembly-4f447affd9278c` | WasmEdge/WasmEdge | [open](records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | `github_search_webassembly-5021d3456c357b` | eliben/watgo | [open](records/webassembly-eliben-watgo-948dc109.md) |
 | `github_search_webassembly-50295b73085829` | raysan5/raylib | [open](records/webassembly-raysan5-raylib-e4097ab4.md) |
@@ -16635,6 +16655,7 @@
 | `github_search_webassembly-63140a75fb18e0` | SwadicalRag/wasm2lua | [open](records/webassembly-swadicalrag-wasm2lua-e12b40cf.md) |
 | `github_search_webassembly-650bc330539672` | dsekz/twitter-x-xp-forwarded-for-header | [open](records/webassembly-dsekz-twitter-x-xp-forwarded-for-header-fa8e3e36.md) |
 | `github_search_webassembly-6625e56fd8890e` | boa-dev/boa | [open](records/webassembly-boa-dev-boa-f27788a8.md) |
+| `github_search_webassembly-662b0d742f6f42` | recp/cglm | [open](records/webassembly-recp-cglm-93bee044.md) |
 | `github_search_webassembly-675965fa337878` | rollup/rollup-plugin-wasm | [open](records/webassembly-rollup-rollup-plugin-wasm-0bbe45cd.md) |
 | `github_search_webassembly-6939a9350e2b0c` | vshymanskyy/awesome-wasm-tools | [open](records/webassembly-vshymanskyy-awesome-wasm-tools-577f61ea.md) |
 | `github_search_webassembly-693dd2fe4e9e9c` | thi-ng/umbrella | [open](records/webassembly-thi-ng-umbrella-b00549ee.md) |
@@ -16648,8 +16669,10 @@
 | `github_search_webassembly-6bbbaf630399ff` | vasilev/HTTP-request-from-inside-WASM | [open](records/webassembly-vasilev-http-request-from-inside-wasm-36efd908.md) |
 | `github_search_webassembly-6c20119e425cad` | dotnetcore/BootstrapBlazor | [open](records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | `github_search_webassembly-6c99a30b358221` | HaliteChallenge/Halite-III | [open](records/webassembly-halitechallenge-halite-iii-d1e574a8.md) |
+| `github_search_webassembly-6dcc4432701390` | wasm-bindgen/wasm-bindgen | [open](records/webassembly-wasm-bindgen-wasm-bindgen-bc554e09.md) |
 | `github_search_webassembly-6e1b0febfd62a9` | gxchain/gxb-core | [open](records/webassembly-gxchain-gxb-core-5f902167.md) |
 | `github_search_webassembly-6e26710f36cd22` | gorhill/lz4-wasm | [open](records/webassembly-gorhill-lz4-wasm-a23504e4.md) |
+| `github_search_webassembly-6eac0e4dfa2b46` | athasdev/athas | [open](records/webassembly-athasdev-athas-7ce7f1c1.md) |
 | `github_search_webassembly-6ecad0372ae535` | faasm/faasm | [open](records/webassembly-faasm-faasm-25e74d15.md) |
 | `github_search_webassembly-6ffac8cefbdf3f` | battlelinegames/ArtOfWasm | [open](records/webassembly-battlelinegames-artofwasm-4749b952.md) |
 | `github_search_webassembly-716a4aa7a94a3a` | WebAssembly/testsuite | [open](records/webassembly-webassembly-testsuite-593e4a90.md) |
@@ -16670,15 +16693,23 @@
 | `github_search_webassembly-82f2703a555268` | KhronosGroupArchives/Basis-Universal-Transcoders | [open](records/webassembly-khronosgrouparchives-basis-universal-transcoders-5be15dfa.md) |
 | `github_search_webassembly-83e5e2360c5c32` | toyobayashi/emnapi | [open](records/webassembly-toyobayashi-emnapi-9dae3d7d.md) |
 | `github_search_webassembly-84a853569ab0bc` | therecipe/qt | [open](records/webassembly-therecipe-qt-fd9f7ce6.md) |
+| `github_search_webassembly-850b65fdcf3e43` | VERT-sh/VERT | [open](records/webassembly-vert-sh-vert-a7d5e315.md) |
+| `github_search_webassembly-855a50cada54ad` | cncf/landscape | [open](records/webassembly-cncf-landscape-9846f9fa.md) |
 | `github_search_webassembly-85bf6c77c4689b` | sdiehl/wasm | [open](records/webassembly-sdiehl-wasm-632e15fb.md) |
+| `github_search_webassembly-88192aadbfb2da` | jameslittle230/stork | [open](records/webassembly-jameslittle230-stork-1024e297.md) |
 | `github_search_webassembly-88b339935eb76b` | SamGinzburg/VectorVisor | [open](records/webassembly-samginzburg-vectorvisor-d663eb59.md) |
 | `github_search_webassembly-89a54a3e202eff` | WebAssembly/tail-call | [open](records/webassembly-webassembly-tail-call-79ee1733.md) |
 | `github_search_webassembly-8a94415b7d2d57` | rhysd/vim.wasm | [open](records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 | `github_search_webassembly-8bb5f1885192e0` | eliben/wasm-wat-samples | [open](records/webassembly-eliben-wasm-wat-samples-fa32d6da.md) |
 | `github_search_webassembly-8bce99416985c1` | grain-lang/grain | [open](records/webassembly-grain-lang-grain-612ed58b.md) |
 | `github_search_webassembly-8c61fd424301ca` | WEREMSOFT/spine-raylib-runtimes | [open](records/webassembly-weremsoft-spine-raylib-runtimes-10c81a49.md) |
+| `github_search_webassembly-8c92568d1a1988` | mbasso/asm-dom | [open](records/webassembly-mbasso-asm-dom-e1407840.md) |
+| `github_search_webassembly-8c92e4ce00b62a` | grame-cncm/faust | [open](records/webassembly-grame-cncm-faust-0d594169.md) |
+| `github_search_webassembly-8d93b73b00506b` | google/highway | [open](records/webassembly-google-highway-0f405ea0.md) |
 | `github_search_webassembly-8d9ce7cf46a562` | brson/wasm-opt-rs | [open](records/webassembly-brson-wasm-opt-rs-e0919bb2.md) |
 | `github_search_webassembly-8dd9fa70317184` | appcypher/awesome-wasm-langs | [open](records/webassembly-appcypher-awesome-wasm-langs-71e918d7.md) |
+| `github_search_webassembly-8ef0cdd0f44609` | yewstack/yew | [open](records/webassembly-yewstack-yew-caa03f24.md) |
+| `github_search_webassembly-8efc608ffbe7f1` | rust-windowing/winit | [open](records/webassembly-rust-windowing-winit-3721948f.md) |
 | `github_search_webassembly-8fe9fb712f68b4` | SwadicalRag/wasm2lua | [open](records/webassembly-swadicalrag-wasm2lua-96d79163.md) |
 | `github_search_webassembly-9037ff522304c2` | bytecodealliance/StarlingMonkey | [open](records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | `github_search_webassembly-906265f9d10f1f` | mtharrison/wasm-raytracer | [open](records/webassembly-mtharrison-wasm-raytracer-a3b3c328.md) |
@@ -16686,43 +16717,61 @@
 | `github_search_webassembly-90d3ddd509d9b6` | tursodatabase/turso | [open](records/webassembly-tursodatabase-turso-a563c571.md) |
 | `github_search_webassembly-92a005bf50893f` | pion/webrtc | [open](records/webassembly-pion-webrtc-128d6b83.md) |
 | `github_search_webassembly-93b41d53913f05` | ant-design-blazor/ant-design-blazor | [open](records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
+| `github_search_webassembly-9403d2bf4dce15` | johnthagen/min-sized-rust | [open](records/webassembly-johnthagen-min-sized-rust-99ad1257.md) |
 | `github_search_webassembly-942502e8c26124` | taubyte/tau | [open](records/webassembly-taubyte-tau-7d97265b.md) |
 | `github_search_webassembly-9430409ce48509` | wasmlang/awesome-wasm-zh | [open](records/webassembly-wasmlang-awesome-wasm-zh-74997eab.md) |
 | `github_search_webassembly-955d610dfd990a` | Samsung/walrus | [open](records/webassembly-samsung-walrus-ed7191a7.md) |
+| `github_search_webassembly-95685ab075966f` | MudBlazor/MudBlazor | [open](records/webassembly-mudblazor-mudblazor-37a650f6.md) |
+| `github_search_webassembly-96cdf68e519aae` | AvaloniaUI/Avalonia | [open](records/webassembly-avaloniaui-avalonia-9d4e002e.md) |
 | `github_search_webassembly-96f2c2d3cd1912` | dy/jz | [open](records/webassembly-dy-jz-bd7b5918.md) |
 | `github_search_webassembly-973b467120571a` | drbh/wasm-fingerprint | [open](records/webassembly-drbh-wasm-fingerprint-f73040ed.md) |
 | `github_search_webassembly-97b049dcaa352a` | enbop/fungi | [open](records/webassembly-enbop-fungi-7b479335.md) |
 | `github_search_webassembly-97d2ab7dc08f29` | eoswindev/contract | [open](records/webassembly-eoswindev-contract-31970bee.md) |
 | `github_search_webassembly-9828efc2840fd4` | WebAssembly/wasi-webgpu | [open](records/webassembly-webassembly-wasi-webgpu-0865d106.md) |
+| `github_search_webassembly-98439cfc7751ad` | tracel-ai/burn | [open](records/webassembly-tracel-ai-burn-490f11d2.md) |
+| `github_search_webassembly-985339a0727b05` | google/filament | [open](records/webassembly-google-filament-da286b6c.md) |
 | `github_search_webassembly-994c8136f864e0` | Hanks10100/wasm-examples | [open](records/webassembly-hanks10100-wasm-examples-f26a855c.md) |
+| `github_search_webassembly-99c5cd17dc7247` | RustPython/RustPython | [open](records/webassembly-rustpython-rustpython-0b8d0749.md) |
 | `github_search_webassembly-9a41648741144b` | pion/webrtc | [open](records/webassembly-pion-webrtc-a1beffe0.md) |
 | `github_search_webassembly-9a87f5cf20a22f` | wado-lang/wado | [open](records/webassembly-wado-lang-wado-97e1d85c.md) |
 | `github_search_webassembly-9a9fd575bdbc05` | WebAssembly/binaryen | [open](records/webassembly-webassembly-binaryen-c806271b.md) |
 | `github_search_webassembly-9b02eed9e96dd5` | multivactech/MultiVAC | [open](records/webassembly-multivactech-multivac-3d8b175a.md) |
+| `github_search_webassembly-9e3e85857bf012` | OpenCombine/OpenCombine | [open](records/webassembly-opencombine-opencombine-c9d580f7.md) |
 | `github_search_webassembly-9e7ae79d25fb42` | WebAssembly/stack-switching | [open](records/webassembly-webassembly-stack-switching-e2cc41e3.md) |
 | `github_search_webassembly-9e9f260c163591` | meshery/meshery | [open](records/webassembly-meshery-meshery-19a90056.md) |
 | `github_search_webassembly-9f5438f48629eb` | tarmac-project/tarmac | [open](records/webassembly-tarmac-project-tarmac-0f9fb005.md) |
 | `github_search_webassembly-9f997bb0f0f60d` | wazero/wazero | [open](records/webassembly-wazero-wazero-d7577722.md) |
 | `github_search_webassembly-a156338e86708b` | ColinEberhardt/wasm-game-of-life | [open](records/webassembly-colineberhardt-wasm-game-of-life-9f77cee1.md) |
+| `github_search_webassembly-a1a911a15009d5` | mytechnotalent/Reverse-Engineering | [open](records/webassembly-mytechnotalent-reverse-engineering-0aa90184.md) |
 | `github_search_webassembly-a1b7cfdace16f1` | ASSERT-KTH/slumps | [open](records/webassembly-assert-kth-slumps-32b47fde.md) |
 | `github_search_webassembly-a1ed1f0e837d8a` | unoplatform/uno | [open](records/webassembly-unoplatform-uno-0c5b85c2.md) |
 | `github_search_webassembly-a288c11a4ba59c` | iden3/circom | [open](records/webassembly-iden3-circom-ca42a3d1.md) |
+| `github_search_webassembly-a2ef0fa44bb2fd` | ruvnet/RuVector | [open](records/webassembly-ruvnet-ruvector-92764a9f.md) |
 | `github_search_webassembly-a301c8a7d6c25d` | artichoke/artichoke | [open](records/webassembly-artichoke-artichoke-7b7d01c0.md) |
 | `github_search_webassembly-a418f57ae6e36e` | plotters-rs/plotters | [open](records/webassembly-plotters-rs-plotters-3cdf5bbe.md) |
+| `github_search_webassembly-a4714bf8353793` | container2wasm/container2wasm | [open](records/webassembly-container2wasm-container2wasm-e88db7f4.md) |
 | `github_search_webassembly-a510ef1d77d99c` | binji/raw-wasm | [open](records/webassembly-binji-raw-wasm-b437b0d8.md) |
 | `github_search_webassembly-a5f7966115355e` | zwasm/zwasm | [open](records/webassembly-zwasm-zwasm-63408ac4.md) |
+| `github_search_webassembly-a6147515b91be1` | deepflowio/deepflow | [open](records/webassembly-deepflowio-deepflow-68e659d6.md) |
 | `github_search_webassembly-a732df55aeca57` | remko/uxn.wasm | [open](records/webassembly-remko-uxn-wasm-51293d13.md) |
 | `github_search_webassembly-a796e3bec70944` | kowasm/kowasm | [open](records/webassembly-kowasm-kowasm-d5a360db.md) |
+| `github_search_webassembly-a92b98e18db87c` | mikepenz/AboutLibraries | [open](records/webassembly-mikepenz-aboutlibraries-5dfe785d.md) |
+| `github_search_webassembly-aaeafaf2790c2e` | radzenhq/radzen-blazor | [open](records/webassembly-radzenhq-radzen-blazor-9ec846fe.md) |
 | `github_search_webassembly-ab1fb8bf37b3b8` | naptha/tesseract.js | [open](records/webassembly-naptha-tesseract-js-8c15fc05.md) |
 | `github_search_webassembly-ac21cc985ad5d9` | Automattic/harper | [open](records/webassembly-automattic-harper-ac075554.md) |
 | `github_search_webassembly-adee2f5e11f0aa` | tinygo-org/tinygo | [open](records/webassembly-tinygo-org-tinygo-509450fb.md) |
 | `github_search_webassembly-adfdd7e0d44b71` | mbebenita/WasmExplorer | [open](records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
 | `github_search_webassembly-ae189881a26c39` | wasmerio/awesome-wasi | [open](records/webassembly-wasmerio-awesome-wasi-97250e22.md) |
+| `github_search_webassembly-ae58c9dc21ee34` | kuzudb/kuzu | [open](records/webassembly-kuzudb-kuzu-82a50b44.md) |
+| `github_search_webassembly-af00c109e8f82a` | joreilly/PeopleInSpace | [open](records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
 | `github_search_webassembly-af325025c5e50d` | wasmerio/io-devices-lib | [open](records/webassembly-wasmerio-io-devices-lib-17434401.md) |
+| `github_search_webassembly-b02983966f6528` | tensorflow/tfjs | [open](records/webassembly-tensorflow-tfjs-11100dd5.md) |
 | `github_search_webassembly-b06d1ee5046cc7` | slint-ui/slint | [open](records/webassembly-slint-ui-slint-9f7d075f.md) |
+| `github_search_webassembly-b19cf274b80bcf` | kane50613/takumi | [open](records/webassembly-kane50613-takumi-e34f28cb.md) |
 | `github_search_webassembly-b20c4f42b4e4dc` | WebAssembly/simd | [open](records/webassembly-webassembly-simd-d6e14515.md) |
 | `github_search_webassembly-b226e1ee36d278` | xiaoyu1998/web3.learning | [open](records/webassembly-xiaoyu1998-web3-learning-3c32ead0.md) |
 | `github_search_webassembly-b24d2aa1a5e15a` | WebAssembly/wasi-io | [open](records/webassembly-webassembly-wasi-io-3a8c671d.md) |
+| `github_search_webassembly-b27a486799e93b` | xberg-io/xberg | [open](records/webassembly-xberg-io-xberg-069f8e7a.md) |
 | `github_search_webassembly-b3c063436c5552` | koute/stdweb | [open](records/webassembly-koute-stdweb-1ac99d5a.md) |
 | `github_search_webassembly-b426a3f408c904` | WebAssembly/wasi-sockets | [open](records/webassembly-webassembly-wasi-sockets-f62237cf.md) |
 | `github_search_webassembly-b5d4f58b554ac0` | torch2424/as-bind | [open](records/webassembly-torch2424-as-bind-819e3646.md) |
@@ -16731,6 +16780,7 @@
 | `github_search_webassembly-b78c65ea15abdd` | danleh/wasabi | [open](records/webassembly-danleh-wasabi-faf413b5.md) |
 | `github_search_webassembly-b7ca0c77b55164` | austintheriot/hand-crafted-wasm | [open](records/webassembly-austintheriot-hand-crafted-wasm-d154ce34.md) |
 | `github_search_webassembly-b82dab59d15572` | kanaka/mal | [open](records/webassembly-kanaka-mal-bd74d373.md) |
+| `github_search_webassembly-b8bf9b76166bbb` | saghul/txiki.js | [open](records/webassembly-saghul-txiki-js-8b8b75eb.md) |
 | `github_search_webassembly-b931b6bf6141a6` | eliben/watgo | [open](records/webassembly-eliben-watgo-1be01e71.md) |
 | `github_search_webassembly-b95dc6eddbb618` | multivactech/MultiVAC | [open](records/webassembly-multivactech-multivac-259ed6fc.md) |
 | `github_search_webassembly-ba3e01dcbcd835` | wasmerio/wapm-cli | [open](records/webassembly-wasmerio-wapm-cli-a6f51cfe.md) |
@@ -16745,9 +16795,13 @@
 | `github_search_webassembly-be9550692fca0c` | bytecodealliance/wit-bindgen | [open](records/webassembly-bytecodealliance-wit-bindgen-5f4cba61.md) |
 | `github_search_webassembly-beae5bab935126` | ericfish/EOS-Dev-Book | [open](records/webassembly-ericfish-eos-dev-book-ab3602a2.md) |
 | `github_search_webassembly-beb46ec10f18cb` | Samsung/walrus | [open](records/webassembly-samsung-walrus-1892cda8.md) |
+| `github_search_webassembly-bf0ec18542229d` | maxence-charriere/go-app | [open](records/webassembly-maxence-charriere-go-app-336a32c4.md) |
 | `github_search_webassembly-c06b495d67a36c` | liam-hq/liam | [open](records/webassembly-liam-hq-liam-467de678.md) |
+| `github_search_webassembly-c07edacea99856` | sycamore-rs/sycamore | [open](records/webassembly-sycamore-rs-sycamore-97b446f4.md) |
 | `github_search_webassembly-c216bc043c96ac` | wasmvision/wasmvision | [open](records/webassembly-wasmvision-wasmvision-2c425662.md) |
 | `github_search_webassembly-c2aaebb3a43e7f` | liam-hq/liam | [open](records/webassembly-liam-hq-liam-88219c45.md) |
+| `github_search_webassembly-c3d1675a6acade` | warpdotdev/warp | [open](records/webassembly-warpdotdev-warp-c98a3050.md) |
+| `github_search_webassembly-c3f02bc4a3620a` | aliasvault/aliasvault | [open](records/webassembly-aliasvault-aliasvault-b78c4235.md) |
 | `github_search_webassembly-c4294ab91c5765` | Kimundi/greenwasm | [open](records/webassembly-kimundi-greenwasm-bd71de00.md) |
 | `github_search_webassembly-c44988ffcbd88c` | svenstaro/genact | [open](records/webassembly-svenstaro-genact-d28ebcc6.md) |
 | `github_search_webassembly-c52dea992ec48f` | mafintosh/blake2b-wasm | [open](records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
@@ -16766,10 +16820,12 @@
 | `github_search_webassembly-ce625273aaf7cd` | microsoft/fluentui-blazor | [open](records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | `github_search_webassembly-cf0a1a16e85b1c` | Becavalier/Book-DISO-WebAssembly | [open](records/webassembly-becavalier-book-diso-webassembly-adda2eaf.md) |
 | `github_search_webassembly-cfa218d64af0de` | danleh/wasabi | [open](records/webassembly-danleh-wasabi-20dc006b.md) |
+| `github_search_webassembly-d16d4f0266fd25` | nearai/ironclaw | [open](records/webassembly-nearai-ironclaw-b0ee1475.md) |
 | `github_search_webassembly-d1842afdbe67ba` | WebAssembly/component-model | [open](records/webassembly-webassembly-component-model-3e95f841.md) |
 | `github_search_webassembly-d330e8c3f20c95` | jungomi/xxhash-wasm | [open](records/webassembly-jungomi-xxhash-wasm-49598b2a.md) |
 | `github_search_webassembly-d3522564388958` | GoogleChromeLabs/wasi-fs-access | [open](records/webassembly-googlechromelabs-wasi-fs-access-942c70b3.md) |
 | `github_search_webassembly-d54342cfd1517c` | leptos-rs/leptos | [open](records/webassembly-leptos-rs-leptos-831793ba.md) |
+| `github_search_webassembly-d5730980fb8e3a` | copy/v86 | [open](records/webassembly-copy-v86-c7d092c3.md) |
 | `github_search_webassembly-d684f23a78df24` | meshery/meshery | [open](records/webassembly-meshery-meshery-7b46f863.md) |
 | `github_search_webassembly-d69cf7cced0ff5` | OGRECave/ogre | [open](records/webassembly-ogrecave-ogre-e3987e47.md) |
 | `github_search_webassembly-d7334da3efaa3e` | kanaka/mal | [open](records/webassembly-kanaka-mal-077545d0.md) |
@@ -16785,8 +16841,11 @@
 | `github_search_webassembly-da6d25ed34cef7` | thangchung/webassembly-tour | [open](records/webassembly-thangchung-webassembly-tour-7b4868ce.md) |
 | `github_search_webassembly-da8a624e8b8b7c` | libraries/pywasm | [open](records/webassembly-libraries-pywasm-371c9f97.md) |
 | `github_search_webassembly-dc5340687fb212` | unoplatform/Uno.Wasm.Bootstrap | [open](records/webassembly-unoplatform-uno-wasm-bootstrap-2ef7ab44.md) |
+| `github_search_webassembly-dc79a195bbb0bc` | pyscript/pyscript | [open](records/webassembly-pyscript-pyscript-6d2e79e8.md) |
 | `github_search_webassembly-dca95b99a68314` | Evian-Zhang/wasm-tutorial | [open](records/webassembly-evian-zhang-wasm-tutorial-8c1b630a.md) |
+| `github_search_webassembly-dd4056df50f3ef` | linera-io/linera-protocol | [open](records/webassembly-linera-io-linera-protocol-3393389c.md) |
 | `github_search_webassembly-dda04b57452d0c` | acieroid/wassail | [open](records/webassembly-acieroid-wassail-9938b412.md) |
+| `github_search_webassembly-ddc1142832ec5c` | Adam-CAD/CADAM | [open](records/webassembly-adam-cad-cadam-886038fc.md) |
 | `github_search_webassembly-de7ddfa65dac3c` | as2d/as2d | [open](records/webassembly-as2d-as2d-3fc338a6.md) |
 | `github_search_webassembly-e0906279928ed1` | remko/waforth | [open](records/webassembly-remko-waforth-cc54915f.md) |
 | `github_search_webassembly-e16839f4e8c9c3` | WebAssembly/memory-control | [open](records/webassembly-webassembly-memory-control-2c294d78.md) |
@@ -16799,19 +16858,25 @@
 | `github_search_webassembly-e9e5a25ffd4af7` | unoplatform/uno | [open](records/webassembly-unoplatform-uno-9db0f4f0.md) |
 | `github_search_webassembly-ea0d3fc28c7214` | studio-lagier/heapviz | [open](records/webassembly-studio-lagier-heapviz-52eb5d17.md) |
 | `github_search_webassembly-ed1c7d8fc45489` | ASSERT-KTH/slumps | [open](records/webassembly-assert-kth-slumps-03fa2e3c.md) |
+| `github_search_webassembly-edad630edbdc51` | wasmerio/wasmer-go | [open](records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |
+| `github_search_webassembly-edba0197b83181` | DioxusLabs/dioxus | [open](records/webassembly-dioxuslabs-dioxus-b778fe0f.md) |
 | `github_search_webassembly-ee802f76f333a2` | WebAssembly/wasi-threads | [open](records/webassembly-webassembly-wasi-threads-383070f9.md) |
 | `github_search_webassembly-ef23090cb9dd4f` | mosra/magnum | [open](records/webassembly-mosra-magnum-7354176b.md) |
 | `github_search_webassembly-ef279e747baf53` | wasmerio/wasmer | [open](records/webassembly-wasmerio-wasmer-6c9ffa90.md) |
+| `github_search_webassembly-efb1a24b2c829d` | kitao/pyxel | [open](records/webassembly-kitao-pyxel-5f7affc7.md) |
 | `github_search_webassembly-f0106612c1b744` | WebAssembly/module-linking | [open](records/webassembly-webassembly-module-linking-0b442d73.md) |
 | `github_search_webassembly-f0cfc3c3753610` | torch2424/wasmboy | [open](records/webassembly-torch2424-wasmboy-28e5014a.md) |
 | `github_search_webassembly-f1a810e434fa34` | SamGinzburg/VectorVisor | [open](records/webassembly-samginzburg-vectorvisor-5bd259b4.md) |
 | `github_search_webassembly-f476a9b0aee819` | WebAssembly/WASI | [open](records/webassembly-webassembly-wasi-4b8db127.md) |
 | `github_search_webassembly-f4b359b64b163c` | WebAssembly/threads | [open](records/webassembly-webassembly-threads-46b610e0.md) |
 | `github_search_webassembly-f50c3f7064dac9` | bytecodealliance/sightglass | [open](records/webassembly-bytecodealliance-sightglass-4a32272b.md) |
+| `github_search_webassembly-f611dad3232ec5` | tree-sitter/tree-sitter | [open](records/webassembly-tree-sitter-tree-sitter-b8fc67da.md) |
 | `github_search_webassembly-f635d45f2c5a8d` | InsightSoftwareConsortium/ITK-Wasm | [open](records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) |
 | `github_search_webassembly-f6cfbd55fd91a0` | microsoft/fluentui-blazor | [open](records/webassembly-microsoft-fluentui-blazor-55347491.md) |
+| `github_search_webassembly-f76e751843d228` | sunface/rust-course | [open](records/webassembly-sunface-rust-course-dfe8f9fa.md) |
 | `github_search_webassembly-f85a92d3b23fdb` | WebAssembly/wasi-http | [open](records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
 | `github_search_webassembly-f86cec1f54e450` | cloudflare/workers-rs | [open](records/webassembly-cloudflare-workers-rs-938fd17c.md) |
+| `github_search_webassembly-f9c7eb5951354f` | sql-js/sql.js | [open](records/webassembly-sql-js-sql-js-33b2be89.md) |
 | `github_search_webassembly-fa490a6fe929fa` | bytecodealliance/wasi-rs | [open](records/webassembly-bytecodealliance-wasi-rs-ab5ac60a.md) |
 | `github_search_webassembly-fad9af3076fb4c` | WebAssembly/tool-conventions | [open](records/webassembly-webassembly-tool-conventions-9f573a96.md) |
 | `github_search_webassembly-fc093630b595fb` | PeterHuZQ/EOS-Dapp | [open](records/webassembly-peterhuzq-eos-dapp-4e03fdd8.md) |

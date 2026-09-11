@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-11T03:23:34+00:00`
+Generated: `2026-09-11T04:25:17+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -15,34 +15,34 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 ## Category Index
 
 [Api Abi Checker (235)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (139)](catalog/by-category/async-runtime.md)
-[Benchmarking (208)](catalog/by-category/benchmarking.md) · [Build System (1033)](catalog/by-category/build-system.md) · [Cli (590)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
-[Community Reference (125)](catalog/by-category/community-reference.md) · [Compiler (176)](catalog/by-category/compiler.md) · [Compiler Diagnostics (25)](catalog/by-category/compiler-diagnostics.md) · [Compression (54)](catalog/by-category/compression.md)
+[Benchmarking (208)](catalog/by-category/benchmarking.md) · [Build System (1035)](catalog/by-category/build-system.md) · [Cli (592)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
+[Community Reference (125)](catalog/by-category/community-reference.md) · [Compiler (177)](catalog/by-category/compiler.md) · [Compiler Diagnostics (25)](catalog/by-category/compiler-diagnostics.md) · [Compression (54)](catalog/by-category/compression.md)
 [Concurrency Parallelism (95)](catalog/by-category/concurrency-parallelism.md) · [Configuration (140)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
-[Cryptography (181)](catalog/by-category/cryptography.md) · [Data Science (40)](catalog/by-category/data-science.md) · [Database Datastore (977)](catalog/by-category/database-datastore.md) · [Datetime (248)](catalog/by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (45)](catalog/by-category/debugger.md) · [Dependency Manager (109)](catalog/by-category/dependency-manager.md) · [Documentation (114)](catalog/by-category/documentation.md)
-[Embedded Hardware (67)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (481)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1693)](catalog/by-category/filesystem-os.md) · [Formatter (664)](catalog/by-category/formatter.md)
-[Framework (63)](catalog/by-category/framework.md) · [Fuzzer (63)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (373)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](catalog/by-category/ide-editor-integration.md)
-[Image Audio Dsp (447)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (282)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (65)](catalog/by-category/jit-vm.md)
-[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1464)](catalog/by-category/language-specification.md) · [Library (6025)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (50)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (548)](catalog/by-category/logging-observability.md) · [Machine Learning (845)](catalog/by-category/machine-learning.md)
-[Math Numeric Scientific (94)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1079)](catalog/by-category/networking-http.md)
-[Other (14)](catalog/by-category/other.md) · [Package Manager (450)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1236)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](catalog/by-category/precommit-ci-quality.md)
-[Profiler (94)](catalog/by-category/profiler.md) · [Project Scaffolding (142)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
-[Security Sast (339)](catalog/by-category/security-sast.md) · [Serialization (404)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (658)](catalog/by-category/static-analyzer.md)
+[Cryptography (182)](catalog/by-category/cryptography.md) · [Data Science (40)](catalog/by-category/data-science.md) · [Database Datastore (980)](catalog/by-category/database-datastore.md) · [Datetime (249)](catalog/by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (45)](catalog/by-category/debugger.md) · [Dependency Manager (110)](catalog/by-category/dependency-manager.md) · [Documentation (115)](catalog/by-category/documentation.md)
+[Embedded Hardware (67)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (483)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1696)](catalog/by-category/filesystem-os.md) · [Formatter (665)](catalog/by-category/formatter.md)
+[Framework (64)](catalog/by-category/framework.md) · [Fuzzer (63)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (375)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1506)](catalog/by-category/ide-editor-integration.md)
+[Image Audio Dsp (447)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (287)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
+[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1468)](catalog/by-category/language-specification.md) · [Library (6034)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Lint Rule Pack (50)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (548)](catalog/by-category/logging-observability.md) · [Machine Learning (851)](catalog/by-category/machine-learning.md)
+[Math Numeric Scientific (95)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (101)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1081)](catalog/by-category/networking-http.md)
+[Other (14)](catalog/by-category/other.md) · [Package Manager (450)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1238)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (320)](catalog/by-category/precommit-ci-quality.md)
+[Profiler (96)](catalog/by-category/profiler.md) · [Project Scaffolding (142)](catalog/by-category/project-scaffolding.md) · [Registry Repository (133)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
+[Security Sast (340)](catalog/by-category/security-sast.md) · [Serialization (404)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (658)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (638)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (72)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (316)](catalog/by-category/type-checker.md)
-[Undefined Behavior Analyzer (1653)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](catalog/by-category/utility-library.md) · [Visualization Gui (639)](catalog/by-category/visualization-gui.md) · [Web Framework (495)](catalog/by-category/web-framework.md)
+[Undefined Behavior Analyzer (1656)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](catalog/by-category/utility-library.md) · [Visualization Gui (642)](catalog/by-category/visualization-gui.md) · [Web Framework (495)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
 
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 28789 |
+| Canonical identity pages | 28854 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10725 |
-| Unknown stable release fields | 18064 |
-| Fetch errors recorded | 985 |
+| Known stable release fields | 10728 |
+| Unknown stable release fields | 18126 |
+| Fetch errors recorded | 1036 |
 | Target identity count | 24000 |
 
 ## Language Scope
