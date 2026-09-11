@@ -1,6 +1,6 @@
 # Ffi Bindings
 
-Records: `473`
+Records: `481`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `473`
 
 ## Category Index
 
-[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · **[Ffi Bindings (473)](ffi-bindings.md)** · [Filesystem Os (1679)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
-[Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (542)](logging-observability.md) · [Machine Learning (835)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (208)](benchmarking.md) · [Build System (1033)](build-system.md) · [Cli (590)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (248)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (109)](dependency-manager.md) · [Documentation (114)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · **[Ffi Bindings (481)](ffi-bindings.md)** · [Filesystem Os (1693)](filesystem-os.md) · [Formatter (664)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
+[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
+[Undefined Behavior Analyzer (1653)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (639)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -403,7 +403,7 @@ Records: `473`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | partial | 2026-09-07T09:59:57Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | unknown | not_a_go_module_path | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 
@@ -433,12 +433,19 @@ Records: `473`
 | --- | --- | --- | --- |
 | amerkoleci/JoltPhysicsSharp | partial | 2026-07-13T12:14:48Z | [open](../records/physics-engines-amerkoleci-joltphysicssharp-4daf2ef5.md) |
 | dartsim/dart | partial | 2026-09-06T18:31:30Z | [open](../records/physics-engines-dartsim-dart-84ffc4ee.md) |
+| elbywan/quadtree-lib | partial | 2024-12-10T18:42:14Z | [open](../records/physics-engines-elbywan-quadtree-lib-23bee7fb.md) |
 | fabmax/physx-jni | partial | 2026-04-15T19:52:51Z | [open](../records/physics-engines-fabmax-physx-jni-733428d2.md) |
+| InteractiveComputerGraphics/TriangleMeshDistance | partial | 2026-02-14T17:36:17Z | [open](../records/physics-engines-interactivecomputergraphics-trianglemeshdistance-bba0f601.md) |
 | joncodeofficial/Cirobb | partial | 2026-09-05T13:07:22Z | [open](../records/physics-engines-joncodeofficial-cirobb-6134ab36.md) |
 | li3zhen1/Grape | partial | 2025-05-19T10:30:23Z | [open](../records/physics-engines-li3zhen1-grape-15f48dce.md) |
+| Miguel249/Box3D.NET | partial | 2026-08-10T12:20:56Z | [open](../records/physics-engines-miguel249-box3d-net-f404698d.md) |
+| mlund/spheretree | partial | 2025-02-18T20:28:48Z | [open](../records/physics-engines-mlund-spheretree-a2c257d7.md) |
 | Physics-Scaling/GeoPT | partial | 2026-05-20T00:38:15Z | [open](../records/physics-engines-physics-scaling-geopt-66352620.md) |
+| rainorangelemon/gnn-motion-planning | partial | 2023-01-29T20:02:17Z | [open](../records/physics-engines-rainorangelemon-gnn-motion-planning-14eeb7ad.md) |
 | rohanpsingh/mujoco-python-viewer | partial | 2023-11-14T07:01:38Z | [open](../records/physics-engines-rohanpsingh-mujoco-python-viewer-26580adf.md) |
+| sueda/redmax | partial | 2024-06-15T15:21:49Z | [open](../records/physics-engines-sueda-redmax-80d45ac9.md) |
 | Suvitruf/box3d-unity | partial | 2026-09-03T14:36:37Z | [open](../records/physics-engines-suvitruf-box3d-unity-618c916d.md) |
+| UnknownFreeOccupied/ufomap | partial | 2025-06-27T11:35:36Z | [open](../records/physics-engines-unknownfreeoccupied-ufomap-d5cc2d8d.md) |
 | ZhengyiLuo/PHC | partial | 2025-08-21T18:34:47Z | [open](../records/physics-engines-zhengyiluo-phc-11b1f006.md) |
 
 ## Game Engines
@@ -455,6 +462,7 @@ Records: `473`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| coltongriffith/fluenticons | partial | 2026-03-26T15:25:19Z | [open](../records/icons-and-logos-coltongriffith-fluenticons-513207a3.md) |
 | creativetimofficial/argon-design-system | partial | 2024-06-26T08:57:37Z | [open](../records/icons-and-logos-creativetimofficial-argon-design-system-d13ef400.md) |
 | FortAwesome/angular-fontawesome | partial | 2026-07-02T19:27:56Z | [open](../records/icons-and-logos-fortawesome-angular-fontawesome-003129e3.md) |
 | twbs/icons | partial | 2026-09-09T23:56:26Z | [open](../records/icons-and-logos-twbs-icons-d49d12cd.md) |

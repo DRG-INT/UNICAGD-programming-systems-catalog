@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `542`
+Records: `547`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `542`
 
 ## Category Index
 
-[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · [Filesystem Os (1679)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
-[Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (542)](logging-observability.md)** · [Machine Learning (835)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (208)](benchmarking.md) · [Build System (1033)](build-system.md) · [Cli (590)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (248)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (109)](dependency-manager.md) · [Documentation (114)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (481)](ffi-bindings.md) · [Filesystem Os (1693)](filesystem-os.md) · [Formatter (664)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
+[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (547)](logging-observability.md)** · [Machine Learning (845)](machine-learning.md)
+[Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
+[Undefined Behavior Analyzer (1653)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (639)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -356,7 +356,7 @@ Records: `542`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-10T18:28:38Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -385,8 +385,11 @@ Records: `542`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | acrlw/Physics2D | partial | 2023-09-04T07:23:54Z | [open](../records/physics-engines-acrlw-physics2d-b799a4ca.md) |
+| Erfan-Ahmadi/CircleCollision | partial | 2020-12-28T14:58:06Z | [open](../records/physics-engines-erfan-ahmadi-circlecollision-11fd1023.md) |
+| GuilhermeRossato/3D-Redstone-Simulator | partial | 2026-05-29T20:37:27Z | [open](../records/physics-engines-guilhermerossato-3d-redstone-simulator-ab4487ec.md) |
 | Unity-Technologies/articulations-robot-demo | partial | 2021-12-13T23:53:46Z | [open](../records/physics-engines-unity-technologies-articulations-robot-demo-cb42297d.md) |
 | Unity-Technologies/PhysicsExamples2D | partial | 2026-09-09T17:59:07Z | [open](../records/physics-engines-unity-technologies-physicsexamples2d-c6aaad56.md) |
+| XXHolic/blog | partial | 2025-11-30T12:46:47Z | [open](../records/physics-engines-xxholic-blog-19ccc801.md) |
 
 ## Game Engines
 
@@ -395,7 +398,7 @@ Records: `542`
 | MovingBlocks/Terasology | partial | 2026-08-29T19:19:27Z | [open](../records/game-engines-movingblocks-terasology-efdac4a7.md) |
 | Overload-Technologies/Overload | partial | 2026-09-09T21:30:27Z | [open](../records/game-engines-overload-technologies-overload-04afa783.md) |
 | QianMo/Game-Programmer-Study-Notes | partial | 2021-10-16T10:02:21Z | [open](../records/game-engines-qianmo-game-programmer-study-notes-d8626b38.md) |
-| Unity-Technologies/EntityComponentSystemSamples | partial | 2026-09-09T23:11:21Z | [open](../records/game-engines-unity-technologies-entitycomponentsystemsamples-c074867e.md) |
+| Unity-Technologies/EntityComponentSystemSamples | partial | 2026-09-10T23:10:59Z | [open](../records/game-engines-unity-technologies-entitycomponentsystemsamples-c074867e.md) |
 
 ## Icons and Logos
 
@@ -406,9 +409,11 @@ Records: `542`
 | alrra/browser-logos | partial | 2025-10-13T03:11:27Z | [open](../records/icons-and-logos-alrra-browser-logos-efc6858b.md) |
 | edent/SuperTinyIcons | partial | 2026-05-18T06:50:14Z | [open](../records/icons-and-logos-edent-supertinyicons-cfc386d5.md) |
 | frinyvonnick/gitmoji-changelog | partial | 2024-05-23T14:53:21Z | [open](../records/icons-and-logos-frinyvonnick-gitmoji-changelog-3c54e45b.md) |
+| get-icon/geticon | partial | 2024-01-20T19:39:18Z | [open](../records/icons-and-logos-get-icon-geticon-9e91d024.md) |
 | lukas-w/font-logos | partial | 2026-07-20T16:02:02Z | [open](../records/icons-and-logos-lukas-w-font-logos-0a7c0b48.md) |
 | magicpatterns/catalog | partial | 2024-05-03T20:23:35Z | [open](../records/icons-and-logos-magicpatterns-catalog-62876da5.md) |
-| pheralb/svgl | partial | 2026-09-09T23:08:08Z | [open](../records/icons-and-logos-pheralb-svgl-afe7acb0.md) |
+| pheralb/svgl | partial | 2026-09-10T07:55:58Z | [open](../records/icons-and-logos-pheralb-svgl-afe7acb0.md) |
+| VectorLogoZone/vectorlogozone | partial | 2026-09-11T00:07:30Z | [open](../records/icons-and-logos-vectorlogozone-vectorlogozone-a35f6bff.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/icons-and-logos-vorillaz-devicons-65e30795.md) |
 | xandemon/developer-icons | partial | 2026-08-08T12:33:35Z | [open](../records/icons-and-logos-xandemon-developer-icons-43879739.md) |
 
@@ -419,7 +424,7 @@ Records: `542`
 | easylogic/fontmoa | partial | 2023-01-25T00:48:10Z | [open](../records/font-briefcase-easylogic-fontmoa-56792197.md) |
 | JunaidQadirB/font-os | partial | 2020-05-25T22:50:47Z | [open](../records/font-briefcase-junaidqadirb-font-os-06c12a89.md) |
 | source-foundry/font-line | partial | 2023-05-11T00:57:14Z | [open](../records/font-briefcase-source-foundry-font-line-8f19a031.md) |
-| unjs/fontaine | partial | 2026-09-09T15:03:20Z | [open](../records/font-briefcase-unjs-fontaine-7b355784.md) |
+| unjs/fontaine | partial | 2026-09-10T23:55:34Z | [open](../records/font-briefcase-unjs-fontaine-7b355784.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/font-briefcase-vorillaz-devicons-0d4fa77a.md) |
 
 ## Assets

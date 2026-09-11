@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `615`
+Records: `639`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `615`
 
 ## Category Index
 
-[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · [Filesystem Os (1679)](filesystem-os.md) · [Formatter (662)](formatter.md)
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
-[Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (542)](logging-observability.md) · [Machine Learning (835)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (208)](benchmarking.md) · [Build System (1033)](build-system.md) · [Cli (590)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (248)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (109)](dependency-manager.md) · [Documentation (114)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (481)](ffi-bindings.md) · [Filesystem Os (1693)](filesystem-os.md) · [Formatter (664)](formatter.md)
+[Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
+[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · **[Visualization Gui (615)](visualization-gui.md)** · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
+[Undefined Behavior Analyzer (1653)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · **[Visualization Gui (639)](visualization-gui.md)** · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -309,10 +309,10 @@ Records: `615`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -378,24 +378,48 @@ Records: `615`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| ACskyline/Wave-Particles-with-Interactive-Vortices | partial | 2019-09-23T03:36:19Z | [open](../records/physics-engines-acskyline-wave-particles-with-interactive-vortices-744568eb.md) |
 | Bithack/principia | partial | 2026-09-09T22:18:21Z | [open](../records/physics-engines-bithack-principia-a871fdbd.md) |
 | DanielChappuis/reactphysics3d | partial | 2025-03-28T06:33:07Z | [open](../records/physics-engines-danielchappuis-reactphysics3d-121a1574.md) |
+| Erkaman/gl-water2d | partial | 2016-06-29T18:44:29Z | [open](../records/physics-engines-erkaman-gl-water2d-264bb64b.md) |
+| Ghoulpachannel/Autodesk-CFD | partial | 2026-09-09T15:05:40Z | [open](../records/physics-engines-ghoulpachannel-autodesk-cfd-b48294a5.md) |
+| GregTJ/stable-fluids | partial | 2022-01-11T04:06:25Z | [open](../records/physics-engines-gregtj-stable-fluids-7e205e9c.md) |
+| guitarfreak/DirectX-11-Demo | partial | 2023-10-01T08:24:36Z | [open](../records/physics-engines-guitarfreak-directx-11-demo-ca294a5d.md) |
+| hagmas/MobileFluidSimulation | partial | 2017-10-30T12:43:50Z | [open](../records/physics-engines-hagmas-mobilefluidsimulation-06082174.md) |
+| hamaluik/headbutt | partial | 2022-08-03T20:02:42Z | [open](../records/physics-engines-hamaluik-headbutt-d9245287.md) |
+| InteractiveComputerGraphics/SPlisHSPlasH | partial | 2026-09-01T10:57:03Z | [open](../records/physics-engines-interactivecomputergraphics-splishsplash-628cbc49.md) |
 | jrouwe/JoltPhysics | partial | 2026-09-07T05:12:38Z | [open](../records/physics-engines-jrouwe-joltphysics-7808ec3e.md) |
+| JuliaRobotics/RigidBodySim.jl | partial | 2020-05-22T00:15:02Z | [open](../records/physics-engines-juliarobotics-rigidbodysim-jl-6f794ea2.md) |
+| kbladin/Fluid_Simulation | partial | 2019-02-25T06:09:14Z | [open](../records/physics-engines-kbladin-fluid-simulation-578c262c.md) |
 | lettucecfd/lettuce | partial | 2026-04-13T23:21:59Z | [open](../records/physics-engines-lettucecfd-lettuce-5bfbae1f.md) |
 | louis-langholtz/PlayRho | partial | 2024-04-30T03:29:32Z | [open](../records/physics-engines-louis-langholtz-playrho-eef0dbd1.md) |
 | newton-physics/newton | partial | 2026-09-10T01:09:04Z | [open](../records/physics-engines-newton-physics-newton-932f4b4e.md) |
+| ollyc2015/BathBombFluidDynamics | partial | 2026-05-20T18:57:37Z | [open](../records/physics-engines-ollyc2015-bathbombfluiddynamics-f790e38b.md) |
+| praxhna/Fluid-Simulation-and-Physics-Based-Animation | partial | 2025-11-23T21:49:09Z | [open](../records/physics-engines-praxhna-fluid-simulation-and-physics-based-animation-fdf7665c.md) |
+| precise-simulation/cfdtool | partial | 2026-07-15T01:44:19Z | [open](../records/physics-engines-precise-simulation-cfdtool-d7741f41.md) |
 | precise-simulation/featool-multiphysics | partial | 2026-09-03T09:25:07Z | [open](../records/physics-engines-precise-simulation-featool-multiphysics-60ff4a84.md) |
+| pypr/pysph | partial | 2026-08-23T03:31:40Z | [open](../records/physics-engines-pypr-pysph-ee993d8e.md) |
 | quinton-ashley/p5play | partial | 2026-05-14T04:15:02Z | [open](../records/physics-engines-quinton-ashley-p5play-0c12631c.md) |
+| raymondyfei/libwetcloth | partial | 2021-12-20T20:20:31Z | [open](../records/physics-engines-raymondyfei-libwetcloth-76894952.md) |
+| rlguy/Blender-FLIP-Fluids | partial | 2026-08-24T22:35:14Z | [open](../records/physics-engines-rlguy-blender-flip-fluids-47134c2e.md) |
+| rlguy/GridFluidSim3D | partial | 2017-10-24T18:32:35Z | [open](../records/physics-engines-rlguy-gridfluidsim3d-fc245eb2.md) |
+| Scrawk/Brunetons-Ocean | partial | 2022-01-30T05:42:45Z | [open](../records/physics-engines-scrawk-brunetons-ocean-aa342f88.md) |
+| Scrawk/GPU-GEMS-2D-Fluid-Simulation | partial | 2022-01-30T13:48:46Z | [open](../records/physics-engines-scrawk-gpu-gems-2d-fluid-simulation-efe3e78a.md) |
+| Scrawk/GPU-GEMS-3D-Fluid-Simulation | partial | 2022-01-30T13:49:02Z | [open](../records/physics-engines-scrawk-gpu-gems-3d-fluid-simulation-98073303.md) |
+| Scrawk/Phillips-Ocean | partial | 2022-01-30T05:28:53Z | [open](../records/physics-engines-scrawk-phillips-ocean-cf91433c.md) |
+| simon3dv/SLR-SFS | partial | 2023-12-04T03:35:23Z | [open](../records/physics-engines-simon3dv-slr-sfs-74a7b600.md) |
 | Sirui-Xu/InterMimic | partial | 2026-04-21T17:13:17Z | [open](../records/physics-engines-sirui-xu-intermimic-6455180d.md) |
 | sksalahuddin2828/NASA | partial | 2023-07-14T09:54:38Z | [open](../records/physics-engines-sksalahuddin2828-nasa-34ee1e7e.md) |
+| sthavishtha/list-lattice-Boltzmann-codes | partial | 2024-07-10T05:14:29Z | [open](../records/physics-engines-sthavishtha-list-lattice-boltzmann-codes-e4f9737e.md) |
 
 ## Game Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bevyengine/bevy | partial | 2026-09-09T03:29:14Z | [open](../records/game-engines-bevyengine-bevy-a5bfd46e.md) |
-| emilk/egui | partial | 2026-09-09T16:18:58Z | [open](../records/game-engines-emilk-egui-3281d5d1.md) |
+| bevyengine/bevy | partial | 2026-09-10T21:19:37Z | [open](../records/game-engines-bevyengine-bevy-a5bfd46e.md) |
+| emilk/egui | partial | 2026-09-10T15:38:06Z | [open](../records/game-engines-emilk-egui-3281d5d1.md) |
 | jrouwe/JoltPhysics | partial | 2026-09-07T05:12:38Z | [open](../records/game-engines-jrouwe-joltphysics-df9a65f0.md) |
+| liuhaopen/UnityMMO | partial | 2021-07-01T13:20:26Z | [open](../records/game-engines-liuhaopen-unitymmo-fdab29a9.md) |
 
 ## Icons and Logos
 
@@ -644,13 +668,13 @@ Records: `615`
 | Automaticism/Promptvision | partial | 2024-09-04T21:15:49Z | [open](../records/photography-automaticism-promptvision-8cf055e0.md) |
 | CarVac/filmulator-gui | partial | 2026-07-05T14:39:24Z | [open](../records/photography-carvac-filmulator-gui-7958689d.md) |
 | darktable | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-darktable-643ff3aa.md) |
-| deckerst/aves | partial | 2026-09-08T16:59:51Z | [open](../records/photography-deckerst-aves-abe42e9c.md) |
+| deckerst/aves | partial | 2026-09-10T17:25:55Z | [open](../records/photography-deckerst-aves-abe42e9c.md) |
 | ECarry/photography-website | partial | 2026-08-11T15:45:41Z | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
 | GuidoBartoli/sherloq | partial | 2026-07-16T11:39:56Z | [open](../records/photography-guidobartoli-sherloq-89dd76f4.md) |
 | hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |
 | lucalista/shinestacker | partial | 2026-09-06T19:01:27Z | [open](../records/photography-lucalista-shinestacker-ea562427.md) |
 | RawTherapee | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-rawtherapee-04b87a38.md) |
-| Slicer/Slicer | partial | 2026-09-09T08:40:35Z | [open](../records/photography-slicer-slicer-04ff6520.md) |
+| Slicer/Slicer | partial | 2026-09-10T08:40:17Z | [open](../records/photography-slicer-slicer-04ff6520.md) |
 
 ## Microscopy
 
@@ -682,7 +706,7 @@ Records: `615`
 | CScorza/Tool-VATINT | partial | 2025-08-08T09:26:33Z | [open](../records/radars-cscorza-tool-vatint-9756d098.md) |
 | juliojsb/sarviewer | partial | 2019-06-03T16:42:23Z | [open](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) |
 | n0bel/PiClock | partial | 2026-08-28T00:26:22Z | [open](../records/radars-n0bel-piclock-1539715f.md) |
-| radarsimx/radarsimpy | partial | 2026-09-10T16:43:37Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
+| radarsimx/radarsimpy | partial | 2026-09-11T00:22:32Z | [open](../records/radars-radarsimx-radarsimpy-024e5c6c.md) |
 | Stefal/rtkbase | partial | 2026-05-07T15:39:40Z | [open](../records/radars-stefal-rtkbase-1f60caca.md) |
 
 ## SatCom Satellites

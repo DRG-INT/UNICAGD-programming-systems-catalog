@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `662`
+Records: `664`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `662`
 
 ## Category Index
 
-[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · [Filesystem Os (1679)](filesystem-os.md) · **[Formatter (662)](formatter.md)**
-[Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
-[Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (542)](logging-observability.md) · [Machine Learning (835)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
+[Api Abi Checker (235)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (208)](benchmarking.md) · [Build System (1033)](build-system.md) · [Cli (590)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (54)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (248)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (109)](dependency-manager.md) · [Documentation (114)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (481)](ffi-bindings.md) · [Filesystem Os (1693)](filesystem-os.md) · **[Formatter (664)](formatter.md)**
+[Framework (63)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (373)](game-engine-game-dev.md) · [Ide Editor Integration (1505)](ide-editor-integration.md)
+[Image Audio Dsp (447)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (282)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1464)](language-specification.md) · [Library (6025)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (547)](logging-observability.md) · [Machine Learning (845)](machine-learning.md)
+[Math Numeric Scientific (94)](math-numeric-scientific.md) · [Memory Analyzer (100)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1079)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1236)](parser-lexer-ast.md) · [Precommit Ci Quality (318)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (638)](testing-framework.md) · [Tutorial Book Styleguide (72)](tutorial-book-styleguide.md) · [Type Checker (316)](type-checker.md)
+[Undefined Behavior Analyzer (1653)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (639)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -533,7 +533,7 @@ Records: `662`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -545,7 +545,7 @@ Records: `662`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-11T00:29:39Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-11T01:17:02Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-07T05:38:38Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -566,7 +566,9 @@ Records: `662`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | anuraghazra/Verly.js | partial | 2025-02-19T20:24:26Z | [open](../records/physics-engines-anuraghazra-verly-js-0d5dd2a2.md) |
+| leggedrobotics/urdf2robcogen | partial | 2020-10-01T14:03:35Z | [open](../records/physics-engines-leggedrobotics-urdf2robcogen-a17def9e.md) |
 | steeltroops-ai/blackhole-simulation | partial | 2026-04-29T22:23:10Z | [open](../records/physics-engines-steeltroops-ai-blackhole-simulation-dde1cc2a.md) |
+| UnterrainerInformatik/GameDevelopmentLinks | partial | 2026-08-24T09:26:06Z | [open](../records/physics-engines-unterrainerinformatik-gamedevelopmentlinks-49a98d89.md) |
 
 ## Game Engines
 
@@ -733,7 +735,7 @@ Records: `662`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-09T19:35:22Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-10T15:32:58Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
 | blakeblackshear/frigate | partial | 2026-09-10T15:58:29Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
@@ -746,7 +748,7 @@ Records: `662`
 | google/libultrahdr | partial | 2026-09-09T03:55:47Z | [open](../records/photography-google-libultrahdr-51251004.md) |
 | Hedroed/png-parser | partial | 2023-04-07T11:29:47Z | [open](../records/photography-hedroed-png-parser-e0bab35a.md) |
 | iamsanmith/MetaSort | partial | 2026-05-17T12:19:55Z | [open](../records/photography-iamsanmith-metasort-55a2488c.md) |
-| ImageMagick/ImageMagick | partial | 2026-09-09T12:54:20Z | [open](../records/photography-imagemagick-imagemagick-21d650e1.md) |
+| ImageMagick/ImageMagick | partial | 2026-09-10T23:02:52Z | [open](../records/photography-imagemagick-imagemagick-21d650e1.md) |
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
 | karimz1/imgcompress | partial | 2026-09-06T08:25:41Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |

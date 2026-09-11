@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (233)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (203)](by-category/benchmarking.md) · [Build System (1031)](by-category/build-system.md) · [Cli (588)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (124)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (53)](by-category/compression.md)
-[Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (139)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (977)](by-category/database-datastore.md) · [Datetime (242)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (108)](by-category/dependency-manager.md) · [Documentation (113)](by-category/documentation.md)
-[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (473)](by-category/ffi-bindings.md) · [Filesystem Os (1679)](by-category/filesystem-os.md) · [Formatter (662)](by-category/formatter.md)
-[Framework (63)](by-category/framework.md) · [Fuzzer (60)](by-category/fuzzer.md) · [Game Engine Game Dev (361)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1502)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (446)](by-category/image-audio-dsp.md) · [Interop Bindings (64)](by-category/interop-bindings.md) · [Interpreter Runtime (281)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1463)](by-category/language-specification.md) · [Library (5989)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (542)](by-category/logging-observability.md) · [Machine Learning (835)](by-category/machine-learning.md)
-[Math Numeric Scientific (93)](by-category/math-numeric-scientific.md) · [Memory Analyzer (99)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1077)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (449)](by-category/package-manager.md) · [Parser Lexer Ast (1227)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (317)](by-category/precommit-ci-quality.md)
+[Api Abi Checker (235)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Benchmarking (208)](by-category/benchmarking.md) · [Build System (1033)](by-category/build-system.md) · [Cli (590)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (125)](by-category/community-reference.md) · [Compiler (176)](by-category/compiler.md) · [Compiler Diagnostics (25)](by-category/compiler-diagnostics.md) · [Compression (54)](by-category/compression.md)
+[Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (140)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
+[Cryptography (181)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (977)](by-category/database-datastore.md) · [Datetime (248)](by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (109)](by-category/dependency-manager.md) · [Documentation (114)](by-category/documentation.md)
+[Embedded Hardware (67)](by-category/embedded-hardware.md) · [Ffi Bindings (481)](by-category/ffi-bindings.md) · [Filesystem Os (1693)](by-category/filesystem-os.md) · [Formatter (664)](by-category/formatter.md)
+[Framework (63)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (373)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1505)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (447)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (282)](by-category/interpreter-runtime.md) · [Jit Vm (65)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1464)](by-category/language-specification.md) · [Library (6025)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (50)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (547)](by-category/logging-observability.md) · [Machine Learning (845)](by-category/machine-learning.md)
+[Math Numeric Scientific (94)](by-category/math-numeric-scientific.md) · [Memory Analyzer (100)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1079)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1236)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (318)](by-category/precommit-ci-quality.md)
 [Profiler (94)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (133)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (339)](by-category/security-sast.md) · [Serialization (404)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (658)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (635)](by-category/testing-framework.md) · [Tutorial Book Styleguide (71)](by-category/tutorial-book-styleguide.md) · [Type Checker (315)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1651)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (615)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (638)](by-category/testing-framework.md) · [Tutorial Book Styleguide (72)](by-category/tutorial-book-styleguide.md) · [Type Checker (316)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1653)](by-category/undefined-behavior-analyzer.md) · [Utility Library (105)](by-category/utility-library.md) · [Visualization Gui (639)](by-category/visualization-gui.md) · [Web Framework (495)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -10131,6 +10131,7 @@
 | `github_search_game_engines-034a3011e8de3d` | SanderMertens/flecs | [open](records/game-engines-sandermertens-flecs-5d50129f.md) |
 | `github_search_game_engines-043cb0dad4efa3` | FlaxEngine/FlaxEngine | [open](records/game-engines-flaxengine-flaxengine-6d42abc3.md) |
 | `github_search_game_engines-047e3cdacc3731` | HaxeFlixel/flixel | [open](records/game-engines-haxeflixel-flixel-2bd8087f.md) |
+| `github_search_game_engines-048c04de1bb641` | GameFoundry/B3DFramework | [open](records/game-engines-gamefoundry-b3dframework-d9a33f05.md) |
 | `github_search_game_engines-0654477ff56003` | korlibs/korge | [open](records/game-engines-korlibs-korge-93eb84fb.md) |
 | `github_search_game_engines-0b20947b1854f7` | amethyst/amethyst | [open](records/game-engines-amethyst-amethyst-54a05aa3.md) |
 | `github_search_game_engines-0c54bc6967ef76` | OpenXRay/xray-16 | [open](records/game-engines-openxray-xray-16-8c67635a.md) |
@@ -10139,6 +10140,7 @@
 | `github_search_game_engines-1286e9b1134051` | boardgameio/boardgame.io | [open](records/game-engines-boardgameio-boardgame-io-84dfc51e.md) |
 | `github_search_game_engines-15115c224dafb7` | DescentDevelopers/Descent3 | [open](records/game-engines-descentdevelopers-descent3-117f4677.md) |
 | `github_search_game_engines-16ec1f25ed2650` | skypjack/entt | [open](records/game-engines-skypjack-entt-9aa3ac92.md) |
+| `github_search_game_engines-182a0bfc3228a7` | keijiro/Voxelman | [open](records/game-engines-keijiro-voxelman-5fc586e2.md) |
 | `github_search_game_engines-18a278e9451e59` | lettier/3d-game-shaders-for-beginners | [open](records/game-engines-lettier-3d-game-shaders-for-beginners-c97f2e28.md) |
 | `github_search_game_engines-18a45ad7b5e583` | cocos2d/cocos2d-x | [open](records/game-engines-cocos2d-cocos2d-x-90febff2.md) |
 | `github_search_game_engines-209b58f3664f8c` | dotnet/Silk.NET | [open](records/game-engines-dotnet-silk-net-24929d02.md) |
@@ -10263,7 +10265,9 @@
 | `github_search_game_engines-c981f5996d0555` | carp-lang/Carp | [open](records/game-engines-carp-lang-carp-cfe9a462.md) |
 | `github_search_game_engines-cb4a0af76ecf0c` | egametang/ET | [open](records/game-engines-egametang-et-bc0fa0fd.md) |
 | `github_search_game_engines-ce0153b6ba15a5` | renpy/renpy | [open](records/game-engines-renpy-renpy-17d7fb81.md) |
+| `github_search_game_engines-d61b7384066eed` | liuhaopen/UnityMMO | [open](records/game-engines-liuhaopen-unitymmo-fdab29a9.md) |
 | `github_search_game_engines-d658657dd4c179` | hexops/mach | [open](records/game-engines-hexops-mach-72d27255.md) |
+| `github_search_game_engines-d691d2aa14ab96` | sil-org/ecs-deploy | [open](records/game-engines-sil-org-ecs-deploy-aa53b220.md) |
 | `github_search_game_engines-db261c87873466` | SFTtech/openage | [open](records/game-engines-sfttech-openage-5ac23ea3.md) |
 | `github_search_game_engines-db5a5cdfddef6d` | magefree/mage | [open](records/game-engines-magefree-mage-9e8f6c37.md) |
 | `github_search_game_engines-dc54ba0ad08fdc` | bberak/react-native-game-engine | [open](records/game-engines-bberak-react-native-game-engine-d45a35a6.md) |
@@ -10562,6 +10566,7 @@
 | `github_search_icons_and_logos-1f5d36cc682c25` | SFSafeSymbols/SFSafeSymbols | [open](records/icons-and-logos-sfsafesymbols-sfsafesymbols-9ec1de5a.md) |
 | `github_search_icons_and_logos-1f67b4a2dc5510` | phosphor-icons/homepage | [open](records/icons-and-logos-phosphor-icons-homepage-14e8394e.md) |
 | `github_search_icons_and_logos-201cee3c7ec3d5` | madebybowtie/FlagKit | [open](records/icons-and-logos-madebybowtie-flagkit-5dad2af5.md) |
+| `github_search_icons_and_logos-2064ad6985cc8a` | VectorLogoZone/vectorlogozone | [open](records/icons-and-logos-vectorlogozone-vectorlogozone-a35f6bff.md) |
 | `github_search_icons_and_logos-20874f573553ad` | EliverLara/candy-icons | [open](records/icons-and-logos-eliverlara-candy-icons-2acbad4e.md) |
 | `github_search_icons_and_logos-20a2a15270b53a` | LineiconsHQ/Lineicons | [open](records/icons-and-logos-lineiconshq-lineicons-ef7a4910.md) |
 | `github_search_icons_and_logos-20a7cffe106ebd` | vanniktech/Emoji | [open](records/icons-and-logos-vanniktech-emoji-056f9cfa.md) |
@@ -10646,6 +10651,7 @@
 | `github_search_icons_and_logos-5c5a6d17f0f8cb` | akveo/eva-icons | [open](records/icons-and-logos-akveo-eva-icons-b1c8fdf1.md) |
 | `github_search_icons_and_logos-5ca1411a17ebb1` | muan/emoji | [open](records/icons-and-logos-muan-emoji-f47cf10b.md) |
 | `github_search_icons_and_logos-5d53bdbc5078b7` | Appllama/appllama-skills | [open](records/icons-and-logos-appllama-appllama-skills-8d1e93b9.md) |
+| `github_search_icons_and_logos-5d6416122ce56f` | coltongriffith/fluenticons | [open](records/icons-and-logos-coltongriffith-fluenticons-513207a3.md) |
 | `github_search_icons_and_logos-5e6ee83be27742` | Shinmera/promptfont | [open](records/icons-and-logos-shinmera-promptfont-e3c184c0.md) |
 | `github_search_icons_and_logos-5fe6245500bd3c` | zanwei/design-dna | [open](records/icons-and-logos-zanwei-design-dna-52086874.md) |
 | `github_search_icons_and_logos-5ff5d72e879c5f` | coreui/coreui-icons | [open](records/icons-and-logos-coreui-coreui-icons-28580f6f.md) |
@@ -10655,6 +10661,7 @@
 | `github_search_icons_and_logos-62d7a43e62e968` | jdan/98.css | [open](records/icons-and-logos-jdan-98-css-d0074850.md) |
 | `github_search_icons_and_logos-6435b39adadc0a` | neutraltone/awesome-stock-resources | [open](records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) |
 | `github_search_icons_and_logos-64a4e7fcee2da3` | elrumordelaluz/svgson | [open](records/icons-and-logos-elrumordelaluz-svgson-e98eeaa1.md) |
+| `github_search_icons_and_logos-65254f0c8ca8e9` | get-icon/geticon | [open](records/icons-and-logos-get-icon-geticon-9e91d024.md) |
 | `github_search_icons_and_logos-65a49a40e96342` | lsd-rs/lsd | [open](records/icons-and-logos-lsd-rs-lsd-3c28652f.md) |
 | `github_search_icons_and_logos-65fd1bd2e703a7` | sumup-oss/circuit-ui | [open](records/icons-and-logos-sumup-oss-circuit-ui-f0c59b3a.md) |
 | `github_search_icons_and_logos-661339bfcfa8c4` | amitmerchant1990/electron-markdownify | [open](records/icons-and-logos-amitmerchant1990-electron-markdownify-78c3b894.md) |
@@ -10870,6 +10877,7 @@
 | `github_search_icons_and_logos-f9db50093d1c26` | mijorus/smile | [open](records/icons-and-logos-mijorus-smile-3045ab57.md) |
 | `github_search_icons_and_logos-faaf4c1ac9bb6b` | nolanlawson/emoji-picker-element | [open](records/icons-and-logos-nolanlawson-emoji-picker-element-dff14331.md) |
 | `github_search_icons_and_logos-faff274803c6fe` | themeselection/flyonui | [open](records/icons-and-logos-themeselection-flyonui-02e5faf4.md) |
+| `github_search_icons_and_logos-fb0d230bb4e507` | Bowen7/react-rough-fiber | [open](records/icons-and-logos-bowen7-react-rough-fiber-1dfd3ed8.md) |
 | `github_search_icons_and_logos-fb1b05596c37e5` | box-icons/boxicons | [open](records/icons-and-logos-box-icons-boxicons-255f0704.md) |
 | `github_search_icons_and_logos-fc9c544fb18445` | scttcper/ngx-emoji-mart | [open](records/icons-and-logos-scttcper-ngx-emoji-mart-12eb5b7a.md) |
 | `github_search_icons_and_logos-fd7542ac1ccd97` | carpedm20/emoji | [open](records/icons-and-logos-carpedm20-emoji-29ab78a2.md) |
@@ -12977,27 +12985,44 @@
 | `github_search_photography-fe6a8972aa1c63` | sightmachine/SimpleCV | [open](records/photography-sightmachine-simplecv-b798cfb7.md) |
 | `github_search_photography-fefecde1d969b2` | dji-sdk/Onboard-SDK | [open](records/photography-dji-sdk-onboard-sdk-935ec49b.md) |
 | `github_search_photography-ff767776845af7` | SpecialKO/SpecialK | [open](records/photography-specialko-specialk-d14b8655.md) |
+| `github_search_physics_engines-0068ea45f307f2` | diwi/PixelFlow | [open](records/physics-engines-diwi-pixelflow-1c399ed2.md) |
 | `github_search_physics_engines-0073cb2dec4a2c` | mentat-collective/emmy | [open](records/physics-engines-mentat-collective-emmy-65520f3a.md) |
 | `github_search_physics_engines-012e5ccc741ea3` | NVIDIAGameWorks/kaolin | [open](records/physics-engines-nvidiagameworks-kaolin-85fc233b.md) |
+| `github_search_physics_engines-0294e77ef011e5` | plancherb1/fast-rbd-gradients | [open](records/physics-engines-plancherb1-fast-rbd-gradients-fcf1baf8.md) |
 | `github_search_physics_engines-06c2dbbdbb1284` | markaren/threepp | [open](records/physics-engines-markaren-threepp-53aae87f.md) |
 | `github_search_physics_engines-07413674a31f11` | w0rm/elm-physics | [open](records/physics-engines-w0rm-elm-physics-c5fc016e.md) |
 | `github_search_physics_engines-0842777bf9da63` | diegomacario/Dyna-Kinematics | [open](records/physics-engines-diegomacario-dyna-kinematics-b35b0cff.md) |
 | `github_search_physics_engines-087a1e531c2747` | amerkoleci/JoltPhysicsSharp | [open](records/physics-engines-amerkoleci-joltphysicssharp-4daf2ef5.md) |
+| `github_search_physics_engines-0a61b52841e8d9` | ProjectPhysX/FluidX3D | [open](records/physics-engines-projectphysx-fluidx3d-f1c166ae.md) |
 | `github_search_physics_engines-0b0047cebd621f` | pierrehirel/atomsk | [open](records/physics-engines-pierrehirel-atomsk-08fc2af7.md) |
 | `github_search_physics_engines-0b3764d2f3e263` | vitalight/Velvet | [open](records/physics-engines-vitalight-velvet-044eda42.md) |
 | `github_search_physics_engines-0b9ccd8192983f` | ehsanwwe/Unity-SoftBody-physics | [open](records/physics-engines-ehsanwwe-unity-softbody-physics-5d1461e6.md) |
+| `github_search_physics_engines-0cc1ca06698808` | gbionics/adam | [open](records/physics-engines-gbionics-adam-1cdb2900.md) |
 | `github_search_physics_engines-0cf6b92dbc8500` | TheOpenSpaceProgram/osp-magnum | [open](records/physics-engines-theopenspaceprogram-osp-magnum-8b7021b2.md) |
 | `github_search_physics_engines-0d452d3e4634fa` | schteppe/p2.js | [open](records/physics-engines-schteppe-p2-js-3a7d2465.md) |
 | `github_search_physics_engines-0e82846e991f5f` | johannes-do/multiplayer-babylon-js-game | [open](records/physics-engines-johannes-do-multiplayer-babylon-js-game-0189ac60.md) |
+| `github_search_physics_engines-10488b54105df9` | k-ye/PbfVs | [open](records/physics-engines-k-ye-pbfvs-899cc456.md) |
+| `github_search_physics_engines-10752d47572a29` | jeffThompson/CollisionDetection | [open](records/physics-engines-jeffthompson-collisiondetection-fdcd4d21.md) |
+| `github_search_physics_engines-1264920c67155d` | attcs/Octree | [open](records/physics-engines-attcs-octree-841d1400.md) |
 | `github_search_physics_engines-13fc048fccbcf2` | yapstudios/YapAnimator | [open](records/physics-engines-yapstudios-yapanimator-d2c821a2.md) |
+| `github_search_physics_engines-15e2a22f593729` | InteractiveComputerGraphics/splashsurf | [open](records/physics-engines-interactivecomputergraphics-splashsurf-02470969.md) |
 | `github_search_physics_engines-164232b98a0c4e` | ThePhysicsGuys/Physics3D | [open](records/physics-engines-thephysicsguys-physics3d-a01bf19d.md) |
+| `github_search_physics_engines-1904d32c2213ac` | JuliaComputing/Multibody.jl | [open](records/physics-engines-juliacomputing-multibody-jl-d03c608f.md) |
 | `github_search_physics_engines-19b725ceb33565` | sksalahuddin2828/NASA | [open](records/physics-engines-sksalahuddin2828-nasa-34ee1e7e.md) |
+| `github_search_physics_engines-19e598e0c47b93` | CaNS-World/CaNS | [open](records/physics-engines-cans-world-cans-0bc74ac2.md) |
+| `github_search_physics_engines-1b1e9cc06e3698` | InteractiveComputerGraphics/Discregrid | [open](records/physics-engines-interactivecomputergraphics-discregrid-cca84659.md) |
 | `github_search_physics_engines-1c21ce47881f45` | notgiven688/jitterphysics2 | [open](records/physics-engines-notgiven688-jitterphysics2-9dbbeecf.md) |
+| `github_search_physics_engines-1c57a305b52fc4` | jostbr/shallow-water | [open](records/physics-engines-jostbr-shallow-water-b39c27c8.md) |
 | `github_search_physics_engines-1ceb115fd2363d` | lettucecfd/lettuce | [open](records/physics-engines-lettucecfd-lettuce-5bfbae1f.md) |
 | `github_search_physics_engines-1d295022e44402` | jrouwe/JoltPhysics | [open](records/physics-engines-jrouwe-joltphysics-7808ec3e.md) |
+| `github_search_physics_engines-1da5b5eef31029` | JuliaRobotics/RigidBodyDynamics.jl | [open](records/physics-engines-juliarobotics-rigidbodydynamics-jl-cd55f719.md) |
+| `github_search_physics_engines-1e0277995e29f2` | Cardboy0/Cardboy0s-SACS | [open](records/physics-engines-cardboy0-cardboy0s-sacs-bfad56a5.md) |
+| `github_search_physics_engines-1e8137e42892a2` | Wumpf/blub | [open](records/physics-engines-wumpf-blub-7a153043.md) |
 | `github_search_physics_engines-1fef53cca3f116` | markeasting/THREE-XPBD | [open](records/physics-engines-markeasting-three-xpbd-a82fdf12.md) |
 | `github_search_physics_engines-2042b02466bb7b` | rohanpsingh/mujoco-python-viewer | [open](records/physics-engines-rohanpsingh-mujoco-python-viewer-26580adf.md) |
+| `github_search_physics_engines-205583496b9133` | KaiKostack/bullet-constraints-builder | [open](records/physics-engines-kaikostack-bullet-constraints-builder-8348e836.md) |
 | `github_search_physics_engines-212a87926bf476` | appsinacup/godot-rapier-physics | [open](records/physics-engines-appsinacup-godot-rapier-physics-8b7bf348.md) |
+| `github_search_physics_engines-2143e4e9765fe4` | Lojemiru/Loj-Hadron-Collider | [open](records/physics-engines-lojemiru-loj-hadron-collider-5e8ef328.md) |
 | `github_search_physics_engines-21f54099d06efb` | svd-ai-lab/sim-cli | [open](records/physics-engines-svd-ai-lab-sim-cli-c8afe748.md) |
 | `github_search_physics_engines-21f99550c71464` | utilForever/CubbyFlow-v1 | [open](records/physics-engines-utilforever-cubbyflow-v1-ccf12789.md) |
 | `github_search_physics_engines-22070f62ea15cd` | erayzesen/QuarkPhysics | [open](records/physics-engines-erayzesen-quarkphysics-f7cee1a0.md) |
@@ -13006,75 +13031,146 @@
 | `github_search_physics_engines-24ed5c9819930d` | louis-langholtz/PlayRho | [open](records/physics-engines-louis-langholtz-playrho-eef0dbd1.md) |
 | `github_search_physics_engines-25898c9f703acf` | ZhengyiLuo/PHC | [open](records/physics-engines-zhengyiluo-phc-11b1f006.md) |
 | `github_search_physics_engines-26013291f20112` | asu-iris/comfree_warp | [open](records/physics-engines-asu-iris-comfree-warp-abaf165f.md) |
+| `github_search_physics_engines-2913fc8edcbcd9` | simon3dv/SLR-SFS | [open](records/physics-engines-simon3dv-slr-sfs-74a7b600.md) |
+| `github_search_physics_engines-2baa60c95a3c6d` | avoroshilov/physics_playground | [open](records/physics-engines-avoroshilov-physics-playground-a0acc6b7.md) |
 | `github_search_physics_engines-2bd370875060b9` | jaipack17/Nature2D | [open](records/physics-engines-jaipack17-nature2d-f175e9ad.md) |
 | `github_search_physics_engines-2bf139d412736e` | Unity-Technologies/articulations-robot-demo | [open](records/physics-engines-unity-technologies-articulations-robot-demo-cb42297d.md) |
+| `github_search_physics_engines-2c82dfaaf0d2e7` | nobuyuki83/cloth_sim_self_collision | [open](records/physics-engines-nobuyuki83-cloth-sim-self-collision-0d5ab361.md) |
 | `github_search_physics_engines-2e486853860c78` | utilForever/CubbyFlow | [open](records/physics-engines-utilforever-cubbyflow-990dc01b.md) |
+| `github_search_physics_engines-3133754253e33f` | flexible-collision-library/fcl | [open](records/physics-engines-flexible-collision-library-fcl-3a8ab197.md) |
+| `github_search_physics_engines-3273f3ff411773` | Noofbiz/engoBox2dSystem | [open](records/physics-engines-noofbiz-engobox2dsystem-0322d340.md) |
+| `github_search_physics_engines-32a8296a097d64` | HiroIshida/plainmp | [open](records/physics-engines-hiroishida-plainmp-d627112f.md) |
 | `github_search_physics_engines-32e0d4e074c1e9` | iluaii/fwm | [open](records/physics-engines-iluaii-fwm-dc80ab13.md) |
 | `github_search_physics_engines-336417c55419ec` | ARISE-Initiative/robosuite | [open](records/physics-engines-arise-initiative-robosuite-9cb42fcd.md) |
 | `github_search_physics_engines-33ce2fbfd48f0c` | ECSIM/opem | [open](records/physics-engines-ecsim-opem-ebc7707c.md) |
 | `github_search_physics_engines-34c1bcab82c941` | NVlabs/ProtoMotions | [open](records/physics-engines-nvlabs-protomotions-c35f15b2.md) |
+| `github_search_physics_engines-35fdedf0001290` | RonenNess/SSCD.js | [open](records/physics-engines-ronenness-sscd-js-9db7b9e9.md) |
+| `github_search_physics_engines-365de098a1e731` | solenum/exengine | [open](records/physics-engines-solenum-exengine-be84a066.md) |
 | `github_search_physics_engines-36da89e106d5bb` | erizmr/SPH_Taichi | [open](records/physics-engines-erizmr-sph-taichi-9e9af1c3.md) |
+| `github_search_physics_engines-375c0a54ff45e1` | ttvd/spatial-collision-datastructures | [open](records/physics-engines-ttvd-spatial-collision-datastructures-8ee23f7e.md) |
 | `github_search_physics_engines-395fcbc2c4dfb1` | MFlowCode/MFC | [open](records/physics-engines-mflowcode-mfc-b922e338.md) |
+| `github_search_physics_engines-39c70d4a21acc6` | hagmas/MobileFluidSimulation | [open](records/physics-engines-hagmas-mobilefluidsimulation-06082174.md) |
 | `github_search_physics_engines-3a876629d6f65e` | taichi-dev/soft2d-for-unity | [open](records/physics-engines-taichi-dev-soft2d-for-unity-8212f236.md) |
 | `github_search_physics_engines-3c7d09256282ab` | anuraghazra/Atomic.js | [open](records/physics-engines-anuraghazra-atomic-js-10573c94.md) |
 | `github_search_physics_engines-3cbb6b011fdb18` | freezy/VisualPinball.Engine | [open](records/physics-engines-freezy-visualpinball-engine-fc9f3475.md) |
+| `github_search_physics_engines-3cc60a97e7619d` | gbionics/human-dynamics-estimation | [open](records/physics-engines-gbionics-human-dynamics-estimation-41f151d9.md) |
+| `github_search_physics_engines-3d008d61a8725d` | nickorzha/circle-breakout | [open](records/physics-engines-nickorzha-circle-breakout-eb6cef48.md) |
+| `github_search_physics_engines-3d3678d9101fa0` | Mihahanya/Physical-simulation | [open](records/physics-engines-mihahanya-physical-simulation-ec8246d6.md) |
+| `github_search_physics_engines-3d93b53adbca05` | GuilhermeRossato/3D-Redstone-Simulator | [open](records/physics-engines-guilhermerossato-3d-redstone-simulator-ab4487ec.md) |
+| `github_search_physics_engines-3e259b640fcb73` | JiepengTan/LockstepCollision | [open](records/physics-engines-jiepengtan-lockstepcollision-d0c6f98a.md) |
+| `github_search_physics_engines-3ee7695d190018` | peridyno/peridyno | [open](records/physics-engines-peridyno-peridyno-1ad5719c.md) |
 | `github_search_physics_engines-3efb4997d22be8` | magpylib/magpylib | [open](records/physics-engines-magpylib-magpylib-083446e2.md) |
+| `github_search_physics_engines-3f05bc7dcd2bbd` | jerry060599/KittenGpuLBVH | [open](records/physics-engines-jerry060599-kittengpulbvh-4ca0a349.md) |
 | `github_search_physics_engines-405d0c90add270` | Altanis/kinetics | [open](records/physics-engines-altanis-kinetics-83b3a378.md) |
+| `github_search_physics_engines-4184c7f3c90304` | jeantimex/fluid | [open](records/physics-engines-jeantimex-fluid-0598d53e.md) |
 | `github_search_physics_engines-41ba1f50537986` | robocasa/robocasa | [open](records/physics-engines-robocasa-robocasa-e66a2a90.md) |
 | `github_search_physics_engines-41c79544b60305` | ByteArena/box2d | [open](records/physics-engines-bytearena-box2d-34e4f663.md) |
+| `github_search_physics_engines-4420ce08b2ddff` | kroitor/gjk.c | [open](records/physics-engines-kroitor-gjk-c-ef47ebed.md) |
+| `github_search_physics_engines-44f080cb03f66e` | jslee02/awesome-collision-detection | [open](records/physics-engines-jslee02-awesome-collision-detection-09cf066f.md) |
+| `github_search_physics_engines-46213c06215fed` | RandyGaul/cute_headers | [open](records/physics-engines-randygaul-cute-headers-7b4acac1.md) |
+| `github_search_physics_engines-469920af742ad1` | kotsoft/particle_based_viscoelastic_fluid | [open](records/physics-engines-kotsoft-particle-based-viscoelastic-fluid-6966115d.md) |
+| `github_search_physics_engines-47e150c455ecb3` | lucidrains/rigidformer | [open](records/physics-engines-lucidrains-rigidformer-8bf4af37.md) |
 | `github_search_physics_engines-48b2ed6dc0a938` | Sopiro/Physics | [open](records/physics-engines-sopiro-physics-c3dcc844.md) |
+| `github_search_physics_engines-48b825b6ff0751` | Erkaman/gl-water2d | [open](records/physics-engines-erkaman-gl-water2d-264bb64b.md) |
+| `github_search_physics_engines-49a2329863cf96` | AdroitAnandAI/ADAS-Car-using-Raspberry-Pi | [open](records/physics-engines-adroitanandai-adas-car-using-raspberry-pi-9bdd2a03.md) |
+| `github_search_physics_engines-4a2b6a8aec7d15` | LanLou123/Webgl-Erosion | [open](records/physics-engines-lanlou123-webgl-erosion-54b89319.md) |
 | `github_search_physics_engines-4bcd74b421a59a` | detomon/wigglebone | [open](records/physics-engines-detomon-wigglebone-6ddf2d2b.md) |
+| `github_search_physics_engines-4ddac3be64833c` | rlguy/Blender-FLIP-Fluids | [open](records/physics-engines-rlguy-blender-flip-fluids-47134c2e.md) |
 | `github_search_physics_engines-4ddfa7bcaf568c` | projectchrono/chrono | [open](records/physics-engines-projectchrono-chrono-d6f1722c.md) |
 | `github_search_physics_engines-4dec8d2852b973` | JuliaMolSim/Molly.jl | [open](records/physics-engines-juliamolsim-molly-jl-e3e65037.md) |
+| `github_search_physics_engines-50aa9e5a57162f` | realkushagrakhare/3D_Path_Planning | [open](records/physics-engines-realkushagrakhare-3d-path-planning-70ba600e.md) |
 | `github_search_physics_engines-5116de2b5c86a0` | doyubkim/fluid-engine-dev | [open](records/physics-engines-doyubkim-fluid-engine-dev-8f44b284.md) |
+| `github_search_physics_engines-5119739ff638f1` | Erfan-Ahmadi/CircleCollision | [open](records/physics-engines-erfan-ahmadi-circlecollision-11fd1023.md) |
 | `github_search_physics_engines-5177658cf65a1c` | timi-liuliang/echo | [open](records/physics-engines-timi-liuliang-echo-6dd242c1.md) |
+| `github_search_physics_engines-51c12c4d23f584` | hood/bump.ts | [open](records/physics-engines-hood-bump-ts-1b614f18.md) |
 | `github_search_physics_engines-51e6c32dd84ea3` | piqnt/planck.js | [open](records/physics-engines-piqnt-planck-js-c6c8f4fb.md) |
 | `github_search_physics_engines-5304918ea053b1` | Physics-Scaling/GeoPT | [open](records/physics-engines-physics-scaling-geopt-66352620.md) |
 | `github_search_physics_engines-534aecc52dcae2` | gaolongsen/multi-panel_mujoco-pyviewer | [open](records/physics-engines-gaolongsen-multi-panel-mujoco-pyviewer-ad0ad58c.md) |
 | `github_search_physics_engines-545f9f2b8b15e5` | MirroS-Lab/Code-as-World | [open](records/physics-engines-mirros-lab-code-as-world-1197d1f2.md) |
 | `github_search_physics_engines-547f8d78ec8546` | praxhna/3D_interactive_graphics_rendering_engine | [open](records/physics-engines-praxhna-3d-interactive-graphics-rendering-engine-4272b7af.md) |
+| `github_search_physics_engines-5511aaf66f3525` | pypr/pysph | [open](records/physics-engines-pypr-pysph-ee993d8e.md) |
+| `github_search_physics_engines-56618b667cc7a0` | Aptacode/Geometry | [open](records/physics-engines-aptacode-geometry-b511b8ba.md) |
+| `github_search_physics_engines-56b01a17629547` | ppgia-unifor/Broadmark | [open](records/physics-engines-ppgia-unifor-broadmark-c3734a1e.md) |
 | `github_search_physics_engines-570d85fe5a4696` | saharan/OimoPhysics | [open](records/physics-engines-saharan-oimophysics-fa112ffe.md) |
+| `github_search_physics_engines-571380037de022` | jeantimex/webgpu-water | [open](records/physics-engines-jeantimex-webgpu-water-1809a54e.md) |
 | `github_search_physics_engines-578a43b111322a` | vlvovch/PHYS6350-ComputationalPhysics | [open](records/physics-engines-vlvovch-phys6350-computationalphysics-a0a9e87d.md) |
+| `github_search_physics_engines-581e4ff2710150` | MazeMap/Leaflet.LayerGroup.Collision | [open](records/physics-engines-mazemap-leaflet-layergroup-collision-8bb51811.md) |
+| `github_search_physics_engines-5b96e05ef5c051` | guo-yong-zhi/WordCloud.jl | [open](records/physics-engines-guo-yong-zhi-wordcloud-jl-4deaae09.md) |
 | `github_search_physics_engines-5be22f7476a002` | passiomatic/sunny-land | [open](records/physics-engines-passiomatic-sunny-land-277f4acb.md) |
 | `github_search_physics_engines-5c67ee5e6fd63f` | JordiCorbilla/thundax-delphi-physics-engine | [open](records/physics-engines-jordicorbilla-thundax-delphi-physics-engine-1f15f884.md) |
 | `github_search_physics_engines-5dc60d12cfccb0` | gbionics/jaxsim | [open](records/physics-engines-gbionics-jaxsim-434cab27.md) |
 | `github_search_physics_engines-5ed9e3684ad599` | krABMaga/krABMaga | [open](records/physics-engines-krabmaga-krabmaga-17c6b1ec.md) |
+| `github_search_physics_engines-5f640cf94fc26c` | noonat/intersect | [open](records/physics-engines-noonat-intersect-10ed35e1.md) |
 | `github_search_physics_engines-5fd8973ff8c1da` | ValkyrienSkies/Valkyrien-Skies-2 | [open](records/physics-engines-valkyrienskies-valkyrien-skies-2-3bc2f524.md) |
 | `github_search_physics_engines-61824bb5758a49` | mmaldacker/Vortex2D | [open](records/physics-engines-mmaldacker-vortex2d-53d2352c.md) |
+| `github_search_physics_engines-62df04ac89048a` | matsuoka-601/WebGPU-Ocean | [open](records/physics-engines-matsuoka-601-webgpu-ocean-5faa1134.md) |
 | `github_search_physics_engines-633f17627c440a` | keenon/nimblephysics | [open](records/physics-engines-keenon-nimblephysics-52d83ffe.md) |
 | `github_search_physics_engines-635cc567880a2e` | LuizZak/JelloSwift | [open](records/physics-engines-luizzak-jelloswift-2f03d173.md) |
 | `github_search_physics_engines-64488c644c84f8` | Sirui-Xu/InterMimic | [open](records/physics-engines-sirui-xu-intermimic-6455180d.md) |
+| `github_search_physics_engines-645641527a6164` | Tarliton/collision2d | [open](records/physics-engines-tarliton-collision2d-f6c81e70.md) |
 | `github_search_physics_engines-66021d462f3212` | Habrador/Ten-Minute-Physics-Unity | [open](records/physics-engines-habrador-ten-minute-physics-unity-ce30da7b.md) |
+| `github_search_physics_engines-66a76ed8c4f409` | wojtekmaj/detect-element-overflow | [open](records/physics-engines-wojtekmaj-detect-element-overflow-c514e379.md) |
 | `github_search_physics_engines-66eb2ab9e53e01` | YiYiXia/Flame | [open](records/physics-engines-yiyixia-flame-b6145525.md) |
 | `github_search_physics_engines-66ffbfd7c4b8db` | allenai/ai2thor | [open](records/physics-engines-allenai-ai2thor-177adc4d.md) |
+| `github_search_physics_engines-6765ea06d27417` | rlguy/GridFluidSim3D | [open](records/physics-engines-rlguy-gridfluidsim3d-fc245eb2.md) |
+| `github_search_physics_engines-67a7bb3a225fe8` | vonWolfehaus/von-physics | [open](records/physics-engines-vonwolfehaus-von-physics-152fa8b2.md) |
+| `github_search_physics_engines-67e5bf3f98d98a` | InteractiveComputerGraphics/SPlisHSPlasH | [open](records/physics-engines-interactivecomputergraphics-splishsplash-628cbc49.md) |
+| `github_search_physics_engines-690e37e8f1a5f2` | sandydoo/flux | [open](records/physics-engines-sandydoo-flux-dfb96488.md) |
+| `github_search_physics_engines-6a8eb0f5b2af18` | takah29/2d-fluid-simulator | [open](records/physics-engines-takah29-2d-fluid-simulator-79e4058d.md) |
 | `github_search_physics_engines-6cab0512061c0a` | stephengold/jolt-jni | [open](records/physics-engines-stephengold-jolt-jni-5ede891b.md) |
+| `github_search_physics_engines-6d312604fff771` | nlbucki/RAPPIDS | [open](records/physics-engines-nlbucki-rappids-072ab53a.md) |
+| `github_search_physics_engines-6e226156b5a7df` | rjwalia/Navier-Stokes-Numerical-Solution-Using-FDM-FVM-LBM-Solver-Python-Scripting | [open](records/physics-engines-rjwalia-navier-stokes-numerical-solution-using-fdm-fvm-lbm-solver-python-scripting-93c5d3aa.md) |
 | `github_search_physics_engines-6e31f3fe0033b1` | RigsOfRods/rigs-of-rods | [open](records/physics-engines-rigsofrods-rigs-of-rods-3e09d076.md) |
 | `github_search_physics_engines-6e41be4e56f8c3` | Unity-Technologies/Unity-Robotics-Hub | [open](records/physics-engines-unity-technologies-unity-robotics-hub-48628bc2.md) |
+| `github_search_physics_engines-7155b161f1b7d9` | neka-nat/cupoch | [open](records/physics-engines-neka-nat-cupoch-22891d1d.md) |
 | `github_search_physics_engines-71868aec23b1a9` | Algebraic-UG/squishy_volumes | [open](records/physics-engines-algebraic-ug-squishy-volumes-02259629.md) |
 | `github_search_physics_engines-738fe0236115d9` | anuraghazra/Verly.js | [open](records/physics-engines-anuraghazra-verly-js-0d5dd2a2.md) |
 | `github_search_physics_engines-7558e275d408fe` | ComputationalBiomechanicsLab/opensim-creator | [open](records/physics-engines-computationalbiomechanicslab-opensim-creator-75e68d35.md) |
+| `github_search_physics_engines-7629d59e4ee805` | perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs | [open](records/physics-engines-perseus784-vehicle-collision-prediction-using-cnn-lstms-8a20fdce.md) |
 | `github_search_physics_engines-76b7047c553c5a` | chrxh/alien | [open](records/physics-engines-chrxh-alien-3b27ff54.md) |
 | `github_search_physics_engines-7712a8e757476e` | stevenlsw/physgen | [open](records/physics-engines-stevenlsw-physgen-04c29129.md) |
+| `github_search_physics_engines-778cb9fcc23be5` | eschirni/cub3d | [open](records/physics-engines-eschirni-cub3d-669a7168.md) |
+| `github_search_physics_engines-77ee39a1cfd6c9` | arjunkarpur/triangle-mesh-collision | [open](records/physics-engines-arjunkarpur-triangle-mesh-collision-628d02ee.md) |
+| `github_search_physics_engines-7a3ca4b6d4a658` | InteractiveComputerGraphics/PositionBasedDynamics | [open](records/physics-engines-interactivecomputergraphics-positionbaseddynamics-275553da.md) |
 | `github_search_physics_engines-7a5e72825c1d69` | maplant/mgf | [open](records/physics-engines-maplant-mgf-22de4d2f.md) |
+| `github_search_physics_engines-7adf575cbb5b7d` | dronefreak/dji-tello-collision-avoidance-pydnet | [open](records/physics-engines-dronefreak-dji-tello-collision-avoidance-pydnet-9af19628.md) |
+| `github_search_physics_engines-7b20b453f09c82` | bmoren/p5.collide2D | [open](records/physics-engines-bmoren-p5-collide2d-f9bab581.md) |
 | `github_search_physics_engines-7cba91633650b9` | MichaelTMatthews/Jax2D | [open](records/physics-engines-michaeltmatthews-jax2d-f40911ea.md) |
 | `github_search_physics_engines-7de5a38d325c04` | google/brax | [open](records/physics-engines-google-brax-b562137f.md) |
 | `github_search_physics_engines-7e716f2f7f1f48` | unitaryfoundation/qrack | [open](records/physics-engines-unitaryfoundation-qrack-537006d0.md) |
 | `github_search_physics_engines-7e7ecdb0572610` | maksyuki/TaichiGAME | [open](records/physics-engines-maksyuki-taichigame-dfb0dd23.md) |
 | `github_search_physics_engines-7f05427c066c64` | Suvitruf/box3d-unity | [open](records/physics-engines-suvitruf-box3d-unity-618c916d.md) |
 | `github_search_physics_engines-7fcf4d2efc8c2d` | mchakravarty/HaskellSpriteKit | [open](records/physics-engines-mchakravarty-haskellspritekit-9333e02f.md) |
+| `github_search_physics_engines-80cf018355f068` | Continuous-Collision-Detection/Tight-Inclusion | [open](records/physics-engines-continuous-collision-detection-tight-inclusion-12817950.md) |
+| `github_search_physics_engines-838d93cb6bb970` | mlund/spheretree | [open](records/physics-engines-mlund-spheretree-a2c257d7.md) |
+| `github_search_physics_engines-84129c8c6c6795` | ethz-adrl/control-toolbox | [open](records/physics-engines-ethz-adrl-control-toolbox-c7249e0b.md) |
 | `github_search_physics_engines-8461cce04228b4` | acrlw/Physics2D | [open](records/physics-engines-acrlw-physics2d-b799a4ca.md) |
+| `github_search_physics_engines-856a136e9e5033` | HaydenMarshalla/JPhysics | [open](records/physics-engines-haydenmarshalla-jphysics-44ac59b6.md) |
+| `github_search_physics_engines-8660d15f8f9d87` | ucsdarclab/diffco | [open](records/physics-engines-ucsdarclab-diffco-8b7603aa.md) |
 | `github_search_physics_engines-868d8276574eab` | mtsamis/box2d-optimized | [open](records/physics-engines-mtsamis-box2d-optimized-fedfd3fe.md) |
+| `github_search_physics_engines-86a18046242bf4` | thfProjects/Physecs | [open](records/physics-engines-thfprojects-physecs-0443fb3a.md) |
 | `github_search_physics_engines-8714ae65ce94b5` | openfl/box2d | [open](records/physics-engines-openfl-box2d-25afde36.md) |
+| `github_search_physics_engines-8756fced03209c` | lohedges/aabbcc | [open](records/physics-engines-lohedges-aabbcc-1635a1de.md) |
+| `github_search_physics_engines-878dcc812bd215` | linkdd/sdl-game-engine | [open](records/physics-engines-linkdd-sdl-game-engine-a0936d6e.md) |
+| `github_search_physics_engines-87a517842957c4` | dimforge/parry | [open](records/physics-engines-dimforge-parry-414d512a.md) |
+| `github_search_physics_engines-88506ea2188748` | heethesh/Collision-Avoidance-System | [open](records/physics-engines-heethesh-collision-avoidance-system-1a35c267.md) |
 | `github_search_physics_engines-892a0c12e0f2ff` | BeRo1985/kraft | [open](records/physics-engines-bero1985-kraft-47e98b3a.md) |
+| `github_search_physics_engines-895673d758f356` | AlexanderFabisch/distance3d | [open](records/physics-engines-alexanderfabisch-distance3d-7af4cbf7.md) |
+| `github_search_physics_engines-8a8d4ed4a612ba` | arl/golq | [open](records/physics-engines-arl-golq-8f8b3ba2.md) |
 | `github_search_physics_engines-8ac2fe4b6acaac` | amethyst/specs-physics | [open](records/physics-engines-amethyst-specs-physics-3048e624.md) |
 | `github_search_physics_engines-8b64dcb7d7ad3e` | R74nCom/sandboxels | [open](records/physics-engines-r74ncom-sandboxels-04f8a012.md) |
 | `github_search_physics_engines-8c210d8b87cfef` | THU-SI/Physics3D | [open](records/physics-engines-thu-si-physics3d-940fe5e2.md) |
+| `github_search_physics_engines-8c6b27f0c547fa` | raymondyfei/libwetcloth | [open](records/physics-engines-raymondyfei-libwetcloth-76894952.md) |
 | `github_search_physics_engines-8de536a87ca641` | Rythe-Interactive/Rythe-Engine | [open](records/physics-engines-rythe-interactive-rythe-engine-6c9a9bf2.md) |
 | `github_search_physics_engines-8eff7b688a365d` | taichi-dev/soft2d-release | [open](records/physics-engines-taichi-dev-soft2d-release-7ea19153.md) |
 | `github_search_physics_engines-90c817fd519b67` | avianphysics/avian | [open](records/physics-engines-avianphysics-avian-130b97c3.md) |
 | `github_search_physics_engines-91afa48a2601e0` | gurkenlabs/litiengine | [open](records/physics-engines-gurkenlabs-litiengine-6c5fa688.md) |
+| `github_search_physics_engines-92586165e9143a` | Aweptimum/Strike | [open](records/physics-engines-aweptimum-strike-b376ac60.md) |
 | `github_search_physics_engines-94ab9819804a89` | wonmor/ElectronVisualized | [open](records/physics-engines-wonmor-electronvisualized-abd2d314.md) |
+| `github_search_physics_engines-94f665855b44cf` | leggedrobotics/raisimLib | [open](records/physics-engines-leggedrobotics-raisimlib-69e401fc.md) |
+| `github_search_physics_engines-951c74c734087f` | fuqunaga/ComputeShaderBVHMeshHit | [open](records/physics-engines-fuqunaga-computeshaderbvhmeshhit-6036c397.md) |
 | `github_search_physics_engines-991085b9849213` | AshenvaleZX/ZXEngine | [open](records/physics-engines-ashenvalezx-zxengine-87dcfc00.md) |
+| `github_search_physics_engines-99601a0deadfde` | Ghoulpachannel/Autodesk-CFD | [open](records/physics-engines-ghoulpachannel-autodesk-cfd-b48294a5.md) |
 | `github_search_physics_engines-9986de9618deae` | Unity-Technologies/Robotics-Object-Pose-Estimation | [open](records/physics-engines-unity-technologies-robotics-object-pose-estimation-f90ff658.md) |
 | `github_search_physics_engines-9a162ea5387a3e` | joncodeofficial/Cirobb | [open](records/physics-engines-joncodeofficial-cirobb-6134ab36.md) |
 | `github_search_physics_engines-9a613007657fd1` | Pierre-Terdiman/PEEL_PhysX_Edition | [open](records/physics-engines-pierre-terdiman-peel-physx-edition-79c256c2.md) |
@@ -13082,68 +13178,137 @@
 | `github_search_physics_engines-9c91cf429ba287` | felipeek/raw-physics | [open](records/physics-engines-felipeek-raw-physics-493d9531.md) |
 | `github_search_physics_engines-9ca822a2af75eb` | elodin-sys/elodin | [open](records/physics-engines-elodin-sys-elodin-09785b8b.md) |
 | `github_search_physics_engines-9d482d07d96c03` | Unity-Technologies/PhysicsExamples2D | [open](records/physics-engines-unity-technologies-physicsexamples2d-c6aaad56.md) |
+| `github_search_physics_engines-9ea3480352a50d` | matsuoka-601/Particles4All | [open](records/physics-engines-matsuoka-601-particles4all-19b59529.md) |
 | `github_search_physics_engines-9f236ab932a8ed` | flaport/fdtd | [open](records/physics-engines-flaport-fdtd-4906d483.md) |
 | `github_search_physics_engines-a10cead182be23` | Genbox/VelcroPhysics | [open](records/physics-engines-genbox-velcrophysics-7229cf93.md) |
+| `github_search_physics_engines-a24989c646debc` | nlbucki/RapidQuadcopterCollisionDetection | [open](records/physics-engines-nlbucki-rapidquadcoptercollisiondetection-f686d229.md) |
+| `github_search_physics_engines-a29a3808d0de66` | sueda/redmax | [open](records/physics-engines-sueda-redmax-80d45ac9.md) |
 | `github_search_physics_engines-a3a3a3dfe439ec` | Raocp/PINN-laminar-flow | [open](records/physics-engines-raocp-pinn-laminar-flow-51e9b57c.md) |
+| `github_search_physics_engines-a48d008657e893` | swaggyliu/FlatWorld | [open](records/physics-engines-swaggyliu-flatworld-3e963e34.md) |
 | `github_search_physics_engines-a5cb675a2875d9` | DexForce/EmbodiChain | [open](records/physics-engines-dexforce-embodichain-412f39d8.md) |
 | `github_search_physics_engines-a69cde18f312bc` | omegaiota/DiffCloth | [open](records/physics-engines-omegaiota-diffcloth-f8495b8c.md) |
+| `github_search_physics_engines-a6bce69ac9239d` | kasunindikaliyanage/Jyamithika | [open](records/physics-engines-kasunindikaliyanage-jyamithika-4baadd42.md) |
 | `github_search_physics_engines-a7440d1e51a929` | MissingDeadlines/iolite | [open](records/physics-engines-missingdeadlines-iolite-59ecdc76.md) |
 | `github_search_physics_engines-a7b6f8b5c72fd6` | dimforge/nphysics | [open](records/physics-engines-dimforge-nphysics-de907eea.md) |
 | `github_search_physics_engines-a81805cf3faeee` | Scrawk/Position-Based-Dynamics | [open](records/physics-engines-scrawk-position-based-dynamics-64a3accb.md) |
+| `github_search_physics_engines-a881356edb479a` | InteractiveComputerGraphics/TriangleMeshDistance | [open](records/physics-engines-interactivecomputergraphics-trianglemeshdistance-bba0f601.md) |
 | `github_search_physics_engines-a8efc0e9cf0389` | victorfisac/Physac | [open](records/physics-engines-victorfisac-physac-872bee73.md) |
+| `github_search_physics_engines-a9771a782145b3` | Miguel249/Box3D.NET | [open](records/physics-engines-miguel249-box3d-net-f404698d.md) |
+| `github_search_physics_engines-aa5dc19f1070d4` | adamheins/pyb_utils | [open](records/physics-engines-adamheins-pyb-utils-00ac2d24.md) |
+| `github_search_physics_engines-aaf6046d143f2d` | alxspiker/avbd-demo3d | [open](records/physics-engines-alxspiker-avbd-demo3d-2434bdc3.md) |
+| `github_search_physics_engines-abbc9fe89d2abb` | collidingScopes/liquid-shape-distortions | [open](records/physics-engines-collidingscopes-liquid-shape-distortions-d4a07f23.md) |
+| `github_search_physics_engines-ad3016a5f071af` | stephengold/Libbulletjme | [open](records/physics-engines-stephengold-libbulletjme-bf0c33a3.md) |
+| `github_search_physics_engines-af236e19d90977` | roboticslibrary/rl | [open](records/physics-engines-roboticslibrary-rl-083a2b91.md) |
+| `github_search_physics_engines-b00871cb0a2c53` | Scrawk/Phillips-Ocean | [open](records/physics-engines-scrawk-phillips-ocean-cf91433c.md) |
+| `github_search_physics_engines-b06657985176a4` | hh-hang/cesium-player-controller | [open](records/physics-engines-hh-hang-cesium-player-controller-08fd7ba3.md) |
 | `github_search_physics_engines-b0fdffada22ddc` | kadir014/nova-physics | [open](records/physics-engines-kadir014-nova-physics-5c66b2dd.md) |
 | `github_search_physics_engines-b110b5498d1822` | fegennari/3DWorld | [open](records/physics-engines-fegennari-3dworld-3b5f258b.md) |
+| `github_search_physics_engines-b2cb5db6b874d8` | memoakten/ofxMSAFluid | [open](records/physics-engines-memoakten-ofxmsafluid-767b48a6.md) |
 | `github_search_physics_engines-b529aa7b00b822` | ComputationalRadiationPhysics/picongpu | [open](records/physics-engines-computationalradiationphysics-picongpu-d72002bf.md) |
+| `github_search_physics_engines-b5d10d48fe84c4` | andreipitis/FluidDynamicsMetal | [open](records/physics-engines-andreipitis-fluiddynamicsmetal-5a770a48.md) |
 | `github_search_physics_engines-b6cbbba2d31c7a` | FormidableLabs/react-game-kit | [open](records/physics-engines-formidablelabs-react-game-kit-2f0bba98.md) |
 | `github_search_physics_engines-b70e596e08ed72` | dartsim/dart | [open](records/physics-engines-dartsim-dart-84ffc4ee.md) |
+| `github_search_physics_engines-b814185872eccb` | JuantAldea/Separating-Axis-Theorem | [open](records/physics-engines-juantaldea-separating-axis-theorem-4b1cb555.md) |
+| `github_search_physics_engines-b970a4905e67ab` | loliverhennigh/Phy-Net | [open](records/physics-engines-loliverhennigh-phy-net-14738082.md) |
 | `github_search_physics_engines-b9d59162082af3` | fabmax/physx-jni | [open](records/physics-engines-fabmax-physx-jni-733428d2.md) |
 | `github_search_physics_engines-bb1a8ceb808c52` | juniorrojas/algovivo | [open](records/physics-engines-juniorrojas-algovivo-dba914da.md) |
+| `github_search_physics_engines-bb692f35e87edd` | nitronoid/csb | [open](records/physics-engines-nitronoid-csb-97e3406c.md) |
 | `github_search_physics_engines-bba59d3de8d7c2` | NeLy-EPFL/flygym | [open](records/physics-engines-nely-epfl-flygym-f7fba955.md) |
 | `github_search_physics_engines-bc75f4a794c594` | sicmutils/sicmutils | [open](records/physics-engines-sicmutils-sicmutils-f64b46b3.md) |
+| `github_search_physics_engines-bcf6a3c177c383` | brli3/CFD | [open](records/physics-engines-brli3-cfd-28b7806f.md) |
 | `github_search_physics_engines-bd924e7f97e9d3` | quinton-ashley/p5play | [open](records/physics-engines-quinton-ashley-p5play-0c12631c.md) |
+| `github_search_physics_engines-bdb6231c94e73e` | Yvesssn/DetectDee | [open](records/physics-engines-yvesssn-detectdee-4fd3967e.md) |
+| `github_search_physics_engines-bdd7a308dcbdd6` | GregTJ/stable-fluids | [open](records/physics-engines-gregtj-stable-fluids-7e205e9c.md) |
+| `github_search_physics_engines-becde73a16f785` | guitarfreak/DirectX-11-Demo | [open](records/physics-engines-guitarfreak-directx-11-demo-ca294a5d.md) |
+| `github_search_physics_engines-bedc2a7bfd8d81` | MarkMoHR/OpenglGame | [open](records/physics-engines-markmohr-openglgame-db6a05e3.md) |
+| `github_search_physics_engines-bfe497608b0d2f` | ACskyline/Wave-Particles-with-Interactive-Vortices | [open](records/physics-engines-acskyline-wave-particles-with-interactive-vortices-744568eb.md) |
 | `github_search_physics_engines-c07b34b7d1bacd` | viblo/pymunk | [open](records/physics-engines-viblo-pymunk-077839b1.md) |
+| `github_search_physics_engines-c183192736d3aa` | hh-hang/three-player-controller | [open](records/physics-engines-hh-hang-three-player-controller-cff52271.md) |
 | `github_search_physics_engines-c2bd6b523c7674` | bepu/bepuphysics2 | [open](records/physics-engines-bepu-bepuphysics2-fbead9e0.md) |
 | `github_search_physics_engines-c2f39c00ba3e72` | xissburg/edyn | [open](records/physics-engines-xissburg-edyn-ace014b6.md) |
 | `github_search_physics_engines-c335276419b73c` | b-g/p5-matter-examples | [open](records/physics-engines-b-g-p5-matter-examples-b8f84cad.md) |
+| `github_search_physics_engines-c6f31b8cf25820` | selimanac/defold-daabbcc | [open](records/physics-engines-selimanac-defold-daabbcc-f846bd92.md) |
+| `github_search_physics_engines-c7193f751bb8b6` | leggedrobotics/urdf2robcogen | [open](records/physics-engines-leggedrobotics-urdf2robcogen-a17def9e.md) |
+| `github_search_physics_engines-c71ed7f1d0398a` | precise-simulation/cfdtool | [open](records/physics-engines-precise-simulation-cfdtool-d7741f41.md) |
 | `github_search_physics_engines-c76c9de0b758dc` | godot-jolt/godot-jolt | [open](records/physics-engines-godot-jolt-godot-jolt-55a60520.md) |
+| `github_search_physics_engines-c8c295fbef3ce4` | elbywan/quadtree-lib | [open](records/physics-engines-elbywan-quadtree-lib-23bee7fb.md) |
+| `github_search_physics_engines-ca498ba0d5f8fc` | felipeek/raw-physics | [open](records/physics-engines-felipeek-raw-physics-39074222.md) |
 | `github_search_physics_engines-cac134cd4dd8d3` | newton-physics/newton | [open](records/physics-engines-newton-physics-newton-932f4b4e.md) |
 | `github_search_physics_engines-cb9cea551c3313` | Bithack/principia | [open](records/physics-engines-bithack-principia-a871fdbd.md) |
 | `github_search_physics_engines-cbab2b18e5090d` | liabru/matter-js | [open](records/physics-engines-liabru-matter-js-f8752d00.md) |
 | `github_search_physics_engines-cc68364c5ad06c` | kevglass/propel-js | [open](records/physics-engines-kevglass-propel-js-d87665d1.md) |
+| `github_search_physics_engines-ce2dc56e947362` | JiepengTan/LockstepEngine_ARPGDemo | [open](records/physics-engines-jiepengtan-lockstepengine-arpgdemo-c522c9b7.md) |
+| `github_search_physics_engines-cf0e87410617a8` | Scrawk/Brunetons-Ocean | [open](records/physics-engines-scrawk-brunetons-ocean-aa342f88.md) |
 | `github_search_physics_engines-cf5339c9ff016f` | OpenGATE/Gate | [open](records/physics-engines-opengate-gate-d921ed3d.md) |
+| `github_search_physics_engines-cf8c544510f420` | kip-hart/AABBTree | [open](records/physics-engines-kip-hart-aabbtree-6b6e6ab3.md) |
 | `github_search_physics_engines-cfa2feff278d60` | Kimbatt/unity-deterministic-physics | [open](records/physics-engines-kimbatt-unity-deterministic-physics-c487102a.md) |
 | `github_search_physics_engines-d182caaef9182d` | NewKrok/nape-js | [open](records/physics-engines-newkrok-nape-js-93e66961.md) |
 | `github_search_physics_engines-d26b8d19b3d0e3` | Mati365/micro-racing | [open](records/physics-engines-mati365-micro-racing-66c9923f.md) |
 | `github_search_physics_engines-d34123a48a30c5` | vpdb/vpx-js | [open](records/physics-engines-vpdb-vpx-js-28bfe6a9.md) |
+| `github_search_physics_engines-d3e4d1b6917aa7` | Scrawk/GPU-GEMS-3D-Fluid-Simulation | [open](records/physics-engines-scrawk-gpu-gems-3d-fluid-simulation-98073303.md) |
+| `github_search_physics_engines-d40f4d8fa1f73b` | ollyc2015/BathBombFluidDynamics | [open](records/physics-engines-ollyc2015-bathbombfluiddynamics-f790e38b.md) |
+| `github_search_physics_engines-d5dc7da2f6490e` | hamaluik/headbutt | [open](records/physics-engines-hamaluik-headbutt-d9245287.md) |
 | `github_search_physics_engines-d67c37710bb018` | jsikyoon/visual-interaction-networks_tensorflow | [open](records/physics-engines-jsikyoon-visual-interaction-networks-tensorflow-b4e3372c.md) |
 | `github_search_physics_engines-d6c78cce09854f` | skevy/wobble | [open](records/physics-engines-skevy-wobble-7405429b.md) |
 | `github_search_physics_engines-d6edab5a0ba947` | phenomLi/Torque | [open](records/physics-engines-phenomli-torque-d1ae5f59.md) |
+| `github_search_physics_engines-d724e0583328c0` | JuliaRobotics/RigidBodySim.jl | [open](records/physics-engines-juliarobotics-rigidbodysim-jl-6f794ea2.md) |
 | `github_search_physics_engines-d804316bf46462` | DanielChappuis/reactphysics3d | [open](records/physics-engines-danielchappuis-reactphysics3d-121a1574.md) |
+| `github_search_physics_engines-d939956e20a67f` | JeroenGar/jagua-rs | [open](records/physics-engines-jeroengar-jagua-rs-b1e56e5f.md) |
+| `github_search_physics_engines-d9f6aa0c488bfb` | alexkid77/3dEngineOpenGL | [open](records/physics-engines-alexkid77-3dengineopengl-f03c9545.md) |
 | `github_search_physics_engines-db975ee2fedae2` | Hykudoru/Pescado-3D-Engine | [open](records/physics-engines-hykudoru-pescado-3d-engine-1dc8c396.md) |
+| `github_search_physics_engines-dbff2d707f2519` | rainorangelemon/gnn-motion-planning | [open](records/physics-engines-rainorangelemon-gnn-motion-planning-14eeb7ad.md) |
 | `github_search_physics_engines-dc0d22c3f27f0f` | FLAIROx/Kinetix | [open](records/physics-engines-flairox-kinetix-5731856e.md) |
 | `github_search_physics_engines-dc123aa1efa499` | li3zhen1/Grape | [open](records/physics-engines-li3zhen1-grape-15f48dce.md) |
 | `github_search_physics_engines-dc21e6ed111f8d` | ipc-sim/ipc-toolkit | [open](records/physics-engines-ipc-sim-ipc-toolkit-7cb05b8f.md) |
 | `github_search_physics_engines-dd77a16de90553` | jerry060599/YarnBall | [open](records/physics-engines-jerry060599-yarnball-d2f475f3.md) |
 | `github_search_physics_engines-de091ce3db2e87` | gecko0307/dmech | [open](records/physics-engines-gecko0307-dmech-63ed4536.md) |
+| `github_search_physics_engines-de27b7cf1a6516` | legends2k/2d-fov | [open](records/physics-engines-legends2k-2d-fov-a7c2010d.md) |
+| `github_search_physics_engines-de73102bdb7b15` | UnknownFreeOccupied/ufomap | [open](records/physics-engines-unknownfreeoccupied-ufomap-d5cc2d8d.md) |
 | `github_search_physics_engines-de7d9152d62e69` | St0wy/StowyPhysicsEngine | [open](records/physics-engines-st0wy-stowyphysicsengine-cb6b40b9.md) |
 | `github_search_physics_engines-e06c5b2d8088ed` | ikpil/Box2D.NET | [open](records/physics-engines-ikpil-box2d-net-61bc830c.md) |
 | `github_search_physics_engines-e093e0658c532b` | realsenseai/hand_tracking_samples | [open](records/physics-engines-realsenseai-hand-tracking-samples-28533b7e.md) |
+| `github_search_physics_engines-e0c517adca5cf4` | stephengold/Minie | [open](records/physics-engines-stephengold-minie-1939726e.md) |
 | `github_search_physics_engines-e168bccc27f3b6` | thunlp/LEGENT | [open](records/physics-engines-thunlp-legent-e5849900.md) |
 | `github_search_physics_engines-e1f2f343afec12` | google-deepmind/dm_control | [open](records/physics-engines-google-deepmind-dm-control-4b6c3d97.md) |
 | `github_search_physics_engines-e1f46995ebc2f1` | steeltroops-ai/blackhole-simulation | [open](records/physics-engines-steeltroops-ai-blackhole-simulation-dde1cc2a.md) |
+| `github_search_physics_engines-e2357f5d6c992f` | XXHolic/blog | [open](records/physics-engines-xxholic-blog-19ccc801.md) |
 | `github_search_physics_engines-e264f10538ab05` | apistol78/traktor | [open](records/physics-engines-apistol78-traktor-5b8e37ae.md) |
 | `github_search_physics_engines-e305df98207bee` | hannojg/react-native-box2d | [open](records/physics-engines-hannojg-react-native-box2d-2ae3a365.md) |
+| `github_search_physics_engines-e3a7caac3b716b` | zhai-xiao/CPP-Fluid-Particles | [open](records/physics-engines-zhai-xiao-cpp-fluid-particles-f8806e17.md) |
+| `github_search_physics_engines-e54bb49e0c2d84` | qwertyquerty/collision | [open](records/physics-engines-qwertyquerty-collision-98895501.md) |
+| `github_search_physics_engines-e5a1784fb564e2` | crgimenes/kutta | [open](records/physics-engines-crgimenes-kutta-1921ad73.md) |
+| `github_search_physics_engines-e62ccba7a40dad` | mushe/NiagaraFluid | [open](records/physics-engines-mushe-niagarafluid-38a74f5a.md) |
+| `github_search_physics_engines-e64bb373d02945` | sthavishtha/list-lattice-Boltzmann-codes | [open](records/physics-engines-sthavishtha-list-lattice-boltzmann-codes-e4f9737e.md) |
+| `github_search_physics_engines-e87f1696c4a61b` | JeanLucPons/BTCCollider | [open](records/physics-engines-jeanlucpons-btccollider-1ff9fe57.md) |
+| `github_search_physics_engines-e9d823e615a1f0` | Jetpack-Crow/autogrip | [open](records/physics-engines-jetpack-crow-autogrip-77630e95.md) |
+| `github_search_physics_engines-eb7060aa1130b8` | rustgd/collision-rs | [open](records/physics-engines-rustgd-collision-rs-585e8ebe.md) |
+| `github_search_physics_engines-eb92dc7f8dfd0b` | Pierre-Terdiman/BoxPruning | [open](records/physics-engines-pierre-terdiman-boxpruning-2b001a72.md) |
+| `github_search_physics_engines-eb938de64d4d9b` | Continuous-Collision-Detection/CCD-Wrapper | [open](records/physics-engines-continuous-collision-detection-ccd-wrapper-065f3c7a.md) |
+| `github_search_physics_engines-ebe4ad3e54353f` | praxhna/Fluid-Simulation-and-Physics-Based-Animation | [open](records/physics-engines-praxhna-fluid-simulation-and-physics-based-animation-fdf7665c.md) |
 | `github_search_physics_engines-ec17a11676ea48` | precise-simulation/featool-multiphysics | [open](records/physics-engines-precise-simulation-featool-multiphysics-60ff4a84.md) |
 | `github_search_physics_engines-ec2c2d4fddcfdf` | cyberbotics/webots | [open](records/physics-engines-cyberbotics-webots-60d233be.md) |
+| `github_search_physics_engines-ede12a3d81b0fd` | cfddose/Splash | [open](records/physics-engines-cfddose-splash-d8bd64ef.md) |
+| `github_search_physics_engines-ee9682062e4907` | Scrawk/GPU-GEMS-2D-Fluid-Simulation | [open](records/physics-engines-scrawk-gpu-gems-2d-fluid-simulation-efe3e78a.md) |
+| `github_search_physics_engines-f124b217d5d30f` | jinleili/simuverse | [open](records/physics-engines-jinleili-simuverse-55af6294.md) |
+| `github_search_physics_engines-f237ee9db70d21` | AkhilRaja/Dave | [open](records/physics-engines-akhilraja-dave-7adda8a3.md) |
 | `github_search_physics_engines-f239beb09a2dc5` | rudransh61/Physix-go | [open](records/physics-engines-rudransh61-physix-go-e0998c66.md) |
 | `github_search_physics_engines-f368af345a12a5` | RedSkittleFox/Game-Engine-Programming-Resources | [open](records/physics-engines-redskittlefox-game-engine-programming-resources-2cbf60dd.md) |
 | `github_search_physics_engines-f3698e5f44c988` | dyn4j/dyn4j | [open](records/physics-engines-dyn4j-dyn4j-298d27ba.md) |
 | `github_search_physics_engines-f3a5929a13b929` | brucefan1983/GPUMD | [open](records/physics-engines-brucefan1983-gpumd-7fdd533e.md) |
+| `github_search_physics_engines-f463407060d8f7` | stephengold/LbjExamples | [open](records/physics-engines-stephengold-lbjexamples-bb8377c4.md) |
+| `github_search_physics_engines-f5aab8ff656398` | Mohamedelrefaie/DrivAerNet | [open](records/physics-engines-mohamedelrefaie-drivaernet-1da0ab33.md) |
 | `github_search_physics_engines-f5cb0ee1febd05` | netket/netket | [open](records/physics-engines-netket-netket-4198677d.md) |
 | `github_search_physics_engines-f63c36f7eae924` | jdeokkim/ferox | [open](records/physics-engines-jdeokkim-ferox-55c8bbdc.md) |
 | `github_search_physics_engines-f66d761fe5538e` | jongallant/CarSimulator | [open](records/physics-engines-jongallant-carsimulator-1f8e0e6b.md) |
+| `github_search_physics_engines-f6862dea23aa6f` | Scrawk/2D-Deformable-body-in-Unity | [open](records/physics-engines-scrawk-2d-deformable-body-in-unity-3035a507.md) |
+| `github_search_physics_engines-f6efc6f229d70a` | chitalu/oibvh-tree | [open](records/physics-engines-chitalu-oibvh-tree-a8c52ed1.md) |
+| `github_search_physics_engines-f713de60de9d8e` | kbladin/Fluid_Simulation | [open](records/physics-engines-kbladin-fluid-simulation-578c262c.md) |
 | `github_search_physics_engines-f751b81601e19d` | simbody/simbody | [open](records/physics-engines-simbody-simbody-5d8afc3b.md) |
+| `github_search_physics_engines-f87d9612ec9bc4` | petercorke/robotics-toolbox-matlab | [open](records/physics-engines-petercorke-robotics-toolbox-matlab-6063199c.md) |
+| `github_search_physics_engines-f8bd36929fc62e` | UnterrainerInformatik/GameDevelopmentLinks | [open](records/physics-engines-unterrainerinformatik-gamedevelopmentlinks-49a98d89.md) |
+| `github_search_physics_engines-fc83aca3bb278f` | henshmi/Classic-Pool-Game | [open](records/physics-engines-henshmi-classic-pool-game-575d8e4c.md) |
 | `github_search_physics_engines-fc987ea22a3c29` | InternRobotics/UniHSI | [open](records/physics-engines-internrobotics-unihsi-ae6cc66b.md) |
+| `github_search_physics_engines-fd4f3819ee7478` | stack-of-tasks/pinocchio | [open](records/physics-engines-stack-of-tasks-pinocchio-aef733cd.md) |
 | `github_search_physics_engines-fd5607dfc8c705` | schteppe/cannon.js | [open](records/physics-engines-schteppe-cannon-js-afb24205.md) |
 | `github_search_physics_engines-fd5f6442589a5e` | fenomas/voxel-physics-engine | [open](records/physics-engines-fenomas-voxel-physics-engine-e62b65d1.md) |
 | `github_search_physics_engines-fe656f30214a73` | Nebukam/com.nebukam.orca | [open](records/physics-engines-nebukam-com-nebukam-orca-afa70d8f.md) |
