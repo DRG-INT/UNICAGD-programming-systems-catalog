@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `550`
+Records: `551`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `550`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (595)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (125)](community-reference.md) · [Compiler (177)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (140)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (596)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (125)](community-reference.md) · [Compiler (179)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (666)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (376)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
-[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (288)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6061)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (550)](logging-observability.md)** · [Machine Learning (854)](machine-learning.md)
-[Math Numeric Scientific (96)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (322)](precommit-ci-quality.md)
+[Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6067)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (551)](logging-observability.md)** · [Machine Learning (854)](machine-learning.md)
+[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (323)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (644)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1660)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
@@ -302,6 +302,7 @@ Records: `550`
 | thredds | 0.1-5 | 2026-09-05 05:10:02 UTC | [open](../records/r-thredds-3a1fc796.md) |
 | tidygedcom | 0.2.0 | 2026-09-01 08:50:08 UTC | [open](../records/r-tidygedcom-43e8e561.md) |
 | TKCat | 1.2.3 | 2026-08-20 13:02:12 UTC | [open](../records/r-tkcat-7e744a91.md) |
+| TreeDist | 2.15.0 | 2026-09-11 14:40:02 UTC | [open](../records/r-treedist-e93ccbd0.md) |
 | treestats | 1.71.13 | 2026-08-24 12:00:02 UTC | [open](../records/r-treestats-521a3d28.md) |
 | TreeTools | 2.4.1 | 2026-09-10 11:10:07 UTC | [open](../records/r-treetools-2ef44596.md) |
 | uroscores | 0.1.0 | 2026-09-09 13:00:02 UTC | [open](../records/r-uroscores-90eb0d77.md) |
@@ -581,7 +582,7 @@ Records: `550`
 | amd/mini-isp | partial | 2026-09-01T17:19:59Z | [open](../records/photography-amd-mini-isp-b6f8adc0.md) |
 | doom40k/photography-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-doom40k-photography-blog-347adc8b.md) |
 | fakeyanss/Hexo-Album | unknown | github_search_does_not_include_release_date | [open](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
-| sambecker/exif-photo-blog | partial | 2026-09-10T14:21:52Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
+| sambecker/exif-photo-blog | partial | 2026-09-11T13:34:04Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
 
 ## Microscopy
 
@@ -595,7 +596,7 @@ Records: `550`
 | holmos-mikroskop/holmos | partial | 2019-11-18T21:28:13Z | [open](../records/microscopy-holmos-mikroskop-holmos-086d35a4.md) |
 | ijpb/MorphoLibJ | partial | 2026-07-30T11:07:03Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
 | kevinjohncutler/omnipose | partial | 2026-09-11T09:07:48Z | [open](../records/microscopy-kevinjohncutler-omnipose-48a8957e.md) |
-| TissueImageAnalytics/tiatoolbox | partial | 2026-09-11T09:20:58Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
+| TissueImageAnalytics/tiatoolbox | partial | 2026-09-11T10:30:08Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
 | UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars
