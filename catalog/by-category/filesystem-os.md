@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1678`
+Records: `1679`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1678`
 
 ## Category Index
 
-[Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · **[Filesystem Os (1678)](filesystem-os.md)** · [Formatter (662)](formatter.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · **[Filesystem Os (1679)](filesystem-os.md)** · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (542)](logging-observability.md) · [Machine Learning (835)](machine-learning.md)
+[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1650)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C++23
 
@@ -451,6 +451,7 @@ Records: `1678`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amazonka-autoscaling | 2.0 | 2023-07-27T21:05:40Z | [open](../records/haskell-amazonka-autoscaling-8ee47bc5.md) |
+| bishbosh | 0.1.4.0 | 2021-12-26T16:25:52Z | [open](../records/haskell-bishbosh-88e04dd9.md) |
 | blockfrost-api | 0.15.0.0 | 2026-02-02T16:16:51Z | [open](../records/haskell-blockfrost-api-f40eb4a6.md) |
 | cabal-macosx | 0.2.4.2 | 2019-12-26T20:25:51Z | [open](../records/haskell-cabal-macosx-c2f02600.md) |
 | chronos | 1.1.7.0 | 2025-07-15T16:11:45Z | [open](../records/haskell-chronos-1ff53297.md) |
@@ -609,7 +610,7 @@ Records: `1678`
 | Fosowl/agenticSeek | partial | 2026-09-07T07:54:16Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-10T23:16:08Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-11T00:25:36Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1487,7 +1488,7 @@ Records: `1678`
 | greatscottgadgets/hackrf | partial | 2026-09-10T09:22:08Z | [open](../records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) |
 | IgrikXD/Easy-SDR | partial | 2026-03-14T18:35:50Z | [open](../records/satcom-satellites-igrikxd-easy-sdr-1c720f8c.md) |
 | inigodelportillo/ITU-Rpy | partial | 2026-07-26T23:16:08Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
-| jgrss/geowombat | partial | 2026-09-05T12:25:41Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
+| jgrss/geowombat | partial | 2026-09-10T12:55:10Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
 | jopohl/urh | partial | 2025-12-19T14:25:58Z | [open](../records/satcom-satellites-jopohl-urh-a7932818.md) |
 | JuliaGeo/GDAL.jl | partial | 2026-09-06T03:32:03Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
 | lukeswitz/DragonSync-iOS | partial | 2026-08-27T20:01:30Z | [open](../records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) |
@@ -1507,10 +1508,10 @@ Records: `1678`
 | pothosware/SoapySDRPlay2 | partial | 2021-11-21T18:32:54Z | [open](../records/satcom-satellites-pothosware-soapysdrplay2-17485e30.md) |
 | pothosware/SoapySDRPlay3 | partial | 2026-09-04T21:23:55Z | [open](../records/satcom-satellites-pothosware-soapysdrplay3-16bfd183.md) |
 | pothosware/SoapyUHD | partial | 2026-08-06T19:12:39Z | [open](../records/satcom-satellites-pothosware-soapyuhd-e79845ce.md) |
-| spectregrams/spectre | partial | 2026-09-09T21:47:09Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
+| spectregrams/spectre | partial | 2026-09-10T22:16:43Z | [open](../records/satcom-satellites-spectregrams-spectre-77b8722d.md) |
 | The-Osint-Toolbox/Geolocation-OSINT | partial | 2026-05-24T06:52:19Z | [open](../records/satcom-satellites-the-osint-toolbox-geolocation-osint-51d3da78.md) |
 | tomtaylor/satellite-eyes | partial | 2026-08-12T08:25:32Z | [open](../records/satcom-satellites-tomtaylor-satellite-eyes-502e7da9.md) |
-| up42/up42-py | partial | 2026-09-10T07:40:42Z | [open](../records/satcom-satellites-up42-up42-py-ed525448.md) |
+| up42/up42-py | partial | 2026-09-10T13:49:10Z | [open](../records/satcom-satellites-up42-up42-py-ed525448.md) |
 | WVURAIL/dspira | partial | 2026-08-27T20:50:24Z | [open](../records/satcom-satellites-wvurail-dspira-970c516f.md) |
 
 ## Electromagnetoscopes
@@ -1635,7 +1636,7 @@ Records: `1678`
 | spatie/Mailcoach | partial | 2026-03-09T09:27:14Z | [open](../records/magazines-spatie-mailcoach-b99f99d2.md) |
 | stefanbc/Asgar | partial | 2023-09-05T02:36:38Z | [open](../records/magazines-stefanbc-asgar-eb9aacac.md) |
 | TryGhost/Alto | partial | 2026-09-10T10:37:12Z | [open](../records/magazines-tryghost-alto-462e85dc.md) |
-| TryGhost/Casper | partial | 2026-09-10T10:33:10Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
+| TryGhost/Casper | partial | 2026-09-10T22:35:44Z | [open](../records/magazines-tryghost-casper-68eed8fe.md) |
 | TryGhost/Dawn | partial | 2026-09-10T10:37:10Z | [open](../records/magazines-tryghost-dawn-93a1bcb3.md) |
 | TryGhost/Dope | partial | 2026-09-10T10:37:13Z | [open](../records/magazines-tryghost-dope-8382f7e5.md) |
 | TryGhost/Edge | partial | 2026-09-10T10:37:10Z | [open](../records/magazines-tryghost-edge-c0002ec9.md) |
@@ -1643,7 +1644,7 @@ Records: `1678`
 | TryGhost/Journal | partial | 2026-09-01T15:22:39Z | [open](../records/magazines-tryghost-journal-0be492cf.md) |
 | TryGhost/London | partial | 2026-09-10T10:37:22Z | [open](../records/magazines-tryghost-london-63cc3483.md) |
 | TryGhost/Massively | partial | 2026-09-07T19:54:15Z | [open](../records/magazines-tryghost-massively-26c36497.md) |
-| TryGhost/Source | partial | 2026-09-10T10:34:25Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
+| TryGhost/Source | partial | 2026-09-10T22:32:17Z | [open](../records/magazines-tryghost-source-8e1152fe.md) |
 | TryGhost/Themes | partial | 2026-09-01T15:18:30Z | [open](../records/magazines-tryghost-themes-8b8724da.md) |
 | unkn0w/disposable-email-domain-list | partial | 2026-07-27T07:07:18Z | [open](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 

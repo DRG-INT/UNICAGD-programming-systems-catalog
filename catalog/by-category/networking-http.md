@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1076`
+Records: `1077`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1076`
 
 ## Category Index
 
-[Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · [Filesystem Os (1679)](filesystem-os.md) · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (541)](logging-observability.md) · [Machine Learning (834)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1076)](networking-http.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (542)](logging-observability.md) · [Machine Learning (835)](machine-learning.md)
+[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1077)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1650)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -80,7 +80,7 @@ Records: `1076`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | actix-http | 3.13.5 | 2026-09-02T13:30:04.048236Z | [open](../records/rust-actix-http-649d5d41.md) |
-| actix-server | 2.9.1 | 2026-08-27T18:31:01.057307Z | [open](../records/rust-actix-server-e5a4daec.md) |
+| actix-server | 2.9.2 | 2026-09-10T23:42:40.930131Z | [open](../records/rust-actix-server-e5a4daec.md) |
 | attohttpc | 0.31.0 | 2026-05-25T03:09:33.175942Z | [open](../records/rust-attohttpc-ed4c6017.md) |
 | aws-http | 0.60.6 | 2024-08-09T19:35:18.677687Z | [open](../records/rust-aws-http-8b04a69b.md) |
 | aws-sigv4 | 1.5.1 | 2026-07-08T19:08:55.193683Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
@@ -287,7 +287,7 @@ Records: `1076`
 | @hapi/wreck | 18.1.2 | 2026-05-20T10:28:12.745Z | [open](../records/node-js-javascript-hapi-wreck-b2909f04.md) |
 | @hint/hint-http-cache | 4.0.23 | 2024-08-29T16:35:51.044Z | [open](../records/node-js-javascript-hint-hint-http-cache-2498c4ea.md) |
 | @hint/hint-http-compression | 5.2.27 | 2024-08-29T16:35:53.454Z | [open](../records/node-js-javascript-hint-hint-http-compression-1c29188f.md) |
-| @inversifyjs/http-core | 5.6.0 | 2026-09-06T11:27:22.523Z | [open](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
+| @inversifyjs/http-core | 5.6.1 | 2026-09-10T22:47:00.489Z | [open](../records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
 | @iobroker/db-objects-file | 7.2.2 | 2026-06-16T17:21:21.300Z | [open](../records/node-js-javascript-iobroker-db-objects-file-c8e68344.md) |
 | @iobroker/db-objects-redis | 7.2.2 | 2026-06-16T17:21:16.203Z | [open](../records/node-js-javascript-iobroker-db-objects-redis-f281a0a1.md) |
 | @iobroker/db-states-file | 7.2.2 | 2026-06-16T17:21:19.562Z | [open](../records/node-js-javascript-iobroker-db-states-file-a614795e.md) |
@@ -358,7 +358,7 @@ Records: `1076`
 | caseless | 0.12.0 | 2017-01-26T21:37:30.100Z | [open](../records/node-js-javascript-caseless-678ec914.md) |
 | centra | 2.7.0 | 2024-04-11T00:07:42.123Z | [open](../records/node-js-javascript-centra-a0003045.md) |
 | clone-response | 2.0.0 | 2022-07-17T15:13:17.135Z | [open](../records/node-js-javascript-clone-response-79ac95e4.md) |
-| content-type | 3.0.0 | 2026-08-20T23:01:26.175Z | [open](../records/node-js-javascript-content-type-3b23af00.md) |
+| content-type | 3.1.0 | 2026-09-10T23:10:26.268Z | [open](../records/node-js-javascript-content-type-3b23af00.md) |
 | cookie | 2.0.1 | 2026-06-30T22:15:13.965Z | [open](../records/node-js-javascript-cookie-edf2700c.md) |
 | create-server | 1.0.2 | 2019-04-30T17:53:36.367Z | [open](../records/node-js-javascript-create-server-2a6e22a2.md) |
 | datadog-metrics | 0.12.1 | 2024-12-19T17:54:05.820Z | [open](../records/node-js-javascript-datadog-metrics-756d6cdb.md) |
@@ -706,7 +706,7 @@ Records: `1076`
 | wai-websockets | 3.0.1.2 | 2018-03-19T12:32:07Z | [open](../records/haskell-wai-websockets-3782ed20.md) |
 | websockets | 0.13.0.0 | 2023-12-30T08:15:48Z | [open](../records/haskell-websockets-dd52de9c.md) |
 | websockets-snap | 0.10.3.1 | 2019-05-06T11:31:08Z | [open](../records/haskell-websockets-snap-116972ec.md) |
-| yesod-websockets | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-websockets-96029917.md) |
+| yesod-websockets | 0.3.0.4 | 2026-06-17T16:53:04Z | [open](../records/haskell-yesod-websockets-96029917.md) |
 
 ## Octave
 
@@ -1147,6 +1147,7 @@ Records: `1076`
 | amphp/websocket | unknown | packagist_package_metadata_missing | [open](../records/php-amphp-websocket-1122914c.md) |
 | contributte/redis | unknown | packagist_package_metadata_missing | [open](../records/php-contributte-redis-588fae9b.md) |
 | dflydev/fig-cookies | unknown | packagist_package_metadata_missing | [open](../records/php-dflydev-fig-cookies-8c9de25d.md) |
+| econea/nusoap | unknown | packagist_package_metadata_missing | [open](../records/php-econea-nusoap-7dd177a0.md) |
 | edamov/pushok | unknown | packagist_package_metadata_missing | [open](../records/php-edamov-pushok-7ffe198c.md) |
 | eightpoints/guzzle-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-eightpoints-guzzle-bundle-0ec077c3.md) |
 | fig/http-message-util | unknown | packagist_package_metadata_missing | [open](../records/php-fig-http-message-util-23ee2d56.md) |

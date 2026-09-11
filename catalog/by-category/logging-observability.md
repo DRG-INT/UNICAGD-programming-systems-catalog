@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `541`
+Records: `542`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `541`
 
 ## Category Index
 
-[Api Abi Checker (232)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (233)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (203)](benchmarking.md) · [Build System (1031)](build-system.md) · [Cli (588)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (124)](community-reference.md) · [Compiler (176)](compiler.md) · [Compiler Diagnostics (25)](compiler-diagnostics.md) · [Compression (53)](compression.md)
-[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (138)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (976)](database-datastore.md) · [Datetime (242)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (112)](documentation.md)
-[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (472)](ffi-bindings.md) · [Filesystem Os (1678)](filesystem-os.md) · [Formatter (662)](formatter.md)
+[Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (139)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
+[Cryptography (181)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (977)](database-datastore.md) · [Datetime (242)](datetime.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (108)](dependency-manager.md) · [Documentation (113)](documentation.md)
+[Embedded Hardware (67)](embedded-hardware.md) · [Ffi Bindings (473)](ffi-bindings.md) · [Filesystem Os (1679)](filesystem-os.md) · [Formatter (662)](formatter.md)
 [Framework (63)](framework.md) · [Fuzzer (60)](fuzzer.md) · [Game Engine Game Dev (361)](game-engine-game-dev.md) · [Ide Editor Integration (1502)](ide-editor-integration.md)
 [Image Audio Dsp (446)](image-audio-dsp.md) · [Interop Bindings (64)](interop-bindings.md) · [Interpreter Runtime (281)](interpreter-runtime.md) · [Jit Vm (65)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5970)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (541)](logging-observability.md)** · [Machine Learning (834)](machine-learning.md)
-[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1076)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1463)](language-specification.md) · [Library (5989)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (50)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (542)](logging-observability.md)** · [Machine Learning (835)](machine-learning.md)
+[Math Numeric Scientific (93)](math-numeric-scientific.md) · [Memory Analyzer (99)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1077)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (449)](package-manager.md) · [Parser Lexer Ast (1227)](parser-lexer-ast.md) · [Precommit Ci Quality (317)](precommit-ci-quality.md)
 [Profiler (94)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (133)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (339)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (658)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (70)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
-[Undefined Behavior Analyzer (1650)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (614)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (635)](testing-framework.md) · [Tutorial Book Styleguide (71)](tutorial-book-styleguide.md) · [Type Checker (315)](type-checker.md)
+[Undefined Behavior Analyzer (1651)](undefined-behavior-analyzer.md) · [Utility Library (105)](utility-library.md) · [Visualization Gui (615)](visualization-gui.md) · [Web Framework (495)](web-framework.md)
 
 ## C99
 
@@ -314,6 +314,7 @@ Records: `541`
 | co-log | 0.7.0.0 | 2025-04-06T15:04:40Z | [open](../records/haskell-co-log-55f5df31.md) |
 | co-log-core | 0.3.2.7 | 2026-05-27T15:26:39Z | [open](../records/haskell-co-log-core-a63fd83a.md) |
 | hslogger | 1.3.2.0 | 2025-08-31T04:37:46Z | [open](../records/haskell-hslogger-134b1e63.md) |
+| hyperloglog | 0.5 | 2025-01-25T14:14:30Z | [open](../records/haskell-hyperloglog-056eb282.md) |
 | log-domain | 0.13.2 | 2021-11-16T01:43:03Z | [open](../records/haskell-log-domain-0b40df0a.md) |
 | log-warper | 1.9.0 | 2020-03-04T18:50:32Z | [open](../records/haskell-log-warper-e0ca6ea7.md) |
 | logfloat | 0.14.0.2 | 2026-02-28T23:39:53Z | [open](../records/haskell-logfloat-ecb44e29.md) |
@@ -347,7 +348,7 @@ Records: `541`
 | keyboard_actions | 5.0.2 | 2026-08-10T15:13:41.903477Z | [open](../records/dart-keyboard-actions-f64a5c69.md) |
 | local_auth | 3.0.2 | 2026-07-09T14:20:36.444883Z | [open](../records/dart-local-auth-dc3f9a4e.md) |
 | logger | 2.8.0 | 2026-09-05T17:20:29.963495Z | [open](../records/dart-logger-1d289d0f.md) |
-| month_picker_dialog | 6.7.2 | 2026-02-26T21:19:53.551241Z | [open](../records/dart-month-picker-dialog-fa645b69.md) |
+| month_picker_dialog | 6.7.3 | 2026-09-10T23:21:19.443401Z | [open](../records/dart-month-picker-dialog-fa645b69.md) |
 | talker | 5.1.20 | 2026-07-28T20:30:11.799574Z | [open](../records/dart-talker-ebcdd995.md) |
 | talker_flutter | 5.1.20 | 2026-07-28T20:30:22.859642Z | [open](../records/dart-talker-flutter-15872e0b.md) |
 
@@ -633,7 +634,7 @@ Records: `541`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-10T21:07:33Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-11T00:20:26Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |
@@ -668,7 +669,7 @@ Records: `541`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amundsen-io/amundsen | partial | 2026-09-04T21:15:53Z | [open](../records/catalogs-amundsen-io-amundsen-34c1f00a.md) |
-| apache/polaris | partial | 2026-09-10T18:19:44Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
+| apache/polaris | partial | 2026-09-10T23:15:43Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
 | aws-samples/aws-dbs-refarch-datalake | partial | 2020-05-13T14:36:19Z | [open](../records/catalogs-aws-samples-aws-dbs-refarch-datalake-d639ef15.md) |
 | CodeCavePro/revitless-toolkit | partial | 2026-07-13T12:00:26Z | [open](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) |
 | CS-SI/eodag | partial | 2026-09-10T13:37:09Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
@@ -684,7 +685,7 @@ Records: `541`
 | Intugle/data-tools | partial | 2026-08-17T07:32:00Z | [open](../records/catalogs-intugle-data-tools-9b151bec.md) |
 | izimobil/polib | partial | 2025-01-10T08:31:03Z | [open](../records/catalogs-izimobil-polib-91a84fe5.md) |
 | jawira/emoji-catalog | partial | 2025-04-25T18:47:44Z | [open](../records/catalogs-jawira-emoji-catalog-29e570f2.md) |
-| linkedin/openhouse | partial | 2026-09-10T20:59:43Z | [open](../records/catalogs-linkedin-openhouse-5f237890.md) |
+| linkedin/openhouse | partial | 2026-09-10T21:59:08Z | [open](../records/catalogs-linkedin-openhouse-5f237890.md) |
 | Listenarrs/Listenarr | partial | 2026-09-03T07:00:49Z | [open](../records/catalogs-listenarrs-listenarr-ea47857c.md) |
 | Luzkan/smells | partial | 2026-05-01T03:33:51Z | [open](../records/catalogs-luzkan-smells-e6a5a666.md) |
 | MatteoGuadrini/Butterfly-Backup | partial | 2026-01-09T20:28:19Z | [open](../records/catalogs-matteoguadrini-butterfly-backup-0020b6f7.md) |
