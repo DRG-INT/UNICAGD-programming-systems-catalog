@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1514`
+Records: `1515`
 
 ## Navigation
 
@@ -15,13 +15,13 @@ Records: `1514`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1514)](ide-editor-integration.md)**
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6116)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1092)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1093)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
@@ -503,6 +503,7 @@ Records: `1514`
 | hmetad | 0.2.0 | 2026-08-21 05:42:50 UTC | [open](../records/r-hmetad-eb6bea62.md) |
 | influential | 2.3.2 | 2026-08-23 12:30:02 UTC | [open](../records/r-influential-cb5cade5.md) |
 | lares | 5.4.1 | 2026-08-28 08:10:02 UTC | [open](../records/r-lares-e80448e9.md) |
+| lpl | 0.15 | 2026-09-12 20:00:02 UTC | [open](../records/r-lpl-17457cea.md) |
 | LRTesteR | 2.0.0 | 2026-08-24 08:10:08 UTC | [open](../records/r-lrtester-acdea10d.md) |
 | mispitools | 2.0.1 | 2026-08-26 21:10:07 UTC | [open](../records/r-mispitools-ac1dc544.md) |
 | OptimalBinningWoE | 1.13.5 | 2026-08-31 22:00:47 UTC | [open](../records/r-optimalbinningwoe-106ae38f.md) |
@@ -697,7 +698,7 @@ Records: `1514`
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T18:10:30Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-12T18:05:11Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-12T20:07:28Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -838,7 +839,7 @@ Records: `1514`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-11T18:27:50Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-12T15:15:13Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-06T20:59:29Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -853,7 +854,7 @@ Records: `1514`
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-06T01:55:04Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-12T05:29:14Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-12T16:41:18Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-08T11:23:58Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -951,7 +952,7 @@ Records: `1514`
 | butterw/bShaders | partial | 2024-01-19T09:58:45Z | [open](../records/effects-butterw-bshaders-5be42b88.md) |
 | cpichard/usdtweak | partial | 2026-08-09T08:57:01Z | [open](../records/effects-cpichard-usdtweak-06bd7b2b.md) |
 | crazylafo/AE_tl_math | partial | 2022-06-13T16:06:40Z | [open](../records/effects-crazylafo-ae-tl-math-db7f2588.md) |
-| crosire/reshade | partial | 2026-09-12T16:17:45Z | [open](../records/effects-crosire-reshade-1e232ae5.md) |
+| crosire/reshade | partial | 2026-09-12T16:30:53Z | [open](../records/effects-crosire-reshade-1e232ae5.md) |
 | doceazedo/sprinkles | partial | 2026-09-08T21:08:20Z | [open](../records/effects-doceazedo-sprinkles-1945cae5.md) |
 | ealtun21/resonance | partial | 2026-07-26T18:16:21Z | [open](../records/effects-ealtun21-resonance-5300cab0.md) |
 | erikbuck/RealTimeGreenScreen | partial | 2022-01-13T17:16:07Z | [open](../records/effects-erikbuck-realtimegreenscreen-3c7fb432.md) |
@@ -1624,7 +1625,7 @@ Records: `1514`
 | mitchellh/libxev | partial | 2026-07-17T05:22:40Z | [open](../records/webassembly-mitchellh-libxev-2da389e7.md) |
 | pion/webrtc | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-pion-webrtc-a1beffe0.md) |
 | pyodide/pyodide | partial | 2026-09-09T08:35:53Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
-| raysan5/raylib | partial | 2026-09-12T08:54:30Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
+| raysan5/raylib | partial | 2026-09-12T18:30:59Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
 | rhysd/vim.wasm | partial | 2026-02-25T16:49:20Z | [open](../records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 | SwiftLaTeX/SwiftLaTeX | partial | 2024-06-18T10:03:53Z | [open](../records/webassembly-swiftlatex-swiftlatex-26bede4e.md) |
 

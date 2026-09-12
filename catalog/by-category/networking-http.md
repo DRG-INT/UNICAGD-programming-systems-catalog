@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1092`
+Records: `1093`
 
 ## Navigation
 
@@ -15,13 +15,13 @@ Records: `1092`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6116)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1092)](networking-http.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1093)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
@@ -675,6 +675,7 @@ Records: `1092`
 | cayley-client | 0.4.19.5 | 2025-11-05T09:40:54Z | [open](../records/haskell-cayley-client-c8d534c3.md) |
 | clientsession | 0.9.3.0 | 2024-07-14T08:07:12Z | [open](../records/haskell-clientsession-76b61ea8.md) |
 | freckle-http | 0.4.1.0 | 2026-08-31T18:42:24Z | [open](../records/haskell-freckle-http-ec27c9f6.md) |
+| ftp-client | 0.6.0.0 | 2026-09-12T19:31:31Z | [open](../records/haskell-ftp-client-ffc70b48.md) |
 | ghc-tcplugin-api | 0.20.1.0 | 2026-09-01T15:55:42Z | [open](../records/haskell-ghc-tcplugin-api-7a5e533e.md) |
 | HTTP | 4000.5.0 | 2025-12-10T23:40:20Z | [open](../records/haskell-http-72423048.md) |
 | http-api-data | 0.7 | 2026-01-04T20:21:35Z | [open](../records/haskell-http-api-data-0a92e255.md) |
@@ -793,7 +794,7 @@ Records: `1092`
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-12T18:48:54Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-10T09:46:57Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| spicetify/cli | partial | 2026-09-12T19:39:54Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -1242,7 +1243,7 @@ Records: `1092`
 | deislabs/wasi-experimental-http | partial | 2023-03-14T17:13:55Z | [open](../records/webassembly-deislabs-wasi-experimental-http-bee04041.md) |
 | dispatchrun/net | partial | 2024-12-11T23:36:01Z | [open](../records/webassembly-dispatchrun-net-ea550bf8.md) |
 | evgeny-nadymov/telegram-react | partial | 2025-02-23T05:45:20Z | [open](../records/webassembly-evgeny-nadymov-telegram-react-7bf2bf4e.md) |
-| joreilly/PeopleInSpace | partial | 2026-09-12T11:51:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
+| joreilly/PeopleInSpace | partial | 2026-09-12T17:49:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
 | near/nearcore | partial | 2026-09-11T09:34:33Z | [open](../records/webassembly-near-nearcore-94125d0d.md) |
 | WebAssembly/WASI | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-wasi-e42b23bc.md) |
 | WebAssembly/wasi-http | partial | 2025-11-25T22:56:11Z | [open](../records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
@@ -1315,7 +1316,7 @@ Records: `1092`
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-12T09:11:25Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-12T20:16:40Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
