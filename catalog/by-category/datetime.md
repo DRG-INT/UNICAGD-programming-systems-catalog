@@ -22,7 +22,7 @@ Records: `253`
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 

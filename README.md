@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-12T08:22:41+00:00`
+Generated: `2026-09-12T09:19:48+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -28,7 +28,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Math Numeric Scientific (97)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1087)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (450)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1241)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (98)](catalog/by-category/profiler.md) · [Project Scaffolding (142)](catalog/by-category/project-scaffolding.md) · [Registry Repository (134)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
-[Security Sast (340)](catalog/by-category/security-sast.md) · [Serialization (406)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (668)](catalog/by-category/static-analyzer.md)
+[Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (406)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (668)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (648)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (318)](catalog/by-category/type-checker.md)
 [Undefined Behavior Analyzer (1662)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](catalog/by-category/utility-library.md) · [Visualization Gui (650)](catalog/by-category/visualization-gui.md) · [Web Framework (496)](catalog/by-category/web-framework.md)
 
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29028 |
+| Canonical identity pages | 29029 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10830 |
-| Unknown stable release fields | 18198 |
-| Fetch errors recorded | 1008 |
+| Unknown stable release fields | 18199 |
+| Fetch errors recorded | 1068 |
 | Target identity count | 24000 |
 
 ## Language Scope

@@ -22,7 +22,7 @@ Records: `1241`
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1241)](parser-lexer-ast.md)** · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -634,7 +634,7 @@ Records: `1241`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-12T02:03:15Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-12T08:56:10Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-11T21:28:23Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |

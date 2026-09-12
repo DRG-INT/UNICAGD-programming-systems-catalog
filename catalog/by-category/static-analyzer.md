@@ -22,7 +22,7 @@ Records: `668`
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (668)](static-analyzer.md)**
+[Security Sast (341)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (668)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -907,7 +907,7 @@ Records: `668`
 | gitlab-org/gitlab | partial | 2026-09-12T07:54:49.814Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
-| hgraca/app-mapper | partial | 2026-09-11T08:05:51.350Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
+| hgraca/app-mapper | partial | 2026-09-12T08:05:09.242Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
 | internet-cleanup-foundation/web-security-map | partial | 2026-09-11T13:01:53.097Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | ngalog-gitlab/openapi_security_scanner | partial | 2021-04-13T23:16:32.701Z | [open](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |

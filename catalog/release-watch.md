@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T08:22:41+00:00`
+Generated: `2026-09-12T09:19:48+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -20,7 +20,7 @@ Generated: `2026-09-12T08:22:41+00:00`
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (340)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (648)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1662)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
@@ -29,7 +29,7 @@ Generated: `2026-09-12T08:22:41+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10830 |
-| Unknown stable release | 18198 |
+| Unknown stable release | 18199 |
 
 ## Newest Known Stable Metadata
 
@@ -290,7 +290,7 @@ Generated: `2026-09-12T08:22:41+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10550 |
+| gh_search_reports_activity_not_release_version | 10551 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

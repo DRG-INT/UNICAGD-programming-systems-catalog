@@ -22,7 +22,7 @@ Records: `308`
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (668)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (668)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (648)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1662)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (650)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-12T07:41:22Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-12T08:56:54Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -232,7 +232,7 @@ Records: `308`
 | [bitdump/BLHeli](../records/assembly-bitdump-blheli-5d346476.md) | partial | 2025-08-21T07:30:10Z | registry-derived |
 | [blackbird71SR/Hello-World](../records/assembly-blackbird71sr-hello-world-2fa43546.md) | partial | 2024-03-02T10:40:36Z | registry-derived |
 | [BLAKE3-team/BLAKE3](../records/assembly-blake3-team-blake3-cc15f4ed.md) | partial | 2026-09-10T20:47:09Z | registry-derived |
-| [bluewaysw/pcgeos](../records/assembly-bluewaysw-pcgeos-aee787b1.md) | partial | 2026-09-11T21:57:24Z | registry-derived |
+| [bluewaysw/pcgeos](../records/assembly-bluewaysw-pcgeos-aee787b1.md) | partial | 2026-09-12T09:02:32Z | registry-derived |
 | [briansmith/ring](../records/assembly-briansmith-ring-3a265118.md) | partial | 2026-07-23T18:48:09Z | registry-derived |
 | [bytecode77/pe-union](../records/assembly-bytecode77-pe-union-295ee237.md) | partial | 2025-06-28T10:36:18Z | registry-derived |
 | [cch123/asm-cli](../records/assembly-cch123-asm-cli-b6f3f924.md) | partial | 2019-01-20T08:58:33Z | registry-derived |
@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-12T04:21:26Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-12T08:22:04Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-09T01:04:36Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |

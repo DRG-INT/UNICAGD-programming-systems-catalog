@@ -22,7 +22,7 @@ Records: `1040`
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -693,7 +693,7 @@ Records: `1040`
 | langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T05:10:52Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-12T08:17:23Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-12T09:02:13Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-10T10:34:39Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-12T08:17:05Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -1305,7 +1305,7 @@ Records: `1040`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| crystal-forge/crystal-forge | partial | 2026-09-12T02:19:24.786Z | [open](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) |
+| crystal-forge/crystal-forge | partial | 2026-09-12T06:13:36.192Z | [open](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) |
 | davivc/gitlab-ci-google-cloud-kubernetes | partial | 2020-04-04T19:23:06.380Z | [open](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) |
 | Gitea: cryptoexplorer/AICRYPTOMINER | partial | 2026-05-31T03:33:30Z | [open](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) |
 | Gitea: GiteaAi/iiab | partial | 2024-12-30T09:20:03Z | [open](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) |

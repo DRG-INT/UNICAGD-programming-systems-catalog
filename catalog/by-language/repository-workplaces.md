@@ -22,7 +22,7 @@ Records: `528`
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (668)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (668)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (648)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1662)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (650)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -49,7 +49,7 @@ Records: `528`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-12T02:19:24.786Z | registry-derived |
+| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-12T06:13:36.192Z | registry-derived |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [Gitea: cryptoexplorer/AICRYPTOMINER](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) | partial | 2026-05-31T03:33:30Z | registry-derived |
 | [Gitea: GiteaAi/iiab](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) | partial | 2024-12-30T09:20:03Z | registry-derived |
@@ -636,7 +636,7 @@ Records: `528`
 | [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-12T07:54:49.814Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-09-12T02:13:28.191Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
-| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-11T08:05:51.350Z | registry-derived |
+| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-12T08:05:09.242Z | registry-derived |
 | [internet-cleanup-foundation/web-security-map](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) | partial | 2026-09-11T13:01:53.097Z | registry-derived |
 | [mopsa/mopsa-analyzer](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) | partial | 2026-08-23T14:57:22.050Z | registry-derived |
 | [ngalog-gitlab/openapi_security_scanner](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) | partial | 2021-04-13T23:16:32.701Z | registry-derived |
@@ -684,7 +684,7 @@ Records: `528`
 | [glitchtip/glitchtip-helm-chart](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) | partial | 2026-08-01T00:27:07.881Z | registry-derived |
 | [just.insane/kubernetes](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) | partial | 2019-12-24T04:31:25.427Z | registry-derived |
 | [k3s_hetzner/k3s_hetzner](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) | partial | 2024-05-18T14:38:11.918Z | registry-derived |
-| [kargo-ci/kubernetes-sigs-kubespray](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) | partial | 2026-09-12T02:50:02.111Z | registry-derived |
+| [kargo-ci/kubernetes-sigs-kubespray](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) | partial | 2026-09-12T05:17:12.223Z | registry-derived |
 | [ksxack/administrator-kubernetes-junior](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) | partial | 2025-03-09T20:49:07.418Z | registry-derived |
 | [lavitto/typo3-form-to-database](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) | partial | 2026-01-28T10:30:57.005Z | registry-derived |
 | [learndevopseasy/troubleshoot/kubernetes-apps](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) | partial | 2024-12-18T10:50:49.219Z | registry-derived |
