@@ -20,7 +20,7 @@ Records: `602`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -549,10 +549,10 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T11:32:19Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-12T13:04:00Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-12T12:23:35Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-12T13:16:39Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -687,7 +687,7 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bjarneo/cliamp | partial | 2026-09-11T23:27:24Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| bjarneo/cliamp | partial | 2026-09-12T10:35:10Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | dpnkrpl/radio-active | partial | 2026-06-30T15:34:15Z | [open](../records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
 | geo-tp/ESP32-Bit-Pirate | partial | 2026-09-04T15:21:21Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |

@@ -20,7 +20,7 @@ Records: `69`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1470)](../by-category/language-specification.md) · [Library (6096)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (555)](../by-category/logging-observability.md) · [Machine Learning (858)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1089)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (407)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (669)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (649)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -38,7 +38,7 @@ Records: `69`
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
-| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-12T10:23:42Z | registry-derived |
+| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-12T13:08:42Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-11T17:13:45Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-12T07:00:28Z | registry-derived |
@@ -48,7 +48,7 @@ Records: `69`
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
 | [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-10T16:38:19Z | registry-derived |
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
-| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-11T15:22:43Z | registry-derived |
+| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-12T13:12:11Z | registry-derived |
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
 | [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-10T16:58:44Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |

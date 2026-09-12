@@ -20,7 +20,7 @@ Records: `1470`
 [Language Server (31)](language-server.md) · **[Language Specification (1470)](language-specification.md)** · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -704,7 +704,7 @@ Records: `1470`
 | antlr/antlr4 | partial | 2026-02-16T21:29:09Z | [open](../records/go-antlr-antlr4-1390b066.md) |
 | aquasecurity/trivy | partial | 2026-09-11T10:39:47Z | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
 | astaxie/build-web-application-with-golang | partial | 2024-05-12T00:47:46Z | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
-| authelia/authelia | partial | 2026-09-12T12:03:23Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
+| authelia/authelia | partial | 2026-09-12T13:16:27Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
 | avelino/awesome-go | partial | 2026-09-10T07:37:37Z | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
 | beego/beego | partial | 2026-09-10T13:43:49Z | [open](../records/go-beego-beego-e98bc924.md) |
 | binwiederhier/ntfy | partial | 2026-09-10T03:56:54Z | [open](../records/go-binwiederhier-ntfy-973f5ef2.md) |
@@ -720,7 +720,7 @@ Records: `1470`
 | docker/compose | partial | 2026-09-11T17:21:34Z | [open](../records/go-docker-compose-cdd7478b.md) |
 | doocs/leetcode | partial | 2026-09-12T10:14:38Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
 | ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T11:32:19Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-12T13:04:00Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
 | etcd-io/etcd | partial | 2026-09-11T20:50:01Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
 | ethereum/go-ethereum | partial | 2026-09-11T03:15:54Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
 | evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
@@ -736,7 +736,7 @@ Records: `1470`
 | go-gitea/gitea | partial | 2026-09-12T11:56:26Z | [open](../records/go-go-gitea-gitea-16871751.md) |
 | go-gorm/gorm | partial | 2026-06-25T07:21:11Z | [open](../records/go-go-gorm-gorm-7ca42177.md) |
 | go-kit/kit | partial | 2024-07-19T01:40:06Z | [open](../records/go-go-kit-kit-a994b76c.md) |
-| gofiber/fiber | partial | 2026-09-12T11:55:07Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
+| gofiber/fiber | partial | 2026-09-12T12:31:32Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
 | gogs/gogs | partial | 2026-09-12T11:39:59Z | [open](../records/go-gogs-gogs-c169645d.md) |
 | goharbor/harbor | partial | 2026-09-11T11:18:34Z | [open](../records/go-goharbor-harbor-20ad6a98.md) |
 | gohugoio/hugo | partial | 2026-09-12T09:34:11Z | [open](../records/go-gohugoio-hugo-f422f841.md) |
@@ -753,7 +753,7 @@ Records: `1470`
 | helm/helm | partial | 2026-09-11T23:11:50Z | [open](../records/go-helm-helm-21c5a8ef.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/go-iawia002-lux-752d8d70.md) |
 | IceWhaleTech/CasaOS | partial | 2025-08-06T08:54:04Z | [open](../records/go-icewhaletech-casaos-65ab04a5.md) |
-| infiniflow/ragflow | partial | 2026-09-11T14:37:34Z | [open](../records/go-infiniflow-ragflow-8c9d422d.md) |
+| infiniflow/ragflow | partial | 2026-09-12T13:12:23Z | [open](../records/go-infiniflow-ragflow-8c9d422d.md) |
 | istio/istio | partial | 2026-09-11T22:05:42Z | [open](../records/go-istio-istio-09ede0b7.md) |
 | jesseduffield/lazydocker | partial | 2026-04-19T02:51:06Z | [open](../records/go-jesseduffield-lazydocker-c10d50fa.md) |
 | jesseduffield/lazygit | partial | 2026-09-11T17:14:40Z | [open](../records/go-jesseduffield-lazygit-76669d5d.md) |
@@ -773,13 +773,13 @@ Records: `1470`
 | mudler/LocalAI | partial | 2026-09-12T12:09:22Z | [open](../records/go-mudler-localai-bdeac9f4.md) |
 | multica-ai/multica | partial | 2026-09-12T03:25:56Z | [open](../records/go-multica-ai-multica-2f7b6919.md) |
 | nektos/act | partial | 2026-08-09T22:50:11Z | [open](../records/go-nektos-act-ba8341d5.md) |
-| netbirdio/netbird | partial | 2026-09-12T12:17:40Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
+| netbirdio/netbird | partial | 2026-09-12T12:53:17Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
 | netdata/netdata | partial | 2026-09-12T00:21:39Z | [open](../records/go-netdata-netdata-170b9886.md) |
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
 | opentofu/opentofu | partial | 2026-09-10T08:05:47Z | [open](../records/go-opentofu-opentofu-186b8c42.md) |
 | photoprism/photoprism | partial | 2026-09-12T12:11:46Z | [open](../records/go-photoprism-photoprism-47249a2f.md) |
-| pingcap/tidb | partial | 2026-09-12T12:22:27Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
-| pocketbase/pocketbase | partial | 2026-09-07T16:58:38Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
+| pingcap/tidb | partial | 2026-09-12T13:11:08Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
+| pocketbase/pocketbase | partial | 2026-09-12T12:28:20Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
 | podman-container-tools/podman | partial | 2026-09-11T20:05:20Z | [open](../records/go-podman-container-tools-podman-b8d59e44.md) |
 | projectdiscovery/nuclei | partial | 2026-09-11T18:37:49Z | [open](../records/go-projectdiscovery-nuclei-166bc26c.md) |
 | prometheus/prometheus | partial | 2026-09-11T14:00:07Z | [open](../records/go-prometheus-prometheus-c7ed4827.md) |
@@ -787,7 +787,7 @@ Records: `1470`
 | QuantumNous/new-api | partial | 2026-09-12T11:34:15Z | [open](../records/go-quantumnous-new-api-3008cbdb.md) |
 | rclone/rclone | partial | 2026-09-12T11:36:50Z | [open](../records/go-rclone-rclone-8d41b979.md) |
 | restic/restic | partial | 2026-09-01T01:43:58Z | [open](../records/go-restic-restic-de039132.md) |
-| router-for-me/CLIProxyAPI | partial | 2026-09-12T12:05:41Z | [open](../records/go-router-for-me-cliproxyapi-093a59b1.md) |
+| router-for-me/CLIProxyAPI | partial | 2026-09-12T13:12:53Z | [open](../records/go-router-for-me-cliproxyapi-093a59b1.md) |
 | SagerNet/sing-box | partial | 2026-09-12T11:01:00Z | [open](../records/go-sagernet-sing-box-7213e1d8.md) |
 | schollz/croc | partial | 2026-09-10T09:53:24Z | [open](../records/go-schollz-croc-63a54584.md) |
 | seaweedfs/seaweedfs | partial | 2026-09-12T06:08:39Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
@@ -852,7 +852,7 @@ Records: `1470`
 | mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
 | p-e-w/heretic | partial | 2026-09-05T16:11:52Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
-| sgl-project/sglang | partial | 2026-09-12T12:21:59Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| sgl-project/sglang | partial | 2026-09-12T13:04:40Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
 | yamadashy/repomix | partial | 2026-09-12T01:23:41Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
@@ -1219,7 +1219,7 @@ Records: `1470`
 | bitdump/BLHeli | partial | 2025-08-21T07:30:10Z | [open](../records/assembly-bitdump-blheli-5d346476.md) |
 | blackbird71SR/Hello-World | partial | 2024-03-02T10:40:36Z | [open](../records/assembly-blackbird71sr-hello-world-2fa43546.md) |
 | BLAKE3-team/BLAKE3 | partial | 2026-09-10T20:47:09Z | [open](../records/assembly-blake3-team-blake3-cc15f4ed.md) |
-| bluewaysw/pcgeos | partial | 2026-09-12T11:41:19Z | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
+| bluewaysw/pcgeos | partial | 2026-09-12T12:56:00Z | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
 | briansmith/ring | partial | 2026-07-23T18:48:09Z | [open](../records/assembly-briansmith-ring-3a265118.md) |
 | bytecode77/pe-union | partial | 2025-06-28T10:36:18Z | [open](../records/assembly-bytecode77-pe-union-295ee237.md) |
 | cch123/asm-cli | partial | 2019-01-20T08:58:33Z | [open](../records/assembly-cch123-asm-cli-b6f3f924.md) |
@@ -1336,7 +1336,7 @@ Records: `1470`
 | jettbrains/-L- | partial | 2021-08-18T13:41:54Z | [open](../records/pattern-language-jettbrains-l-79bdf591.md) |
 | kauemurakami/getx_pattern | partial | 2023-01-04T12:00:45Z | [open](../records/pattern-language-kauemurakami-getx-pattern-12da1121.md) |
 | oodesign | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-oodesign-a4146ecf.md) |
-| rodrigorodrigues/microservices-design-patterns | partial | 2026-09-11T22:59:25Z | [open](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) |
+| rodrigorodrigues/microservices-design-patterns | partial | 2026-09-12T12:39:40Z | [open](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) |
 | sanusanth/c-basic-programs | partial | 2021-07-24T11:30:02Z | [open](../records/pattern-language-sanusanth-c-basic-programs-1f309b84.md) |
 | sourcemaking | unknown | awesome_list_does_not_include_release_date | [open](../records/pattern-language-sourcemaking-eb7fd693.md) |
 

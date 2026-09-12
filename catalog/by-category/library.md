@@ -20,7 +20,7 @@ Records: `6096`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · **[Library (6096)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -5477,7 +5477,7 @@ Records: `6096`
 | --- | --- | --- | --- |
 | GR3YH4TT3R93/dotfiles | partial | 2025-12-29T18:28:19Z | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
 | MITHaystack/srt-py | partial | 2024-07-02T19:26:23Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
-| nom-tam-fits/nom-tam-fits | partial | 2026-09-02T18:00:18Z | [open](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
+| nom-tam-fits/nom-tam-fits | partial | 2026-09-12T13:12:34Z | [open](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
 | synfinatic/alpacascope | partial | 2025-05-13T11:50:46Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
 | tmolteno/TART | partial | 2026-07-01T18:32:35Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
 | zkwlx/DroidTelescope | partial | 2022-04-21T02:39:54Z | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
@@ -5499,7 +5499,7 @@ Records: `6096`
 | csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/radars-csete-gpredict-f8c8985f.md) |
 | denkywu/InSAR-Simulation-and-Studies | partial | 2020-09-03T03:51:40Z | [open](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) |
 | denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
-| dpaulat/supercell-wx | partial | 2026-09-10T22:02:57Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| dpaulat/supercell-wx | partial | 2026-09-12T12:43:21Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | dz0ny/meshcore-sar | partial | 2026-09-04T14:59:38Z | [open](../records/radars-dz0ny-meshcore-sar-633f07d9.md) |
 | earthobservations/wetterdienst | partial | 2026-09-08T22:38:40Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | Erensu/ignav | partial | 2021-12-07T02:09:44Z | [open](../records/radars-erensu-ignav-9cdb787e.md) |
@@ -5527,7 +5527,7 @@ Records: `6096`
 | moov-io/fincen | partial | 2026-09-10T03:43:59Z | [open](../records/radars-moov-io-fincen-b43822ff.md) |
 | NeuroFan/Algorithmic-SAR-ADC-simulation-files | partial | 2024-06-29T10:51:12Z | [open](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) |
 | ngageoint/sarpy_apps | partial | 2025-08-19T15:16:27Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
-| Nouuu/Albion-Online-OpenRadar | partial | 2026-09-12T09:20:13Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
+| Nouuu/Albion-Online-OpenRadar | partial | 2026-09-12T11:52:29Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | odhondt/eo_tools | partial | 2026-09-08T10:11:18Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
 | open-flight/openflight | partial | 2026-09-10T20:58:57Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
@@ -5634,7 +5634,7 @@ Records: `6096`
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-12T10:08:26Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| SatDump/SatDump | partial | 2026-09-12T11:50:39Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | satnogs/gr-satnogs | partial | 2018-12-17T14:53:47Z | [open](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
@@ -5676,9 +5676,9 @@ Records: `6096`
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-12T08:29:10Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-12T12:32:16Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
-| fooyin/fooyin | partial | 2026-09-12T07:29:12Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fooyin/fooyin | partial | 2026-09-12T11:46:22Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | gaspode-t-wonderdog/moxon-frame-generator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) |
 | geekysuavo/pyppm | partial | 2021-07-04T15:42:35Z | [open](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
@@ -5734,7 +5734,7 @@ Records: `6096`
 | rofl0r/MacGeiger | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rofl0r-macgeiger-79d68312.md) |
 | rookiepeng/antenna-models | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rookiepeng-antenna-models-0eb8a406.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | partial | 2026-09-12T10:08:26Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| SatDump/SatDump | partial | 2026-09-12T11:50:39Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |
 | simpeg-research/heagy-2018-fracture-physprops | partial | 2019-07-06T23:36:52Z | [open](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) |

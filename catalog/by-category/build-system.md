@@ -20,7 +20,7 @@ Records: `1041`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -643,7 +643,7 @@ Records: `1041`
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
-| bazel-contrib/rules_dotnet | partial | 2026-09-12T10:23:42Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
+| bazel-contrib/rules_dotnet | partial | 2026-09-12T13:08:42Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T07:00:28Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
@@ -653,7 +653,7 @@ Records: `1041`
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-10T16:38:19Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
-| bazelbuild/rules_swift | partial | 2026-09-11T15:22:43Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
+| bazelbuild/rules_swift | partial | 2026-09-12T13:12:11Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-10T16:58:44Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -685,7 +685,7 @@ Records: `1041`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-11T10:45:15Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-12T06:36:51Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| ComposioHQ/composio | partial | 2026-09-12T12:32:14Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
 | CopilotKit/CopilotKit | partial | 2026-09-12T11:23:42Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T04:41:17Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
@@ -693,7 +693,7 @@ Records: `1041`
 | langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T11:14:36Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-12T12:14:00Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-12T13:09:33Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-12T09:46:23Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-12T08:17:05Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -1091,7 +1091,7 @@ Records: `1041`
 | henomis/lingoose | partial | 2026-03-15T09:43:28Z | [open](../records/catalogs-henomis-lingoose-b7784a16.md) |
 | open-metadata/OpenMetadata | partial | 2026-09-11T20:15:24Z | [open](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) |
 | opendatadiscovery/odd-platform | partial | 2026-09-11T19:45:43Z | [open](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) |
-| openfun/richie | partial | 2026-09-12T00:47:14Z | [open](../records/catalogs-openfun-richie-3e0bc01d.md) |
+| openfun/richie | partial | 2026-09-12T09:42:05Z | [open](../records/catalogs-openfun-richie-3e0bc01d.md) |
 | sealerio/sealer | partial | 2025-06-03T08:29:24Z | [open](../records/catalogs-sealerio-sealer-b1b1c3d8.md) |
 | sixem/ivfi-php | partial | 2026-09-09T18:51:38Z | [open](../records/catalogs-sixem-ivfi-php-0295793e.md) |
 | skpm/skpm | partial | 2026-04-23T09:33:40Z | [open](../records/catalogs-skpm-skpm-a478ed4a.md) |

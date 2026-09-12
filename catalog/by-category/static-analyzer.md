@@ -20,7 +20,7 @@ Records: `669`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (669)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -432,7 +432,7 @@ Records: `669`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-12T00:50:46Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-12T12:24:58Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -648,7 +648,7 @@ Records: `669`
 | iraf-community/iraf | partial | 2026-09-09T09:25:58Z | [open](../records/telescopes-iraf-community-iraf-5c34feb3.md) |
 | lightkurve/lightkurve | partial | 2026-08-25T19:58:28Z | [open](../records/telescopes-lightkurve-lightkurve-47762682.md) |
 | mengchaoheng/PINDI | partial | 2026-07-27T02:56:23Z | [open](../records/telescopes-mengchaoheng-pindi-082f8769.md) |
-| RononDex/Astrobot | partial | 2026-09-03T19:57:34Z | [open](../records/telescopes-ronondex-astrobot-cb92f0ee.md) |
+| RononDex/Astrobot | partial | 2026-09-08T21:29:19Z | [open](../records/telescopes-ronondex-astrobot-cb92f0ee.md) |
 
 ## Radars
 

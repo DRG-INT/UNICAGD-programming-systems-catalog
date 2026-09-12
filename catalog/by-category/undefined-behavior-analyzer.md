@@ -20,7 +20,7 @@ Records: `1663`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -1171,7 +1171,7 @@ Records: `1663`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-12T09:27:05Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-12T13:12:36Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1562,7 +1562,7 @@ Records: `1663`
 | alanbjohnston/CubeSatSim | partial | 2026-09-07T09:11:53Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-12T08:58:26Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-12T11:56:33Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-09-09T06:32:56Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
@@ -1586,7 +1586,7 @@ Records: `1663`
 | f4exb/sdrangel | partial | 2026-09-11T16:45:53Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-12T08:58:26Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-12T11:56:33Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | partial | 2026-09-10T13:19:30Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | mmalekzadeh/dana | partial | 2021-10-25T10:36:43Z | [open](../records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) |
@@ -1645,9 +1645,9 @@ Records: `1663`
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
 | fossaryhq/catalog | partial | 2026-09-12T02:24:58Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-12T01:28:09Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-12T13:17:11Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-09-07T08:05:43Z | [open](../records/catalogs-italia-github-0b346e57.md) |
-| leenkcool/Blue-Whale-Harness | partial | 2026-09-10T09:44:57Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
+| leenkcool/Blue-Whale-Harness | partial | 2026-09-12T07:29:56Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
 | llnl/llnl.github.io | partial | 2026-09-11T16:30:28Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |

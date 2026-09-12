@@ -20,7 +20,7 @@ Records: `355`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1470)](../by-category/language-specification.md) · [Library (6096)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (555)](../by-category/logging-observability.md) · [Machine Learning (858)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1089)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (407)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (669)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (649)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -315,7 +315,7 @@ Records: `355`
 | [csete/gpredict](../records/radars-csete-gpredict-f8c8985f.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [denkywu/InSAR-Simulation-and-Studies](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) | partial | 2020-09-03T03:51:40Z | registry-derived |
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
-| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-10T22:02:57Z | registry-derived |
+| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T12:43:21Z | registry-derived |
 | [dz0ny/meshcore-sar](../records/radars-dz0ny-meshcore-sar-633f07d9.md) | partial | 2026-09-04T14:59:38Z | registry-derived |
 | [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-08T22:38:40Z | registry-derived |
 | [Erensu/ignav](../records/radars-erensu-ignav-9cdb787e.md) | partial | 2021-12-07T02:09:44Z | registry-derived |
@@ -343,7 +343,7 @@ Records: `355`
 | [moov-io/fincen](../records/radars-moov-io-fincen-b43822ff.md) | partial | 2026-09-10T03:43:59Z | registry-derived |
 | [NeuroFan/Algorithmic-SAR-ADC-simulation-files](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) | partial | 2024-06-29T10:51:12Z | registry-derived |
 | [ngageoint/sarpy_apps](../records/radars-ngageoint-sarpy-apps-53476eab.md) | partial | 2025-08-19T15:16:27Z | registry-derived |
-| [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-12T09:20:13Z | registry-derived |
+| [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-12T11:52:29Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-09-08T10:11:18Z | registry-derived |
 | [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-10T20:58:57Z | registry-derived |

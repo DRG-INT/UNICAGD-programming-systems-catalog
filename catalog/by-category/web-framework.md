@@ -20,7 +20,7 @@ Records: `496`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -568,7 +568,7 @@ Records: `496`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-11T20:11:31Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-12T10:05:01Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 

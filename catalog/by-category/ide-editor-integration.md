@@ -20,7 +20,7 @@ Records: `1514`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -693,7 +693,7 @@ Records: `1514`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T11:46:53Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T12:50:51Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T12:12:52Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1349,7 +1349,7 @@ Records: `1514`
 | cuducos/yaml.nvim | partial | 2026-01-04T21:12:19Z | [open](../records/telescopes-cuducos-yaml-nvim-ad137727.md) |
 | davidgranstrom/telescope-scdoc.nvim | partial | 2023-10-10T15:26:15Z | [open](../records/telescopes-davidgranstrom-telescope-scdoc-nvim-8cc12bb5.md) |
 | davvid/telescope-git-grep.nvim | partial | 2025-12-09T06:32:22Z | [open](../records/telescopes-davvid-telescope-git-grep-nvim-293ec16a.md) |
-| dividebysandwich/LightningView | partial | 2026-09-05T12:43:55Z | [open](../records/telescopes-dividebysandwich-lightningview-0f2e3357.md) |
+| dividebysandwich/LightningView | partial | 2026-09-09T16:54:11Z | [open](../records/telescopes-dividebysandwich-lightningview-0f2e3357.md) |
 | eckon/treesitter-current-functions | partial | 2023-08-23T18:56:37Z | [open](../records/telescopes-eckon-treesitter-current-functions-5a7e459d.md) |
 | ellisonleao/neovimfiles | partial | 2026-08-26T13:23:26Z | [open](../records/telescopes-ellisonleao-neovimfiles-a38f6921.md) |
 | guilhermec-costa/code-telescope | partial | 2026-05-31T17:35:41Z | [open](../records/telescopes-guilhermec-costa-code-telescope-939f113e.md) |
@@ -1378,7 +1378,7 @@ Records: `1514`
 | olacin/telescope-cc.nvim | partial | 2024-11-22T08:38:53Z | [open](../records/telescopes-olacin-telescope-cc-nvim-a6311075.md) |
 | olacin/telescope-gitmoji.nvim | partial | 2024-04-08T16:19:21Z | [open](../records/telescopes-olacin-telescope-gitmoji-nvim-c2e56abe.md) |
 | olimorris/persisted.nvim | partial | 2026-08-31T21:03:02Z | [open](../records/telescopes-olimorris-persisted-nvim-138af3cc.md) |
-| pozar87/apts | partial | 2026-09-05T11:32:34Z | [open](../records/telescopes-pozar87-apts-83794b7a.md) |
+| pozar87/apts | partial | 2026-09-12T07:08:10Z | [open](../records/telescopes-pozar87-apts-83794b7a.md) |
 | ppp-one/simple-fits-viewer | partial | 2026-06-17T19:58:19Z | [open](../records/telescopes-ppp-one-simple-fits-viewer-0473ad58.md) |
 | prochri/telescope-all-recent.nvim | partial | 2026-06-22T17:41:39Z | [open](../records/telescopes-prochri-telescope-all-recent-nvim-23cc39a0.md) |
 | rafi/telescope-thesaurus.nvim | partial | 2024-02-25T04:11:07Z | [open](../records/telescopes-rafi-telescope-thesaurus-nvim-35ed2231.md) |
@@ -1472,7 +1472,7 @@ Records: `1514`
 | --- | --- | --- | --- |
 | abhiramAjay/Self-Healing-Repertoire-Engine | partial | 2026-02-05T07:43:18Z | [open](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) |
 | gastroph/Rock-Band-DLC---Leaderboards-App-for-Android | partial | 2010-04-16T20:13:37Z | [open](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) |
-| heylabs-co/dev-tools-portal | partial | 2026-09-12T02:26:12Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
+| heylabs-co/dev-tools-portal | partial | 2026-09-12T10:23:26Z | [open](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) |
 | jasondentler/wild-catalog | partial | 2026-07-05T03:54:55Z | [open](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) |
 | pesnik/flask-repertoire | partial | 2025-03-13T21:08:48Z | [open](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) |
 | pesnik/gin-repertoire | partial | 2025-03-13T23:17:07Z | [open](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) |

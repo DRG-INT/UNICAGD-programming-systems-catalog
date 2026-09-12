@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-12T12:26:12+00:00`
+Generated: `2026-09-12T13:19:46+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -18,7 +18,7 @@ Generated: `2026-09-12T12:26:12+00:00`
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6096)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (858)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1089)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (669)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -68,7 +68,7 @@ Generated: `2026-09-12T12:26:12+00:00`
 | Video | 471 | 0 | [Video](by-language/video.md) |
 | Photography | 599 | 0 | [Photography](by-language/photography.md) |
 | Microscopy | 194 | 0 | [Microscopy](by-language/microscopy.md) |
-| Telescopes | 271 | 0 | [Telescopes](by-language/telescopes.md) |
+| Telescopes | 272 | 0 | [Telescopes](by-language/telescopes.md) |
 | Radars | 355 | 0 | [Radars](by-language/radars.md) |
 | SatCom Satellites | 326 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 499 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
@@ -142,7 +142,7 @@ Generated: `2026-09-12T12:26:12+00:00`
 | Networking Http | 1089 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 450 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1241 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Parser Lexer Ast | 1242 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 325 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 98 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 143 | [project_scaffolding](by-category/project-scaffolding.md) |
@@ -205,7 +205,7 @@ Generated: `2026-09-12T12:26:12+00:00`
 | Video | 0 | 471 |
 | Photography | 0 | 599 |
 | Microscopy | 0 | 194 |
-| Telescopes | 0 | 271 |
+| Telescopes | 0 | 272 |
 | Radars | 0 | 355 |
 | SatCom Satellites | 0 | 326 |
 | Electromagnetoscopes | 0 | 499 |

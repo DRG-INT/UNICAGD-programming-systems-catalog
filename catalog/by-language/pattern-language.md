@@ -20,7 +20,7 @@ Records: `146`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1470)](../by-category/language-specification.md) · [Library (6096)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (555)](../by-category/logging-observability.md) · [Machine Learning (858)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1089)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (407)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (669)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (649)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -172,7 +172,7 @@ Records: `146`
 | [jettbrains/-L-](../records/pattern-language-jettbrains-l-79bdf591.md) | partial | 2021-08-18T13:41:54Z | registry-derived |
 | [kauemurakami/getx_pattern](../records/pattern-language-kauemurakami-getx-pattern-12da1121.md) | partial | 2023-01-04T12:00:45Z | registry-derived |
 | [oodesign](../records/pattern-language-oodesign-a4146ecf.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [rodrigorodrigues/microservices-design-patterns](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) | partial | 2026-09-11T22:59:25Z | registry-derived |
+| [rodrigorodrigues/microservices-design-patterns](../records/pattern-language-rodrigorodrigues-microservices-design-patterns-379144c2.md) | partial | 2026-09-12T12:39:40Z | registry-derived |
 | [sanusanth/c-basic-programs](../records/pattern-language-sanusanth-c-basic-programs-1f309b84.md) | partial | 2021-07-24T11:30:02Z | registry-derived |
 | [sourcemaking](../records/pattern-language-sourcemaking-eb7fd693.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 

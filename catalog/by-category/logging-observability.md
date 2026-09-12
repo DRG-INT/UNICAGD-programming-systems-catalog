@@ -20,7 +20,7 @@ Records: `555`
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (555)](logging-observability.md)** · [Machine Learning (858)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -643,7 +643,7 @@ Records: `555`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-12T03:07:11Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-12T13:14:20Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |
@@ -682,7 +682,7 @@ Records: `555`
 | apache/polaris | partial | 2026-09-12T00:03:47Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
 | aws-samples/aws-dbs-refarch-datalake | partial | 2020-05-13T14:36:19Z | [open](../records/catalogs-aws-samples-aws-dbs-refarch-datalake-d639ef15.md) |
 | CodeCavePro/revitless-toolkit | partial | 2026-07-13T12:00:26Z | [open](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) |
-| CS-SI/eodag | partial | 2026-09-11T13:58:29Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
+| CS-SI/eodag | partial | 2026-09-12T09:51:07Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
 | danricho/where_the | partial | 2026-07-29T22:19:07Z | [open](../records/catalogs-danricho-where-the-79411964.md) |
 | Dansoftowner/Boomega | partial | 2022-06-17T18:31:23Z | [open](../records/catalogs-dansoftowner-boomega-ec1e6e4d.md) |
 | flyteorg/datacatalog | partial | 2023-10-09T18:35:36Z | [open](../records/catalogs-flyteorg-datacatalog-d5667377.md) |
@@ -702,7 +702,7 @@ Records: `555`
 | MetaModels/core | partial | 2026-09-10T20:04:31Z | [open](../records/catalogs-metamodels-core-73396b33.md) |
 | MiSTerOrganize/MiSTer_Organize | partial | 2026-09-10T20:57:53Z | [open](../records/catalogs-misterorganize-mister-organize-9c1a4788.md) |
 | MLT-OSS/FirstData | partial | 2026-08-17T09:27:51Z | [open](../records/catalogs-mlt-oss-firstdata-d8c26afb.md) |
-| Mozzo1000/booklogr | partial | 2026-09-11T19:33:32Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
+| Mozzo1000/booklogr | partial | 2026-09-12T13:19:03Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
 | nasa/Open-Source-Catalog | partial | 2026-07-13T19:47:24Z | [open](../records/catalogs-nasa-open-source-catalog-894aa87e.md) |
 | Niki9001/purview-unified-sdk | partial | 2026-08-12T12:45:06Z | [open](../records/catalogs-niki9001-purview-unified-sdk-0a308ee8.md) |
 | opendatadiscovery/awesome-data-catalogs | partial | 2025-08-14T14:10:59Z | [open](../records/catalogs-opendatadiscovery-awesome-data-catalogs-123e6c4a.md) |

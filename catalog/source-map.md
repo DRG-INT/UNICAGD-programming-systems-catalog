@@ -16,7 +16,7 @@
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6096)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (858)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1089)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (669)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -16180,6 +16180,7 @@
 | `github_search_telescopes-f525c4cc98692b` | juanmb/nextdriver | [open](records/telescopes-juanmb-nextdriver-d1392e60.md) |
 | `github_search_telescopes-f5dec0a03d067e` | lgrcia/twirl | [open](records/telescopes-lgrcia-twirl-2b14ac34.md) |
 | `github_search_telescopes-f63a7f0cdd7924` | eleanorlutz/mars_geology_atlas_of_space | [open](records/telescopes-eleanorlutz-mars-geology-atlas-of-space-82ae5d84.md) |
+| `github_search_telescopes-f647ed279f755e` | giancarloerra/APD | [open](records/telescopes-giancarloerra-apd-cb3a761d.md) |
 | `github_search_telescopes-f8ad3e9770457f` | CelestiaProject/Celestia | [open](records/telescopes-celestiaproject-celestia-52936308.md) |
 | `github_search_telescopes-f92cf253705487` | dilshan/star-pointer | [open](records/telescopes-dilshan-star-pointer-1bb6a494.md) |
 | `github_search_telescopes-f9cf3c7a25c0a3` | AllskyTeam/allsky | [open](records/telescopes-allskyteam-allsky-a37843a6.md) |
