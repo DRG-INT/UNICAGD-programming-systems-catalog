@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `648`
+Records: `649`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `648`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1702)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6075)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · **[Visualization Gui (648)](visualization-gui.md)** · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · **[Visualization Gui (649)](visualization-gui.md)** · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -235,6 +235,7 @@ Records: `648`
 | chart-svg | 0.8.3.3 | 2026-08-23T23:34:22Z | [open](../records/haskell-chart-svg-b8a3b184.md) |
 | classy-prelude-conduit | 1.5.0 | 2018-10-08T14:22:36Z | [open](../records/haskell-classy-prelude-conduit-4b67512e.md) |
 | conduit | 1.3.6.1 | 2025-02-23T07:03:12Z | [open](../records/haskell-conduit-fe86e77f.md) |
+| conduit-algorithms | 0.0.14.0 | 2024-02-16T00:35:53Z | [open](../records/haskell-conduit-algorithms-71dc27f9.md) |
 | conduit-combinators | 1.3.0 | 2018-02-01T22:05:04Z | [open](../records/haskell-conduit-combinators-46b8a191.md) |
 | conduit-extra | 1.3.8 | 2025-06-26T05:55:19Z | [open](../records/haskell-conduit-extra-ce6121c0.md) |
 | dear-imgui | 2.5.0 | 2026-08-22T13:36:21Z | [open](../records/haskell-dear-imgui-c2d4e66d.md) |

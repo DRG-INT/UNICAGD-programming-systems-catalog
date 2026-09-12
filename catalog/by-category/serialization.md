@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `404`
+Records: `406`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `404`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1702)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6075)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · **[Serialization (404)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · **[Serialization (406)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -269,6 +269,7 @@ Records: `404`
 | json-spec-openapi | 1.3.0.1 | 2026-09-09T10:46:44Z | [open](../records/haskell-json-spec-openapi-f98ef3d4.md) |
 | json-stream | 0.4.6.1 | 2026-05-31T21:26:07Z | [open](../records/haskell-json-stream-9730fe11.md) |
 | jsonrpc-conduit | 0.4.1 | 2024-02-19T21:37:42Z | [open](../records/haskell-jsonrpc-conduit-e1073549.md) |
+| msgpack | 1.0.1.0 | 2019-03-27T23:37:20Z | [open](../records/haskell-msgpack-d06f1e3f.md) |
 | RefSerialize | 0.4.0 | 2017-02-06T23:42:14Z | [open](../records/haskell-refserialize-62669b0f.md) |
 | scxml-statecharts | 0.1.0.0 | 2026-09-09T09:48:29Z | [open](../records/haskell-scxml-statecharts-a3fa3863.md) |
 | tomland | 1.3.3.3 | 2024-06-07T13:15:00Z | [open](../records/haskell-tomland-5b998b9e.md) |
@@ -277,6 +278,7 @@ Records: `404`
 | xml-hamlet | 0.5.0.3 | 2025-11-27T21:02:18Z | [open](../records/haskell-xml-hamlet-7a273d7b.md) |
 | xmlhtml | 0.2.5.4 | 2023-02-13T07:40:41Z | [open](../records/haskell-xmlhtml-cd0f4219.md) |
 | yaml | 0.11.11.2 | 2023-07-01T18:43:54Z | [open](../records/haskell-yaml-4295e288.md) |
+| yaml-unscrambler | 0.1.0.21 | 2026-01-13T09:52:05Z | [open](../records/haskell-yaml-unscrambler-b5a03fdf.md) |
 | yamlscript | 0.2.32.0 | 2026-08-25T14:30:47Z | [open](../records/haskell-yamlscript-f3f0625d.md) |
 | yamlstar | 0.1.21.0 | 2026-09-08T20:11:38Z | [open](../records/haskell-yamlstar-bc72bee8.md) |
 

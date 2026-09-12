@@ -14,17 +14,17 @@ Records: `1511`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1702)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1511)](ide-editor-integration.md)**
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6075)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -693,11 +693,11 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-11T23:17:47Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-11T23:57:18Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-11T21:08:44Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-11T23:13:36Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-12T00:25:44Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-11T23:39:32Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -962,7 +962,7 @@ Records: `1511`
 | GlaireDaggers/RetroTVFX | partial | 2022-05-21T08:55:16Z | [open](../records/effects-glairedaggers-retrotvfx-5a5de5e3.md) |
 | IdeaSpaceVR/aframe-particle-system-component | partial | 2023-03-13T17:54:41Z | [open](../records/effects-ideaspacevr-aframe-particle-system-component-80cdc49c.md) |
 | ideoforms/signalflow | partial | 2026-05-04T21:05:19Z | [open](../records/effects-ideoforms-signalflow-fb90f2e9.md) |
-| iluaii/fwm | partial | 2026-09-07T17:38:11Z | [open](../records/effects-iluaii-fwm-02aec8aa.md) |
+| iluaii/fwm | partial | 2026-09-09T09:14:03Z | [open](../records/effects-iluaii-fwm-02aec8aa.md) |
 | Imirushik/sunbreak-downhill-3D-game | partial | 2026-09-05T17:28:02Z | [open](../records/effects-imirushik-sunbreak-downhill-3d-game-ce710ca8.md) |
 | jacksoswag/Spectra | partial | 2026-08-12T16:32:19Z | [open](../records/effects-jacksoswag-spectra-220288fc.md) |
 | jarl-opensource/drakkar-vfx | partial | 2025-07-10T00:21:11Z | [open](../records/effects-jarl-opensource-drakkar-vfx-7324f00c.md) |
@@ -1000,7 +1000,7 @@ Records: `1511`
 | 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/audio-777arc-pysdr-e43c1cf4.md) |
 | alyssaxuu/motionity | partial | 2022-09-12T02:06:50Z | [open](../records/audio-alyssaxuu-motionity-3c2fb703.md) |
 | audacity/audacity | partial | 2026-09-11T10:10:07Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
-| bitgapp/eqMac | partial | 2026-04-24T14:53:15Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
+| bitgapp/eqMac | partial | 2026-09-11T23:41:10Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
 | deniscerri/ytdlnis | partial | 2026-09-08T20:00:02Z | [open](../records/audio-deniscerri-ytdlnis-096edb21.md) |
@@ -1034,7 +1034,7 @@ Records: `1511`
 | --- | --- | --- | --- |
 | 0voice/audio_video_streaming | partial | 2024-05-20T12:07:00Z | [open](../records/video-0voice-audio-video-streaming-bf7a47cf.md) |
 | 26hzhang/OptimizedImageEnhance | partial | 2019-05-15T05:53:26Z | [open](../records/video-26hzhang-optimizedimageenhance-6fceaaba.md) |
-| 4gray/iptvnator | partial | 2026-09-11T08:17:43Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
+| 4gray/iptvnator | partial | 2026-09-11T19:42:57Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
 | aandrew-me/ytDownloader | partial | 2026-09-02T18:29:51Z | [open](../records/video-aandrew-me-ytdownloader-cd56d660.md) |
 | AaronFeng753/Waifu2x-Extension-GUI | partial | 2026-09-05T06:55:06Z | [open](../records/video-aaronfeng753-waifu2x-extension-gui-26771eef.md) |
 | abhiTronix/vidgear | partial | 2026-05-18T07:11:58Z | [open](../records/video-abhitronix-vidgear-c204bb6d.md) |
@@ -1048,7 +1048,7 @@ Records: `1511`
 | bacalhau-project/bacalhau | partial | 2026-09-10T02:23:53Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
 | baresip/baresip | partial | 2026-09-04T12:11:09Z | [open](../records/video-baresip-baresip-c8033746.md) |
 | bennyhuo/Kotlin-Tutorials | partial | 2023-11-03T08:45:12Z | [open](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
-| bigbluebutton/bigbluebutton | partial | 2026-09-11T18:05:36Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
+| bigbluebutton/bigbluebutton | partial | 2026-09-11T22:00:05Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
 | bilibili/ijkplayer | partial | 2024-08-13T00:53:33Z | [open](../records/video-bilibili-ijkplayer-8848a788.md) |
 | bitmovin/bitmovin-go | partial | 2023-11-14T16:23:04Z | [open](../records/video-bitmovin-bitmovin-go-8058d465.md) |
 | bloc97/Anime4K | partial | 2024-08-17T12:09:12Z | [open](../records/video-bloc97-anime4k-cec365ea.md) |
@@ -1084,7 +1084,7 @@ Records: `1511`
 | fabianwimberger/immich-convert-originals | partial | 2026-09-07T19:22:09Z | [open](../records/video-fabianwimberger-immich-convert-originals-f697063f.md) |
 | farshidrezaei/mosaic | partial | 2026-08-31T00:15:26Z | [open](../records/video-farshidrezaei-mosaic-2e134202.md) |
 | feross/simple-peer | partial | 2024-06-26T14:45:57Z | [open](../records/video-feross-simple-peer-4f82bc1c.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-11T16:23:54Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-11T22:31:34Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/video-ffmpegwasm-ffmpeg-wasm-d150b28e.md) |
 | fmeringdal/nettu-meet | partial | 2023-08-30T11:44:55Z | [open](../records/video-fmeringdal-nettu-meet-97fd5a61.md) |
 | GhostZephyr/MetalVideoProcess | partial | 2020-10-16T06:36:56Z | [open](../records/video-ghostzephyr-metalvideoprocess-9f4e0ded.md) |
@@ -1097,7 +1097,7 @@ Records: `1511`
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-11T18:24:28Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-12T00:26:56Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | HUANGCHIHHUNGLeo/claude-real-video | partial | 2026-08-31T09:21:45Z | [open](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
@@ -1178,7 +1178,7 @@ Records: `1511`
 | OpenVidu/openvidu | partial | 2026-09-08T10:34:51Z | [open](../records/video-openvidu-openvidu-5a62f827.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
 | ossrs/srs | partial | 2026-09-05T17:33:56Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
-| owncast/owncast | partial | 2026-09-11T12:41:26Z | [open](../records/video-owncast-owncast-b3a35889.md) |
+| owncast/owncast | partial | 2026-09-11T20:36:03Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | ozmartian/vidcutter | partial | 2025-04-24T10:12:36Z | [open](../records/video-ozmartian-vidcutter-1ee0d3b1.md) |
 | paulpacifico/shutter-encoder | partial | 2026-09-02T08:49:17Z | [open](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
 | pion/webrtc | partial | 2026-09-09T00:39:56Z | [open](../records/video-pion-webrtc-db831169.md) |
@@ -1293,7 +1293,7 @@ Records: `1511`
 | panpf/sketch | partial | 2026-08-08T08:33:06Z | [open](../records/photography-panpf-sketch-813812e6.md) |
 | PhotoFlare/photoflare | partial | 2026-09-09T08:01:32Z | [open](../records/photography-photoflare-photoflare-54d4deb9.md) |
 | photostructure/exiftool-vendored.js | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
-| PicPeak/picpeak | partial | 2026-09-11T13:44:08Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
+| PicPeak/picpeak | partial | 2026-09-11T20:23:46Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
 | piemonte/PBJVision | partial | 2021-03-03T06:14:45Z | [open](../records/photography-piemonte-pbjvision-040d75d4.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | unknown | github_search_does_not_include_release_date | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) |
 | qinjintian/qq-zone | partial | 2026-09-04T15:35:31Z | [open](../records/photography-qinjintian-qq-zone-4ca751a3.md) |
@@ -1366,7 +1366,7 @@ Records: `1511`
 | MarcHamamji/runner.nvim | partial | 2025-03-04T10:42:26Z | [open](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | MironPascalCaseFan/rittli.nvim | partial | 2024-11-29T13:40:56Z | [open](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | Mirsmog/real-icons.nvim | partial | 2026-08-04T22:30:42Z | [open](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
-| mrcjkb/haskell-tools.nvim | partial | 2026-09-11T00:22:32Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
+| mrcjkb/haskell-tools.nvim | partial | 2026-09-12T00:21:23Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | mrcjkb/telescope-manix | partial | 2026-09-06T00:27:41Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |

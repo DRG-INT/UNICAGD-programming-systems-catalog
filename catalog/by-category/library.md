@@ -1,6 +1,6 @@
 # Library
 
-Records: `6075`
+Records: `6088`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `6075`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1701)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1702)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6075)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6088)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (551)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1086)](networking-http.md)
+[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (404)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
+[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (648)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -3162,6 +3162,7 @@ Records: `6075`
 | adblock2privoxy | 3.0.1 | 2026-08-08T10:15:08Z | [open](../records/haskell-adblock2privoxy-993a019b.md) |
 | adjunctions | 4.4.4 | 2026-01-10T20:45:29Z | [open](../records/haskell-adjunctions-ac39b7e1.md) |
 | ADPfusion | 0.6.0.0 | 2019-10-01T18:22:22Z | [open](../records/haskell-adpfusion-cc9cb628.md) |
+| aern2-real | 0.2.16.1 | 2024-10-05T23:08:15Z | [open](../records/haskell-aern2-real-2181be58.md) |
 | aeson | 2.3.1.0 | 2026-07-05T10:37:44Z | [open](../records/haskell-aeson-7553a0ad.md) |
 | aeson-compat | 0.3.10 | 2021-10-09T19:03:20Z | [open](../records/haskell-aeson-compat-76be1cd9.md) |
 | aeson-diff | 1.1.0.15 | 2026-03-12T13:43:46Z | [open](../records/haskell-aeson-diff-adc67c55.md) |
@@ -3321,7 +3322,9 @@ Records: `6075`
 | carray | 0.1.6.8 | 2017-07-18T18:37:17Z | [open](../records/haskell-carray-48c16121.md) |
 | case-insensitive | 1.2.1.0 | 2019-05-05T04:35:05Z | [open](../records/haskell-case-insensitive-ccbf43e8.md) |
 | cassava | 0.5.4.1 | 2025-09-02T12:50:09Z | [open](../records/haskell-cassava-b70b5a1c.md) |
+| category-extras | 1.0.2 | 2012-04-06T20:59:00Z | [open](../records/haskell-category-extras-3bfae8cf.md) |
 | cblrepo | 0.24.0 | 2016-12-31T17:35:53Z | [open](../records/haskell-cblrepo-2c4b4ed3.md) |
+| cdeps | 0.1.3.1 | 2020-06-24T22:46:44Z | [open](../records/haskell-cdeps-ca4c7a26.md) |
 | cereal | 0.5.8.3 | 2022-08-09T18:33:38Z | [open](../records/haskell-cereal-83f9b6c4.md) |
 | certificate | 1.3.9 | 2013-10-07T02:19:04Z | [open](../records/haskell-certificate-52c28a77.md) |
 | cgi | 3001.5.2.0 | 2026-06-12T08:52:58Z | [open](../records/haskell-cgi-c6c045a5.md) |
@@ -3340,6 +3343,7 @@ Records: `6075`
 | clash-prelude | 1.10.2 | 2026-09-07T09:27:12Z | [open](../records/haskell-clash-prelude-3e80017c.md) |
 | clash-prelude-hedgehog | 1.10.2 | 2026-09-07T09:27:15Z | [open](../records/haskell-clash-prelude-hedgehog-38536a2a.md) |
 | clash-shockwaves | 1.1.2 | 2026-09-03T10:23:18Z | [open](../records/haskell-clash-shockwaves-0ff8e02b.md) |
+| clash-vhdl | 0.7.2 | 2017-04-25T08:53:38Z | [open](../records/haskell-clash-vhdl-a0bb7e0f.md) |
 | classy-prelude | 1.5.0.3 | 2023-08-01T13:03:05Z | [open](../records/haskell-classy-prelude-523c61bd.md) |
 | classy-prelude-yesod | 1.5.0 | 2018-10-08T14:22:36Z | [open](../records/haskell-classy-prelude-yesod-a2387f91.md) |
 | clay | 0.16.1 | 2025-09-05T16:35:17Z | [open](../records/haskell-clay-e45d23dd.md) |
@@ -3405,6 +3409,7 @@ Records: `6075`
 | data-lens | 2.11.2 | 2018-01-01T04:34:13Z | [open](../records/haskell-data-lens-a4039905.md) |
 | data-rfc5280 | 0.1.0.2 | 2026-09-05T12:13:06Z | [open](../records/haskell-data-rfc5280-fa027eaf.md) |
 | dbus | 1.4.3 | 2026-05-03T03:39:07Z | [open](../records/haskell-dbus-a0e5a0f4.md) |
+| dbus-core | 0.9.3 | 2012-06-23T15:47:36Z | [open](../records/haskell-dbus-core-ab8b6734.md) |
 | debian | 4.1.2 | 2026-02-07T15:20:33Z | [open](../records/haskell-debian-8d612e9e.md) |
 | deepseq | 1.5.2.0 | 2025-06-14T22:25:04Z | [open](../records/haskell-deepseq-b71938d2.md) |
 | deferred-folds | 0.9.18.10 | 2026-01-13T09:55:53Z | [open](../records/haskell-deferred-folds-20abd98d.md) |
@@ -3689,6 +3694,7 @@ Records: `6075`
 | hsinstall | 3.2 | 2026-09-06T20:04:48Z | [open](../records/haskell-hsinstall-b4fd04ed.md) |
 | hslua | 2.5.0 | 2026-01-08T15:33:47Z | [open](../records/haskell-hslua-85b0c836.md) |
 | hslua-aeson | 2.3.2 | 2026-01-08T14:50:50Z | [open](../records/haskell-hslua-aeson-2f5c7dc5.md) |
+| hsp | 0.10.0 | 2013-11-12T21:25:57Z | [open](../records/haskell-hsp-f44377a8.md) |
 | hspec | 2.11.17 | 2026-03-04T18:01:40Z | [open](../records/haskell-hspec-e27e4b9f.md) |
 | hspec-core | 2.11.17 | 2026-03-04T18:01:50Z | [open](../records/haskell-hspec-core-269b4faa.md) |
 | hspec-discover | 2.11.17 | 2026-03-04T18:01:37Z | [open](../records/haskell-hspec-discover-6dc39843.md) |
@@ -3793,6 +3799,7 @@ Records: `6075`
 | liblawless | 0.26.0 | 2017-10-02T04:31:10Z | [open](../records/haskell-liblawless-d5285232.md) |
 | libmpd | 0.10.0.1 | 2024-06-21T17:22:19Z | [open](../records/haskell-libmpd-f33c999e.md) |
 | lifted-base | 0.2.3.12 | 2018-03-14T20:14:11Z | [open](../records/haskell-lifted-base-a570c940.md) |
+| lightstep-haskell | 0.10.4 | 2020-10-09T11:00:49Z | [open](../records/haskell-lightstep-haskell-7bcb39bf.md) |
 | linear | 1.23.3 | 2026-01-10T23:39:11Z | [open](../records/haskell-linear-48aa332b.md) |
 | list-t | 1.0.5.7 | 2023-10-11T16:26:25Z | [open](../records/haskell-list-t-d594fca1.md) |
 | ListLike | 4.7.8.4 | 2025-08-26T06:26:34Z | [open](../records/haskell-listlike-996b085c.md) |
@@ -3841,6 +3848,7 @@ Records: `6075`
 | monad-control | 1.0.3.1 | 2021-08-02T10:16:56Z | [open](../records/haskell-monad-control-fb7b4f03.md) |
 | monad-journal | 0.8.1 | 2017-11-25T23:19:02Z | [open](../records/haskell-monad-journal-333cbf9f.md) |
 | monad-par | 0.3.6 | 2023-09-28T15:17:19Z | [open](../records/haskell-monad-par-d7b6ce23.md) |
+| monadic-recursion-schemes | 0.1.14.0 | 2026-04-11T11:21:27Z | [open](../records/haskell-monadic-recursion-schemes-b243069f.md) |
 | monadLib | 3.10.3 | 2024-09-02T17:08:55Z | [open](../records/haskell-monadlib-cea5c926.md) |
 | MonadRandom | 0.6.2.1 | 2026-01-20T02:59:56Z | [open](../records/haskell-monadrandom-a53ebbd9.md) |
 | Monaris | 0.1.8 | 2014-08-20T05:29:14Z | [open](../records/haskell-monaris-629c391b.md) |
@@ -3997,6 +4005,7 @@ Records: `6075`
 | repa-examples | 3.4.2.0 | 2024-12-08T21:09:14Z | [open](../records/haskell-repa-examples-e59c14e8.md) |
 | repa-io | 3.4.2.0 | 2024-12-08T21:05:28Z | [open](../records/haskell-repa-io-77e1f924.md) |
 | representable-functors | 3.2.0.2 | 2013-10-13T15:00:49Z | [open](../records/haskell-representable-functors-88c15129.md) |
+| representable-profunctors | 3.2 | 2013-01-07T08:09:14Z | [open](../records/haskell-representable-profunctors-bfacc956.md) |
 | representable-tries | 3.0.2 | 2013-01-06T22:58:36Z | [open](../records/haskell-representable-tries-046f48dd.md) |
 | req | 3.13.4 | 2024-09-29T19:50:09Z | [open](../records/haskell-req-a07bf631.md) |
 | rerebase | 1.23 | 2026-01-28T08:13:19Z | [open](../records/haskell-rerebase-8ef513f5.md) |
@@ -4036,6 +4045,7 @@ Records: `6075`
 | seihou-okf-extension | 0.8.0.0 | 2026-09-10T20:08:32Z | [open](../records/haskell-seihou-okf-extension-b92da37d.md) |
 | selda | 0.5.2.1 | 2026-01-08T08:33:45Z | [open](../records/haskell-selda-c29bd3d4.md) |
 | semialign | 1.4 | 2026-05-12T13:59:10Z | [open](../records/haskell-semialign-d3e66c6a.md) |
+| semigroupoid-extras | 5 | 2015-05-15T07:00:20Z | [open](../records/haskell-semigroupoid-extras-cb464ff0.md) |
 | semigroupoids | 6.0.2 | 2026-01-10T20:49:26Z | [open](../records/haskell-semigroupoids-ec3e2df3.md) |
 | semigroups | 0.20.1 | 2026-01-10T20:32:00Z | [open](../records/haskell-semigroups-1dd26ce3.md) |
 | semiring-num | 1.6.0.4 | 2019-11-23T20:58:21Z | [open](../records/haskell-semiring-num-9a7f01d3.md) |
@@ -4047,6 +4057,7 @@ Records: `6075`
 | serialport | 0.6.0 | 2025-09-21T21:31:06Z | [open](../records/haskell-serialport-c2e6214a.md) |
 | serokell-util | 0.10.0 | 2018-08-08T20:05:51Z | [open](../records/haskell-serokell-util-37406fa1.md) |
 | servant | 0.20.3.0 | 2025-06-04T10:14:21Z | [open](../records/haskell-servant-d738b08f.md) |
+| servant-auth | 0.4.10.0 | 2026-06-20T10:37:09Z | [open](../records/haskell-servant-auth-98a0fe63.md) |
 | servant-blaze | 0.9.1 | 2020-11-04T11:26:14Z | [open](../records/haskell-servant-blaze-48328029.md) |
 | servant-ede | 1.0.0.0 | 2026-09-02T19:18:40Z | [open](../records/haskell-servant-ede-265a6dc2.md) |
 | servant-elm | 0.7.3 | 2023-02-12T06:31:42Z | [open](../records/haskell-servant-elm-596544aa.md) |
@@ -4071,6 +4082,7 @@ Records: `6075`
 | shikumi-optimize | 0.3.0.0 | 2026-09-08T19:35:20Z | [open](../records/haskell-shikumi-optimize-88f02b37.md) |
 | shikumi-tools | 0.4.0.0 | 2026-09-08T19:34:06Z | [open](../records/haskell-shikumi-tools-b32cbff9.md) |
 | silently | 1.2.5.4 | 2024-11-23T09:52:01Z | [open](../records/haskell-silently-82c4ae64.md) |
+| simple | 2.0.0 | 2023-04-29T15:33:43Z | [open](../records/haskell-simple-bcff9cd9.md) |
 | simple-effects | 0.13.0.0 | 2018-11-19T23:20:24Z | [open](../records/haskell-simple-effects-d10fc8cd.md) |
 | simple-sendfile | 0.2.32 | 2023-06-19T00:52:59Z | [open](../records/haskell-simple-sendfile-d65ae27d.md) |
 | simple-smt | 1.0.1 | 2026-08-31T22:28:21Z | [open](../records/haskell-simple-smt-901983e2.md) |
@@ -4267,6 +4279,7 @@ Records: `6075`
 | xturtle | 0.2.0.0 | 2017-05-21T23:34:59Z | [open](../records/haskell-xturtle-b9514ae7.md) |
 | yackage | 0.8.1 | 2016-10-13T03:52:03Z | [open](../records/haskell-yackage-d03f4e3b.md) |
 | Yampa | 0.15 | 2025-02-28T05:27:45Z | [open](../records/haskell-yampa-a2b4653a.md) |
+| yaya | 1.0.0.0 | 2026-04-30T12:47:27Z | [open](../records/haskell-yaya-39442fd2.md) |
 | yeshql | 4.2.0.0 | 2020-05-25T22:58:31Z | [open](../records/haskell-yeshql-b6e1889f.md) |
 | yesod | 1.6.2.3 | 2026-06-16T20:34:36Z | [open](../records/haskell-yesod-06246261.md) |
 | yesod-auth | 1.6.12.1 | 2026-06-16T20:34:31Z | [open](../records/haskell-yesod-auth-20bb32d8.md) |
@@ -4517,7 +4530,7 @@ Records: `6075`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-11T23:02:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-12T00:05:36Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4531,7 +4544,7 @@ Records: `6075`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-11T23:01:00Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-12T00:10:03Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5411,7 +5424,7 @@ Records: `6075`
 | McNopper/EGL | partial | 2026-08-01T18:15:48Z | [open](../records/photography-mcnopper-egl-83a16f1c.md) |
 | meetqy/rao-pics | partial | 2026-09-10T15:59:45Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
-| motioneye-project/motioneye | partial | 2026-09-10T13:35:42Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
+| motioneye-project/motioneye | partial | 2026-09-11T18:44:15Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
 | mustakshif/Asri | partial | 2026-09-09T05:02:59Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
 | natural-harmonia-gropius/hdr-toys | partial | 2026-09-04T16:30:47Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
@@ -5435,7 +5448,7 @@ Records: `6075`
 | t3mujinpack/t3mujinpack | partial | 2025-04-02T17:19:29Z | [open](../records/photography-t3mujinpack-t3mujinpack-05d88258.md) |
 | TheCrypt0/yi-hack-v4 | partial | 2021-04-16T13:12:08Z | [open](../records/photography-thecrypt0-yi-hack-v4-0c4f21cf.md) |
 | tj/letterbox | partial | 2023-03-07T02:21:23Z | [open](../records/photography-tj-letterbox-4bff8695.md) |
-| toonoumi/FreeCCR | partial | 2026-09-11T05:39:22Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
+| toonoumi/FreeCCR | partial | 2026-09-11T20:39:46Z | [open](../records/photography-toonoumi-freeccr-c64ca022.md) |
 | trimmer-io/go-xmp | partial | 2021-11-04T18:27:44Z | [open](../records/photography-trimmer-io-go-xmp-9ead3a5c.md) |
 | WangShuo1143368701/WSLiveDemo | partial | 2022-04-04T06:24:43Z | [open](../records/photography-wangshuo1143368701-wslivedemo-b17eb18b.md) |
 | yanzhenjie/Album | partial | 2022-08-25T21:09:56Z | [open](../records/photography-yanzhenjie-album-0ebba730.md) |
