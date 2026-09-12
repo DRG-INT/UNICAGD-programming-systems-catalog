@@ -646,7 +646,7 @@ Records: `450`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| airbytehq/airbyte | partial | 2026-09-11T23:03:10Z | [open](../records/databases-airbytehq-airbyte-c3bd56b6.md) |
+| airbytehq/airbyte | partial | 2026-09-12T00:31:08Z | [open](../records/databases-airbytehq-airbyte-c3bd56b6.md) |
 | CodisLabs/codis | partial | 2024-04-15T03:46:45Z | [open](../records/databases-codislabs-codis-2fbfa490.md) |
 | datajoint/datajoint-python | partial | 2026-08-19T23:49:10Z | [open](../records/databases-datajoint-datajoint-python-fe901d32.md) |
 | datamindedbe/lighthouse | partial | 2024-09-06T14:49:32Z | [open](../records/databases-datamindedbe-lighthouse-189318ac.md) |

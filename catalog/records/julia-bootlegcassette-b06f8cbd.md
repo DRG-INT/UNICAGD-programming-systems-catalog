@@ -40,7 +40,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | MIT; MIT License; https://api.github.com/licenses/mit; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

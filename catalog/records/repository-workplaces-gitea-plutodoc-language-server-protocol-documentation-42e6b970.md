@@ -40,9 +40,9 @@ awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-11 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-12 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
 
 </details>
 

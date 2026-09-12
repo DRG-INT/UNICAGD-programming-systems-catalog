@@ -41,7 +41,7 @@ integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| maven_central_search | registry-derived | 2026-09-11 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-11", "status": "registry-derived"}` |
+| maven_central_search | registry-derived | 2026-09-12 | `{"kind": "maven_central_search", "query": "sap cloud sdk", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 

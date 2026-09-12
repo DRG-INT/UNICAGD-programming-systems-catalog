@@ -40,9 +40,9 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-11 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-12 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
 
 </details>
 

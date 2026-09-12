@@ -853,7 +853,7 @@ Records: `981`
 | Datazenit | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datazenit-394c3b2d.md) |
 | DBeaver | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-dbeaver-3ea00044.md) |
 | Debezium | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-debezium-a616bcbf.md) |
-| deeplethe/utopia | partial | 2026-09-11T19:21:45Z | [open](../records/databases-deeplethe-utopia-1a8ac8d3.md) |
+| deeplethe/utopia | partial | 2026-09-12T00:11:29Z | [open](../records/databases-deeplethe-utopia-1a8ac8d3.md) |
 | Delta Lake | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-delta-lake-927dada3.md) |
 | dexie/Dexie.js | partial | 2026-09-10T13:45:16Z | [open](../records/databases-dexie-dexie-js-fd147e26.md) |
 | dgllghr/stanchion | partial | 2024-03-21T13:41:27Z | [open](../records/databases-dgllghr-stanchion-f1dfbc51.md) |
@@ -865,9 +865,9 @@ Records: `981`
 | discourse/discourse | partial | 2026-09-11T22:13:39Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
 | distributedio/titan | partial | 2023-10-21T05:34:32Z | [open](../records/databases-distributedio-titan-2725f29d.md) |
 | doctrine/dbal | partial | 2026-09-07T06:38:33Z | [open](../records/databases-doctrine-dbal-55d5a11f.md) |
-| documenso/documenso | partial | 2026-09-11T22:07:28Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
+| documenso/documenso | partial | 2026-09-12T00:19:57Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
 | Dokploy/dokploy | partial | 2026-09-11T08:20:23Z | [open](../records/databases-dokploy-dokploy-05537e16.md) |
-| Dolibarr/dolibarr | partial | 2026-09-11T23:08:54Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
+| Dolibarr/dolibarr | partial | 2026-09-12T00:14:42Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
 | dotnet/efcore | partial | 2026-09-11T21:45:38Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
 | dragonflydb/dragonfly | partial | 2026-09-11T16:59:38Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
@@ -971,7 +971,7 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-11T23:01:38Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-12T01:11:04Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
@@ -1004,7 +1004,7 @@ Records: `981`
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | nitrite/nitrite-java | partial | 2026-09-10T03:27:40Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
 | nocodb/nocodb | partial | 2026-09-11T18:50:22Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
-| NodeBB/NodeBB | partial | 2026-09-11T22:30:41Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
+| NodeBB/NodeBB | partial | 2026-09-12T00:57:48Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
 | noodle-run/noodle | partial | 2024-10-17T02:31:07Z | [open](../records/databases-noodle-run-noodle-e7620669.md) |
 | oceanbase/oceanbase | partial | 2026-09-11T01:00:56Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
@@ -1016,7 +1016,7 @@ Records: `981`
 | outerbase/studio | partial | 2026-03-25T23:41:33Z | [open](../records/databases-outerbase-studio-5d199295.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-11T23:09:38Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-12T00:07:50Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pawelsalawa/letos | partial | 2026-08-24T18:18:03Z | [open](../records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | paypal/gimel | partial | 2025-07-10T08:52:55Z | [open](../records/databases-paypal-gimel-dac7e5cd.md) |
@@ -1047,7 +1047,7 @@ Records: `981`
 | PostgreSQL | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-postgresql-bda949b1.md) |
 | PostgREST | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-postgrest-b7ccd4de.md) |
 | PostgREST/postgrest | partial | 2026-09-11T16:28:07Z | [open](../records/databases-postgrest-postgrest-a1bcbeac.md) |
-| pressly/goose | partial | 2026-09-05T00:22:29Z | [open](../records/databases-pressly-goose-aa83d750.md) |
+| pressly/goose | partial | 2026-09-12T00:22:54Z | [open](../records/databases-pressly-goose-aa83d750.md) |
 | Prisma | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-prisma-ce6684c9.md) |
 | prisma/prisma1 | partial | 2022-09-01T18:57:41Z | [open](../records/databases-prisma-prisma1-3cff6fc2.md) |
 | Prometheus TSDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-prometheus-tsdb-918959ff.md) |

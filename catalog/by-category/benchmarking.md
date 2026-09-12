@@ -425,7 +425,7 @@ Records: `209`
 | rustfs/rustfs | partial | 2026-09-09T17:25:19Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-11T06:32:40Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |
 | Tencent/Tendis | partial | 2026-09-09T04:42:13Z | [open](../records/databases-tencent-tendis-df49c9ba.md) |
-| timescale/timescaledb | partial | 2026-09-11T16:15:50Z | [open](../records/databases-timescale-timescaledb-a9f2409b.md) |
+| timescale/timescaledb | partial | 2026-09-12T00:40:56Z | [open](../records/databases-timescale-timescaledb-a9f2409b.md) |
 | uroni/hs5 | partial | 2026-08-01T17:28:19Z | [open](../records/databases-uroni-hs5-f52001ae.md) |
 | zilliztech/VectorDBBench | partial | 2026-09-01T08:23:44Z | [open](../records/databases-zilliztech-vectordbbench-67fe0d9f.md) |
 | zuoyebang/bitalostored | partial | 2026-04-03T02:54:24Z | [open](../records/databases-zuoyebang-bitalostored-c95c33a2.md) |

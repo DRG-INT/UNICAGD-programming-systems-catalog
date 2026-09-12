@@ -57,7 +57,7 @@ supply-chain review, vulnerability detection, and release gate enforcement.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-11 | `{"kind": "packagist_search_and_p2_api", "query": "database", "retrieved": "2026-09-11", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-12 | `{"kind": "packagist_search_and_p2_api", "query": "database", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 

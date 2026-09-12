@@ -40,7 +40,7 @@ of cross-language integration, ABI ownership, memory safety, and runtime embeddi
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Other; {"key": "", "name": "", "url": ""} |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

@@ -40,9 +40,9 @@ consistency, and automation-friendly editing.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ consistency, and automation-friendly editing.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-11 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-11", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-12 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 

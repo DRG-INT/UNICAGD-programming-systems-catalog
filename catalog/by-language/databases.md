@@ -78,7 +78,7 @@ Records: `910`
 | [rustfs/rustfs](../records/databases-rustfs-rustfs-ac58a257.md) | partial | 2026-09-09T17:25:19Z | registry-derived |
 | [taosdata/TDengine](../records/databases-taosdata-tdengine-57f74fd3.md) | partial | 2026-09-11T06:32:40Z | registry-derived |
 | [Tencent/Tendis](../records/databases-tencent-tendis-df49c9ba.md) | partial | 2026-09-09T04:42:13Z | registry-derived |
-| [timescale/timescaledb](../records/databases-timescale-timescaledb-a9f2409b.md) | partial | 2026-09-11T16:15:50Z | registry-derived |
+| [timescale/timescaledb](../records/databases-timescale-timescaledb-a9f2409b.md) | partial | 2026-09-12T00:40:56Z | registry-derived |
 | [uroni/hs5](../records/databases-uroni-hs5-f52001ae.md) | partial | 2026-08-01T17:28:19Z | registry-derived |
 | [zilliztech/VectorDBBench](../records/databases-zilliztech-vectordbbench-67fe0d9f.md) | partial | 2026-09-01T08:23:44Z | registry-derived |
 | [zuoyebang/bitalostored](../records/databases-zuoyebang-bitalostored-c95c33a2.md) | partial | 2026-04-03T02:54:24Z | registry-derived |
@@ -117,7 +117,7 @@ Records: `910`
 | [skytable/skytable](../records/databases-skytable-skytable-522468ff.md) | partial | 2026-04-23T00:14:03Z | registry-derived |
 | [skyzh/write-you-a-vector-db](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) | partial | 2026-09-01T09:56:00Z | registry-derived |
 | [smart-data-lake/smart-data-lake](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) | partial | 2026-09-09T15:54:14Z | registry-derived |
-| [supabase/supabase](../records/databases-supabase-supabase-100a1793.md) | partial | 2026-09-11T23:17:42Z | registry-derived |
+| [supabase/supabase](../records/databases-supabase-supabase-100a1793.md) | partial | 2026-09-12T00:50:06Z | registry-derived |
 | [terminusdb/terminusdb](../records/databases-terminusdb-terminusdb-a8652993.md) | partial | 2026-09-10T17:49:25Z | registry-derived |
 | [torodb/stampede](../records/databases-torodb-stampede-a9676e19.md) | partial | 2018-10-25T07:02:08Z | registry-derived |
 | [x-ream/sqli](../records/databases-x-ream-sqli-bd8b199c.md) | partial | 2026-07-24T03:14:00Z | registry-derived |
@@ -284,7 +284,7 @@ Records: `910`
 | [Datazenit](../records/databases-datazenit-394c3b2d.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [DBeaver](../records/databases-dbeaver-3ea00044.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [Debezium](../records/databases-debezium-a616bcbf.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
-| [deeplethe/utopia](../records/databases-deeplethe-utopia-1a8ac8d3.md) | partial | 2026-09-11T19:21:45Z | registry-derived |
+| [deeplethe/utopia](../records/databases-deeplethe-utopia-1a8ac8d3.md) | partial | 2026-09-12T00:11:29Z | registry-derived |
 | [Delta Lake](../records/databases-delta-lake-927dada3.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [dexie/Dexie.js](../records/databases-dexie-dexie-js-fd147e26.md) | partial | 2026-09-10T13:45:16Z | registry-derived |
 | [dgllghr/stanchion](../records/databases-dgllghr-stanchion-f1dfbc51.md) | partial | 2024-03-21T13:41:27Z | registry-derived |
@@ -296,9 +296,9 @@ Records: `910`
 | [discourse/discourse](../records/databases-discourse-discourse-7bfa29f8.md) | partial | 2026-09-11T22:13:39Z | registry-derived |
 | [distributedio/titan](../records/databases-distributedio-titan-2725f29d.md) | partial | 2023-10-21T05:34:32Z | registry-derived |
 | [doctrine/dbal](../records/databases-doctrine-dbal-55d5a11f.md) | partial | 2026-09-07T06:38:33Z | registry-derived |
-| [documenso/documenso](../records/databases-documenso-documenso-192ee2e7.md) | partial | 2026-09-11T22:07:28Z | registry-derived |
+| [documenso/documenso](../records/databases-documenso-documenso-192ee2e7.md) | partial | 2026-09-12T00:19:57Z | registry-derived |
 | [Dokploy/dokploy](../records/databases-dokploy-dokploy-05537e16.md) | partial | 2026-09-11T08:20:23Z | registry-derived |
-| [Dolibarr/dolibarr](../records/databases-dolibarr-dolibarr-10b5d5de.md) | partial | 2026-09-11T23:08:54Z | registry-derived |
+| [Dolibarr/dolibarr](../records/databases-dolibarr-dolibarr-10b5d5de.md) | partial | 2026-09-12T00:14:42Z | registry-derived |
 | [domaframework/doma](../records/databases-domaframework-doma-188a30ea.md) | partial | 2026-09-07T20:06:02Z | registry-derived |
 | [dotnet/efcore](../records/databases-dotnet-efcore-f57314d7.md) | partial | 2026-09-11T21:45:38Z | registry-derived |
 | [dragonflydb/dragonfly](../records/databases-dragonflydb-dragonfly-fdf6559c.md) | partial | 2026-09-11T16:59:38Z | registry-derived |
@@ -402,7 +402,7 @@ Records: `910`
 | [Meilisearch](../records/databases-meilisearch-bf7b237f.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [mergestat/mergestat-lite](../records/databases-mergestat-mergestat-lite-67a00eb8.md) | partial | 2026-09-05T05:26:30Z | registry-derived |
 | [Metabase](../records/databases-metabase-545e8fa8.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
-| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-11T23:01:38Z | registry-derived |
+| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-12T01:11:04Z | registry-derived |
 | [mevdschee/php-crud-api](../records/databases-mevdschee-php-crud-api-f8b4da35.md) | partial | 2026-08-28T19:03:50Z | registry-derived |
 | [Milvus](../records/databases-milvus-66248b43.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [milvus-io/pymilvus](../records/databases-milvus-io-pymilvus-f6a8adf0.md) | partial | 2026-09-08T06:47:22Z | registry-derived |
@@ -435,7 +435,7 @@ Records: `910`
 | [NirDiamant/RAG_Techniques](../records/databases-nirdiamant-rag-techniques-836fe306.md) | partial | 2026-09-04T23:35:08Z | registry-derived |
 | [nitrite/nitrite-java](../records/databases-nitrite-nitrite-java-5d05a2a7.md) | partial | 2026-09-10T03:27:40Z | registry-derived |
 | [nocodb/nocodb](../records/databases-nocodb-nocodb-4fc74d77.md) | partial | 2026-09-11T18:50:22Z | registry-derived |
-| [NodeBB/NodeBB](../records/databases-nodebb-nodebb-19c32886.md) | partial | 2026-09-11T22:30:41Z | registry-derived |
+| [NodeBB/NodeBB](../records/databases-nodebb-nodebb-19c32886.md) | partial | 2026-09-12T00:57:48Z | registry-derived |
 | [noodle-run/noodle](../records/databases-noodle-run-noodle-e7620669.md) | partial | 2024-10-17T02:31:07Z | registry-derived |
 | [oceanbase/oceanbase](../records/databases-oceanbase-oceanbase-8d26f652.md) | partial | 2026-09-11T01:00:56Z | registry-derived |
 | [ODBC](../records/databases-odbc-00ecc2f5.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
@@ -447,7 +447,7 @@ Records: `910`
 | [outerbase/studio](../records/databases-outerbase-studio-5d199295.md) | partial | 2026-03-25T23:41:33Z | registry-derived |
 | [oxnr/awesome-bigdata](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) | partial | 2026-07-31T12:51:12Z | registry-derived |
 | [p6spy/p6spy](../records/databases-p6spy-p6spy-2c3d2ab8.md) | partial | 2022-02-21T16:46:12Z | registry-derived |
-| [paradedb/paradedb](../records/databases-paradedb-paradedb-f07ab96f.md) | partial | 2026-09-11T23:09:38Z | registry-derived |
+| [paradedb/paradedb](../records/databases-paradedb-paradedb-f07ab96f.md) | partial | 2026-09-12T00:07:50Z | registry-derived |
 | [paradedb/pg_analytics](../records/databases-paradedb-pg-analytics-ff29ad8d.md) | partial | 2025-03-19T19:27:38Z | registry-derived |
 | [pawelsalawa/letos](../records/databases-pawelsalawa-letos-3a5b74d0.md) | partial | 2026-08-24T18:18:03Z | registry-derived |
 | [paypal/gimel](../records/databases-paypal-gimel-dac7e5cd.md) | partial | 2025-07-10T08:52:55Z | registry-derived |
@@ -478,7 +478,7 @@ Records: `910`
 | [PostgreSQL](../records/databases-postgresql-bda949b1.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [PostgREST](../records/databases-postgrest-b7ccd4de.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [PostgREST/postgrest](../records/databases-postgrest-postgrest-a1bcbeac.md) | partial | 2026-09-11T16:28:07Z | registry-derived |
-| [pressly/goose](../records/databases-pressly-goose-aa83d750.md) | partial | 2026-09-05T00:22:29Z | registry-derived |
+| [pressly/goose](../records/databases-pressly-goose-aa83d750.md) | partial | 2026-09-12T00:22:54Z | registry-derived |
 | [Prisma](../records/databases-prisma-ce6684c9.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [prisma/prisma1](../records/databases-prisma-prisma1-3cff6fc2.md) | partial | 2022-09-01T18:57:41Z | registry-derived |
 | [Prometheus TSDB](../records/databases-prometheus-tsdb-918959ff.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
@@ -872,7 +872,7 @@ Records: `910`
 | [aerospike/aerospike-client-rust](../records/databases-aerospike-aerospike-client-rust-0981e978.md) | partial | 2026-09-10T16:54:35Z | registry-derived |
 | [awslabs/mountpoint-s3](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) | partial | 2026-09-08T16:56:13Z | registry-derived |
 | [Beekeeper Studio](../records/databases-beekeeper-studio-8debdaa3.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [beekeeper-studio/beekeeper-studio](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) | partial | 2026-09-11T21:16:56Z | registry-derived |
+| [beekeeper-studio/beekeeper-studio](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) | partial | 2026-09-12T00:36:29Z | registry-derived |
 | [brianc/node-postgres](../records/databases-brianc-node-postgres-6210b4d9.md) | partial | 2026-09-11T13:06:54Z | registry-derived |
 | [Chartbrew](../records/databases-chartbrew-b6cf395d.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [ClickHouse/clickhouse-java](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) | partial | 2026-09-11T18:25:27Z | registry-derived |
@@ -915,7 +915,7 @@ Records: `910`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [airbytehq/airbyte](../records/databases-airbytehq-airbyte-c3bd56b6.md) | partial | 2026-09-11T23:03:10Z | registry-derived |
+| [airbytehq/airbyte](../records/databases-airbytehq-airbyte-c3bd56b6.md) | partial | 2026-09-12T00:31:08Z | registry-derived |
 | [CodisLabs/codis](../records/databases-codislabs-codis-2fbfa490.md) | partial | 2024-04-15T03:46:45Z | registry-derived |
 | [datajoint/datajoint-python](../records/databases-datajoint-datajoint-python-fe901d32.md) | partial | 2026-08-19T23:49:10Z | registry-derived |
 | [datamindedbe/lighthouse](../records/databases-datamindedbe-lighthouse-189318ac.md) | partial | 2024-09-06T14:49:32Z | registry-derived |
@@ -1058,12 +1058,12 @@ Records: `910`
 | [invertase/react-native-firebase](../records/databases-invertase-react-native-firebase-bdf40bbb.md) | partial | 2026-09-11T14:40:53Z | registry-derived |
 | [long2ice/asyncmy](../records/databases-long2ice-asyncmy-537bc784.md) | partial | 2026-08-16T04:11:12Z | registry-derived |
 | [marsupilami79/zeoslib](../records/databases-marsupilami79-zeoslib-f93693d1.md) | partial | 2026-09-01T05:51:54Z | registry-derived |
-| [netdata/netdata](../records/databases-netdata-netdata-c3fa5bcb.md) | partial | 2026-09-11T18:35:17Z | registry-derived |
+| [netdata/netdata](../records/databases-netdata-netdata-c3fa5bcb.md) | partial | 2026-09-12T00:21:39Z | registry-derived |
 | [porsager/postgres](../records/databases-porsager-postgres-fbaff732.md) | partial | 2026-09-02T08:02:08Z | registry-derived |
 | [vladmihalcea/db-util](../records/databases-vladmihalcea-db-util-1a17f88b.md) | partial | 2023-01-11T18:54:22Z | registry-derived |
 | [weavejester/ragtime](../records/databases-weavejester-ragtime-b149a386.md) | partial | 2025-09-23T14:39:42Z | registry-derived |
 | [webhooksite/webhook.site](../records/databases-webhooksite-webhook-site-72a383fc.md) | partial | 2026-07-22T10:28:58Z | registry-derived |
-| [windmill-labs/windmill](../records/databases-windmill-labs-windmill-9aeebfb2.md) | partial | 2026-09-11T23:16:21Z | registry-derived |
+| [windmill-labs/windmill](../records/databases-windmill-labs-windmill-9aeebfb2.md) | partial | 2026-09-11T23:49:56Z | registry-derived |
 | [WiseLibs/better-sqlite3](../records/databases-wiselibs-better-sqlite3-542212cd.md) | partial | 2026-08-10T03:10:10Z | registry-derived |
 
 ### Tutorial Book Styleguide
@@ -1079,7 +1079,7 @@ Records: `910`
 | [mikro-orm/mikro-orm](../records/databases-mikro-orm-mikro-orm-988d6c85.md) | partial | 2026-09-11T21:00:59Z | registry-derived |
 | [prisma/orm](../records/databases-prisma-orm-d7875b44.md) | partial | 2026-09-11T19:54:51Z | registry-derived |
 | [rehacktive/caffeine](../records/databases-rehacktive-caffeine-7ba154b8.md) | partial | 2022-11-30T16:19:55Z | registry-derived |
-| [sequelize/sequelize](../records/databases-sequelize-sequelize-980d8352.md) | partial | 2026-09-11T22:51:31Z | registry-derived |
+| [sequelize/sequelize](../records/databases-sequelize-sequelize-980d8352.md) | partial | 2026-09-12T00:38:04Z | registry-derived |
 | [strapi/strapi](../records/databases-strapi-strapi-16f55c01.md) | partial | 2026-09-11T20:51:12Z | registry-derived |
 | [typeorm/typeorm](../records/databases-typeorm-typeorm-5d6b5459.md) | partial | 2026-09-11T07:22:38Z | registry-derived |
 
@@ -1096,7 +1096,7 @@ Records: `910`
 | [cloudnative-pg/cloudnative-pg](../records/databases-cloudnative-pg-cloudnative-pg-5b60613f.md) | partial | 2026-09-11T08:55:12Z | registry-derived |
 | [CodingDocs/awesome-java](../records/databases-codingdocs-awesome-java-f7da703d.md) | partial | 2026-03-10T08:34:42Z | registry-derived |
 | [cstore_fdw](../records/databases-cstore-fdw-4259f19e.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [cube-js/cube](../records/databases-cube-js-cube-373699e3.md) | partial | 2026-09-11T23:13:20Z | registry-derived |
+| [cube-js/cube](../records/databases-cube-js-cube-373699e3.md) | partial | 2026-09-12T00:29:19Z | registry-derived |
 | [cubefs/cubefs](../records/databases-cubefs-cubefs-2e8325bf.md) | partial | 2026-09-08T09:24:36Z | registry-derived |
 | [debezium/debezium](../records/databases-debezium-debezium-a3d23ff7.md) | partial | 2026-09-11T13:32:52Z | registry-derived |
 | [dicedb/dicedb](../records/databases-dicedb-dicedb-ba1cb8a6.md) | partial | 2026-04-23T01:00:36Z | registry-derived |
@@ -1123,7 +1123,7 @@ Records: `910`
 | [timveil/hive-jdbc-uber-jar](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) | partial | 2024-09-28T13:44:51Z | registry-derived |
 | [uber-go/dosa](../records/databases-uber-go-dosa-06a859e4.md) | partial | 2023-07-05T20:59:33Z | registry-derived |
 | [uber/marmaray](../records/databases-uber-marmaray-1e6dacff.md) | partial | 2023-03-19T23:03:14Z | registry-derived |
-| [ubicloud/ubicloud](../records/databases-ubicloud-ubicloud-7e3cd300.md) | partial | 2026-09-11T18:01:21Z | registry-derived |
+| [ubicloud/ubicloud](../records/databases-ubicloud-ubicloud-7e3cd300.md) | partial | 2026-09-12T01:05:15Z | registry-derived |
 | [warp-tech/warpgate](../records/databases-warp-tech-warpgate-2221afcb.md) | partial | 2026-09-11T13:36:05Z | registry-derived |
 | [WenjieDu/TSDB](../records/databases-wenjiedu-tsdb-d91c6ab6.md) | partial | 2026-09-03T10:00:33Z | registry-derived |
 | [Wisser/Jailer](../records/databases-wisser-jailer-b572d87a.md) | partial | 2026-09-11T11:41:49Z | registry-derived |

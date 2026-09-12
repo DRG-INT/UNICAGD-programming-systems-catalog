@@ -1170,7 +1170,7 @@ Records: `1661`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-11T23:41:24Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-12T01:16:38Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1841,7 +1841,7 @@ Records: `1661`
 | cloudnative-pg/cloudnative-pg | partial | 2026-09-11T08:55:12Z | [open](../records/databases-cloudnative-pg-cloudnative-pg-5b60613f.md) |
 | CodingDocs/awesome-java | partial | 2026-03-10T08:34:42Z | [open](../records/databases-codingdocs-awesome-java-f7da703d.md) |
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
-| cube-js/cube | partial | 2026-09-11T23:13:20Z | [open](../records/databases-cube-js-cube-373699e3.md) |
+| cube-js/cube | partial | 2026-09-12T00:29:19Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-08T09:24:36Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
 | debezium/debezium | partial | 2026-09-11T13:32:52Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
@@ -1868,7 +1868,7 @@ Records: `1661`
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |
 | uber/marmaray | partial | 2023-03-19T23:03:14Z | [open](../records/databases-uber-marmaray-1e6dacff.md) |
-| ubicloud/ubicloud | partial | 2026-09-11T18:01:21Z | [open](../records/databases-ubicloud-ubicloud-7e3cd300.md) |
+| ubicloud/ubicloud | partial | 2026-09-12T01:05:15Z | [open](../records/databases-ubicloud-ubicloud-7e3cd300.md) |
 | warp-tech/warpgate | partial | 2026-09-11T13:36:05Z | [open](../records/databases-warp-tech-warpgate-2221afcb.md) |
 | WenjieDu/TSDB | partial | 2026-09-03T10:00:33Z | [open](../records/databases-wenjiedu-tsdb-d91c6ab6.md) |
 | Wisser/Jailer | partial | 2026-09-11T11:41:49Z | [open](../records/databases-wisser-jailer-b572d87a.md) |

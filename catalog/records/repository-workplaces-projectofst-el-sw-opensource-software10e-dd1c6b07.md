@@ -42,9 +42,9 @@ regression prevention.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -60,7 +60,7 @@ regression prevention.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-11 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-11", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-12 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
 
 </details>
 

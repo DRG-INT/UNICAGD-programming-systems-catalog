@@ -40,7 +40,7 @@ static feedback, style policy, defect prevention, and local/CI quality gates.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; License :: OSI Approved :: MIT License |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

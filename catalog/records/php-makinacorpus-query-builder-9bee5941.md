@@ -39,9 +39,9 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GPL-2 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-11 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-11", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-12 | `{"kind": "packagist_search_and_p2_api", "query": "mysql", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 
