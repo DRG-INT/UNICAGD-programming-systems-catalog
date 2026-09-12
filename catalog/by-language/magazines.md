@@ -1,6 +1,6 @@
 # Magazines
 
-Records: `340`
+Records: `341`
 
 ## Navigation
 
@@ -14,7 +14,7 @@ Records: `340`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1717)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1718)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6117)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -67,7 +67,7 @@ Records: `340`
 | [namilaR/OPEN-SOURCE-SOA-BASED-MIDDLEWARE-FRAMEWORK-FOR-CLASSIFIED-BASED-WEB-DEVELOPMENT](../records/magazines-namilar-open-source-soa-based-middleware-framework-for-classified-based-web-development-852462b4.md) | partial | 2017-07-02T11:57:59Z | registry-derived |
 | [sgermosen/xReader](../records/magazines-sgermosen-xreader-5a8bf3da.md) | partial | 2022-12-08T09:46:38Z | registry-derived |
 | [skerkour/markdown-ninja](../records/magazines-skerkour-markdown-ninja-d48946d3.md) | partial | 2026-07-09T16:21:37Z | registry-derived |
-| [TangSY/dailydawn](../records/magazines-tangsy-dailydawn-1123cfbc.md) | partial | 2026-09-02T03:44:32Z | registry-derived |
+| [TangSY/dailydawn](../records/magazines-tangsy-dailydawn-1123cfbc.md) | partial | 2026-09-12T03:52:28Z | registry-derived |
 | [yafira/tinytinker-tools](../records/magazines-yafira-tinytinker-tools-f0a7872d.md) | partial | 2026-06-17T23:10:09Z | registry-derived |
 | [zineland/zine](../records/magazines-zineland-zine-e845a0d6.md) | partial | 2023-07-04T16:57:45Z | registry-derived |
 
@@ -115,7 +115,7 @@ Records: `340`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [captbaritone/markdown.today](../records/magazines-captbaritone-markdown-today-03f4a57b.md) | partial | 2019-03-08T16:12:27Z | registry-derived |
-| [forwardemail/forwardemail.net](../records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) | partial | 2026-09-02T04:00:02Z | registry-derived |
+| [forwardemail/forwardemail.net](../records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) | partial | 2026-09-04T21:40:56Z | registry-derived |
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
@@ -172,6 +172,7 @@ Records: `340`
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-25e7f065.md) | partial | 2026-07-12T20:45:38Z | registry-derived |
 | [joergi/MagPiDownloader](../records/magazines-joergi-magpidownloader-67f8e42e.md) | partial | 2026-08-03T14:10:04Z | registry-derived |
 | [journiv/journiv-app](../records/magazines-journiv-journiv-app-b0d9c829.md) | partial | 2026-09-12T01:01:40Z | registry-derived |
+| [MillionSend/millionsend](../records/magazines-millionsend-millionsend-250e787c.md) | partial | 2026-09-12T02:35:48Z | registry-derived |
 | [moonlin1213/muted-zine-poster-v01](../records/magazines-moonlin1213-muted-zine-poster-v01-2cb732da.md) | partial | 2026-07-22T07:33:59Z | registry-derived |
 | [openjournals/jose-reviews](../records/magazines-openjournals-jose-reviews-2d87ccd9.md) | partial | 2026-06-12T03:20:37Z | registry-derived |
 | [openjournals/joss](../records/magazines-openjournals-joss-1c4447c8.md) | partial | 2026-09-10T11:25:07Z | registry-derived |
@@ -190,7 +191,7 @@ Records: `340`
 | [OS2World/DEV-SAMPLES-SOM-Students](../records/magazines-os2world-dev-samples-som-students-ec413d96.md) | partial | 2023-05-24T23:30:21Z | registry-derived |
 | [OS2World/DRV-HRTIMER](../records/magazines-os2world-drv-hrtimer-58f3acac.md) | partial | 2023-08-31T00:53:56Z | registry-derived |
 | [oskardudycz/ArchitectureWeekly](../records/magazines-oskardudycz-architectureweekly-33cb66f1.md) | partial | 2024-07-08T10:51:19Z | registry-derived |
-| [rust-osdev/homepage](../records/magazines-rust-osdev-homepage-c79e05e0.md) | partial | 2026-09-01T02:45:15Z | registry-derived |
+| [rust-osdev/homepage](../records/magazines-rust-osdev-homepage-c79e05e0.md) | partial | 2026-09-09T02:16:04Z | registry-derived |
 | [shenchangyi/photo-to-monthly-zine-postcard](../records/magazines-shenchangyi-photo-to-monthly-zine-postcard-53cc445a.md) | partial | 2026-08-14T09:15:42Z | registry-derived |
 | [songtianlun/diarum](../records/magazines-songtianlun-diarum-6ce1bdf0.md) | partial | 2026-08-04T05:10:54Z | registry-derived |
 | [spatie/Mailcoach](../records/magazines-spatie-mailcoach-b99f99d2.md) | partial | 2026-03-09T09:27:14Z | registry-derived |
@@ -200,12 +201,12 @@ Records: `340`
 | [TryGhost/Dawn](../records/magazines-tryghost-dawn-93a1bcb3.md) | partial | 2026-09-11T23:57:31Z | registry-derived |
 | [TryGhost/Dope](../records/magazines-tryghost-dope-8382f7e5.md) | partial | 2026-09-11T23:57:25Z | registry-derived |
 | [TryGhost/Edge](../records/magazines-tryghost-edge-c0002ec9.md) | partial | 2026-09-11T23:57:21Z | registry-derived |
-| [TryGhost/Edition](../records/magazines-tryghost-edition-30f487ea.md) | partial | 2026-09-01T15:21:37Z | registry-derived |
-| [TryGhost/Journal](../records/magazines-tryghost-journal-0be492cf.md) | partial | 2026-09-01T15:22:39Z | registry-derived |
+| [TryGhost/Edition](../records/magazines-tryghost-edition-30f487ea.md) | partial | 2026-09-11T23:57:22Z | registry-derived |
+| [TryGhost/Journal](../records/magazines-tryghost-journal-0be492cf.md) | partial | 2026-09-11T23:57:17Z | registry-derived |
 | [TryGhost/London](../records/magazines-tryghost-london-63cc3483.md) | partial | 2026-09-11T23:57:32Z | registry-derived |
 | [TryGhost/Massively](../records/magazines-tryghost-massively-26c36497.md) | partial | 2026-09-11T23:40:34Z | registry-derived |
 | [TryGhost/Source](../records/magazines-tryghost-source-8e1152fe.md) | partial | 2026-09-11T23:34:55Z | registry-derived |
-| [TryGhost/Themes](../records/magazines-tryghost-themes-8b8724da.md) | partial | 2026-09-01T15:18:30Z | registry-derived |
+| [TryGhost/Themes](../records/magazines-tryghost-themes-8b8724da.md) | partial | 2026-09-11T23:56:33Z | registry-derived |
 | [unkn0w/disposable-email-domain-list](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) | partial | 2026-07-27T07:07:18Z | registry-derived |
 
 ### Formatter
@@ -231,7 +232,7 @@ Records: `340`
 | [Baroshem/nuxt-newsletter](../records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) | partial | 2023-04-23T21:25:37Z | registry-derived |
 | [braziljs/weekly](../records/magazines-braziljs-weekly-013dd57e.md) | partial | 2021-06-01T12:00:22Z | registry-derived |
 | [business-science/free_r_tips](../records/magazines-business-science-free-r-tips-64f5375c.md) | partial | 2024-11-17T13:36:53Z | registry-derived |
-| [chinesehuazhou/python-weekly](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) | partial | 2026-09-05T13:03:47Z | registry-derived |
+| [chinesehuazhou/python-weekly](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) | partial | 2026-09-12T12:43:40Z | registry-derived |
 | [cidrblock/home_journal](../records/magazines-cidrblock-home-journal-93cc07dc.md) | partial | 2026-09-07T17:14:14Z | registry-derived |
 | [fdavies93/daily-notes.nvim](../records/magazines-fdavies93-daily-notes-nvim-25a17308.md) | partial | 2026-02-22T08:32:10Z | registry-derived |
 | [ink7011/zine-composition-beauty](../records/magazines-ink7011-zine-composition-beauty-cff0eb0f.md) | partial | 2026-08-08T15:22:51Z | registry-derived |
@@ -266,7 +267,7 @@ Records: `340`
 | [Aryia-Behroziuan/Other-sources](../records/magazines-aryia-behroziuan-other-sources-4fbf9749.md) | partial | 2020-10-28T18:04:43Z | registry-derived |
 | [Aryia-Behroziuan/References](../records/magazines-aryia-behroziuan-references-f63a5617.md) | partial | 2022-09-02T16:06:15Z | registry-derived |
 | [bermufine/dcmp](../records/magazines-bermufine-dcmp-7dbdeb3d.md) | partial | 2022-03-10T03:00:15Z | registry-derived |
-| [haskellweekly/haskellweekly](../records/magazines-haskellweekly-haskellweekly-2d16522a.md) | partial | 2026-08-27T11:26:08Z | registry-derived |
+| [haskellweekly/haskellweekly](../records/magazines-haskellweekly-haskellweekly-2d16522a.md) | partial | 2026-09-10T11:17:15Z | registry-derived |
 | [haskellweekly/haskellweekly.github.io](../records/magazines-haskellweekly-haskellweekly-github-io-889fd571.md) | partial | 2019-10-16T02:20:59Z | registry-derived |
 | [ikoanti/LLMs.txt-News-Blog-AI-Inspector](../records/magazines-ikoanti-llms-txt-news-blog-ai-inspector-a0fb994d.md) | partial | 2026-06-23T06:06:09Z | registry-derived |
 | [iwasakishuto/Translation-Gummy](../records/magazines-iwasakishuto-translation-gummy-b98e5037.md) | partial | 2023-04-24T15:46:05Z | registry-derived |
@@ -284,7 +285,7 @@ Records: `340`
 | [berrysauce/microletter](../records/magazines-berrysauce-microletter-edb280fb.md) | partial | 2022-12-06T16:41:48Z | registry-derived |
 | [bestxtools/weekly-cn](../records/magazines-bestxtools-weekly-cn-0e05b725.md) | partial | 2023-04-21T00:39:48Z | registry-derived |
 | [chunfeilung/bonaparticle](../records/magazines-chunfeilung-bonaparticle-41052ee7.md) | partial | 2020-01-26T12:36:46Z | registry-derived |
-| [consoledotdev/home](../records/magazines-consoledotdev-home-c006fbdc.md) | partial | 2026-08-24T01:23:29Z | registry-derived |
+| [consoledotdev/home](../records/magazines-consoledotdev-home-c006fbdc.md) | partial | 2026-09-07T01:23:56Z | registry-derived |
 | [data-is-plural/newsletter-archive](../records/magazines-data-is-plural-newsletter-archive-9aa39972.md) | partial | 2026-04-21T22:12:37Z | registry-derived |
 | [fcakyon/phd-skills](../records/magazines-fcakyon-phd-skills-27e097a7.md) | partial | 2026-07-03T12:57:37Z | registry-derived |
 | [garrrikkotua/morningly](../records/magazines-garrrikkotua-morningly-39d4abf3.md) | partial | 2023-07-26T10:37:40Z | registry-derived |
@@ -320,7 +321,7 @@ Records: `340`
 | [TomBener/stay-away-from-wechat](../records/magazines-tombener-stay-away-from-wechat-1558b5c8.md) | partial | 2023-05-02T11:07:14Z | registry-derived |
 | [triforkams/sdj-angular-article](../records/magazines-triforkams-sdj-angular-article-2bad380f.md) | partial | 2013-09-11T12:31:29Z | registry-derived |
 | [ts-backend-meetup-ts/meetup](../records/magazines-ts-backend-meetup-ts-meetup-05df58f1.md) | partial | 2026-06-26T12:06:49Z | registry-derived |
-| [unkn0w/unknownews](../records/magazines-unkn0w-unknownews-59a85c8f.md) | partial | 2026-08-28T08:37:54Z | registry-derived |
+| [unkn0w/unknownews](../records/magazines-unkn0w-unknownews-59a85c8f.md) | partial | 2026-09-11T08:43:59Z | registry-derived |
 | [victornnaji/HacktoberMagazine](../records/magazines-victornnaji-hacktobermagazine-6d3d065f.md) | partial | 2024-04-22T11:59:17Z | registry-derived |
 | [vishaltelangre/wassup](../records/magazines-vishaltelangre-wassup-bfff1801.md) | partial | 2023-01-05T03:58:49Z | registry-derived |
 | [Vkiselev1984/brandMagazine](../records/magazines-vkiselev1984-brandmagazine-5861e615.md) | partial | 2025-05-13T22:19:03Z | registry-derived |
@@ -339,7 +340,7 @@ Records: `340`
 | [GauthierNelkinsky/ShipShipShip](../records/magazines-gauthiernelkinsky-shipshipship-7babedc1.md) | partial | 2026-02-18T10:20:53Z | registry-derived |
 | [logog782-cmyk/linkly-quote-cards](../records/magazines-logog782-cmyk-linkly-quote-cards-6f7b079d.md) | partial | 2026-09-01T05:42:07Z | registry-derived |
 | [lukebarnard1/journal](../records/magazines-lukebarnard1-journal-97ed34c0.md) | partial | 2020-03-13T21:18:56Z | registry-derived |
-| [mkiser/WTFJHT](../records/magazines-mkiser-wtfjht-b71d6874.md) | partial | 2026-09-02T06:33:17Z | registry-derived |
+| [mkiser/WTFJHT](../records/magazines-mkiser-wtfjht-b71d6874.md) | partial | 2026-09-12T06:35:14Z | registry-derived |
 | [pentix/qjournalctl](../records/magazines-pentix-qjournalctl-c3bf77ef.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [PostOwl/postowl](../records/magazines-postowl-postowl-41c9b3d1.md) | partial | 2026-02-19T20:38:09Z | registry-derived |
 | [saschagrunert/git-journal](../records/magazines-saschagrunert-git-journal-fd814c94.md) | partial | 2023-01-20T23:42:33Z | registry-derived |
@@ -350,8 +351,8 @@ Records: `340`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [agnitas-org/openemm](../records/magazines-agnitas-org-openemm-fcd3cf07.md) | partial | 2026-09-02T07:48:04Z | registry-derived |
-| [alaskasquirrel/Email-newsletter-RSS](../records/magazines-alaskasquirrel-email-newsletter-rss-42168746.md) | partial | 2023-11-30T11:03:10Z | registry-derived |
+| [agnitas-org/openemm](../records/magazines-agnitas-org-openemm-fcd3cf07.md) | partial | 2026-09-10T09:24:18Z | registry-derived |
+| [alaskasquirrel/Email-newsletter-RSS](../records/magazines-alaskasquirrel-email-newsletter-rss-42168746.md) | partial | 2026-09-05T16:07:34Z | registry-derived |
 | [alternbits/awesome-ai-newsletters](../records/magazines-alternbits-awesome-ai-newsletters-f1aa7990.md) | partial | 2026-07-04T16:36:09Z | registry-derived |
 | [beamlegacy/beam](../records/magazines-beamlegacy-beam-ac4be0ee.md) | partial | 2026-04-10T15:09:01Z | registry-derived |
 | [Demizo/Daily_You](../records/magazines-demizo-daily-you-9bfe8439.md) | partial | 2026-09-12T16:03:01Z | registry-derived |
@@ -360,12 +361,12 @@ Records: `340`
 | [ElliotKillick/rss2newsletter](../records/magazines-elliotkillick-rss2newsletter-2594c02c.md) | partial | 2024-08-17T08:14:27Z | registry-derived |
 | [fcakyon/phd-skills](../records/magazines-fcakyon-phd-skills-152d55ed.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [imsoumya18/upsc_bot](../records/magazines-imsoumya18-upsc-bot-45ae1b79.md) | partial | 2024-03-07T03:20:59Z | registry-derived |
-| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-06T09:59:27Z | registry-derived |
+| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-12T09:51:54Z | registry-derived |
 | [kujian/frontendDaily](../records/magazines-kujian-frontenddaily-cd11d2ae.md) | partial | 2026-08-11T13:28:03Z | registry-derived |
 | [mindori/linkpress](../records/magazines-mindori-linkpress-ed13907c.md) | partial | 2026-02-01T17:56:40Z | registry-derived |
 | [OutreachStud-io/studio](../records/magazines-outreachstud-io-studio-9a231d39.md) | partial | 2026-08-28T22:59:22Z | registry-derived |
 | [phpList/phplist3](../records/magazines-phplist-phplist3-2541a7c7.md) | partial | 2026-08-16T10:49:51Z | registry-derived |
-| [putyourlightson/craft-campaign](../records/magazines-putyourlightson-craft-campaign-2bf1cbbc.md) | partial | 2026-09-02T12:59:40Z | registry-derived |
+| [putyourlightson/craft-campaign](../records/magazines-putyourlightson-craft-campaign-2bf1cbbc.md) | partial | 2026-09-06T10:56:10Z | registry-derived |
 | [Shangjin-Xiao/ThoughtEcho](../records/magazines-shangjin-xiao-thoughtecho-de4c39d7.md) | partial | 2026-09-12T11:09:11Z | registry-derived |
 
 ### Math Numeric Scientific
@@ -407,7 +408,7 @@ Records: `340`
 | [2KAbhishek/tdo](../records/magazines-2kabhishek-tdo-3992095c.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [ajaymnk/open-electronics](../records/magazines-ajaymnk-open-electronics-d823069e.md) | partial | 2024-12-22T18:40:08Z | registry-derived |
 | [collective/icalendar](../records/magazines-collective-icalendar-8d6e8512.md) | partial | 2026-09-10T19:14:59Z | registry-derived |
-| [FiltersHeroes/PolishAnnoyanceFilters](../records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) | partial | 2026-09-02T10:25:34Z | registry-derived |
+| [FiltersHeroes/PolishAnnoyanceFilters](../records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) | partial | 2026-09-12T21:57:02Z | registry-derived |
 | [Ha0Tang/HandGestureRecognition](../records/magazines-ha0tang-handgesturerecognition-16d2c54b.md) | partial | 2021-07-25T07:22:18Z | registry-derived |
 | [mat-nolen/tldr-radio](../records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) | partial | 2026-08-29T22:50:47Z | registry-derived |
 | [mnayef95/Android-Weekly](../records/magazines-mnayef95-android-weekly-9281b694.md) | partial | 2019-12-14T19:55:51Z | registry-derived |
@@ -511,9 +512,9 @@ Records: `340`
 | [jabbalaci/Linux-Voice-issues](../records/magazines-jabbalaci-linux-voice-issues-a36759b2.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [JacobEvelyn/friends](../records/magazines-jacobevelyn-friends-2a09eafd.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lokeshreddy007/freedom-of-education](../records/magazines-lokeshreddy007-freedom-of-education-1e75f90b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [ma2za/python-substack](../records/magazines-ma2za-python-substack-1a850e06.md) | partial | 2026-08-30T21:47:34Z | registry-derived |
+| [ma2za/python-substack](../records/magazines-ma2za-python-substack-1a850e06.md) | partial | 2026-09-11T12:24:02Z | registry-derived |
 | [MagazineduWebdesign/MagazineduWebdesign.github.io](../records/magazines-magazineduwebdesign-magazineduwebdesign-github-io-b16a7ce8.md) | partial | 2018-07-17T12:34:43Z | registry-derived |
-| [marcomoauro/substack-mcp](../records/magazines-marcomoauro-substack-mcp-6ff94f70.md) | partial | 2026-08-29T09:02:39Z | registry-derived |
+| [marcomoauro/substack-mcp](../records/magazines-marcomoauro-substack-mcp-6ff94f70.md) | partial | 2026-09-03T13:54:32Z | registry-derived |
 | [mollerse/frp-article](../records/magazines-mollerse-frp-article-64784a13.md) | partial | 2014-02-14T10:41:15Z | registry-derived |
 | [NathanGeerinck/laravel-newsletter](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) | partial | 2018-09-26T13:41:42Z | registry-derived |
 | [ningoink/open-source-magazine](../records/magazines-ningoink-open-source-magazine-9862f636.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -526,7 +527,7 @@ Records: `340`
 | [Sandglaz/maktoub](../records/magazines-sandglaz-maktoub-4bc281dd.md) | partial | 2023-01-19T11:17:45Z | registry-derived |
 | [SrirangaDigital/gipa](../records/magazines-srirangadigital-gipa-be5566ac.md) | partial | 2024-06-06T09:31:07Z | registry-derived |
 | [stefanbc/Asgar](../records/magazines-stefanbc-asgar-0b7791d7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-07T05:00:08Z | registry-derived |
+| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-12T18:33:28Z | registry-derived |
 | [superleeyom/my-feed-OPML](../records/magazines-superleeyom-my-feed-opml-7829b043.md) | partial | 2023-05-24T01:44:56Z | registry-derived |
 | [SwiftWeekly/swiftweekly.github.io](../records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) | partial | 2023-03-26T17:24:38Z | registry-derived |
 | [TryGhost/Alto](../records/magazines-tryghost-alto-4eb3cc9f.md) | unknown | github_search_does_not_include_release_date | registry-derived |

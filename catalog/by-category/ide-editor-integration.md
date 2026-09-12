@@ -14,7 +14,7 @@ Records: `1515`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -694,11 +694,11 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T21:11:50Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T22:17:01Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T21:08:12Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-12T21:08:25Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-12T22:05:58Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1518,7 +1518,7 @@ Records: `1515`
 | Baroshem/nuxt-newsletter | partial | 2023-04-23T21:25:37Z | [open](../records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
 | braziljs/weekly | partial | 2021-06-01T12:00:22Z | [open](../records/magazines-braziljs-weekly-013dd57e.md) |
 | business-science/free_r_tips | partial | 2024-11-17T13:36:53Z | [open](../records/magazines-business-science-free-r-tips-64f5375c.md) |
-| chinesehuazhou/python-weekly | partial | 2026-09-05T13:03:47Z | [open](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) |
+| chinesehuazhou/python-weekly | partial | 2026-09-12T12:43:40Z | [open](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) |
 | cidrblock/home_journal | partial | 2026-09-07T17:14:14Z | [open](../records/magazines-cidrblock-home-journal-93cc07dc.md) |
 | fdavies93/daily-notes.nvim | partial | 2026-02-22T08:32:10Z | [open](../records/magazines-fdavies93-daily-notes-nvim-25a17308.md) |
 | ink7011/zine-composition-beauty | partial | 2026-08-08T15:22:51Z | [open](../records/magazines-ink7011-zine-composition-beauty-cff0eb0f.md) |
@@ -1734,7 +1734,7 @@ Records: `1515`
 | DataGrip | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datagrip-eadfb401.md) |
 | DBConvert Streams | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbconvert-streams-c7b82bda.md) |
 | dbForge Edge | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbforge-edge-707600a6.md) |
-| drawdb-io/drawdb | partial | 2026-09-11T16:03:51Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
+| drawdb-io/drawdb | partial | 2026-09-12T11:42:38Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
 | dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | ebogdum/callfs | partial | 2026-09-05T07:32:30Z | [open](../records/databases-ebogdum-callfs-c43437b9.md) |
 | facebook/rocksdb | partial | 2026-09-11T23:41:37Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |

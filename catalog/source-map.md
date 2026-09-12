@@ -10,7 +10,7 @@
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1717)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1718)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6117)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -11188,6 +11188,7 @@
 | `github_search_magazines-51b052ade61923` | focu-app/focu | [open](records/magazines-focu-app-focu-4e0f2764.md) |
 | `github_search_magazines-53c7c170293828` | TryGhost/Ruby | [open](records/magazines-tryghost-ruby-e22f8483.md) |
 | `github_search_magazines-54ca654d717fac` | OS2World/DEV-SAMPLES-C-PM-edctl1 | [open](records/magazines-os2world-dev-samples-c-pm-edctl1-621e7007.md) |
+| `github_search_magazines-55009c76ea49e4` | MillionSend/millionsend | [open](records/magazines-millionsend-millionsend-250e787c.md) |
 | `github_search_magazines-558f6c9898415b` | iOS-Goodies/iOS-Goodies | [open](records/magazines-ios-goodies-ios-goodies-158d5e0d.md) |
 | `github_search_magazines-569f960dc7774a` | systemd/systemd-netlogd | [open](records/magazines-systemd-systemd-netlogd-8b0a1dd3.md) |
 | `github_search_magazines-598035ac408678` | FRNT-dev/FRNT | [open](records/magazines-frnt-dev-frnt-b937225f.md) |

@@ -14,7 +14,7 @@ Records: `864`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -530,9 +530,9 @@ Records: `864`
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
 | NousResearch/hermes-agent | partial | 2026-09-12T21:08:33Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
-| open-webui/open-webui | partial | 2026-09-12T21:19:10Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
+| open-webui/open-webui | partial | 2026-09-12T22:16:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-12T21:05:57Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-12T22:13:58Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -542,7 +542,7 @@ Records: `864`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-12T14:23:18Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-12T22:08:56Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-12T19:11:35Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -975,8 +975,8 @@ Records: `864`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| agnitas-org/openemm | partial | 2026-09-02T07:48:04Z | [open](../records/magazines-agnitas-org-openemm-fcd3cf07.md) |
-| alaskasquirrel/Email-newsletter-RSS | partial | 2023-11-30T11:03:10Z | [open](../records/magazines-alaskasquirrel-email-newsletter-rss-42168746.md) |
+| agnitas-org/openemm | partial | 2026-09-10T09:24:18Z | [open](../records/magazines-agnitas-org-openemm-fcd3cf07.md) |
+| alaskasquirrel/Email-newsletter-RSS | partial | 2026-09-05T16:07:34Z | [open](../records/magazines-alaskasquirrel-email-newsletter-rss-42168746.md) |
 | alternbits/awesome-ai-newsletters | partial | 2026-07-04T16:36:09Z | [open](../records/magazines-alternbits-awesome-ai-newsletters-f1aa7990.md) |
 | beamlegacy/beam | partial | 2026-04-10T15:09:01Z | [open](../records/magazines-beamlegacy-beam-ac4be0ee.md) |
 | Demizo/Daily_You | partial | 2026-09-12T16:03:01Z | [open](../records/magazines-demizo-daily-you-9bfe8439.md) |
@@ -985,12 +985,12 @@ Records: `864`
 | ElliotKillick/rss2newsletter | partial | 2024-08-17T08:14:27Z | [open](../records/magazines-elliotkillick-rss2newsletter-2594c02c.md) |
 | fcakyon/phd-skills | unknown | github_search_does_not_include_release_date | [open](../records/magazines-fcakyon-phd-skills-152d55ed.md) |
 | imsoumya18/upsc_bot | partial | 2024-03-07T03:20:59Z | [open](../records/magazines-imsoumya18-upsc-bot-45ae1b79.md) |
-| kotlin-digest/weekly | partial | 2026-09-06T09:59:27Z | [open](../records/magazines-kotlin-digest-weekly-a20aa634.md) |
+| kotlin-digest/weekly | partial | 2026-09-12T09:51:54Z | [open](../records/magazines-kotlin-digest-weekly-a20aa634.md) |
 | kujian/frontendDaily | partial | 2026-08-11T13:28:03Z | [open](../records/magazines-kujian-frontenddaily-cd11d2ae.md) |
 | mindori/linkpress | partial | 2026-02-01T17:56:40Z | [open](../records/magazines-mindori-linkpress-ed13907c.md) |
 | OutreachStud-io/studio | partial | 2026-08-28T22:59:22Z | [open](../records/magazines-outreachstud-io-studio-9a231d39.md) |
 | phpList/phplist3 | partial | 2026-08-16T10:49:51Z | [open](../records/magazines-phplist-phplist3-2541a7c7.md) |
-| putyourlightson/craft-campaign | partial | 2026-09-02T12:59:40Z | [open](../records/magazines-putyourlightson-craft-campaign-2bf1cbbc.md) |
+| putyourlightson/craft-campaign | partial | 2026-09-06T10:56:10Z | [open](../records/magazines-putyourlightson-craft-campaign-2bf1cbbc.md) |
 | Shangjin-Xiao/ThoughtEcho | partial | 2026-09-12T11:09:11Z | [open](../records/magazines-shangjin-xiao-thoughtecho-de4c39d7.md) |
 
 ## Assembly
@@ -999,7 +999,7 @@ Records: `864`
 | --- | --- | --- | --- |
 | Chris1sFlaggin/LCSAJdump | partial | 2026-06-22T08:17:14Z | [open](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) |
 | coderaiser/nemesis | partial | 2026-02-08T13:40:01Z | [open](../records/assembly-coderaiser-nemesis-87becb25.md) |
-| gbdev/rgbds | partial | 2026-09-12T19:58:00Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| gbdev/rgbds | partial | 2026-09-12T21:58:37Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
 | giacomo-folli/asmlings | partial | 2026-07-22T12:52:18Z | [open](../records/assembly-giacomo-folli-asmlings-14c668aa.md) |
 | jishanshaikh4/8086-cheatsheet | partial | 2022-10-02T05:33:54Z | [open](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | NtRaiseHardError/Reverse-Engineering-101 | partial | 2019-06-02T00:50:14Z | [open](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) |

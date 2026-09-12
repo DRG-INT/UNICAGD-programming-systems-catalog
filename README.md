@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-12T21:21:34+00:00`
+Generated: `2026-09-12T22:20:39+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -20,7 +20,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Concurrency Parallelism (95)](catalog/by-category/concurrency-parallelism.md) · [Configuration (141)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
 [Cryptography (183)](catalog/by-category/cryptography.md) · [Data Science (40)](catalog/by-category/data-science.md) · [Database Datastore (981)](catalog/by-category/database-datastore.md) · [Datetime (254)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (45)](catalog/by-category/debugger.md) · [Dependency Manager (110)](catalog/by-category/dependency-manager.md) · [Documentation (115)](catalog/by-category/documentation.md)
-[Embedded Hardware (68)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (487)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1717)](catalog/by-category/filesystem-os.md) · [Formatter (670)](catalog/by-category/formatter.md)
+[Embedded Hardware (68)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (487)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1718)](catalog/by-category/filesystem-os.md) · [Formatter (670)](catalog/by-category/formatter.md)
 [Framework (64)](catalog/by-category/framework.md) · [Fuzzer (63)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (377)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (289)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
 [Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1471)](catalog/by-category/language-specification.md) · [Library (6117)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29141 |
+| Canonical identity pages | 29142 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10891 |
-| Unknown stable release fields | 18250 |
-| Fetch errors recorded | 1029 |
+| Unknown stable release fields | 18251 |
+| Fetch errors recorded | 1032 |
 | Target identity count | 24000 |
 
 ## Language Scope

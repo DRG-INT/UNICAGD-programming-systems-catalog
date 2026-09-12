@@ -14,7 +14,7 @@ Records: `183`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 **[Cryptography (183)](cryptography.md)** · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -299,7 +299,7 @@ Records: `183`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | captbaritone/markdown.today | partial | 2019-03-08T16:12:27Z | [open](../records/magazines-captbaritone-markdown-today-03f4a57b.md) |
-| forwardemail/forwardemail.net | partial | 2026-09-02T04:00:02Z | [open](../records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) |
+| forwardemail/forwardemail.net | partial | 2026-09-04T21:40:56Z | [open](../records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) |
 | hashirshoaeb/star_book | partial | 2025-05-29T09:00:13Z | [open](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) |
 | jendrikseipp/rednotebook | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
 | lunatask/lunatask | partial | 2026-06-10T21:01:27Z | [open](../records/magazines-lunatask-lunatask-2f6be720.md) |

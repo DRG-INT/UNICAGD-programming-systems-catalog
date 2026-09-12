@@ -14,7 +14,7 @@ Records: `1665`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -1679,9 +1679,9 @@ Records: `1665`
 | jabbalaci/Linux-Voice-issues | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jabbalaci-linux-voice-issues-a36759b2.md) |
 | JacobEvelyn/friends | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jacobevelyn-friends-2a09eafd.md) |
 | lokeshreddy007/freedom-of-education | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lokeshreddy007-freedom-of-education-1e75f90b.md) |
-| ma2za/python-substack | partial | 2026-08-30T21:47:34Z | [open](../records/magazines-ma2za-python-substack-1a850e06.md) |
+| ma2za/python-substack | partial | 2026-09-11T12:24:02Z | [open](../records/magazines-ma2za-python-substack-1a850e06.md) |
 | MagazineduWebdesign/MagazineduWebdesign.github.io | partial | 2018-07-17T12:34:43Z | [open](../records/magazines-magazineduwebdesign-magazineduwebdesign-github-io-b16a7ce8.md) |
-| marcomoauro/substack-mcp | partial | 2026-08-29T09:02:39Z | [open](../records/magazines-marcomoauro-substack-mcp-6ff94f70.md) |
+| marcomoauro/substack-mcp | partial | 2026-09-03T13:54:32Z | [open](../records/magazines-marcomoauro-substack-mcp-6ff94f70.md) |
 | mollerse/frp-article | partial | 2014-02-14T10:41:15Z | [open](../records/magazines-mollerse-frp-article-64784a13.md) |
 | NathanGeerinck/laravel-newsletter | partial | 2018-09-26T13:41:42Z | [open](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
@@ -1694,7 +1694,7 @@ Records: `1665`
 | Sandglaz/maktoub | partial | 2023-01-19T11:17:45Z | [open](../records/magazines-sandglaz-maktoub-4bc281dd.md) |
 | SrirangaDigital/gipa | partial | 2024-06-06T09:31:07Z | [open](../records/magazines-srirangadigital-gipa-be5566ac.md) |
 | stefanbc/Asgar | unknown | github_search_does_not_include_release_date | [open](../records/magazines-stefanbc-asgar-0b7791d7.md) |
-| stlin256/OpenHomepage-V2 | partial | 2026-09-07T05:00:08Z | [open](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) |
+| stlin256/OpenHomepage-V2 | partial | 2026-09-12T18:33:28Z | [open](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) |
 | superleeyom/my-feed-OPML | partial | 2023-05-24T01:44:56Z | [open](../records/magazines-superleeyom-my-feed-opml-7829b043.md) |
 | SwiftWeekly/swiftweekly.github.io | partial | 2023-03-26T17:24:38Z | [open](../records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) |
 | TryGhost/Alto | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-alto-4eb3cc9f.md) |

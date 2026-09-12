@@ -14,7 +14,7 @@ Records: `558`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -733,7 +733,7 @@ Records: `558`
 | GauthierNelkinsky/ShipShipShip | partial | 2026-02-18T10:20:53Z | [open](../records/magazines-gauthiernelkinsky-shipshipship-7babedc1.md) |
 | logog782-cmyk/linkly-quote-cards | partial | 2026-09-01T05:42:07Z | [open](../records/magazines-logog782-cmyk-linkly-quote-cards-6f7b079d.md) |
 | lukebarnard1/journal | partial | 2020-03-13T21:18:56Z | [open](../records/magazines-lukebarnard1-journal-97ed34c0.md) |
-| mkiser/WTFJHT | partial | 2026-09-02T06:33:17Z | [open](../records/magazines-mkiser-wtfjht-b71d6874.md) |
+| mkiser/WTFJHT | partial | 2026-09-12T06:35:14Z | [open](../records/magazines-mkiser-wtfjht-b71d6874.md) |
 | pentix/qjournalctl | unknown | github_search_does_not_include_release_date | [open](../records/magazines-pentix-qjournalctl-c3bf77ef.md) |
 | PostOwl/postowl | partial | 2026-02-19T20:38:09Z | [open](../records/magazines-postowl-postowl-41c9b3d1.md) |
 | saschagrunert/git-journal | partial | 2023-01-20T23:42:33Z | [open](../records/magazines-saschagrunert-git-journal-fd814c94.md) |
