@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-12T02:24:41+00:00`
+Generated: `2026-09-12T03:22:14+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -12,11 +12,11 @@ Generated: `2026-09-12T02:24:41+00:00`
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1702)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1703)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6088)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (551)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -42,7 +42,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
-| Dart | 765 | 765 | [Dart](by-language/dart.md) |
+| Dart | 766 | 766 | [Dart](by-language/dart.md) |
 | Go | 1052 | 424 | [Go](by-language/go.md) |
 | Starlark | 69 | 0 | [Starlark](by-language/starlark.md) |
 | Basilisk | 37 | 0 | [Basilisk](by-language/basilisk.md) |
@@ -73,7 +73,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | SatCom Satellites | 326 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 499 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
 | Radio Garden Speciality | 129 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
-| Repertoare Catalogs | 191 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
+| Repertoare Catalogs | 192 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
 | Catalogs | 285 | 0 | [Catalogs](by-language/catalogs.md) |
 | Magazines | 311 | 0 | [Magazines](by-language/magazines.md) |
 | Hubs | 15 | 0 | [Hubs](by-language/hubs.md) |
@@ -118,7 +118,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | Documentation | 115 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 68 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 486 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1702 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1703 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 667 | [formatter](by-category/formatter.md) |
 | Framework | 64 | [framework](by-category/framework.md) |
 | Fuzzer | 63 | [fuzzer](by-category/fuzzer.md) |
@@ -134,7 +134,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 51 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 350 | [linter](by-category/linter.md) |
-| Logging Observability | 551 | [logging_observability](by-category/logging-observability.md) |
+| Logging Observability | 552 | [logging_observability](by-category/logging-observability.md) |
 | Machine Learning | 855 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 97 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 102 | [memory_analyzer](by-category/memory-analyzer.md) |
@@ -179,7 +179,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
-| Dart | 765 | 0 |
+| Dart | 766 | 0 |
 | Go | 424 | 628 |
 | Starlark | 0 | 69 |
 | Basilisk | 0 | 37 |
@@ -210,7 +210,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | SatCom Satellites | 0 | 326 |
 | Electromagnetoscopes | 0 | 499 |
 | Radio Garden Speciality | 0 | 129 |
-| Repertoare Catalogs | 0 | 191 |
+| Repertoare Catalogs | 0 | 192 |
 | Catalogs | 0 | 285 |
 | Magazines | 0 | 311 |
 | Hubs | 0 | 15 |

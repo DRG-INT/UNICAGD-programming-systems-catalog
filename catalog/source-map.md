@@ -10,11 +10,11 @@
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1702)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1703)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6088)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (551)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -13933,6 +13933,7 @@
 | `github_search_repertoare_catalogs-419a9b1988a1f4` | farhaouiayoub/Flask-Mini-Projects-Collection | [open](records/repertoare-catalogs-farhaouiayoub-flask-mini-projects-collection-ea725ae4.md) |
 | `github_search_repertoare_catalogs-43ec379c7ee5d2` | KyonTanaka/yagni-auditor | [open](records/repertoare-catalogs-kyontanaka-yagni-auditor-da95753d.md) |
 | `github_search_repertoare_catalogs-45c495096a735a` | Villebon-Sur-Yvette/Projet-catalogue-PHP | [open](records/repertoare-catalogs-villebon-sur-yvette-projet-catalogue-php-72449ffe.md) |
+| `github_search_repertoare_catalogs-45f2adf1115bea` | finnpetersson01/AI-readiness-assessment | [open](records/repertoare-catalogs-finnpetersson01-ai-readiness-assessment-191b72c4.md) |
 | `github_search_repertoare_catalogs-46ea3f9d93cff1` | seliatis/repertoire_de_collection | [open](records/repertoare-catalogs-seliatis-repertoire-de-collection-a4e9b585.md) |
 | `github_search_repertoare_catalogs-48a487029ccf05` | abhiramAjay/Self-Healing-Repertoire-Engine | [open](records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) |
 | `github_search_repertoare_catalogs-48b8543c80499d` | jacekiwaszko1/ad-aequales | [open](records/repertoare-catalogs-jacekiwaszko1-ad-aequales-c5a444ba.md) |
@@ -28420,6 +28421,7 @@
 | `pub_dev-d06c231494fcd3` | showcaseview | [open](records/dart-showcaseview-0f397506.md) |
 | `pub_dev-d0a7c06da993bd` | syncfusion_flutter_core | [open](records/dart-syncfusion-flutter-core-028b51a1.md) |
 | `pub_dev-d105283c5f5ec6` | flutter_gemma | [open](records/dart-flutter-gemma-9a6dbd9b.md) |
+| `pub_dev-d11697ab8d55df` | liquid_glass_easy | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
 | `pub_dev-d11ccd38c50b2c` | webview_flutter_plus | [open](records/dart-webview-flutter-plus-cc041bef.md) |
 | `pub_dev-d18689044b4246` | inview_notifier_list | [open](records/dart-inview-notifier-list-35c6c1d7.md) |
 | `pub_dev-d1ab9638e52e4e` | flutter_modular | [open](records/dart-flutter-modular-3b75173e.md) |

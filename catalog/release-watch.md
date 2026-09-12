@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T02:24:41+00:00`
+Generated: `2026-09-12T03:22:14+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,11 +12,11 @@ Generated: `2026-09-12T02:24:41+00:00`
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1702)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1703)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6088)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (551)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
@@ -28,8 +28,8 @@ Generated: `2026-09-12T02:24:41+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10820 |
-| Unknown stable release | 18195 |
+| Known stable release | 10821 |
+| Unknown stable release | 18196 |
 
 ## Newest Known Stable Metadata
 
@@ -39,6 +39,7 @@ Generated: `2026-09-12T02:24:41+00:00`
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.8.0 | 2026-09-12T02:14:03.891Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
 | RIFanalysis | R | Static Analyzer | 0.9.3 | 2026-09-12 00:10:02 UTC | [open](records/r-rifanalysis-8f1ffcb3.md) |
 | cxx | Rust | Interop Bindings | 1.0.201 | 2026-09-11T22:05:42.819165Z | [open](records/rust-cxx-8005ea19.md) |
 | cxxbridge-macro | Rust | Machine Learning | 1.0.201 | 2026-09-11T22:05:36.626671Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
@@ -284,13 +285,12 @@ Generated: `2026-09-12T02:24:41+00:00`
 | camera_android_camerax | Dart | Library | 0.7.4+8 | 2026-09-10T18:28:08.924418Z | [open](records/dart-camera-android-camerax-5a28610b.md) |
 | @tanstack/react-start-rsc | Node.js/JavaScript | Web Framework | 0.1.51 | 2026-09-10T18:18:52.692Z | [open](records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | @cubejs-backend/redshift-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.37 | 2026-09-10T18:18:36.792Z | [open](records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
-| @cubejs-backend/athena-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.37 | 2026-09-10T18:16:24.712Z | [open](records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10542 |
+| gh_search_reports_activity_not_release_version | 10543 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
