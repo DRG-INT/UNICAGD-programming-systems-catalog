@@ -9,7 +9,7 @@ Records: `1663`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
@@ -18,11 +18,11 @@ Records: `1663`
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 **[Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -1763,15 +1763,15 @@ Records: `1663`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | artichoke/artichoke | partial | 2025-11-03T02:43:08Z | [open](../records/webassembly-artichoke-artichoke-7b7d01c0.md) |
-| cncf/landscape | partial | 2026-09-11T18:00:40Z | [open](../records/webassembly-cncf-landscape-9846f9fa.md) |
+| cncf/landscape | partial | 2026-09-11T22:59:05Z | [open](../records/webassembly-cncf-landscape-9846f9fa.md) |
 | deislabs/containerd-wasm-shims | partial | 2024-06-21T22:44:04Z | [open](../records/webassembly-deislabs-containerd-wasm-shims-81ef9764.md) |
 | GitHub | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-github-2fedb258.md) |
 | johnthagen/min-sized-rust | partial | 2025-10-03T10:20:49Z | [open](../records/webassembly-johnthagen-min-sized-rust-99ad1257.md) |
 | krustlet/krustlet | partial | 2023-10-02T18:41:06Z | [open](../records/webassembly-krustlet-krustlet-5b1ab0fb.md) |
 | meshery/meshery | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-meshery-meshery-7b46f863.md) |
-| radzenhq/radzen-blazor | partial | 2026-09-11T15:30:33Z | [open](../records/webassembly-radzenhq-radzen-blazor-9ec846fe.md) |
+| radzenhq/radzen-blazor | partial | 2026-09-12T08:28:22Z | [open](../records/webassembly-radzenhq-radzen-blazor-9ec846fe.md) |
 | rollup/rollup-plugin-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rollup-rollup-plugin-wasm-0bbe45cd.md) |
-| ruby/ruby.wasm | partial | 2026-09-11T01:17:36Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
+| ruby/ruby.wasm | partial | 2026-09-12T01:15:56Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
 | taubyte/tau | partial | 2026-08-16T20:19:56Z | [open](../records/webassembly-taubyte-tau-7d97265b.md) |
 | therecipe/qt | partial | 2024-03-04T15:58:37Z | [open](../records/webassembly-therecipe-qt-fd9f7ce6.md) |
 

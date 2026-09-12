@@ -9,7 +9,7 @@ Records: `981`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · **[Database Datastore (981)](database-datastore.md)** · [Datetime (253)](datetime.md)
@@ -18,11 +18,11 @@ Records: `981`
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -751,7 +751,7 @@ Records: `981`
 | gluesql/gluesql | partial | 2026-09-06T13:20:52Z | [open](../records/webassembly-gluesql-gluesql-a50e8231.md) |
 | kuzudb/kuzu | partial | 2025-10-10T15:34:00Z | [open](../records/webassembly-kuzudb-kuzu-82a50b44.md) |
 | liam-hq/liam | partial | 2026-09-10T22:55:12Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
-| obi1kenobi/trustfall | partial | 2026-09-07T03:54:38Z | [open](../records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
+| obi1kenobi/trustfall | partial | 2026-09-12T04:42:47Z | [open](../records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
 | sql-js/sql.js | partial | 2026-08-14T18:15:39Z | [open](../records/webassembly-sql-js-sql-js-33b2be89.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/webassembly-tursodatabase-libsql-4c64b1cc.md) |
 
@@ -832,7 +832,7 @@ Records: `981`
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
 | citusdata/citus | partial | 2026-09-11T22:58:48Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
-| clockworklabs/SpacetimeDB | partial | 2026-09-12T02:58:49Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| clockworklabs/SpacetimeDB | partial | 2026-09-12T12:10:14Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
 | Cloudflare R2 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-r2-ad4ae9ea.md) |
 | CockroachDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cockroachdb-edd34bb8.md) |
@@ -870,7 +870,7 @@ Records: `981`
 | Dolibarr/dolibarr | partial | 2026-09-12T00:14:42Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
 | dotnet/efcore | partial | 2026-09-12T04:41:21Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
-| dragonflydb/dragonfly | partial | 2026-09-12T11:00:01Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
+| dragonflydb/dragonfly | partial | 2026-09-12T11:37:51Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | drizzle-team/drizzle-orm | partial | 2026-09-11T15:04:58Z | [open](../records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | DuckDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-duckdb-88d17aa9.md) |
 | duckdb/duckdb | partial | 2026-09-11T19:35:43Z | [open](../records/databases-duckdb-duckdb-654530e3.md) |
@@ -1150,7 +1150,7 @@ Records: `981`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| banana-hackers/store-db | partial | 2026-09-09T03:43:45.045Z | [open](../records/repository-workplaces-banana-hackers-store-db-85eabcc9.md) |
+| banana-hackers/store-db | partial | 2026-09-12T12:18:58.701Z | [open](../records/repository-workplaces-banana-hackers-store-db-85eabcc9.md) |
 | barrel-db/barrel-platform | partial | 2019-08-09T11:30:47.070Z | [open](../records/repository-workplaces-barrel-db-barrel-platform-c0ea9b49.md) |
 | bullbytes/scala-js-example | partial | 2022-07-23T07:17:21.421Z | [open](../records/repository-workplaces-bullbytes-scala-js-example-f737433c.md) |
 | cznic/ql | partial | 2026-09-10T12:28:52.584Z | [open](../records/repository-workplaces-cznic-ql-298bf64a.md) |

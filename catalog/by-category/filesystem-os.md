@@ -9,7 +9,7 @@ Records: `1710`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
@@ -18,11 +18,11 @@ Records: `1710`
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -1742,7 +1742,7 @@ Records: `1710`
 | binji/raw-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-binji-raw-wasm-c2dcf640.md) |
 | eoswindev/contract | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eoswindev-contract-31970bee.md) |
 | ericfish/EOS-Dev-Book | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-ericfish-eos-dev-book-ab3602a2.md) |
-| google/filament | partial | 2026-09-11T21:18:11Z | [open](../records/webassembly-google-filament-da286b6c.md) |
+| google/filament | partial | 2026-09-12T08:12:32Z | [open](../records/webassembly-google-filament-da286b6c.md) |
 | HaliteChallenge/Halite-III | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-halitechallenge-halite-iii-d1e574a8.md) |
 | kateinoigakukun/wasi-vfs | partial | 2026-04-12T20:39:33Z | [open](../records/webassembly-kateinoigakukun-wasi-vfs-380e4080.md) |
 | linera-io/linera-protocol | partial | 2026-09-11T20:58:51Z | [open](../records/webassembly-linera-io-linera-protocol-3393389c.md) |
@@ -1879,7 +1879,7 @@ Records: `1710`
 | Heimdallr.swift | 4.0.0 | 2024-01-04T09:06:03Z | [open](../records/cocoa-heimdallr-swift-1def73fc.md) |
 | iOS-Viper-Architecture | unknown | cocoapods_metadata_missing | [open](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) |
 | ivanvorobei/awesome-ios | partial | 2023-03-06T08:19:36Z | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
-| iziz/libPhoneNumber-iOS | partial | 2026-09-12T10:43:24Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-09-12T11:38:49Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
 | JLRoutes | 2.1.1 | 2021-08-10T19:10:38Z | [open](../records/cocoa-jlroutes-7a9922bb.md) |
 | joeldev/JLRoutes | partial | 2023-02-21T14:37:00Z | [open](../records/cocoa-joeldev-jlroutes-352fbc29.md) |
 | JonasGessner/JGProgressHUD | partial | 2023-10-18T01:21:10Z | [open](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) |

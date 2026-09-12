@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `857`
+Records: `858`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `857`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
@@ -18,11 +18,11 @@ Records: `857`
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · **[Machine Learning (857)](machine-learning.md)**
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · **[Machine Learning (858)](machine-learning.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -365,6 +365,7 @@ Records: `857`
 | planr | 0.6.5 | 2026-08-23 09:30:08 UTC | [open](../records/r-planr-6120bc45.md) |
 | predictset | 0.4.0 | 2026-09-08 07:20:02 UTC | [open](../records/r-predictset-dbf90b0a.md) |
 | Rmalschains | 0.2-12 | 2026-09-05 16:10:09 UTC | [open](../records/r-rmalschains-568d821e.md) |
+| SampleSelectR | 1.0.0 | 2026-09-12 12:10:02 UTC | [open](../records/r-sampleselectr-a09dc243.md) |
 | scov | 2.0.2 | 2026-08-28 12:20:02 UTC | [open](../records/r-scov-c80bd944.md) |
 | spMC | 0.3.16 | 2026-09-05 19:40:02 UTC | [open](../records/r-spmc-5ef0893f.md) |
 | survalis | 1.0.0 | 2026-08-22 15:10:08 UTC | [open](../records/r-survalis-1a651db3.md) |
@@ -522,11 +523,11 @@ Records: `857`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-12T10:06:06Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-12T12:15:25Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-12T10:11:56Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-12T12:14:30Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -536,7 +537,7 @@ Records: `857`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-12T11:14:50Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-12T12:12:38Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-11T13:47:25Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -1014,12 +1015,12 @@ Records: `857`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 6over3/zeroperl | partial | 2026-04-13T23:55:21Z | [open](../records/webassembly-6over3-zeroperl-3159856c.md) |
-| AvaloniaUI/Avalonia | partial | 2026-09-11T18:48:07Z | [open](../records/webassembly-avaloniaui-avalonia-9d4e002e.md) |
+| AvaloniaUI/Avalonia | partial | 2026-09-12T06:38:04Z | [open](../records/webassembly-avaloniaui-avalonia-9d4e002e.md) |
 | container2wasm/container2wasm | partial | 2026-09-09T02:33:00Z | [open](../records/webassembly-container2wasm-container2wasm-e88db7f4.md) |
-| containerd/runwasi | partial | 2026-09-11T00:40:19Z | [open](../records/webassembly-containerd-runwasi-89bfe7e6.md) |
+| containerd/runwasi | partial | 2026-09-12T00:27:49Z | [open](../records/webassembly-containerd-runwasi-89bfe7e6.md) |
 | Emscripten/HTML Integration Tips (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-emscripten-html-integration-tips-2017-6038eda8.md) |
 | gxchain/gxb-core | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-gxchain-gxb-core-f1f189c6.md) |
-| kane50613/takumi | partial | 2026-09-11T18:51:31Z | [open](../records/webassembly-kane50613-takumi-e34f28cb.md) |
+| kane50613/takumi | partial | 2026-09-12T10:35:03Z | [open](../records/webassembly-kane50613-takumi-e34f28cb.md) |
 | Megabit/Blazorise | partial | 2026-09-11T08:44:25Z | [open](../records/webassembly-megabit-blazorise-7828a636.md) |
 | multivactech/MultiVAC | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-multivactech-multivac-259ed6fc.md) |
 | shanlusun/blockchain | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-shanlusun-blockchain-88bfe92c.md) |

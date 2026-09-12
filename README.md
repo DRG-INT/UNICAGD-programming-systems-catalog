@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-12T11:19:22+00:00`
+Generated: `2026-09-12T12:26:12+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -15,7 +15,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 ## Category Index
 
 [Api Abi Checker (236)](catalog/by-category/api-abi-checker.md) · [Api Doc Generator (12)](catalog/by-category/api-doc-generator.md) · [Assertion Mocking (46)](catalog/by-category/assertion-mocking.md) · [Async Runtime (139)](catalog/by-category/async-runtime.md)
-[Benchmarking (209)](catalog/by-category/benchmarking.md) · [Build System (1041)](catalog/by-category/build-system.md) · [Cli (601)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
+[Benchmarking (209)](catalog/by-category/benchmarking.md) · [Build System (1041)](catalog/by-category/build-system.md) · [Cli (602)](catalog/by-category/cli.md) · [Codegen Codemod Refactoring (23)](catalog/by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](catalog/by-category/community-reference.md) · [Compiler (180)](catalog/by-category/compiler.md) · [Compiler Diagnostics (26)](catalog/by-category/compiler-diagnostics.md) · [Compression (55)](catalog/by-category/compression.md)
 [Concurrency Parallelism (95)](catalog/by-category/concurrency-parallelism.md) · [Configuration (141)](catalog/by-category/configuration.md) · [Container Deployment (10)](catalog/by-category/container-deployment.md) · [Coverage (14)](catalog/by-category/coverage.md)
 [Cryptography (182)](catalog/by-category/cryptography.md) · [Data Science (40)](catalog/by-category/data-science.md) · [Database Datastore (981)](catalog/by-category/database-datastore.md) · [Datetime (253)](catalog/by-category/datetime.md)
@@ -24,11 +24,11 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Framework (64)](catalog/by-category/framework.md) · [Fuzzer (63)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (377)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1514)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (289)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
 [Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1470)](catalog/by-category/language-specification.md) · [Library (6096)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (51)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (555)](catalog/by-category/logging-observability.md) · [Machine Learning (857)](catalog/by-category/machine-learning.md)
-[Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1088)](catalog/by-category/networking-http.md)
+[Lint Rule Pack (51)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (555)](catalog/by-category/logging-observability.md) · [Machine Learning (858)](catalog/by-category/machine-learning.md)
+[Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1089)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (450)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1241)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (98)](catalog/by-category/profiler.md) · [Project Scaffolding (143)](catalog/by-category/project-scaffolding.md) · [Registry Repository (134)](catalog/by-category/registry-repository.md) · [Sanitizer (16)](catalog/by-category/sanitizer.md)
-[Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (407)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (668)](catalog/by-category/static-analyzer.md)
+[Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (407)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (669)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (649)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (318)](catalog/by-category/type-checker.md)
 [Undefined Behavior Analyzer (1663)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](catalog/by-category/utility-library.md) · [Visualization Gui (650)](catalog/by-category/visualization-gui.md) · [Web Framework (496)](catalog/by-category/web-framework.md)
 
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29064 |
+| Canonical identity pages | 29069 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10836 |
+| Known stable release fields | 10841 |
 | Unknown stable release fields | 18228 |
-| Fetch errors recorded | 1031 |
+| Fetch errors recorded | 1030 |
 | Target identity count | 24000 |
 
 ## Language Scope

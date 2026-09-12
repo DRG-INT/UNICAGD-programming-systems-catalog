@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1088`
+Records: `1089`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `1088`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
@@ -18,11 +18,11 @@ Records: `1088`
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1088)](networking-http.md)**
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1089)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -370,6 +370,7 @@ Records: `1088`
 | follow-redirects | 1.16.0 | 2026-04-13T11:03:45.228Z | [open](../records/node-js-javascript-follow-redirects-4bf3d14b.md) |
 | forwarded | 0.2.0 | 2021-05-31T23:23:02.495Z | [open](../records/node-js-javascript-forwarded-bd930492.md) |
 | gaxios | 8.0.0 | 2026-08-24T14:19:54.004Z | [open](../records/node-js-javascript-gaxios-e5cc049d.md) |
+| get-it | 9.5.4 | 2026-09-08T10:03:32.275Z | [open](../records/node-js-javascript-get-it-8697b771.md) |
 | global-agent | 4.1.3 | 2026-03-11T16:29:05.224Z | [open](../records/node-js-javascript-global-agent-b096f949.md) |
 | global-tunnel-ng | 2.7.1 | 2018-11-21T12:57:45.204Z | [open](../records/node-js-javascript-global-tunnel-ng-9f59e12a.md) |
 | got | 16.0.0 | 2026-08-30T23:02:13.377Z | [open](../records/node-js-javascript-got-3b313bf6.md) |
@@ -1238,7 +1239,7 @@ Records: `1088`
 | deislabs/wasi-experimental-http | partial | 2023-03-14T17:13:55Z | [open](../records/webassembly-deislabs-wasi-experimental-http-bee04041.md) |
 | dispatchrun/net | partial | 2024-12-11T23:36:01Z | [open](../records/webassembly-dispatchrun-net-ea550bf8.md) |
 | evgeny-nadymov/telegram-react | partial | 2025-02-23T05:45:20Z | [open](../records/webassembly-evgeny-nadymov-telegram-react-7bf2bf4e.md) |
-| joreilly/PeopleInSpace | partial | 2026-09-06T03:40:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
+| joreilly/PeopleInSpace | partial | 2026-09-12T11:51:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
 | near/nearcore | partial | 2026-09-11T09:34:33Z | [open](../records/webassembly-near-nearcore-94125d0d.md) |
 | WebAssembly/WASI | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-wasi-e42b23bc.md) |
 | WebAssembly/wasi-http | partial | 2025-11-25T22:56:11Z | [open](../records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
@@ -1339,7 +1340,7 @@ Records: `1088`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-11T18:16:05Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-12T11:17:43Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-12T11:38:56Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-12T05:01:58Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |

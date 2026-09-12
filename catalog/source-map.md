@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (236)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (601)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (26)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
@@ -14,11 +14,11 @@
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1514)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6096)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (857)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1088)](by-category/networking-http.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (858)](by-category/machine-learning.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1089)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (669)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1663)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
@@ -1394,6 +1394,7 @@
 | `cran_packages_by_date-48c7f16db62b38` | blockr.session | [open](records/r-blockr-session-1f15a78c.md) |
 | `cran_packages_by_date-48cd864f4a9f43` | K4Guru | [open](records/r-k4guru-5a67bf20.md) |
 | `cran_packages_by_date-48f692c6b10bf5` | fsbrain | [open](records/r-fsbrain-2ee1799f.md) |
+| `cran_packages_by_date-4910229ab23e38` | basetable | [open](records/r-basetable-f21002c5.md) |
 | `cran_packages_by_date-492d1c44dfa76e` | oddsapiio | [open](records/r-oddsapiio-686aab5d.md) |
 | `cran_packages_by_date-4999de5325ad93` | TPEA | [open](records/r-tpea-ed7a3e77.md) |
 | `cran_packages_by_date-49a8e6b6e5adfb` | underdisp | [open](records/r-underdisp-8acbbf10.md) |
@@ -1721,6 +1722,7 @@
 | `cran_packages_by_date-72b2b581f8f53e` | neuralnetwork | [open](records/r-neuralnetwork-f10a4fe0.md) |
 | `cran_packages_by_date-72c6c6c7c78d1a` | pkgmd | [open](records/r-pkgmd-82f9b690.md) |
 | `cran_packages_by_date-72cf174200580e` | oddsapiR | [open](records/r-oddsapir-1c537a9f.md) |
+| `cran_packages_by_date-72db3734cf13ec` | SampleSelectR | [open](records/r-sampleselectr-a09dc243.md) |
 | `cran_packages_by_date-72fcebe641f078` | coursekata | [open](records/r-coursekata-356923c4.md) |
 | `cran_packages_by_date-7325ad4599eb5e` | brazilmaps | [open](records/r-brazilmaps-b26fb88d.md) |
 | `cran_packages_by_date-73325f32c61222` | datom | [open](records/r-datom-465d8abc.md) |
@@ -1761,6 +1763,7 @@
 | `cran_packages_by_date-788968c9046281` | cheddar | [open](records/r-cheddar-748c38d1.md) |
 | `cran_packages_by_date-788aff4d390438` | qol | [open](records/r-qol-8fc0d82a.md) |
 | `cran_packages_by_date-78946cb4346a9b` | RcppMsgPack | [open](records/r-rcppmsgpack-bf85e3d0.md) |
+| `cran_packages_by_date-789dc95b3f724a` | GGIR | [open](records/r-ggir-ff44ba8d.md) |
 | `cran_packages_by_date-78b12c8f6e3fa3` | artma | [open](records/r-artma-de642380.md) |
 | `cran_packages_by_date-78c83eda6cabac` | WebGestaltR | [open](records/r-webgestaltr-abec0527.md) |
 | `cran_packages_by_date-791b7a9149f81a` | robustrcp | [open](records/r-robustrcp-924e14c1.md) |
@@ -25628,6 +25631,7 @@
 | `npm_registry-83bacd54d0b474` | jest-watcher | [open](records/node-js-javascript-jest-watcher-91328aa7.md) |
 | `npm_registry-83c4529c784824` | @tanstack/eslint-plugin-query | [open](records/node-js-javascript-tanstack-eslint-plugin-query-816a5a9d.md) |
 | `npm_registry-83f74e4dd533f2` | eslint-plugin-qunit | [open](records/node-js-javascript-eslint-plugin-qunit-5fb90097.md) |
+| `npm_registry-84235f82c290f1` | get-it | [open](records/node-js-javascript-get-it-8697b771.md) |
 | `npm_registry-8433f020dbd0f0` | gaxios | [open](records/node-js-javascript-gaxios-e5cc049d.md) |
 | `npm_registry-844358e9a40e12` | karma-jasmine | [open](records/node-js-javascript-karma-jasmine-32202ee2.md) |
 | `npm_registry-8449c86c6556c8` | @socketsecurity/socket-patch | [open](records/node-js-javascript-socketsecurity-socket-patch-992a1d25.md) |
@@ -25885,6 +25889,7 @@
 | `npm_registry-9a30c0c72cd981` | @vercel/cli-exec | [open](records/node-js-javascript-vercel-cli-exec-8a3b557a.md) |
 | `npm_registry-9a31439ec7b4a6` | exframe-logger | [open](records/node-js-javascript-exframe-logger-850a2819.md) |
 | `npm_registry-9a320158a2ce6d` | codeceptjs | [open](records/node-js-javascript-codeceptjs-c62ce818.md) |
+| `npm_registry-9a4cb9c7493c18` | prisma | [open](records/node-js-javascript-prisma-df4a3e4d.md) |
 | `npm_registry-9a508f92773df9` | @renovosolutions/cdk-aspects-library-security-group | [open](records/node-js-javascript-renovosolutions-cdk-aspects-library-security-group-8e60cf4d.md) |
 | `npm_registry-9a525569bb1463` | skillflag | [open](records/node-js-javascript-skillflag-14ceadb2.md) |
 | `npm_registry-9aa948cd71b9aa` | opencv-build | [open](records/node-js-javascript-opencv-build-422064fe.md) |
