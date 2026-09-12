@@ -646,7 +646,7 @@ Records: `1040`
 | bazel-contrib/rules_dotnet | partial | 2026-09-12T01:23:27Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
-| bazel-contrib/rules_kotlin | partial | 2026-09-11T06:39:10Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
+| bazel-contrib/rules_kotlin | partial | 2026-09-12T07:00:28Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
 | bazel-contrib/rules_scala | partial | 2026-09-11T17:59:41Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | bazelbuild/rules_cc | partial | 2026-09-10T21:44:51Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
@@ -685,7 +685,7 @@ Records: `1040`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-11T10:45:15Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-12T00:57:33Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| ComposioHQ/composio | partial | 2026-09-12T06:36:51Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
 | CopilotKit/CopilotKit | partial | 2026-09-12T00:34:07Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T04:41:17Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
@@ -693,10 +693,10 @@ Records: `1040`
 | langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T05:10:52Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-12T06:11:37Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-12T07:06:37Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-10T10:34:39Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-12T03:15:22Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| vercel/ai | partial | 2026-09-12T07:00:40Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
 | Zackriya-Solutions/meetily | partial | 2026-09-12T06:15:42Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software
@@ -884,7 +884,7 @@ Records: `1040`
 | diya-kishore/SkyLens | partial | 2025-08-31T10:03:01Z | [open](../records/space-maps-diya-kishore-skylens-2361bc73.md) |
 | geraked/matlab-mna | partial | 2021-06-28T05:48:11Z | [open](../records/space-maps-geraked-matlab-mna-f71d0322.md) |
 | hedhyw/spice3f5 | partial | 2018-05-01T06:08:00Z | [open](../records/space-maps-hedhyw-spice3f5-51b16424.md) |
-| jens-maus/thinRoot | partial | 2026-09-11T07:00:53Z | [open](../records/space-maps-jens-maus-thinroot-b9a7b737.md) |
+| jens-maus/thinRoot | partial | 2026-09-12T06:50:45Z | [open](../records/space-maps-jens-maus-thinroot-b9a7b737.md) |
 | JohnVV/MyCelestiaBuild | partial | 2019-02-25T07:00:37Z | [open](../records/space-maps-johnvv-mycelestiabuild-0063b9fa.md) |
 | lgbouma/tessmaps | partial | 2019-01-30T22:22:13Z | [open](../records/space-maps-lgbouma-tessmaps-b001b2d5.md) |
 | meiXXI/point-cloud-crust | partial | 2017-01-31T11:34:03Z | [open](../records/space-maps-meixxi-point-cloud-crust-26abaf0a.md) |

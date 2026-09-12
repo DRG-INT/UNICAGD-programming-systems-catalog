@@ -548,10 +548,10 @@ Records: `596`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T05:56:08Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-12T07:13:41Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-12T05:50:45Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-12T07:08:59Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -604,7 +604,7 @@ Records: `596`
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | unknown | github_search_does_not_include_release_date | [open](../records/maps-earthaccess-dev-earthaccess-69c17717.md) |
 | kraina-ai/quackosm | partial | 2026-09-07T22:01:28Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
-| organicmaps/organicmaps | partial | 2026-09-11T20:57:31Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
+| organicmaps/organicmaps | partial | 2026-09-11T23:59:28Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
 | Toblerity/Fiona | unknown | github_search_does_not_include_release_date | [open](../records/maps-toblerity-fiona-f99f05a8.md) |
 
 ## Space Maps
@@ -796,7 +796,7 @@ Records: `596`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-12T06:24:54Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-12T06:47:54Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

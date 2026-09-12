@@ -39,9 +39,9 @@ migrations, performance, and operational recovery.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | MIT; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl; {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

@@ -252,7 +252,7 @@ Records: `160`
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | partial | 2026-09-10T16:42:10Z | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-12T03:59:44Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-12T06:56:09Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | partial | 2026-08-07T13:57:29Z | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-11T22:01:45Z | registry-derived |

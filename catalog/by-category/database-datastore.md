@@ -800,7 +800,7 @@ Records: `981`
 | apache/iotdb | partial | 2026-09-11T08:36:25Z | [open](../records/databases-apache-iotdb-b6bf919e.md) |
 | apache/lucene | partial | 2026-09-11T08:24:32Z | [open](../records/databases-apache-lucene-85981dbd.md) |
 | apache/lucene-solr | partial | 2026-05-15T22:15:22Z | [open](../records/databases-apache-lucene-solr-fb225570.md) |
-| apache/pouchdb | partial | 2026-09-10T22:58:14Z | [open](../records/databases-apache-pouchdb-13275ac3.md) |
+| apache/pouchdb | partial | 2026-09-12T07:03:26Z | [open](../records/databases-apache-pouchdb-13275ac3.md) |
 | apache/solr | partial | 2026-09-11T19:50:08Z | [open](../records/databases-apache-solr-a1b48587.md) |
 | apache/zeppelin | partial | 2026-09-10T12:17:23Z | [open](../records/databases-apache-zeppelin-896076cb.md) |
 | apache/zookeeper | partial | 2026-09-11T19:05:04Z | [open](../records/databases-apache-zookeeper-3f9970e6.md) |
@@ -971,7 +971,7 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-12T05:50:26Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-12T07:10:17Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |

@@ -42,7 +42,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

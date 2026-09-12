@@ -352,7 +352,7 @@ Records: `448`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-10T20:11:15Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-12T04:18:15Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-12T05:01:03Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |

@@ -665,8 +665,8 @@ Records: `1241`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-12T06:25:40Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-12T06:18:56Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-12T07:06:04Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-12T07:14:43Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-11T10:11:32Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -825,7 +825,7 @@ Records: `1241`
 | CS-SI/Orekit | partial | 2026-09-10T16:42:10Z | [open](../records/space-engines-cs-si-orekit-fd0e471c.md) |
 | deflorio/SpOCK | partial | 2026-04-17T08:49:07Z | [open](../records/space-engines-deflorio-spock-3f3262df.md) |
 | DJBen/Graviton | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-djben-graviton-cc868ebf.md) |
-| duncaneddy/brahe | partial | 2026-09-12T03:59:44Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
+| duncaneddy/brahe | partial | 2026-09-12T06:56:09Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
 | esa/dSGP4 | partial | 2026-08-07T13:57:29Z | [open](../records/space-engines-esa-dsgp4-8c05d97f.md) |
 | esa/pykep | partial | 2026-09-11T09:54:29Z | [open](../records/space-engines-esa-pykep-de004d6c.md) |
 | GalacticDynamics/galax | partial | 2026-09-11T22:01:45Z | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
@@ -1492,7 +1492,7 @@ Records: `1241`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-11T16:29:59Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-12T06:27:18Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-12T06:59:09Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
 | scylladb/scylladb | partial | 2026-09-12T02:31:43Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |

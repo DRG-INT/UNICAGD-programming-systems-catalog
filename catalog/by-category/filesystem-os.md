@@ -1248,7 +1248,7 @@ Records: `1703`
 | microsoft/torchscale | partial | 2024-04-11T13:58:57Z | [open](../records/audio-microsoft-torchscale-35290025.md) |
 | microsoft/UniSpeech | partial | 2024-04-05T13:14:48Z | [open](../records/audio-microsoft-unispeech-787685ec.md) |
 | mimium-org/mimium | partial | 2024-12-22T10:14:15Z | [open](../records/audio-mimium-org-mimium-8b76284d.md) |
-| openframeworks/openFrameworks | partial | 2026-09-11T11:20:03Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
+| openframeworks/openFrameworks | partial | 2026-09-12T04:38:10Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
 | polykit/pico-dco | unknown | github_latest_release_missing | [open](../records/audio-polykit-pico-dco-17364b22.md) |
 | Rikorose/DeepFilterNet | partial | 2024-10-17T08:35:11Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
 | rishikanthc/Scriberr | partial | 2026-06-01T03:07:49Z | [open](../records/audio-rishikanthc-scriberr-55b843d3.md) |
@@ -1872,7 +1872,7 @@ Records: `1703`
 | Heimdallr.swift | 4.0.0 | 2024-01-04T09:06:03Z | [open](../records/cocoa-heimdallr-swift-1def73fc.md) |
 | iOS-Viper-Architecture | unknown | cocoapods_metadata_missing | [open](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) |
 | ivanvorobei/awesome-ios | partial | 2023-03-06T08:19:36Z | [open](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) |
-| iziz/libPhoneNumber-iOS | partial | 2026-09-11T19:06:05Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-09-12T06:52:29Z | [open](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) |
 | JLRoutes | 2.1.1 | 2021-08-10T19:10:38Z | [open](../records/cocoa-jlroutes-7a9922bb.md) |
 | joeldev/JLRoutes | partial | 2023-02-21T14:37:00Z | [open](../records/cocoa-joeldev-jlroutes-352fbc29.md) |
 | JonasGessner/JGProgressHUD | partial | 2023-10-18T01:21:10Z | [open](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) |

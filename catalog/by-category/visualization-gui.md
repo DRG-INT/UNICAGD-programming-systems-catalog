@@ -644,7 +644,7 @@ Records: `649`
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
-| unchihugo/FluentFlyout | partial | 2026-09-10T08:24:21Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
+| unchihugo/FluentFlyout | partial | 2026-09-12T06:08:17Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
 | zynthian/zynthian-ui | partial | 2026-09-06T20:31:32Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video

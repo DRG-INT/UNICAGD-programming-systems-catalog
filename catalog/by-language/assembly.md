@@ -250,7 +250,7 @@ Records: `308`
 | [DOS-History/Paterson-Listings](../records/assembly-dos-history-paterson-listings-1b2b8faa.md) | partial | 2026-09-06T11:39:08Z | registry-derived |
 | [dspinellis/unix-history-repo](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) | partial | 2026-01-05T16:53:18Z | registry-derived |
 | [dwelch67/raspberrypi](../records/assembly-dwelch67-raspberrypi-a219633c.md) | partial | 2023-07-14T09:07:13Z | registry-derived |
-| [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-06T16:32:32Z | registry-derived |
+| [ebitengine/purego](../records/assembly-ebitengine-purego-a5231eb8.md) | partial | 2026-09-12T07:08:27Z | registry-derived |
 | [espressif/esp-dl](../records/assembly-espressif-esp-dl-82fca433.md) | partial | 2026-09-10T10:33:34Z | registry-derived |
 | [fcambus/spleen](../records/assembly-fcambus-spleen-889e6477.md) | partial | 2026-08-12T15:45:38Z | registry-derived |
 | [grassator/mass](../records/assembly-grassator-mass-293a8da9.md) | partial | 2023-10-03T22:05:30Z | registry-derived |

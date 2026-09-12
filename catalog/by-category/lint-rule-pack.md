@@ -113,11 +113,11 @@ Records: `51`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Chocolate4U/Iran-v2ray-rules | partial | 2026-09-11T09:07:15Z | [open](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) |
-| Loyalsoldier/clash-rules | partial | 2026-09-11T00:24:29Z | [open](../records/maps-loyalsoldier-clash-rules-35bed208.md) |
+| Chocolate4U/Iran-v2ray-rules | partial | 2026-09-12T01:19:51Z | [open](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) |
+| Loyalsoldier/clash-rules | partial | 2026-09-12T00:30:10Z | [open](../records/maps-loyalsoldier-clash-rules-35bed208.md) |
 | Loyalsoldier/geoip | partial | 2026-09-11T05:56:35Z | [open](../records/maps-loyalsoldier-geoip-2bef8369.md) |
-| Loyalsoldier/surge-rules | partial | 2026-09-11T00:18:37Z | [open](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
-| Loyalsoldier/v2ray-rules-dat | partial | 2026-09-10T23:38:05Z | [open](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) |
+| Loyalsoldier/surge-rules | partial | 2026-09-12T00:26:02Z | [open](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
+| Loyalsoldier/v2ray-rules-dat | partial | 2026-09-11T23:49:15Z | [open](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) |
 
 ## Space Maps
 

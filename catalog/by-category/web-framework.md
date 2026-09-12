@@ -469,7 +469,7 @@ Records: `496`
 | developmentseed/timvt | partial | 2026-04-01T23:26:10Z | [open](../records/maps-developmentseed-timvt-45af3e5c.md) |
 | devork/grava | partial | 2021-08-26T14:29:33Z | [open](../records/maps-devork-grava-4d37461a.md) |
 | encodeous/nylon | partial | 2026-09-05T16:43:07Z | [open](../records/maps-encodeous-nylon-c6f9f346.md) |
-| freerouting/freerouting | partial | 2026-09-11T16:56:42Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
+| freerouting/freerouting | partial | 2026-09-12T05:09:32Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-09T16:20:18Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
 | graphhopper/graphhopper | partial | 2026-09-11T23:16:16Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |

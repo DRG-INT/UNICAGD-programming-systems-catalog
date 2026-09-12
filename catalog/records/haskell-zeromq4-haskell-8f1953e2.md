@@ -32,8 +32,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.8.0 | 2019-03-03T15:15:33Z | [https://hackage.haskell.org/package/zeromq4-haskell](https://hackage.haskell.org/package/zeromq4-haskell) |  |
-| candidate | partial | 0.1 |  | [https://hackage.haskell.org/package/zeromq4-haskell](https://hackage.haskell.org/package/zeromq4-haskell) | hackage_candidate_date_missing |
+| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/zeromq4-haskell` at `2026-09-12T06:28:37+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 

@@ -703,7 +703,7 @@ Records: `1469`
 | antlr/antlr4 | partial | 2026-02-16T21:29:09Z | [open](../records/go-antlr-antlr4-1390b066.md) |
 | aquasecurity/trivy | partial | 2026-09-11T10:39:47Z | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
 | astaxie/build-web-application-with-golang | partial | 2024-05-12T00:47:46Z | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
-| authelia/authelia | partial | 2026-09-12T05:51:50Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
+| authelia/authelia | partial | 2026-09-12T06:57:32Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
 | avelino/awesome-go | partial | 2026-09-10T07:37:37Z | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
 | beego/beego | partial | 2026-09-10T13:43:49Z | [open](../records/go-beego-beego-e98bc924.md) |
 | binwiederhier/ntfy | partial | 2026-09-10T03:56:54Z | [open](../records/go-binwiederhier-ntfy-973f5ef2.md) |
@@ -713,13 +713,13 @@ Records: `1469`
 | cli/cli | partial | 2026-09-11T18:06:19Z | [open](../records/go-cli-cli-c1781281.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-f6662424.md) |
 | cockroachdb/cockroach | partial | 2026-09-08T22:57:43Z | [open](../records/go-cockroachdb-cockroach-555b82ac.md) |
-| d2lang/d2 | partial | 2026-09-12T06:24:57Z | [open](../records/go-d2lang-d2-ed192df1.md) |
+| d2lang/d2 | partial | 2026-09-12T06:42:10Z | [open](../records/go-d2lang-d2-ed192df1.md) |
 | danielmiessler/Fabric | partial | 2026-09-07T19:17:46Z | [open](../records/go-danielmiessler-fabric-e388968f.md) |
 | derailed/k9s | partial | 2026-09-11T09:19:34Z | [open](../records/go-derailed-k9s-e40d54ee.md) |
 | docker/compose | partial | 2026-09-11T17:21:34Z | [open](../records/go-docker-compose-cdd7478b.md) |
 | doocs/leetcode | partial | 2026-09-12T06:24:30Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
 | ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T05:56:08Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-12T07:13:41Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
 | etcd-io/etcd | partial | 2026-09-11T20:50:01Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
 | ethereum/go-ethereum | partial | 2026-09-11T03:15:54Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
 | evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
@@ -757,7 +757,7 @@ Records: `1469`
 | jesseduffield/lazydocker | partial | 2026-04-19T02:51:06Z | [open](../records/go-jesseduffield-lazydocker-c10d50fa.md) |
 | jesseduffield/lazygit | partial | 2026-09-11T17:14:40Z | [open](../records/go-jesseduffield-lazygit-76669d5d.md) |
 | juanfont/headscale | partial | 2026-09-10T12:14:23Z | [open](../records/go-juanfont-headscale-8da9ae07.md) |
-| JuliusBrussee/caveman | partial | 2026-09-11T07:26:48Z | [open](../records/go-juliusbrussee-caveman-4aae12bd.md) |
+| JuliusBrussee/caveman | partial | 2026-09-12T07:16:10Z | [open](../records/go-juliusbrussee-caveman-4aae12bd.md) |
 | junegunn/fzf | partial | 2026-09-12T00:35:44Z | [open](../records/go-junegunn-fzf-b96385b5.md) |
 | k3s-io/k3s | partial | 2026-09-12T00:09:03Z | [open](../records/go-k3s-io-k3s-db2488b2.md) |
 | kubernetes/kubernetes | partial | 2026-09-12T06:03:19Z | [open](../records/go-kubernetes-kubernetes-6b4c958b.md) |
@@ -772,12 +772,12 @@ Records: `1469`
 | mudler/LocalAI | partial | 2026-09-11T23:39:32Z | [open](../records/go-mudler-localai-bdeac9f4.md) |
 | multica-ai/multica | partial | 2026-09-12T03:25:56Z | [open](../records/go-multica-ai-multica-2f7b6919.md) |
 | nektos/act | partial | 2026-08-09T22:50:11Z | [open](../records/go-nektos-act-ba8341d5.md) |
-| netbirdio/netbird | partial | 2026-09-11T17:06:40Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
+| netbirdio/netbird | partial | 2026-09-12T07:03:41Z | [open](../records/go-netbirdio-netbird-358bb59e.md) |
 | netdata/netdata | partial | 2026-09-12T00:21:39Z | [open](../records/go-netdata-netdata-170b9886.md) |
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
 | opentofu/opentofu | partial | 2026-09-10T08:05:47Z | [open](../records/go-opentofu-opentofu-186b8c42.md) |
 | photoprism/photoprism | partial | 2026-09-12T05:49:44Z | [open](../records/go-photoprism-photoprism-47249a2f.md) |
-| pingcap/tidb | partial | 2026-09-12T04:57:35Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
+| pingcap/tidb | partial | 2026-09-12T06:59:09Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
 | pocketbase/pocketbase | partial | 2026-09-07T16:58:38Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
 | podman-container-tools/podman | partial | 2026-09-11T20:05:20Z | [open](../records/go-podman-container-tools-podman-b8d59e44.md) |
 | projectdiscovery/nuclei | partial | 2026-09-11T18:37:49Z | [open](../records/go-projectdiscovery-nuclei-166bc26c.md) |
@@ -851,7 +851,7 @@ Records: `1469`
 | mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
 | p-e-w/heretic | partial | 2026-09-05T16:11:52Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
-| sgl-project/sglang | partial | 2026-09-12T06:24:17Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| sgl-project/sglang | partial | 2026-09-12T07:17:00Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
 | yamadashy/repomix | partial | 2026-09-12T01:23:41Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
@@ -1009,7 +1009,7 @@ Records: `1469`
 | clanker-lover/spicebridge | partial | 2026-04-06T23:32:53Z | [open](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) |
 | electron-lang/electron | partial | 2018-08-20T19:02:31Z | [open](../records/space-maps-electron-lang-electron-98fd3718.md) |
 | gnudatalanguage/gdl | partial | 2026-09-11T21:18:21Z | [open](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) |
-| indigo-astronomy/indigo | partial | 2026-09-11T21:01:47Z | [open](../records/space-maps-indigo-astronomy-indigo-65164658.md) |
+| indigo-astronomy/indigo | partial | 2026-09-12T06:33:57Z | [open](../records/space-maps-indigo-astronomy-indigo-65164658.md) |
 | Jack-Hayes/planetquery | partial | 2025-10-15T05:47:38Z | [open](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) |
 | klonnet23/helloy-word | partial | 2022-08-29T16:59:38Z | [open](../records/space-maps-klonnet23-helloy-word-834df5dd.md) |
 | microsoft/vscode-stac | partial | 2023-05-03T11:26:56Z | [open](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) |
@@ -1052,7 +1052,7 @@ Records: `1469`
 | DigitalPhonetics/IMS-Toucan | partial | 2026-01-25T14:45:14Z | [open](../records/audio-digitalphonetics-ims-toucan-96508b32.md) |
 | FluidSynth/fluidsynth | partial | 2026-09-03T18:27:33Z | [open](../records/audio-fluidsynth-fluidsynth-59e20ded.md) |
 | ga642381/SpeechPrompt | partial | 2025-04-10T06:13:59Z | [open](../records/audio-ga642381-speechprompt-37e497e1.md) |
-| grame-cncm/faust | partial | 2026-09-11T08:07:57Z | [open](../records/audio-grame-cncm-faust-d30f3de0.md) |
+| grame-cncm/faust | partial | 2026-09-12T06:00:12Z | [open](../records/audio-grame-cncm-faust-d30f3de0.md) |
 | JiaoXianjun/BTLE | partial | 2026-06-08T19:24:34Z | [open](../records/audio-jiaoxianjun-btle-5c3bac18.md) |
 | kehanlu/DeSTA2 | partial | 2025-07-15T15:10:35Z | [open](../records/audio-kehanlu-desta2-5232fec4.md) |
 | Lhx94As/Awesome-Spoken-Language-Identification | partial | 2024-04-22T02:36:06Z | [open](../records/audio-lhx94as-awesome-spoken-language-identification-08b180ab.md) |
@@ -1236,7 +1236,7 @@ Records: `1469`
 | DOS-History/Paterson-Listings | partial | 2026-09-06T11:39:08Z | [open](../records/assembly-dos-history-paterson-listings-1b2b8faa.md) |
 | dspinellis/unix-history-repo | partial | 2026-01-05T16:53:18Z | [open](../records/assembly-dspinellis-unix-history-repo-77c8ee7b.md) |
 | dwelch67/raspberrypi | partial | 2023-07-14T09:07:13Z | [open](../records/assembly-dwelch67-raspberrypi-a219633c.md) |
-| ebitengine/purego | partial | 2026-09-06T16:32:32Z | [open](../records/assembly-ebitengine-purego-a5231eb8.md) |
+| ebitengine/purego | partial | 2026-09-12T07:08:27Z | [open](../records/assembly-ebitengine-purego-a5231eb8.md) |
 | espressif/esp-dl | partial | 2026-09-10T10:33:34Z | [open](../records/assembly-espressif-esp-dl-82fca433.md) |
 | fcambus/spleen | partial | 2026-08-12T15:45:38Z | [open](../records/assembly-fcambus-spleen-889e6477.md) |
 | grassator/mass | partial | 2023-10-03T22:05:30Z | [open](../records/assembly-grassator-mass-293a8da9.md) |
@@ -1646,7 +1646,7 @@ Records: `1469`
 | Flipboard/FLAnimatedImage | partial | 2024-03-21T10:45:04Z | [open](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) |
 | forkingdog/UITableView-FDTemplateLayoutCell | partial | 2022-03-07T10:01:30Z | [open](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) |
 | git-up/GitUp | partial | 2026-07-27T00:05:17Z | [open](../records/cocoa-git-up-gitup-23c60c2c.md) |
-| gnachman/iTerm2 | partial | 2026-09-12T00:02:18Z | [open](../records/cocoa-gnachman-iterm2-9538d898.md) |
+| gnachman/iTerm2 | partial | 2026-09-12T05:35:53Z | [open](../records/cocoa-gnachman-iterm2-9538d898.md) |
 | griddynamics-archive/MMDrawerController | partial | 2023-01-09T00:03:46Z | [open](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) |
 | Grouper/FlatUIKit | partial | 2016-09-29T04:08:55Z | [open](../records/cocoa-grouper-flatuikit-59352f43.md) |
 | gsdios/SDCycleScrollView | partial | 2023-04-21T10:20:47Z | [open](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) |

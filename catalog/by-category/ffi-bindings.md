@@ -492,7 +492,7 @@ Records: `486`
 | mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
 | osmcode/pyosmium | partial | 2026-09-05T19:35:17Z | [open](../records/maps-osmcode-pyosmium-236a85f5.md) |
-| rtuszik/photon-docker | partial | 2026-09-05T17:55:25Z | [open](../records/maps-rtuszik-photon-docker-df6fa4fc.md) |
+| rtuszik/photon-docker | partial | 2026-09-12T06:02:21Z | [open](../records/maps-rtuszik-photon-docker-df6fa4fc.md) |
 | SweetIQ/expostal | partial | 2023-07-23T09:55:31Z | [open](../records/maps-sweetiq-expostal-ee383b88.md) |
 | tjukanovt/30DayMapChallenge | partial | 2026-08-26T18:59:03Z | [open](../records/maps-tjukanovt-30daymapchallenge-a44707f4.md) |
 | twpayne/go-geom | partial | 2026-08-19T19:57:18Z | [open](../records/maps-twpayne-go-geom-0868b72a.md) |
@@ -509,7 +509,7 @@ Records: `486`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mars-sim/mars-sim | partial | 2026-09-11T22:02:45Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
+| mars-sim/mars-sim | partial | 2026-09-12T07:16:03Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
 | novas0x2a/celestia | partial | 2016-10-13T03:31:16Z | [open](../records/space-maps-novas0x2a-celestia-65bc6a55.md) |
 | Spooffit/star_wars | partial | 2023-07-18T15:29:02Z | [open](../records/space-maps-spooffit-star-wars-0cdbb857.md) |
 

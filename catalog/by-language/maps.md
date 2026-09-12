@@ -102,7 +102,7 @@ Records: `608`
 | --- | --- | --- | --- |
 | [earthaccess-dev/earthaccess](../records/maps-earthaccess-dev-earthaccess-69c17717.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [kraina-ai/quackosm](../records/maps-kraina-ai-quackosm-235b8910.md) | partial | 2026-09-07T22:01:28Z | registry-derived |
-| [organicmaps/organicmaps](../records/maps-organicmaps-organicmaps-2fbbb788.md) | partial | 2026-09-11T20:57:31Z | registry-derived |
+| [organicmaps/organicmaps](../records/maps-organicmaps-organicmaps-2fbbb788.md) | partial | 2026-09-11T23:59:28Z | registry-derived |
 | [Toblerity/Fiona](../records/maps-toblerity-fiona-f99f05a8.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Community Reference
@@ -181,7 +181,7 @@ Records: `608`
 | [mvexel/overpass-api-python-wrapper](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) | partial | 2026-01-08T03:59:25Z | registry-derived |
 | [naturalatlas/node-gdal](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) | partial | 2024-09-03T21:32:11Z | registry-derived |
 | [osmcode/pyosmium](../records/maps-osmcode-pyosmium-236a85f5.md) | partial | 2026-09-05T19:35:17Z | registry-derived |
-| [rtuszik/photon-docker](../records/maps-rtuszik-photon-docker-df6fa4fc.md) | partial | 2026-09-05T17:55:25Z | registry-derived |
+| [rtuszik/photon-docker](../records/maps-rtuszik-photon-docker-df6fa4fc.md) | partial | 2026-09-12T06:02:21Z | registry-derived |
 | [SweetIQ/expostal](../records/maps-sweetiq-expostal-ee383b88.md) | partial | 2023-07-23T09:55:31Z | registry-derived |
 | [tjukanovt/30DayMapChallenge](../records/maps-tjukanovt-30daymapchallenge-a44707f4.md) | partial | 2026-08-26T18:59:03Z | registry-derived |
 | [twpayne/go-geom](../records/maps-twpayne-go-geom-0868b72a.md) | partial | 2026-08-19T19:57:18Z | registry-derived |
@@ -516,7 +516,7 @@ Records: `608`
 | [r-spatial/mapview](../records/maps-r-spatial-mapview-10b63596.md) | partial | 2025-09-05T07:54:41Z | registry-derived |
 | [r-tmap/tmap](../records/maps-r-tmap-tmap-71b21a50.md) | partial | 2026-09-10T09:09:43Z | registry-derived |
 | [reinterpretcat/utymap](../records/maps-reinterpretcat-utymap-26781f3b.md) | partial | 2019-05-16T10:45:13Z | registry-derived |
-| [RxChi1d/immich-geodata-zh-tw](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) | partial | 2026-09-11T13:02:31Z | registry-derived |
+| [RxChi1d/immich-geodata-zh-tw](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) | partial | 2026-09-12T06:29:36Z | registry-derived |
 | [sakitam-fdd/HMap](../records/maps-sakitam-fdd-hmap-f0c9df14.md) | partial | 2018-11-04T14:06:57Z | registry-derived |
 | [sandstrom/country-bounding-boxes](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) | partial | 2020-02-06T08:52:09Z | registry-derived |
 | [SharpMap/SharpMap](../records/maps-sharpmap-sharpmap-0d7d79eb.md) | partial | 2025-01-06T15:20:53Z | registry-derived |
@@ -544,11 +544,11 @@ Records: `608`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Chocolate4U/Iran-v2ray-rules](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) | partial | 2026-09-11T09:07:15Z | registry-derived |
-| [Loyalsoldier/clash-rules](../records/maps-loyalsoldier-clash-rules-35bed208.md) | partial | 2026-09-11T00:24:29Z | registry-derived |
+| [Chocolate4U/Iran-v2ray-rules](../records/maps-chocolate4u-iran-v2ray-rules-4196e336.md) | partial | 2026-09-12T01:19:51Z | registry-derived |
+| [Loyalsoldier/clash-rules](../records/maps-loyalsoldier-clash-rules-35bed208.md) | partial | 2026-09-12T00:30:10Z | registry-derived |
 | [Loyalsoldier/geoip](../records/maps-loyalsoldier-geoip-2bef8369.md) | partial | 2026-09-11T05:56:35Z | registry-derived |
-| [Loyalsoldier/surge-rules](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) | partial | 2026-09-11T00:18:37Z | registry-derived |
-| [Loyalsoldier/v2ray-rules-dat](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) | partial | 2026-09-10T23:38:05Z | registry-derived |
+| [Loyalsoldier/surge-rules](../records/maps-loyalsoldier-surge-rules-7d51c30a.md) | partial | 2026-09-12T00:26:02Z | registry-derived |
+| [Loyalsoldier/v2ray-rules-dat](../records/maps-loyalsoldier-v2ray-rules-dat-36af9fdf.md) | partial | 2026-09-11T23:49:15Z | registry-derived |
 
 ### Logging Observability
 
@@ -616,7 +616,7 @@ Records: `608`
 | [pelias/api](../records/maps-pelias-api-6b9020ab.md) | partial | 2026-08-21T19:31:47Z | registry-derived |
 | [retroplasma/earth-reverse-engineering](../records/maps-retroplasma-earth-reverse-engineering-2b76b3bc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [symfony/routing](../records/maps-symfony-routing-586aa24f.md) | partial | 2026-09-11T18:03:35Z | registry-derived |
-| [TanStack/router](../records/maps-tanstack-router-73e029ca.md) | partial | 2026-09-11T22:16:08Z | registry-derived |
+| [TanStack/router](../records/maps-tanstack-router-73e029ca.md) | partial | 2026-09-12T04:29:24Z | registry-derived |
 | [Valhalla](../records/maps-valhalla-4a328d92.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 
 ### Package Manager
@@ -843,7 +843,7 @@ Records: `608`
 | [developmentseed/timvt](../records/maps-developmentseed-timvt-45af3e5c.md) | partial | 2026-04-01T23:26:10Z | registry-derived |
 | [devork/grava](../records/maps-devork-grava-4d37461a.md) | partial | 2021-08-26T14:29:33Z | registry-derived |
 | [encodeous/nylon](../records/maps-encodeous-nylon-c6f9f346.md) | partial | 2026-09-05T16:43:07Z | registry-derived |
-| [freerouting/freerouting](../records/maps-freerouting-freerouting-1dba680a.md) | partial | 2026-09-11T16:56:42Z | registry-derived |
+| [freerouting/freerouting](../records/maps-freerouting-freerouting-1dba680a.md) | partial | 2026-09-12T05:09:32Z | registry-derived |
 | [frzi/swiftui-router](../records/maps-frzi-swiftui-router-367cfeed.md) | partial | 2024-10-09T12:16:33Z | registry-derived |
 | [go-spatial/tegola](../records/maps-go-spatial-tegola-0b6db6ab.md) | partial | 2026-09-09T16:20:18Z | registry-derived |
 | [graphhopper/graphhopper](../records/maps-graphhopper-graphhopper-cfd324a4.md) | partial | 2026-09-11T23:16:16Z | registry-derived |

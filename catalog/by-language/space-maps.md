@@ -53,7 +53,7 @@ Records: `656`
 | [diya-kishore/SkyLens](../records/space-maps-diya-kishore-skylens-2361bc73.md) | partial | 2025-08-31T10:03:01Z | registry-derived |
 | [geraked/matlab-mna](../records/space-maps-geraked-matlab-mna-f71d0322.md) | partial | 2021-06-28T05:48:11Z | registry-derived |
 | [hedhyw/spice3f5](../records/space-maps-hedhyw-spice3f5-51b16424.md) | partial | 2018-05-01T06:08:00Z | registry-derived |
-| [jens-maus/thinRoot](../records/space-maps-jens-maus-thinroot-b9a7b737.md) | partial | 2026-09-11T07:00:53Z | registry-derived |
+| [jens-maus/thinRoot](../records/space-maps-jens-maus-thinroot-b9a7b737.md) | partial | 2026-09-12T06:50:45Z | registry-derived |
 | [JohnVV/MyCelestiaBuild](../records/space-maps-johnvv-mycelestiabuild-0063b9fa.md) | partial | 2019-02-25T07:00:37Z | registry-derived |
 | [lgbouma/tessmaps](../records/space-maps-lgbouma-tessmaps-b001b2d5.md) | partial | 2019-01-30T22:22:13Z | registry-derived |
 | [meiXXI/point-cloud-crust](../records/space-maps-meixxi-point-cloud-crust-26abaf0a.md) | partial | 2017-01-31T11:34:03Z | registry-derived |
@@ -155,7 +155,7 @@ Records: `656`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-11T22:02:45Z | registry-derived |
+| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-12T07:16:03Z | registry-derived |
 | [novas0x2a/celestia](../records/space-maps-novas0x2a-celestia-65bc6a55.md) | partial | 2016-10-13T03:31:16Z | registry-derived |
 | [Spooffit/star_wars](../records/space-maps-spooffit-star-wars-0cdbb857.md) | partial | 2023-07-18T15:29:02Z | registry-derived |
 
@@ -317,7 +317,7 @@ Records: `656`
 | [clanker-lover/spicebridge](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) | partial | 2026-04-06T23:32:53Z | registry-derived |
 | [electron-lang/electron](../records/space-maps-electron-lang-electron-98fd3718.md) | partial | 2018-08-20T19:02:31Z | registry-derived |
 | [gnudatalanguage/gdl](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
-| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-11T21:01:47Z | registry-derived |
+| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-12T06:33:57Z | registry-derived |
 | [Jack-Hayes/planetquery](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) | partial | 2025-10-15T05:47:38Z | registry-derived |
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |

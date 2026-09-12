@@ -693,7 +693,7 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T06:11:28Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T07:17:53Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T06:14:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1003,7 +1003,7 @@ Records: `1511`
 | bitgapp/eqMac | partial | 2026-09-11T23:41:10Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
-| deniscerri/ytdlnis | partial | 2026-09-08T20:00:02Z | [open](../records/audio-deniscerri-ytdlnis-096edb21.md) |
+| deniscerri/ytdlnis | partial | 2026-09-12T07:01:05Z | [open](../records/audio-deniscerri-ytdlnis-096edb21.md) |
 | everythingwillbetakenaway/DX7-Supercollider | partial | 2026-01-08T20:53:58Z | [open](../records/audio-everythingwillbetakenaway-dx7-supercollider-316ba0b4.md) |
 | FORARTfe/HyMPS | partial | 2026-09-02T07:13:54Z | [open](../records/audio-forartfe-hymps-4bad0b4a.md) |
 | ideoforms/signalflow | partial | 2026-05-04T21:05:19Z | [open](../records/audio-ideoforms-signalflow-7bce7712.md) |

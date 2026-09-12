@@ -73,7 +73,7 @@ Records: `910`
 | [Mithril-mine/libmdbx](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) | partial | 2026-09-08T13:54:36Z | registry-derived |
 | [openGemini/openGemini](../records/databases-opengemini-opengemini-b406e906.md) | partial | 2026-09-09T02:09:55Z | registry-derived |
 | [qdrant/qdrant](../records/databases-qdrant-qdrant-461c624b.md) | partial | 2026-09-09T11:13:27Z | registry-derived |
-| [questdb/questdb](../records/databases-questdb-questdb-cb22f378.md) | partial | 2026-09-12T05:18:29Z | registry-derived |
+| [questdb/questdb](../records/databases-questdb-questdb-cb22f378.md) | partial | 2026-09-12T07:13:33Z | registry-derived |
 | [quick-perf/quickperf](../records/databases-quick-perf-quickperf-2926abba.md) | partial | 2026-05-06T14:46:13Z | registry-derived |
 | [rustfs/rustfs](../records/databases-rustfs-rustfs-ac58a257.md) | partial | 2026-09-09T17:25:19Z | registry-derived |
 | [taosdata/TDengine](../records/databases-taosdata-tdengine-57f74fd3.md) | partial | 2026-09-11T06:32:40Z | registry-derived |
@@ -129,7 +129,7 @@ Records: `910`
 | --- | --- | --- | --- |
 | [achristmascarl/rainfrog](../records/databases-achristmascarl-rainfrog-b671adea.md) | partial | 2026-08-25T01:39:44Z | registry-derived |
 | [chdb-io/chdb](../records/databases-chdb-io-chdb-51490fbb.md) | partial | 2026-09-11T09:16:35Z | registry-derived |
-| [ClickHouse/ClickHouse](../records/databases-clickhouse-clickhouse-9258f880.md) | partial | 2026-09-12T06:24:54Z | registry-derived |
+| [ClickHouse/ClickHouse](../records/databases-clickhouse-clickhouse-9258f880.md) | partial | 2026-09-12T06:47:54Z | registry-derived |
 | [ClickHouse/clickhouse-odbc](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) | partial | 2026-09-10T18:25:03Z | registry-derived |
 | [fortiql/data-forge](../records/databases-fortiql-data-forge-e3a319e7.md) | partial | 2025-10-11T09:01:25Z | registry-derived |
 | [golang-migrate/migrate](../records/databases-golang-migrate-migrate-1713bacf.md) | partial | 2026-09-09T05:06:21Z | registry-derived |
@@ -231,7 +231,7 @@ Records: `910`
 | [apache/iotdb](../records/databases-apache-iotdb-b6bf919e.md) | partial | 2026-09-11T08:36:25Z | registry-derived |
 | [apache/lucene](../records/databases-apache-lucene-85981dbd.md) | partial | 2026-09-11T08:24:32Z | registry-derived |
 | [apache/lucene-solr](../records/databases-apache-lucene-solr-fb225570.md) | partial | 2026-05-15T22:15:22Z | registry-derived |
-| [apache/pouchdb](../records/databases-apache-pouchdb-13275ac3.md) | partial | 2026-09-10T22:58:14Z | registry-derived |
+| [apache/pouchdb](../records/databases-apache-pouchdb-13275ac3.md) | partial | 2026-09-12T07:03:26Z | registry-derived |
 | [apache/solr](../records/databases-apache-solr-a1b48587.md) | partial | 2026-09-11T19:50:08Z | registry-derived |
 | [apache/zeppelin](../records/databases-apache-zeppelin-896076cb.md) | partial | 2026-09-10T12:17:23Z | registry-derived |
 | [apache/zookeeper](../records/databases-apache-zookeeper-3f9970e6.md) | partial | 2026-09-11T19:05:04Z | registry-derived |
@@ -402,7 +402,7 @@ Records: `910`
 | [Meilisearch](../records/databases-meilisearch-bf7b237f.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [mergestat/mergestat-lite](../records/databases-mergestat-mergestat-lite-67a00eb8.md) | partial | 2026-09-05T05:26:30Z | registry-derived |
 | [Metabase](../records/databases-metabase-545e8fa8.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
-| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-12T05:50:26Z | registry-derived |
+| [metabase/metabase](../records/databases-metabase-metabase-3a69762d.md) | partial | 2026-09-12T07:10:17Z | registry-derived |
 | [mevdschee/php-crud-api](../records/databases-mevdschee-php-crud-api-f8b4da35.md) | partial | 2026-08-28T19:03:50Z | registry-derived |
 | [Milvus](../records/databases-milvus-66248b43.md) | unknown | curated_database_record_requires_source_specific_release_lookup | registry-derived |
 | [milvus-io/pymilvus](../records/databases-milvus-io-pymilvus-f6a8adf0.md) | partial | 2026-09-08T06:47:22Z | registry-derived |
@@ -878,7 +878,7 @@ Records: `910`
 | [ClickHouse/clickhouse-java](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) | partial | 2026-09-11T22:30:35Z | registry-derived |
 | [crate/crate-python](../records/databases-crate-crate-python-62348f26.md) | partial | 2026-09-10T15:19:01Z | registry-derived |
 | [DataRow](../records/databases-datarow-011db1d2.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [dbeaver/dbeaver](../records/databases-dbeaver-dbeaver-fdc61e8a.md) | partial | 2026-09-11T16:18:49Z | registry-derived |
+| [dbeaver/dbeaver](../records/databases-dbeaver-dbeaver-fdc61e8a.md) | partial | 2026-09-12T06:52:02Z | registry-derived |
 | [dbkangaroo/kangaroo](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) | partial | 2026-09-05T08:10:39Z | registry-derived |
 | [DbVisualizer](../records/databases-dbvisualizer-dbc48ffe.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [deuxfleurs-org/garage](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) | partial | 2026-09-08T08:45:07Z | registry-derived |
@@ -966,7 +966,7 @@ Records: `910`
 | [OpenAtomFoundation/pikiwidb](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) | partial | 2026-09-09T08:40:51Z | registry-derived |
 | [orientechnologies/orientdb](../records/databases-orientechnologies-orientdb-583f5aed.md) | partial | 2026-09-11T16:29:59Z | registry-derived |
 | [pilgr/Paper](../records/databases-pilgr-paper-4bec3683.md) | partial | 2023-01-06T22:00:05Z | registry-derived |
-| [pingcap/tidb](../records/databases-pingcap-tidb-56d438be.md) | partial | 2026-09-12T06:27:18Z | registry-derived |
+| [pingcap/tidb](../records/databases-pingcap-tidb-56d438be.md) | partial | 2026-09-12T06:59:09Z | registry-derived |
 | [rgcsekaraa/brows3](../records/databases-rgcsekaraa-brows3-6d622d3b.md) | partial | 2026-08-12T11:48:25Z | registry-derived |
 | [san089/Udacity-Data-Engineering-Projects](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) | partial | 2022-08-26T00:09:15Z | registry-derived |
 | [scylladb/scylladb](../records/databases-scylladb-scylladb-5677bf8d.md) | partial | 2026-09-12T02:31:43Z | registry-derived |
@@ -1077,7 +1077,7 @@ Records: `910`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [mikro-orm/mikro-orm](../records/databases-mikro-orm-mikro-orm-988d6c85.md) | partial | 2026-09-11T21:00:59Z | registry-derived |
-| [prisma/orm](../records/databases-prisma-orm-d7875b44.md) | partial | 2026-09-11T19:54:51Z | registry-derived |
+| [prisma/orm](../records/databases-prisma-orm-d7875b44.md) | partial | 2026-09-12T07:19:45Z | registry-derived |
 | [rehacktive/caffeine](../records/databases-rehacktive-caffeine-7ba154b8.md) | partial | 2022-11-30T16:19:55Z | registry-derived |
 | [sequelize/sequelize](../records/databases-sequelize-sequelize-980d8352.md) | partial | 2026-09-12T02:23:36Z | registry-derived |
 | [strapi/strapi](../records/databases-strapi-strapi-16f55c01.md) | partial | 2026-09-11T20:51:12Z | registry-derived |
@@ -1118,7 +1118,7 @@ Records: `910`
 | [simonw/datasette](../records/databases-simonw-datasette-1ddbef0c.md) | partial | 2026-09-11T18:29:18Z | registry-derived |
 | [skyzh/vector-db-from-scratch](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) | partial | 2026-09-06T03:20:48Z | registry-derived |
 | [spiculedata/saiku](../records/databases-spiculedata-saiku-3e036390.md) | partial | 2026-09-08T12:33:02Z | registry-derived |
-| [StarRocks/starrocks](../records/databases-starrocks-starrocks-fa80e1a7.md) | partial | 2026-09-11T15:30:18Z | registry-derived |
+| [StarRocks/starrocks](../records/databases-starrocks-starrocks-fa80e1a7.md) | partial | 2026-09-12T06:07:36Z | registry-derived |
 | [Stolon](../records/databases-stolon-807bae3f.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [timveil/hive-jdbc-uber-jar](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) | partial | 2024-09-28T13:44:51Z | registry-derived |
 | [uber-go/dosa](../records/databases-uber-go-dosa-06a859e4.md) | partial | 2023-07-05T20:59:33Z | registry-derived |

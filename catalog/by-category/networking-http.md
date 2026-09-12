@@ -916,7 +916,7 @@ Records: `1087`
 | pelias/api | partial | 2026-08-21T19:31:47Z | [open](../records/maps-pelias-api-6b9020ab.md) |
 | retroplasma/earth-reverse-engineering | unknown | github_search_does_not_include_release_date | [open](../records/maps-retroplasma-earth-reverse-engineering-2b76b3bc.md) |
 | symfony/routing | partial | 2026-09-11T18:03:35Z | [open](../records/maps-symfony-routing-586aa24f.md) |
-| TanStack/router | partial | 2026-09-11T22:16:08Z | [open](../records/maps-tanstack-router-73e029ca.md) |
+| TanStack/router | partial | 2026-09-12T04:29:24Z | [open](../records/maps-tanstack-router-73e029ca.md) |
 | Valhalla | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-valhalla-4a328d92.md) |
 
 ## Space Engines
@@ -1310,7 +1310,7 @@ Records: `1087`
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-11T16:18:49Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-12T06:52:02Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |

@@ -4297,13 +4297,13 @@ Records: `6088`
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
-| Z-Data | 2.0.1.0 | 2024-06-28T09:55:36Z | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
+| Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
+| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4530,7 +4530,7 @@ Records: `6088`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-12T05:32:14Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-12T07:15:43Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5028,7 +5028,7 @@ Records: `6088`
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | r-tmap/tmap | partial | 2026-09-10T09:09:43Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
 | reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
-| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-11T13:02:31Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
+| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-12T06:29:36Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
 | sakitam-fdd/HMap | partial | 2018-11-04T14:06:57Z | [open](../records/maps-sakitam-fdd-hmap-f0c9df14.md) |
 | sandstrom/country-bounding-boxes | partial | 2020-02-06T08:52:09Z | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |

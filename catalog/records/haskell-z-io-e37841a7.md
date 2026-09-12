@@ -32,23 +32,23 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.0.0.0 | 2022-11-26T03:59:17Z | [https://hackage.haskell.org/package/Z-IO](https://hackage.haskell.org/package/Z-IO) |  |
-| candidate | partial | 0.4.0.0 |  | [https://hackage.haskell.org/package/Z-IO](https://hackage.haskell.org/package/Z-IO) | hackage_candidate_date_missing |
+| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/Z-IO` at `2026-09-12T06:28:37+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 

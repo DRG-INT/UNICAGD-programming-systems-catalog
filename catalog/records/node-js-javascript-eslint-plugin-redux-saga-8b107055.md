@@ -41,9 +41,9 @@ of static feedback, style policy, defect prevention, and local/CI quality gates.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GPL-3 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
