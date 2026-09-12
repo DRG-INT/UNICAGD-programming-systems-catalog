@@ -13,10 +13,10 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1718)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6117)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6118)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -1002,6 +1002,7 @@
 | `cran_packages_by_date-178119bcfd2d08` | biomes | [open](records/r-biomes-8b0e7317.md) |
 | `cran_packages_by_date-17989aa4f5a4bf` | Argentum | [open](records/r-argentum-3c048222.md) |
 | `cran_packages_by_date-17be185c884416` | normref | [open](records/r-normref-452be04f.md) |
+| `cran_packages_by_date-17c1cc1b248f6b` | Brobdingnag | [open](records/r-brobdingnag-842eb062.md) |
 | `cran_packages_by_date-17c93fec537295` | RMVL | [open](records/r-rmvl-1ffe3e9a.md) |
 | `cran_packages_by_date-17cf578b1cbc67` | gettz | [open](records/r-gettz-01edb472.md) |
 | `cran_packages_by_date-17da52e3218549` | HYPEtools | [open](records/r-hypetools-14139387.md) |
@@ -1736,6 +1737,7 @@
 | `cran_packages_by_date-713443f7f54086` | multisensi | [open](records/r-multisensi-65483081.md) |
 | `cran_packages_by_date-716f31f61ccca6` | BOLDconnectR | [open](records/r-boldconnectr-21cfd25f.md) |
 | `cran_packages_by_date-719cb152bd1a54` | AlleloBin | [open](records/r-allelobin-7b385a27.md) |
+| `cran_packages_by_date-71d5f6465a60f2` | grasps | [open](records/r-grasps-08398725.md) |
 | `cran_packages_by_date-71e09c1fc40901` | tinyroxygen | [open](records/r-tinyroxygen-f1b543dc.md) |
 | `cran_packages_by_date-71e88e139157da` | ErrorTracer | [open](records/r-errortracer-430fdc33.md) |
 | `cran_packages_by_date-722cb1f66a1444` | awsMethods | [open](records/r-awsmethods-3b4989f2.md) |

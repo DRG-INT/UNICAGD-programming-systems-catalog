@@ -17,10 +17,10 @@ Records: `1242`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1242)](parser-lexer-ast.md)** · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1242)](parser-lexer-ast.md)** · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -1493,7 +1493,7 @@ Records: `1242`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-11T16:29:59Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-12T22:17:16Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-12T23:18:51Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
 | scylladb/scylladb | partial | 2026-09-12T02:31:43Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |

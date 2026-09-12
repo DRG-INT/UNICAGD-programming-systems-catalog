@@ -17,10 +17,10 @@ Records: `1515`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -191,7 +191,7 @@ Records: `1515`
 | @launchdarkly/openfeature-node-server | 2.0.3 | 2026-09-11T15:46:35.369Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.58 | 2026-09-11T15:46:15.659Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
-| @lvce-editor/server | 0.115.5 | 2026-09-12T14:54:23.017Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @lvce-editor/server | 0.115.6 | 2026-09-12T22:14:06.335Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
@@ -694,7 +694,7 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T22:17:01Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T23:18:03Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T21:08:12Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |

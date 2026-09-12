@@ -1,6 +1,6 @@
 # Library
 
-Records: `6117`
+Records: `6118`
 
 ## Navigation
 
@@ -17,10 +17,10 @@ Records: `6117`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6117)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6118)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -2540,6 +2540,7 @@ Records: `6117`
 | BoundIRT | 0.6.0 | 2026-08-21 05:47:08 UTC | [open](../records/r-boundirt-9e674cc7.md) |
 | brazilmaps | 1.0.0 | 2026-08-04 10:20:03 UTC | [open](../records/r-brazilmaps-b26fb88d.md) |
 | brfssdata | 0.1.0 | 2026-08-21 13:10:31 UTC | [open](../records/r-brfssdata-9b7ea1b5.md) |
+| Brobdingnag | 1.3-1 | 2026-09-12 21:30:02 UTC | [open](../records/r-brobdingnag-842eb062.md) |
 | brulee | 1.2.0 | 2026-09-02 20:20:09 UTC | [open](../records/r-brulee-b0699596.md) |
 | bscm | 1.0.1 | 2026-08-09 06:40:02 UTC | [open](../records/r-bscm-c0bb4006.md) |
 | bslib | 0.12.0 | 2026-08-04 00:40:02 UTC | [open](../records/r-bslib-ba171b86.md) |
@@ -4213,7 +4214,7 @@ Records: `6117`
 | tweet-hs | 1.0.2.3 | 2021-07-25T18:13:08Z | [open](../records/haskell-tweet-hs-4c6e0ffb.md) |
 | type-natural | 1.3.0.2 | 2025-01-02T07:07:08Z | [open](../records/haskell-type-natural-093c2ec7.md) |
 | type-unary | 0.3.2 | 2018-04-21T02:12:27Z | [open](../records/haskell-type-unary-0d99f93a.md) |
-| typed-peg | 0.2.0.0 | 2026-09-08T23:06:44Z | [open](../records/haskell-typed-peg-d0f69182.md) |
+| typed-peg | 0.3.0.0 | 2026-09-12T22:51:09Z | [open](../records/haskell-typed-peg-d0f69182.md) |
 | typed-process | 0.2.13.0 | 2025-04-12T12:28:58Z | [open](../records/haskell-typed-process-6bf3e065.md) |
 | typed-process-effectful | 1.0.0.5 | 2026-09-04T15:36:10Z | [open](../records/haskell-typed-process-effectful-bf332356.md) |
 | typesafe-precure | 0.12.2.1 | 2025-12-14T08:15:18Z | [open](../records/haskell-typesafe-precure-5bc30587.md) |

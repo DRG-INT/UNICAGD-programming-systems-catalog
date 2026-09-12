@@ -17,10 +17,10 @@ Records: `602`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -320,7 +320,7 @@ Records: `602`
 | @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
 | @microsoft/vally-cli | 0.16.0 | 2026-09-09T20:42:45.558Z | [open](../records/node-js-javascript-microsoft-vally-cli-48638457.md) |
-| @mintlify/cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @mintlify/cli | 4.0.1494 | 2026-09-12T21:38:14.359Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @module-federation/cli | 2.9.0 | 2026-08-24T08:21:41.802Z | [open](../records/node-js-javascript-module-federation-cli-ad5965f3.md) |
 | @mongosh/logging | 5.2.0 | 2026-07-01T01:01:34.354Z | [open](../records/node-js-javascript-mongosh-logging-a2ed4564.md) |
 | @napi-rs/cli | 3.9.1 | 2026-09-10T13:38:48.082Z | [open](../records/node-js-javascript-napi-rs-cli-3160c98d.md) |
@@ -423,8 +423,8 @@ Records: `602`
 | lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.8.1 | 2026-09-08T16:23:57.363Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
-| mint | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | 4.2.890 | 2026-09-12T02:15:23.317Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
+| mint | 4.2.891 | 2026-09-12T21:38:17.270Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
+| mintlify | 4.2.891 | 2026-09-12T21:38:17.360Z | [open](../records/node-js-javascript-mintlify-3fade289.md) |
 | oclif | 6.0.0 | 2026-09-11T20:19:04.684Z | [open](../records/node-js-javascript-oclif-1e846831.md) |
 | openapi-merge-cli | 2.0.2 | 2026-08-08T02:12:42.793Z | [open](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) |
 | ora | unknown | not_checked | [open](../records/node-js-javascript-ora-ad5f9a2f.md) |
@@ -552,7 +552,7 @@ Records: `602`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-12T21:29:13Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-12T22:18:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-12T23:11:52Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -802,7 +802,7 @@ Records: `602`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-12T22:16:17Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-12T23:19:12Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

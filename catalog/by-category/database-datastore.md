@@ -17,10 +17,10 @@ Records: `981`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -961,7 +961,7 @@ Records: `981`
 | lmmentel/awesome-time-series | partial | 2025-07-26T23:03:51Z | [open](../records/databases-lmmentel-awesome-time-series-9dca2d73.md) |
 | macrozheng/mall | partial | 2026-05-14T08:32:05Z | [open](../records/databases-macrozheng-mall-4d23527b.md) |
 | madd86/awesome-system-design | partial | 2026-02-27T13:35:34Z | [open](../records/databases-madd86-awesome-system-design-0804bf87.md) |
-| manticoresoftware/manticoresearch | partial | 2026-09-12T16:04:16Z | [open](../records/databases-manticoresoftware-manticoresearch-bdec8759.md) |
+| manticoresoftware/manticoresearch | partial | 2026-09-12T16:50:39Z | [open](../records/databases-manticoresoftware-manticoresearch-bdec8759.md) |
 | MariaDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mariadb-60709be9.md) |
 | MaterializeInc/materialize | partial | 2026-09-11T21:16:04Z | [open](../records/databases-materializeinc-materialize-83d58b57.md) |
 | Mathesar | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-mathesar-a5423040.md) |
@@ -971,7 +971,7 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-12T20:26:10Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-12T23:18:02Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
@@ -1182,12 +1182,12 @@ Records: `981`
 | Gitea: wends155/student_database | partial | 2024-04-27T02:52:17Z | [open](../records/repository-workplaces-gitea-wends155-student-database-2d9a97d6.md) |
 | Gitea: yeyuanjie/gorm-oracle | partial | 2023-10-17T03:10:13Z | [open](../records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
-| gitlab-org/advisories-community | partial | 2026-09-11T14:34:40.312Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
+| gitlab-org/advisories-community | partial | 2026-09-12T14:30:37.673Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-12T02:09:09.779Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-12T17:01:09.118Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-12T21:56:12.785Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-11T20:24:51.009Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |
 | vijai/SqliteDBViewer | partial | 2026-06-12T07:24:10.655Z | [open](../records/repository-workplaces-vijai-sqlitedbviewer-11e8b1d5.md) |
 | W4Games/cloud/database | partial | 2025-12-12T17:51:14.813Z | [open](../records/repository-workplaces-w4games-cloud-database-8600d8c3.md) |
-| YottaDB/DBMS/YDBOcto | partial | 2026-09-11T19:14:30.597Z | [open](../records/repository-workplaces-yottadb-dbms-ydbocto-18c870f3.md) |
+| YottaDB/DBMS/YDBOcto | partial | 2026-09-12T13:31:53.437Z | [open](../records/repository-workplaces-yottadb-dbms-ydbocto-18c870f3.md) |

@@ -17,10 +17,10 @@ Records: `450`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · **[Package Manager (450)](package-manager.md)** · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · **[Package Manager (450)](package-manager.md)** · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -681,7 +681,7 @@ Records: `450`
 | juliendehos/nix42b | partial | 2021-03-01T13:35:23.011Z | [open](../records/repository-workplaces-juliendehos-nix42b-fe0574e7.md) |
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |
-| re-volt/rvgl-launcher | partial | 2026-09-12T01:53:31.567Z | [open](../records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
+| re-volt/rvgl-launcher | partial | 2026-09-12T23:11:02.744Z | [open](../records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
 | WeSuckLess/Reactor | partial | 2026-09-11T16:13:23.429Z | [open](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) |
 | xavki/become-devops-s01 | partial | 2026-06-21T11:06:52.357Z | [open](../records/repository-workplaces-xavki-become-devops-s01-8ce087b3.md) |
 | xavki/tutorials-helm | partial | 2026-06-21T11:07:03.332Z | [open](../records/repository-workplaces-xavki-tutorials-helm-ba7d404c.md) |

@@ -17,10 +17,10 @@ Records: `487`
 [Embedded Hardware (68)](embedded-hardware.md) · **[Ffi Bindings (487)](ffi-bindings.md)** · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -656,7 +656,7 @@ Records: `487`
 | cheng-alvin/jas | partial | 2026-04-23T12:31:32Z | [open](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
 | encounter/objdiff | partial | 2026-08-29T22:14:27Z | [open](../records/assembly-encounter-objdiff-533f7383.md) |
 | hugsy/bochscpu-python | partial | 2025-08-10T17:01:32Z | [open](../records/assembly-hugsy-bochscpu-python-bba92484.md) |
-| KolibriOS/kolibrios | partial | 2026-09-12T13:07:05Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
+| KolibriOS/kolibrios | partial | 2026-09-12T22:40:46Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language
 
@@ -723,7 +723,7 @@ Records: `487`
 | pixelsdb/pixels | partial | 2026-09-08T06:06:29Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
 | rusqlite/rusqlite | partial | 2026-09-06T07:01:19Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
-| sqlitebrowser/sqlitebrowser | partial | 2026-09-09T00:32:41Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
+| sqlitebrowser/sqlitebrowser | partial | 2026-09-12T22:43:30Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-12T12:54:57Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces

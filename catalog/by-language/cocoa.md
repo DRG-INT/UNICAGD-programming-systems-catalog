@@ -17,10 +17,10 @@ Records: `349`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1718)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6117)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6118)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -334,7 +334,7 @@ Records: `349`
 | [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | partial | 2024-06-27T12:38:19Z | registry-derived |
 | [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | partial | 2026-08-15T11:38:08Z | registry-derived |
 | [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | partial | 2024-06-27T05:43:24Z | registry-derived |
-| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-12T14:55:02Z | registry-derived |
+| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-12T21:53:57Z | registry-derived |
 | [noodlewerk/NWPusher](../records/cocoa-noodlewerk-nwpusher-3f230ebd.md) | partial | 2021-03-30T07:00:58Z | registry-derived |
 | [nst/iOS-Runtime-Headers](../records/cocoa-nst-ios-runtime-headers-c5f4b32c.md) | partial | 2022-05-17T07:06:03Z | registry-derived |
 | [objective-see/LuLu](../records/cocoa-objective-see-lulu-3b9c439d.md) | partial | 2026-08-05T16:19:32Z | registry-derived |
@@ -354,7 +354,7 @@ Records: `349`
 | [shadowsocks/shadowsocks-iOS](../records/cocoa-shadowsocks-shadowsocks-ios-4396d460.md) | partial | 2022-05-17T06:55:42Z | registry-derived |
 | [slackhq/SlackTextViewController](../records/cocoa-slackhq-slacktextviewcontroller-f22ebae7.md) | partial | 2018-10-29T18:56:03Z | registry-derived |
 | [SnapKit/Masonry](../records/cocoa-snapkit-masonry-0fcd35d3.md) | partial | 2023-04-13T18:23:56Z | registry-derived |
-| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-09-12T16:00:53Z | registry-derived |
+| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-09-12T21:13:34Z | registry-derived |
 | [steipete/Aspects](../records/cocoa-steipete-aspects-881b863d.md) | partial | 2025-11-25T13:09:18Z | registry-derived |
 | [sveinbjornt/Sloth](../records/cocoa-sveinbjornt-sloth-f4d1b7d5.md) | partial | 2026-08-30T10:31:22Z | registry-derived |
 | [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-528242cc.md) | partial | 2026-02-27T17:42:19Z | registry-derived |

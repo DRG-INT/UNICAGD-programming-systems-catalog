@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T22:20:39+00:00`
+Generated: `2026-09-12T23:19:54+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,10 +15,10 @@ Generated: `2026-09-12T22:20:39+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1718)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6117)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6118)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -28,13 +28,20 @@ Generated: `2026-09-12T22:20:39+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10891 |
+| Known stable release | 10893 |
 | Unknown stable release | 18251 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| pigeon | Dart | Build System | 29.0.1 | 2026-09-12T22:55:55.236325Z | [open](records/dart-pigeon-1863b3b2.md) |
+| typed-peg | Haskell | Library | 0.3.0.0 | 2026-09-12T22:51:09Z | [open](records/haskell-typed-peg-d0f69182.md) |
+| zod | Node.js/TypeScript | Type Checker | 4.6.3 | 2026-09-12T22:23:48.121Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.6 | 2026-09-12T22:14:06.335Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| mintlify | Node.js/JavaScript | Cli | 4.2.891 | 2026-09-12T21:38:17.360Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.891 | 2026-09-12T21:38:17.270Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1494 | 2026-09-12T21:38:14.359Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | srtree-db | Haskell | Library | 0.1.3.0 | 2026-09-12T21:08:24Z | [open](records/haskell-srtree-db-c70023f5.md) |
 | srtree | Haskell | Library | 3.0.0.4 | 2026-09-12T20:59:41Z | [open](records/haskell-srtree-02456200.md) |
 | ftp-client | Haskell | Networking Http | 0.6.0.0 | 2026-09-12T19:31:31Z | [open](records/haskell-ftp-client-ffc70b48.md) |
@@ -55,7 +62,6 @@ Generated: `2026-09-12T22:20:39+00:00`
 | @logux/server | Node.js/JavaScript | Build System | 0.16.3 | 2026-09-12T15:26:35.941Z | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
 | size-limit | Node.js/JavaScript | Cli | 13.1.1 | 2026-09-12T15:08:58.825Z | [open](records/node-js-javascript-size-limit-238c48e9.md) |
 | rapidhash | Haskell | Cryptography | 0.2.0.0 | 2026-09-12T15:08:53Z | [open](records/haskell-rapidhash-c27882b5.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.5 | 2026-09-12T14:54:23.017Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @capgo/cli | Node.js/JavaScript | Web Framework | 8.51.0 | 2026-09-12T14:34:53.587Z | [open](records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | prisma | Node.js/JavaScript | Cli | 8.0.0-rc.14 | 2026-09-12T14:24:40.175Z | [open](records/node-js-javascript-prisma-df4a3e4d.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.524 | 2026-09-12T13:28:15.584Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
@@ -82,10 +88,9 @@ Generated: `2026-09-12T22:20:39+00:00`
 | cxxbridge-macro | Rust | Machine Learning | 1.0.202 | 2026-09-12T02:20:50.466085Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
 | cxx-build | Rust | Build System | 1.0.202 | 2026-09-12T02:20:38.865840Z | [open](records/rust-cxx-build-f0107b0e.md) |
 | cxxbridge-flags | Rust | Compiler | 1.0.202 | 2026-09-12T02:20:33.132839Z | [open](records/rust-cxxbridge-flags-c95fbc04.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.317Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| grasps | R | Precommit Ci Quality | 0.1.2 | 2026-09-12 23:00:02 UTC | [open](records/r-grasps-08398725.md) |
+| Brobdingnag | R | Library | 1.3-1 | 2026-09-12 21:30:02 UTC | [open](records/r-brobdingnag-842eb062.md) |
 | lpl | R | Ide Editor Integration | 0.15 | 2026-09-12 20:00:02 UTC | [open](records/r-lpl-17457cea.md) |
 | sanitizers | R | Sanitizer | 0.1.2 | 2026-09-12 19:00:02 UTC | [open](records/r-sanitizers-6dfa61d8.md) |
 | easyRasch2 | R | Static Analyzer | 1.3.0 | 2026-09-12 17:30:02 UTC | [open](records/r-easyrasch2-711ad37f.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-12T22:20:39+00:00`
 | gllvm | R | Compiler | 2.0.15 | 2026-09-11 19:00:02 UTC | [open](records/r-gllvm-13527514.md) |
 | bvartools | R | Library | 0.3.0 | 2026-09-11 18:50:02 UTC | [open](records/r-bvartools-65aba49e.md) |
 | mvinfluence | R | Compiler Diagnostics | 0.9.4 | 2026-09-11 18:30:02 UTC | [open](records/r-mvinfluence-d54a3621.md) |
-| normalblockr | R | Library | 0.3.0 | 2026-09-11 18:10:02 UTC | [open](records/r-normalblockr-5e5139d7.md) |
-| pre | R | Library | 1.1.1 | 2026-09-11 17:10:02 UTC | [open](records/r-pre-14669e77.md) |
-| DUToolkit | R | Machine Learning | 1.0.3 | 2026-09-11 17:00:07 UTC | [open](records/r-dutoolkit-0e23e903.md) |
-| tmbstan | R | Library | 1.2.1 | 2026-09-11 17:00:02 UTC | [open](records/r-tmbstan-3914d1b5.md) |
-| mx.client | R | Networking Http | 0.2.1 | 2026-09-11 16:50:02 UTC | [open](records/r-mx-client-9357f9db.md) |
 
 ## Unknown Reasons
 

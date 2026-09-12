@@ -17,10 +17,10 @@ Records: `1041`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1718)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -587,7 +587,7 @@ Records: `1041`
 | multi_select_flutter | 4.1.3 | 2022-11-27T19:41:52.274110Z | [open](../records/dart-multi-select-flutter-843e1d5e.md) |
 | native_dio_adapter | 1.8.0 | 2026-07-29T07:09:44.700942Z | [open](../records/dart-native-dio-adapter-36a2a5ca.md) |
 | petitparser | 7.0.2 | 2026-02-14T10:03:01.017261Z | [open](../records/dart-petitparser-2b0fd8c1.md) |
-| pigeon | 28.1.0 | 2026-09-09T17:34:29.967701Z | [open](../records/dart-pigeon-1863b3b2.md) |
+| pigeon | 29.0.1 | 2026-09-12T22:55:55.236325Z | [open](../records/dart-pigeon-1863b3b2.md) |
 | pinch_zoom | 2.0.1 | 2025-04-04T13:41:14.064866Z | [open](../records/dart-pinch-zoom-95207c4b.md) |
 | platform_info | 5.0.0 | 2024-08-13T14:28:08.660989Z | [open](../records/dart-platform-info-946f0d42.md) |
 | provider | 6.1.5+1 | 2025-08-19T12:50:56.438080Z | [open](../records/dart-provider-2bbb98af.md) |
@@ -643,7 +643,7 @@ Records: `1041`
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
-| bazel-contrib/rules_dotnet | partial | 2026-09-12T22:13:42Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
+| bazel-contrib/rules_dotnet | partial | 2026-09-12T23:13:48Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T17:02:10Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
@@ -657,7 +657,7 @@ Records: `1041`
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-10T16:58:44Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
-| facebookincubator/reindeer | partial | 2026-09-12T18:57:01Z | [open](../records/starlark-facebookincubator-reindeer-e957d783.md) |
+| facebookincubator/reindeer | partial | 2026-09-12T22:21:00Z | [open](../records/starlark-facebookincubator-reindeer-e957d783.md) |
 | jin/awesome-bazel | partial | 2024-11-13T07:46:30Z | [open](../records/starlark-jin-awesome-bazel-fd38a6d9.md) |
 | line/rules_apple_line | partial | 2023-03-20T22:34:01Z | [open](../records/starlark-line-rules-apple-line-d48892df.md) |
 | maxmcd/bramble | partial | 2023-03-29T14:47:53Z | [open](../records/starlark-maxmcd-bramble-bcb99fb7.md) |
@@ -693,10 +693,10 @@ Records: `1041`
 | langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T17:38:20Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-12T19:12:34Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-12T23:15:03Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
-| tirth8205/code-review-graph | partial | 2026-09-12T09:46:23Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-12T22:01:57Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| tirth8205/code-review-graph | partial | 2026-09-12T22:51:50Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
+| vercel/ai | partial | 2026-09-12T22:27:49Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
 | Zackriya-Solutions/meetily | partial | 2026-09-12T10:57:46Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software
@@ -1281,7 +1281,7 @@ Records: `1041`
 | HariSekhon/DevOps-Bash-tools | partial | 2026-09-04T15:36:51Z | [open](../records/databases-harisekhon-devops-bash-tools-bd29d37f.md) |
 | knex/knex | partial | 2026-06-26T15:02:12Z | [open](../records/databases-knex-knex-a41a9917.md) |
 | kossakovsky/selfhost-ai | partial | 2026-09-02T20:48:40Z | [open](../records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
-| kysely-org/kysely | partial | 2026-09-12T21:06:09Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
+| kysely-org/kysely | partial | 2026-09-12T23:19:29Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
 | lithops-cloud/lithops | partial | 2026-09-07T21:02:34Z | [open](../records/databases-lithops-cloud-lithops-39ca953e.md) |
 | makeplane/plane | partial | 2026-09-11T07:07:43Z | [open](../records/databases-makeplane-plane-b0283e4b.md) |
 | neuron-core/neuron-ai | partial | 2026-09-09T10:20:28Z | [open](../records/databases-neuron-core-neuron-ai-5499172a.md) |
@@ -1306,7 +1306,7 @@ Records: `1041`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| crystal-forge/crystal-forge | partial | 2026-09-12T06:13:36.192Z | [open](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) |
+| crystal-forge/crystal-forge | partial | 2026-09-12T21:45:53.138Z | [open](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) |
 | davivc/gitlab-ci-google-cloud-kubernetes | partial | 2020-04-04T19:23:06.380Z | [open](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) |
 | Gitea: cryptoexplorer/AICRYPTOMINER | partial | 2026-05-31T03:33:30Z | [open](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) |
 | Gitea: GiteaAi/iiab | partial | 2024-12-30T09:20:03Z | [open](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) |
