@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1704`
+Records: `1706`
 
 ## Navigation
 
@@ -14,16 +14,16 @@ Records: `1704`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · **[Filesystem Os (1704)](filesystem-os.md)** · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · **[Filesystem Os (1706)](filesystem-os.md)** · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6089)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6091)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (856)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -422,6 +422,7 @@ Records: `1704`
 | nimbleMacros | 0.1.3 | 2026-08-20 10:00:11 UTC | [open](../records/r-nimblemacros-731a53b0.md) |
 | NMdata | 0.2.6 | 2026-08-23 16:20:14 UTC | [open](../records/r-nmdata-85e313b9.md) |
 | NPCDTools | 1.2.0 | 2026-08-31 22:20:13 UTC | [open](../records/r-npcdtools-28ce23bf.md) |
+| OmicsBraid | 0.2.3 | 2026-09-12 09:30:02 UTC | [open](../records/r-omicsbraid-dac52135.md) |
 | osmapiR | 0.2.6 | 2026-09-04 19:00:03 UTC | [open](../records/r-osmapir-fb011de6.md) |
 | osmdata | 0.4.1 | 2026-09-01 12:00:02 UTC | [open](../records/r-osmdata-d9fea34c.md) |
 | pathintdid | 0.1.0 | 2026-08-08 11:50:02 UTC | [open](../records/r-pathintdid-111a0776.md) |
@@ -434,6 +435,7 @@ Records: `1704`
 | regressinator | 0.3.1 | 2026-08-21 16:30:02 UTC | [open](../records/r-regressinator-a433c15e.md) |
 | rifexpectile | 0.1.1 | 2026-08-31 22:00:21 UTC | [open](../records/r-rifexpectile-3bcbe5dd.md) |
 | RiskPortfolios | 2.1.8 | 2026-08-21 15:50:07 UTC | [open](../records/r-riskportfolios-e0204ca1.md) |
+| RobustArithmetic | 0.1.0 | 2026-09-12 09:00:07 UTC | [open](../records/r-robustarithmetic-e332ccbf.md) |
 | scDHA | 1.2.4 | 2026-08-28 14:00:02 UTC | [open](../records/r-scdha-bcd8a9ef.md) |
 | segmented | 2.2-2 | 2026-09-11 12:00:02 UTC | [open](../records/r-segmented-a7216d83.md) |
 | shiny.fluent | 0.4.1 | 2026-08-21 13:00:02 UTC | [open](../records/r-shiny-fluent-2e0e0186.md) |
@@ -1324,7 +1326,7 @@ Records: `1704`
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
 | HaishinKit/HaishinKit.swift | partial | 2026-08-30T12:17:41Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
-| hanatos/vkdt | partial | 2026-09-11T15:37:22Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
+| hanatos/vkdt | partial | 2026-09-12T09:45:38Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | indulgeIn/YBImageBrowser | partial | 2023-11-24T10:57:58Z | [open](../records/photography-indulgein-ybimagebrowser-e5a55591.md) |
 | jdisho/Papr | partial | 2020-09-17T16:39:35Z | [open](../records/photography-jdisho-papr-d97d54b2.md) |
@@ -1338,7 +1340,7 @@ Records: `1704`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-11T23:40:05Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-12T09:13:43Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-09T22:53:47Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |
@@ -1360,7 +1362,7 @@ Records: `1704`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-11T18:43:47Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-12T00:59:28Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy
@@ -1389,7 +1391,7 @@ Records: `1704`
 | cytomining/pycytominer | partial | 2026-09-04T16:07:02Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
-| deepinv/deepinv | partial | 2026-09-11T15:31:12Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| deepinv/deepinv | partial | 2026-09-12T10:10:43Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
 | delmic/odemis | partial | 2026-09-11T16:50:25Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
 | fairscope/PlanktoScope | partial | 2026-09-10T16:08:42Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-09-09T17:25:44Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |

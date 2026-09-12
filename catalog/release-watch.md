@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T09:19:48+00:00`
+Generated: `2026-09-12T10:21:28+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -12,29 +12,33 @@ Generated: `2026-09-12T09:19:48+00:00`
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1704)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1706)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6089)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6091)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (856)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (648)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1662)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10830 |
+| Known stable release | 10836 |
 | Unknown stable release | 18199 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.2 | 2026-09-12T09:44:47.815Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @gjsify/http | Node.js/JavaScript | Networking Http | 0.51.0 | 2026-09-12T09:34:52.187Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
+| ai_barcode_scanner | Dart | Static Analyzer | 8.0.1 | 2026-09-12T09:04:26.763388Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
+| oui-data | Node.js/JavaScript | Serialization | 2.1.20 | 2026-09-12T08:50:37.271Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | windmill-cli | Node.js/JavaScript | Cli | 1.811.0 | 2026-09-12T08:10:43.479Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
 | educe | Rust | Filesystem Os | 0.8.0 | 2026-09-12T07:23:23.135839Z | [open](records/rust-educe-e52760a6.md) |
 | @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.1 | 2026-09-12T06:04:37.353Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
@@ -56,6 +60,13 @@ Generated: `2026-09-12T09:19:48+00:00`
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| sclValid | R | Library | 0.1.0 | 2026-09-12 09:40:08 UTC | [open](records/r-sclvalid-ff1f08af.md) |
+| tesseract | R | Game Engine Game Dev | 5.3.1 | 2026-09-12 09:40:02 UTC | [open](records/r-tesseract-f9b18384.md) |
+| OmicsBraid | R | Filesystem Os | 0.2.3 | 2026-09-12 09:30:02 UTC | [open](records/r-omicsbraid-dac52135.md) |
+| RobustArithmetic | R | Filesystem Os | 0.1.0 | 2026-09-12 09:00:07 UTC | [open](records/r-robustarithmetic-e332ccbf.md) |
+| janssonr | R | Serialization | 0.1.2 | 2026-09-12 09:00:02 UTC | [open](records/r-janssonr-6624ed48.md) |
+| undomanager | R | Library | 0.1.0 | 2026-09-12 08:50:02 UTC | [open](records/r-undomanager-aed459ad.md) |
+| rankMANOVA | R | Testing Framework | 0.1.1 | 2026-09-12 08:30:02 UTC | [open](records/r-rankmanova-62951d9c.md) |
 | cogmod | R | Undefined Behavior Analyzer | 0.3.0 | 2026-09-12 08:10:02 UTC | [open](records/r-cogmod-f45c001b.md) |
 | smrlasso | R | Library | 1.0 | 2026-09-12 08:00:02 UTC | [open](records/r-smrlasso-02614a66.md) |
 | AutoGenAI | R | Machine Learning | 0.1.0 | 2026-09-12 07:40:02 UTC | [open](records/r-autogenai-3635fb7a.md) |
@@ -67,7 +78,6 @@ Generated: `2026-09-12T09:19:48+00:00`
 | ddst | R | Testing Framework | 1.6.11 | 2026-09-12 05:10:02 UTC | [open](records/r-ddst-5c641a70.md) |
 | tesouror | R | Api Abi Checker | 0.3.1 | 2026-09-12 02:20:02 UTC | [open](records/r-tesouror-0a7b94e7.md) |
 | RIFanalysis | R | Static Analyzer | 0.9.3 | 2026-09-12 00:10:02 UTC | [open](records/r-rifanalysis-8f1ffcb3.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.1 | 2026-09-11T21:26:25.564Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @transcend-io/mcp-server-base | Node.js/JavaScript | Parser Lexer Ast | 2.4.0 | 2026-09-11T21:18:21.895Z | [open](records/node-js-javascript-transcend-io-mcp-server-base-8b65e39b.md) |
 | h-raylib | Haskell | Library | 6.1.0.0 | 2026-09-11T21:18:02Z | [open](records/haskell-h-raylib-2e89b40b.md) |
 | @sap-ux/fiori-mcp-server | Node.js/JavaScript | Web Framework | 1.12.5 | 2026-09-11T21:16:50.150Z | [open](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
@@ -99,7 +109,6 @@ Generated: `2026-09-12T09:19:48+00:00`
 | @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.14 | 2026-09-11T18:02:41.056Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.203.0 | 2026-09-11T17:20:53.926Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | zitejs | Node.js/JavaScript | Build System | 0.9.117 | 2026-09-11T16:59:09.671Z | [open](records/node-js-javascript-zitejs-38340f7a.md) |
-| @gjsify/http | Node.js/JavaScript | Networking Http | 0.50.0 | 2026-09-11T16:43:46.354Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.28.1 | 2026-09-11T16:37:45.313Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | crux-llvm | Haskell | Compiler | 0.13 | 2026-09-11T16:17:21Z | [open](records/haskell-crux-llvm-491a04aa.md) |
 | crux | Haskell | Library | 0.10 | 2026-09-11T16:16:56Z | [open](records/haskell-crux-89c0d628.md) |
@@ -276,15 +285,6 @@ Generated: `2026-09-12T09:19:48+00:00`
 | wasip3 | Rust | Ffi Bindings | 0.9.0+wasi-0.3.0 | 2026-09-10T21:01:46.174573Z | [open](records/rust-wasip3-12898cc2.md) |
 | toml | Rust | Language Specification | 1.1.6+spec-1.1.0 | 2026-09-10T20:28:39.522017Z | [open](records/rust-toml-ee71db50.md) |
 | holeyexp | Haskell | Library | 0.3.0.2 | 2026-09-10T20:09:12Z | [open](records/haskell-holeyexp-db5dc519.md) |
-| seihou-cli | Haskell | Cli | 0.8.0.0 | 2026-09-10T20:08:32Z | [open](records/haskell-seihou-cli-27b5e8d8.md) |
-| seihou-okf-extension | Haskell | Library | 0.8.0.0 | 2026-09-10T20:08:32Z | [open](records/haskell-seihou-okf-extension-b92da37d.md) |
-| seihou-core | Haskell | Library | 0.8.0.0 | 2026-09-10T20:07:53Z | [open](records/haskell-seihou-core-e40f5cc9.md) |
-| pgmq-config | Haskell | Configuration | 0.6.0.0 | 2026-09-10T19:39:36Z | [open](records/haskell-pgmq-config-7dd0b97f.md) |
-| pgmq-effectful | Haskell | Library | 0.6.0.0 | 2026-09-10T19:39:28Z | [open](records/haskell-pgmq-effectful-762abfb0.md) |
-| pgmq-migration | Haskell | Library | 0.6.0.0 | 2026-09-10T19:39:21Z | [open](records/haskell-pgmq-migration-ed203ec5.md) |
-| pgmq-hasql | Haskell | Database Datastore | 0.6.0.0 | 2026-09-10T19:39:13Z | [open](records/haskell-pgmq-hasql-0de7dddf.md) |
-| pgmq-core | Haskell | Library | 0.6.0.0 | 2026-09-10T19:39:05Z | [open](records/haskell-pgmq-core-34d8e251.md) |
-| wit-bindgen | Rust | Interpreter Runtime | 0.62.0 | 2026-09-10T19:29:00.028388Z | [open](records/rust-wit-bindgen-e0f12921.md) |
 
 ## Unknown Reasons
 
