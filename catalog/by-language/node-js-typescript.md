@@ -10,7 +10,7 @@ Records: `392`
 
 [Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
@@ -22,7 +22,7 @@ Records: `392`
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1092)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (677)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -300,7 +300,7 @@ Records: `392`
 | [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.3 | 2026-09-06T03:03:26.293Z | registry-derived |
 | [@betterer/typescript](../records/node-js-typescript-betterer-typescript-35e88ce6.md) | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | registry-derived |
 | [@clipboard-health/testing-core](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) | 2.12.4 | 2026-09-11T03:59:01.901Z | registry-derived |
-| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260910.1 | 2026-09-10T01:18:42.090Z | registry-derived |
+| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260911.1 | 2026-09-11T01:16:03.373Z | registry-derived |
 | [@cspell/dict-typescript](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) | 3.2.3 | 2025-07-09T18:55:17.973Z | registry-derived |
 | [@dbos-inc/dbos-sdk](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) | 4.27.6 | 2026-08-25T15:39:32.081Z | registry-derived |
 | [@definitelytyped/typescript-versions](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) | 0.1.12 | 2026-06-15T18:01:15.944Z | registry-derived |

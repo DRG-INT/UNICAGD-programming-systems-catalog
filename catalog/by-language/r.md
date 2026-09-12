@@ -1,6 +1,6 @@
 # R
 
-Records: `2101`
+Records: `2103`
 
 ## Navigation
 
@@ -10,7 +10,7 @@ Records: `2101`
 
 [Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
@@ -22,7 +22,7 @@ Records: `2101`
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1092)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (677)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -187,6 +187,7 @@ Records: `2101`
 | [CLRtools](../records/r-clrtools-e3048f4b.md) | 0.1.2 | 2026-08-21 05:47:01 UTC | registry-derived |
 | [ebdt](../records/r-ebdt-1cc5e80a.md) | 1.0.1 | 2026-08-24 13:40:14 UTC | registry-derived |
 | [ECGofTestDx](../records/r-ecgoftestdx-86320dad.md) | 0.6 | 2026-09-08 05:30:02 UTC | registry-derived |
+| [ForceChoice](../records/r-forcechoice-c43bb33a.md) | 1.0.1 | 2026-09-12 17:10:02 UTC | registry-derived |
 | [ggResidpanel](../records/r-ggresidpanel-6d20fe4a.md) | 0.4.1 | 2026-09-06 22:50:03 UTC | registry-derived |
 | [ivdtools](../records/r-ivdtools-4bc3751f.md) | 0.2.5 | 2026-09-11 08:30:02 UTC | registry-derived |
 | [mfrmr](../records/r-mfrmr-00e40755.md) | 0.2.3.1 | 2026-08-25 12:40:02 UTC | registry-derived |
@@ -1983,7 +1984,7 @@ Records: `2101`
 | [douconca](../records/r-douconca-ffb3f3af.md) | 1.2.6 | 2026-09-09 13:50:02 UTC | registry-derived |
 | [drmeta](../records/r-drmeta-cc12b4a0.md) | 0.2.2 | 2026-08-24 19:10:02 UTC | registry-derived |
 | [EasyPCA](../records/r-easypca-05eeb851.md) | 0.1.1 | 2026-08-30 10:00:22 UTC | registry-derived |
-| [easyRasch2](../records/r-easyrasch2-711ad37f.md) | 1.2.0 | 2026-08-23 08:30:02 UTC | registry-derived |
+| [easyRasch2](../records/r-easyrasch2-711ad37f.md) | 1.3.0 | 2026-09-12 17:30:02 UTC | registry-derived |
 | [ecan](../records/r-ecan-0dd1d8a0.md) | 0.2.2 | 2026-08-22 09:20:14 UTC | registry-derived |
 | [ecoregime](../records/r-ecoregime-d0644d13.md) | 0.4.1 | 2026-08-04 20:10:02 UTC | registry-derived |
 | [EDAForge](../records/r-edaforge-0eec6e97.md) | 0.1.1 | 2026-08-08 11:30:20 UTC | registry-derived |
@@ -2151,6 +2152,7 @@ Records: `2101`
 | [varmapack](../records/r-varmapack-68225906.md) | 0.1.1 | 2026-09-12 07:10:03 UTC | registry-derived |
 | [vazul](../records/r-vazul-d5d0cc4e.md) | 1.2.0 | 2026-09-04 11:00:02 UTC | registry-derived |
 | [viewpoly](../records/r-viewpoly-6cd65365.md) | 1.0.3 | 2026-09-02 15:20:02 UTC | registry-derived |
+| [vismeteor](../records/r-vismeteor-74c576e1.md) | 3.1.0 | 2026-09-12 17:20:02 UTC | registry-derived |
 | [weatherMRJD](../records/r-weathermrjd-11a0d09e.md) | 0.1.1 | 2026-08-20 15:20:02 UTC | registry-derived |
 | [WebGestaltR](../records/r-webgestaltr-abec0527.md) | 1.0.1 | 2026-08-05 12:30:02 UTC | registry-derived |
 | [xiacf](../records/r-xiacf-d7674064.md) | 0.6.5 | 2026-08-24 17:10:02 UTC | registry-derived |

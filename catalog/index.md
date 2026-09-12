@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-12T17:18:52+00:00`
+Generated: `2026-09-12T18:23:01+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -8,7 +8,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 
 [Api Abi Checker (236)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (26)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
+[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
@@ -20,7 +20,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1092)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (677)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
@@ -37,7 +37,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 | Node.js/JavaScript | 2457 | 2380 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 392 | 352 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 2101 | 2101 | [R](by-language/r.md) |
+| R | 2103 | 2103 | [R](by-language/r.md) |
 | Haskell | 1716 | 1707 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -102,7 +102,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 126 | [community_reference](by-category/community-reference.md) |
 | Compiler | 180 | [compiler](by-category/compiler.md) |
-| Compiler Diagnostics | 26 | [compiler_diagnostics](by-category/compiler-diagnostics.md) |
+| Compiler Diagnostics | 27 | [compiler_diagnostics](by-category/compiler-diagnostics.md) |
 | Compression | 55 | [compression](by-category/compression.md) |
 | Concurrency Parallelism | 95 | [concurrency_parallelism](by-category/concurrency-parallelism.md) |
 | Configuration | 141 | [configuration](by-category/configuration.md) |
@@ -151,7 +151,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 | Security Sast | 341 | [security_sast](by-category/security-sast.md) |
 | Serialization | 408 | [serialization](by-category/serialization.md) |
 | Standard Library | 26 | [standard_library](by-category/standard-library.md) |
-| Static Analyzer | 677 | [static_analyzer](by-category/static-analyzer.md) |
+| Static Analyzer | 678 | [static_analyzer](by-category/static-analyzer.md) |
 | Templating | 2 | [templating](by-category/templating.md) |
 | Testing Framework | 650 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 73 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 | Node.js/JavaScript | 2380 | 77 |
 | Node.js/TypeScript | 352 | 40 |
 | Lua family | 0 | 1937 |
-| R | 2101 | 0 |
+| R | 2103 | 0 |
 | Haskell | 1707 | 9 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T17:18:52+00:00`
+Generated: `2026-09-12T18:23:01+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -8,7 +8,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 
 [Api Abi Checker (236)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (26)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
+[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
@@ -20,7 +20,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1092)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (677)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
@@ -28,13 +28,18 @@ Generated: `2026-09-12T17:18:52+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10884 |
+| Known stable release | 10886 |
 | Unknown stable release | 18250 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| better_player | Dart | Ide Editor Integration | 1.10.0 | 2026-09-12T18:12:58.070366Z | [open](records/dart-better-player-084ef311.md) |
+| aeson | Haskell | Library | 2.3.2.0 | 2026-09-12T18:04:12Z | [open](records/haskell-aeson-7553a0ad.md) |
+| actix-codec | Rust | Library | 0.5.4 | 2026-09-12T17:27:06.516100Z | [open](records/rust-actix-codec-709c01aa.md) |
+| bugsnag-types | Haskell | Library | 1.1.0.1 | 2026-09-12T16:41:50Z | [open](records/haskell-bugsnag-types-dca970ca.md) |
+| @gjsify/http | Node.js/JavaScript | Networking Http | 0.51.1 | 2026-09-12T16:39:49.772Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | hive_ce | Dart | Community Reference | 2.20.0 | 2026-09-12T16:09:41.936194Z | [open](records/dart-hive-ce-4ae295fe.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.3 | 2026-09-12T16:07:45.027Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.27 | 2026-09-12T16:06:59.122Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
@@ -53,7 +58,6 @@ Generated: `2026-09-12T17:18:52+00:00`
 | langchain-hs-graph | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:14:10Z | [open](records/haskell-langchain-hs-graph-0bcffb28.md) |
 | langchain-hs-core | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:13:40Z | [open](records/haskell-langchain-hs-core-ea420901.md) |
 | slang | Dart | Serialization | 4.19.2 | 2026-09-12T11:44:14.783497Z | [open](records/dart-slang-f760648f.md) |
-| @gjsify/http | Node.js/JavaScript | Networking Http | 0.51.0 | 2026-09-12T09:34:52.187Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | ai_barcode_scanner | Dart | Static Analyzer | 8.0.1 | 2026-09-12T09:04:26.763388Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.20 | 2026-09-12T08:50:37.271Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | windmill-cli | Node.js/JavaScript | Cli | 1.811.0 | 2026-09-12T08:10:43.479Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
@@ -77,6 +81,9 @@ Generated: `2026-09-12T17:18:52+00:00`
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| easyRasch2 | R | Static Analyzer | 1.3.0 | 2026-09-12 17:30:02 UTC | [open](records/r-easyrasch2-711ad37f.md) |
+| vismeteor | R | Static Analyzer | 3.1.0 | 2026-09-12 17:20:02 UTC | [open](records/r-vismeteor-74c576e1.md) |
+| ForceChoice | R | Compiler Diagnostics | 1.0.1 | 2026-09-12 17:10:02 UTC | [open](records/r-forcechoice-c43bb33a.md) |
 | qpost | R | Logging Observability | 1.0.0 | 2026-09-12 15:20:02 UTC | [open](records/r-qpost-2aeeb430.md) |
 | SemNeT | R | Static Analyzer | 2.0.0 | 2026-09-12 15:10:08 UTC | [open](records/r-semnet-35cd7d4d.md) |
 | chestR | R | Library | 0.1.0 | 2026-09-12 15:10:02 UTC | [open](records/r-chestr-facb8080.md) |
@@ -154,7 +161,6 @@ Generated: `2026-09-12T17:18:52+00:00`
 | libredox | Rust | Api Abi Checker | 0.1.24 | 2026-09-11T20:57:42.000749Z | [open](records/rust-libredox-9e706cf6.md) |
 | @stacksjs/http | Node.js/JavaScript | Networking Http | 0.74.46 | 2026-09-11T20:51:50.341Z | [open](records/node-js-javascript-stacksjs-http-63b8b8cd.md) |
 | bytemuck_derive | Rust | Filesystem Os | 1.12.1 | 2026-09-11T20:47:15.014342Z | [open](records/rust-bytemuck-derive-809be29a.md) |
-| better_player | Dart | Ide Editor Integration | 1.9.0 | 2026-09-11T20:34:02.786323Z | [open](records/dart-better-player-084ef311.md) |
 | oclif | Node.js/JavaScript | Cli | 6.0.0 | 2026-09-11T20:19:04.684Z | [open](records/node-js-javascript-oclif-1e846831.md) |
 | @sanity/cli | Node.js/JavaScript | Cli | 8.11.0 | 2026-09-11T20:12:53.868Z | [open](records/node-js-javascript-sanity-cli-257446f0.md) |
 | flutter_secure_storage | Dart | Cryptography | 11.1.1 | 2026-09-11T20:08:14.955343Z | [open](records/dart-flutter-secure-storage-a8388f0a.md) |
@@ -247,6 +253,7 @@ Generated: `2026-09-12T17:18:52+00:00`
 | toml_edit | Rust | Formatter | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](records/rust-toml-edit-d8550b65.md) |
 | @unocss/cli | Node.js/JavaScript | Cli | 66.10.2 | 2026-09-11T01:29:28.485Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
 | code-server | Node.js/JavaScript | Web Framework | 4.137.0 | 2026-09-11T01:18:48.481Z | [open](records/node-js-javascript-code-server-cf26133a.md) |
+| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260911.1 | 2026-09-11T01:16:03.373Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @athenna/database | Node.js/JavaScript | Database Datastore | 5.64.0 | 2026-09-11T01:11:46.885Z | [open](records/node-js-javascript-athenna-database-561068b6.md) |
 | @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:31:07.955Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
 | @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:28:25.847Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
@@ -278,13 +285,6 @@ Generated: `2026-09-12T17:18:52+00:00`
 | commons | R | Static Analyzer | 0.1.0 | 2026-09-11 15:30:15 UTC | [open](records/r-commons-0692a512.md) |
 | enderecobr | R | Language Specification | 0.6.1 | 2026-09-11 15:30:08 UTC | [open](records/r-enderecobr-34b46b68.md) |
 | sglssnal | R | Library | 0.1.0 | 2026-09-11 15:30:02 UTC | [open](records/r-sglssnal-e7585814.md) |
-| tidytuesdayR | R | Library | 1.3.3 | 2026-09-11 15:20:02 UTC | [open](records/r-tidytuesdayr-6ff8458d.md) |
-| tibblify | R | Library | 0.4.2 | 2026-09-11 14:50:02 UTC | [open](records/r-tibblify-ec1f560e.md) |
-| TreeDist | R | Logging Observability | 2.15.0 | 2026-09-11 14:40:02 UTC | [open](records/r-treedist-e93ccbd0.md) |
-| LABTNSCPSS | R | Machine Learning | 1.0.5 | 2026-09-11 14:30:20 UTC | [open](records/r-labtnscpss-9bf352ea.md) |
-| arcstat | R | Testing Framework | 0.2.0 | 2026-09-11 14:30:13 UTC | [open](records/r-arcstat-3a01274d.md) |
-| discretes | R | Math Numeric Scientific | 0.1.1 | 2026-09-11 14:30:06 UTC | [open](records/r-discretes-8ed2c5c3.md) |
-| rmsfact | R | Testing Framework | 0.0.4 | 2026-09-11 14:30:02 UTC | [open](records/r-rmsfact-61bcaa97.md) |
 
 ## Unknown Reasons
 

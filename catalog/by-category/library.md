@@ -10,7 +10,7 @@ Records: `6116`
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
@@ -22,7 +22,7 @@ Records: `6116`
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1092)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (677)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -1485,7 +1485,7 @@ Records: `6116`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| actix-codec | 0.5.3 | 2026-08-27T22:36:15.134208Z | [open](../records/rust-actix-codec-709c01aa.md) |
+| actix-codec | 0.5.4 | 2026-09-12T17:27:06.516100Z | [open](../records/rust-actix-codec-709c01aa.md) |
 | adler | 1.0.2 | 2021-02-26T12:12:02.566Z | [open](../records/rust-adler-1931712a.md) |
 | adler2 | 2.0.1 | 2025-06-09T22:31:53.608434Z | [open](../records/rust-adler2-e332371d.md) |
 | adler32 | 1.2.0 | 2020-07-30T19:05:16.808788Z | [open](../records/rust-adler32-07e2471b.md) |
@@ -3184,7 +3184,7 @@ Records: `6116`
 | adjunctions | 4.4.4 | 2026-01-10T20:45:29Z | [open](../records/haskell-adjunctions-ac39b7e1.md) |
 | ADPfusion | 0.6.0.0 | 2019-10-01T18:22:22Z | [open](../records/haskell-adpfusion-cc9cb628.md) |
 | aern2-real | 0.2.16.1 | 2024-10-05T23:08:15Z | [open](../records/haskell-aern2-real-2181be58.md) |
-| aeson | 2.3.1.0 | 2026-07-05T10:37:44Z | [open](../records/haskell-aeson-7553a0ad.md) |
+| aeson | 2.3.2.0 | 2026-09-12T18:04:12Z | [open](../records/haskell-aeson-7553a0ad.md) |
 | aeson-compat | 0.3.10 | 2021-10-09T19:03:20Z | [open](../records/haskell-aeson-compat-76be1cd9.md) |
 | aeson-diff | 1.1.0.15 | 2026-03-12T13:43:46Z | [open](../records/haskell-aeson-diff-adc67c55.md) |
 | aeson-extra | 0.5.1.3 | 2023-07-09T15:38:08Z | [open](../records/haskell-aeson-extra-08fc94a1.md) |
@@ -3308,7 +3308,7 @@ Records: `6116`
 | brittany | 0.14.0.2 | 2022-01-13T14:45:22Z | [open](../records/haskell-brittany-98f0dfd2.md) |
 | bson | 0.4.0.1 | 2020-03-23T04:35:32Z | [open](../records/haskell-bson-4493f8c6.md) |
 | bugsnag | 1.2.0.4 | 2026-09-04T16:16:13Z | [open](../records/haskell-bugsnag-279ae229.md) |
-| bugsnag-types | 1.1.0.0 | 2026-09-04T16:17:16Z | [open](../records/haskell-bugsnag-types-dca970ca.md) |
+| bugsnag-types | 1.1.0.1 | 2026-09-12T16:41:50Z | [open](../records/haskell-bugsnag-types-dca970ca.md) |
 | bugsnag-yesod | 1.0.1.3 | 2026-09-04T16:19:05Z | [open](../records/haskell-bugsnag-yesod-b94b89ea.md) |
 | burrito | 2.0.1.17 | 2026-05-22T14:54:21Z | [open](../records/haskell-burrito-8d6df455.md) |
 | butcher | 1.3.3.2 | 2020-06-10T20:03:13Z | [open](../records/haskell-butcher-ceb9004a.md) |
@@ -4551,7 +4551,7 @@ Records: `6116`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-12T07:27:24Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-12T17:41:18Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -6006,7 +6006,7 @@ Records: `6116`
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | lldap/lldap | partial | 2026-08-28T21:38:48Z | [open](../records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-12T05:01:15Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-12T16:41:10Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | nebulet/nebulet | partial | 2023-02-28T21:27:36Z | [open](../records/webassembly-nebulet-nebulet-31ed69e9.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | rust-windowing/winit | partial | 2026-09-12T08:26:23Z | [open](../records/webassembly-rust-windowing-winit-3721948f.md) |

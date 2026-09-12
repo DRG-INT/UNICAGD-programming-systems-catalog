@@ -10,7 +10,7 @@ Records: `1716`
 
 [Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
@@ -22,7 +22,7 @@ Records: `1716`
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1092)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (677)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -409,7 +409,7 @@ Records: `1716`
 | [adjunctions](../records/haskell-adjunctions-ac39b7e1.md) | 4.4.4 | 2026-01-10T20:45:29Z | registry-derived |
 | [ADPfusion](../records/haskell-adpfusion-cc9cb628.md) | 0.6.0.0 | 2019-10-01T18:22:22Z | registry-derived |
 | [aern2-real](../records/haskell-aern2-real-2181be58.md) | 0.2.16.1 | 2024-10-05T23:08:15Z | registry-derived |
-| [aeson](../records/haskell-aeson-7553a0ad.md) | 2.3.1.0 | 2026-07-05T10:37:44Z | registry-derived |
+| [aeson](../records/haskell-aeson-7553a0ad.md) | 2.3.2.0 | 2026-09-12T18:04:12Z | registry-derived |
 | [aeson-compat](../records/haskell-aeson-compat-76be1cd9.md) | 0.3.10 | 2021-10-09T19:03:20Z | registry-derived |
 | [aeson-diff](../records/haskell-aeson-diff-adc67c55.md) | 1.1.0.15 | 2026-03-12T13:43:46Z | registry-derived |
 | [aeson-extra](../records/haskell-aeson-extra-08fc94a1.md) | 0.5.1.3 | 2023-07-09T15:38:08Z | registry-derived |
@@ -533,7 +533,7 @@ Records: `1716`
 | [brittany](../records/haskell-brittany-98f0dfd2.md) | 0.14.0.2 | 2022-01-13T14:45:22Z | registry-derived |
 | [bson](../records/haskell-bson-4493f8c6.md) | 0.4.0.1 | 2020-03-23T04:35:32Z | registry-derived |
 | [bugsnag](../records/haskell-bugsnag-279ae229.md) | 1.2.0.4 | 2026-09-04T16:16:13Z | registry-derived |
-| [bugsnag-types](../records/haskell-bugsnag-types-dca970ca.md) | 1.1.0.0 | 2026-09-04T16:17:16Z | registry-derived |
+| [bugsnag-types](../records/haskell-bugsnag-types-dca970ca.md) | 1.1.0.1 | 2026-09-12T16:41:50Z | registry-derived |
 | [bugsnag-yesod](../records/haskell-bugsnag-yesod-b94b89ea.md) | 1.0.1.3 | 2026-09-04T16:19:05Z | registry-derived |
 | [burrito](../records/haskell-burrito-8d6df455.md) | 2.0.1.17 | 2026-05-22T14:54:21Z | registry-derived |
 | [butcher](../records/haskell-butcher-ceb9004a.md) | 1.3.3.2 | 2020-06-10T20:03:13Z | registry-derived |
