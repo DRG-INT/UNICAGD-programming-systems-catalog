@@ -1,6 +1,6 @@
 # Radars
 
-Records: `355`
+Records: `365`
 
 ## Navigation
 
@@ -10,21 +10,21 @@ Records: `355`
 
 [Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (125)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (26)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (182)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (253)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1717)](../by-category/filesystem-os.md) · [Formatter (669)](../by-category/formatter.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (486)](../by-category/ffi-bindings.md) · [Filesystem Os (1717)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1514)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (448)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1470)](../by-category/language-specification.md) · [Library (6106)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (557)](../by-category/logging-observability.md) · [Machine Learning (863)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1089)](../by-category/networking-http.md)
+[Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6107)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (557)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1091)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (407)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (674)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (407)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (675)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1663)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (650)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1664)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (650)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -47,7 +47,7 @@ Records: `355`
 | [robert80203/HuPR-A-Benchmark-for-Human-Pose-Estimation-Using-Millimeter-Wave-Radar](../records/radars-robert80203-hupr-a-benchmark-for-human-pose-estimation-using-millimeter-wave-radar-f82a6c81.md) | partial | 2025-02-11T15:59:17Z | registry-derived |
 | [rsasaki0109/lidar_slam_ros2](../records/radars-rsasaki0109-lidar-slam-ros2-d0c04735.md) | partial | 2026-09-11T09:58:22Z | registry-derived |
 | [songyz2019/rs-fusion-datasets](../records/radars-songyz2019-rs-fusion-datasets-b8aaf1d6.md) | partial | 2026-05-06T09:44:10Z | registry-derived |
-| [sysstat/sysstat](../records/radars-sysstat-sysstat-e3b4db1b.md) | partial | 2026-09-05T07:53:53Z | registry-derived |
+| [sysstat/sysstat](../records/radars-sysstat-sysstat-e3b4db1b.md) | partial | 2026-09-12T14:38:16Z | registry-derived |
 | [waterdisappear/ATRNet-STAR](../records/radars-waterdisappear-atrnet-star-4710a166.md) | partial | 2026-09-01T10:12:37Z | registry-derived |
 
 ### Build System
@@ -79,6 +79,7 @@ Records: `355`
 | [DahnJ/Awesome-DEM](../records/radars-dahnj-awesome-dem-f0596e43.md) | partial | 2024-05-25T23:15:40Z | registry-derived |
 | [Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion](../records/radars-radar-camera-fusion-awesome-radar-camera-fusion-3b5510d5.md) | partial | 2025-07-14T23:43:40Z | registry-derived |
 | [Radar-Camera-Fusion/Awesome-Radar-Perception](../records/radars-radar-camera-fusion-awesome-radar-perception-8b7503bf.md) | partial | 2025-06-04T02:34:28Z | registry-derived |
+| [waterdisappear/Awesome-SAR-ATR-Dataset](../records/radars-waterdisappear-awesome-sar-atr-dataset-1d3dc50f.md) | partial | 2026-04-05T03:31:36Z | registry-derived |
 | [ZHOUYI1023/awesome-radar-perception](../records/radars-zhouyi1023-awesome-radar-perception-d7d35831.md) | partial | 2025-04-05T08:00:29Z | registry-derived |
 
 ### Compression
@@ -202,6 +203,7 @@ Records: `355`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AndrewPlayer3/sentinel1_decode](../records/radars-andrewplayer3-sentinel1-decode-3aff839a.md) | partial | 2026-01-21T20:13:20Z | registry-derived |
+| [fred9076/OPFA_matlab](../records/radars-fred9076-opfa-matlab-f0318603.md) | partial | 2023-10-26T06:50:48Z | registry-derived |
 | [nicespoon/retro-adsb-radar](../records/radars-nicespoon-retro-adsb-radar-fe5109d7.md) | partial | 2026-07-24T10:18:06Z | registry-derived |
 | [OSGeo/gdal](../records/radars-osgeo-gdal-f77226f8.md) | partial | 2026-09-06T23:27:24Z | registry-derived |
 | [Ttl/torchbp](../records/radars-ttl-torchbp-2fa85796.md) | partial | 2026-08-29T13:13:57Z | registry-derived |
@@ -239,7 +241,7 @@ Records: `355`
 | [ChenHongruixuan/ChangeDetectionRepository](../records/radars-chenhongruixuan-changedetectionrepository-b7588393.md) | partial | 2021-11-08T03:24:27Z | registry-derived |
 | [CyanideCN/PyCINRAD](../records/radars-cyanidecn-pycinrad-fe2b1f00.md) | partial | 2026-06-26T10:45:59Z | registry-derived |
 | [fitoprincipe/geetools-code-editor](../records/radars-fitoprincipe-geetools-code-editor-1080a1fa.md) | partial | 2023-10-02T23:06:19Z | registry-derived |
-| [iann0036/iam-dataset](../records/radars-iann0036-iam-dataset-774cb2c0.md) | partial | 2026-09-09T13:37:54Z | registry-derived |
+| [iann0036/iam-dataset](../records/radars-iann0036-iam-dataset-774cb2c0.md) | partial | 2026-09-11T14:40:55Z | registry-derived |
 | [kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8](../records/radars-kbhujbal-trident-synthetic-aperture-radar-maritime-vessel-detection-yolov8-84b83c31.md) | partial | 2025-12-04T23:48:35Z | registry-derived |
 | [manideep2510/eye-in-the-sky](../records/radars-manideep2510-eye-in-the-sky-f8be2776.md) | partial | 2023-03-24T22:27:12Z | registry-derived |
 | [PrideLab/PRIDE-PPPAR](../records/radars-pridelab-pride-pppar-ccbcde5b.md) | partial | 2026-08-07T05:06:59Z | registry-derived |
@@ -265,6 +267,7 @@ Records: `355`
 | [satellite-image-deep-learning/techniques](../records/radars-satellite-image-deep-learning-techniques-e7ca1db3.md) | partial | 2026-09-04T10:40:00Z | registry-derived |
 | [sentinelsat/sentinelsat](../records/radars-sentinelsat-sentinelsat-6e539b3f.md) | partial | 2024-10-02T09:22:49Z | registry-derived |
 | [spectralpython/spectral](../records/radars-spectralpython-spectral-64510eeb.md) | partial | 2026-09-04T16:45:13Z | registry-derived |
+| [sty16/ship-detection](../records/radars-sty16-ship-detection-e84b08e7.md) | partial | 2020-03-10T13:25:57Z | registry-derived |
 | [xds0112/5G_based_Link_level_Integrated_Sensing_and_Communication_Simulator](../records/radars-xds0112-5g-based-link-level-integrated-sensing-and-communication-simulator-4eb07df7.md) | partial | 2024-10-18T08:07:12Z | registry-derived |
 | [xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](../records/radars-xds0112-5g-based-system-level-integrated-sensing-and-communication-simulator-e6456eeb.md) | partial | 2024-10-18T08:08:48Z | registry-derived |
 
@@ -297,6 +300,7 @@ Records: `355`
 | [ngageoint/MATLAB_SAR](../records/radars-ngageoint-matlab-sar-b3d1c687.md) | partial | 2024-11-22T21:55:56Z | registry-derived |
 | [ngageoint/sarpy](../records/radars-ngageoint-sarpy-e3823959.md) | partial | 2026-08-24T17:31:26Z | registry-derived |
 | [om-ai-lab/RS5M](../records/radars-om-ai-lab-rs5m-ee3996e0.md) | partial | 2025-03-17T03:05:40Z | registry-derived |
+| [ValkyrieSystems/sarkit](../records/radars-valkyriesystems-sarkit-a04e5896.md) | partial | 2026-09-09T15:29:10Z | registry-derived |
 
 ### Library
 
@@ -340,6 +344,7 @@ Records: `355`
 | [Marksman007577/Autonomous-Drive](../records/radars-marksman007577-autonomous-drive-b586becf.md) | partial | 2026-04-15T22:00:15Z | registry-derived |
 | [milleniums/High-Resolution-Remote-Sensing-Semantic-Segmentation-PyTorch](../records/radars-milleniums-high-resolution-remote-sensing-semantic-segmentation-pytorch-1037fac4.md) | partial | 2020-11-11T07:15:43Z | registry-derived |
 | [moienr/TemporalGAN](../records/radars-moienr-temporalgan-ffcc19f2.md) | partial | 2024-08-13T08:19:30Z | registry-derived |
+| [montimaj/SARSnow](../records/radars-montimaj-sarsnow-729a0cb8.md) | partial | 2019-09-14T22:40:08Z | registry-derived |
 | [moov-io/fincen](../records/radars-moov-io-fincen-b43822ff.md) | partial | 2026-09-10T03:43:59Z | registry-derived |
 | [NeuroFan/Algorithmic-SAR-ADC-simulation-files](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) | partial | 2024-06-29T10:51:12Z | registry-derived |
 | [ngageoint/sarpy_apps](../records/radars-ngageoint-sarpy-apps-53476eab.md) | partial | 2025-08-19T15:16:27Z | registry-derived |
@@ -413,6 +418,7 @@ Records: `355`
 | [SJTU-Thinklab-Det/DOTA-DOAI](../records/radars-sjtu-thinklab-det-dota-doai-9649ff2b.md) | partial | 2023-03-08T11:47:55Z | registry-derived |
 | [ultralytics/xview-yolov3](../records/radars-ultralytics-xview-yolov3-eb5d01f2.md) | partial | 2026-08-28T10:56:50Z | registry-derived |
 | [url-kaist/outlier-robust-radar-odometry](../records/radars-url-kaist-outlier-robust-radar-odometry-78b80fba.md) | partial | 2025-03-27T22:25:07Z | registry-derived |
+| [waterdisappear/Data-Bias-in-MSTAR](../records/radars-waterdisappear-data-bias-in-mstar-0e333471.md) | partial | 2026-04-05T03:41:56Z | registry-derived |
 | [waterdisappear/SAR-ATR-HDANet](../records/radars-waterdisappear-sar-atr-hdanet-c12fed0f.md) | partial | 2026-04-05T03:37:17Z | registry-derived |
 
 ### Math Numeric Scientific
@@ -431,11 +437,13 @@ Records: `355`
 | [ameraner/dsen2-cr](../records/radars-ameraner-dsen2-cr-04550382.md) | partial | 2026-01-26T16:29:38Z | registry-derived |
 | [Crush0416/MS-CVNets-a-novel-complex-valued-neural-networks-for-SAR-ATR](../records/radars-crush0416-ms-cvnets-a-novel-complex-valued-neural-networks-for-sar-atr-9231016b.md) | partial | 2026-09-05T13:11:53Z | registry-derived |
 | [diegovalsesia/speckle2void](../records/radars-diegovalsesia-speckle2void-76460898.md) | partial | 2023-03-24T22:19:08Z | registry-derived |
+| [emanueledalsasso/SAR-CNN](../records/radars-emanueledalsasso-sar-cnn-ccdd9f4c.md) | partial | 2021-05-06T12:24:57Z | registry-derived |
 | [htcr/sam_road](../records/radars-htcr-sam-road-e8a5b74c.md) | partial | 2024-08-10T18:36:56Z | registry-derived |
 | [Jakaria08/EESRGAN](../records/radars-jakaria08-eesrgan-72c925a7.md) | partial | 2022-11-22T05:50:00Z | registry-derived |
 | [jangsoopark/AConvNet-pytorch](../records/radars-jangsoopark-aconvnet-pytorch-b65e8307.md) | partial | 2022-12-27T11:36:42Z | registry-derived |
 | [KaixoCode/SoundMixr](../records/radars-kaixocode-soundmixr-a69d5bde.md) | partial | 2022-10-02T08:51:21Z | registry-derived |
 | [lionheart/openradar-mirror](../records/radars-lionheart-openradar-mirror-2092e24b.md) | partial | 2018-11-27T18:08:54Z | registry-derived |
+| [m9brady/eodms-api-client](../records/radars-m9brady-eodms-api-client-a13d924b.md) | partial | 2026-07-19T12:57:40Z | registry-derived |
 | [nshaud/DeepNetsForEO](../records/radars-nshaud-deepnetsforeo-d940b4c6.md) | partial | 2019-10-23T15:22:56Z | registry-derived |
 | [RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection](../records/radars-rituyadav92-radar-rgb-attentive-multimodal-object-detection-19eda9ab.md) | partial | 2024-10-13T18:54:40Z | registry-derived |
 | [TUMFTM/RadarGNN](../records/radars-tumftm-radargnn-505af59d.md) | partial | 2025-11-27T07:10:39Z | registry-derived |
@@ -505,6 +513,7 @@ Records: `355`
 | [egagli/sar_snowmelt_timing](../records/radars-egagli-sar-snowmelt-timing-61862ecf.md) | partial | 2026-08-14T19:33:26Z | registry-derived |
 | [gee-community/geemap](../records/radars-gee-community-geemap-83890093.md) | partial | 2026-09-04T17:39:42Z | registry-derived |
 | [GeoRetina/chat2geo](../records/radars-georetina-chat2geo-606c922b.md) | partial | 2026-06-09T18:33:38Z | registry-derived |
+| [GeoscienceAustralia/CoRAL](../records/radars-geoscienceaustralia-coral-144f7907.md) | partial | 2020-12-24T03:22:40Z | registry-derived |
 | [GeoscienceAustralia/dea-notebooks](../records/radars-geoscienceaustralia-dea-notebooks-86a9662a.md) | partial | 2026-09-04T00:38:16Z | registry-derived |
 | [gisbi-kim/navtech-radar-slam](../records/radars-gisbi-kim-navtech-radar-slam-ac9770d7.md) | partial | 2024-05-16T04:30:26Z | registry-derived |
 | [IMS-AS-LUH/sar-sim](../records/radars-ims-as-luh-sar-sim-e1aa94e8.md) | partial | 2024-03-19T15:39:59Z | registry-derived |
@@ -557,6 +566,7 @@ Records: `355`
 | [olliestephenson/dpm-rnn-public](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) | partial | 2021-07-30T20:55:47Z | registry-derived |
 | [opendatacube/datacube-core](../records/radars-opendatacube-datacube-core-d382000b.md) | partial | 2026-09-05T08:18:24Z | registry-derived |
 | [orfeotoolbox/OTB](../records/radars-orfeotoolbox-otb-5833013c.md) | partial | 2026-09-03T13:06:34Z | registry-derived |
+| [palubad/S1-BAP](../records/radars-palubad-s1-bap-de381645.md) | partial | 2024-08-05T14:57:40Z | registry-derived |
 | [sargraph/sargraph.github.io](../records/radars-sargraph-sargraph-github-io-db66a524.md) | partial | 2023-04-08T23:50:36Z | registry-derived |
 | [semuconsulting/PyGPSClient](../records/radars-semuconsulting-pygpsclient-03a614eb.md) | partial | 2026-09-11T07:58:57Z | registry-derived |
 | [sentinel-hub/custom-scripts](../records/radars-sentinel-hub-custom-scripts-c35486ea.md) | partial | 2026-08-13T12:47:30Z | registry-derived |
