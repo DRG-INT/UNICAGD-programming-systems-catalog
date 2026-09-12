@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1511`
+Records: `1514`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1511`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (596)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1706)](filesystem-os.md) · [Formatter (667)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1511)](ide-editor-integration.md)**
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1514)](ide-editor-integration.md)**
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6091)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (856)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -693,7 +693,7 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T09:45:11Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T11:15:17Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-12T09:09:40Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1517,17 +1517,20 @@ Records: `1511`
 | Baroshem/nuxt-newsletter | partial | 2023-04-23T21:25:37Z | [open](../records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
 | braziljs/weekly | partial | 2021-06-01T12:00:22Z | [open](../records/magazines-braziljs-weekly-013dd57e.md) |
 | business-science/free_r_tips | partial | 2024-11-17T13:36:53Z | [open](../records/magazines-business-science-free-r-tips-64f5375c.md) |
-| chinesehuazhou/python-weekly | partial | 2026-08-29T13:16:09Z | [open](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) |
+| chinesehuazhou/python-weekly | partial | 2026-09-05T13:03:47Z | [open](../records/magazines-chinesehuazhou-python-weekly-a2ded07c.md) |
+| cidrblock/home_journal | partial | 2026-09-07T17:14:14Z | [open](../records/magazines-cidrblock-home-journal-93cc07dc.md) |
 | fdavies93/daily-notes.nvim | partial | 2026-02-22T08:32:10Z | [open](../records/magazines-fdavies93-daily-notes-nvim-25a17308.md) |
+| ink7011/zine-composition-beauty | partial | 2026-08-08T15:22:51Z | [open](../records/magazines-ink7011-zine-composition-beauty-cff0eb0f.md) |
 | jakobkhansen/journal.nvim | partial | 2026-05-12T15:50:42Z | [open](../records/magazines-jakobkhansen-journal-nvim-41856539.md) |
 | jessa-clark/dignified-winers | partial | 2021-07-28T16:05:38Z | [open](../records/magazines-jessa-clark-dignified-winers-10548068.md) |
 | lervag/wiki.vim | partial | 2026-09-11T08:28:20Z | [open](../records/magazines-lervag-wiki-vim-2ff43f08.md) |
 | Manna-Network/bitcoin_ad_agency | partial | 2019-02-26T00:44:51Z | [open](../records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) |
 | mmarquezs/libgen-python-api | partial | 2022-05-18T15:15:49Z | [open](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
-| Notifuse/notifuse | partial | 2026-09-01T07:41:45Z | [open](../records/magazines-notifuse-notifuse-f68915ee.md) |
+| Notifuse/notifuse | partial | 2026-09-08T15:29:46Z | [open](../records/magazines-notifuse-notifuse-f68915ee.md) |
 | pajoma/vscode-journal | partial | 2026-08-20T20:30:19Z | [open](../records/magazines-pajoma-vscode-journal-fd5206d8.md) |
 | TryGhost/Editorial | partial | 2026-09-11T19:07:52Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
 | uzih05/journal | partial | 2026-02-09T09:03:55Z | [open](../records/magazines-uzih05-journal-00e04855.md) |
+| yanliudesign/mono-color-skill | partial | 2026-09-02T18:49:42Z | [open](../records/magazines-yanliudesign-mono-color-skill-382cd12d.md) |
 
 ## Braces
 
@@ -1621,7 +1624,7 @@ Records: `1511`
 | mitchellh/libxev | partial | 2026-07-17T05:22:40Z | [open](../records/webassembly-mitchellh-libxev-2da389e7.md) |
 | pion/webrtc | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-pion-webrtc-a1beffe0.md) |
 | pyodide/pyodide | partial | 2026-09-09T08:35:53Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
-| raysan5/raylib | partial | 2026-09-11T16:27:09Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
+| raysan5/raylib | partial | 2026-09-12T08:54:30Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
 | rhysd/vim.wasm | partial | 2026-02-25T16:49:20Z | [open](../records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 | SwiftLaTeX/SwiftLaTeX | partial | 2024-06-18T10:03:53Z | [open](../records/webassembly-swiftlatex-swiftlatex-26bede4e.md) |
 

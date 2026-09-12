@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (236)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1040)](by-category/build-system.md) · [Cli (596)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (601)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (26)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1706)](by-category/filesystem-os.md) · [Formatter (667)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1511)](by-category/ide-editor-integration.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1710)](by-category/filesystem-os.md) · [Formatter (669)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1514)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6091)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (856)](by-category/machine-learning.md)
-[Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
-[Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6096)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (857)](by-category/machine-learning.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1088)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
+[Profiler (98)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (668)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1662)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1663)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -11012,10 +11012,12 @@
 | `github_search_icons_and_logos-fda830d5bc9d92` | elizabetdev/react-kawaii | [open](records/icons-and-logos-elizabetdev-react-kawaii-85f9ecf8.md) |
 | `github_search_icons_and_logos-fdeb1e36396318` | MohamedYoussouf/Design-Resources | [open](records/icons-and-logos-mohamedyoussouf-design-resources-ca4805fc.md) |
 | `github_search_icons_and_logos-ff7a5ffc71f3ec` | muan/mojibar | [open](records/icons-and-logos-muan-mojibar-30358614.md) |
+| `github_search_magazines-0084d81a8e7c54` | shenchangyi/photo-to-monthly-zine-postcard | [open](records/magazines-shenchangyi-photo-to-monthly-zine-postcard-53cc445a.md) |
 | `github_search_magazines-0127b48f8cc70b` | braziljs/weekly | [open](records/magazines-braziljs-weekly-013dd57e.md) |
 | `github_search_magazines-01cdf1d6b339d5` | samuelmeuli/mini-diary | [open](records/magazines-samuelmeuli-mini-diary-55a97725.md) |
 | `github_search_magazines-02ca27357eaeee` | BohdanPetryshyn/formzero | [open](records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
 | `github_search_magazines-03a7ab504140a6` | JacobEvelyn/friends | [open](records/magazines-jacobevelyn-friends-9e7e65ed.md) |
+| `github_search_magazines-04441090f6b817` | logog782-cmyk/linkly-quote-cards | [open](records/magazines-logog782-cmyk-linkly-quote-cards-6f7b079d.md) |
 | `github_search_magazines-04cdad72e53548` | thuang136/DeveloperMagazine | [open](records/magazines-thuang136-developermagazine-86d0075f.md) |
 | `github_search_magazines-04ddf62355a2e5` | tonycai/The-Journal-of-Blockchain | [open](records/magazines-tonycai-the-journal-of-blockchain-bbd4ccd1.md) |
 | `github_search_magazines-051a5c9996191f` | TryGhost/Dawn | [open](records/magazines-tryghost-dawn-93a1bcb3.md) |
@@ -11033,6 +11035,7 @@
 | `github_search_magazines-0c15efbb1e3687` | godofredoninja/simply | [open](records/magazines-godofredoninja-simply-0f8a6624.md) |
 | `github_search_magazines-0d7399f892e8ba` | stefanbc/Asgar | [open](records/magazines-stefanbc-asgar-0b7791d7.md) |
 | `github_search_magazines-0de0337f9edcb0` | skerkour/markdown-ninja | [open](records/magazines-skerkour-markdown-ninja-d48946d3.md) |
+| `github_search_magazines-0e70867090e7ee` | patillacode/piruetas | [open](records/magazines-patillacode-piruetas-8512efb3.md) |
 | `github_search_magazines-0f262717cfd93e` | unkn0w/disposable-email-domain-list | [open](records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) |
 | `github_search_magazines-1050c6849947cf` | data-is-plural/newsletter-archive | [open](records/magazines-data-is-plural-newsletter-archive-9aa39972.md) |
 | `github_search_magazines-1143a799f14ddd` | weekend-project-space/moon-note | [open](records/magazines-weekend-project-space-moon-note-f720fe7d.md) |
@@ -11048,6 +11051,7 @@
 | `github_search_magazines-160ea99ec85d17` | zudochkin/awesome-newsletters | [open](records/magazines-zudochkin-awesome-newsletters-ab51d3fc.md) |
 | `github_search_magazines-16f3296832bcd9` | oskardudycz/ArchitectureWeekly | [open](records/magazines-oskardudycz-architectureweekly-33cb66f1.md) |
 | `github_search_magazines-17143bf8a713af` | jendrikseipp/rednotebook | [open](records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) |
+| `github_search_magazines-175ac473c475d6` | roniel-rhack/rondo | [open](records/magazines-roniel-rhack-rondo-5488e0be.md) |
 | `github_search_magazines-17f87867eb50d8` | Manna-Network/bitcoin_ad_agency | [open](records/magazines-manna-network-bitcoin-ad-agency-f8bbb11d.md) |
 | `github_search_magazines-18f14942fc0af2` | haskellweekly/haskellweekly | [open](records/magazines-haskellweekly-haskellweekly-2d16522a.md) |
 | `github_search_magazines-18f845498c9b45` | Notifuse/notifuse | [open](records/magazines-notifuse-notifuse-f68915ee.md) |
@@ -11071,6 +11075,7 @@
 | `github_search_magazines-231afee2011f2d` | imsoumya18/upsc_bot | [open](records/magazines-imsoumya18-upsc-bot-d97637c5.md) |
 | `github_search_magazines-2341a3cf5253a0` | jessa-clark/dignified-winers | [open](records/magazines-jessa-clark-dignified-winers-10548068.md) |
 | `github_search_magazines-23a89ad5cd4e0f` | OS2World/DEV-SAMPLES-SOM-Students | [open](records/magazines-os2world-dev-samples-som-students-ec413d96.md) |
+| `github_search_magazines-23f57cb6be4e8a` | pimalaya/calendula | [open](records/magazines-pimalaya-calendula-1a4bbe52.md) |
 | `github_search_magazines-26019412a1c645` | rauversion/rauversion | [open](records/magazines-rauversion-rauversion-db301980.md) |
 | `github_search_magazines-267b8f07ce8421` | saschagrunert/git-journal | [open](records/magazines-saschagrunert-git-journal-fd814c94.md) |
 | `github_search_magazines-270425185dc137` | wix-incubator/DLT | [open](records/magazines-wix-incubator-dlt-1845863c.md) |
@@ -11091,6 +11096,7 @@
 | `github_search_magazines-3529bc9b3c566a` | uzih05/journal | [open](records/magazines-uzih05-journal-00e04855.md) |
 | `github_search_magazines-366887ad304bc9` | TryGhost/Massively | [open](records/magazines-tryghost-massively-019faf67.md) |
 | `github_search_magazines-36c21f613c4d65` | ningoink/open-source-magazine | [open](records/magazines-ningoink-open-source-magazine-3e01f58a.md) |
+| `github_search_magazines-36ef04f624d73c` | Shangjin-Xiao/ThoughtEcho | [open](records/magazines-shangjin-xiao-thoughtecho-de4c39d7.md) |
 | `github_search_magazines-379ae88dddb7b6` | songtianlun/diarum | [open](records/magazines-songtianlun-diarum-6ce1bdf0.md) |
 | `github_search_magazines-3b87babb039a96` | TryGhost/Editorial | [open](records/magazines-tryghost-editorial-947481f0.md) |
 | `github_search_magazines-3be61401681a2b` | bestxtools/weekly-cn | [open](records/magazines-bestxtools-weekly-cn-0e05b725.md) |
@@ -11105,10 +11111,13 @@
 | `github_search_magazines-4278df9d6cbe51` | russmiles/life-preserver-introductory-article-developer-magazine | [open](records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | `github_search_magazines-43376034a8733c` | Abdo-Hussien/Magazine-System | [open](records/magazines-abdo-hussien-magazine-system-99fd7e1b.md) |
 | `github_search_magazines-435f4fcb07074e` | lcomplete/TechShare | [open](records/magazines-lcomplete-techshare-7971ab4d.md) |
+| `github_search_magazines-450660409b6cf3` | yafira/tinytinker-tools | [open](records/magazines-yafira-tinytinker-tools-f0a7872d.md) |
+| `github_search_magazines-471007844915b2` | moonlin1213/muted-zine-poster-v01 | [open](records/magazines-moonlin1213-muted-zine-poster-v01-2cb732da.md) |
 | `github_search_magazines-4818dc82149d0b` | lokeshreddy007/freedom-of-education | [open](records/magazines-lokeshreddy007-freedom-of-education-1e75f90b.md) |
 | `github_search_magazines-4902679b5a79bb` | ajaymnk/open-electronics | [open](records/magazines-ajaymnk-open-electronics-d823069e.md) |
 | `github_search_magazines-4933d0b7bef569` | edgarlr/magazine | [open](records/magazines-edgarlr-magazine-ca1ef2f0.md) |
 | `github_search_magazines-49ce356645d5b1` | TryGhost/Wave | [open](records/magazines-tryghost-wave-6393e812.md) |
+| `github_search_magazines-4a04d3488c4885` | nark/magicbox | [open](records/magazines-nark-magicbox-76519c11.md) |
 | `github_search_magazines-4a576ac388281e` | bindthegap/bindthegap.github.io | [open](records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) |
 | `github_search_magazines-4afd1e33266c6e` | anvayeem-spec/personal_portfolio | [open](records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
 | `github_search_magazines-4b1a2cd8b92be9` | Lifailon/lazyjournal | [open](records/magazines-lifailon-lazyjournal-53d3b383.md) |
@@ -11129,9 +11138,12 @@
 | `github_search_magazines-59e5a56afc8797` | jakobkhansen/journal.nvim | [open](records/magazines-jakobkhansen-journal-nvim-41856539.md) |
 | `github_search_magazines-5acdd47ac38501` | 2KAbhishek/tdo.nvim | [open](records/magazines-2kabhishek-tdo-nvim-8ea68e09.md) |
 | `github_search_magazines-5add7227b0d886` | vitogit/sorter | [open](records/magazines-vitogit-sorter-2a724fef.md) |
+| `github_search_magazines-5ade3e523fd083` | spech66/lifelogbb | [open](records/magazines-spech66-lifelogbb-92f84003.md) |
 | `github_search_magazines-5c0e33bd0c2bd8` | mindori/linkpress | [open](records/magazines-mindori-linkpress-ed13907c.md) |
 | `github_search_magazines-5c54d35515c089` | NathanGeerinck/laravel-newsletter | [open](records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | `github_search_magazines-5dbc1b6fc1cad5` | api-evangelist/vox-media | [open](records/magazines-api-evangelist-vox-media-808b1be2.md) |
+| `github_search_magazines-5df23e35d0d3c9` | STRd6/zine | [open](records/magazines-strd6-zine-58174dbb.md) |
+| `github_search_magazines-5e01d8d88f50a5` | packetThrower/zorite | [open](records/magazines-packetthrower-zorite-78b6f1c9.md) |
 | `github_search_magazines-6179013ff065c3` | WesternFriend/westernfriend.org | [open](records/magazines-westernfriend-westernfriend-org-43c3421f.md) |
 | `github_search_magazines-61e60f8869c086` | Ha0Tang/HandGestureRecognition | [open](records/magazines-ha0tang-handgesturerecognition-16d2c54b.md) |
 | `github_search_magazines-621abd8126eaab` | traced-it/traced-it-android | [open](records/magazines-traced-it-traced-it-android-584ef7b8.md) |
@@ -11147,15 +11159,21 @@
 | `github_search_magazines-6ac776cd58c813` | TryGhost/London | [open](records/magazines-tryghost-london-a1950ab3.md) |
 | `github_search_magazines-6bf9a81853ca48` | memrynote/memry | [open](records/magazines-memrynote-memry-3848d952.md) |
 | `github_search_magazines-6c3a7a8f559d1c` | daryllxd/lifelong-learning | [open](records/magazines-daryllxd-lifelong-learning-cc3fede9.md) |
+| `github_search_magazines-6c777fb7503971` | lachlanjc/gasp | [open](records/magazines-lachlanjc-gasp-06cb16c1.md) |
+| `github_search_magazines-6cad7b25c48c7f` | ink7011/zine-composition-beauty | [open](records/magazines-ink7011-zine-composition-beauty-cff0eb0f.md) |
 | `github_search_magazines-6d8e2deb8c689a` | kotlin-digest/weekly | [open](records/magazines-kotlin-digest-weekly-a20aa634.md) |
 | `github_search_magazines-6f2b7de7fb1424` | pmoskovi/kafka-learning-resources | [open](records/magazines-pmoskovi-kafka-learning-resources-bd3ddacf.md) |
+| `github_search_magazines-6f5e3ab460eac7` | refactorsaurusrex/journal-cli | [open](records/magazines-refactorsaurusrex-journal-cli-d1755241.md) |
+| `github_search_magazines-6fea72634a8194` | goncalor/phrack-epub | [open](records/magazines-goncalor-phrack-epub-6564d03c.md) |
 | `github_search_magazines-712d4d29526438` | jrnl-org/jrnl | [open](records/magazines-jrnl-org-jrnl-c7f0a1c9.md) |
+| `github_search_magazines-720b13b5c5a412` | vlingo/xoom-symbio | [open](records/magazines-vlingo-xoom-symbio-c99c98fb.md) |
 | `github_search_magazines-7214df83a445f4` | gamemann/i-lost-my-mom-to-pancreatic-cancer | [open](records/magazines-gamemann-i-lost-my-mom-to-pancreatic-cancer-774a5474.md) |
 | `github_search_magazines-72526d473c8bbe` | Yashikar/iostraininginstituteinchennai | [open](records/magazines-yashikar-iostraininginstituteinchennai-83d6cb28.md) |
 | `github_search_magazines-74acfa8f1d3356` | forwardemail/forwardemail.net | [open](records/magazines-forwardemail-forwardemail-net-fd72fd0d.md) |
 | `github_search_magazines-74d47e429e4315` | rauversion/rauversion | [open](records/magazines-rauversion-rauversion-cfc2ec4b.md) |
 | `github_search_magazines-74da53f1c085f9` | mikeckennedy/listmonk | [open](records/magazines-mikeckennedy-listmonk-b97a2a8b.md) |
 | `github_search_magazines-752dad5c64be9a` | TalEliyahu/awesome-security-newsletters | [open](records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
+| `github_search_magazines-75365fdf47c158` | chrstnvi/zine-moskovskaya-excursia | [open](records/magazines-chrstnvi-zine-moskovskaya-excursia-2305cb5f.md) |
 | `github_search_magazines-761bf425ed1f12` | hatnote/weeklypedia | [open](records/magazines-hatnote-weeklypedia-1bfb7caa.md) |
 | `github_search_magazines-76f516e224ae09` | jvm-bloggers/jvm-bloggers | [open](records/magazines-jvm-bloggers-jvm-bloggers-87768bc4.md) |
 | `github_search_magazines-7a835fc5b59aac` | spatie/Mailcoach | [open](records/magazines-spatie-mailcoach-b99f99d2.md) |
@@ -11164,6 +11182,7 @@
 | `github_search_magazines-7cd7fd912e1637` | TryGhost/Dope | [open](records/magazines-tryghost-dope-8382f7e5.md) |
 | `github_search_magazines-7d1bdd456dffdf` | brandonp2412/Quitter | [open](records/magazines-brandonp2412-quitter-639e86aa.md) |
 | `github_search_magazines-7f843f48d68ec9` | ReScience/ReScience | [open](records/magazines-rescience-rescience-6e84e985.md) |
+| `github_search_magazines-8005a08ab86515` | AndromedaTechnology/habitus | [open](records/magazines-andromedatechnology-habitus-12dca07c.md) |
 | `github_search_magazines-813ef91cb274de` | AmmarAbouZor/tui-journal | [open](records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
 | `github_search_magazines-81a280e180923a` | AnglyPascal/MO-Problem-Journal | [open](records/magazines-anglypascal-mo-problem-journal-75e755ba.md) |
 | `github_search_magazines-81f672cbf88496` | pajoma/vscode-journal | [open](records/magazines-pajoma-vscode-journal-fd5206d8.md) |
@@ -11184,6 +11203,7 @@
 | `github_search_magazines-8e869252e14452` | alexellis/explorerrobot | [open](records/magazines-alexellis-explorerrobot-4a62e07a.md) |
 | `github_search_magazines-8e9a24ff131993` | angea/pocorgtfo | [open](records/magazines-angea-pocorgtfo-be08ccee.md) |
 | `github_search_magazines-8f2893dae892fd` | pentix/qjournalctl | [open](records/magazines-pentix-qjournalctl-c3bf77ef.md) |
+| `github_search_magazines-8fe2cb3030fc75` | IliaZenkov/async-pubmed-scraper | [open](records/magazines-iliazenkov-async-pubmed-scraper-d848cfe4.md) |
 | `github_search_magazines-9113e732d5ac45` | TryGhost/Ease | [open](records/magazines-tryghost-ease-4f961538.md) |
 | `github_search_magazines-926ae8d93ef152` | TangSY/dailydawn | [open](records/magazines-tangsy-dailydawn-1123cfbc.md) |
 | `github_search_magazines-93d3f9899d9c33` | srid/chronicle | [open](records/magazines-srid-chronicle-befaced8.md) |
@@ -11192,6 +11212,7 @@
 | `github_search_magazines-96e002e17e089a` | kotlin-magazine/kotlin-magazine | [open](records/magazines-kotlin-magazine-kotlin-magazine-07c7909d.md) |
 | `github_search_magazines-9782d4f8a3fced` | mnayef95/Android-Weekly | [open](records/magazines-mnayef95-android-weekly-9281b694.md) |
 | `github_search_magazines-97f115f8a06bd3` | spatie/laravel-newsletter | [open](records/magazines-spatie-laravel-newsletter-fd258262.md) |
+| `github_search_magazines-98a637c6ff2f2d` | epilys/bitmappers-companion | [open](records/magazines-epilys-bitmappers-companion-4f55c3c3.md) |
 | `github_search_magazines-99e43267cb8b5b` | hashirshoaeb/star_book | [open](records/magazines-hashirshoaeb-star-book-7ed3063e.md) |
 | `github_search_magazines-9acb8c9be6352b` | bytecascade11/isamueldev | [open](records/magazines-bytecascade11-isamueldev-d4ea6d6d.md) |
 | `github_search_magazines-9b39178d52d412` | OS2World/DEV-SAMPLES-C-ColorWheel | [open](records/magazines-os2world-dev-samples-c-colorwheel-50ebb784.md) |
@@ -11216,7 +11237,9 @@
 | `github_search_magazines-accf1f39544379` | pentix/qjournalctl | [open](records/magazines-pentix-qjournalctl-c0df0726.md) |
 | `github_search_magazines-ad5f8166331c9d` | MediaExpres/magazin-paine | [open](records/magazines-mediaexpres-magazin-paine-f0d1c4b5.md) |
 | `github_search_magazines-ad8f03d9711e5c` | atrenton/MyJournal.Notebook | [open](records/magazines-atrenton-myjournal-notebook-69c69e5d.md) |
+| `github_search_magazines-ae31bb0b167f9e` | stripedpajamas/phrack-pdf | [open](records/magazines-stripedpajamas-phrack-pdf-61596ed5.md) |
 | `github_search_magazines-ae4a5c630cdd84` | OS2World/DEV-SAMPLES-C-PM-ctrldes | [open](records/magazines-os2world-dev-samples-c-pm-ctrldes-cc4b602b.md) |
+| `github_search_magazines-aeab2e9ee9c129` | loke-dev/sveltekit-mdsvex-blog-template | [open](records/magazines-loke-dev-sveltekit-mdsvex-blog-template-632f36d8.md) |
 | `github_search_magazines-af70cd6d24ed4e` | Paul-Ladyman/LUD-go-tutorial | [open](records/magazines-paul-ladyman-lud-go-tutorial-6097738c.md) |
 | `github_search_magazines-af952e04932705` | jendrikseipp/rednotebook | [open](records/magazines-jendrikseipp-rednotebook-25e7f065.md) |
 | `github_search_magazines-b055d79dc83593` | TryGhost/Dope | [open](records/magazines-tryghost-dope-f0fa28be.md) |
@@ -11234,6 +11257,7 @@
 | `github_search_magazines-b75a31317bf507` | OS2World/DEV-SAMPLES-C-prnt3 | [open](records/magazines-os2world-dev-samples-c-prnt3-d671bbc2.md) |
 | `github_search_magazines-b8753516b9bbcc` | saadmk11/django-newsfeed | [open](records/magazines-saadmk11-django-newsfeed-0b109e3a.md) |
 | `github_search_magazines-b93212d2960802` | Aryia-Behroziuan/Other-sources | [open](records/magazines-aryia-behroziuan-other-sources-4fbf9749.md) |
+| `github_search_magazines-b9a22f698bbc4f` | mondeja/hledger-fmt | [open](records/magazines-mondeja-hledger-fmt-2c3b9c05.md) |
 | `github_search_magazines-ba5b67103076f0` | celerforge/freenote | [open](records/magazines-celerforge-freenote-5061a273.md) |
 | `github_search_magazines-ba7469108c5621` | OS2World/DEV-SAMPLES-PC_Magazine | [open](records/magazines-os2world-dev-samples-pc-magazine-c1e0c450.md) |
 | `github_search_magazines-ba87e71ef386d3` | ElliotKillick/rss2newsletter | [open](records/magazines-elliotkillick-rss2newsletter-2594c02c.md) |
@@ -11273,6 +11297,7 @@
 | `github_search_magazines-d534bc363240a3` | je-suis-tm/web-scraping | [open](records/magazines-je-suis-tm-web-scraping-d55ae274.md) |
 | `github_search_magazines-d5b0fc5a0c4210` | icodemag/icodemag.github.io | [open](records/magazines-icodemag-icodemag-github-io-2b554d80.md) |
 | `github_search_magazines-d9a073b8334e38` | shining1984/PL-Compiler-Resource | [open](records/magazines-shining1984-pl-compiler-resource-a032e151.md) |
+| `github_search_magazines-da0db831233fe6` | manipuladordedados/pdiary | [open](records/magazines-manipuladordedados-pdiary-b18888c7.md) |
 | `github_search_magazines-da1a685e0ee5f7` | GrapesJS/mjml | [open](records/magazines-grapesjs-mjml-98e8c883.md) |
 | `github_search_magazines-db3d6710cd8f60` | dcodesdev/LetterSpace | [open](records/magazines-dcodesdev-letterspace-64787355.md) |
 | `github_search_magazines-dc14d09100b8a0` | alternbits/awesome-ai-newsletters | [open](records/magazines-alternbits-awesome-ai-newsletters-f1aa7990.md) |
@@ -11281,9 +11306,11 @@
 | `github_search_magazines-de7de085239f68` | TryGhost/Edition | [open](records/magazines-tryghost-edition-30f487ea.md) |
 | `github_search_magazines-dea12bd63c8576` | gillkyle/sol-journal | [open](records/magazines-gillkyle-sol-journal-5e3d3b58.md) |
 | `github_search_magazines-dec9d51deba619` | benji6/moodtracker | [open](records/magazines-benji6-moodtracker-844d4a49.md) |
+| `github_search_magazines-df2cc2ce477251` | openjournals/jose-reviews | [open](records/magazines-openjournals-jose-reviews-2d87ccd9.md) |
 | `github_search_magazines-df44fd6ae39b08` | bytemain/mail2rss | [open](records/magazines-bytemain-mail2rss-7ce072c5.md) |
 | `github_search_magazines-e2219820496455` | vishaltelangre/wassup | [open](records/magazines-vishaltelangre-wassup-bfff1801.md) |
 | `github_search_magazines-e310bff49359bb` | TryGhost/Wave | [open](records/magazines-tryghost-wave-7da5b2a4.md) |
+| `github_search_magazines-e3d93c88202105` | cidrblock/home_journal | [open](records/magazines-cidrblock-home-journal-93cc07dc.md) |
 | `github_search_magazines-e5448ef7b23282` | ousmanabakar/Responsive-Web-Design-freecodecamp | [open](records/magazines-ousmanabakar-responsive-web-design-freecodecamp-719d13d8.md) |
 | `github_search_magazines-e5afabe8da1a6f` | mmarquezs/libgen-python-api | [open](records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
 | `github_search_magazines-e6b42fead1dc16` | massimoaria/bibliometrix | [open](records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
@@ -11292,6 +11319,7 @@
 | `github_search_magazines-e9aafe9675c5ab` | shibco/txt | [open](records/magazines-shibco-txt-aa067e38.md) |
 | `github_search_magazines-ea11af4beda690` | lokeshreddy007/freedom-of-education | [open](records/magazines-lokeshreddy007-freedom-of-education-bc9948a7.md) |
 | `github_search_magazines-eae1076631d89e` | TheAxeDude/ZiniGo | [open](records/magazines-theaxedude-zinigo-53c2b956.md) |
+| `github_search_magazines-ec32a23f975cec` | munusshih/p5.genzine | [open](records/magazines-munusshih-p5-genzine-05e3e421.md) |
 | `github_search_magazines-ecfdb7c1749ce6` | jazzband/django-newsletter | [open](records/magazines-jazzband-django-newsletter-e0a873c3.md) |
 | `github_search_magazines-edf568d102f12e` | sgermosen/xReader | [open](records/magazines-sgermosen-xreader-5a8bf3da.md) |
 | `github_search_magazines-ee58aa40b3f81c` | openlibhums/janeway | [open](records/magazines-openlibhums-janeway-b53e06a3.md) |
@@ -11307,6 +11335,7 @@
 | `github_search_magazines-f7a9a7bc91bb0e` | ogarcia/sysdweb | [open](records/magazines-ogarcia-sysdweb-f0f530b0.md) |
 | `github_search_magazines-f86824f08ff42e` | GauthierNelkinsky/ShipShipShip | [open](records/magazines-gauthiernelkinsky-shipshipship-7babedc1.md) |
 | `github_search_magazines-fa7c3de40ecf41` | Eleven-Trading/TradeNote | [open](records/magazines-eleven-trading-tradenote-55d04e82.md) |
+| `github_search_magazines-fc6703cbba3a35` | yanliudesign/mono-color-skill | [open](records/magazines-yanliudesign-mono-color-skill-382cd12d.md) |
 | `github_search_magazines-fdc622944d9612` | godofredoninja/Mapache | [open](records/magazines-godofredoninja-mapache-0df28441.md) |
 | `github_search_magazines-fdc735b1fefd49` | TryGhost/Journal | [open](records/magazines-tryghost-journal-0be492cf.md) |
 | `github_search_magazines-fe05fb9f8db504` | rdrv/technical-challenge-wordpress-exame | [open](records/magazines-rdrv-technical-challenge-wordpress-exame-33c80f1a.md) |

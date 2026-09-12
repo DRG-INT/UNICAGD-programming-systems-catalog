@@ -1,6 +1,6 @@
 # Library
 
-Records: `6091`
+Records: `6096`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `6091`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1040)](build-system.md) · [Cli (596)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (601)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1706)](filesystem-os.md) · [Formatter (667)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · **[Library (6091)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (856)](machine-learning.md)
-[Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · **[Library (6096)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (857)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1088)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
+[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -5842,9 +5842,12 @@ Records: `6091`
 | GitJournal/GitJournal | partial | 2026-05-26T13:49:39Z | [open](../records/magazines-gitjournal-gitjournal-ce79e461.md) |
 | jrnl-org/jrnl | partial | 2026-09-10T18:31:55Z | [open](../records/magazines-jrnl-org-jrnl-0d464a95.md) |
 | kotlin-magazine/kotlin-magazine | partial | 2024-05-22T17:41:30Z | [open](../records/magazines-kotlin-magazine-kotlin-magazine-07c7909d.md) |
+| lachlanjc/gasp | partial | 2023-10-24T22:50:43Z | [open](../records/magazines-lachlanjc-gasp-06cb16c1.md) |
 | lcomplete/TechShare | partial | 2026-04-02T16:58:06Z | [open](../records/magazines-lcomplete-techshare-7971ab4d.md) |
 | lelong37/msdn-spa-primer | partial | 2018-03-02T08:19:32Z | [open](../records/magazines-lelong37-msdn-spa-primer-c79ae5bd.md) |
 | lokeshreddy007/freedom-of-education | partial | 2025-11-10T09:49:45Z | [open](../records/magazines-lokeshreddy007-freedom-of-education-bc9948a7.md) |
+| munusshih/p5.genzine | partial | 2025-03-29T14:59:42Z | [open](../records/magazines-munusshih-p5-genzine-05e3e421.md) |
+| nark/magicbox | partial | 2021-12-16T20:42:08Z | [open](../records/magazines-nark-magicbox-76519c11.md) |
 | ningoink/open-source-magazine | partial | 2021-03-26T06:19:48Z | [open](../records/magazines-ningoink-open-source-magazine-3e01f58a.md) |
 | nkalupahana/baseline | partial | 2026-04-23T05:28:08Z | [open](../records/magazines-nkalupahana-baseline-f20936be.md) |
 | pentix/qjournalctl | partial | 2023-12-25T21:04:06Z | [open](../records/magazines-pentix-qjournalctl-c0df0726.md) |
@@ -5853,13 +5856,15 @@ Records: `6091`
 | rauversion/rauversion | partial | 2026-08-21T06:28:35Z | [open](../records/magazines-rauversion-rauversion-cfc2ec4b.md) |
 | rdrv/technical-challenge-react-exame | partial | 2022-08-20T15:40:33Z | [open](../records/magazines-rdrv-technical-challenge-react-exame-f4542770.md) |
 | rdrv/technical-challenge-wordpress-exame | partial | 2022-08-20T14:30:55Z | [open](../records/magazines-rdrv-technical-challenge-wordpress-exame-33c80f1a.md) |
-| rust-lang/this-week-in-rust | partial | 2026-09-02T01:51:31Z | [open](../records/magazines-rust-lang-this-week-in-rust-d3a86fd4.md) |
+| rust-lang/this-week-in-rust | partial | 2026-09-10T04:42:44Z | [open](../records/magazines-rust-lang-this-week-in-rust-d3a86fd4.md) |
 | samuelmeuli/mini-diary | partial | 2021-07-11T19:25:19Z | [open](../records/magazines-samuelmeuli-mini-diary-55a97725.md) |
 | sergeyyarkov/digital-store | partial | 2021-06-11T08:41:29Z | [open](../records/magazines-sergeyyarkov-digital-store-037e40a6.md) |
 | shibco/txt | partial | 2023-01-03T15:14:16Z | [open](../records/magazines-shibco-txt-aa067e38.md) |
 | skyme5/magzdb | partial | 2024-12-07T08:17:45Z | [open](../records/magazines-skyme5-magzdb-1a11262d.md) |
 | spatie/laravel-newsletter | partial | 2026-06-26T09:46:05Z | [open](../records/magazines-spatie-laravel-newsletter-fd258262.md) |
 | srid/chronicle | partial | 2020-03-08T16:34:29Z | [open](../records/magazines-srid-chronicle-befaced8.md) |
+| STRd6/zine | partial | 2019-05-04T20:22:18Z | [open](../records/magazines-strd6-zine-58174dbb.md) |
+| stripedpajamas/phrack-pdf | partial | 2023-05-29T01:34:06Z | [open](../records/magazines-stripedpajamas-phrack-pdf-61596ed5.md) |
 | TanmeenPatel/Abstract | partial | 2021-04-08T11:34:16Z | [open](../records/magazines-tanmeenpatel-abstract-3fb289d9.md) |
 | thuang136/DeveloperMagazine | partial | 2015-08-13T14:27:00Z | [open](../records/magazines-thuang136-developermagazine-86d0075f.md) |
 | TomBener/stay-away-from-wechat | partial | 2023-05-02T11:07:14Z | [open](../records/magazines-tombener-stay-away-from-wechat-1558b5c8.md) |
