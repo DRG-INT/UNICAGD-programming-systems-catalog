@@ -33,7 +33,7 @@ middleware policy, service structure, and deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T10:14:48Z | gh search repos topic:postgresql stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-09T10:14:48Z | gh search repos topic:sqlite stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ middleware policy, service structure, and deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:postgresql stars:>1000", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sqlite stars:>500", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 

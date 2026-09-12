@@ -32,7 +32,7 @@ of dependency acquisition, lockfile policy, provenance control, and supply-chain
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-07-30T00:40:43.945Z | [https://gitlab.com/api/v4/projects?search=package%20manager&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=package%20manager&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-12T01:53:31.567Z | [https://gitlab.com/api/v4/projects?search=package%20manager&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=package%20manager&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

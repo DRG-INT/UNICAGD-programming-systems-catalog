@@ -41,7 +41,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:x86 topic:assembly", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:x86 topic:assembly", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 

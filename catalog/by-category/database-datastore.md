@@ -1112,7 +1112,7 @@ Records: `981`
 | tywalch/electrodb | partial | 2026-08-09T18:47:47Z | [open](../records/databases-tywalch-electrodb-2b4b6894.md) |
 | ufoss-org/kotysa | partial | 2024-03-14T23:04:00Z | [open](../records/databases-ufoss-org-kotysa-d1aee466.md) |
 | upper/db | partial | 2025-12-06T13:39:47Z | [open](../records/databases-upper-db-2a4c803a.md) |
-| usememos/memos | partial | 2026-09-11T16:51:35Z | [open](../records/databases-usememos-memos-2e3fd386.md) |
+| usememos/memos | partial | 2026-09-12T04:56:29Z | [open](../records/databases-usememos-memos-2e3fd386.md) |
 | Valkey | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-valkey-9b1f0fe5.md) |
 | valkey-io/valkey | partial | 2026-09-11T19:24:55Z | [open](../records/databases-valkey-io-valkey-076b87d0.md) |
 | vanna-ai/vanna | partial | 2026-02-02T14:14:20Z | [open](../records/databases-vanna-ai-vanna-93ed50c7.md) |
@@ -1183,7 +1183,7 @@ Records: `981`
 | Gitea: yeyuanjie/gorm-oracle | partial | 2023-10-17T03:10:13Z | [open](../records/repository-workplaces-gitea-yeyuanjie-gorm-oracle-4b6b7053.md) |
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-11T14:34:40.312Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
-| gitlab-org/analytics-section/siphon | partial | 2026-09-11T11:13:00.294Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
+| gitlab-org/analytics-section/siphon | partial | 2026-09-12T02:09:09.779Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
 | kara.moe/karaokebase | partial | 2026-09-12T00:02:40.147Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |

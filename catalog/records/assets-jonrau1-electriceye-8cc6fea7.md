@@ -43,7 +43,7 @@ review, vulnerability detection, and release gate enforcement.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

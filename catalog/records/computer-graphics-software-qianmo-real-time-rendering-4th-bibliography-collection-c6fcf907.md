@@ -41,9 +41,9 @@ release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

@@ -415,7 +415,7 @@ Records: `1661`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-12T04:00:14Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-12T05:01:10Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1170,7 +1170,7 @@ Records: `1661`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-12T03:24:46Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-12T05:03:56Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1897,7 +1897,7 @@ Records: `1661`
 | gitlab-data/data-image | partial | 2026-09-10T17:37:33.192Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
-| gitlab-org/caproni | partial | 2026-09-11T14:18:06.063Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
+| gitlab-org/caproni | partial | 2026-09-12T03:07:44.991Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
 | gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-12T02:10:35.375Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
@@ -1905,7 +1905,7 @@ Records: `1661`
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | k3s_hetzner/k3s_hetzner | partial | 2024-05-18T14:38:11.918Z | [open](../records/repository-workplaces-k3s-hetzner-k3s-hetzner-d2927843.md) |
-| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-11T15:28:38.414Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
+| kargo-ci/kubernetes-sigs-kubespray | partial | 2026-09-12T02:50:02.111Z | [open](../records/repository-workplaces-kargo-ci-kubernetes-sigs-kubespray-bd6a5638.md) |
 | ksxack/administrator-kubernetes-junior | partial | 2025-03-09T20:49:07.418Z | [open](../records/repository-workplaces-ksxack-administrator-kubernetes-junior-6dbf6036.md) |
 | lavitto/typo3-form-to-database | partial | 2026-01-28T10:30:57.005Z | [open](../records/repository-workplaces-lavitto-typo3-form-to-database-83392b7e.md) |
 | learndevopseasy/troubleshoot/kubernetes-apps | partial | 2024-12-18T10:50:49.219Z | [open](../records/repository-workplaces-learndevopseasy-troubleshoot-kubernetes-apps-43ef407e.md) |

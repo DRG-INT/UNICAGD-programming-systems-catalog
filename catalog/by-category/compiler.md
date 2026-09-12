@@ -300,7 +300,7 @@ Records: `180`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| tobymao/sqlglot | partial | 2026-09-11T21:19:29Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
+| tobymao/sqlglot | partial | 2026-09-11T21:26:04Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
 | tursodatabase/turso | partial | 2026-09-12T02:23:42Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
 
 ## Repository Workplaces

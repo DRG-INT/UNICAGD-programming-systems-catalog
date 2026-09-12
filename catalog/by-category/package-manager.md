@@ -681,7 +681,7 @@ Records: `450`
 | juliendehos/nix42b | partial | 2021-03-01T13:35:23.011Z | [open](../records/repository-workplaces-juliendehos-nix42b-fe0574e7.md) |
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |
-| re-volt/rvgl-launcher | partial | 2026-07-30T00:40:43.945Z | [open](../records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
+| re-volt/rvgl-launcher | partial | 2026-09-12T01:53:31.567Z | [open](../records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
 | WeSuckLess/Reactor | partial | 2026-09-11T16:13:23.429Z | [open](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) |
 | xavki/become-devops-s01 | partial | 2026-06-21T11:06:52.357Z | [open](../records/repository-workplaces-xavki-become-devops-s01-8ce087b3.md) |
 | xavki/tutorials-helm | partial | 2026-06-21T11:07:03.332Z | [open](../records/repository-workplaces-xavki-tutorials-helm-ba7d404c.md) |

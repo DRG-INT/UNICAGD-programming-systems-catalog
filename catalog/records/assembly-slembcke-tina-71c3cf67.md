@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Other |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GPL-3; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:arm topic:assembly", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:arm topic:assembly", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 

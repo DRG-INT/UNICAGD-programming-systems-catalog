@@ -41,7 +41,7 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

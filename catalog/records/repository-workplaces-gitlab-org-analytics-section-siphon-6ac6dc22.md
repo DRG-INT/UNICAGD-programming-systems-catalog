@@ -33,7 +33,7 @@ inventory as part of state persistence, migrations, performance, and operational
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-11T11:13:00.294Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-12T02:09:09.779Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

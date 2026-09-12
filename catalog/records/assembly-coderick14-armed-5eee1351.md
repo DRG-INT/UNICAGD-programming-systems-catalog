@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:arm topic:assembly", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:arm topic:assembly", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 
