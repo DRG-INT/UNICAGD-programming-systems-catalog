@@ -179,7 +179,7 @@ Records: `68`
 | gre/jardin-sensors | partial | 2026-06-17T10:06:56Z | [open](../records/radio-garden-speciality-gre-jardin-sensors-2b5e8c89.md) |
 | manwithfeathers/worldradiotuner | partial | 2026-06-20T14:01:24Z | [open](../records/radio-garden-speciality-manwithfeathers-worldradiotuner-a04fc050.md) |
 | markgrech42-art/Radiotune | partial | 2026-08-12T09:40:51Z | [open](../records/radio-garden-speciality-markgrech42-art-radiotune-4ac88c2d.md) |
-| steferic/world-radio | partial | 2026-09-12T04:00:24Z | [open](../records/radio-garden-speciality-steferic-world-radio-21a7ef08.md) |
+| steferic/world-radio | partial | 2026-09-12T16:27:45Z | [open](../records/radio-garden-speciality-steferic-world-radio-21a7ef08.md) |
 
 ## Assembly
 

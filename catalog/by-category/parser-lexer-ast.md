@@ -652,7 +652,7 @@ Records: `1242`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-12T16:06:08Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-12T16:24:38Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -1194,7 +1194,7 @@ Records: `1242`
 | mattiaverga/OpenNGC | partial | 2026-08-23T16:14:28Z | [open](../records/telescopes-mattiaverga-openngc-cf98889b.md) |
 | mawinkler/astroweather | partial | 2026-05-30T04:32:24Z | [open](../records/telescopes-mawinkler-astroweather-47e9e97d.md) |
 | mawinkler/uptonight | partial | 2026-08-09T09:21:44Z | [open](../records/telescopes-mawinkler-uptonight-837cb976.md) |
-| mbeher2200/DarkHours | partial | 2026-09-12T01:23:20Z | [open](../records/telescopes-mbeher2200-darkhours-86ce9265.md) |
+| mbeher2200/DarkHours | partial | 2026-09-12T15:56:37Z | [open](../records/telescopes-mbeher2200-darkhours-86ce9265.md) |
 | michelegz/astro-web-indexer | partial | 2026-09-05T20:24:43Z | [open](../records/telescopes-michelegz-astro-web-indexer-3a733ac6.md) |
 | minaskar/pocomc | partial | 2025-09-11T22:37:30Z | [open](../records/telescopes-minaskar-pocomc-de6d518b.md) |
 | mlnoga/nightlight | partial | 2024-01-20T22:43:44Z | [open](../records/telescopes-mlnoga-nightlight-efb6d1ef.md) |

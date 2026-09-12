@@ -114,7 +114,7 @@ Records: `126`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | appinio_swiper | 2.1.1 | 2024-04-15T11:05:20.329795Z | [open](../records/dart-appinio-swiper-82166c51.md) |
-| hive_ce | 2.19.3 | 2026-02-03T10:49:41.565567Z | [open](../records/dart-hive-ce-4ae295fe.md) |
+| hive_ce | 2.20.0 | 2026-09-12T16:09:41.936194Z | [open](../records/dart-hive-ce-4ae295fe.md) |
 
 ## Go
 

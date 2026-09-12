@@ -32,7 +32,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.19.3 | 2026-02-03T10:49:41.565567Z | [https://pub.dev/api/packages/hive_ce](https://pub.dev/api/packages/hive_ce) |  |
+| stable | known | 2.20.0 | 2026-09-12T16:09:41.936194Z | [https://pub.dev/api/packages/hive_ce](https://pub.dev/api/packages/hive_ce) |  |
 | preview | known | 2.13.0-pre.2 | 2025-09-16T18:14:21.485320Z | [https://pub.dev/api/packages/hive_ce](https://pub.dev/api/packages/hive_ce) |  |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `community_reference` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/hive_ce` at `2026-09-01T15:35:55+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/hive_ce` at `2026-09-12T17:17:06+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

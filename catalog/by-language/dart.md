@@ -150,7 +150,7 @@ Records: `766`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [appinio_swiper](../records/dart-appinio-swiper-82166c51.md) | 2.1.1 | 2024-04-15T11:05:20.329795Z | registry-derived |
-| [hive_ce](../records/dart-hive-ce-4ae295fe.md) | 2.19.3 | 2026-02-03T10:49:41.565567Z | registry-derived |
+| [hive_ce](../records/dart-hive-ce-4ae295fe.md) | 2.20.0 | 2026-09-12T16:09:41.936194Z | registry-derived |
 
 ### Compiler
 

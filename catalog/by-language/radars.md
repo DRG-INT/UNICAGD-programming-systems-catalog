@@ -319,7 +319,7 @@ Records: `365`
 | [csete/gpredict](../records/radars-csete-gpredict-f8c8985f.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [denkywu/InSAR-Simulation-and-Studies](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) | partial | 2020-09-03T03:51:40Z | registry-derived |
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
-| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T12:43:21Z | registry-derived |
+| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T17:09:19Z | registry-derived |
 | [dz0ny/meshcore-sar](../records/radars-dz0ny-meshcore-sar-633f07d9.md) | partial | 2026-09-04T14:59:38Z | registry-derived |
 | [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-08T22:38:40Z | registry-derived |
 | [Erensu/ignav](../records/radars-erensu-ignav-9cdb787e.md) | partial | 2021-12-07T02:09:44Z | registry-derived |
@@ -348,7 +348,7 @@ Records: `365`
 | [moov-io/fincen](../records/radars-moov-io-fincen-b43822ff.md) | partial | 2026-09-10T03:43:59Z | registry-derived |
 | [NeuroFan/Algorithmic-SAR-ADC-simulation-files](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) | partial | 2024-06-29T10:51:12Z | registry-derived |
 | [ngageoint/sarpy_apps](../records/radars-ngageoint-sarpy-apps-53476eab.md) | partial | 2025-08-19T15:16:27Z | registry-derived |
-| [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-12T11:52:29Z | registry-derived |
+| [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-12T13:39:33Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-09-08T10:11:18Z | registry-derived |
 | [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-10T20:58:57Z | registry-derived |
@@ -405,7 +405,7 @@ Records: `365`
 | [goruck/radar-ml](../records/radars-goruck-radar-ml-38479193.md) | partial | 2022-12-08T08:28:36Z | registry-derived |
 | [hunterlew/mstar_with_machine_learning](../records/radars-hunterlew-mstar-with-machine-learning-9d33bf3c.md) | partial | 2017-11-15T13:27:35Z | registry-derived |
 | [jiankang1991/ComCSC](../records/radars-jiankang1991-comcsc-50e647d0.md) | partial | 2020-03-10T13:38:49Z | registry-derived |
-| [jpettitt/weather-radar-card](../records/radars-jpettitt-weather-radar-card-0abaa4a3.md) | partial | 2026-08-27T15:05:16Z | registry-derived |
+| [jpettitt/weather-radar-card](../records/radars-jpettitt-weather-radar-card-0abaa4a3.md) | partial | 2026-09-12T16:01:16Z | registry-derived |
 | [Junjue-Wang/LoveDA](../records/radars-junjue-wang-loveda-07cc7d9c.md) | partial | 2026-08-29T01:32:43Z | registry-derived |
 | [kaichen686/GINav](../records/radars-kaichen686-ginav-321da62f.md) | partial | 2022-12-17T10:27:54Z | registry-derived |
 | [Makin-Things/bom-radar-card](../records/radars-makin-things-bom-radar-card-ded56766.md) | partial | 2025-12-21T00:28:25Z | registry-derived |
@@ -589,7 +589,7 @@ Records: `365`
 | [CScorza/Tool-VATINT](../records/radars-cscorza-tool-vatint-9756d098.md) | partial | 2025-08-08T09:26:33Z | registry-derived |
 | [juliojsb/sarviewer](../records/radars-juliojsb-sarviewer-f8f5c5ee.md) | partial | 2019-06-03T16:42:23Z | registry-derived |
 | [n0bel/PiClock](../records/radars-n0bel-piclock-1539715f.md) | partial | 2026-08-28T00:26:22Z | registry-derived |
-| [radarsimx/radarsimpy](../records/radars-radarsimx-radarsimpy-024e5c6c.md) | partial | 2026-09-12T02:57:15Z | registry-derived |
+| [radarsimx/radarsimpy](../records/radars-radarsimx-radarsimpy-024e5c6c.md) | partial | 2026-09-12T15:44:17Z | registry-derived |
 | [Stefal/rtkbase](../records/radars-stefal-rtkbase-1f60caca.md) | partial | 2026-05-07T15:39:40Z | registry-derived |
 
 ### Web Framework

@@ -528,7 +528,7 @@ Records: `864`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-12T16:14:33Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-12T17:12:12Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -885,7 +885,7 @@ Records: `864`
 | goruck/radar-ml | partial | 2022-12-08T08:28:36Z | [open](../records/radars-goruck-radar-ml-38479193.md) |
 | hunterlew/mstar_with_machine_learning | partial | 2017-11-15T13:27:35Z | [open](../records/radars-hunterlew-mstar-with-machine-learning-9d33bf3c.md) |
 | jiankang1991/ComCSC | partial | 2020-03-10T13:38:49Z | [open](../records/radars-jiankang1991-comcsc-50e647d0.md) |
-| jpettitt/weather-radar-card | partial | 2026-08-27T15:05:16Z | [open](../records/radars-jpettitt-weather-radar-card-0abaa4a3.md) |
+| jpettitt/weather-radar-card | partial | 2026-09-12T16:01:16Z | [open](../records/radars-jpettitt-weather-radar-card-0abaa4a3.md) |
 | Junjue-Wang/LoveDA | partial | 2026-08-29T01:32:43Z | [open](../records/radars-junjue-wang-loveda-07cc7d9c.md) |
 | kaichen686/GINav | partial | 2022-12-17T10:27:54Z | [open](../records/radars-kaichen686-ginav-321da62f.md) |
 | Makin-Things/bom-radar-card | partial | 2025-12-21T00:28:25Z | [open](../records/radars-makin-things-bom-radar-card-ded56766.md) |
@@ -999,7 +999,7 @@ Records: `864`
 | --- | --- | --- | --- |
 | Chris1sFlaggin/LCSAJdump | partial | 2026-06-22T08:17:14Z | [open](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) |
 | coderaiser/nemesis | partial | 2026-02-08T13:40:01Z | [open](../records/assembly-coderaiser-nemesis-87becb25.md) |
-| gbdev/rgbds | partial | 2026-09-12T16:04:24Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| gbdev/rgbds | partial | 2026-09-12T17:06:35Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
 | giacomo-folli/asmlings | partial | 2026-07-22T12:52:18Z | [open](../records/assembly-giacomo-folli-asmlings-14c668aa.md) |
 | jishanshaikh4/8086-cheatsheet | partial | 2022-10-02T05:33:54Z | [open](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | NtRaiseHardError/Reverse-Engineering-101 | partial | 2019-06-02T00:50:14Z | [open](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) |

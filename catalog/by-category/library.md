@@ -5495,7 +5495,7 @@ Records: `6116`
 | --- | --- | --- | --- |
 | GR3YH4TT3R93/dotfiles | partial | 2025-12-29T18:28:19Z | [open](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) |
 | MITHaystack/srt-py | partial | 2024-07-02T19:26:23Z | [open](../records/telescopes-mithaystack-srt-py-1ec91517.md) |
-| nom-tam-fits/nom-tam-fits | partial | 2026-09-12T13:12:34Z | [open](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
+| nom-tam-fits/nom-tam-fits | partial | 2026-09-12T15:19:21Z | [open](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) |
 | synfinatic/alpacascope | partial | 2025-05-13T11:50:46Z | [open](../records/telescopes-synfinatic-alpacascope-e4f80071.md) |
 | tmolteno/TART | partial | 2026-07-01T18:32:35Z | [open](../records/telescopes-tmolteno-tart-8a3c3343.md) |
 | zkwlx/DroidTelescope | partial | 2022-04-21T02:39:54Z | [open](../records/telescopes-zkwlx-droidtelescope-316d3546.md) |
@@ -5517,7 +5517,7 @@ Records: `6116`
 | csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/radars-csete-gpredict-f8c8985f.md) |
 | denkywu/InSAR-Simulation-and-Studies | partial | 2020-09-03T03:51:40Z | [open](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) |
 | denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
-| dpaulat/supercell-wx | partial | 2026-09-12T12:43:21Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| dpaulat/supercell-wx | partial | 2026-09-12T17:09:19Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | dz0ny/meshcore-sar | partial | 2026-09-04T14:59:38Z | [open](../records/radars-dz0ny-meshcore-sar-633f07d9.md) |
 | earthobservations/wetterdienst | partial | 2026-09-08T22:38:40Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | Erensu/ignav | partial | 2021-12-07T02:09:44Z | [open](../records/radars-erensu-ignav-9cdb787e.md) |
@@ -5546,7 +5546,7 @@ Records: `6116`
 | moov-io/fincen | partial | 2026-09-10T03:43:59Z | [open](../records/radars-moov-io-fincen-b43822ff.md) |
 | NeuroFan/Algorithmic-SAR-ADC-simulation-files | partial | 2024-06-29T10:51:12Z | [open](../records/radars-neurofan-algorithmic-sar-adc-simulation-files-5368be13.md) |
 | ngageoint/sarpy_apps | partial | 2025-08-19T15:16:27Z | [open](../records/radars-ngageoint-sarpy-apps-53476eab.md) |
-| Nouuu/Albion-Online-OpenRadar | partial | 2026-09-12T11:52:29Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
+| Nouuu/Albion-Online-OpenRadar | partial | 2026-09-12T13:39:33Z | [open](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) |
 | ntnu-arl/lidar_degeneracy_datasets | partial | 2026-02-03T12:49:37Z | [open](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) |
 | odhondt/eo_tools | partial | 2026-09-08T10:11:18Z | [open](../records/radars-odhondt-eo-tools-bf024141.md) |
 | open-flight/openflight | partial | 2026-09-10T20:58:57Z | [open](../records/radars-open-flight-openflight-76c154cb.md) |
@@ -5740,7 +5740,7 @@ Records: `6116`
 | nliaudat/weatherstation | partial | 2021-11-09T06:51:20Z | [open](../records/electromagnetoscopes-nliaudat-weatherstation-8cd7f04b.md) |
 | open-sdr/openwifi | partial | 2026-09-11T11:55:48Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | OpenATS/OpenATS | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openats-openats-7ca6c997.md) |
-| OpenRTX/OpenRTX | partial | 2026-09-07T19:16:58Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| OpenRTX/OpenRTX | partial | 2026-09-12T16:10:23Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |

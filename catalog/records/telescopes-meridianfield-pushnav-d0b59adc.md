@@ -34,7 +34,7 @@ operator onboarding, API understanding, and upgrade review.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-08-04T07:28:53Z | gh search repos topic:telescope stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-08-04T07:28:53Z | gh search repos topic:indi stars:>10 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -59,7 +59,7 @@ operator onboarding, API understanding, and upgrade review.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:telescope stars:>10", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:indi stars:>10", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 

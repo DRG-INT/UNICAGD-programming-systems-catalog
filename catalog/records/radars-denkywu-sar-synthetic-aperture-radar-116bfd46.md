@@ -34,7 +34,7 @@ of model pipelines, numerical runtime constraints, and data/deployment interface
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2023-11-19T03:15:56Z | gh search repos topic:sar stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2023-11-19T03:15:56Z | gh search repos topic:radar stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -59,7 +59,7 @@ of model pipelines, numerical runtime constraints, and data/deployment interface
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:sar stars:>20", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 

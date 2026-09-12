@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T16:23:08+00:00`
+Generated: `2026-09-12T17:18:52+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,7 @@ Generated: `2026-09-12T16:23:08+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| hive_ce | Dart | Community Reference | 2.20.0 | 2026-09-12T16:09:41.936194Z | [open](records/dart-hive-ce-4ae295fe.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.3 | 2026-09-12T16:07:45.027Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.27 | 2026-09-12T16:06:59.122Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.306 | 2026-09-12T16:05:33.717Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-12T16:23:08+00:00`
 | arcstat | R | Testing Framework | 0.2.0 | 2026-09-11 14:30:13 UTC | [open](records/r-arcstat-3a01274d.md) |
 | discretes | R | Math Numeric Scientific | 0.1.1 | 2026-09-11 14:30:06 UTC | [open](records/r-discretes-8ed2c5c3.md) |
 | rmsfact | R | Testing Framework | 0.0.4 | 2026-09-11 14:30:02 UTC | [open](records/r-rmsfact-61bcaa97.md) |
-| HRM | R | Library | 1.3.0 | 2026-09-11 14:00:02 UTC | [open](records/r-hrm-88628366.md) |
 
 ## Unknown Reasons
 

@@ -198,7 +198,7 @@ Records: `272`
 | --- | --- | --- | --- |
 | [GR3YH4TT3R93/dotfiles](../records/telescopes-gr3yh4tt3r93-dotfiles-2a81d246.md) | partial | 2025-12-29T18:28:19Z | registry-derived |
 | [MITHaystack/srt-py](../records/telescopes-mithaystack-srt-py-1ec91517.md) | partial | 2024-07-02T19:26:23Z | registry-derived |
-| [nom-tam-fits/nom-tam-fits](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) | partial | 2026-09-12T13:12:34Z | registry-derived |
+| [nom-tam-fits/nom-tam-fits](../records/telescopes-nom-tam-fits-nom-tam-fits-09f1fe88.md) | partial | 2026-09-12T15:19:21Z | registry-derived |
 | [synfinatic/alpacascope](../records/telescopes-synfinatic-alpacascope-e4f80071.md) | partial | 2025-05-13T11:50:46Z | registry-derived |
 | [tmolteno/TART](../records/telescopes-tmolteno-tart-8a3c3343.md) | partial | 2026-07-01T18:32:35Z | registry-derived |
 | [zkwlx/DroidTelescope](../records/telescopes-zkwlx-droidtelescope-316d3546.md) | partial | 2022-04-21T02:39:54Z | registry-derived |
@@ -303,7 +303,7 @@ Records: `272`
 | [mattiaverga/OpenNGC](../records/telescopes-mattiaverga-openngc-cf98889b.md) | partial | 2026-08-23T16:14:28Z | registry-derived |
 | [mawinkler/astroweather](../records/telescopes-mawinkler-astroweather-47e9e97d.md) | partial | 2026-05-30T04:32:24Z | registry-derived |
 | [mawinkler/uptonight](../records/telescopes-mawinkler-uptonight-837cb976.md) | partial | 2026-08-09T09:21:44Z | registry-derived |
-| [mbeher2200/DarkHours](../records/telescopes-mbeher2200-darkhours-86ce9265.md) | partial | 2026-09-12T01:23:20Z | registry-derived |
+| [mbeher2200/DarkHours](../records/telescopes-mbeher2200-darkhours-86ce9265.md) | partial | 2026-09-12T15:56:37Z | registry-derived |
 | [michelegz/astro-web-indexer](../records/telescopes-michelegz-astro-web-indexer-3a733ac6.md) | partial | 2026-09-05T20:24:43Z | registry-derived |
 | [minaskar/pocomc](../records/telescopes-minaskar-pocomc-de6d518b.md) | partial | 2025-09-11T22:37:30Z | registry-derived |
 | [mlnoga/nightlight](../records/telescopes-mlnoga-nightlight-efb6d1ef.md) | partial | 2024-01-20T22:43:44Z | registry-derived |

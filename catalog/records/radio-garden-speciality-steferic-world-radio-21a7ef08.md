@@ -33,7 +33,7 @@ part of device constraints, cross-compilation, driver behavior, and field upgrad
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-12T04:00:24Z | gh search repos "Radio Garden" | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-12T16:27:45Z | gh search repos "Radio Garden" | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
