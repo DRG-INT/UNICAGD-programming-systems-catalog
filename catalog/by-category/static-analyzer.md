@@ -558,7 +558,7 @@ Records: `678`
 | DatanoiseTV/dsplab | partial | 2026-03-30T11:51:24Z | [open](../records/effects-datanoisetv-dsplab-010bab2b.md) |
 | DonaldSBosley/MATLAB_DSP | partial | 2014-03-12T07:24:56Z | [open](../records/effects-donaldsbosley-matlab-dsp-d6ec5804.md) |
 | EndlesslyFlowering/ReShade_HDR_shaders | partial | 2026-09-10T19:49:14Z | [open](../records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) |
-| glotzerlab/freud | partial | 2026-09-11T11:10:47Z | [open](../records/effects-glotzerlab-freud-7097000c.md) |
+| glotzerlab/freud | partial | 2026-09-11T19:10:05Z | [open](../records/effects-glotzerlab-freud-7097000c.md) |
 | josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/effects-josevcm-nfc-laboratory-b7b970c6.md) |
 | JuanCantu1/fpga-trumpet-dsp | partial | 2025-11-08T16:16:06Z | [open](../records/effects-juancantu1-fpga-trumpet-dsp-dbfb90e2.md) |
 | Kodaskills/bevy_retro_shaders | partial | 2026-08-17T07:09:38Z | [open](../records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) |

@@ -639,7 +639,7 @@ Records: `651`
 | dwhinham/mt32-pi | partial | 2025-02-04T22:46:21Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | jatinchowdhury18/Bad-Circuit-Modelling | partial | 2020-12-08T20:46:46Z | [open](../records/audio-jatinchowdhury18-bad-circuit-modelling-c65762b2.md) |
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-12T14:20:48Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-12T16:45:27Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
 | pschatzmann/arduino-audio-tools | partial | 2026-09-11T14:57:29Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |

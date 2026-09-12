@@ -341,7 +341,7 @@ Records: `785`
 | [nxbyte/PythonAudioEffects](../records/effects-nxbyte-pythonaudioeffects-a407c43f.md) | partial | 2023-11-16T16:58:25Z | registry-derived |
 | [OctoCrane/Re-Shade-Effects](../records/effects-octocrane-re-shade-effects-d88e30f6.md) | partial | 2025-11-23T17:45:49Z | registry-derived |
 | [OmarShehata/webgl-outlines](../records/effects-omarshehata-webgl-outlines-91f626e3.md) | partial | 2022-12-09T15:57:56Z | registry-derived |
-| [open-atmos/PyPartMC](../records/effects-open-atmos-pypartmc-5dde2ebe.md) | partial | 2026-09-11T16:14:44Z | registry-derived |
+| [open-atmos/PyPartMC](../records/effects-open-atmos-pypartmc-5dde2ebe.md) | partial | 2026-09-12T16:49:51Z | registry-derived |
 | [open-atmos/PySDM](../records/effects-open-atmos-pysdm-9411c0d3.md) | partial | 2026-09-11T14:26:38Z | registry-derived |
 | [oxysoft/RetroSuite3D](../records/effects-oxysoft-retrosuite3d-c8a9b262.md) | partial | 2019-01-25T16:25:09Z | registry-derived |
 | [perfah/Rustland](../records/effects-perfah-rustland-18426ed4.md) | partial | 2020-03-15T19:50:21Z | registry-derived |
@@ -590,7 +590,7 @@ Records: `785`
 | [SuomiKP31/JUCE_VST3_Mixer](../records/effects-suomikp31-juce-vst3-mixer-7284b1f7.md) | partial | 2025-03-17T22:48:38Z | registry-derived |
 | [SuperKogito/pydiogment](../records/effects-superkogito-pydiogment-ee1478f0.md) | partial | 2023-07-06T21:48:22Z | registry-derived |
 | [SuperKogito/spafe](../records/effects-superkogito-spafe-ee3f7bf4.md) | partial | 2025-03-20T16:16:12Z | registry-derived |
-| [SynthstromAudible/DelugeFirmware](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) | partial | 2026-09-11T13:28:35Z | registry-derived |
+| [SynthstromAudible/DelugeFirmware](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) | partial | 2026-09-12T01:01:39Z | registry-derived |
 | [thesofproject/sof](../records/effects-thesofproject-sof-2250f8c2.md) | partial | 2026-09-10T16:18:07Z | registry-derived |
 | [tholman/image-nodes](../records/effects-tholman-image-nodes-87dfe942.md) | partial | 2017-11-23T05:02:10Z | registry-derived |
 | [tiagolr/ripplerx](../records/effects-tiagolr-ripplerx-f333e2b5.md) | partial | 2026-08-13T12:36:29Z | registry-derived |
@@ -628,7 +628,7 @@ Records: `785`
 | [ALH477/ai-faust-dsp-effects](../records/effects-alh477-ai-faust-dsp-effects-6881f2de.md) | partial | 2026-03-03T19:38:36Z | registry-derived |
 | [chaosprint/glicol](../records/effects-chaosprint-glicol-1504c11d.md) | partial | 2025-04-06T14:42:57Z | registry-derived |
 | [firtoz/Unity3D-Plane-Clipping](../records/effects-firtoz-unity3d-plane-clipping-41a0b721.md) | partial | 2018-01-22T19:13:44Z | registry-derived |
-| [grame-cncm/faust](../records/effects-grame-cncm-faust-4bda97dc.md) | partial | 2026-09-11T08:07:57Z | registry-derived |
+| [grame-cncm/faust](../records/effects-grame-cncm-faust-4bda97dc.md) | partial | 2026-09-12T12:41:15Z | registry-derived |
 | [ISF](../records/effects-isf-11859d10.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [JiaoXianjun/BTLE](../records/effects-jiaoxianjun-btle-a6893a05.md) | partial | 2026-06-08T19:24:34Z | registry-derived |
 | [jtomori/vex_tutorial](../records/effects-jtomori-vex-tutorial-543cfd5a.md) | partial | 2021-07-27T23:21:48Z | registry-derived |
@@ -673,7 +673,7 @@ Records: `785`
 | [fand/vfx-js](../records/effects-fand-vfx-js-267d1f85.md) | partial | 2026-09-10T20:58:02Z | registry-derived |
 | [fearofcode/bateman](../records/effects-fearofcode-bateman-03c24113.md) | partial | 2014-05-12T03:19:06Z | registry-derived |
 | [FlexMonkey/ParticleCam](../records/effects-flexmonkey-particlecam-751034c0.md) | partial | 2019-02-15T15:49:32Z | registry-derived |
-| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-12T04:13:10Z | registry-derived |
+| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-12T16:24:46Z | registry-derived |
 | [GabrielSCabrera/nBody](../records/effects-gabrielscabrera-nbody-387acb4c.md) | partial | 2024-03-31T14:11:02Z | registry-derived |
 | [GarrettGunnell/Iterated-Function-Systems](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) | partial | 2024-11-30T14:42:06Z | registry-derived |
 | [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-12T14:54:25Z | registry-derived |
@@ -788,7 +788,7 @@ Records: `785`
 | [neilmendoza/ofxGpuParticles](../records/effects-neilmendoza-ofxgpuparticles-01f540be.md) | partial | 2023-08-18T17:02:35Z | registry-derived |
 | [Papproni/stm_audio_board_v3_dsp_board](../records/effects-papproni-stm-audio-board-v3-dsp-board-30c9848d.md) | partial | 2024-04-28T21:16:38Z | registry-derived |
 | [rajajain08/particles_flutter](../records/effects-rajajain08-particles-flutter-2925862d.md) | partial | 2026-08-29T08:55:42Z | registry-derived |
-| [rern/rAudio](../records/effects-rern-raudio-0853e696.md) | partial | 2026-09-11T14:00:42Z | registry-derived |
+| [rern/rAudio](../records/effects-rern-raudio-0853e696.md) | partial | 2026-09-12T15:31:18Z | registry-derived |
 | [rumlenordstroem/audio-effects](../records/effects-rumlenordstroem-audio-effects-637861a4.md) | partial | 2023-05-20T13:22:42Z | registry-derived |
 | [vfxai/vfx-datasets](../records/effects-vfxai-vfx-datasets-59e85e2e.md) | partial | 2018-08-20T03:59:12Z | registry-derived |
 | [ybouane/liquidglass](../records/effects-ybouane-liquidglass-a6dc3202.md) | partial | 2026-09-06T19:24:34Z | registry-derived |
@@ -920,7 +920,7 @@ Records: `785`
 | [DatanoiseTV/dsplab](../records/effects-datanoisetv-dsplab-010bab2b.md) | partial | 2026-03-30T11:51:24Z | registry-derived |
 | [DonaldSBosley/MATLAB_DSP](../records/effects-donaldsbosley-matlab-dsp-d6ec5804.md) | partial | 2014-03-12T07:24:56Z | registry-derived |
 | [EndlesslyFlowering/ReShade_HDR_shaders](../records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) | partial | 2026-09-10T19:49:14Z | registry-derived |
-| [glotzerlab/freud](../records/effects-glotzerlab-freud-7097000c.md) | partial | 2026-09-11T11:10:47Z | registry-derived |
+| [glotzerlab/freud](../records/effects-glotzerlab-freud-7097000c.md) | partial | 2026-09-11T19:10:05Z | registry-derived |
 | [josevcm/nfc-laboratory](../records/effects-josevcm-nfc-laboratory-b7b970c6.md) | partial | 2026-06-29T16:44:55Z | registry-derived |
 | [JuanCantu1/fpga-trumpet-dsp](../records/effects-juancantu1-fpga-trumpet-dsp-dbfb90e2.md) | partial | 2025-11-08T16:16:06Z | registry-derived |
 | [Kodaskills/bevy_retro_shaders](../records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) | partial | 2026-08-17T07:09:38Z | registry-derived |
@@ -963,7 +963,7 @@ Records: `785`
 | [braedonsaunders/openstudio](../records/effects-braedonsaunders-openstudio-43bdd073.md) | partial | 2026-05-13T23:00:35Z | registry-derived |
 | [brandleesee/ePSXe64Ubuntu](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) | partial | 2023-06-20T07:52:14Z | registry-derived |
 | [canonical/ubuntu-frame](../records/effects-canonical-ubuntu-frame-e76d66fc.md) | partial | 2026-09-11T11:18:38Z | registry-derived |
-| [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-09-03T19:38:01Z | registry-derived |
+| [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-09-12T18:13:36Z | registry-derived |
 | [CompleteUnityDeveloper/Laser-Defender-Original](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) | partial | 2018-08-14T11:29:55Z | registry-derived |
 | [CustomPhase/CP_SSSSS](../records/effects-customphase-cp-sssss-c1aa7a17.md) | partial | 2019-05-26T11:39:20Z | registry-derived |
 | [devanshutak25/3d-resources](../records/effects-devanshutak25-3d-resources-06f6f596.md) | partial | 2026-09-11T14:24:18Z | registry-derived |

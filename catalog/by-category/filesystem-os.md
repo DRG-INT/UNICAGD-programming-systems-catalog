@@ -1175,7 +1175,7 @@ Records: `1717`
 | nxbyte/PythonAudioEffects | partial | 2023-11-16T16:58:25Z | [open](../records/effects-nxbyte-pythonaudioeffects-a407c43f.md) |
 | OctoCrane/Re-Shade-Effects | partial | 2025-11-23T17:45:49Z | [open](../records/effects-octocrane-re-shade-effects-d88e30f6.md) |
 | OmarShehata/webgl-outlines | partial | 2022-12-09T15:57:56Z | [open](../records/effects-omarshehata-webgl-outlines-91f626e3.md) |
-| open-atmos/PyPartMC | partial | 2026-09-11T16:14:44Z | [open](../records/effects-open-atmos-pypartmc-5dde2ebe.md) |
+| open-atmos/PyPartMC | partial | 2026-09-12T16:49:51Z | [open](../records/effects-open-atmos-pypartmc-5dde2ebe.md) |
 | open-atmos/PySDM | partial | 2026-09-11T14:26:38Z | [open](../records/effects-open-atmos-pysdm-9411c0d3.md) |
 | oxysoft/RetroSuite3D | partial | 2019-01-25T16:25:09Z | [open](../records/effects-oxysoft-retrosuite3d-c8a9b262.md) |
 | perfah/Rustland | partial | 2020-03-15T19:50:21Z | [open](../records/effects-perfah-rustland-18426ed4.md) |
@@ -1312,7 +1312,7 @@ Records: `1717`
 | aiff22/PyNET-PyTorch | partial | 2025-08-23T12:56:55Z | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
 | AlkaidLab/foundation-sunshine | partial | 2026-09-11T09:32:52Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
 | Apparence-io/CamerAwesome | partial | 2026-04-08T20:22:58Z | [open](../records/photography-apparence-io-camerawesome-6dfa91a5.md) |
-| ashesbloom/LocalLens | partial | 2026-08-22T13:22:23Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
+| ashesbloom/LocalLens | partial | 2026-09-12T19:04:21Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
@@ -1333,7 +1333,7 @@ Records: `1717`
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
 | HaishinKit/HaishinKit.swift | partial | 2026-08-30T12:17:41Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
-| hanatos/vkdt | partial | 2026-09-12T09:45:38Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
+| hanatos/vkdt | partial | 2026-09-12T17:21:58Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | indulgeIn/YBImageBrowser | partial | 2023-11-24T10:57:58Z | [open](../records/photography-indulgein-ybimagebrowser-e5a55591.md) |
 | jdisho/Papr | partial | 2020-09-17T16:39:35Z | [open](../records/photography-jdisho-papr-d97d54b2.md) |
@@ -1369,7 +1369,7 @@ Records: `1717`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-12T00:59:28Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-12T14:28:29Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy
@@ -1392,7 +1392,7 @@ Records: `1717`
 | brainglobe/brainreg | partial | 2026-09-11T09:05:54Z | [open](../records/microscopy-brainglobe-brainreg-71a0b5b3.md) |
 | brainglobe/cellfinder | partial | 2026-09-11T09:23:46Z | [open](../records/microscopy-brainglobe-cellfinder-159009dc.md) |
 | chiahao3/ptyrad | partial | 2026-08-07T02:53:15Z | [open](../records/microscopy-chiahao3-ptyrad-cbe12e50.md) |
-| computational-cell-analytics/micro-sam | partial | 2026-09-11T11:56:29Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
+| computational-cell-analytics/micro-sam | partial | 2026-09-12T15:34:37Z | [open](../records/microscopy-computational-cell-analytics-micro-sam-82fdbfce.md) |
 | computational-imaging/ThreeDeconv.jl | partial | 2022-02-09T16:34:42Z | [open](../records/microscopy-computational-imaging-threedeconv-jl-df595b65.md) |
 | cytomining/cytominer | partial | 2024-05-08T14:11:57Z | [open](../records/microscopy-cytomining-cytominer-c603fed1.md) |
 | cytomining/pycytominer | partial | 2026-09-04T16:07:02Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
@@ -1435,7 +1435,7 @@ Records: `1717`
 | rapidsai/cucim | partial | 2026-09-10T14:33:43Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
-| scalableminds/webknossos | partial | 2026-09-11T18:24:31Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
+| scalableminds/webknossos | partial | 2026-09-12T18:59:01Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
 | seung-lab/cloud-volume | partial | 2026-09-08T16:20:23Z | [open](../records/microscopy-seung-lab-cloud-volume-388cc8e9.md) |
 | tferr/Scripts | partial | 2022-06-03T11:23:48Z | [open](../records/microscopy-tferr-scripts-25277503.md) |
 | TheDeanLab/navigate | partial | 2026-09-11T13:37:57Z | [open](../records/microscopy-thedeanlab-navigate-dc14fa5a.md) |

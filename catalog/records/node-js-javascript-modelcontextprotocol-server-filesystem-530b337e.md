@@ -40,7 +40,7 @@ inventory as part of request routing, middleware policy, service structure, and 
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | SEE LICENSE IN LICENSE |
+| Evidence | Artistic License 2.0; https://api.github.com/licenses/artistic-2.0 |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

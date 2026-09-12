@@ -1380,7 +1380,7 @@ Records: `1665`
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
 | brandleesee/ePSXe64Ubuntu | partial | 2023-06-20T07:52:14Z | [open](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) |
 | canonical/ubuntu-frame | partial | 2026-09-11T11:18:38Z | [open](../records/effects-canonical-ubuntu-frame-e76d66fc.md) |
-| cmajor-lang/cmajor | partial | 2026-09-03T19:38:01Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
+| cmajor-lang/cmajor | partial | 2026-09-12T18:13:36Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
 | CompleteUnityDeveloper/Laser-Defender-Original | partial | 2018-08-14T11:29:55Z | [open](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) |
 | CustomPhase/CP_SSSSS | partial | 2019-05-26T11:39:20Z | [open](../records/effects-customphase-cp-sssss-c1aa7a17.md) |
 | devanshutak25/3d-resources | partial | 2026-09-11T14:24:18Z | [open](../records/effects-devanshutak25-3d-resources-06f6f596.md) |
@@ -1413,7 +1413,7 @@ Records: `1665`
 | Audio-WestlakeU/FullSubNet | partial | 2023-08-19T07:01:09Z | [open](../records/audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
 | benjojo/dubstep-data | partial | 2018-05-21T18:07:11Z | [open](../records/audio-benjojo-dubstep-data-f9938261.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/audio-billydm-awesome-audio-dsp-9de4f1f5.md) |
-| cmajor-lang/cmajor | partial | 2026-09-03T19:38:01Z | [open](../records/audio-cmajor-lang-cmajor-af97db28.md) |
+| cmajor-lang/cmajor | partial | 2026-09-12T18:13:36Z | [open](../records/audio-cmajor-lang-cmajor-af97db28.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/audio-cookpete-react-player-8f26c2ab.md) |
 | doublesymmetry/react-native-track-player | partial | 2026-07-31T14:13:12Z | [open](../records/audio-doublesymmetry-react-native-track-player-d7f6ed50.md) |
 | gionanide/Speech_Signal_Processing_and_Classification | partial | 2023-03-03T22:25:31Z | [open](../records/audio-gionanide-speech-signal-processing-and-classification-693ef0eb.md) |
@@ -1479,7 +1479,7 @@ Records: `1665`
 | Afilmory/afilmory | partial | 2026-09-12T10:39:50Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
-| dougdonohoe/ddphotos | partial | 2026-09-12T14:12:21Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
+| dougdonohoe/ddphotos | partial | 2026-09-12T16:19:24Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |

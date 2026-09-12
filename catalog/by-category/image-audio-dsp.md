@@ -280,7 +280,7 @@ Records: `449`
 | SuomiKP31/JUCE_VST3_Mixer | partial | 2025-03-17T22:48:38Z | [open](../records/effects-suomikp31-juce-vst3-mixer-7284b1f7.md) |
 | SuperKogito/pydiogment | partial | 2023-07-06T21:48:22Z | [open](../records/effects-superkogito-pydiogment-ee1478f0.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/effects-superkogito-spafe-ee3f7bf4.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-11T13:28:35Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-12T01:01:39Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
 | thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
 | tholman/image-nodes | partial | 2017-11-23T05:02:10Z | [open](../records/effects-tholman-image-nodes-87dfe942.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/effects-tiagolr-ripplerx-f333e2b5.md) |
@@ -352,7 +352,7 @@ Records: `449`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-10T20:11:15Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-12T16:07:22Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-12T18:30:16Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
