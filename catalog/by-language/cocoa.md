@@ -59,7 +59,7 @@ Records: `349`
 | [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
 | [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
-| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-11T21:00:22Z | registry-derived |
+| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-11T23:14:59Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
 | [xmartlabs/Eureka](../records/cocoa-xmartlabs-eureka-e10ee14d.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
@@ -188,7 +188,7 @@ Records: `349`
 | [sahin/mobileplayer-ios](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) | partial | 2022-07-21T22:10:51Z | registry-derived |
 | [saucer/saucer](../records/cocoa-saucer-saucer-338e12ec.md) | partial | 2026-09-06T15:27:35Z | registry-derived |
 | [shoheiyokoyama/Gemini](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) | partial | 2025-06-28T06:50:16Z | registry-derived |
-| [sindresorhus/KeyboardShortcuts](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) | partial | 2026-06-17T10:24:25Z | registry-derived |
+| [sindresorhus/KeyboardShortcuts](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) | partial | 2026-09-11T23:40:22Z | registry-derived |
 | [SnapKit/SnapKit](../records/cocoa-snapkit-snapkit-aa75ddde.md) | partial | 2026-07-13T10:50:19Z | registry-derived |
 | [sveinbjornt/Platypus](../records/cocoa-sveinbjornt-platypus-b3728979.md) | partial | 2026-05-13T22:44:55Z | registry-derived |
 | [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) | partial | 2026-02-27T17:42:19Z | registry-derived |
@@ -222,7 +222,7 @@ Records: `349`
 | [Apple Review Guidelines](../records/cocoa-apple-review-guidelines-d06165e6.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ARVideoKit](../records/cocoa-arvideokit-9a0f973d.md) | 1.6.0 | 2020-03-18T17:57:09Z | registry-derived |
 | [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | partial | 2025-08-26T18:58:06Z | registry-derived |
-| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-10T22:29:48Z | registry-derived |
+| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-12T01:41:24Z | registry-derived |
 | [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | partial | 2025-02-02T12:29:36Z | registry-derived |
 | [Embrace](../records/cocoa-embrace-ced14cf1.md) | unknown | cocoapods_metadata_missing | registry-derived |
 | [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | partial | 2021-07-13T07:49:54Z | registry-derived |
@@ -296,7 +296,7 @@ Records: `349`
 | [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | partial | 2024-03-21T10:45:04Z | registry-derived |
 | [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | partial | 2022-03-07T10:01:30Z | registry-derived |
 | [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | partial | 2026-07-27T00:05:17Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-11T19:27:52Z | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-12T00:02:18Z | registry-derived |
 | [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | partial | 2023-01-09T00:03:46Z | registry-derived |
 | [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | partial | 2016-09-29T04:08:55Z | registry-derived |
 | [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | partial | 2023-04-21T10:20:47Z | registry-derived |
@@ -462,7 +462,7 @@ Records: `349`
 | [CaliCastle/PopMenu](../records/cocoa-calicastle-popmenu-4a75e526.md) | partial | 2024-03-12T06:52:56Z | registry-derived |
 | [CocoaLumberjack/CocoaLumberjack](../records/cocoa-cocoalumberjack-cocoalumberjack-5c5f99b5.md) | partial | 2026-08-12T06:31:06Z | registry-derived |
 | [Mijick/Popups](../records/cocoa-mijick-popups-14686208.md) | partial | 2025-10-22T18:52:37Z | registry-derived |
-| [pinterest/PINCache](../records/cocoa-pinterest-pincache-1dd6b3db.md) | partial | 2026-09-04T22:01:39Z | registry-derived |
+| [pinterest/PINCache](../records/cocoa-pinterest-pincache-1dd6b3db.md) | partial | 2026-09-11T22:01:33Z | registry-derived |
 | [twitter/scrooge](../records/cocoa-twitter-scrooge-3eef7c88.md) | partial | 2025-04-02T01:10:55Z | registry-derived |
 
 ### Precommit Ci Quality

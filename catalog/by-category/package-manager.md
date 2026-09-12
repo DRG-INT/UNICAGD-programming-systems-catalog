@@ -677,7 +677,7 @@ Records: `450`
 | Gitea: sagerxiao/gitea | partial | 2023-09-20T05:09:49Z | [open](../records/repository-workplaces-gitea-sagerxiao-gitea-c3953eeb.md) |
 | Gitea: trabalho/devops-app | partial | 2025-10-27T21:59:35Z | [open](../records/repository-workplaces-gitea-trabalho-devops-app-c6ffee99.md) |
 | Gitea: VitorDiv/devops-pipeline | partial | 2025-10-21T17:29:25Z | [open](../records/repository-workplaces-gitea-vitordiv-devops-pipeline-b7f831c7.md) |
-| gitlab-org/professional-services-automation/tools/utilities/pipeintel | partial | 2026-09-06T10:08:32.636Z | [open](../records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
+| gitlab-org/professional-services-automation/tools/utilities/pipeintel | partial | 2026-09-12T02:14:02.030Z | [open](../records/repository-workplaces-gitlab-org-professional-services-automation-tools-utilities-pipeintel-c5173f91.md) |
 | juliendehos/nix42b | partial | 2021-03-01T13:35:23.011Z | [open](../records/repository-workplaces-juliendehos-nix42b-fe0574e7.md) |
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |

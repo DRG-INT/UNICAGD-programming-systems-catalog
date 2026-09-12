@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T01:19:13+00:00`
+Generated: `2026-09-12T02:24:41+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,10 @@ Generated: `2026-09-12T01:19:13+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| mintlify | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.317Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
+| mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
+| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.8.0 | 2026-09-12T02:14:03.891Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | RIFanalysis | R | Static Analyzer | 0.9.3 | 2026-09-12 00:10:02 UTC | [open](records/r-rifanalysis-8f1ffcb3.md) |
 | cxx | Rust | Interop Bindings | 1.0.201 | 2026-09-11T22:05:42.819165Z | [open](records/rust-cxx-8005ea19.md) |
 | cxxbridge-macro | Rust | Machine Learning | 1.0.201 | 2026-09-11T22:05:36.626671Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
@@ -54,9 +58,6 @@ Generated: `2026-09-12T01:19:13+00:00`
 | @transcend-io/mcp-server-docs | Node.js/JavaScript | Documentation | 0.4.10 | 2026-09-11T21:16:45.494Z | [open](records/node-js-javascript-transcend-io-mcp-server-docs-b48cc154.md) |
 | @transcend-io/mcp-server-discovery | Node.js/JavaScript | Web Framework | 1.0.8 | 2026-09-11T21:16:45.361Z | [open](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @feathersjs/adapter-commons | Node.js/JavaScript | Database Datastore | 5.0.50 | 2026-09-11T21:01:36.898Z | [open](records/node-js-javascript-feathersjs-adapter-commons-7a45c587.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.889 | 2026-09-11T21:00:01.080Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.889 | 2026-09-11T21:00:01.073Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1492 | 2026-09-11T20:59:57.918Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.46 | 2026-09-11T20:59:21.662Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.46 | 2026-09-11T20:59:01.924Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
 | libredox | Rust | Api Abi Checker | 0.1.24 | 2026-09-11T20:57:42.000749Z | [open](records/rust-libredox-9e706cf6.md) |
@@ -154,7 +155,6 @@ Generated: `2026-09-12T01:19:13+00:00`
 | yuku-parser | Node.js/TypeScript | Type Checker | 0.10.1 | 2026-09-11T06:59:22.613Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
 | kalender | Dart | Datetime | 0.30.0 | 2026-09-11T06:23:52.812069Z | [open](records/dart-kalender-10f50158.md) |
 | file_picker | Dart | Filesystem Os | 12.3.0 | 2026-09-11T05:47:28.095455Z | [open](records/dart-file-picker-09b00b4c.md) |
-| @sazabi/cli | Node.js/JavaScript | Cli | 1.7.0 | 2026-09-11T05:45:32.846Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | @larksuite/cli | Node.js/JavaScript | Ffi Bindings | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](records/node-js-javascript-larksuite-cli-442a55c5.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.4 | 2026-09-11T03:59:01.901Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | structured-headers | Node.js/JavaScript | Networking Http | 2.1.0 | 2026-09-11T01:49:18.023Z | [open](records/node-js-javascript-structured-headers-06c81359.md) |
@@ -314,6 +314,7 @@ Generated: `2026-09-12T01:19:13+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| flutter_rust_bridge | Dart | preview | 2.14.0-beta.2 | 2026-09-12T01:28:35.247741Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | widgetbook | Dart | preview | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [open](records/dart-widgetbook-2f3d1f04.md) |
 | supabase_flutter | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:26.533302Z | [open](records/dart-supabase-flutter-7645000e.md) |
 | supabase | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:14.073482Z | [open](records/dart-supabase-71cdb3aa.md) |
@@ -321,7 +322,6 @@ Generated: `2026-09-12T01:19:13+00:00`
 | sembast | Dart | preview | 3.8.10-2 | 2026-09-10T14:14:06.868652Z | [open](records/dart-sembast-fa8ed2b5.md) |
 | sentry_dio | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:34.679741Z | [open](records/dart-sentry-dio-7067a5da.md) |
 | sentry | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:24.015188Z | [open](records/dart-sentry-27c4653e.md) |
-| flutter_rust_bridge | Dart | preview | 2.14.0-beta.1 | 2026-09-05T01:06:08.717744Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | flutter_map | Dart | preview | 8.4.0-dev.1 | 2026-09-02T23:07:22.562609Z | [open](records/dart-flutter-map-642872b5.md) |
 | tostore | Dart | preview | 3.5.0-test | 2026-09-01T14:43:28.859741Z | [open](records/dart-tostore-c0c539b3.md) |
 | postgrest | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:33.744514Z | [open](records/dart-postgrest-159001a6.md) |

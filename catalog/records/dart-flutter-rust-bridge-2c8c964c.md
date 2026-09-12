@@ -33,15 +33,15 @@ integration, ABI ownership, memory safety, and runtime embedding.
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
 | stable | known | 2.13.0 | 2026-08-23T07:45:13.440929Z | [https://pub.dev/api/packages/flutter_rust_bridge](https://pub.dev/api/packages/flutter_rust_bridge) |  |
-| preview | known | 2.14.0-beta.1 | 2026-09-05T01:06:08.717744Z | [https://pub.dev/api/packages/flutter_rust_bridge](https://pub.dev/api/packages/flutter_rust_bridge) |  |
+| preview | known | 2.14.0-beta.2 | 2026-09-12T01:28:35.247741Z | [https://pub.dev/api/packages/flutter_rust_bridge](https://pub.dev/api/packages/flutter_rust_bridge) |  |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 

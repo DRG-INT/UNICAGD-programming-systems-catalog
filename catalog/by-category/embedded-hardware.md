@@ -100,7 +100,7 @@ Records: `68`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| nasa/fprime | partial | 2026-09-11T22:13:01Z | [open](../records/space-engines-nasa-fprime-0934b688.md) |
+| nasa/fprime | partial | 2026-09-12T00:41:40Z | [open](../records/space-engines-nasa-fprime-0934b688.md) |
 
 ## Effects
 

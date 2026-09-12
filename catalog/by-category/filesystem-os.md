@@ -847,7 +847,7 @@ Records: `1702`
 | apache/calcite | partial | 2026-09-11T16:30:53Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
 | apache/ofbiz | partial | 2020-04-27T06:10:43Z | [open](../records/maps-apache-ofbiz-0fe319f9.md) |
 | apache/sedona | partial | 2026-09-11T16:26:58Z | [open](../records/maps-apache-sedona-820c9e53.md) |
-| artembobkin/ImmersiveMap | partial | 2026-09-09T10:22:43Z | [open](../records/maps-artembobkin-immersivemap-7806dbe3.md) |
+| artembobkin/ImmersiveMap | partial | 2026-09-11T12:31:55Z | [open](../records/maps-artembobkin-immersivemap-7806dbe3.md) |
 | arthur-e/Wicket | partial | 2021-09-13T16:04:15Z | [open](../records/maps-arthur-e-wicket-f4681949.md) |
 | atlasdatatech/tiler | partial | 2024-06-02T05:15:30Z | [open](../records/maps-atlasdatatech-tiler-6dc4bb32.md) |
 | BigBodyCobain/Shadowbroker | unknown | github_search_does_not_include_release_date | [open](../records/maps-bigbodycobain-shadowbroker-535b05ca.md) |
@@ -901,8 +901,8 @@ Records: `1702`
 | lminhtm/LMGeocoder | partial | 2023-01-11T13:17:02Z | [open](../records/maps-lminhtm-lmgeocoder-ed80a908.md) |
 | mapbox/mapbox-gl-native | partial | 2023-07-27T10:31:03Z | [open](../records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
 | mapbox/MapboxGeocoder.swift | partial | 2022-09-16T19:41:09Z | [open](../records/maps-mapbox-mapboxgeocoder-swift-8e8212bc.md) |
-| maplibre/maplibre-compose | partial | 2026-09-09T22:06:21Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
-| maplibre/maplibre-native | partial | 2026-09-11T02:11:07Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
+| maplibre/maplibre-compose | partial | 2026-09-12T02:10:18Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
+| maplibre/maplibre-native | partial | 2026-09-12T01:38:25Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
 | Mapsui/Mapsui | partial | 2026-09-08T09:02:04Z | [open](../records/maps-mapsui-mapsui-d3cbf954.md) |
 | maptiler/qgis-maptiler-plugin | partial | 2026-08-11T10:56:34Z | [open](../records/maps-maptiler-qgis-maptiler-plugin-142df605.md) |
 | marceloprates/prettymaps | partial | 2026-07-30T16:29:42Z | [open](../records/maps-marceloprates-prettymaps-e0130cc1.md) |
@@ -1000,7 +1000,7 @@ Records: `1702`
 | demul/extrinsic2pyramid | partial | 2025-02-17T06:43:36Z | [open](../records/space-maps-demul-extrinsic2pyramid-3922b529.md) |
 | dixieflatline76/Spice | partial | 2026-08-18T20:25:46Z | [open](../records/space-maps-dixieflatline76-spice-800b944f.md) |
 | fernandoviton/hohmann-atlas | partial | 2026-04-11T18:44:33Z | [open](../records/space-maps-fernandoviton-hohmann-atlas-5bb11ceb.md) |
-| hannorein/rebound | partial | 2026-09-11T16:11:41Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
+| hannorein/rebound | partial | 2026-09-11T22:28:11Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
 | idsc-frazzoli/owl | partial | 2021-02-24T07:21:29Z | [open](../records/space-maps-idsc-frazzoli-owl-02449d38.md) |
 | Jacob-creator-2/Solar-system | partial | 2026-01-21T21:31:37Z | [open](../records/space-maps-jacob-creator-2-solar-system-83809dec.md) |
 | JoeyDelp/JoSIM | partial | 2025-12-19T09:06:38Z | [open](../records/space-maps-joeydelp-josim-e0fd6fb1.md) |
@@ -1899,7 +1899,7 @@ Records: `1702`
 | sahin/mobileplayer-ios | partial | 2022-07-21T22:10:51Z | [open](../records/cocoa-sahin-mobileplayer-ios-33ef2b37.md) |
 | saucer/saucer | partial | 2026-09-06T15:27:35Z | [open](../records/cocoa-saucer-saucer-338e12ec.md) |
 | shoheiyokoyama/Gemini | partial | 2025-06-28T06:50:16Z | [open](../records/cocoa-shoheiyokoyama-gemini-e24896a8.md) |
-| sindresorhus/KeyboardShortcuts | partial | 2026-06-17T10:24:25Z | [open](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) |
+| sindresorhus/KeyboardShortcuts | partial | 2026-09-11T23:40:22Z | [open](../records/cocoa-sindresorhus-keyboardshortcuts-96f47e66.md) |
 | SnapKit/SnapKit | partial | 2026-07-13T10:50:19Z | [open](../records/cocoa-snapkit-snapkit-aa75ddde.md) |
 | sveinbjornt/Platypus | partial | 2026-05-13T22:44:55Z | [open](../records/cocoa-sveinbjornt-platypus-b3728979.md) |
 | SVProgressHUD/SVProgressHUD | partial | 2026-02-27T17:42:19Z | [open](../records/cocoa-svprogresshud-svprogresshud-7ef7b9b2.md) |

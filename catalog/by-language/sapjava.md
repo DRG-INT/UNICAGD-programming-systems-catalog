@@ -114,8 +114,8 @@ Records: `312`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-11T21:15:48Z | registry-derived |
-| [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-08T14:42:58Z | registry-derived |
+| [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-12T01:53:59Z | registry-derived |
+| [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-11T21:28:45Z | registry-derived |
 | [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | partial | 2026-06-11T22:33:27Z | registry-derived |
 
 ### Filesystem Os
@@ -360,7 +360,7 @@ Records: `312`
 | [newtork/dsag-ai-sdk-java](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) | partial | 2025-03-28T19:33:43Z | registry-derived |
 | [Pallavireddy23/ai-document-process-cap-java](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) | partial | 2026-01-02T12:40:28Z | registry-derived |
 | [phannindra-dev/portfolio](../records/sapjava-phannindra-dev-portfolio-beda514a.md) | partial | 2026-04-24T20:53:58Z | registry-derived |
-| [SAP/SapMachine](../records/sapjava-sap-sapmachine-4293ea0a.md) | partial | 2026-09-11T12:03:46Z | registry-derived |
+| [SAP/SapMachine](../records/sapjava-sap-sapmachine-4293ea0a.md) | partial | 2026-09-12T01:33:51Z | registry-derived |
 | [sharan-space1/asint_chat_llama](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) | partial | 2024-07-06T02:04:32Z | registry-derived |
 | [sree26365-dev/sap-abap-hana-learning](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) | partial | 2026-06-20T08:10:18Z | registry-derived |
 | [zkud/sap-cap-java-advanced-dev-containers-sample](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) | partial | 2025-03-20T18:38:12Z | registry-derived |

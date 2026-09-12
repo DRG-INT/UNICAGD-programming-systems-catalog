@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-11 | `{"kind": "npm_registry_search", "query": "http", "retrieved": "2026-09-11", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-12 | `{"kind": "npm_registry_search", "query": "http", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 

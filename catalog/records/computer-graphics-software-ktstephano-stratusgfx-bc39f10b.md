@@ -41,7 +41,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Microsoft Public License; https://api.github.com/licenses/ms-pl; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

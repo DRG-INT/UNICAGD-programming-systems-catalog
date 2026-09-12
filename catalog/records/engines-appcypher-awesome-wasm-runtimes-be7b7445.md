@@ -39,9 +39,9 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | CERN Open Hardware Licence Version 2 - Weakly Reciprocal; https://api.github.com/licenses/cern-ohl-w-2.0; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | ISC License; https://api.github.com/licenses/isc; {"key": "", "name": "", "url": ""} |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

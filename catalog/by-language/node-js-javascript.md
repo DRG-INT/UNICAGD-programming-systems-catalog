@@ -412,7 +412,7 @@ Records: `2455`
 | [@metamask/messenger-cli](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) | 0.2.0 | 2026-04-20T16:40:19.418Z | registry-derived |
 | [@microsoft/m365agentstoolkit-cli](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) | 1.1.16 | 2026-09-03T09:20:17.630Z | registry-derived |
 | [@microsoft/vally-cli](../records/node-js-javascript-microsoft-vally-cli-48638457.md) | 0.16.0 | 2026-09-09T20:42:45.558Z | registry-derived |
-| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1492 | 2026-09-11T20:59:57.918Z | registry-derived |
+| [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1493 | 2026-09-12T02:15:20.004Z | registry-derived |
 | [@module-federation/cli](../records/node-js-javascript-module-federation-cli-ad5965f3.md) | 2.9.0 | 2026-08-24T08:21:41.802Z | registry-derived |
 | [@mongosh/logging](../records/node-js-javascript-mongosh-logging-a2ed4564.md) | 5.2.0 | 2026-07-01T01:01:34.354Z | npm_registry |
 | [@napi-rs/cli](../records/node-js-javascript-napi-rs-cli-3160c98d.md) | 3.9.1 | 2026-09-10T13:38:48.082Z | registry-derived |
@@ -434,7 +434,7 @@ Records: `2455`
 | [@sanity/cli](../records/node-js-javascript-sanity-cli-257446f0.md) | 8.11.0 | 2026-09-11T20:12:53.868Z | registry-derived |
 | [@sanity/cli-core](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) | 3.7.0 | 2026-09-10T15:58:18.717Z | registry-derived |
 | [@sap/appfront-cli](../records/node-js-javascript-sap-appfront-cli-0314fdf9.md) | 1.16.1 | 2026-08-09T07:20:40.079Z | registry-derived |
-| [@sazabi/cli](../records/node-js-javascript-sazabi-cli-62177a0a.md) | 1.7.0 | 2026-09-11T05:45:32.846Z | registry-derived |
+| [@sazabi/cli](../records/node-js-javascript-sazabi-cli-62177a0a.md) | 1.8.0 | 2026-09-12T02:14:03.891Z | registry-derived |
 | [@sentry/cli-darwin](../records/node-js-javascript-sentry-cli-darwin-f7f0b0cc.md) | 3.7.0 | 2026-08-28T09:23:05.442Z | registry-derived |
 | [@sentry/cli-linux-arm](../records/node-js-javascript-sentry-cli-linux-arm-5ed1afae.md) | 3.7.0 | 2026-08-28T09:27:09.858Z | registry-derived |
 | [@sentry/cli-linux-arm64](../records/node-js-javascript-sentry-cli-linux-arm64-280f8dcb.md) | 3.7.0 | 2026-08-28T10:06:16.152Z | registry-derived |
@@ -515,8 +515,8 @@ Records: `2455`
 | [lmnr-cli](../records/node-js-javascript-lmnr-cli-446632fc.md) | 0.5.0 | 2026-08-21T15:24:37.896Z | registry-derived |
 | [locize-cli](../records/node-js-javascript-locize-cli-9156d8b9.md) | 12.8.1 | 2026-09-08T16:23:57.363Z | registry-derived |
 | [meow](../records/node-js-javascript-meow-f24d3a17.md) | 14.1.0 | 2026-02-20T10:30:43.850Z | registry-derived |
-| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.889 | 2026-09-11T21:00:01.080Z | registry-derived |
-| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.889 | 2026-09-11T21:00:01.073Z | registry-derived |
+| [mint](../records/node-js-javascript-mint-4de26fe3.md) | 4.2.890 | 2026-09-12T02:15:23.186Z | registry-derived |
+| [mintlify](../records/node-js-javascript-mintlify-3fade289.md) | 4.2.890 | 2026-09-12T02:15:23.317Z | registry-derived |
 | [oclif](../records/node-js-javascript-oclif-1e846831.md) | 6.0.0 | 2026-09-11T20:19:04.684Z | unverified_seed |
 | [openapi-merge-cli](../records/node-js-javascript-openapi-merge-cli-834fc90c.md) | 2.0.2 | 2026-08-08T02:12:42.793Z | registry-derived |
 | [ora](../records/node-js-javascript-ora-ad5f9a2f.md) | unknown | not_checked | unverified_seed |
