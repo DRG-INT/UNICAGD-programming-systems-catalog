@@ -23,7 +23,7 @@ Records: `287`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -244,7 +244,7 @@ Records: `287`
 | [rodralez/NaveGo](../records/matlab-rodralez-navego-f33ae190.md) | partial | 2024-02-24T15:09:52Z | registry-derived |
 | [RoyiAvital/StackExchangeCodes](../records/matlab-royiavital-stackexchangecodes-57e5c5da.md) | partial | 2026-07-04T11:16:30Z | registry-derived |
 | [rpng/kalibr_allan](../records/matlab-rpng-kalibr-allan-f0b0c05c.md) | partial | 2020-06-21T16:54:04Z | registry-derived |
-| [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-09-12T03:14:03Z | registry-derived |
+| [sccn/eeglab](../records/matlab-sccn-eeglab-a9eb4cad.md) | partial | 2026-09-12T05:27:38Z | registry-derived |
 | [schneems/Octave](../records/matlab-schneems-octave-ad3f7bee.md) | partial | 2021-07-02T19:34:38Z | registry-derived |
 | [SciML/SciMLBenchmarks.jl](../records/matlab-sciml-scimlbenchmarks-jl-e7766b64.md) | partial | 2026-09-06T05:59:50Z | registry-derived |
 | [scottclowe/matlab-schemer](../records/matlab-scottclowe-matlab-schemer-3f456174.md) | partial | 2023-12-13T03:58:36Z | registry-derived |
@@ -256,7 +256,7 @@ Records: `287`
 | [Shuai-Xie/genetic-algorithm](../records/matlab-shuai-xie-genetic-algorithm-f7cb8aee.md) | partial | 2017-08-05T18:20:10Z | registry-derived |
 | [smousavi05/Seismic-Features-For-Machine-Learning](../records/matlab-smousavi05-seismic-features-for-machine-learning-b23e397b.md) | partial | 2021-03-03T05:30:39Z | registry-derived |
 | [SPIRIT-org/SPIRIT](../records/matlab-spirit-org-spirit-85199c7a.md) | partial | 2026-08-21T15:55:07Z | registry-derived |
-| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-11T06:05:05Z | registry-derived |
+| [spm/spm](../records/matlab-spm-spm-26c6d9ba.md) | partial | 2026-09-12T06:04:31Z | registry-derived |
 | [spm/spm12](../records/matlab-spm-spm12-7cee6644.md) | partial | 2024-02-05T13:43:41Z | registry-derived |
 | [SrirajBehera/Machine-Learning-Andrew-Ng](../records/matlab-srirajbehera-machine-learning-andrew-ng-f3d85a93.md) | partial | 2021-08-13T13:42:45Z | registry-derived |
 | [star2dust/paper-simulation](../records/matlab-star2dust-paper-simulation-9ae3627c.md) | partial | 2022-04-21T09:58:05Z | registry-derived |

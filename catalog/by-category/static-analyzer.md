@@ -23,7 +23,7 @@ Records: `667`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (667)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -478,7 +478,7 @@ Records: `667`
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-11T14:37:52Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-12T03:57:51Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -903,7 +903,7 @@ Records: `667`
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
 | gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-12T02:08:17.759Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-12T03:36:15.490Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/gitlab | partial | 2026-09-12T05:52:33.689Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-11T08:05:51.350Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

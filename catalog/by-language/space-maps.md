@@ -23,7 +23,7 @@ Records: `656`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -254,7 +254,7 @@ Records: `656`
 | [Miro28/Vega](../records/space-maps-miro28-vega-676a8f71.md) | partial | 2026-06-25T12:56:08Z | registry-derived |
 | [MuMashhour/NE555-SPICE-Model](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) | partial | 2023-03-30T13:55:49Z | registry-derived |
 | [MWATelescope/mwa_hyperdrive](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) | partial | 2026-09-10T13:03:15Z | registry-derived |
-| [nyx-space/nyx](../records/space-maps-nyx-space-nyx-2403bcdd.md) | partial | 2026-09-12T00:26:16Z | registry-derived |
+| [nyx-space/nyx](../records/space-maps-nyx-space-nyx-2403bcdd.md) | partial | 2026-09-12T05:07:48Z | registry-derived |
 | [prinz-ai/Solar-System](../records/space-maps-prinz-ai-solar-system-9d19ec67.md) | partial | 2026-06-10T01:58:11Z | registry-derived |
 | [quildtide/ICARUS-Map-Pack](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) | partial | 2025-02-06T21:58:53Z | registry-derived |
 | [Radio-Source/RadioSkyMap](../records/space-maps-radio-source-radioskymap-b6524398.md) | partial | 2026-08-31T15:27:13Z | registry-derived |
@@ -309,7 +309,7 @@ Records: `656`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [a7bdev/falak](../records/space-maps-a7bdev-falak-0cc64905.md) | partial | 2026-07-31T15:43:49Z | registry-derived |
-| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-12T03:46:57Z | registry-derived |
+| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-12T05:07:04Z | registry-derived |
 | [arcsecond-io/standard-stars-catalogues](../records/space-maps-arcsecond-io-standard-stars-catalogues-92d84e53.md) | partial | 2025-06-02T11:14:25Z | registry-derived |
 | [BASI-LABS/parseltongue](../records/space-maps-basi-labs-parseltongue-04dae62d.md) | partial | 2025-01-11T23:48:20Z | registry-derived |
 | [biosshot/easyeda-copilot](../records/space-maps-biosshot-easyeda-copilot-429a5f5a.md) | partial | 2026-09-08T14:37:59Z | registry-derived |
@@ -859,7 +859,7 @@ Records: `656`
 | [Tihkal96/CAIROforAERMOD](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) | partial | 2025-03-17T22:14:28Z | registry-derived |
 | [TingYeahh/caption_eval](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) | partial | 2020-11-25T02:28:24Z | registry-derived |
 | [traines-source/time-space-train-planner](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) | partial | 2026-08-02T20:07:46Z | registry-derived |
-| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-12T02:49:49Z | registry-derived |
+| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-12T05:12:17Z | registry-derived |
 | [zz85/space-radar](../records/space-maps-zz85-space-radar-21258574.md) | partial | 2026-05-28T03:01:07Z | registry-derived |
 
 ### Visualization Gui

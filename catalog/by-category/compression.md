@@ -23,7 +23,7 @@ Records: `55`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -84,8 +84,8 @@ Records: `55`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | text-zipper | 0.13 | 2023-02-04T20:59:07Z | [open](../records/haskell-text-zipper-6676f63d.md) |
-| zip | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-3da7792f.md) |
-| zip-archive | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zip-archive-3e16172e.md) |
+| zip | 2.2.2 | 2026-06-14T13:24:17Z | [open](../records/haskell-zip-3da7792f.md) |
+| zip-archive | 0.4.3.2 | 2024-04-09T16:45:10Z | [open](../records/haskell-zip-archive-3e16172e.md) |
 | zstd | 0.1.4.0 | 2026-09-06T03:09:59Z | [open](../records/haskell-zstd-01fb5311.md) |
 
 ## Dart

@@ -23,7 +23,7 @@ Records: `464`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -78,7 +78,7 @@ Records: `464`
 | [mazzzystar/Queryable](../records/swift-mazzzystar-queryable-52c87dc0.md) | partial | 2026-03-29T14:30:04Z | registry-derived |
 | [p0deje/Maccy](../records/swift-p0deje-maccy-a0af33c6.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [tw93/Mole](../records/swift-tw93-mole-8d180f51.md) | partial | 2026-09-11T15:03:09Z | registry-derived |
-| [XcodesOrg/XcodesApp](../records/swift-xcodesorg-xcodesapp-30834dbe.md) | partial | 2026-09-08T16:05:14Z | registry-derived |
+| [XcodesOrg/XcodesApp](../records/swift-xcodesorg-xcodesapp-30834dbe.md) | partial | 2026-09-12T01:18:43Z | registry-derived |
 
 ### Community Reference
 
@@ -154,9 +154,9 @@ Records: `464`
 | [CleanArchitectureRxSwift](../records/swift-cleanarchitecturerxswift-25af9dfb.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [CodeEditApp/CodeEdit](../records/swift-codeeditapp-codeedit-88d3a878.md) | partial | 2026-08-18T21:24:35Z | registry-derived |
 | [CosmicMind/Material](../records/swift-cosmicmind-material-cd01b365.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [darrylmorley/whatcable](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) | partial | 2026-09-09T14:55:53Z | registry-derived |
+| [darrylmorley/whatcable](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) | partial | 2026-09-11T15:12:43Z | registry-derived |
 | [dkhamsing/open-source-ios-apps](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) | partial | 2026-09-11T14:32:29Z | registry-derived |
-| [duongductrong/Snapzy](../records/swift-duongductrong-snapzy-056cb4ab.md) | partial | 2026-09-11T15:35:03Z | registry-derived |
+| [duongductrong/Snapzy](../records/swift-duongductrong-snapzy-056cb4ab.md) | partial | 2026-09-12T05:09:29Z | registry-derived |
 | [eleev/ios-learning-materials](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) | partial | 2026-08-18T18:26:29Z | registry-derived |
 | [example-ios-apps](../records/swift-example-ios-apps-4d4c80bc.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [facebook/facebook-ios-sdk](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -168,7 +168,7 @@ Records: `464`
 | [huri000/SwiftEntryKit](../records/swift-huri000-swiftentrykit-74ba9318.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ianyh/Amethyst](../records/swift-ianyh-amethyst-89eb6987.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [iziz/libPhoneNumber-iOS](../records/swift-iziz-libphonenumber-ios-5988fef5.md) | partial | 2026-09-11T19:06:05Z | registry-derived |
-| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) | partial | 2026-09-11T10:45:30Z | registry-derived |
 | [JerryZLiu/Dayflow](../records/swift-jerryzliu-dayflow-93341cb6.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [jordanbaird/Ice](../records/swift-jordanbaird-ice-93d7b333.md) | partial | 2025-09-20T20:28:17Z | registry-derived |
 | [Juanpe/SkeletonView](../records/swift-juanpe-skeletonview-17a24b5c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -206,7 +206,7 @@ Records: `464`
 | [shadowsocks/ShadowsocksX-NG](../records/swift-shadowsocks-shadowsocksx-ng-4ddf75c0.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [signalapp/Signal-iOS](../records/swift-signalapp-signal-ios-12189a30.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [sindresorhus/CircularProgress](../records/swift-sindresorhus-circularprogress-767a5c68.md) | partial | 2024-02-20T07:32:46Z | registry-derived |
-| [sindresorhus/KeyboardShortcuts](../records/swift-sindresorhus-keyboardshortcuts-53ceb22f.md) | partial | 2026-06-17T10:24:25Z | registry-derived |
+| [sindresorhus/KeyboardShortcuts](../records/swift-sindresorhus-keyboardshortcuts-53ceb22f.md) | partial | 2026-09-11T23:40:22Z | registry-derived |
 | [sindresorhus/macos-trash](../records/swift-sindresorhus-macos-trash-13c785c6.md) | partial | 2026-08-12T12:37:59Z | registry-derived |
 | [sindresorhus/macos-wallpaper](../records/swift-sindresorhus-macos-wallpaper-3179fd42.md) | partial | 2026-04-19T17:15:48Z | registry-derived |
 | [siteline/swiftui-introspect](../records/swift-siteline-swiftui-introspect-fa39df83.md) | partial | 2026-09-04T00:26:20Z | registry-derived |
@@ -376,7 +376,7 @@ Records: `464`
 | [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-11T21:17:51Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-09-09T04:52:08Z | registry-derived |
-| [maziyarpanahi/openmed](../records/swift-maziyarpanahi-openmed-4666ab59.md) | partial | 2026-09-11T21:10:32Z | registry-derived |
+| [maziyarpanahi/openmed](../records/swift-maziyarpanahi-openmed-4666ab59.md) | partial | 2026-09-12T00:47:34Z | registry-derived |
 | [MengTo/Spring](../records/swift-mengto-spring-21bd886d.md) | partial | 2023-07-03T14:28:34Z | registry-derived |
 | [MonitorControl/MonitorControl](../records/swift-monitorcontrol-monitorcontrol-71ba7549.md) | partial | 2026-08-31T16:37:52Z | registry-derived |
 | [Mortennn/Dozer](../records/swift-mortennn-dozer-5a851823.md) | partial | 2023-11-30T13:45:27Z | registry-derived |
@@ -468,7 +468,7 @@ Records: `464`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [0xCUB3/wBlock](../records/swift-0xcub3-wblock-9610d9bd.md) | partial | 2026-09-11T18:38:52Z | registry-derived |
+| [0xCUB3/wBlock](../records/swift-0xcub3-wblock-9610d9bd.md) | partial | 2026-09-11T22:18:11Z | registry-derived |
 
 ### Linter
 
@@ -480,7 +480,7 @@ Records: `464`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [momenbasel/PureMac](../records/swift-momenbasel-puremac-3b37aa0d.md) | partial | 2026-09-11T04:47:48Z | registry-derived |
+| [momenbasel/PureMac](../records/swift-momenbasel-puremac-3b37aa0d.md) | partial | 2026-09-12T04:47:19Z | registry-derived |
 | [sindresorhus/LaunchAtLogin-Legacy](../records/swift-sindresorhus-launchatlogin-legacy-90e57007.md) | partial | 2024-06-25T00:03:49Z | registry-derived |
 | [sindresorhus/LaunchAtLogin-Modern](../records/swift-sindresorhus-launchatlogin-modern-7ab8cabe.md) | partial | 2024-01-11T20:35:45Z | registry-derived |
 | [steipete/CodexBar](../records/swift-steipete-codexbar-4079e9b0.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -492,7 +492,7 @@ Records: `464`
 | [alienator88/Pearcleaner](../records/swift-alienator88-pearcleaner-5d6907c3.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [bernaferrari/FigmaToCode](../records/swift-bernaferrari-figmatocode-a0226585.md) | partial | 2026-08-05T23:23:49Z | registry-derived |
 | [leetcode-mafia/cheetah](../records/swift-leetcode-mafia-cheetah-6af72d7d.md) | partial | 2025-01-14T21:52:44Z | registry-derived |
-| [mrkai77/Loop](../records/swift-mrkai77-loop-fb0cb297.md) | partial | 2026-09-08T01:23:25Z | registry-derived |
+| [mrkai77/Loop](../records/swift-mrkai77-loop-fb0cb297.md) | partial | 2026-09-11T00:13:04Z | registry-derived |
 | [ParthJadhav/app-store-screenshots](../records/swift-parthjadhav-app-store-screenshots-7d9e3ab6.md) | partial | 2026-09-05T08:14:44Z | registry-derived |
 | [signerlabs/ShipSwift](../records/swift-signerlabs-shipswift-0d911a3f.md) | partial | 2026-08-09T16:23:04Z | registry-derived |
 | [sparrowcode/AlertKit](../records/swift-sparrowcode-alertkit-0f5379bc.md) | partial | 2024-08-11T16:29:07Z | registry-derived |
@@ -510,14 +510,14 @@ Records: `464`
 | --- | --- | --- | --- |
 | [daltoniam/Starscream](../records/swift-daltoniam-starscream-9636cfb7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Dimillian/RedditOS](../records/swift-dimillian-redditos-725a3cef.md) | partial | 2023-10-23T16:52:36Z | registry-derived |
-| [jellyfin/Swiftfin](../records/swift-jellyfin-swiftfin-e178584d.md) | partial | 2026-09-11T20:58:38Z | registry-derived |
+| [jellyfin/Swiftfin](../records/swift-jellyfin-swiftfin-e178584d.md) | partial | 2026-09-12T05:52:45Z | registry-derived |
 | [joreilly/PeopleInSpace](../records/swift-joreilly-peopleinspace-32675233.md) | partial | 2026-09-06T03:40:06Z | registry-derived |
 | [kean/Pulse](../records/swift-kean-pulse-8d6e61db.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Moya/Moya](../records/swift-moya-moya-feb40e46.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [permissionlesstech/bitchat](../records/swift-permissionlesstech-bitchat-1323762a.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [ProjectKumo/KumoApp](../records/swift-projectkumo-kumoapp-163c7695.md) | partial | 2026-06-05T17:08:02Z | registry-derived |
 | [SwiftcordApp/Swiftcord](../records/swift-swiftcordapp-swiftcord-66b78add.md) | partial | 2026-06-20T10:38:53Z | registry-derived |
-| [TableProApp/TablePro](../records/swift-tableproapp-tablepro-17860c9d.md) | partial | 2026-09-11T20:37:39Z | registry-derived |
+| [TableProApp/TablePro](../records/swift-tableproapp-tablepro-17860c9d.md) | partial | 2026-09-12T05:01:58Z | registry-derived |
 
 ### Package Manager
 
@@ -676,7 +676,7 @@ Records: `464`
 | [SvenTiigi/WhatsNewKit](../records/swift-sventiigi-whatsnewkit-3dea6c02.md) | partial | 2024-10-10T10:54:11Z | registry-derived |
 | [SwiftKickMobile/SwiftMessages](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) | partial | 2026-01-26T02:59:00Z | registry-derived |
 | [SwiftWebUI/SwiftWebUI](../records/swift-swiftwebui-swiftwebui-2d397522.md) | partial | 2024-03-02T16:11:08Z | registry-derived |
-| [thaw-app/Thaw](../records/swift-thaw-app-thaw-f275b649.md) | partial | 2026-09-09T14:08:24Z | registry-derived |
+| [thaw-app/Thaw](../records/swift-thaw-app-thaw-f275b649.md) | partial | 2026-09-11T01:32:59Z | registry-derived |
 | [VakhoKontridze/VComponents](../records/swift-vakhokontridze-vcomponents-baf9987a.md) | partial | 2026-08-31T10:24:57Z | registry-derived |
 | [WillieWangWei/SwiftUI-Tutorials](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) | partial | 2020-02-10T03:43:35Z | registry-derived |
 | [yannickl/DynamicColor](../records/swift-yannickl-dynamiccolor-11df482b.md) | partial | 2023-11-30T13:02:01Z | registry-derived |

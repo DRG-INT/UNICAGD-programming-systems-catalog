@@ -23,7 +23,7 @@ Records: `1511`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -693,10 +693,10 @@ Records: `1511`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T03:38:52Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T06:11:28Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-11T02:22:13Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-12T03:11:23Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-12T06:14:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-11T23:39:32Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -819,10 +819,10 @@ Records: `1511`
 | darriagada/Retro-Noise | partial | 2020-11-27T20:10:33Z | [open](../records/assets-darriagada-retro-noise-dc8e59f0.md) |
 | DragonCherry/AssetsPickerViewController | partial | 2022-09-21T03:05:44Z | [open](../records/assets-dragoncherry-assetspickerviewcontroller-291d781d.md) |
 | epilys/gerb | partial | 2024-10-17T10:23:39Z | [open](../records/assets-epilys-gerb-11b0ad1a.md) |
-| fontra/fontra | partial | 2026-09-07T14:15:42Z | [open](../records/assets-fontra-fontra-5752503b.md) |
+| fontra/fontra | partial | 2026-09-11T18:21:29Z | [open](../records/assets-fontra-fontra-5752503b.md) |
 | imadr/Unity-game-hacking | partial | 2022-11-14T15:38:12Z | [open](../records/assets-imadr-unity-game-hacking-14ce1631.md) |
 | itflow-org/itflow | partial | 2026-09-11T11:56:53Z | [open](../records/assets-itflow-org-itflow-94ed9c35.md) |
-| javierbyte/brutalita | partial | 2026-09-09T01:03:07Z | [open](../records/assets-javierbyte-brutalita-1566daf1.md) |
+| javierbyte/brutalita | partial | 2026-09-12T03:03:44Z | [open](../records/assets-javierbyte-brutalita-1566daf1.md) |
 | JeffersonQin/YuzuMarker.FontDetection | partial | 2025-02-22T22:38:43Z | [open](../records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) |
 | listyque/TACTIC-Handler | partial | 2024-09-23T13:12:49Z | [open](../records/assets-listyque-tactic-handler-4eac647f.md) |
 | markusmoenig/ShaderMania | partial | 2026-05-23T01:19:59Z | [open](../records/assets-markusmoenig-shadermania-e22e5065.md) |
@@ -853,7 +853,7 @@ Records: `1511`
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-06T01:55:04Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-11T06:57:08Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-12T05:29:14Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-08T11:23:58Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -881,7 +881,7 @@ Records: `1511`
 | jrenaud90/TidalPy | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-jrenaud90-tidalpy-156822c1.md) |
 | JuliaAstro/GeneralAstrodynamics.jl | partial | 2026-05-06T04:24:06Z | [open](../records/space-engines-juliaastro-generalastrodynamics-jl-7232995f.md) |
 | JuliaSpaceMissionDesign/Ephemerides.jl | partial | 2025-03-23T09:47:16Z | [open](../records/space-engines-juliaspacemissiondesign-ephemerides-jl-1c705450.md) |
-| nyx-space/nyx | partial | 2026-09-12T00:26:16Z | [open](../records/space-engines-nyx-space-nyx-f54af692.md) |
+| nyx-space/nyx | partial | 2026-09-12T05:07:48Z | [open](../records/space-engines-nyx-space-nyx-f54af692.md) |
 | Starainrt/astro | partial | 2026-08-06T04:42:42Z | [open](../records/space-engines-starainrt-astro-97e8d2a3.md) |
 | TheSpaceDevs/Tutorials | partial | 2025-05-03T08:01:41Z | [open](../records/space-engines-thespacedevs-tutorials-24f5a0d6.md) |
 | Thomas-Loudis/georb | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-thomas-loudis-georb-01fab219.md) |
@@ -920,7 +920,7 @@ Records: `1511`
 | Miro28/Vega | partial | 2026-06-25T12:56:08Z | [open](../records/space-maps-miro28-vega-676a8f71.md) |
 | MuMashhour/NE555-SPICE-Model | partial | 2023-03-30T13:55:49Z | [open](../records/space-maps-mumashhour-ne555-spice-model-b48aca64.md) |
 | MWATelescope/mwa_hyperdrive | partial | 2026-09-10T13:03:15Z | [open](../records/space-maps-mwatelescope-mwa-hyperdrive-ec8debf1.md) |
-| nyx-space/nyx | partial | 2026-09-12T00:26:16Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
+| nyx-space/nyx | partial | 2026-09-12T05:07:48Z | [open](../records/space-maps-nyx-space-nyx-2403bcdd.md) |
 | prinz-ai/Solar-System | partial | 2026-06-10T01:58:11Z | [open](../records/space-maps-prinz-ai-solar-system-9d19ec67.md) |
 | quildtide/ICARUS-Map-Pack | partial | 2025-02-06T21:58:53Z | [open](../records/space-maps-quildtide-icarus-map-pack-4361a94d.md) |
 | Radio-Source/RadioSkyMap | partial | 2026-08-31T15:27:13Z | [open](../records/space-maps-radio-source-radioskymap-b6524398.md) |
@@ -1698,7 +1698,7 @@ Records: `1511`
 | Apple Review Guidelines | unknown | not_a_cocoapods_name | [open](../records/cocoa-apple-review-guidelines-d06165e6.md) |
 | ARVideoKit | 1.6.0 | 2020-03-18T17:57:09Z | [open](../records/cocoa-arvideokit-9a0f973d.md) |
 | AuroraEditor/AuroraEditor | partial | 2025-08-26T18:58:06Z | [open](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) |
-| coteditor/CotEditor | partial | 2026-09-12T01:41:24Z | [open](../records/cocoa-coteditor-coteditor-061a819f.md) |
+| coteditor/CotEditor | partial | 2026-09-12T02:55:59Z | [open](../records/cocoa-coteditor-coteditor-061a819f.md) |
 | edgar-zigis/CocoaTextField | partial | 2025-02-02T12:29:36Z | [open](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) |
 | Embrace | unknown | cocoapods_metadata_missing | [open](../records/cocoa-embrace-ced14cf1.md) |
 | fespinoza/LinkedIdeas | partial | 2021-07-13T07:49:54Z | [open](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) |

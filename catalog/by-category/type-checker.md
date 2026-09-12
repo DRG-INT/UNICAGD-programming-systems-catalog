@@ -23,7 +23,7 @@ Records: `318`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## Python
@@ -315,7 +315,7 @@ Records: `318`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-12T05:11:00Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-12T06:20:32Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -358,7 +358,7 @@ Records: `318`
 | --- | --- | --- | --- |
 | FlexyTools/Flexy.AssetRefs | partial | 2026-07-31T15:36:54Z | [open](../records/assets-flexytools-flexy-assetrefs-ec4cd6a1.md) |
 | KayKit-Game-Assets/KayKit-Prototype-Bits-1.0 | partial | 2023-09-16T07:47:12Z | [open](../records/assets-kaykit-game-assets-kaykit-prototype-bits-1-0-9dbdb869.md) |
-| lucemia/typed-ffmpeg | partial | 2026-09-03T03:08:47Z | [open](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
+| lucemia/typed-ffmpeg | partial | 2026-09-10T02:53:38Z | [open](../records/assets-lucemia-typed-ffmpeg-b38dabb5.md) |
 | sinclairzx81/typescript-bundle | partial | 2026-07-20T21:18:13Z | [open](../records/assets-sinclairzx81-typescript-bundle-f3078d7e.md) |
 | VadimDez/Counter-Strike-JS | partial | 2025-09-18T02:59:28Z | [open](../records/assets-vadimdez-counter-strike-js-c9d5b005.md) |
 | zigurous/unity-prototyping-kit | partial | 2026-06-16T16:16:25Z | [open](../records/assets-zigurous-unity-prototyping-kit-8d68caac.md) |

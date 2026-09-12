@@ -23,7 +23,7 @@ Records: `324`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · **[Precommit Ci Quality (324)](precommit-ci-quality.md)**
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -333,7 +333,7 @@ Records: `324`
 | LongOnly/Quantitative-Notebooks | partial | 2020-07-02T00:17:39Z | [open](../records/assets-longonly-quantitative-notebooks-855b8424.md) |
 | sahibjotsaggu/San-Francisco-Pro-Fonts | partial | 2023-01-29T07:38:34Z | [open](../records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) |
 | satelllte/JSPlacementWeb | partial | 2024-02-03T11:52:51Z | [open](../records/assets-satelllte-jsplacementweb-55922817.md) |
-| sepandhaghighi/art | partial | 2026-09-07T01:32:30Z | [open](../records/assets-sepandhaghighi-art-5075f3ee.md) |
+| sepandhaghighi/art | partial | 2026-09-11T17:52:55Z | [open](../records/assets-sepandhaghighi-art-5075f3ee.md) |
 | tschm/pyhrp | partial | 2026-09-08T05:35:54Z | [open](../records/assets-tschm-pyhrp-3c7c1465.md) |
 | xero/figlet-fonts | partial | 2026-03-30T14:19:33Z | [open](../records/assets-xero-figlet-fonts-4c500777.md) |
 

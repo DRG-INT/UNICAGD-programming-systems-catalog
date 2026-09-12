@@ -23,7 +23,7 @@ Records: `782`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -53,7 +53,7 @@ Records: `782`
 | --- | --- | --- | --- |
 | [AuburnSounds/Dplug](../records/effects-auburnsounds-dplug-3c33ea8b.md) | partial | 2026-09-11T07:56:08Z | registry-derived |
 | [c8r/iso](../records/effects-c8r-iso-4a2333dd.md) | partial | 2018-06-03T18:44:56Z | registry-derived |
-| [ChrisBuilds/terminaltexteffects](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) | partial | 2026-09-11T02:23:37Z | registry-derived |
+| [ChrisBuilds/terminaltexteffects](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) | partial | 2026-09-12T04:24:57Z | registry-derived |
 | [CuarzoSoftware/Louvre](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) | partial | 2026-08-31T18:15:35Z | registry-derived |
 | [DatanoiseTV/PicoADK-Hardware](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) | partial | 2024-01-05T12:00:10Z | registry-derived |
 | [james34602/JamesDSPManager](../records/effects-james34602-jamesdspmanager-b977897f.md) | partial | 2025-06-18T14:08:35Z | registry-derived |
@@ -824,7 +824,7 @@ Records: `782`
 | [appliedapp/rusty_lights](../records/effects-appliedapp-rusty-lights-c67cc805.md) | partial | 2026-05-04T20:20:12Z | registry-derived |
 | [Audio4Linux/JDSP4Linux](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) | partial | 2026-08-29T16:29:46Z | registry-derived |
 | [beinteractive/LWRPAmbientOcclusion](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) | partial | 2019-10-04T22:49:34Z | registry-derived |
-| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-09-11T21:44:57Z | registry-derived |
+| [CialloKing/ba-click-fx](../records/effects-cialloking-ba-click-fx-b842180a.md) | partial | 2026-09-12T05:11:57Z | registry-derived |
 | [CyberAgentGameEntertainment/NovaShader](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) | partial | 2026-09-07T02:51:55Z | registry-derived |
 | [demonixis/SSGI-URP](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) | partial | 2020-03-11T06:40:26Z | registry-derived |
 | [GarrettGunnell/Post-Processing](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) | partial | 2024-06-30T11:16:48Z | registry-derived |

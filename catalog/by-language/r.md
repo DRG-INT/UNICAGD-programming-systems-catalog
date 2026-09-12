@@ -1,6 +1,6 @@
 # R
 
-Records: `2037`
+Records: `2038`
 
 ## Navigation
 
@@ -23,7 +23,7 @@ Records: `2037`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -2114,6 +2114,7 @@ Records: `2037`
 | [citcdf](../records/r-citcdf-34c124c6.md) | 1.1.0 | 2026-08-21 13:30:32 UTC | registry-derived |
 | [CompositionalMPT](../records/r-compositionalmpt-fb68d530.md) | 1.0 | 2026-08-24 10:10:27 UTC | registry-derived |
 | [DAGassist](../records/r-dagassist-b248a183.md) | 0.3.0 | 2026-08-19 13:20:02 UTC | registry-derived |
+| [ddst](../records/r-ddst-5c641a70.md) | 1.6.11 | 2026-09-12 05:10:02 UTC | registry-derived |
 | [DiscreteTests](../records/r-discretetests-c4aa034b.md) | 0.5.1 | 2026-09-02 05:20:53 UTC | registry-derived |
 | [DPComb](../records/r-dpcomb-ea26f266.md) | 1.0.1 | 2026-08-22 16:30:22 UTC | registry-derived |
 | [dScoreTest](../records/r-dscoretest-8924c911.md) | 1.0.0 | 2026-09-02 20:20:02 UTC | registry-derived |

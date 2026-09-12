@@ -23,7 +23,7 @@ Records: `981`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -442,8 +442,8 @@ Records: `981`
 | osm2pgsql-dev/osm2pgsql | partial | 2026-07-24T16:09:16Z | [open](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) |
 | PostGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-postgis-05acffcb.md) |
 | postgis/postgis | partial | 2026-09-11T09:40:25Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
-| RediSearch/RediSearch | partial | 2026-09-11T12:30:18Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
-| thanglequoc/vietnamese-provinces-database | partial | 2026-08-31T16:46:02Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
+| RediSearch/RediSearch | partial | 2026-09-12T02:31:07Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
+| thanglequoc/vietnamese-provinces-database | partial | 2026-09-12T04:49:40Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | unknown | github_search_does_not_include_release_date | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) |
 
 ## Space Engines
@@ -795,7 +795,7 @@ Records: `981`
 | apache/cassandra-gocql-driver | partial | 2026-07-28T10:40:38Z | [open](../records/databases-apache-cassandra-gocql-driver-13378c84.md) |
 | apache/cassandra-nodejs-driver | partial | 2026-09-08T23:04:17Z | [open](../records/databases-apache-cassandra-nodejs-driver-80b85a13.md) |
 | apache/datafusion | partial | 2026-09-11T21:06:04Z | [open](../records/databases-apache-datafusion-4e892e01.md) |
-| apache/doris | partial | 2026-09-12T01:10:33Z | [open](../records/databases-apache-doris-48052ae4.md) |
+| apache/doris | partial | 2026-09-12T05:35:59Z | [open](../records/databases-apache-doris-48052ae4.md) |
 | apache/flink-cdc | partial | 2026-09-09T07:46:08Z | [open](../records/databases-apache-flink-cdc-404f27d7.md) |
 | apache/iotdb | partial | 2026-09-11T08:36:25Z | [open](../records/databases-apache-iotdb-b6bf919e.md) |
 | apache/lucene | partial | 2026-09-11T08:24:32Z | [open](../records/databases-apache-lucene-85981dbd.md) |
@@ -832,7 +832,7 @@ Records: `981`
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
 | citusdata/citus | partial | 2026-09-11T22:58:48Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
-| clockworklabs/SpacetimeDB | partial | 2026-09-12T02:06:56Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| clockworklabs/SpacetimeDB | partial | 2026-09-12T02:58:49Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
 | Cloudflare R2 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-r2-ad4ae9ea.md) |
 | CockroachDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cockroachdb-edd34bb8.md) |
@@ -869,7 +869,7 @@ Records: `981`
 | Dokploy/dokploy | partial | 2026-09-11T08:20:23Z | [open](../records/databases-dokploy-dokploy-05537e16.md) |
 | Dolibarr/dolibarr | partial | 2026-09-12T00:14:42Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
-| dotnet/efcore | partial | 2026-09-12T01:23:09Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
+| dotnet/efcore | partial | 2026-09-12T04:41:21Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
 | dragonflydb/dragonfly | partial | 2026-09-11T16:59:38Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | drizzle-team/drizzle-orm | partial | 2026-09-11T15:04:58Z | [open](../records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | DuckDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-duckdb-88d17aa9.md) |
@@ -971,7 +971,7 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-12T02:13:17Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-12T05:50:26Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
@@ -1114,7 +1114,7 @@ Records: `981`
 | upper/db | partial | 2025-12-06T13:39:47Z | [open](../records/databases-upper-db-2a4c803a.md) |
 | usememos/memos | partial | 2026-09-12T04:56:29Z | [open](../records/databases-usememos-memos-2e3fd386.md) |
 | Valkey | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-valkey-9b1f0fe5.md) |
-| valkey-io/valkey | partial | 2026-09-11T19:24:55Z | [open](../records/databases-valkey-io-valkey-076b87d0.md) |
+| valkey-io/valkey | partial | 2026-09-12T02:24:50Z | [open](../records/databases-valkey-io-valkey-076b87d0.md) |
 | vanna-ai/vanna | partial | 2026-02-02T14:14:20Z | [open](../records/databases-vanna-ai-vanna-93ed50c7.md) |
 | vapor/fluent | partial | 2026-08-25T09:44:33Z | [open](../records/databases-vapor-fluent-198357ea.md) |
 | vasu-devs/JustHireMe | partial | 2026-09-09T10:07:39Z | [open](../records/databases-vasu-devs-justhireme-b00ae36b.md) |

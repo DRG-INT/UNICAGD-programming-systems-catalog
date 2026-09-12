@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/mockcat](https://hackage.haskell.org/package/mockcat) |
-| Source record ids | hackage_top_downloads-43e8d05291aea3 |
+| Source record ids | hackage_recent-43e8d05291aea3 |
 
 ## System Engineer Summary
 
-Hackage package with 94 recent downloads in the Hackage top-downloads listing.
+Hackage package recently uploaded by funnycat.
 
 ## Operational Role
 
@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.4.1.1 | 2026-01-17T03:09:06Z | [https://hackage.haskell.org/package/mockcat](https://hackage.haskell.org/package/mockcat) |  |
-| candidate | partial | 0.5.3.0 |  | [https://hackage.haskell.org/package/mockcat](https://hackage.haskell.org/package/mockcat) | hackage_candidate_date_missing |
+| stable | known | 1.5.0.0 | 2026-09-12T04:56:46Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `assertion_mocking` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/mockcat` at `2026-09-01T14:24:24+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-12T06:23:41+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-12 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-12", "status": "registry-derived"}` |
+| hackage_recent_uploads | registry-derived | 2026-09-12 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_top_downloads-43e8d05291aea3` from `hackage_top_downloads` as `registry_expansion`
+- `hackage_recent-43e8d05291aea3` from `hackage_recent` as `registry_expansion`
 
 </details>
 
@@ -96,5 +96,5 @@ Evidence records merged into this identity: `1`.
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

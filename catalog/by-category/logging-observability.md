@@ -23,7 +23,7 @@ Records: `552`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -437,7 +437,7 @@ Records: `552`
 | --- | --- | --- | --- |
 | raphaelhanneken/iconizer | partial | 2023-05-23T19:05:30Z | [open](../records/assets-raphaelhanneken-iconizer-867b9d26.md) |
 | TMHSDigital/Free-Game-Dev-Assets | partial | 2026-09-06T15:48:08Z | [open](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
-| unjs/fontaine | partial | 2026-09-09T15:03:20Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
+| unjs/fontaine | partial | 2026-09-11T19:00:23Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/assets-vorillaz-devicons-ab704e06.md) |
 
 ## Maps
@@ -447,7 +447,7 @@ Records: `552`
 | CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
 | locationtech/jts | partial | 2026-09-05T16:48:40Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
 | meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
-| opengeos/geospatial-data-catalogs | partial | 2026-09-11T04:56:46Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
+| opengeos/geospatial-data-catalogs | partial | 2026-09-12T04:57:07Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
 | samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
 | teslamate-org/teslamate | partial | 2026-09-08T18:44:34Z | [open](../records/maps-teslamate-org-teslamate-4ad3999f.md) |
@@ -763,7 +763,7 @@ Records: `552`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| momenbasel/PureMac | partial | 2026-09-11T04:47:48Z | [open](../records/swift-momenbasel-puremac-3b37aa0d.md) |
+| momenbasel/PureMac | partial | 2026-09-12T04:47:19Z | [open](../records/swift-momenbasel-puremac-3b37aa0d.md) |
 | sindresorhus/LaunchAtLogin-Legacy | partial | 2024-06-25T00:03:49Z | [open](../records/swift-sindresorhus-launchatlogin-legacy-90e57007.md) |
 | sindresorhus/LaunchAtLogin-Modern | partial | 2024-01-11T20:35:45Z | [open](../records/swift-sindresorhus-launchatlogin-modern-7ab8cabe.md) |
 | steipete/CodexBar | unknown | github_search_does_not_include_release_date | [open](../records/swift-steipete-codexbar-4079e9b0.md) |

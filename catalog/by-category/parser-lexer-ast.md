@@ -23,7 +23,7 @@ Records: `1241`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1241)](parser-lexer-ast.md)** · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -665,8 +665,8 @@ Records: `1241`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-12T04:31:33Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-12T04:50:38Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-12T06:25:40Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| HKUDS/LightRAG | partial | 2026-09-12T06:18:56Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-11T10:11:32Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -1412,7 +1412,7 @@ Records: `1241`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AdrienTorris/awesome-blazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-adrientorris-awesome-blazor-baae6774.md) |
-| Automattic/harper | partial | 2026-09-11T19:48:07Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
+| Automattic/harper | partial | 2026-09-12T05:52:38Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
 | drbh/wasm-fingerprint | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-drbh-wasm-fingerprint-2d024b12.md) |
 | esimov/pigo | partial | 2025-05-03T15:07:42Z | [open](../records/webassembly-esimov-pigo-47c4c3e9.md) |
 | jameslittle230/stork | partial | 2023-07-01T14:15:45Z | [open](../records/webassembly-jameslittle230-stork-1024e297.md) |
@@ -1425,7 +1425,7 @@ Records: `1241`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | com.sap.cloud.sdk.services:recast-ai | 3.78.0 | 2022-12-19T12:44:13+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-recast-ai-0fabd146.md) |
-| SAP/sailing-analytics | partial | 2026-09-11T18:11:28Z | [open](../records/sapjava-sap-sailing-analytics-18e68ac1.md) |
+| SAP/sailing-analytics | partial | 2026-09-12T05:35:21Z | [open](../records/sapjava-sap-sailing-analytics-18e68ac1.md) |
 
 ## Swift
 
@@ -1463,7 +1463,7 @@ Records: `1241`
 | arnaudroger/SimpleFlatMapper | partial | 2025-09-21T07:23:46Z | [open](../records/databases-arnaudroger-simpleflatmapper-bed9a08c.md) |
 | BDR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bdr-d3b5137a.md) |
 | calcom/cal.diy | partial | 2026-09-11T22:25:49Z | [open](../records/databases-calcom-cal-diy-2a9d1d15.md) |
-| chroma-core/chroma | partial | 2026-09-11T21:15:32Z | [open](../records/databases-chroma-core-chroma-4683632f.md) |
+| chroma-core/chroma | partial | 2026-09-12T04:40:29Z | [open](../records/databases-chroma-core-chroma-4683632f.md) |
 | danny-avila/rag_api | partial | 2026-08-15T17:09:36Z | [open](../records/databases-danny-avila-rag-api-13cf38f8.md) |
 | datalevin/datalevin | partial | 2026-09-09T04:46:29Z | [open](../records/databases-datalevin-datalevin-fd00132f.md) |
 | dbcli/litecli | partial | 2026-06-18T20:25:31Z | [open](../records/databases-dbcli-litecli-e20f675e.md) |
@@ -1492,10 +1492,10 @@ Records: `1241`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-11T16:29:59Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-12T02:17:29Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-12T06:27:18Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
-| scylladb/scylladb | partial | 2026-09-11T23:45:42Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
+| scylladb/scylladb | partial | 2026-09-12T02:31:43Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
 | Slony-I | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-slony-i-cc9dd3b4.md) |
 | Spock | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-spock-80573fc1.md) |
 | StarTrail-org/LEANN | partial | 2026-09-05T09:57:42Z | [open](../records/databases-startrail-org-leann-a6b16bc8.md) |

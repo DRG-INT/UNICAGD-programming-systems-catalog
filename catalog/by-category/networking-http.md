@@ -23,7 +23,7 @@ Records: `1087`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -1272,14 +1272,14 @@ Records: `1087`
 | --- | --- | --- | --- |
 | daltoniam/Starscream | unknown | github_search_does_not_include_release_date | [open](../records/swift-daltoniam-starscream-9636cfb7.md) |
 | Dimillian/RedditOS | partial | 2023-10-23T16:52:36Z | [open](../records/swift-dimillian-redditos-725a3cef.md) |
-| jellyfin/Swiftfin | partial | 2026-09-11T20:58:38Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
+| jellyfin/Swiftfin | partial | 2026-09-12T05:52:45Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
 | joreilly/PeopleInSpace | partial | 2026-09-06T03:40:06Z | [open](../records/swift-joreilly-peopleinspace-32675233.md) |
 | kean/Pulse | unknown | github_search_does_not_include_release_date | [open](../records/swift-kean-pulse-8d6e61db.md) |
 | Moya/Moya | unknown | github_search_does_not_include_release_date | [open](../records/swift-moya-moya-feb40e46.md) |
 | permissionlesstech/bitchat | unknown | github_search_does_not_include_release_date | [open](../records/swift-permissionlesstech-bitchat-1323762a.md) |
 | ProjectKumo/KumoApp | partial | 2026-06-05T17:08:02Z | [open](../records/swift-projectkumo-kumoapp-163c7695.md) |
 | SwiftcordApp/Swiftcord | partial | 2026-06-20T10:38:53Z | [open](../records/swift-swiftcordapp-swiftcord-66b78add.md) |
-| TableProApp/TablePro | partial | 2026-09-11T20:37:39Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
+| TableProApp/TablePro | partial | 2026-09-12T05:01:58Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
 
 ## Cocoa
 

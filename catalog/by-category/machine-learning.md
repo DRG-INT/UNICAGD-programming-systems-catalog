@@ -23,7 +23,7 @@ Records: `855`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -502,13 +502,13 @@ Records: `855`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
-| bojieli/ai-agent-book | partial | 2026-09-12T03:02:15Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
+| bojieli/ai-agent-book | partial | 2026-09-12T05:58:04Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
 | browser-use/browser-use | partial | 2026-09-10T04:20:25Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-09-12T02:51:21Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-12T03:11:30Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-12T06:22:51Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-11T17:28:22Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -519,13 +519,13 @@ Records: `855`
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
 | langchain-ai/langchain | partial | 2026-09-12T02:42:19Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
-| lyogavin/airllm | partial | 2026-09-11T06:22:58Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
+| lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-12T05:09:32Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-12T06:12:23Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T00:36:10Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-12T04:53:29Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-12T06:17:56Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -687,7 +687,7 @@ Records: `855`
 | ngageoint/hootenanny | partial | 2026-09-08T19:02:28Z | [open](../records/maps-ngageoint-hootenanny-ef5b4528.md) |
 | openeventdata/mordecai | partial | 2021-09-17T11:54:38Z | [open](../records/maps-openeventdata-mordecai-3aa9fc97.md) |
 | openstreetmap/openstreetmap-website | partial | 2026-09-08T16:33:56Z | [open](../records/maps-openstreetmap-openstreetmap-website-e9c62754.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-11T16:52:45Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-12T02:07:53Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
 | sylvainjule/kirby-locator | partial | 2025-08-06T23:10:42Z | [open](../records/maps-sylvainjule-kirby-locator-ad754d9e.md) |
 | w3reality/three-geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-w3reality-three-geo-ccdac8ff.md) |
 
@@ -1054,7 +1054,7 @@ Records: `855`
 | alienator88/Pearcleaner | unknown | github_search_does_not_include_release_date | [open](../records/swift-alienator88-pearcleaner-5d6907c3.md) |
 | bernaferrari/FigmaToCode | partial | 2026-08-05T23:23:49Z | [open](../records/swift-bernaferrari-figmatocode-a0226585.md) |
 | leetcode-mafia/cheetah | partial | 2025-01-14T21:52:44Z | [open](../records/swift-leetcode-mafia-cheetah-6af72d7d.md) |
-| mrkai77/Loop | partial | 2026-09-08T01:23:25Z | [open](../records/swift-mrkai77-loop-fb0cb297.md) |
+| mrkai77/Loop | partial | 2026-09-11T00:13:04Z | [open](../records/swift-mrkai77-loop-fb0cb297.md) |
 | ParthJadhav/app-store-screenshots | partial | 2026-09-05T08:14:44Z | [open](../records/swift-parthjadhav-app-store-screenshots-7d9e3ab6.md) |
 | signerlabs/ShipSwift | partial | 2026-08-09T16:23:04Z | [open](../records/swift-signerlabs-shipswift-0d911a3f.md) |
 | sparrowcode/AlertKit | partial | 2024-08-11T16:29:07Z | [open](../records/swift-sparrowcode-alertkit-0f5379bc.md) |

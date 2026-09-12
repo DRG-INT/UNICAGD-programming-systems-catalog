@@ -23,7 +23,7 @@ Records: `450`
 [Other (14)](other.md) · **[Package Manager (450)](package-manager.md)** · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -333,7 +333,7 @@ Records: `450`
 | RxLaboratory/Ramses | partial | 2024-10-16T08:21:05Z | [open](../records/assets-rxlaboratory-ramses-b3bc970c.md) |
 | Saalvage/AssimpNetter | partial | 2026-06-23T13:20:26Z | [open](../records/assets-saalvage-assimpnetter-ec5bd434.md) |
 | Shilo/pixellab-pip | partial | 2026-08-27T04:50:35Z | [open](../records/assets-shilo-pixellab-pip-0be82c0e.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-08T16:18:33Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-12T06:00:32Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
 | spotify/klio | partial | 2024-01-10T19:37:37Z | [open](../records/assets-spotify-klio-c9106254.md) |
 | Stolz/Assets | partial | 2020-02-01T12:06:15Z | [open](../records/assets-stolz-assets-766b2deb.md) |
 | torba-rb/torba | partial | 2023-08-18T09:14:31Z | [open](../records/assets-torba-rb-torba-6deb2fda.md) |
@@ -384,7 +384,7 @@ Records: `450`
 | appliedapp/rusty_lights | partial | 2026-05-04T20:20:12Z | [open](../records/effects-appliedapp-rusty-lights-c67cc805.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/effects-audio4linux-jdsp4linux-e90e4af9.md) |
 | beinteractive/LWRPAmbientOcclusion | partial | 2019-10-04T22:49:34Z | [open](../records/effects-beinteractive-lwrpambientocclusion-7b85e0e3.md) |
-| CialloKing/ba-click-fx | partial | 2026-09-11T21:44:57Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
+| CialloKing/ba-click-fx | partial | 2026-09-12T05:11:57Z | [open](../records/effects-cialloking-ba-click-fx-b842180a.md) |
 | CyberAgentGameEntertainment/NovaShader | partial | 2026-09-07T02:51:55Z | [open](../records/effects-cyberagentgameentertainment-novashader-cfdfe2cf.md) |
 | demonixis/SSGI-URP | partial | 2020-03-11T06:40:26Z | [open](../records/effects-demonixis-ssgi-urp-4db7e7d8.md) |
 | GarrettGunnell/Post-Processing | partial | 2024-06-30T11:16:48Z | [open](../records/effects-garrettgunnell-post-processing-2bb2ca4a.md) |

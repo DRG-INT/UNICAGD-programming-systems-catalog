@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T05:20:40+00:00`
+Generated: `2026-09-12T06:28:38+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -21,20 +21,29 @@ Generated: `2026-09-12T05:20:40+00:00`
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (340)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (667)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (646)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (647)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (649)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10821 |
-| Unknown stable release | 18198 |
+| Known stable release | 10831 |
+| Unknown stable release | 18189 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.1 | 2026-09-12T06:04:37.353Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
+| @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 2.1.6 | 2026-09-12T06:04:36.360Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
+| @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.13 | 2026-09-12T06:04:35.723Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
+| @transcend-io/mcp-server-workflows | Node.js/JavaScript | Web Framework | 1.0.9 | 2026-09-12T06:03:45.570Z | [open](records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
+| @transcend-io/mcp-server-dsr | Node.js/JavaScript | Web Framework | 2.0.6 | 2026-09-12T06:03:41.848Z | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
+| @transcend-io/mcp-server-inventory | Node.js/JavaScript | Web Framework | 1.0.9 | 2026-09-12T06:03:41.581Z | [open](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
+| @transcend-io/mcp-server-discovery | Node.js/JavaScript | Web Framework | 1.0.9 | 2026-09-12T06:03:41.229Z | [open](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
+| @transcend-io/mcp-server-admin | Node.js/JavaScript | Web Framework | 1.0.9 | 2026-09-12T06:03:41.217Z | [open](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
+| mockcat | Haskell | Assertion Mocking | 1.5.0.0 | 2026-09-12T04:56:46Z | [open](records/haskell-mockcat-fdb03bd1.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.9.0 | 2026-09-12T03:55:49.949Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | fuyu-gpio | Haskell | Library | 0.1.1.0 | 2026-09-12T03:17:42Z | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | cxx | Rust | Interop Bindings | 1.0.202 | 2026-09-12T02:20:55.503835Z | [open](records/rust-cxx-8005ea19.md) |
@@ -45,21 +54,14 @@ Generated: `2026-09-12T05:20:40+00:00`
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| ddst | R | Testing Framework | 1.6.11 | 2026-09-12 05:10:02 UTC | [open](records/r-ddst-5c641a70.md) |
 | tesouror | R | Api Abi Checker | 0.3.1 | 2026-09-12 02:20:02 UTC | [open](records/r-tesouror-0a7b94e7.md) |
 | RIFanalysis | R | Static Analyzer | 0.9.3 | 2026-09-12 00:10:02 UTC | [open](records/r-rifanalysis-8f1ffcb3.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.1 | 2026-09-11T21:26:25.564Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
-| @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.12 | 2026-09-11T21:20:59.174Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.0 | 2026-09-11T21:19:55.919Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 2.1.5 | 2026-09-11T21:19:24.472Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
 | @transcend-io/mcp-server-base | Node.js/JavaScript | Parser Lexer Ast | 2.4.0 | 2026-09-11T21:18:21.895Z | [open](records/node-js-javascript-transcend-io-mcp-server-base-8b65e39b.md) |
 | h-raylib | Haskell | Library | 6.1.0.0 | 2026-09-11T21:18:02Z | [open](records/haskell-h-raylib-2e89b40b.md) |
-| @transcend-io/mcp-server-workflows | Node.js/JavaScript | Web Framework | 1.0.8 | 2026-09-11T21:16:50.883Z | [open](records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @sap-ux/fiori-mcp-server | Node.js/JavaScript | Web Framework | 1.12.5 | 2026-09-11T21:16:50.150Z | [open](records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
-| @transcend-io/mcp-server-admin | Node.js/JavaScript | Web Framework | 1.0.8 | 2026-09-11T21:16:45.686Z | [open](records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) |
-| @transcend-io/mcp-server-inventory | Node.js/JavaScript | Web Framework | 1.0.8 | 2026-09-11T21:16:45.666Z | [open](records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) |
-| @transcend-io/mcp-server-dsr | Node.js/JavaScript | Web Framework | 2.0.5 | 2026-09-11T21:16:45.563Z | [open](records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) |
 | @transcend-io/mcp-server-docs | Node.js/JavaScript | Documentation | 0.4.10 | 2026-09-11T21:16:45.494Z | [open](records/node-js-javascript-transcend-io-mcp-server-docs-b48cc154.md) |
-| @transcend-io/mcp-server-discovery | Node.js/JavaScript | Web Framework | 1.0.8 | 2026-09-11T21:16:45.361Z | [open](records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) |
 | @feathersjs/adapter-commons | Node.js/JavaScript | Database Datastore | 5.0.50 | 2026-09-11T21:01:36.898Z | [open](records/node-js-javascript-feathersjs-adapter-commons-7a45c587.md) |
 | @stacksjs/database | Node.js/JavaScript | Database Datastore | 0.74.46 | 2026-09-11T20:59:21.662Z | [open](records/node-js-javascript-stacksjs-database-6ccea6c0.md) |
 | @stacksjs/testing | Node.js/JavaScript | Testing Framework | 0.74.46 | 2026-09-11T20:59:01.924Z | [open](records/node-js-javascript-stacksjs-testing-57469937.md) |
@@ -283,19 +285,17 @@ Generated: `2026-09-12T05:20:40+00:00`
 | megaparsec-tests | Haskell | Testing Framework | 9.8.2 | 2026-09-10T19:04:37Z | [open](records/haskell-megaparsec-tests-029f6fff.md) |
 | megaparsec | Haskell | Library | 9.8.2 | 2026-09-10T19:01:45Z | [open](records/haskell-megaparsec-206abe86.md) |
 | @sanity/runtime-cli | Node.js/JavaScript | Interpreter Runtime | 17.12.1 | 2026-09-10T18:52:09.986Z | [open](records/node-js-javascript-sanity-runtime-cli-727107f0.md) |
-| argparse | Node.js/JavaScript | Parser Lexer Ast | 3.0.2 | 2026-09-10T18:44:02.120Z | [open](records/node-js-javascript-argparse-50e588b4.md) |
-| camera_android_camerax | Dart | Library | 0.7.4+8 | 2026-09-10T18:28:08.924418Z | [open](records/dart-camera-android-camerax-5a28610b.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10549 |
+| gh_search_reports_activity_not_release_version | 10550 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
 | packagist_package_metadata_missing | 619 |
-| github_search_does_not_include_release_date | 438 |
+| github_search_does_not_include_release_date | 437 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
@@ -304,7 +304,6 @@ Generated: `2026-09-12T05:20:40+00:00`
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 9 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

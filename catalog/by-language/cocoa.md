@@ -23,7 +23,7 @@ Records: `349`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -59,7 +59,7 @@ Records: `349`
 | [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
 | [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
-| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-11T23:14:59Z | registry-derived |
+| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-12T06:00:06Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
 | [xmartlabs/Eureka](../records/cocoa-xmartlabs-eureka-e10ee14d.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
@@ -222,7 +222,7 @@ Records: `349`
 | [Apple Review Guidelines](../records/cocoa-apple-review-guidelines-d06165e6.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ARVideoKit](../records/cocoa-arvideokit-9a0f973d.md) | 1.6.0 | 2020-03-18T17:57:09Z | registry-derived |
 | [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | partial | 2025-08-26T18:58:06Z | registry-derived |
-| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-12T01:41:24Z | registry-derived |
+| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-12T02:55:59Z | registry-derived |
 | [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | partial | 2025-02-02T12:29:36Z | registry-derived |
 | [Embrace](../records/cocoa-embrace-ced14cf1.md) | unknown | cocoapods_metadata_missing | registry-derived |
 | [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | partial | 2021-07-13T07:49:54Z | registry-derived |

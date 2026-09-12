@@ -23,7 +23,7 @@ Records: `6088`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -4297,13 +4297,13 @@ Records: `6088`
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
-| Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| Z-Data | 2.0.1.0 | 2024-06-28T09:55:36Z | [open](../records/haskell-z-data-ad2a6ebb.md) |
+| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4530,7 +4530,7 @@ Records: `6088`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-12T04:23:50Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-12T05:32:14Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4890,14 +4890,14 @@ Records: `6088`
 | edmozley/freeitsm | partial | 2026-09-11T16:42:04Z | [open](../records/assets-edmozley-freeitsm-6938af39.md) |
 | EliteQuant/EliteQuant | partial | 2024-06-15T16:17:39Z | [open](../records/assets-elitequant-elitequant-ccb04f35.md) |
 | ErfanMo77/gltf-research-scenes | partial | 2026-08-31T21:53:42Z | [open](../records/assets-erfanmo77-gltf-research-scenes-9419053a.md) |
-| expo/google-fonts | partial | 2026-09-10T10:23:12Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
+| expo/google-fonts | partial | 2026-09-10T11:13:00Z | [open](../records/assets-expo-google-fonts-27084e7a.md) |
 | Figma-Linux/figma-linux-font-helper | partial | 2024-03-06T14:28:49Z | [open](../records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) |
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
-| fonttools/fonttools | partial | 2026-09-09T17:49:08Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
+| fonttools/fonttools | partial | 2026-09-11T09:06:34Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
 | frappe/erpnext | partial | 2026-09-11T12:51:31Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
-| googlefonts/gftools | partial | 2026-09-09T13:42:49Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
+| googlefonts/gftools | partial | 2026-09-10T10:36:24Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
 | hypernewbie/VEFontCache | partial | 2026-05-28T07:42:18Z | [open](../records/assets-hypernewbie-vefontcache-ea3c2eca.md) |
 | IdreesInc/Miracode | partial | 2025-08-05T21:13:43Z | [open](../records/assets-idreesinc-miracode-ce50fdc0.md) |
@@ -4923,7 +4923,7 @@ Records: `6088`
 | NextLevel/NextLevelSessionExporter | partial | 2026-08-07T18:44:11Z | [open](../records/assets-nextlevel-nextlevelsessionexporter-78e508f7.md) |
 | NiklasEi/bevy_asset_loader | partial | 2026-07-19T06:46:20Z | [open](../records/assets-niklasei-bevy-asset-loader-a1543a25.md) |
 | noirblancrouge/YoungSerif | partial | 2026-05-19T12:03:20Z | [open](../records/assets-noirblancrouge-youngserif-1744f7ac.md) |
-| nuxt-modules/google-fonts | partial | 2026-09-09T13:04:15Z | [open](../records/assets-nuxt-modules-google-fonts-ff39da19.md) |
+| nuxt-modules/google-fonts | partial | 2026-09-11T19:07:16Z | [open](../records/assets-nuxt-modules-google-fonts-ff39da19.md) |
 | OCSInventory-NG/OCSInventory-ocsreports | partial | 2026-08-25T07:57:08Z | [open](../records/assets-ocsinventory-ng-ocsinventory-ocsreports-d328f3d5.md) |
 | Pakz001/MonkeyXExamples | partial | 2023-02-20T10:24:42Z | [open](../records/assets-pakz001-monkeyxexamples-e31480db.md) |
 | Partyb0ssishere/cef-fonts-cjk | partial | 2026-02-16T12:10:14Z | [open](../records/assets-partyb0ssishere-cef-fonts-cjk-1bdae5fe.md) |
@@ -4932,7 +4932,7 @@ Records: `6088`
 | pgaultier/yii2-webpack | partial | 2018-12-21T16:47:09Z | [open](../records/assets-pgaultier-yii2-webpack-ca18eec8.md) |
 | Purphoenon/Symbinode | partial | 2022-01-06T14:08:57Z | [open](../records/assets-purphoenon-symbinode-51b40e30.md) |
 | QodotPlugin/qodot-plugin | partial | 2023-03-09T18:23:26Z | [open](../records/assets-qodotplugin-qodot-plugin-d6f80581.md) |
-| ranesr/SwiftIcons | partial | 2023-11-05T10:53:17Z | [open](../records/assets-ranesr-swifticons-3b328e34.md) |
+| ranesr/SwiftIcons | partial | 2026-09-11T05:10:22Z | [open](../records/assets-ranesr-swifticons-3b328e34.md) |
 | raymond-w-ko/creep2 | partial | 2021-03-25T15:48:52Z | [open](../records/assets-raymond-w-ko-creep2-d82480c7.md) |
 | robhagemans/hoard-of-bitfonts | partial | 2026-08-16T15:47:28Z | [open](../records/assets-robhagemans-hoard-of-bitfonts-783a8c69.md) |
 | RxLaboratory/Ramses | partial | 2024-10-16T08:21:05Z | [open](../records/assets-rxlaboratory-ramses-1288791f.md) |
@@ -4946,8 +4946,8 @@ Records: `6088`
 | symfony/assetic-bundle | partial | 2022-11-07T16:20:58Z | [open](../records/assets-symfony-assetic-bundle-4dada5ec.md) |
 | system-fonts/modern-font-stacks | partial | 2026-03-10T21:21:49Z | [open](../records/assets-system-fonts-modern-font-stacks-431ff0c6.md) |
 | takushun-wu/WenJinMincho | partial | 2026-08-21T05:37:59Z | [open](../records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
-| TakWolf/ark-pixel-font | partial | 2026-09-08T18:32:08Z | [open](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
-| TakWolf/fusion-pixel-font | partial | 2026-09-08T18:33:09Z | [open](../records/assets-takwolf-fusion-pixel-font-02635494.md) |
+| TakWolf/ark-pixel-font | partial | 2026-09-11T07:35:45Z | [open](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
+| TakWolf/fusion-pixel-font | partial | 2026-09-11T08:39:35Z | [open](../records/assets-takwolf-fusion-pixel-font-02635494.md) |
 | WallSoGB/Patapon3Textures | partial | 2024-03-02T17:49:40Z | [open](../records/assets-wallsogb-patapon3textures-30ad5cad.md) |
 | wanteddev/wanted-sans | partial | 2024-05-27T12:07:41Z | [open](../records/assets-wanteddev-wanted-sans-d20700fb.md) |
 | weiweihuanghuang/Work-Sans | partial | 2024-04-10T14:05:11Z | [open](../records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
@@ -4967,11 +4967,11 @@ Records: `6088`
 | b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
 | benjamintd/benmaps.fr | partial | 2026-09-11T21:12:09Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
-| bilawalsidhu/gods-eye-view | partial | 2026-09-11T16:10:36Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
+| bilawalsidhu/gods-eye-view | partial | 2026-09-12T05:08:02Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-11T19:18:28Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-11T23:28:16Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -5016,7 +5016,7 @@ Records: `6088`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-11T11:01:08Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-11T07:56:40Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-12T01:28:43Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-09T15:59:03Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
@@ -5072,7 +5072,7 @@ Records: `6088`
 | LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-09T08:31:35Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
-| RocketPy-Team/RocketPy | partial | 2026-09-11T02:51:11Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
+| RocketPy-Team/RocketPy | partial | 2026-09-12T04:42:39Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
 | wedesoft/sfsim | partial | 2026-09-11T23:04:31Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
@@ -5964,7 +5964,7 @@ Records: `6088`
 | bytecodealliance/componentize-dotnet | partial | 2026-06-12T23:25:45Z | [open](../records/webassembly-bytecodealliance-componentize-dotnet-bdf25eb5.md) |
 | bytecodealliance/go-modules | partial | 2026-01-28T15:03:32Z | [open](../records/webassembly-bytecodealliance-go-modules-8f0382d7.md) |
 | caspervonb/deno-wasi | partial | 2020-06-27T14:37:29Z | [open](../records/webassembly-caspervonb-deno-wasi-e546734f.md) |
-| cloudflare/workers-rs | partial | 2026-09-08T22:39:35Z | [open](../records/webassembly-cloudflare-workers-rs-938fd17c.md) |
+| cloudflare/workers-rs | partial | 2026-09-12T01:44:03Z | [open](../records/webassembly-cloudflare-workers-rs-938fd17c.md) |
 | duckdb/duckdb-wasm | partial | 2026-07-28T09:43:35Z | [open](../records/webassembly-duckdb-duckdb-wasm-5b0d9934.md) |
 | dy/jz | partial | 2026-08-31T12:37:59Z | [open](../records/webassembly-dy-jz-bd7b5918.md) |
 | eliben/wasm-wat-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-eliben-wasm-wat-samples-fa32d6da.md) |
@@ -5978,7 +5978,7 @@ Records: `6088`
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | lldap/lldap | partial | 2026-08-28T21:38:48Z | [open](../records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-11T21:18:07Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-12T05:01:15Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | nebulet/nebulet | partial | 2023-02-28T21:27:36Z | [open](../records/webassembly-nebulet-nebulet-31ed69e9.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | rust-windowing/winit | partial | 2026-09-07T10:12:40Z | [open](../records/webassembly-rust-windowing-winit-3721948f.md) |

@@ -23,7 +23,7 @@ Records: `649`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · **[Visualization Gui (649)](visualization-gui.md)** · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -795,7 +795,7 @@ Records: `649`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-11T11:06:59Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-11T23:54:30Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | emilk/egui | partial | 2026-09-11T15:54:57Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
 | langhuihui/jessibuca | partial | 2026-09-09T01:52:46Z | [open](../records/webassembly-langhuihui-jessibuca-ca741e72.md) |
 | tinysearch/tinysearch | partial | 2026-08-15T16:16:50Z | [open](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
@@ -856,7 +856,7 @@ Records: `649`
 | SvenTiigi/WhatsNewKit | partial | 2024-10-10T10:54:11Z | [open](../records/swift-sventiigi-whatsnewkit-3dea6c02.md) |
 | SwiftKickMobile/SwiftMessages | partial | 2026-01-26T02:59:00Z | [open](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
 | SwiftWebUI/SwiftWebUI | partial | 2024-03-02T16:11:08Z | [open](../records/swift-swiftwebui-swiftwebui-2d397522.md) |
-| thaw-app/Thaw | partial | 2026-09-09T14:08:24Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
+| thaw-app/Thaw | partial | 2026-09-11T01:32:59Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
 | VakhoKontridze/VComponents | partial | 2026-08-31T10:24:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 | WillieWangWei/SwiftUI-Tutorials | partial | 2020-02-10T03:43:35Z | [open](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
 | yannickl/DynamicColor | partial | 2023-11-30T13:02:01Z | [open](../records/swift-yannickl-dynamiccolor-11df482b.md) |

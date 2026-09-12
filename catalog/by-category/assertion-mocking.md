@@ -23,7 +23,7 @@ Records: `46`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## Julia
@@ -84,7 +84,7 @@ Records: `46`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | HMock | 0.5.2.0 | 2026-09-01T17:21:39Z | [open](../records/haskell-hmock-98549601.md) |
-| mockcat | 1.4.1.1 | 2026-01-17T03:09:06Z | [open](../records/haskell-mockcat-fdb03bd1.md) |
+| mockcat | 1.5.0.0 | 2026-09-12T04:56:46Z | [open](../records/haskell-mockcat-fdb03bd1.md) |
 | servant-mock | 0.8.7 | 2020-07-31T18:08:14Z | [open](../records/haskell-servant-mock-4cfe14bb.md) |
 
 ## C-Sharp

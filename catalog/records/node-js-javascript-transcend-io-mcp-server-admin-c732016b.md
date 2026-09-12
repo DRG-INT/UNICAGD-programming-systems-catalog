@@ -32,7 +32,7 @@ as part of request routing, middleware policy, service structure, and deployment
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.0.8 | 2026-09-11T21:16:45.686Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 1.0.9 | 2026-09-12T06:03:41.217Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ as part of request routing, middleware policy, service structure, and deployment
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-11T22:18:41+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-12T06:23:31+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance
@@ -102,5 +102,5 @@ Evidence records merged into this identity: `1`.
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (647)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1661)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (649)](../by-category/visualization-gui.md) · **[Web Framework (496)](../by-category/web-framework.md)**

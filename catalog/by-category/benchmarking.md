@@ -23,7 +23,7 @@ Records: `209`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -198,7 +198,7 @@ Records: `209`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | d3ward/toolz | partial | 2025-01-18T09:55:32Z | [open](../records/assets-d3ward-toolz-1f9ecb7c.md) |
-| feat-agency/vite-plugin-webfont-dl | partial | 2026-09-03T01:29:53Z | [open](../records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
+| feat-agency/vite-plugin-webfont-dl | partial | 2026-09-10T05:39:18Z | [open](../records/assets-feat-agency-vite-plugin-webfont-dl-c573e2b6.md) |
 
 ## Maps
 
@@ -420,7 +420,7 @@ Records: `209`
 | Mithril-mine/libmdbx | partial | 2026-09-08T13:54:36Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-09T02:09:55Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-09T11:13:27Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
-| questdb/questdb | partial | 2026-09-12T01:19:43Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
+| questdb/questdb | partial | 2026-09-12T05:18:29Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
 | rustfs/rustfs | partial | 2026-09-09T17:25:19Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-11T06:32:40Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |

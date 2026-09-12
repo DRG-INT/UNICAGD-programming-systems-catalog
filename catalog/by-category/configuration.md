@@ -23,7 +23,7 @@ Records: `141`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -198,7 +198,7 @@ Records: `141`
 | adobe-fonts/source-code-pro | partial | 2025-10-28T23:34:52Z | [open](../records/assets-adobe-fonts-source-code-pro-f411f452.md) |
 | adobe-fonts/source-sans | partial | 2025-10-28T14:26:26Z | [open](../records/assets-adobe-fonts-source-sans-0a0aa01d.md) |
 | MoreMcmeta/core | partial | 2025-04-28T04:20:51Z | [open](../records/assets-moremcmeta-core-db263cb0.md) |
-| nuxt/fonts | partial | 2026-09-09T08:34:52Z | [open](../records/assets-nuxt-fonts-4b6c47fa.md) |
+| nuxt/fonts | partial | 2026-09-12T02:54:22Z | [open](../records/assets-nuxt-fonts-4b6c47fa.md) |
 | owl4ce/dotfiles | partial | 2022-09-29T22:43:46Z | [open](../records/assets-owl4ce-dotfiles-7b7a4401.md) |
 | RumenDamyanov/php-assets | partial | 2026-06-25T09:56:44Z | [open](../records/assets-rumendamyanov-php-assets-2b4a9229.md) |
 

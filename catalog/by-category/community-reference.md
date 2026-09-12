@@ -23,7 +23,7 @@ Records: `125`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C23
@@ -189,7 +189,7 @@ Records: `125`
 | brabadu/awesome-fonts | partial | 2026-07-26T05:01:07Z | [open](../records/assets-brabadu-awesome-fonts-b7ce3727.md) |
 | Brian-Jiang/SmartReference | partial | 2025-12-24T08:51:26Z | [open](../records/assets-brian-jiang-smartreference-a178adf2.md) |
 | edcasillas/unity-missing-references-finder | partial | 2026-04-24T17:35:58Z | [open](../records/assets-edcasillas-unity-missing-references-finder-df72b315.md) |
-| itgalaxy/webfont | partial | 2026-09-09T07:38:56Z | [open](../records/assets-itgalaxy-webfont-497adeb1.md) |
+| itgalaxy/webfont | partial | 2026-09-11T01:26:22Z | [open](../records/assets-itgalaxy-webfont-497adeb1.md) |
 | Jolg42/awesome-typography | partial | 2026-05-28T20:27:55Z | [open](../records/assets-jolg42-awesome-typography-4ebaa57a.md) |
 | ryanoasis/nerd-fonts | partial | 2026-09-05T16:32:47Z | [open](../records/assets-ryanoasis-nerd-fonts-0fc4ace5.md) |
 
