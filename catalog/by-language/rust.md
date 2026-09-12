@@ -20,7 +20,7 @@ Records: `2183`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -194,7 +194,7 @@ Records: `2183`
 | [cmake](../records/rust-cmake-cc6b32da.md) | 0.1.58 | 2026-03-26T17:58:29.356302Z | registry-derived |
 | [comfy-table](../records/rust-comfy-table-948f920b.md) | 8.0.0 | 2026-08-05T01:05:28.283438Z | registry-derived |
 | [cranelift-frontend](../records/rust-cranelift-frontend-eba8e294.md) | 0.135.1 | 2026-08-24T19:58:15.313921Z | crates_io |
-| [cxx-build](../records/rust-cxx-build-f0107b0e.md) | 1.0.201 | 2026-09-11T22:05:21.571217Z | registry-derived |
+| [cxx-build](../records/rust-cxx-build-f0107b0e.md) | 1.0.202 | 2026-09-12T02:20:38.865840Z | registry-derived |
 | [cxxbridge-cmd](../records/rust-cxxbridge-cmd-fa91bb8f.md) | 1.0.199 | 2026-08-08T06:53:25.380979Z | crates_io |
 | [derive_builder](../records/rust-derive-builder-dcd0f445.md) | 0.20.2 | 2024-10-08T16:55:17.031148Z | registry-derived |
 | [derive_builder_core](../records/rust-derive-builder-core-c72fff4e.md) | 0.20.2 | 2024-10-08T16:54:04.753323Z | registry-derived |
@@ -307,7 +307,7 @@ Records: `2183`
 | [clang-sys](../records/rust-clang-sys-f1961db1.md) | 1.9.1 | 2026-07-29T12:50:24.115950Z | registry-derived |
 | [cmov](../records/rust-cmov-061e5bcb.md) | 0.5.4 | 2026-05-28T19:07:33.005301Z | registry-derived |
 | [compiler_builtins](../records/rust-compiler-builtins-aa173dbd.md) | 0.1.160 | 2025-05-30T16:00:57.034414Z | crates_io |
-| [cxxbridge-flags](../records/rust-cxxbridge-flags-c95fbc04.md) | 1.0.201 | 2026-09-11T22:05:15.126561Z | registry-derived |
+| [cxxbridge-flags](../records/rust-cxxbridge-flags-c95fbc04.md) | 1.0.202 | 2026-09-12T02:20:33.132839Z | registry-derived |
 | [gcc](../records/rust-gcc-09b58dce.md) | 0.3.55 | 2018-10-08T22:06:05.796359Z | crates_io |
 | [libfuzzer-sys](../records/rust-libfuzzer-sys-61022c5c.md) | 0.4.13 | 2026-06-04T18:55:34.718132Z | registry-derived |
 | [miette](../records/rust-miette-197355ef.md) | 7.6.0 | 2025-04-27T04:53:40.567063Z | registry-derived |
@@ -1141,7 +1141,7 @@ Records: `2183`
 | [array-init](../records/rust-array-init-54773404.md) | 2.1.0 | 2022-12-01T21:37:31.724186Z | crates_io |
 | [atomic](../records/rust-atomic-abcd36f3.md) | 0.6.1 | 2025-06-20T07:00:18.336083Z | registry-derived |
 | [bytesize](../records/rust-bytesize-06ab5161.md) | 2.7.0 | 2026-08-02T03:27:39.038202Z | registry-derived |
-| [cxx](../records/rust-cxx-8005ea19.md) | 1.0.201 | 2026-09-11T22:05:42.819165Z | registry-derived |
+| [cxx](../records/rust-cxx-8005ea19.md) | 1.0.202 | 2026-09-12T02:20:55.503835Z | registry-derived |
 | [dispatch](../records/rust-dispatch-d0b8d78c.md) | 0.2.0 | 2020-01-19T06:24:11.514318Z | crates_io |
 | [endian-type](../records/rust-endian-type-ec32f720.md) | 0.2.0 | 2023-03-06T12:19:53.764548Z | registry-derived |
 | [filedescriptor](../records/rust-filedescriptor-39b88adf.md) | 0.8.3 | 2025-02-11T04:19:27.530332Z | crates_io |
@@ -1842,7 +1842,7 @@ Records: `2183`
 | [cipher](../records/rust-cipher-ecf8d96c.md) | 0.5.2 | 2026-05-19T16:06:33.576545Z | registry-derived |
 | [cloudabi](../records/rust-cloudabi-c16dc4d1.md) | 0.1.0 | 2019-12-22T05:56:40.403850Z | crates_io |
 | [ctor](../records/rust-ctor-cad137c2.md) | 1.0.13 | 2026-08-09T22:01:14.164381Z | registry-derived |
-| [cxxbridge-macro](../records/rust-cxxbridge-macro-af60e779.md) | 1.0.201 | 2026-09-11T22:05:36.626671Z | registry-derived |
+| [cxxbridge-macro](../records/rust-cxxbridge-macro-af60e779.md) | 1.0.202 | 2026-09-12T02:20:50.466085Z | registry-derived |
 | [der_derive](../records/rust-der-derive-071f123a.md) | 0.8.0 | 2026-02-11T21:49:46.979038Z | crates_io |
 | [derive-where](../records/rust-derive-where-55aba336.md) | 1.6.1 | 2026-03-13T16:28:04.755784Z | registry-derived |
 | [derive_arbitrary](../records/rust-derive-arbitrary-f9e26479.md) | 1.4.2 | 2025-08-14T18:20:00.920961Z | registry-derived |

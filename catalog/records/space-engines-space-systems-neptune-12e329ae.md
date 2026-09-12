@@ -32,23 +32,23 @@ language tooling, code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | github_search_does_not_include_release_date |
-| preview/nightly | unknown |  |  | unknown | github_search_does_not_include_nightly_channel |
+| stable | partial |  | 2026-07-01T11:34:08Z | gh search repos topic:astrodynamics stars:>20 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `github_search_does_not_include_release_date`.
-- Preview/nightly metadata is unknown because `github_search_does_not_include_nightly_channel`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ language tooling, code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_repository_search | registry-derived | 2026-09-01 | `{"kind": "github_repository_search", "query": "topic:orbital-mechanics stars:>20", "retrieved": "2026-09-01", "status": "registry-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:astrodynamics stars:>20", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
 
 </details>
 
@@ -76,6 +76,7 @@ Evidence records merged into this identity: `1`.
 
 | Name | Category | Page |
 | --- | --- | --- |
+| ansys/pystk | Parser Lexer Ast | [open](space-engines-ansys-pystk-6676d833.md) |
 | Arrowstar/ksptot | Parser Lexer Ast | [open](space-engines-arrowstar-ksptot-0193b8c4.md) |
 | astrobook/astrobook | Parser Lexer Ast | [open](space-engines-astrobook-astrobook-4e0cfd1d.md) |
 | Astroshaper/AsteroidThermoPhysicalModels.jl | Parser Lexer Ast | [open](space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) |
@@ -83,7 +84,6 @@ Evidence records merged into this identity: `1`.
 | bluescarni/piranha | Parser Lexer Ast | [open](space-engines-bluescarni-piranha-892e8cb6.md) |
 | ChristopherRabotin/smd | Parser Lexer Ast | [open](space-engines-christopherrabotin-smd-2ab7a76e.md) |
 | cisprague/Astro.IQ | Parser Lexer Ast | [open](space-engines-cisprague-astro-iq-88ee2214.md) |
-| CS-SI/Orekit | Parser Lexer Ast | [open](space-engines-cs-si-orekit-fd0e471c.md) |
 
 ## Category Index
 
@@ -99,7 +99,7 @@ Evidence records merged into this identity: `1`.
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · **[Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md)** · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · **[Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md)** · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)

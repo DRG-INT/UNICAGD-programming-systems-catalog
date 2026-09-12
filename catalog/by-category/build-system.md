@@ -20,7 +20,7 @@ Records: `1040`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -93,7 +93,7 @@ Records: `1040`
 | cmake | 0.1.58 | 2026-03-26T17:58:29.356302Z | [open](../records/rust-cmake-cc6b32da.md) |
 | comfy-table | 8.0.0 | 2026-08-05T01:05:28.283438Z | [open](../records/rust-comfy-table-948f920b.md) |
 | cranelift-frontend | 0.135.1 | 2026-08-24T19:58:15.313921Z | [open](../records/rust-cranelift-frontend-eba8e294.md) |
-| cxx-build | 1.0.201 | 2026-09-11T22:05:21.571217Z | [open](../records/rust-cxx-build-f0107b0e.md) |
+| cxx-build | 1.0.202 | 2026-09-12T02:20:38.865840Z | [open](../records/rust-cxx-build-f0107b0e.md) |
 | cxxbridge-cmd | 1.0.199 | 2026-08-08T06:53:25.380979Z | [open](../records/rust-cxxbridge-cmd-fa91bb8f.md) |
 | derive_builder | 0.20.2 | 2024-10-08T16:55:17.031148Z | [open](../records/rust-derive-builder-dcd0f445.md) |
 | derive_builder_core | 0.20.2 | 2024-10-08T16:54:04.753323Z | [open](../records/rust-derive-builder-core-c72fff4e.md) |
@@ -914,7 +914,7 @@ Records: `1040`
 | kratofl/kratomix | partial | 2026-08-18T21:09:01Z | [open](../records/effects-kratofl-kratomix-0945699b.md) |
 | Masudbro94/python-hacked-mobile-phone- | partial | 2022-06-30T09:10:26Z | [open](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) |
 | MintoTsukino/MintoShaderSuite | 1.0 | 2025-10-23T21:18:21Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
-| noisefactorllc/noisemaker | partial | 2026-09-12T00:32:35Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
+| noisefactorllc/noisemaker | partial | 2026-09-12T02:54:38Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
 | overmindstudios/BlenderUpdater | partial | 2026-06-02T17:35:22Z | [open](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) |
 | patrickjquinn/Marathon-Shell | partial | 2026-09-08T09:34:13Z | [open](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) |
 | phkaeser/wlmaker | partial | 2026-09-06T20:00:46Z | [open](../records/effects-phkaeser-wlmaker-bba50595.md) |

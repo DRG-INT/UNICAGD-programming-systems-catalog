@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-12T03:22:14+00:00`
+Generated: `2026-09-12T04:23:44+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -18,7 +18,7 @@ Generated: `2026-09-12T03:22:14+00:00`
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6088)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (340)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (667)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (646)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -60,7 +60,7 @@ Generated: `2026-09-12T03:22:14+00:00`
 | Font Briefcase | 272 | 0 | [Font Briefcase](by-language/font-briefcase.md) |
 | Assets | 419 | 0 | [Assets](by-language/assets.md) |
 | Maps | 608 | 0 | [Maps](by-language/maps.md) |
-| Space Engines | 158 | 0 | [Space Engines](by-language/space-engines.md) |
+| Space Engines | 160 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 656 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 782 | 8 | [Effects](by-language/effects.md) |
@@ -142,7 +142,7 @@ Generated: `2026-09-12T03:22:14+00:00`
 | Networking Http | 1087 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 450 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1239 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Parser Lexer Ast | 1241 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 324 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 98 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 142 | [project_scaffolding](by-category/project-scaffolding.md) |
@@ -197,7 +197,7 @@ Generated: `2026-09-12T03:22:14+00:00`
 | Font Briefcase | 0 | 272 |
 | Assets | 0 | 419 |
 | Maps | 0 | 608 |
-| Space Engines | 0 | 158 |
+| Space Engines | 0 | 160 |
 | Space Shuttles | 0 | 80 |
 | Space Maps | 0 | 656 |
 | Effects | 8 | 774 |

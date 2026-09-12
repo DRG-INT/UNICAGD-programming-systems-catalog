@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T03:22:14+00:00`
+Generated: `2026-09-12T04:23:44+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -18,7 +18,7 @@ Generated: `2026-09-12T03:22:14+00:00`
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1469)](by-category/language-specification.md) · [Library (6088)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (552)](by-category/logging-observability.md) · [Machine Learning (855)](by-category/machine-learning.md)
 [Math Numeric Scientific (97)](by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1087)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1239)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1241)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](by-category/precommit-ci-quality.md)
 [Profiler (98)](by-category/profiler.md) · [Project Scaffolding (142)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
 [Security Sast (340)](by-category/security-sast.md) · [Serialization (406)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (667)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (646)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
@@ -29,22 +29,24 @@ Generated: `2026-09-12T03:22:14+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10821 |
-| Unknown stable release | 18196 |
+| Unknown stable release | 18198 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.9.0 | 2026-09-12T03:55:49.949Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| fuyu-gpio | Haskell | Library | 0.1.1.0 | 2026-09-12T03:17:42Z | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
+| cxx | Rust | Interop Bindings | 1.0.202 | 2026-09-12T02:20:55.503835Z | [open](records/rust-cxx-8005ea19.md) |
+| cxxbridge-macro | Rust | Machine Learning | 1.0.202 | 2026-09-12T02:20:50.466085Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
+| cxx-build | Rust | Build System | 1.0.202 | 2026-09-12T02:20:38.865840Z | [open](records/rust-cxx-build-f0107b0e.md) |
+| cxxbridge-flags | Rust | Compiler | 1.0.202 | 2026-09-12T02:20:33.132839Z | [open](records/rust-cxxbridge-flags-c95fbc04.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.317Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
-| @sazabi/cli | Node.js/JavaScript | Cli | 1.8.0 | 2026-09-12T02:14:03.891Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| tesouror | R | Api Abi Checker | 0.3.1 | 2026-09-12 02:20:02 UTC | [open](records/r-tesouror-0a7b94e7.md) |
 | RIFanalysis | R | Static Analyzer | 0.9.3 | 2026-09-12 00:10:02 UTC | [open](records/r-rifanalysis-8f1ffcb3.md) |
-| cxx | Rust | Interop Bindings | 1.0.201 | 2026-09-11T22:05:42.819165Z | [open](records/rust-cxx-8005ea19.md) |
-| cxxbridge-macro | Rust | Machine Learning | 1.0.201 | 2026-09-11T22:05:36.626671Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
-| cxx-build | Rust | Build System | 1.0.201 | 2026-09-11T22:05:21.571217Z | [open](records/rust-cxx-build-f0107b0e.md) |
-| cxxbridge-flags | Rust | Compiler | 1.0.201 | 2026-09-11T22:05:15.126561Z | [open](records/rust-cxxbridge-flags-c95fbc04.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.1 | 2026-09-11T21:26:25.564Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.12 | 2026-09-11T21:20:59.174Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.0 | 2026-09-11T21:19:55.919Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
@@ -283,19 +285,17 @@ Generated: `2026-09-12T03:22:14+00:00`
 | @sanity/runtime-cli | Node.js/JavaScript | Interpreter Runtime | 17.12.1 | 2026-09-10T18:52:09.986Z | [open](records/node-js-javascript-sanity-runtime-cli-727107f0.md) |
 | argparse | Node.js/JavaScript | Parser Lexer Ast | 3.0.2 | 2026-09-10T18:44:02.120Z | [open](records/node-js-javascript-argparse-50e588b4.md) |
 | camera_android_camerax | Dart | Library | 0.7.4+8 | 2026-09-10T18:28:08.924418Z | [open](records/dart-camera-android-camerax-5a28610b.md) |
-| @tanstack/react-start-rsc | Node.js/JavaScript | Web Framework | 0.1.51 | 2026-09-10T18:18:52.692Z | [open](records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
-| @cubejs-backend/redshift-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.37 | 2026-09-10T18:18:36.792Z | [open](records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10543 |
+| gh_search_reports_activity_not_release_version | 10549 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
 | packagist_package_metadata_missing | 619 |
-| github_search_does_not_include_release_date | 442 |
+| github_search_does_not_include_release_date | 438 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |

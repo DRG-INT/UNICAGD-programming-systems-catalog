@@ -20,7 +20,7 @@ Records: `289`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -503,7 +503,7 @@ Records: `289`
 | babyfish-ct/jimmer | partial | 2026-09-11T16:12:07Z | [open](../records/databases-babyfish-ct-jimmer-9ee1c78e.md) |
 | builderz-labs/mission-control | partial | 2026-09-11T05:02:40Z | [open](../records/databases-builderz-labs-mission-control-fff15440.md) |
 | guang19/framework-learning | partial | 2022-09-08T01:20:10Z | [open](../records/databases-guang19-framework-learning-16651c7a.md) |
-| jdbi/jdbi | partial | 2026-09-11T18:04:11Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
+| jdbi/jdbi | partial | 2026-09-11T21:02:01Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
 | langchain4j/langchain4j | partial | 2026-09-09T10:24:50Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
 | pubkey/rxdb | partial | 2026-09-12T01:59:23Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
@@ -514,7 +514,7 @@ Records: `289`
 | --- | --- | --- | --- |
 | andreyorst/fenneldoc | partial | 2025-11-25T23:04:47.461Z | [open](../records/repository-workplaces-andreyorst-fenneldoc-ae269a8d.md) |
 | cespedes/ltrace | partial | 2026-09-11T09:55:04.386Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
-| cznic/libc | partial | 2026-09-11T20:40:15.337Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
+| cznic/libc | partial | 2026-09-12T04:02:55.823Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
 | freedesktop-sdk/freedesktop-sdk | partial | 2026-09-11T19:28:48.080Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |

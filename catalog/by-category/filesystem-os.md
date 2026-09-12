@@ -20,7 +20,7 @@ Records: `1703`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -1091,7 +1091,7 @@ Records: `1703`
 | getoffmyhack/waveSDR | partial | 2026-08-01T17:26:02Z | [open](../records/effects-getoffmyhack-wavesdr-29b3c175.md) |
 | ghaerr/agg-2.6 | partial | 2023-09-13T00:27:54Z | [open](../records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
-| grizzlypeak3d/DJV | partial | 2026-09-11T21:45:57Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
+| grizzlypeak3d/DJV | partial | 2026-09-12T02:29:07Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-07T14:50:04Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
@@ -1934,7 +1934,7 @@ Records: `1703`
 | gitsocial-org/gitsocial | partial | 2026-08-31T20:14:40Z | [open](../records/databases-gitsocial-org-gitsocial-480c5b72.md) |
 | jklingsporn/vertx-jooq | partial | 2024-01-11T11:28:15Z | [open](../records/databases-jklingsporn-vertx-jooq-46b3e423.md) |
 | Luna Modeler | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-luna-modeler-aaf749d3.md) |
-| micronaut-projects/micronaut-data | partial | 2026-09-09T07:22:41Z | [open](../records/databases-micronaut-projects-micronaut-data-9f93118f.md) |
+| micronaut-projects/micronaut-data | partial | 2026-09-12T03:32:29Z | [open](../records/databases-micronaut-projects-micronaut-data-9f93118f.md) |
 | Noooste/garage-ui | partial | 2026-09-07T01:43:09Z | [open](../records/databases-noooste-garage-ui-453db6ad.md) |
 | pypyodbc/pypyodbc | partial | 2023-12-14T23:14:15Z | [open](../records/databases-pypyodbc-pypyodbc-45213421.md) |
 | qinguoyi/osproxy | partial | 2024-09-27T13:50:01Z | [open](../records/databases-qinguoyi-osproxy-f389e9af.md) |

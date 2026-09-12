@@ -20,7 +20,7 @@ Records: `180`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -80,7 +80,7 @@ Records: `180`
 | clang-sys | 1.9.1 | 2026-07-29T12:50:24.115950Z | [open](../records/rust-clang-sys-f1961db1.md) |
 | cmov | 0.5.4 | 2026-05-28T19:07:33.005301Z | [open](../records/rust-cmov-061e5bcb.md) |
 | compiler_builtins | 0.1.160 | 2025-05-30T16:00:57.034414Z | [open](../records/rust-compiler-builtins-aa173dbd.md) |
-| cxxbridge-flags | 1.0.201 | 2026-09-11T22:05:15.126561Z | [open](../records/rust-cxxbridge-flags-c95fbc04.md) |
+| cxxbridge-flags | 1.0.202 | 2026-09-12T02:20:33.132839Z | [open](../records/rust-cxxbridge-flags-c95fbc04.md) |
 | gcc | 0.3.55 | 2018-10-08T22:06:05.796359Z | [open](../records/rust-gcc-09b58dce.md) |
 | libfuzzer-sys | 0.4.13 | 2026-06-04T18:55:34.718132Z | [open](../records/rust-libfuzzer-sys-61022c5c.md) |
 | miette | 7.6.0 | 2025-04-27T04:53:40.567063Z | [open](../records/rust-miette-197355ef.md) |
@@ -312,7 +312,7 @@ Records: `180`
 | BuildGrid/recc | partial | 2024-11-19T23:12:30.966Z | [open](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | cznic/cc | partial | 2026-09-07T17:10:15.759Z | [open](../records/repository-workplaces-cznic-cc-89e992e6.md) |
 | dfffffff/gcc6809 | partial | 2019-11-29T14:34:33.015Z | [open](../records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
-| freepascal.org/fpc/source | partial | 2026-09-11T19:42:53.088Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
+| freepascal.org/fpc/source | partial | 2026-09-12T02:37:02.421Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | Gitea: 6lin/sbcl | partial | 2022-09-16T23:40:41Z | [open](../records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | Gitea: catdog100/zlcompiler | partial | 2025-01-10T08:36:43Z | [open](../records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | Gitea: EnderIce2/Fennix | partial | 2025-04-14T01:21:22Z | [open](../records/repository-workplaces-gitea-enderice2-fennix-a295c30d.md) |

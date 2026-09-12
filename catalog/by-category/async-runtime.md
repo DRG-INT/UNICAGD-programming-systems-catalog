@@ -20,7 +20,7 @@ Records: `139`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -244,7 +244,7 @@ Records: `139`
 | aio-libs/aioodbc | partial | 2023-10-28T21:35:34Z | [open](../records/databases-aio-libs-aioodbc-8b3e0b93.md) |
 | art049/odmantic | partial | 2026-05-19T21:43:53Z | [open](../records/databases-art049-odmantic-81efbc63.md) |
 | coleifer/peewee | partial | 2026-09-08T20:35:26Z | [open](../records/databases-coleifer-peewee-9932d819.md) |
-| davidmoten/rxjava2-jdbc | partial | 2026-09-07T17:02:32Z | [open](../records/databases-davidmoten-rxjava2-jdbc-7f82410a.md) |
+| davidmoten/rxjava2-jdbc | partial | 2026-09-10T17:10:37Z | [open](../records/databases-davidmoten-rxjava2-jdbc-7f82410a.md) |
 | encode/databases | partial | 2024-05-21T19:58:17Z | [open](../records/databases-encode-databases-f91c5a81.md) |
 | jasync-sql/jasync-sql | partial | 2026-01-15T22:52:28Z | [open](../records/databases-jasync-sql-jasync-sql-155dc14a.md) |
 | Nozbe/WatermelonDB | partial | 2025-08-11T12:09:31Z | [open](../records/databases-nozbe-watermelondb-40dcc1ed.md) |

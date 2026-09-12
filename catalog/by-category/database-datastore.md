@@ -20,7 +20,7 @@ Records: `981`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -1038,7 +1038,7 @@ Records: `981`
 | pixeltable/pixeltable | partial | 2026-09-09T06:09:12Z | [open](../records/databases-pixeltable-pixeltable-ad627e6f.md) |
 | PlanetScale | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-planetscale-d8051113.md) |
 | plausible/analytics | partial | 2026-09-11T14:59:16Z | [open](../records/databases-plausible-analytics-6794b97c.md) |
-| playframework/anorm | partial | 2026-09-07T15:57:48Z | [open](../records/databases-playframework-anorm-feb01c23.md) |
+| playframework/anorm | partial | 2026-09-08T21:10:48Z | [open](../records/databases-playframework-anorm-feb01c23.md) |
 | PoloDB/PoloDB | partial | 2026-09-01T21:40:34Z | [open](../records/databases-polodb-polodb-e3557cfb.md) |
 | ponyorm/pony | partial | 2026-08-10T12:37:32Z | [open](../records/databases-ponyorm-pony-7bd1ee6c.md) |
 | postgres-backup-oss | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-postgres-backup-oss-b11c8618.md) |

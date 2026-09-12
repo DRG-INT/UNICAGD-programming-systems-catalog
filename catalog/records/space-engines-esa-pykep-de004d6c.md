@@ -77,6 +77,7 @@ Evidence records merged into this identity: `1`.
 
 | Name | Category | Page |
 | --- | --- | --- |
+| ansys/pystk | Parser Lexer Ast | [open](space-engines-ansys-pystk-6676d833.md) |
 | Arrowstar/ksptot | Parser Lexer Ast | [open](space-engines-arrowstar-ksptot-0193b8c4.md) |
 | astrobook/astrobook | Parser Lexer Ast | [open](space-engines-astrobook-astrobook-4e0cfd1d.md) |
 | Astroshaper/AsteroidThermoPhysicalModels.jl | Parser Lexer Ast | [open](space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) |
@@ -84,7 +85,6 @@ Evidence records merged into this identity: `1`.
 | bluescarni/piranha | Parser Lexer Ast | [open](space-engines-bluescarni-piranha-892e8cb6.md) |
 | ChristopherRabotin/smd | Parser Lexer Ast | [open](space-engines-christopherrabotin-smd-2ab7a76e.md) |
 | cisprague/Astro.IQ | Parser Lexer Ast | [open](space-engines-cisprague-astro-iq-88ee2214.md) |
-| CS-SI/Orekit | Parser Lexer Ast | [open](space-engines-cs-si-orekit-fd0e471c.md) |
 
 ## Category Index
 
@@ -100,7 +100,7 @@ Evidence records merged into this identity: `1`.
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · **[Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md)** · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · **[Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md)** · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)

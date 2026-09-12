@@ -1,6 +1,6 @@
 # Space Engines
 
-Records: `158`
+Records: `160`
 
 ## Navigation
 
@@ -20,7 +20,7 @@ Records: `158`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -241,22 +241,23 @@ Records: `158`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [ansys/pystk](../records/space-engines-ansys-pystk-6676d833.md) | partial | 2026-09-12T04:00:39Z | registry-derived |
 | [Arrowstar/ksptot](../records/space-engines-arrowstar-ksptot-0193b8c4.md) | partial | 2026-08-31T15:11:17Z | registry-derived |
 | [astrobook/astrobook](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) | partial | 2021-02-19T07:33:04Z | registry-derived |
 | [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-11T07:11:18Z | registry-derived |
-| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-12T01:45:51Z | registry-derived |
+| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-12T04:01:28Z | registry-derived |
 | [bluescarni/piranha](../records/space-engines-bluescarni-piranha-892e8cb6.md) | partial | 2022-07-06T14:41:33Z | registry-derived |
 | [ChristopherRabotin/smd](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) | partial | 2018-01-18T01:07:09Z | registry-derived |
 | [cisprague/Astro.IQ](../records/space-engines-cisprague-astro-iq-88ee2214.md) | partial | 2022-06-26T08:19:19Z | registry-derived |
-| [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | partial | 2026-09-10T16:42:10Z | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-12T00:41:46Z | registry-derived |
-| [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-12T03:59:44Z | registry-derived |
+| [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | partial | 2026-08-07T13:57:29Z | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-11T22:01:45Z | registry-derived |
 | [gberrante/map_3d](../records/space-engines-gberrante-map-3d-291724c2.md) | partial | 2026-09-04T06:50:37Z | registry-derived |
-| [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | partial | 2025-02-19T11:46:24Z | registry-derived |
 | [helgee/Astrodynamics.jl](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) | partial | 2024-02-26T11:44:11Z | registry-derived |
 | [IO-Aerospace-software-engineering/Astrodynamics](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) | partial | 2026-07-31T19:10:48Z | registry-derived |
 | [jacobwilliams/Fortran-Astrodynamics-Toolkit](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) | partial | 2025-10-29T03:43:23Z | registry-derived |
@@ -267,10 +268,11 @@ Records: `158`
 | [poliastro/poliastro](../records/space-engines-poliastro-poliastro-bebf5f35.md) | partial | 2023-10-14T15:30:47Z | registry-derived |
 | [pytroll/pyorbital](../records/space-engines-pytroll-pyorbital-52281451.md) | partial | 2026-09-08T06:01:31Z | registry-derived |
 | [qsantos/spyce](../records/space-engines-qsantos-spyce-57b8510c.md) | partial | 2023-02-21T17:34:08Z | registry-derived |
-| [Space-Systems/neptune](../records/space-engines-space-systems-neptune-12e329ae.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [Space-Systems/neptune](../records/space-engines-space-systems-neptune-12e329ae.md) | partial | 2026-07-01T11:34:08Z | registry-derived |
 | [swtnikita50/CR3BP-MatlabLibrary](../records/space-engines-swtnikita50-cr3bp-matlablibrary-6436b8da.md) | partial | 2023-06-15T05:38:59Z | registry-derived |
 | [tamaskis/planet3D-MATLAB](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) | partial | 2023-05-21T01:19:09Z | registry-derived |
 | [TheWand3rer/Universe](../records/space-engines-thewand3rer-universe-b6822711.md) | partial | 2026-06-03T18:28:06Z | registry-derived |
+| [Thomas-Loudis/georb](../records/space-engines-thomas-loudis-georb-83c767a6.md) | partial | 2026-07-24T12:36:11Z | registry-derived |
 | [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-11T15:09:35Z | registry-derived |
 | [ut-astria/orbdetpy](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) | partial | 2023-07-05T20:53:31Z | registry-derived |
 | [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-11T23:40:59Z | registry-derived |

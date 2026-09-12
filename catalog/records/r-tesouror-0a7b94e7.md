@@ -32,22 +32,22 @@ dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.3.0 | 2026-08-19 15:50:02 UTC | [https://cran.r-project.org/web/packages/tesouror/DESCRIPTION](https://cran.r-project.org/web/packages/tesouror/DESCRIPTION) |  |
+| stable | known | 0.3.1 | 2026-09-12 02:20:02 UTC | [https://cran.r-project.org/web/packages/tesouror/DESCRIPTION](https://cran.r-project.org/web/packages/tesouror/DESCRIPTION) |  |
 | preview/nightly | unknown |  |  | unknown | cran_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
 - Treat category as `api_abi_checker` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/tesouror/DESCRIPTION` at `2026-09-01T14:20:25+00:00`.
+- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/tesouror/DESCRIPTION` at `2026-09-12T04:19:27+00:00`.
 - Preview/nightly metadata is unknown because `cran_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -57,7 +57,7 @@ dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| cran_available_packages_by_date | registry-derived | 2026-09-07 | `{"kind": "cran_available_packages_by_date", "retrieved": "2026-09-07", "status": "registry-derived"}` |
+| cran_available_packages_by_date | registry-derived | 2026-09-12 | `{"kind": "cran_available_packages_by_date", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 
@@ -99,7 +99,7 @@ Evidence records merged into this identity: `1`.
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)

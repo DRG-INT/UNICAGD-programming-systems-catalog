@@ -20,7 +20,7 @@ Records: `236`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -177,7 +177,7 @@ Records: `236`
 | sidrar | 0.5.0 | 2026-08-26 02:20:03 UTC | [open](../records/r-sidrar-e10f28e7.md) |
 | stablelearner | 0.1-9 | 2026-08-28 07:20:02 UTC | [open](../records/r-stablelearner-37956346.md) |
 | StressCensoR | 0.1.0 | 2026-08-05 06:40:23 UTC | [open](../records/r-stresscensor-d72438e2.md) |
-| tesouror | 0.3.0 | 2026-08-19 15:50:02 UTC | [open](../records/r-tesouror-0a7b94e7.md) |
+| tesouror | 0.3.1 | 2026-09-12 02:20:02 UTC | [open](../records/r-tesouror-0a7b94e7.md) |
 | umweltapir | 0.2.2 | 2026-08-24 11:20:02 UTC | [open](../records/r-umweltapir-7baf56ab.md) |
 | valdr | 4.0.0 | 2026-09-02 05:20:02 UTC | [open](../records/r-valdr-721ab055.md) |
 | wbstats | 1.2 | 2026-08-28 09:50:02 UTC | [open](../records/r-wbstats-89f8dcf3.md) |

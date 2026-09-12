@@ -20,7 +20,7 @@ Records: `6088`
 [Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · **[Library (6088)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1239)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
 [Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (646)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
@@ -3515,7 +3515,7 @@ Records: `6088`
 | fused-effects | 1.1.2.7 | 2026-05-05T20:17:55Z | [open](../records/haskell-fused-effects-1cdf0c33.md) |
 | futhark | 0.27.1 | 2026-08-19T12:15:41Z | [open](../records/haskell-futhark-b843b095.md) |
 | futhark-manifest | 1.10.0.0 | 2026-09-08T20:04:17Z | [open](../records/haskell-futhark-manifest-93681739.md) |
-| fuyu-gpio | 0.1.0.0 | 2026-09-06T06:18:19Z | [open](../records/haskell-fuyu-gpio-5e0b1b37.md) |
+| fuyu-gpio | 0.1.1.0 | 2026-09-12T03:17:42Z | [open](../records/haskell-fuyu-gpio-5e0b1b37.md) |
 | fuyu-gpio-direct | 0.2.0.0 | 2026-09-06T06:01:30Z | [open](../records/haskell-fuyu-gpio-direct-75719919.md) |
 | generic-aeson | 0.2.0.14 | 2022-06-17T12:06:41Z | [open](../records/haskell-generic-aeson-ecb2846d.md) |
 | generic-data | 1.1.0.2 | 2024-12-07T07:44:47Z | [open](../records/haskell-generic-data-3eb743c0.md) |
@@ -4530,7 +4530,7 @@ Records: `6088`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-12T03:18:01Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-12T03:26:50Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4544,7 +4544,7 @@ Records: `6088`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-12T02:56:47Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-12T03:39:49Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5209,7 +5209,7 @@ Records: `6088`
 | fand/vfx-js | partial | 2026-09-10T20:58:02Z | [open](../records/effects-fand-vfx-js-267d1f85.md) |
 | fearofcode/bateman | partial | 2014-05-12T03:19:06Z | [open](../records/effects-fearofcode-bateman-03c24113.md) |
 | FlexMonkey/ParticleCam | partial | 2019-02-15T15:49:32Z | [open](../records/effects-flexmonkey-particlecam-751034c0.md) |
-| fuddlesworth/PlasmaZones | partial | 2026-09-11T18:16:10Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
+| fuddlesworth/PlasmaZones | partial | 2026-09-12T04:13:10Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
 | ggarra13/mrv2 | partial | 2026-09-11T22:29:07Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
@@ -6262,7 +6262,7 @@ Records: `6088`
 | PsiACE/databend-internals | partial | 2024-01-26T03:04:19Z | [open](../records/databases-psiace-databend-internals-83bbddb4.md) |
 | scality/Zenko | partial | 2026-09-09T15:30:32Z | [open](../records/databases-scality-zenko-248037a0.md) |
 | scratchdata/scratchdata | partial | 2024-07-19T17:29:04Z | [open](../records/databases-scratchdata-scratchdata-7f09b0b9.md) |
-| snowflakedb/snowflake-jdbc | partial | 2026-09-08T12:16:21Z | [open](../records/databases-snowflakedb-snowflake-jdbc-81de35a1.md) |
+| snowflakedb/snowflake-jdbc | partial | 2026-09-10T12:15:36Z | [open](../records/databases-snowflakedb-snowflake-jdbc-81de35a1.md) |
 | spring-projects/spring-data-relational | partial | 2026-09-10T13:56:35Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |
 | storj/storj | partial | 2026-09-08T18:18:17Z | [open](../records/databases-storj-storj-1c5528ab.md) |
 | swaldman/c3p0 | partial | 2026-09-11T06:54:18Z | [open](../records/databases-swaldman-c3p0-610c0ed4.md) |

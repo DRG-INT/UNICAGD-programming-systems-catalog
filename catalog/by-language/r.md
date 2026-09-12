@@ -20,7 +20,7 @@ Records: `2037`
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1469)](../by-category/language-specification.md) · [Library (6088)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (51)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (552)](../by-category/logging-observability.md) · [Machine Learning (855)](../by-category/machine-learning.md)
 [Math Numeric Scientific (97)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (102)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1087)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1239)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1241)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (324)](../by-category/precommit-ci-quality.md)
 [Profiler (98)](../by-category/profiler.md) · [Project Scaffolding (142)](../by-category/project-scaffolding.md) · [Registry Repository (134)](../by-category/registry-repository.md) · [Sanitizer (16)](../by-category/sanitizer.md)
 [Security Sast (340)](../by-category/security-sast.md) · [Serialization (406)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (667)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (646)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
@@ -88,7 +88,7 @@ Records: `2037`
 | [sidrar](../records/r-sidrar-e10f28e7.md) | 0.5.0 | 2026-08-26 02:20:03 UTC | registry-derived |
 | [stablelearner](../records/r-stablelearner-37956346.md) | 0.1-9 | 2026-08-28 07:20:02 UTC | registry-derived |
 | [StressCensoR](../records/r-stresscensor-d72438e2.md) | 0.1.0 | 2026-08-05 06:40:23 UTC | registry-derived |
-| [tesouror](../records/r-tesouror-0a7b94e7.md) | 0.3.0 | 2026-08-19 15:50:02 UTC | registry-derived |
+| [tesouror](../records/r-tesouror-0a7b94e7.md) | 0.3.1 | 2026-09-12 02:20:02 UTC | registry-derived |
 | [umweltapir](../records/r-umweltapir-7baf56ab.md) | 0.2.2 | 2026-08-24 11:20:02 UTC | registry-derived |
 | [valdr](../records/r-valdr-721ab055.md) | 4.0.0 | 2026-09-02 05:20:02 UTC | registry-derived |
 | [wbstats](../records/r-wbstats-89f8dcf3.md) | 1.2 | 2026-08-28 09:50:02 UTC | registry-derived |
