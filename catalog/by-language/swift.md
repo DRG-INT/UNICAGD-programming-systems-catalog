@@ -17,9 +17,9 @@ Records: `464`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1717)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6116)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6117)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1093)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)
@@ -155,7 +155,7 @@ Records: `464`
 | [CodeEditApp/CodeEdit](../records/swift-codeeditapp-codeedit-88d3a878.md) | partial | 2026-08-18T21:24:35Z | registry-derived |
 | [CosmicMind/Material](../records/swift-cosmicmind-material-cd01b365.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [darrylmorley/whatcable](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) | partial | 2026-09-11T15:12:43Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) | partial | 2026-09-11T14:32:29Z | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) | partial | 2026-09-12T16:24:35Z | registry-derived |
 | [duongductrong/Snapzy](../records/swift-duongductrong-snapzy-056cb4ab.md) | partial | 2026-09-12T05:09:29Z | registry-derived |
 | [eleev/ios-learning-materials](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) | partial | 2026-08-18T18:26:29Z | registry-derived |
 | [example-ios-apps](../records/swift-example-ios-apps-4d4c80bc.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
@@ -348,7 +348,7 @@ Records: `464`
 | [darrylmorley/whatcable](../records/swift-darrylmorley-whatcable-c87c8750.md) | partial | 2026-09-11T15:12:43Z | registry-derived |
 | [DevToys-app/DevToysMac](../records/swift-devtoys-app-devtoysmac-580e5f88.md) | partial | 2024-05-03T04:09:41Z | registry-derived |
 | [dwarvesf/hidden](../records/swift-dwarvesf-hidden-f5516832.md) | partial | 2026-06-15T19:25:30Z | registry-derived |
-| [exelban/stats](../records/swift-exelban-stats-903c8254.md) | partial | 2026-09-12T10:27:10Z | registry-derived |
+| [exelban/stats](../records/swift-exelban-stats-903c8254.md) | partial | 2026-09-12T12:37:47Z | registry-derived |
 | [Finb/Bark](../records/swift-finb-bark-47359efd.md) | partial | 2026-09-04T08:05:44Z | registry-derived |
 | [FlineDev/TranslateKitSDK](../records/swift-flinedev-translatekitsdk-dc82594f.md) | partial | 2026-02-17T13:49:14Z | registry-derived |
 | [gao-sun/eul](../records/swift-gao-sun-eul-2666ac59.md) | partial | 2024-05-25T22:59:12Z | registry-derived |
@@ -361,7 +361,7 @@ Records: `464`
 | [insidegui/VirtualBuddy](../records/swift-insidegui-virtualbuddy-7c4b47c9.md) | partial | 2026-09-01T13:36:40Z | registry-derived |
 | [insidegui/WWDC](../records/swift-insidegui-wwdc-577016c9.md) | partial | 2026-06-17T20:11:54Z | registry-derived |
 | [ipader/SwiftGuide](../records/swift-ipader-swiftguide-9e486914.md) | partial | 2026-08-22T01:31:55Z | registry-derived |
-| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-78b4937e.md) | partial | 2026-09-11T10:45:30Z | registry-derived |
+| [jaywcjlove/awesome-mac](../records/swift-jaywcjlove-awesome-mac-78b4937e.md) | partial | 2026-09-12T16:32:18Z | registry-derived |
 | [JohnCoates/Aerial](../records/swift-johncoates-aerial-d1d85df4.md) | partial | 2026-05-16T13:55:52Z | registry-derived |
 | [jordanbaird/Ice](../records/swift-jordanbaird-ice-cbd56144.md) | partial | 2025-09-20T20:28:17Z | registry-derived |
 | [Juanpe/SkeletonView](../records/swift-juanpe-skeletonview-1a92cf44.md) | partial | 2026-06-23T17:39:57Z | registry-derived |
@@ -370,10 +370,10 @@ Records: `464`
 | [KrishKrosh/TrackWeight](../records/swift-krishkrosh-trackweight-dd829cdd.md) | partial | 2025-07-27T02:34:55Z | registry-derived |
 | [krzyzanowskim/CryptoSwift](../records/swift-krzyzanowskim-cryptoswift-c5d8c7eb.md) | partial | 2026-08-19T14:45:33Z | registry-derived |
 | [Lakr233/vphone-cli](../records/swift-lakr233-vphone-cli-8827d54c.md) | partial | 2026-09-10T08:13:01Z | registry-derived |
-| [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-09-11T16:40:55Z | registry-derived |
+| [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-09-12T14:00:34Z | registry-derived |
 | [lwouis/alt-tab-macos](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) | partial | 2026-09-11T20:13:05Z | registry-derived |
 | [mac-cain13/R.swift](../records/swift-mac-cain13-r-swift-576f6e69.md) | partial | 2025-04-01T13:18:36Z | registry-derived |
-| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-12T11:16:34Z | registry-derived |
+| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-12T15:20:36Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-09-09T04:52:08Z | registry-derived |
 | [maziyarpanahi/openmed](../records/swift-maziyarpanahi-openmed-4666ab59.md) | partial | 2026-09-12T00:47:34Z | registry-derived |
@@ -406,13 +406,13 @@ Records: `464`
 | [ReactiveX/RxSwift](../records/swift-reactivex-rxswift-cb25896d.md) | partial | 2026-09-04T18:37:03Z | registry-derived |
 | [realm/SwiftLint](../records/swift-realm-swiftlint-518b83d8.md) | partial | 2026-09-03T08:54:17Z | registry-derived |
 | [ronitsingh10/FineTune](../records/swift-ronitsingh10-finetune-1c7fcd89.md) | partial | 2026-07-09T07:54:56Z | registry-derived |
-| [rxhanson/Rectangle](../records/swift-rxhanson-rectangle-8818d60b.md) | partial | 2026-09-07T19:17:37Z | registry-derived |
+| [rxhanson/Rectangle](../records/swift-rxhanson-rectangle-8818d60b.md) | partial | 2026-09-12T20:18:37Z | registry-derived |
 | [seemoo-lab/openhaystack](../records/swift-seemoo-lab-openhaystack-1e661f46.md) | partial | 2026-08-17T12:23:59Z | registry-derived |
 | [shadowsocks/ShadowsocksX-NG](../records/swift-shadowsocks-shadowsocksx-ng-03970332.md) | partial | 2024-10-29T12:19:30Z | registry-derived |
 | [signalapp/Signal-iOS](../records/swift-signalapp-signal-ios-0d959372.md) | partial | 2026-09-11T19:10:12Z | registry-derived |
 | [Sjj1024/PakePlus-iOS](../records/swift-sjj1024-pakeplus-ios-409d4afd.md) | partial | 2026-07-12T03:04:16Z | registry-derived |
 | [SnapKit/SnapKit](../records/swift-snapkit-snapkit-4ec7288d.md) | partial | 2026-07-13T10:50:19Z | registry-derived |
-| [steipete/CodexBar](../records/swift-steipete-codexbar-e82c17bf.md) | partial | 2026-09-12T10:29:21Z | registry-derived |
+| [steipete/CodexBar](../records/swift-steipete-codexbar-e82c17bf.md) | partial | 2026-09-12T21:00:35Z | registry-derived |
 | [stephencelis/SQLite.swift](../records/swift-stephencelis-sqlite-swift-38539634.md) | partial | 2026-08-29T10:03:46Z | registry-derived |
 | [sunnyyoung/WeChatTweak](../records/swift-sunnyyoung-wechattweak-3fbdc99c.md) | partial | 2026-02-08T13:28:22Z | registry-derived |
 | [supertone-inc/supertonic](../records/swift-supertone-inc-supertonic-2a29d827.md) | partial | 2026-07-24T04:00:17Z | registry-derived |
@@ -420,13 +420,13 @@ Records: `464`
 | [swift-package-manager](../records/swift-swift-package-manager-f64ded6a.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
 | [SwifterSwift/SwifterSwift](../records/swift-swifterswift-swifterswift-6473bf68.md) | partial | 2026-08-09T05:41:29Z | registry-derived |
 | [SwiftGen/SwiftGen](../records/swift-swiftgen-swiftgen-b6a9b03e.md) | partial | 2026-04-16T08:20:58Z | registry-derived |
-| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | partial | 2026-09-12T11:16:34Z | registry-derived |
+| [swiftlang/swift](../records/swift-swiftlang-swift-af9d2442.md) | partial | 2026-09-12T19:42:11Z | registry-derived |
 | [swiftlang/swift-package-manager](../records/swift-swiftlang-swift-package-manager-a5f8ce45.md) | partial | 2026-09-12T08:48:35Z | registry-derived |
 | [SwiftUIX/SwiftUIX](../records/swift-swiftuix-swiftuix-7730751d.md) | partial | 2026-08-20T13:22:54Z | registry-derived |
 | [SwiftyJSON/SwiftyJSON](../records/swift-swiftyjson-swiftyjson-7752246a.md) | partial | 2026-08-18T07:07:07Z | registry-derived |
 | [TelegramMessenger/Telegram-iOS](../records/swift-telegrammessenger-telegram-ios-919c5962.md) | partial | 2026-07-21T04:34:53Z | registry-derived |
 | [thaw-app/Thaw](../records/swift-thaw-app-thaw-925be275.md) | partial | 2026-09-11T01:32:59Z | registry-derived |
-| [TheBoredTeam/boring.notch](../records/swift-theboredteam-boring-notch-97c99eb2.md) | partial | 2026-09-09T08:09:16Z | registry-derived |
+| [TheBoredTeam/boring.notch](../records/swift-theboredteam-boring-notch-97c99eb2.md) | partial | 2026-09-12T19:24:23Z | registry-derived |
 | [tisfeng/Easydict](../records/swift-tisfeng-easydict-efdf4df7.md) | partial | 2026-09-11T15:26:33Z | registry-derived |
 | [toptal/gitignore.io](../records/swift-toptal-gitignore-io-af3ffa2e.md) | partial | 2024-12-23T15:12:40Z | registry-derived |
 | [tristanhimmelman/ObjectMapper](../records/swift-tristanhimmelman-objectmapper-35c64bc7.md) | partial | 2024-05-02T13:32:48Z | registry-derived |

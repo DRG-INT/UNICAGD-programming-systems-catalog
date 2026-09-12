@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1093`
+Records: `1094`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `1093`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6116)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1093)](networking-http.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1094)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
@@ -772,6 +772,7 @@ Records: `1093`
 | ntp | 2.0.0 | 2021-03-29T13:14:17.095317Z | [open](../records/dart-ntp-a806ad9a.md) |
 | oauth2 | 2.0.5 | 2025-10-20T14:33:39.626919Z | [open](../records/dart-oauth2-d6aceeb7.md) |
 | oauth2_client | 4.3.3 | 2026-08-07T08:56:24.060383Z | [open](../records/dart-oauth2-client-05467e74.md) |
+| ollama_dart | 2.6.1 | 2026-09-02T12:16:56.989003Z | [open](../records/dart-ollama-dart-aabad83d.md) |
 | openai_dart | 8.1.0 | 2026-08-27T15:49:19.235624Z | [open](../records/dart-openai-dart-c91b874d.md) |
 | openid_client | 0.4.10+1 | 2026-04-28T09:33:59.360957Z | [open](../records/dart-openid-client-a8195f4d.md) |
 | pool | 1.5.3 | 2026-08-28T20:42:37.375742Z | [open](../records/dart-pool-a43ca39e.md) |
@@ -1310,7 +1311,7 @@ Records: `1093`
 | aerospike/aerospike-client-rust | partial | 2026-09-10T16:54:35Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-08T16:56:13Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-12T02:06:11Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-12T20:47:31Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |

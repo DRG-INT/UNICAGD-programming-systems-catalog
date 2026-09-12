@@ -1,6 +1,6 @@
 # Library
 
-Records: `6116`
+Records: `6117`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `6116`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6116)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6117)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1093)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
@@ -4127,8 +4127,8 @@ Records: `6116`
 | split | 0.2.5.1 | 2026-08-28T19:55:56Z | [open](../records/haskell-split-849a490e.md) |
 | splitmix | 0.1.3.2 | 2026-01-04T21:10:53Z | [open](../records/haskell-splitmix-c850ca5b.md) |
 | Spock | 0.14.0.0 | 2020-12-09T06:57:55Z | [open](../records/haskell-spock-fded3533.md) |
-| srtree | 3.0.0.3 | 2026-09-02T22:35:31Z | [open](../records/haskell-srtree-02456200.md) |
-| srtree-db | 0.1.2.0 | 2026-09-02T22:43:38Z | [open](../records/haskell-srtree-db-c70023f5.md) |
+| srtree | 3.0.0.4 | 2026-09-12T20:59:41Z | [open](../records/haskell-srtree-02456200.md) |
+| srtree-db | 0.1.3.0 | 2026-09-12T21:08:24Z | [open](../records/haskell-srtree-db-c70023f5.md) |
 | stache | 2.4.0 | 2026-06-17T19:51:45Z | [open](../records/haskell-stache-185debc3.md) |
 | stack | 3.11.1 | 2026-06-13T18:40:02Z | [open](../records/haskell-stack-e51612f3.md) |
 | stackage | 0.7.3.2 | 2015-05-06T22:57:21Z | [open](../records/haskell-stackage-939588ea.md) |
@@ -4488,6 +4488,7 @@ Records: `6116`
 | rate_limiter | 1.1.1 | 2026-08-14T13:08:09.683382Z | [open](../records/dart-rate-limiter-ad013fae.md) |
 | reactive_forms | 18.2.2 | 2025-12-22T19:45:36.677869Z | [open](../records/dart-reactive-forms-f831966a.md) |
 | recase | 4.1.0 | 2022-09-26T18:51:03.275187Z | [open](../records/dart-recase-845d043a.md) |
+| remixicon | 4.9.3 | 2026-04-04T09:52:42.682479Z | [open](../records/dart-remixicon-c27774bc.md) |
 | reorderables | 0.6.0 | 2023-01-25T21:55:18.313299Z | [open](../records/dart-reorderables-5b9096b0.md) |
 | replay_bloc | 0.3.0 | 2025-01-12T21:50:27.559100Z | [open](../records/dart-replay-bloc-86e061a0.md) |
 | responsive_sizer | 3.3.1 | 2024-03-24T08:17:07.092780Z | [open](../records/dart-responsive-sizer-622dec2f.md) |
@@ -6006,7 +6007,7 @@ Records: `6116`
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | lldap/lldap | partial | 2026-08-28T21:38:48Z | [open](../records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-12T16:41:10Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-12T20:44:03Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | nebulet/nebulet | partial | 2023-02-28T21:27:36Z | [open](../records/webassembly-nebulet-nebulet-31ed69e9.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | rust-windowing/winit | partial | 2026-09-12T08:26:23Z | [open](../records/webassembly-rust-windowing-winit-3721948f.md) |

@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/srtree](https://hackage.haskell.org/package/srtree) |
-| Source record ids | hackage_top_downloads-f7f704a3f1d51b |
+| Source record ids | hackage_recent-f7f704a3f1d51b |
 
 ## System Engineer Summary
 
-Hackage package with 60 recent downloads in the Hackage top-downloads listing.
+Hackage package recently uploaded by olivetti.
 
 ## Operational Role
 
@@ -32,23 +32,23 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.0.0.3 | 2026-09-02T22:35:31Z | [https://hackage.haskell.org/package/srtree](https://hackage.haskell.org/package/srtree) |  |
-| candidate | partial | 0.1.0.0 |  | [https://hackage.haskell.org/package/srtree](https://hackage.haskell.org/package/srtree) | hackage_candidate_date_missing |
+| stable | known | 3.0.0.4 | 2026-09-12T20:59:41Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/srtree` at `2026-09-03T20:22:46+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-12T21:19:14+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-03 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| hackage_recent_uploads | registry-derived | 2026-09-12 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-12", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_top_downloads-f7f704a3f1d51b` from `hackage_top_downloads` as `registry_expansion`
+- `hackage_recent-f7f704a3f1d51b` from `hackage_recent` as `registry_expansion`
 
 </details>
 
@@ -96,9 +96,9 @@ Evidence records merged into this identity: `1`.
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1717)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (289)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · **[Library (6116)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · **[Library (6117)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1093)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1242)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (678)](../by-category/static-analyzer.md)

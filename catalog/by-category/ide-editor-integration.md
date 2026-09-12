@@ -17,9 +17,9 @@ Records: `1515`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6116)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6117)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1093)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
@@ -694,11 +694,11 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-12T19:02:05Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-12T21:11:50Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T10:05:00Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-12T18:10:30Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-12T20:07:28Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-12T21:08:12Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-12T21:08:25Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1493,7 +1493,7 @@ Records: `1515`
 | AlbertLucianto/vuex-search | partial | 2022-12-09T23:26:52Z | [open](../records/catalogs-albertlucianto-vuex-search-73599187.md) |
 | austinsonger/Incident-Playbook | partial | 2024-07-28T04:19:40Z | [open](../records/catalogs-austinsonger-incident-playbook-b40b651a.md) |
 | ckenst/testing-guides | partial | 2023-11-13T21:24:45Z | [open](../records/catalogs-ckenst-testing-guides-bf06a16f.md) |
-| clidey/whodb | partial | 2026-09-11T03:31:44Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
+| clidey/whodb | partial | 2026-09-12T03:30:58Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
 | Esri/geoportal-server-catalog | partial | 2026-09-11T10:21:21Z | [open](../records/catalogs-esri-geoportal-server-catalog-528de935.md) |
 | fnplus/community-project-ideas | partial | 2025-02-21T18:58:09Z | [open](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) |
 | geonetwork/core-geonetwork | partial | 2026-09-11T07:20:28Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
@@ -1529,7 +1529,7 @@ Records: `1515`
 | mmarquezs/libgen-python-api | partial | 2022-05-18T15:15:49Z | [open](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
 | Notifuse/notifuse | partial | 2026-09-08T15:29:46Z | [open](../records/magazines-notifuse-notifuse-f68915ee.md) |
 | pajoma/vscode-journal | partial | 2026-08-20T20:30:19Z | [open](../records/magazines-pajoma-vscode-journal-fd5206d8.md) |
-| TryGhost/Editorial | partial | 2026-09-11T19:07:52Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
+| TryGhost/Editorial | partial | 2026-09-12T00:03:13Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
 | uzih05/journal | partial | 2026-02-09T09:03:55Z | [open](../records/magazines-uzih05-journal-00e04855.md) |
 | yanliudesign/mono-color-skill | partial | 2026-09-02T18:49:42Z | [open](../records/magazines-yanliudesign-mono-color-skill-382cd12d.md) |
 

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-12T20:22:27+00:00`
+Generated: `2026-09-12T21:21:34+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,9 +15,9 @@ Generated: `2026-09-12T20:22:27+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1717)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6116)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6117)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1093)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
@@ -28,13 +28,15 @@ Generated: `2026-09-12T20:22:27+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10889 |
+| Known stable release | 10891 |
 | Unknown stable release | 18250 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| srtree-db | Haskell | Library | 0.1.3.0 | 2026-09-12T21:08:24Z | [open](records/haskell-srtree-db-c70023f5.md) |
+| srtree | Haskell | Library | 3.0.0.4 | 2026-09-12T20:59:41Z | [open](records/haskell-srtree-02456200.md) |
 | ftp-client | Haskell | Networking Http | 0.6.0.0 | 2026-09-12T19:31:31Z | [open](records/haskell-ftp-client-ffc70b48.md) |
 | tzdata | Node.js/JavaScript | Serialization | 1.0.51 | 2026-09-12T19:30:38.995Z | [open](records/node-js-javascript-tzdata-361160de.md) |
 | crc32fast | Rust | Parser Lexer Ast | 1.5.2 | 2026-09-12T18:41:46.923561Z | [open](records/rust-crc32fast-9238ccb6.md) |
@@ -227,6 +229,7 @@ Generated: `2026-09-12T20:22:27+00:00`
 | @apify/actors-mcp-server | Node.js/JavaScript | Web Framework | 0.15.7 | 2026-09-11T11:39:01.733Z | [open](records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @expo/cli | Node.js/JavaScript | Cli | 57.0.24 | 2026-09-11T11:32:24.741Z | [open](records/node-js-javascript-expo-cli-22f34048.md) |
 | expo-sqlite | Node.js/JavaScript | Ide Editor Integration | 57.0.3 | 2026-09-11T11:31:22.884Z | [open](records/node-js-javascript-expo-sqlite-49d6a6b7.md) |
+| live_activities | Dart | Filesystem Os | 2.6.0 | 2026-09-11T11:25:26.920426Z | [open](records/dart-live-activities-40c95df6.md) |
 | bump-cli | Node.js/JavaScript | Documentation | 2.11.0 | 2026-09-11T10:55:52.549Z | [open](records/node-js-javascript-bump-cli-cdf340ec.md) |
 | @upstash/context7-mcp | Node.js/JavaScript | Web Framework | 4.1.0 | 2026-09-11T10:51:11.002Z | [open](records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @alwaysmeticulous/cli | Node.js/JavaScript | Cli | 2.340.0 | 2026-09-11T10:42:33.491Z | [open](records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
@@ -282,9 +285,6 @@ Generated: `2026-09-12T20:22:27+00:00`
 | DUToolkit | R | Machine Learning | 1.0.3 | 2026-09-11 17:00:07 UTC | [open](records/r-dutoolkit-0e23e903.md) |
 | tmbstan | R | Library | 1.2.1 | 2026-09-11 17:00:02 UTC | [open](records/r-tmbstan-3914d1b5.md) |
 | mx.client | R | Networking Http | 0.2.1 | 2026-09-11 16:50:02 UTC | [open](records/r-mx-client-9357f9db.md) |
-| fable.bayesRecon | R | Precommit Ci Quality | 0.2.1 | 2026-09-11 16:40:02 UTC | [open](records/r-fable-bayesrecon-5e5c557b.md) |
-| siniaR | R | Configuration | 0.1.0 | 2026-09-11 16:00:02 UTC | [open](records/r-siniar-6d19bc31.md) |
-| glasstabs | R | Library | 0.4.0 | 2026-09-11 15:50:13 UTC | [open](records/r-glasstabs-a4b08658.md) |
 
 ## Unknown Reasons
 

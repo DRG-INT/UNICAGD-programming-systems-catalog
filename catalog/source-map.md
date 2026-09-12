@@ -13,9 +13,9 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1717)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6116)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6117)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1093)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (678)](by-category/static-analyzer.md)
@@ -18312,6 +18312,7 @@
 | `hackage_recent-f5159faf3a88ac` | hpgsql | [open](records/haskell-hpgsql-9568bc40.md) |
 | `hackage_recent-f6957e818cba3b` | hdf5 | [open](records/haskell-hdf5-eab0aa96.md) |
 | `hackage_recent-f796cad6d7eed3` | shikumi-compile | [open](records/haskell-shikumi-compile-3acac682.md) |
+| `hackage_recent-f7f704a3f1d51b` | srtree | [open](records/haskell-srtree-02456200.md) |
 | `hackage_recent-f8bae12dc2caa9` | holeyexp | [open](records/haskell-holeyexp-db5dc519.md) |
 | `hackage_recent-fc3b339575ae76` | fuyu-gpio | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | `hackage_recent-fcb8a1c8163b1b` | baikai-claude | [open](records/haskell-baikai-claude-dd79deaa.md) |
@@ -19817,7 +19818,6 @@
 | `hackage_top_downloads-f6e02739e68cca` | influxdb | [open](records/haskell-influxdb-0b88f69b.md) |
 | `hackage_top_downloads-f77fa146c64b21` | typst | [open](records/haskell-typst-37aa0970.md) |
 | `hackage_top_downloads-f7825cb3c1ebaa` | riak | [open](records/haskell-riak-4c3d5408.md) |
-| `hackage_top_downloads-f7f704a3f1d51b` | srtree | [open](records/haskell-srtree-02456200.md) |
 | `hackage_top_downloads-f87391a56d6f65` | quickcheck-classes | [open](records/haskell-quickcheck-classes-2c637dd9.md) |
 | `hackage_top_downloads-f894aeea371f2e` | backprop | [open](records/haskell-backprop-adf0f71d.md) |
 | `hackage_top_downloads-f89f5c16acc02c` | threads | [open](records/haskell-threads-710c21e7.md) |
@@ -28285,6 +28285,7 @@
 | `pub_dev-7b220f478eb2ca` | cupertino_ui | [open](records/dart-cupertino-ui-67a4e2e1.md) |
 | `pub_dev-7b2c55898638b2` | hotreloader | [open](records/dart-hotreloader-3a9c783b.md) |
 | `pub_dev-7c0a4e2b097aae` | pdfx | [open](records/dart-pdfx-c59b7b9f.md) |
+| `pub_dev-7c12cc66b7020d` | ollama_dart | [open](records/dart-ollama-dart-aabad83d.md) |
 | `pub_dev-7c2a0669fff111` | neat_periodic_task | [open](records/dart-neat-periodic-task-de71793c.md) |
 | `pub_dev-7caea53b9ca94a` | widgets_to_image | [open](records/dart-widgets-to-image-4a008614.md) |
 | `pub_dev-7cf4f0d0f01c83` | app_links | [open](records/dart-app-links-97fd4e93.md) |
@@ -28592,6 +28593,7 @@
 | `pub_dev-def049acf44581` | appcheck | [open](records/dart-appcheck-5f4039b6.md) |
 | `pub_dev-df45d1afe553e4` | dart_style | [open](records/dart-dart-style-096ccda0.md) |
 | `pub_dev-df5c81eeb56de2` | code_builder | [open](records/dart-code-builder-303d50aa.md) |
+| `pub_dev-df650eb6f86da4` | remixicon | [open](records/dart-remixicon-c27774bc.md) |
 | `pub_dev-dff40003c051f6` | flex_color_picker | [open](records/dart-flex-color-picker-044375d9.md) |
 | `pub_dev-e0aff45c9a2979` | cookie_jar | [open](records/dart-cookie-jar-15d415a7.md) |
 | `pub_dev-e0f97b8f3e8808` | time | [open](records/dart-time-5710b74e.md) |
