@@ -1,6 +1,6 @@
 # Library
 
-Records: `6107`
+Records: `6116`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `6107`
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6107)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1091)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · **[Library (6116)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1092)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (675)](static-analyzer.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (677)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1664)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -2460,6 +2460,7 @@ Records: `6107`
 | a5R | 0.6.0 | 2026-09-08 11:50:15 UTC | [open](../records/r-a5r-97cfae72.md) |
 | accelEE | 0.3.2 | 2026-08-28 21:40:08 UTC | [open](../records/r-accelee-c7401b49.md) |
 | AccSamplingDesign | 0.0.9 | 2026-08-25 07:00:18 UTC | [open](../records/r-accsamplingdesign-e8a59d5b.md) |
+| actigraph.sleepr | 0.4.0 | 2026-09-12 14:50:08 UTC | [open](../records/r-actigraph-sleepr-a093e40d.md) |
 | actinet | 0.4.0 | 2026-08-22 15:50:23 UTC | [open](../records/r-actinet-6620c786.md) |
 | actiquantiles | 0.1.0 | 2026-09-01 08:40:15 UTC | [open](../records/r-actiquantiles-1d77cb9e.md) |
 | actiread | 0.5.0 | 2026-08-21 20:40:02 UTC | [open](../records/r-actiread-2ef203db.md) |
@@ -2495,6 +2496,7 @@ Records: `6107`
 | awkreader | 0.1.0 | 2026-09-03 12:20:11 UTC | [open](../records/r-awkreader-6270b8ff.md) |
 | awsMethods | 1.1-2 | 2026-08-28 07:10:03 UTC | [open](../records/r-awsmethods-3b4989f2.md) |
 | bacenR | 0.5.0 | 2026-09-11 19:10:02 UTC | [open](../records/r-bacenr-190cf654.md) |
+| badcontrols | 1.0.1 | 2026-09-12 14:40:30 UTC | [open](../records/r-badcontrols-b9cb1b89.md) |
 | badp | 0.6.1 | 2026-08-31 22:00:32 UTC | [open](../records/r-badp-d37d1be2.md) |
 | bamp | 3.0.0 | 2026-08-31 17:20:02 UTC | [open](../records/r-bamp-1a550f65.md) |
 | bases | 0.2.1 | 2026-08-04 23:10:02 UTC | [open](../records/r-bases-c37d082c.md) |
@@ -2555,6 +2557,7 @@ Records: `6107`
 | carbondata | 0.2.0 | 2026-09-09 10:40:26 UTC | [open](../records/r-carbondata-924852a5.md) |
 | cardinalfda | 0.3.0 | 2026-09-04 16:30:08 UTC | [open](../records/r-cardinalfda-cb361987.md) |
 | CarletonStats | 2.3 | 2026-08-28 17:00:16 UTC | [open](../records/r-carletonstats-3f2e16bd.md) |
+| cauchyreg | 1.0 | 2026-09-12 15:00:07 UTC | [open](../records/r-cauchyreg-a03642f2.md) |
 | caugi | 1.3.0 | 2026-09-09 19:50:08 UTC | [open](../records/r-caugi-a72e939f.md) |
 | causalDT | 1.0.1 | 2026-08-28 20:00:08 UTC | [open](../records/r-causaldt-660c05bf.md) |
 | causalsim | 0.1.0 | 2026-08-30 10:00:15 UTC | [open](../records/r-causalsim-1a014805.md) |
@@ -2566,6 +2569,7 @@ Records: `6107`
 | cfbseedR | 0.2.0 | 2026-09-09 14:50:11 UTC | [open](../records/r-cfbseedr-f65faa29.md) |
 | checkhelper | 1.0.1 | 2026-08-19 19:10:02 UTC | [open](../records/r-checkhelper-8b7440a8.md) |
 | chessResults | 2026.08.27 | 2026-08-28 07:01:26 UTC | [open](../records/r-chessresults-944d7b5e.md) |
+| chestR | 0.1.0 | 2026-09-12 15:10:02 UTC | [open](../records/r-chestr-facb8080.md) |
 | childfree | 0.0.6 | 2026-08-21 05:44:45 UTC | [open](../records/r-childfree-6749c0c1.md) |
 | chilemapas | 0.4.1 | 2026-09-08 13:30:23 UTC | [open](../records/r-chilemapas-68a52b78.md) |
 | chk | 0.11.0 | 2026-09-03 05:20:50 UTC | [open](../records/r-chk-bbe2f7a6.md) |
@@ -2816,6 +2820,7 @@ Records: `6107`
 | mapsf | 1.2.2 | 2026-09-02 12:40:02 UTC | [open](../records/r-mapsf-bf1548c0.md) |
 | maq | 0.6.1 | 2026-08-04 13:10:17 UTC | [open](../records/r-maq-b64e2c22.md) |
 | marp | 0.1.1 | 2026-08-21 08:10:08 UTC | [open](../records/r-marp-443a786e.md) |
+| MatchAlign | 0.1.2 | 2026-09-12 15:00:12 UTC | [open](../records/r-matchalign-b1f0648e.md) |
 | matSPACE | 0.1.0 | 2026-09-12 13:40:09 UTC | [open](../records/r-matspace-a07a9512.md) |
 | mcauchyd | 1.3.6 | 2026-08-25 10:30:02 UTC | [open](../records/r-mcauchyd-cc0a78ba.md) |
 | mcmcr | 0.7.0 | 2026-08-30 10:30:02 UTC | [open](../records/r-mcmcr-cc22b27e.md) |
@@ -2956,6 +2961,7 @@ Records: `6107`
 | RcppCGAL | 6.2.1 | 2026-09-05 05:10:13 UTC | [open](../records/r-rcppcgal-fbf935e3.md) |
 | RcppClassicExamples | 0.1.5 | 2026-09-02 17:20:07 UTC | [open](../records/r-rcppclassicexamples-6ab58c03.md) |
 | RcppExamples | 0.1.11 | 2026-09-03 14:40:08 UTC | [open](../records/r-rcppexamples-636ba5fe.md) |
+| rdatagouv | 0.1.0 | 2026-09-12 14:20:02 UTC | [open](../records/r-rdatagouv-066663bc.md) |
 | rdborrow | 0.0.4.0 | 2026-08-31 14:00:10 UTC | [open](../records/r-rdborrow-95d341d6.md) |
 | Rdrw | 1.0.4 | 2026-08-20 10:32:10 UTC | [open](../records/r-rdrw-1a52ca94.md) |
 | readecb | 0.1.4 | 2026-09-09 10:40:07 UTC | [open](../records/r-readecb-4c1441cf.md) |
@@ -2972,6 +2978,7 @@ Records: `6107`
 | RegEnRF | 2.0.1 | 2026-08-24 09:20:09 UTC | [open](../records/r-regenrf-e25964e9.md) |
 | RegressionFactory | 0.7.5 | 2026-09-02 12:30:08 UTC | [open](../records/r-regressionfactory-8a939d6d.md) |
 | repo | 2.1.7 | 2026-08-04 23:00:21 UTC | [open](../records/r-repo-1b48584f.md) |
+| reporter | 1.4.9 | 2026-09-12 14:40:14 UTC | [open](../records/r-reporter-620eafde.md) |
 | reticulate | 1.47.0 | 2026-09-03 05:20:02 UTC | [open](../records/r-reticulate-0463c1c5.md) |
 | rewind | 0.2.0 | 2026-08-21 13:50:08 UTC | [open](../records/r-rewind-56515e87.md) |
 | rextor | 1.2.0 | 2026-09-10 15:30:10 UTC | [open](../records/r-rextor-61ef659c.md) |
@@ -3057,6 +3064,7 @@ Records: `6107`
 | spatialrisk | 0.8.2 | 2026-09-01 12:40:02 UTC | [open](../records/r-spatialrisk-4fdef109.md) |
 | SpatMix | 0.1.0 | 2026-09-09 15:30:19 UTC | [open](../records/r-spatmix-9db2775c.md) |
 | spCF | 0.2.1 | 2026-08-28 17:40:02 UTC | [open](../records/r-spcf-0ee968e4.md) |
+| spconform | 0.1.0 | 2026-09-12 14:40:02 UTC | [open](../records/r-spconform-813e62ed.md) |
 | spEDM | 1.13 | 2026-09-09 16:20:02 UTC | [open](../records/r-spedm-f8fb736e.md) |
 | sphereclust | 1.1 | 2026-09-02 18:10:03 UTC | [open](../records/r-sphereclust-e2d8f607.md) |
 | spmodel | 0.14.0 | 2026-09-10 18:40:02 UTC | [open](../records/r-spmodel-a596fec2.md) |
@@ -3121,6 +3129,7 @@ Records: `6107`
 | unsum | 0.3.0 | 2026-09-04 18:30:02 UTC | [open](../records/r-unsum-02674b5f.md) |
 | unsurv | 0.7.0 | 2026-08-31 22:30:02 UTC | [open](../records/r-unsurv-c1bc0b63.md) |
 | usethis | 3.2.2 | 2026-09-10 22:30:02 UTC | [open](../records/r-usethis-931bf9e5.md) |
+| USPopulationSampler | 0.1.1 | 2026-09-12 14:20:16 UTC | [open](../records/r-uspopulationsampler-dd1ba109.md) |
 | uwot | 0.2.5 | 2026-08-29 13:10:02 UTC | [open](../records/r-uwot-3c319a43.md) |
 | ValidationExplorer | 0.1.2 | 2026-08-25 21:10:26 UTC | [open](../records/r-validationexplorer-11bcad59.md) |
 | varPro | 3.2.0 | 2026-08-22 23:20:08 UTC | [open](../records/r-varpro-f5add07c.md) |
@@ -5200,7 +5209,7 @@ Records: `6107`
 | aTool-org/canvas-nest-for-wp | partial | 2019-08-14T12:12:34Z | [open](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) |
 | BoyBaykiller/Newtonian-Particle-Simulator | partial | 2024-12-20T03:42:26Z | [open](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) |
 | CGRU/cgru | partial | 2026-09-09T11:22:34Z | [open](../records/effects-cgru-cgru-8bbfaaf5.md) |
-| cgwire/kitsu | partial | 2026-09-11T09:46:53Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
+| cgwire/kitsu | partial | 2026-09-12T15:44:49Z | [open](../records/effects-cgwire-kitsu-2e008acc.md) |
 | csdjk/LearnUnityShader | partial | 2025-06-10T02:51:21Z | [open](../records/effects-csdjk-learnunityshader-524b804a.md) |
 | curly-brace/godot_force_shield_shader | partial | 2017-09-23T07:17:03Z | [open](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) |
 | Cyanilux/URP_WatercolourShaders | partial | 2020-10-28T10:41:44Z | [open](../records/effects-cyanilux-urp-watercolourshaders-9a735971.md) |
@@ -5224,7 +5233,7 @@ Records: `6107`
 | fuddlesworth/PlasmaZones | partial | 2026-09-12T04:13:10Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-11T22:29:07Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-12T14:54:25Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-11T13:43:06Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
