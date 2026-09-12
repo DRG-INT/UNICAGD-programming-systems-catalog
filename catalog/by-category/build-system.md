@@ -9,21 +9,21 @@ Records: `1041`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · **[Build System (1041)](build-system.md)** · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · **[Build System (1041)](build-system.md)** · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (669)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6106)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (863)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -643,7 +643,7 @@ Records: `1041`
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
-| bazel-contrib/rules_dotnet | partial | 2026-09-12T13:08:42Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
+| bazel-contrib/rules_dotnet | partial | 2026-09-12T13:27:48Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T07:00:28Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
@@ -653,7 +653,7 @@ Records: `1041`
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-10T16:38:19Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
-| bazelbuild/rules_swift | partial | 2026-09-12T13:12:11Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
+| bazelbuild/rules_swift | partial | 2026-09-12T13:23:56Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-10T16:58:44Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -693,7 +693,7 @@ Records: `1041`
 | langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T11:14:36Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-12T13:09:33Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-12T14:06:23Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-12T09:46:23Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-12T08:17:05Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -913,7 +913,7 @@ Records: `1041`
 | korginc/logue-sdk | partial | 2026-09-01T22:59:28Z | [open](../records/effects-korginc-logue-sdk-8127b979.md) |
 | kratofl/kratomix | partial | 2026-08-18T21:09:01Z | [open](../records/effects-kratofl-kratomix-0945699b.md) |
 | Masudbro94/python-hacked-mobile-phone- | partial | 2022-06-30T09:10:26Z | [open](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) |
-| MintoTsukino/MintoShaderSuite | 1.0 | 2025-10-23T21:18:21Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
+| MintoTsukino/MintoShaderSuite | partial | 2025-10-23T21:20:26Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
 | noisefactorllc/noisemaker | partial | 2026-09-12T02:54:38Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
 | overmindstudios/BlenderUpdater | partial | 2026-06-02T17:35:22Z | [open](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) |
 | patrickjquinn/Marathon-Shell | partial | 2026-09-08T09:34:13Z | [open](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) |
@@ -969,14 +969,14 @@ Records: `1041`
 | hclivess/videer | partial | 2026-09-08T09:04:10Z | [open](../records/video-hclivess-videer-728d8699.md) |
 | kewlbear/FFmpeg-iOS-build-script | partial | 2024-06-18T06:18:06Z | [open](../records/video-kewlbear-ffmpeg-ios-build-script-7aee7f99.md) |
 | langhuihui/monibuca | partial | 2026-09-04T09:20:13Z | [open](../records/video-langhuihui-monibuca-da4238a2.md) |
-| livekit/agents | partial | 2026-09-12T00:21:28Z | [open](../records/video-livekit-agents-1122d840.md) |
-| nova-video-player/aos-AVP | partial | 2026-09-09T21:09:50Z | [open](../records/video-nova-video-player-aos-avp-927babe3.md) |
+| livekit/agents | partial | 2026-09-12T06:35:22Z | [open](../records/video-livekit-agents-1122d840.md) |
+| nova-video-player/aos-AVP | partial | 2026-09-12T10:36:44Z | [open](../records/video-nova-video-player-aos-avp-927babe3.md) |
 | OlafenwaMoses/ImageAI | partial | 2024-08-03T09:45:20Z | [open](../records/video-olafenwamoses-imageai-614f65e4.md) |
 | opencodewin/MediaEditor | partial | 2024-12-04T10:46:14Z | [open](../records/video-opencodewin-mediaeditor-d98a3d1a.md) |
 | pion/turn | partial | 2026-09-08T18:42:39Z | [open](../records/video-pion-turn-e6218c3c.md) |
 | pipeless-ai/pipeless | partial | 2024-05-08T10:13:19Z | [open](../records/video-pipeless-ai-pipeless-5f6c8d4f.md) |
 | pmh1314520/WebRPA | partial | 2026-09-01T10:44:42Z | [open](../records/video-pmh1314520-webrpa-25abd5b1.md) |
-| remotion-dev/remotion | partial | 2026-09-11T17:21:11Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
+| remotion-dev/remotion | partial | 2026-09-12T13:28:57Z | [open](../records/video-remotion-dev-remotion-ab42498d.md) |
 | TheNickOfTime/handbrake-web | partial | 2026-03-27T02:31:22Z | [open](../records/video-thenickoftime-handbrake-web-5a475b6c.md) |
 | VideoFlint/Cabbage | partial | 2023-11-08T00:02:29Z | [open](../records/video-videoflint-cabbage-bf78fd50.md) |
 

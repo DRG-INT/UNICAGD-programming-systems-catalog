@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `858`
+Records: `863`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `858`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (669)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · **[Machine Learning (858)](machine-learning.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6106)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · **[Machine Learning (863)](machine-learning.md)**
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -305,6 +305,7 @@ Records: `858`
 | familiar | 2.0.3 | 2026-08-21 21:00:39 UTC | [open](../records/r-familiar-72afe78a.md) |
 | FITclust | 1.0.0 | 2026-08-21 13:40:48 UTC | [open](../records/r-fitclust-1045db0c.md) |
 | flightsbr | 1.2.0 | 2026-08-21 21:00:33 UTC | [open](../records/r-flightsbr-9ec5bd4c.md) |
+| FocusGroup | 0.5.2 | 2026-09-12 13:20:14 UTC | [open](../records/r-focusgroup-2a1262ea.md) |
 | frailtypack | 3.8.1 | 2026-08-25 11:10:10 UTC | [open](../records/r-frailtypack-8172f86b.md) |
 | fsbrain | 0.7.0 | 2026-08-23 15:30:02 UTC | [open](../records/r-fsbrain-2ee1799f.md) |
 | funcml | 0.9.0 | 2026-08-22 15:10:24 UTC | [open](../records/r-funcml-9a16af27.md) |
@@ -374,6 +375,7 @@ Records: `858`
 | taxify | 0.5.0 | 2026-09-02 07:10:02 UTC | [open](../records/r-taxify-01df7d05.md) |
 | texreg | 1.40 | 2026-08-25 05:20:02 UTC | [open](../records/r-texreg-b70d82ed.md) |
 | tm.plugin.mail | 0.3-2 | 2026-08-13 07:22:13 UTC | [open](../records/r-tm-plugin-mail-46a6f09f.md) |
+| visual.kaito | 0.1.0 | 2026-09-12 13:00:02 UTC | [open](../records/r-visual-kaito-f855bdab.md) |
 | VLMC | 1.4-6 | 2026-09-05 21:40:02 UTC | [open](../records/r-vlmc-dda4f603.md) |
 | wcvpmatch | 0.0.2 | 2026-09-09 03:10:02 UTC | [open](../records/r-wcvpmatch-62d4d2b2.md) |
 | yulab.utils | 0.2.5 | 2026-08-29 15:30:01 UTC | [open](../records/r-yulab-utils-b3bd7d5c.md) |
@@ -410,6 +412,9 @@ Records: `858`
 | hamlet | 1.2.0 | 2014-03-30T06:14:54Z | [open](../records/haskell-hamlet-f62350b6.md) |
 | hspec-wai | 0.12.1 | 2026-07-15T08:32:32Z | [open](../records/haskell-hspec-wai-8943bd5e.md) |
 | insert-ordered-containers | 0.3.0 | 2026-03-03T21:54:30Z | [open](../records/haskell-insert-ordered-containers-43585df4.md) |
+| langchain-hs | 0.0.5.0 | 2026-09-12T13:14:41Z | [open](../records/haskell-langchain-hs-17cdd864.md) |
+| langchain-hs-core | 0.0.5.0 | 2026-09-12T13:13:40Z | [open](../records/haskell-langchain-hs-core-ea420901.md) |
+| langchain-hs-graph | 0.0.5.0 | 2026-09-12T13:14:10Z | [open](../records/haskell-langchain-hs-graph-0bcffb28.md) |
 | mainland-pretty | 0.7.1.1 | 2024-07-02T14:23:43Z | [open](../records/haskell-mainland-pretty-4e817f7d.md) |
 | mime-mail | 0.5.2 | 2026-04-13T15:13:26Z | [open](../records/haskell-mime-mail-d739de0e.md) |
 | mime-mail-ses | 0.4.5 | 2026-06-21T19:24:26Z | [open](../records/haskell-mime-mail-ses-fd8e9219.md) |
@@ -523,7 +528,7 @@ Records: `858`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-12T13:16:20Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-12T14:18:32Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-10T23:05:38Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -537,7 +542,7 @@ Records: `858`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-12T13:07:15Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-12T14:06:11Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-12T12:45:10Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -783,7 +788,7 @@ Records: `858`
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
 | GuitarML/FunBox | partial | 2026-07-10T15:59:36Z | [open](../records/audio-guitarml-funbox-6cee70c5.md) |
 | haoheliu/voicefixer_main | partial | 2024-01-13T00:38:35Z | [open](../records/audio-haoheliu-voicefixer-main-daefc20f.md) |
-| huggingface/transformers | partial | 2026-09-12T07:11:50Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| huggingface/transformers | partial | 2026-09-12T14:17:20Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | partial | 2025-06-29T02:06:27Z | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | partial | 2026-04-13T22:04:14Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | jefflai108/pytorch-kaldi-neural-speaker-embeddings | partial | 2020-01-27T22:29:25Z | [open](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) |
@@ -797,7 +802,7 @@ Records: `858`
 | NICEElevateAI/ElevateAIPythonSDK | partial | 2023-10-17T14:08:56Z | [open](../records/audio-niceelevateai-elevateaipythonsdk-70cbeb69.md) |
 | openai/jukebox | partial | 2024-06-19T05:14:24Z | [open](../records/audio-openai-jukebox-831d162e.md) |
 | pliang279/awesome-multimodal-ml | partial | 2024-08-20T19:46:33Z | [open](../records/audio-pliang279-awesome-multimodal-ml-35fc826b.md) |
-| rern/rAudio | partial | 2026-09-12T01:03:14Z | [open](../records/audio-rern-raudio-af65d72c.md) |
+| rern/rAudio | partial | 2026-09-12T13:55:46Z | [open](../records/audio-rern-raudio-af65d72c.md) |
 | resemble-ai/resemble-enhance | partial | 2024-12-03T02:29:17Z | [open](../records/audio-resemble-ai-resemble-enhance-cbd92f96.md) |
 | seaniezhao/torch_npss | v0.2.0 | 2019-07-03T10:56:32Z | [open](../records/audio-seaniezhao-torch-npss-bcd03657.md) |
 | shangeth/wavencoder | partial | 2021-06-06T12:32:20Z | [open](../records/audio-shangeth-wavencoder-b50d9b2d.md) |

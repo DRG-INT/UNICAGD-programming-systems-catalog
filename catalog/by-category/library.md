@@ -1,6 +1,6 @@
 # Library
 
-Records: `6096`
+Records: `6106`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `6096`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (669)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · **[Library (6096)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · **[Library (6106)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (863)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -2606,6 +2606,7 @@ Records: `6096`
 | datacaged | 0.2.1 | 2026-09-09 16:40:07 UTC | [open](../records/r-datacaged-0983a23e.md) |
 | datanugget | 1.5.0 | 2026-08-21 06:50:08 UTC | [open](../records/r-datanugget-a0c120b9.md) |
 | DataSpaceR | 1.0.2 | 2026-08-26 23:50:02 UTC | [open](../records/r-dataspacer-455f0ed4.md) |
+| days2lessons | 1.0.0 | 2026-09-12 12:50:02 UTC | [open](../records/r-days2lessons-ff5b69a4.md) |
 | dbarts | 0.9-34 | 2026-08-21 17:30:16 UTC | [open](../records/r-dbarts-39f7859c.md) |
 | DDIwR | 0.20 | 2026-08-22 03:20:02 UTC | [open](../records/r-ddiwr-d357505a.md) |
 | declared | 0.27 | 2026-08-22 03:40:02 UTC | [open](../records/r-declared-ff86036a.md) |
@@ -2674,10 +2675,12 @@ Records: `6096`
 | fred | 0.3.1 | 2026-09-09 10:00:07 UTC | [open](../records/r-fred-657ffbea.md) |
 | freegroup | 1.2-1-1 | 2026-08-21 21:50:02 UTC | [open](../records/r-freegroup-5fae418a.md) |
 | frheritage | 0.1.2 | 2026-09-04 10:30:02 UTC | [open](../records/r-frheritage-8d28c42c.md) |
+| fspls2 | 0.1.0 | 2026-09-12 12:30:02 UTC | [open](../records/r-fspls2-370699af.md) |
 | fungible | 2.4.8 | 2026-09-04 05:10:35 UTC | [open](../records/r-fungible-717f8691.md) |
 | FusionForests | 1.0.1 | 2026-08-09 06:40:10 UTC | [open](../records/r-fusionforests-cce39537.md) |
 | galamm | 0.4.1 | 2026-08-31 19:00:11 UTC | [open](../records/r-galamm-5ae5b378.md) |
 | gamstransfer | 3.0.9 | 2026-09-09 12:00:07 UTC | [open](../records/r-gamstransfer-36e2e484.md) |
+| gcmrec | 2.0.0 | 2026-09-12 14:10:22 UTC | [open](../records/r-gcmrec-a9a5a7be.md) |
 | gcTensor | 1.0.1 | 2026-09-11 06:20:08 UTC | [open](../records/r-gctensor-92bd2e44.md) |
 | GDILM.SEIRS | 0.0.7 | 2026-09-06 22:50:19 UTC | [open](../records/r-gdilm-seirs-f71deae9.md) |
 | GenHMM1d | 0.2.8 | 2026-09-10 15:00:02 UTC | [open](../records/r-genhmm1d-301f3c43.md) |
@@ -2813,6 +2816,7 @@ Records: `6096`
 | mapsf | 1.2.2 | 2026-09-02 12:40:02 UTC | [open](../records/r-mapsf-bf1548c0.md) |
 | maq | 0.6.1 | 2026-08-04 13:10:17 UTC | [open](../records/r-maq-b64e2c22.md) |
 | marp | 0.1.1 | 2026-08-21 08:10:08 UTC | [open](../records/r-marp-443a786e.md) |
+| matSPACE | 0.1.0 | 2026-09-12 13:40:09 UTC | [open](../records/r-matspace-a07a9512.md) |
 | mcauchyd | 1.3.6 | 2026-08-25 10:30:02 UTC | [open](../records/r-mcauchyd-cc0a78ba.md) |
 | mcmcr | 0.7.0 | 2026-08-30 10:30:02 UTC | [open](../records/r-mcmcr-cc22b27e.md) |
 | mcstatsim | 0.5.1 | 2026-08-22 01:00:07 UTC | [open](../records/r-mcstatsim-df86e980.md) |
@@ -2825,6 +2829,7 @@ Records: `6096`
 | MEMWAS | 0.9.5 | 2026-08-22 15:40:02 UTC | [open](../records/r-memwas-ee3f5b16.md) |
 | MergeKmeans | 0.3.0 | 2026-09-04 15:50:13 UTC | [open](../records/r-mergekmeans-03d98fb5.md) |
 | metabodeconplus | 0.22.0 | 2026-08-09 07:30:08 UTC | [open](../records/r-metabodeconplus-fa0d99c0.md) |
+| metajam | 0.3.2 | 2026-09-12 13:30:18 UTC | [open](../records/r-metajam-7c32d85d.md) |
 | metaselection | 0.3.0 | 2026-08-31 14:10:02 UTC | [open](../records/r-metaselection-253eae2d.md) |
 | mggd | 1.3.7 | 2026-08-25 09:50:07 UTC | [open](../records/r-mggd-d05a8404.md) |
 | MGLM | 0.2.3 | 2026-08-23 20:00:02 UTC | [open](../records/r-mglm-e37ae25f.md) |
@@ -2837,6 +2842,7 @@ Records: `6096`
 | mitools | 2.7 | 2026-08-31 19:30:54 UTC | [open](../records/r-mitools-b0bd6208.md) |
 | mixedBayes | 0.2.6 | 2026-08-04 16:00:08 UTC | [open](../records/r-mixedbayes-0f969f6f.md) |
 | MN | 1.2 | 2026-09-03 07:20:02 UTC | [open](../records/r-mn-8f7ed4dd.md) |
+| MobilityDataPT | 1.0 | 2026-09-12 13:20:02 UTC | [open](../records/r-mobilitydatapt-927be74e.md) |
 | ModalCens | 0.2.0 | 2026-08-21 17:50:02 UTC | [open](../records/r-modalcens-97f99983.md) |
 | modeldata | 1.6.0 | 2026-08-21 11:10:02 UTC | [open](../records/r-modeldata-549c0f9a.md) |
 | moderndive | 0.8.0 | 2026-08-04 22:50:08 UTC | [open](../records/r-moderndive-51f4cbaa.md) |
@@ -2888,6 +2894,7 @@ Records: `6096`
 | openxlsx | 4.2.9 | 2026-09-02 09:30:02 UTC | [open](../records/r-openxlsx-beaffd1b.md) |
 | openxlsx2 | 1.29 | 2026-08-20 13:20:31 UTC | [open](../records/r-openxlsx2-a62c52cb.md) |
 | optconerrf | 1.0.3 | 2026-09-03 20:10:03 UTC | [open](../records/r-optconerrf-4b033e8f.md) |
+| OptOR | 0.1.0 | 2026-09-12 14:10:39 UTC | [open](../records/r-optor-93227d4f.md) |
 | OptOTrials | 1.0.3 | 2026-08-31 18:20:02 UTC | [open](../records/r-optotrials-101aa30e.md) |
 | orgutils | 0.5-4 | 2026-08-21 05:41:26 UTC | [open](../records/r-orgutils-e9494b03.md) |
 | ORION | 1.1.2 | 2026-08-24 12:30:02 UTC | [open](../records/r-orion-48b0f129.md) |
@@ -3029,6 +3036,7 @@ Records: `6096`
 | SimplexRegression | 0.1.6 | 2026-08-21 05:45:35 UTC | [open](../records/r-simplexregression-f24a9a31.md) |
 | sims | 0.0.5 | 2026-08-25 21:20:02 UTC | [open](../records/r-sims-43649431.md) |
 | SingRegKrig | 0.1.0 | 2026-08-08 12:30:18 UTC | [open](../records/r-singregkrig-c1a818a3.md) |
+| SIPDIBGE | 0.2.2 | 2026-09-12 14:10:28 UTC | [open](../records/r-sipdibge-61fe7dd2.md) |
 | sixtyfour | 0.2.4 | 2026-08-28 07:00:17 UTC | [open](../records/r-sixtyfour-6f2b80b4.md) |
 | slim | 0.1.3 | 2026-08-24 13:50:02 UTC | [open](../records/r-slim-ed629f98.md) |
 | SLOPE | 2.1.1 | 2026-08-29 12:00:09 UTC | [open](../records/r-slope-18e131e6.md) |
@@ -3041,6 +3049,7 @@ Records: `6096`
 | soilVAE | 0.1.10 | 2026-08-22 17:50:02 UTC | [open](../records/r-soilvae-55b34e7a.md) |
 | sommer | 4.4.7 | 2026-09-11 06:50:02 UTC | [open](../records/r-sommer-289afe0d.md) |
 | sondage | 0.9.1 | 2026-08-04 23:20:02 UTC | [open](../records/r-sondage-e582e1f3.md) |
+| soReta | 0.1.0 | 2026-09-12 14:10:03 UTC | [open](../records/r-soreta-893950b7.md) |
 | sov | 2.0.0 | 2026-08-21 05:40:36 UTC | [open](../records/r-sov-a35583b7.md) |
 | spaMM | 4.7.0 | 2026-09-09 23:40:02 UTC | [open](../records/r-spamm-b06f6c06.md) |
 | spatcovar | 0.1.0 | 2026-09-08 13:30:02 UTC | [open](../records/r-spatcovar-96747442.md) |
@@ -5959,6 +5968,7 @@ Records: `6096`
 | sohamkamani/javascript-design-patterns-for-humans | partial | 2024-01-08T05:07:39Z | [open](../records/pattern-language-sohamkamani-javascript-design-patterns-for-humans-68527519.md) |
 | Suryakant-Bharti/Important-Java-Concepts | partial | 2025-08-22T17:32:10Z | [open](../records/pattern-language-suryakant-bharti-important-java-concepts-57e4737e.md) |
 | tcorral/Design-Patterns-in-Javascript | partial | 2023-08-07T04:31:34Z | [open](../records/pattern-language-tcorral-design-patterns-in-javascript-cd76fa06.md) |
+| thma/LtuPatternFactory | partial | 2026-08-26T11:42:42Z | [open](../records/pattern-language-thma-ltupatternfactory-bb11e061.md) |
 | tylerlaberge/PyPattyrn | partial | 2024-05-26T00:24:11Z | [open](../records/pattern-language-tylerlaberge-pypattyrn-835debda.md) |
 
 ## WebAssembly

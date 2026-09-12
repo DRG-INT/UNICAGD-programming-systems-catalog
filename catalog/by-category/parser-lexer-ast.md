@@ -9,21 +9,21 @@ Records: `1242`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (669)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6106)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (863)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1242)](parser-lexer-ast.md)** · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1242)](parser-lexer-ast.md)** · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -634,7 +634,7 @@ Records: `1242`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-12T12:40:51Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-12T13:44:31Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-06T19:05:37Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-11T21:28:23Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -652,7 +652,7 @@ Records: `1242`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-12T10:45:45Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-12T14:12:34Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -666,8 +666,8 @@ Records: `1242`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-12T07:30:17Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-12T13:12:07Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-12T12:05:27Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| HKUDS/LightRAG | partial | 2026-09-12T13:44:27Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| labring/FastGPT | partial | 2026-09-12T13:55:58Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -1036,7 +1036,7 @@ Records: `1242`
 | sebastien-lempens/r3f-flow-field-particles | partial | 2026-08-16T06:45:56Z | [open](../records/effects-sebastien-lempens-r3f-flow-field-particles-a507b25b.md) |
 | sergree/matchering | partial | 2026-07-08T14:37:52Z | [open](../records/effects-sergree-matchering-9b24080b.md) |
 | Sportinger/MasterSelects | partial | 2026-08-29T09:19:36Z | [open](../records/effects-sportinger-masterselects-e597519e.md) |
-| TasThief/CameraClippingShader | unknown | github_latest_release_missing | [open](../records/effects-tasthief-cameraclippingshader-67b2501a.md) |
+| TasThief/CameraClippingShader | partial | 2016-09-22T10:57:31Z | [open](../records/effects-tasthief-cameraclippingshader-67b2501a.md) |
 | tycho-kirchner/fastcompmgr | partial | 2026-07-31T21:47:26Z | [open](../records/effects-tycho-kirchner-fastcompmgr-e01c8113.md) |
 | varmd/wayward | partial | 2026-07-20T16:18:28Z | [open](../records/effects-varmd-wayward-1c48f2fa.md) |
 | xurei/shadertastic | partial | 2026-07-23T22:33:51Z | [open](../records/effects-xurei-shadertastic-9e021c85.md) |
@@ -1066,7 +1066,7 @@ Records: `1242`
 | seanZhang414/openadserver | partial | 2025-12-21T13:17:51Z | [open](../records/audio-seanzhang414-openadserver-54455061.md) |
 | sekiguchi92/SoundSourceSeparation | partial | 2022-10-16T15:11:43Z | [open](../records/audio-sekiguchi92-soundsourceseparation-e84c221b.md) |
 | sergree/matchering | partial | 2026-07-08T14:37:52Z | [open](../records/audio-sergree-matchering-c548e8ba.md) |
-| SFML/SFML | partial | 2026-09-11T20:34:23Z | [open](../records/audio-sfml-sfml-5e33b791.md) |
+| SFML/SFML | partial | 2026-09-12T10:01:56Z | [open](../records/audio-sfml-sfml-5e33b791.md) |
 | snapcast/snapcast | partial | 2026-06-27T10:02:18Z | [open](../records/audio-snapcast-snapcast-fc2313eb.md) |
 
 ## Video
@@ -1183,10 +1183,10 @@ Records: `1242`
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) |
 | jbrazio/ardufocus-ascom | partial | 2021-02-21T11:08:23Z | [open](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) |
-| jobovy/galpy | partial | 2026-09-12T04:11:41Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
+| jobovy/galpy | partial | 2026-09-12T13:51:21Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | JuliaAstro/AstroImages.jl | partial | 2026-07-30T16:20:41Z | [open](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-11T20:08:36Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-12T12:45:29Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
 | larrylart/Unimap | partial | 2019-02-18T20:46:00Z | [open](../records/telescopes-larrylart-unimap-07a1fd44.md) |
 | lenstronomy/lenstronomy | partial | 2026-09-07T00:13:35Z | [open](../records/telescopes-lenstronomy-lenstronomy-33b11625.md) |
 | lgrcia/twirl | partial | 2026-07-21T07:23:08Z | [open](../records/telescopes-lgrcia-twirl-2b14ac34.md) |
@@ -1240,7 +1240,7 @@ Records: `1242`
 | sshh12/astro-app | partial | 2024-11-03T18:50:26Z | [open](../records/telescopes-sshh12-astro-app-9e112594.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/telescopes-starlink-starlink-a17e4ea1.md) |
 | StefanoTesla/TeslaBoard | partial | 2026-08-28T10:07:31Z | [open](../records/telescopes-stefanotesla-teslaboard-f09975c6.md) |
-| Stellarium/stellarium | partial | 2026-09-11T20:51:32Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
+| Stellarium/stellarium | partial | 2026-09-12T10:42:56Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | steveberardi/starplot | partial | 2026-09-09T13:29:47Z | [open](../records/telescopes-steveberardi-starplot-6a1c13aa.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/telescopes-stingraysoftware-stingray-6e54158b.md) |
 | sunpy/sunpy | partial | 2026-09-11T18:20:10Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |

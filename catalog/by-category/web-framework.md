@@ -9,21 +9,21 @@ Records: `496`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · [Formatter (669)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · [Formatter (669)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6106)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (863)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · **[Web Framework (496)](web-framework.md)**
 
 ## C++23
@@ -221,7 +221,7 @@ Records: `496`
 | @react-router/express | 8.3.1 | 2026-08-28T14:44:43.286Z | [open](../records/node-js-javascript-react-router-express-7f5f4395.md) |
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
 | @rebasepro/server | 0.19.1 | 2026-09-07T20:28:56.608Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
-| @remotion/studio-server | 4.0.523 | 2026-09-09T12:05:46.240Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
+| @remotion/studio-server | 4.0.524 | 2026-09-12T13:28:15.584Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | @restatedev/restate-server | 1.7.9 | 2026-09-04T21:08:28.114Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
 | @sap-ux/fiori-mcp-server | 1.12.5 | 2026-09-11T21:16:50.150Z | [open](../records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
@@ -538,7 +538,7 @@ Records: `496`
 | jeeliz/jeelizWeboji | partial | 2024-02-06T19:36:18Z | [open](../records/photography-jeeliz-jeelizweboji-42a4d713.md) |
 | LycheeOrg/Lychee-v3 | partial | 2021-03-10T02:33:37Z | [open](../records/photography-lycheeorg-lychee-v3-f5beff87.md) |
 | photostructure/photostructure-for-servers | partial | 2026-09-10T16:59:19Z | [open](../records/photography-photostructure-photostructure-for-servers-8302af34.md) |
-| photoview/photoview | partial | 2026-09-11T14:57:45Z | [open](../records/photography-photoview-photoview-7180706a.md) |
+| photoview/photoview | partial | 2026-09-12T11:41:47Z | [open](../records/photography-photoview-photoview-7180706a.md) |
 | rzeldent/esp32cam-rtsp | partial | 2026-09-02T06:46:49Z | [open](../records/photography-rzeldent-esp32cam-rtsp-27be08e9.md) |
 | sambecker/exif-photo-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) |
 | Webreaper/Damselfly | partial | 2026-09-02T12:05:12Z | [open](../records/photography-webreaper-damselfly-df92802c.md) |

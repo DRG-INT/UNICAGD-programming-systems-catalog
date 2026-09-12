@@ -1,42 +1,46 @@
 # Release Watch
 
-Generated: `2026-09-12T13:19:46+00:00`
+Generated: `2026-09-12T14:21:39+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (236)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (209)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (125)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (26)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (182)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (253)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1710)](by-category/filesystem-os.md) · [Formatter (669)](by-category/formatter.md)
+[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (486)](by-category/ffi-bindings.md) · [Filesystem Os (1717)](by-category/filesystem-os.md) · [Formatter (669)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1514)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (448)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (289)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6096)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (51)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (555)](by-category/logging-observability.md) · [Machine Learning (858)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1470)](by-category/language-specification.md) · [Library (6106)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (557)](by-category/logging-observability.md) · [Machine Learning (863)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1089)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (325)](by-category/precommit-ci-quality.md)
-[Profiler (98)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (669)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (649)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1242)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (326)](by-category/precommit-ci-quality.md)
+[Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (134)](by-category/registry-repository.md) · [Sanitizer (16)](by-category/sanitizer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (407)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (674)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (73)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1663)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (650)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10841 |
-| Unknown stable release | 18229 |
+| Known stable release | 10864 |
+| Unknown stable release | 18240 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.524 | 2026-09-12T13:28:15.584Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
+| langchain-hs | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:14:41Z | [open](records/haskell-langchain-hs-17cdd864.md) |
+| langchain-hs-graph | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:14:10Z | [open](records/haskell-langchain-hs-graph-0bcffb28.md) |
+| langchain-hs-core | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:13:40Z | [open](records/haskell-langchain-hs-core-ea420901.md) |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.4 | 2026-09-12T12:34:51.172Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | slang | Dart | Serialization | 4.19.2 | 2026-09-12T11:44:14.783497Z | [open](records/dart-slang-f760648f.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.3 | 2026-09-12T11:30:04.746Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.51.0 | 2026-09-12T09:34:52.187Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | ai_barcode_scanner | Dart | Static Analyzer | 8.0.1 | 2026-09-12T09:04:26.763388Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 | oui-data | Node.js/JavaScript | Serialization | 2.1.20 | 2026-09-12T08:50:37.271Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
@@ -61,6 +65,33 @@ Generated: `2026-09-12T13:19:46+00:00`
 | mint | Node.js/JavaScript | Cli | 4.2.890 | 2026-09-12T02:15:23.186Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
 | @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1493 | 2026-09-12T02:15:20.004Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.0 | 2026-09-12T00:44:35.272698Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
+| OptOR | R | Library | 0.1.0 | 2026-09-12 14:10:39 UTC | [open](records/r-optor-93227d4f.md) |
+| ProMetaR | R | Static Analyzer | 1.0.0 | 2026-09-12 14:10:33 UTC | [open](records/r-prometar-0c5bcf8a.md) |
+| SIPDIBGE | R | Library | 0.2.2 | 2026-09-12 14:10:28 UTC | [open](records/r-sipdibge-61fe7dd2.md) |
+| gcmrec | R | Library | 2.0.0 | 2026-09-12 14:10:22 UTC | [open](records/r-gcmrec-a9a5a7be.md) |
+| geosmooth | R | Filesystem Os | 0.1.0 | 2026-09-12 14:10:10 UTC | [open](records/r-geosmooth-8789b462.md) |
+| soReta | R | Library | 0.1.0 | 2026-09-12 14:10:03 UTC | [open](records/r-soreta-893950b7.md) |
+| Rfactor | R | Filesystem Os | 0.2.0 | 2026-09-12 13:50:09 UTC | [open](records/r-rfactor-0b6c00f9.md) |
+| stratigraphr | R | Logging Observability | 0.5.0 | 2026-09-12 13:50:02 UTC | [open](records/r-stratigraphr-609e2ba9.md) |
+| NGSToolKit | R | Static Analyzer | 0.1.4 | 2026-09-12 13:40:22 UTC | [open](records/r-ngstoolkit-f0fca1a0.md) |
+| celliverse | R | Filesystem Os | 0.0.2 | 2026-09-12 13:40:14 UTC | [open](records/r-celliverse-1d62afed.md) |
+| matSPACE | R | Library | 0.1.0 | 2026-09-12 13:40:09 UTC | [open](records/r-matspace-a07a9512.md) |
+| metaGLMM | R | Static Analyzer | 1.0.0 | 2026-09-12 13:40:02 UTC | [open](records/r-metaglmm-ab8f45d9.md) |
+| AMRsurveilR | R | Static Analyzer | 0.1.0 | 2026-09-12 13:30:24 UTC | [open](records/r-amrsurveilr-c20d9f6e.md) |
+| metajam | R | Library | 0.3.2 | 2026-09-12 13:30:18 UTC | [open](records/r-metajam-7c32d85d.md) |
+| strategyr | R | Precommit Ci Quality | 0.1.7.1 | 2026-09-12 13:30:02 UTC | [open](records/r-strategyr-bb3e2ca7.md) |
+| FocusGroup | R | Machine Learning | 0.5.2 | 2026-09-12 13:20:14 UTC | [open](records/r-focusgroup-2a1262ea.md) |
+| LLMRpanel | R | Benchmarking | 0.6.1 | 2026-09-12 13:20:08 UTC | [open](records/r-llmrpanel-659aa10b.md) |
+| MobilityDataPT | R | Library | 1.0 | 2026-09-12 13:20:02 UTC | [open](records/r-mobilitydatapt-927be74e.md) |
+| actisensorlog | R | Logging Observability | 0.2.0 | 2026-09-12 13:10:16 UTC | [open](records/r-actisensorlog-39c7fd58.md) |
+| autotest | R | Testing Framework | 0.2.0 | 2026-09-12 13:10:09 UTC | [open](records/r-autotest-e93c76ee.md) |
+| ibist | R | Filesystem Os | 0.1-0 | 2026-09-12 13:10:02 UTC | [open](records/r-ibist-d9bf0573.md) |
+| visual.kaito | R | Machine Learning | 0.1.0 | 2026-09-12 13:00:02 UTC | [open](records/r-visual-kaito-f855bdab.md) |
+| Compositionalscsmr | R | Filesystem Os | 1.0 | 2026-09-12 12:50:07 UTC | [open](records/r-compositionalscsmr-0be79855.md) |
+| days2lessons | R | Library | 1.0.0 | 2026-09-12 12:50:02 UTC | [open](records/r-days2lessons-ff5b69a4.md) |
+| NeuralSTATIS | R | Static Analyzer | 0.1.0 | 2026-09-12 12:30:15 UTC | [open](records/r-neuralstatis-243c6ee4.md) |
+| coreval | R | Lint Rule Pack | 0.1.0 | 2026-09-12 12:30:08 UTC | [open](records/r-coreval-c6116365.md) |
+| fspls2 | R | Library | 0.1.0 | 2026-09-12 12:30:02 UTC | [open](records/r-fspls2-370699af.md) |
 | basetable | R | Memory Analyzer | 1.3.2 | 2026-09-12 12:20:02 UTC | [open](records/r-basetable-f21002c5.md) |
 | SampleSelectR | R | Machine Learning | 1.0.0 | 2026-09-12 12:10:02 UTC | [open](records/r-sampleselectr-a09dc243.md) |
 | GGIR | R | Static Analyzer | 3.3-9 | 2026-09-12 10:20:02 UTC | [open](records/r-ggir-ff44ba8d.md) |
@@ -254,43 +285,12 @@ Generated: `2026-09-12T13:19:46+00:00`
 | simr | R | Static Analyzer | 1.0.11 | 2026-09-11 07:40:02 UTC | [open](records/r-simr-e09db19c.md) |
 | afc | R | Library | 1.5.0 | 2026-09-11 07:30:02 UTC | [open](records/r-afc-cfe05721.md) |
 | spatstat.utils | R | Utility Library | 3.2-5 | 2026-09-11 07:20:02 UTC | [open](records/r-spatstat-utils-e9bae30a.md) |
-| ICESat2VegR | R | Static Analyzer | 0.0.1 | 2026-09-11 07:10:09 UTC | [open](records/r-icesat2vegr-37412692.md) |
-| wcswatin | R | Cli | 0.2.0 | 2026-09-11 07:10:03 UTC | [open](records/r-wcswatin-d3d2f92f.md) |
-| MBHdesign | R | Logging Observability | 2.3.22 | 2026-09-11 07:00:28 UTC | [open](records/r-mbhdesign-fa941706.md) |
-| RCppAD | R | Library | 1.20260000.0-1 | 2026-09-11 07:00:22 UTC | [open](records/r-rcppad-87e98746.md) |
-| healthiar | R | Filesystem Os | 0.2.6 | 2026-09-11 07:00:13 UTC | [open](records/r-healthiar-08b8fbd7.md) |
-| spatialkit | R | Filesystem Os | 2.0.0 | 2026-09-11 07:00:02 UTC | [open](records/r-spatialkit-ca49c3e4.md) |
-| sommer | R | Library | 4.4.7 | 2026-09-11 06:50:02 UTC | [open](records/r-sommer-289afe0d.md) |
-| lme4breeding | R | Library | 1.1.4 | 2026-09-11 06:40:15 UTC | [open](records/r-lme4breeding-d936aad8.md) |
-| sf | R | Library | 1.1-3 | 2026-09-11 06:40:02 UTC | [open](records/r-sf-d645920e.md) |
-| evola | R | Library | 1.0.9 | 2026-09-11 06:30:12 UTC | [open](records/r-evola-2b243439.md) |
-| ggRandomForests | R | Library | 3.5.3 | 2026-09-11 06:30:02 UTC | [open](records/r-ggrandomforests-9702efc3.md) |
-| gcTensor | R | Library | 1.0.1 | 2026-09-11 06:20:08 UTC | [open](records/r-gctensor-92bd2e44.md) |
-| ggscribe | R | Undefined Behavior Analyzer | 1.0.0 | 2026-09-11 06:20:02 UTC | [open](records/r-ggscribe-cc063351.md) |
-| LiblineaR | R | Library | 2.10-25 | 2026-09-11 06:00:14 UTC | [open](records/r-liblinear-659fe7e9.md) |
-| arules | R | Lint Rule Pack | 1.7.15 | 2026-09-11 06:00:02 UTC | [open](records/r-arules-d0c49d8c.md) |
-| primarycensored | R | Library | 1.5.2 | 2026-09-11 03:00:02 UTC | [open](records/r-primarycensored-b2014a72.md) |
-| mx.api | R | Networking Http | 0.3.1 | 2026-09-11 02:50:02 UTC | [open](records/r-mx-api-3f4c2efe.md) |
-| ggformula | R | Parser Lexer Ast | 2.0.0 | 2026-09-11 02:20:03 UTC | [open](records/r-ggformula-ba88946c.md) |
-| dataRetrieval | R | Logging Observability | 2.7.26 | 2026-09-11 02:10:02 UTC | [open](records/r-dataretrieval-6237bbef.md) |
-| @toolbox-sdk/server | Node.js/JavaScript | Web Framework | 1.11.0 | 2026-09-10T23:54:07.640Z | [open](records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) |
-| hledger-web | Haskell | Library | 1.52.4 | 2026-09-10T23:44:25Z | [open](records/haskell-hledger-web-8f01564b.md) |
-| hledger-ui | Haskell | Visualization Gui | 1.52.4 | 2026-09-10T23:44:22Z | [open](records/haskell-hledger-ui-8c0b5874.md) |
-| hledger | Haskell | Library | 1.52.4 | 2026-09-10T23:44:20Z | [open](records/haskell-hledger-1353ec65.md) |
-| hledger-lib | Haskell | Library | 1.52.4 | 2026-09-10T23:44:18Z | [open](records/haskell-hledger-lib-25e4085c.md) |
-| month_picker_dialog | Dart | Logging Observability | 6.7.3 | 2026-09-10T23:21:19.443401Z | [open](records/dart-month-picker-dialog-fa645b69.md) |
-| content-type | Node.js/JavaScript | Networking Http | 3.1.0 | 2026-09-10T23:10:26.268Z | [open](records/node-js-javascript-content-type-3b23af00.md) |
-| @inversifyjs/http-core | Node.js/JavaScript | Networking Http | 5.6.1 | 2026-09-10T22:47:00.489Z | [open](records/node-js-javascript-inversifyjs-http-core-781ae4c4.md) |
-| @logux/server | Node.js/JavaScript | Build System | 0.16.2 | 2026-09-10T22:26:28.654Z | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
-| zod | Node.js/TypeScript | Type Checker | 4.6.2 | 2026-09-10T21:44:31.022Z | [open](records/node-js-typescript-zod-b5537602.md) |
-| @tellescope/testing | Node.js/JavaScript | Testing Framework | 1.256.16 | 2026-09-10T21:42:35.691Z | [open](records/node-js-javascript-tellescope-testing-59848a2c.md) |
-| gitlab-haskell | Haskell | Library | 1.5.0.0 | 2026-09-10T21:17:34Z | [open](records/haskell-gitlab-haskell-3c43f582.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10581 |
+| gh_search_reports_activity_not_release_version | 10618 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -299,8 +299,8 @@ Generated: `2026-09-12T13:19:46+00:00`
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
-| github_latest_release_missing | 245 |
 | awesome_list_does_not_include_release_date | 237 |
+| github_latest_release_missing | 219 |
 | gitlab_projects_api_reports_activity_not_release_version | 196 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |

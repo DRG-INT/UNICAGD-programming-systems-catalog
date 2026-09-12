@@ -9,21 +9,21 @@ Records: `669`
 ## Category Index
 
 [Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (209)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (125)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (26)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1710)](filesystem-os.md) · **[Formatter (669)](formatter.md)**
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1717)](filesystem-os.md) · **[Formatter (669)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1514)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6096)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (555)](logging-observability.md) · [Machine Learning (858)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6106)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (557)](logging-observability.md) · [Machine Learning (863)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1089)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (325)](precommit-ci-quality.md)
-[Profiler (98)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (669)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (649)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (326)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (407)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (674)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1663)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -547,7 +547,7 @@ Records: `669`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-12T11:57:22Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-12T13:45:17Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-12T06:23:45Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -699,7 +699,7 @@ Records: `669`
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |
 | Frikallo/SonicSynth | partial | 2023-05-19T05:38:57Z | [open](../records/effects-frikallo-sonicsynth-5f25bf87.md) |
 | HalbFettKaese/ShaderSelectorV3 | partial | 2026-06-19T07:53:47Z | [open](../records/effects-halbfettkaese-shaderselectorv3-85677bef.md) |
-| hasnain7abbas/gargantua-blackhole | unknown | github_latest_release_missing | [open](../records/effects-hasnain7abbas-gargantua-blackhole-6026f2a1.md) |
+| hasnain7abbas/gargantua-blackhole | partial | 2026-07-25T07:14:18Z | [open](../records/effects-hasnain7abbas-gargantua-blackhole-6026f2a1.md) |
 | indieshade/Unity_Shader_Library_Zoroiscrying | partial | 2023-04-22T13:46:49Z | [open](../records/effects-indieshade-unity-shader-library-zoroiscrying-35c86291.md) |
 | izayoijiichan/VGO | partial | 2026-07-18T12:50:36Z | [open](../records/effects-izayoijiichan-vgo-cfe950e1.md) |
 | kaustubh-sadekar/FunMirrors | partial | 2022-12-24T10:01:27Z | [open](../records/effects-kaustubh-sadekar-funmirrors-183ebe3a.md) |
@@ -707,7 +707,7 @@ Records: `669`
 | markreidvfx/pyaaf2 | partial | 2024-11-25T15:32:36Z | [open](../records/effects-markreidvfx-pyaaf2-78585c3f.md) |
 | msfeldstein/interactive-shader-format-js | partial | 2025-12-31T18:11:15Z | [open](../records/effects-msfeldstein-interactive-shader-format-js-7ead3729.md) |
 | rsgalloway/pyseq | partial | 2026-08-24T02:12:28Z | [open](../records/effects-rsgalloway-pyseq-5aab54d6.md) |
-| UnterrainerInformatik/BloomEffectRenderer | 1.1.5 | 2020-01-18T23:00:33Z | [open](../records/effects-unterrainerinformatik-bloomeffectrenderer-6453010d.md) |
+| UnterrainerInformatik/BloomEffectRenderer | partial | 2021-04-28T11:22:11Z | [open](../records/effects-unterrainerinformatik-bloomeffectrenderer-6453010d.md) |
 | VisionDepth/VisionDepth3D | partial | 2026-08-24T12:42:52Z | [open](../records/effects-visiondepth-visiondepth3d-1f9219ad.md) |
 
 ## Audio
@@ -722,7 +722,7 @@ Records: `669`
 | MikeMorenoDSP/LIRA-8 | partial | 2023-02-06T05:45:24Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | MycroftAI/ZZZ-RETIRED__openstt | partial | 2016-03-22T21:41:07Z | [open](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-11T11:36:58Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-12T11:37:13Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 
@@ -740,7 +740,7 @@ Records: `669`
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-11T23:06:36Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-11T20:30:17Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-12T13:30:07Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-09-04T06:33:23Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-05T14:34:16Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
@@ -754,7 +754,7 @@ Records: `669`
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
 | karimz1/imgcompress | partial | 2026-09-12T03:50:23Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
-| libjxl/libjxl | partial | 2026-09-12T10:20:11Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
+| libjxl/libjxl | partial | 2026-09-12T14:19:47Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mdouchement/hdr | partial | 2023-02-04T12:19:10Z | [open](../records/photography-mdouchement-hdr-30201254.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
