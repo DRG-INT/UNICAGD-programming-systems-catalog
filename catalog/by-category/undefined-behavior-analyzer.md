@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1661`
+Records: `1662`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `1661`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1703)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1704)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 [Image Audio Dsp (448)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6089)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (856)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-**[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+**[Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -310,6 +310,7 @@ Records: `1661`
 | AnnotationBustR | 2.0 | 2026-08-31 19:00:19 UTC | [open](../records/r-annotationbustr-dbdc0e6c.md) |
 | anticlust | 0.8.16 | 2026-09-09 08:50:02 UTC | [open](../records/r-anticlust-8930bb70.md) |
 | BDPTobitQR | 0.1.0 | 2026-08-06 07:00:08 UTC | [open](../records/r-bdptobitqr-3a57fa72.md) |
+| cogmod | 0.3.0 | 2026-09-12 08:10:02 UTC | [open](../records/r-cogmod-f45c001b.md) |
 | CoxAalenCR | 0.1.0 | 2026-08-21 15:20:02 UTC | [open](../records/r-coxaalencr-2e2fa22a.md) |
 | ctgimme | 0.1.0 | 2026-08-28 14:30:15 UTC | [open](../records/r-ctgimme-b441ad06.md) |
 | ctrdata | 1.26.3 | 2026-08-28 17:00:02 UTC | [open](../records/r-ctrdata-4e6f8165.md) |
@@ -1146,7 +1147,7 @@ Records: `1661`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-10T03:25:57Z | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-12T08:02:59Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1170,7 +1171,7 @@ Records: `1661`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-12T06:59:04Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-12T08:20:31Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-03T02:31:45Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1494,7 +1495,7 @@ Records: `1661`
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |
 | photostructure/photostructure-for-servers | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) |
 | Piwigo/Piwigo | partial | 2026-09-01T10:24:21Z | [open](../records/photography-piwigo-piwigo-ebe912b3.md) |
-| qubvel-org/segmentation_models.pytorch | partial | 2026-09-11T01:43:01Z | [open](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) |
+| qubvel-org/segmentation_models.pytorch | partial | 2026-09-11T07:48:20Z | [open](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) |
 | tonytonyjan/exif | partial | 2023-08-25T06:25:19Z | [open](../records/photography-tonytonyjan-exif-1f2f7a7f.md) |
 | tub-rip/cmax_slam | partial | 2025-03-12T22:13:06Z | [open](../records/photography-tub-rip-cmax-slam-9275230c.md) |
 | tumuyan/RealSR-NCNN-Android | partial | 2026-05-30T08:52:28Z | [open](../records/photography-tumuyan-realsr-ncnn-android-4b7ae31a.md) |
@@ -1504,7 +1505,7 @@ Records: `1661`
 | wang-bin/fvp | partial | 2026-08-27T02:44:40Z | [open](../records/photography-wang-bin-fvp-ce06fab9.md) |
 | waschinski/photo-stream | unknown | github_search_does_not_include_release_date | [open](../records/photography-waschinski-photo-stream-50ae7f11.md) |
 | waynezhang/foto | partial | 2026-08-25T04:34:34Z | [open](../records/photography-waynezhang-foto-20b11b55.md) |
-| ZHINFINITY/Mpv-infinity | partial | 2026-09-09T20:13:33Z | [open](../records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
+| ZHINFINITY/Mpv-infinity | partial | 2026-09-12T02:11:41Z | [open](../records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
 
 ## Microscopy
 
@@ -1561,7 +1562,7 @@ Records: `1661`
 | alanbjohnston/CubeSatSim | partial | 2026-09-07T09:11:53Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-11T12:52:13Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-12T07:11:35Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-09-09T06:32:56Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
@@ -1585,7 +1586,7 @@ Records: `1661`
 | f4exb/sdrangel | partial | 2026-09-11T16:45:53Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-11T12:52:13Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-12T07:11:35Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | partial | 2026-09-10T13:19:30Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | mmalekzadeh/dana | partial | 2021-10-25T10:36:43Z | [open](../records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) |

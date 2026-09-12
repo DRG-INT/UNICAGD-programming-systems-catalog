@@ -14,17 +14,17 @@ Records: `448`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (182)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (253)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1703)](filesystem-os.md) · [Formatter (667)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (486)](ffi-bindings.md) · [Filesystem Os (1704)](filesystem-os.md) · [Formatter (667)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1511)](ide-editor-integration.md)
 **[Image Audio Dsp (448)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1469)](language-specification.md) · [Library (6088)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (855)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1470)](language-specification.md) · [Library (6089)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (51)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (552)](logging-observability.md) · [Machine Learning (856)](machine-learning.md)
 [Math Numeric Scientific (97)](math-numeric-scientific.md) · [Memory Analyzer (102)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1087)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1241)](parser-lexer-ast.md) · [Precommit Ci Quality (324)](precommit-ci-quality.md)
 [Profiler (98)](profiler.md) · [Project Scaffolding (142)](project-scaffolding.md) · [Registry Repository (134)](registry-repository.md) · [Sanitizer (16)](sanitizer.md)
-[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (667)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (647)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1661)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (649)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (340)](security-sast.md) · [Serialization (406)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (668)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (648)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1662)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (650)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -434,10 +434,10 @@ Records: `448`
 | anthonynsimon/bild | partial | 2026-09-07T11:42:06Z | [open](../records/photography-anthonynsimon-bild-7d490785.md) |
 | Ashampoo/kim | partial | 2026-05-08T17:18:09Z | [open](../records/photography-ashampoo-kim-f39fa11b.md) |
 | aydinnyunus/exifLooter | partial | 2026-01-16T16:34:17Z | [open](../records/photography-aydinnyunus-exiflooter-d4ad4d7f.md) |
-| banterle/HDR_Toolbox | partial | 2026-07-23T09:26:37Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
+| banterle/HDR_Toolbox | partial | 2026-09-11T13:10:36Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BinomialLLC/basis_universal | partial | 2026-09-01T04:08:12Z | [open](../records/photography-binomialllc-basis-universal-7a53e558.md) |
 | BradenM/pydngconverter | partial | 2026-09-10T21:59:20Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
-| Breakthrough/PySceneDetect | partial | 2026-08-28T00:20:20Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
+| Breakthrough/PySceneDetect | partial | 2026-09-12T01:59:08Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | C4NU/Paddie | partial | 2026-09-07T04:14:18Z | [open](../records/photography-c4nu-paddie-df004a86.md) |
 | catalyst-team/catalyst | partial | 2026-07-08T21:40:01Z | [open](../records/photography-catalyst-team-catalyst-b551d064.md) |
 | chrissimpkins/Crunch | partial | 2022-06-18T12:20:17Z | [open](../records/photography-chrissimpkins-crunch-4fe3bdef.md) |
@@ -456,7 +456,7 @@ Records: `448`
 | eszdman/PhotonCamera | partial | 2026-09-10T08:56:45Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
 | exif-heic-js/exif-heic-js | partial | 2025-07-03T14:31:17Z | [open](../records/photography-exif-heic-js-exif-heic-js-3a6db78a.md) |
 | Exiv2/exiv2 | partial | 2026-09-10T10:52:56Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
-| fengyuanchen/cropperjs | partial | 2026-09-05T07:02:36Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
+| fengyuanchen/cropperjs | partial | 2026-09-11T13:19:19Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
 | fthaler/rawhdr | partial | 2023-08-11T13:20:44Z | [open](../records/photography-fthaler-rawhdr-2703a856.md) |
 | guofei9987/blind_watermark | partial | 2026-03-25T09:09:28Z | [open](../records/photography-guofei9987-blind-watermark-a8556af6.md) |
 | hahnec/color-matcher | partial | 2026-02-24T20:43:21Z | [open](../records/photography-hahnec-color-matcher-dc72d7d2.md) |
@@ -474,16 +474,16 @@ Records: `448`
 | mirsadm/motioncam-decoder | partial | 2026-09-09T14:42:07Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
 | mooyoul/get-orientation | partial | 2026-09-09T21:11:26Z | [open](../records/photography-mooyoul-get-orientation-0b5e753d.md) |
 | nfnt/resize | partial | 2022-04-02T06:46:33Z | [open](../records/photography-nfnt-resize-09b63d52.md) |
-| opencv/opencv | partial | 2026-09-10T16:59:29Z | [open](../records/photography-opencv-opencv-3dada853.md) |
+| opencv/opencv | partial | 2026-09-11T17:49:54Z | [open](../records/photography-opencv-opencv-3dada853.md) |
 | OpenImageIO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-openimageio-1c46b5df.md) |
 | pqina/filepond | partial | 2026-08-28T15:10:49Z | [open](../records/photography-pqina-filepond-452a0cbf.md) |
 | pqina/react-filepond | partial | 2026-07-13T11:37:47Z | [open](../records/photography-pqina-react-filepond-73036a7d.md) |
 | pqina/vue-filepond | partial | 2026-07-13T11:37:56Z | [open](../records/photography-pqina-vue-filepond-48285ab4.md) |
-| python-pillow/Pillow | partial | 2026-09-11T01:19:31Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
+| python-pillow/Pillow | partial | 2026-09-11T09:41:48Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
 | PyWavelets/pywt | partial | 2026-09-09T20:17:07Z | [open](../records/photography-pywavelets-pywt-f5bf7c96.md) |
 | ray075hl/singleLDR2HDR | partial | 2025-01-07T02:22:51Z | [open](../records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
 | RayXie29/Shading_Correction | partial | 2019-03-18T09:42:41Z | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
-| roboflow/supervision | partial | 2026-09-10T09:28:16Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
+| roboflow/supervision | partial | 2026-09-11T14:28:12Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
 | scikit-image/scikit-image | partial | 2026-09-09T12:25:56Z | [open](../records/photography-scikit-image-scikit-image-e1dba1e6.md) |
 | shimat/opencvsharp | partial | 2026-09-07T09:11:41Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
 | sightmachine/SimpleCV | partial | 2024-12-20T19:39:00Z | [open](../records/photography-sightmachine-simplecv-b798cfb7.md) |
@@ -493,7 +493,7 @@ Records: `448`
 | SpecialKO/SKIV | partial | 2026-08-17T20:39:58Z | [open](../records/photography-specialko-skiv-ce478d80.md) |
 | ternera/exif-viewer | partial | 2026-05-18T03:12:05Z | [open](../records/photography-ternera-exif-viewer-f8a1806d.md) |
 | tj/letterbox | unknown | github_search_does_not_include_release_date | [open](../records/photography-tj-letterbox-97a32d23.md) |
-| Tom94/tev | partial | 2026-09-02T11:18:46Z | [open](../records/photography-tom94-tev-6cd73e6b.md) |
+| Tom94/tev | partial | 2026-09-11T02:17:54Z | [open](../records/photography-tom94-tev-6cd73e6b.md) |
 | wasabeef/Blurry | partial | 2023-04-27T15:54:45Z | [open](../records/photography-wasabeef-blurry-72cc1c82.md) |
 | wenbihan/reproducible-image-denoising-state-of-the-art | partial | 2021-12-05T04:47:48Z | [open](../records/photography-wenbihan-reproducible-image-denoising-state-of-the-art-afbd15f3.md) |
 | xuebinqin/U-2-Net | partial | 2024-06-26T04:16:45Z | [open](../records/photography-xuebinqin-u-2-net-f731a08c.md) |
