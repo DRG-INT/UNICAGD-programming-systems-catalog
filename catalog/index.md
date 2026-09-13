@@ -1,19 +1,19 @@
 # Catalog Index
 
-Generated: `2026-09-13T17:19:30+00:00`
+Generated: `2026-09-13T18:24:17+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
-[Api Abi Checker (237)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (65)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6145)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
@@ -37,8 +37,8 @@ Generated: `2026-09-13T17:19:30+00:00`
 | Node.js/JavaScript | 2459 | 2382 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 392 | 352 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 2124 | 2124 | [R](by-language/r.md) |
-| Haskell | 1742 | 1733 | [Haskell](by-language/haskell.md) |
+| R | 2125 | 2125 | [R](by-language/r.md) |
+| Haskell | 1742 | 1732 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -72,7 +72,7 @@ Generated: `2026-09-13T17:19:30+00:00`
 | Radars | 365 | 0 | [Radars](by-language/radars.md) |
 | SatCom Satellites | 326 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 499 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
-| Radio Garden Speciality | 129 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
+| Radio Garden Speciality | 130 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
 | Repertoare Catalogs | 192 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
 | Catalogs | 285 | 0 | [Catalogs](by-language/catalogs.md) |
 | Magazines | 342 | 0 | [Magazines](by-language/magazines.md) |
@@ -92,7 +92,7 @@ Generated: `2026-09-13T17:19:30+00:00`
 
 | Category | Records | Page |
 | --- | ---: | --- |
-| Api Abi Checker | 237 | [api_abi_checker](by-category/api-abi-checker.md) |
+| Api Abi Checker | 238 | [api_abi_checker](by-category/api-abi-checker.md) |
 | Api Doc Generator | 12 | [api_doc_generator](by-category/api-doc-generator.md) |
 | Assertion Mocking | 46 | [assertion_mocking](by-category/assertion-mocking.md) |
 | Async Runtime | 139 | [async_runtime](by-category/async-runtime.md) |
@@ -121,7 +121,7 @@ Generated: `2026-09-13T17:19:30+00:00`
 | Filesystem Os | 1724 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 670 | [formatter](by-category/formatter.md) |
 | Framework | 64 | [framework](by-category/framework.md) |
-| Fuzzer | 65 | [fuzzer](by-category/fuzzer.md) |
+| Fuzzer | 66 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 377 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
 | Ide Editor Integration | 1516 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 451 | [image_audio_dsp](by-category/image-audio-dsp.md) |
@@ -174,8 +174,8 @@ Generated: `2026-09-13T17:19:30+00:00`
 | Node.js/JavaScript | 2382 | 77 |
 | Node.js/TypeScript | 352 | 40 |
 | Lua family | 0 | 1937 |
-| R | 2124 | 0 |
-| Haskell | 1733 | 9 |
+| R | 2125 | 0 |
+| Haskell | 1732 | 10 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
@@ -209,7 +209,7 @@ Generated: `2026-09-13T17:19:30+00:00`
 | Radars | 0 | 365 |
 | SatCom Satellites | 0 | 326 |
 | Electromagnetoscopes | 0 | 499 |
-| Radio Garden Speciality | 0 | 129 |
+| Radio Garden Speciality | 0 | 130 |
 | Repertoare Catalogs | 0 | 192 |
 | Catalogs | 0 | 285 |
 | Magazines | 0 | 342 |

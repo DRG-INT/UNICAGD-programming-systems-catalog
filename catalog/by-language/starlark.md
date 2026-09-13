@@ -8,14 +8,14 @@ Records: `69`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -42,7 +42,7 @@ Records: `69`
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-11T17:13:45Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-12T17:02:10Z | registry-derived |
-| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-11T17:59:41Z | registry-derived |
+| [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-13T17:30:46Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
 | [bazelbuild/rules_cc](../records/starlark-bazelbuild-rules-cc-39327329.md) | partial | 2026-09-10T21:44:51Z | registry-derived |
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
@@ -52,7 +52,7 @@ Records: `69`
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
 | [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-10T16:58:44Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |
-| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-13T05:40:42Z | registry-derived |
+| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-13T17:54:55Z | registry-derived |
 | [jin/awesome-bazel](../records/starlark-jin-awesome-bazel-fd38a6d9.md) | partial | 2024-11-13T07:46:30Z | registry-derived |
 | [line/rules_apple_line](../records/starlark-line-rules-apple-line-d48892df.md) | partial | 2023-03-20T22:34:01Z | registry-derived |
 | [maxmcd/bramble](../records/starlark-maxmcd-bramble-bcb99fb7.md) | partial | 2023-03-29T14:47:53Z | registry-derived |

@@ -8,14 +8,14 @@ Records: `670`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · **[Formatter (670)](formatter.md)**
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -495,7 +495,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| archive | 4.2.0 | 2026-08-22T21:08:11.409906Z | [open](../records/dart-archive-707387f9.md) |
+| archive | 4.3.0 | 2026-09-13T17:42:33.821730Z | [open](../records/dart-archive-707387f9.md) |
 | battery_plus | 7.1.1 | 2026-07-15T11:32:14.925846Z | [open](../records/dart-battery-plus-d0854517.md) |
 | brasil_fields | 1.19.0 | 2026-03-30T13:57:34.775340Z | [open](../records/dart-brasil-fields-a5208df0.md) |
 | camera_web | 0.3.5+6 | 2026-09-08T23:48:51.434297Z | [open](../records/dart-camera-web-88f0b605.md) |
@@ -505,7 +505,7 @@ Records: `670`
 | flutter_markdown_plus | 1.0.12 | 2026-07-10T13:15:36.975506Z | [open](../records/dart-flutter-markdown-plus-b685f3ff.md) |
 | flutter_multi_formatter | 2.13.11 | 2026-05-17T16:06:36.018656Z | [open](../records/dart-flutter-multi-formatter-81896931.md) |
 | http_parser | 4.1.2 | 2025-01-02T18:37:12.729308Z | [open](../records/dart-http-parser-b9f650ad.md) |
-| image | 4.9.2 | 2026-08-19T03:08:40.747659Z | [open](../records/dart-image-cc352620.md) |
+| image | 4.10.0 | 2026-09-13T17:58:07.443565Z | [open](../records/dart-image-cc352620.md) |
 | intl | 0.20.3 | 2026-06-25T09:21:11.857146Z | [open](../records/dart-intl-d90bad2b.md) |
 | intl_phone_number_input | 0.7.5 | 2025-09-19T10:02:48.979345Z | [open](../records/dart-intl-phone-number-input-dcfa5905.md) |
 | jiffy | 6.4.5 | 2026-06-01T16:35:08.382931Z | [open](../records/dart-jiffy-c60b6c1d.md) |

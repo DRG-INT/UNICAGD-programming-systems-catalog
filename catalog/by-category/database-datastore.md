@@ -8,14 +8,14 @@ Records: `983`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · **[Database Datastore (983)](database-datastore.md)** · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -1186,7 +1186,7 @@ Records: `983`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-12T14:30:37.673Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-12T02:09:09.779Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-13T15:27:04.247Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-13T17:36:27.755Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-13T14:54:56.664Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |

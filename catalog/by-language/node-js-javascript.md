@@ -8,14 +8,14 @@ Records: `2459`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -2302,7 +2302,7 @@ Records: `2459`
 | [@tellescope/testing](../records/node-js-javascript-tellescope-testing-59848a2c.md) | 1.256.16 | 2026-09-10T21:42:35.691Z | registry-derived |
 | [@testing-library/angular](../records/node-js-javascript-testing-library-angular-00401ff1.md) | 19.5.0 | 2026-09-09T19:24:10.046Z | registry-derived |
 | [@testing-library/cypress](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) | 10.1.3 | 2026-04-29T16:38:28.373Z | registry-derived |
-| [@testing-library/dom](../records/node-js-javascript-testing-library-dom-98afebf0.md) | 10.4.1 | 2025-07-27T13:23:37.151Z | registry-derived |
+| [@testing-library/dom](../records/node-js-javascript-testing-library-dom-98afebf0.md) | 10.4.2 | 2026-09-13T18:08:36.116Z | registry-derived |
 | [@testing-library/jasmine-dom](../records/node-js-javascript-testing-library-jasmine-dom-c8bb9eef.md) | 1.3.3 | 2023-01-23T15:35:08.204Z | registry-derived |
 | [@testing-library/preact](../records/node-js-javascript-testing-library-preact-414a3191.md) | 3.2.4 | 2024-05-27T13:59:47.668Z | registry-derived |
 | [@testing-library/preact-hooks](../records/node-js-javascript-testing-library-preact-hooks-2a7ae0a2.md) | 1.1.0 | 2020-09-28T11:01:58.836Z | registry-derived |

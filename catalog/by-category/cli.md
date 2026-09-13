@@ -8,14 +8,14 @@ Records: `603`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · **[Cli (603)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -550,10 +550,10 @@ Records: `603`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-13T15:29:11Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T17:18:48Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T17:16:08Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T18:22:24Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -688,7 +688,7 @@ Records: `603`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bjarneo/cliamp | partial | 2026-09-12T19:18:30Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| bjarneo/cliamp | partial | 2026-09-13T18:18:15Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | dpnkrpl/radio-active | partial | 2026-06-30T15:34:15Z | [open](../records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
 | geo-tp/ESP32-Bit-Pirate | partial | 2026-09-12T17:40:17Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |

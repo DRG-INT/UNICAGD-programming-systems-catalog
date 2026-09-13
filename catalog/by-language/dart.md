@@ -8,14 +8,14 @@ Records: `768`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -365,7 +365,7 @@ Records: `768`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [archive](../records/dart-archive-707387f9.md) | 4.2.0 | 2026-08-22T21:08:11.409906Z | registry-derived |
+| [archive](../records/dart-archive-707387f9.md) | 4.3.0 | 2026-09-13T17:42:33.821730Z | registry-derived |
 | [battery_plus](../records/dart-battery-plus-d0854517.md) | 7.1.1 | 2026-07-15T11:32:14.925846Z | registry-derived |
 | [brasil_fields](../records/dart-brasil-fields-a5208df0.md) | 1.19.0 | 2026-03-30T13:57:34.775340Z | registry-derived |
 | [camera_web](../records/dart-camera-web-88f0b605.md) | 0.3.5+6 | 2026-09-08T23:48:51.434297Z | registry-derived |
@@ -375,7 +375,7 @@ Records: `768`
 | [flutter_markdown_plus](../records/dart-flutter-markdown-plus-b685f3ff.md) | 1.0.12 | 2026-07-10T13:15:36.975506Z | registry-derived |
 | [flutter_multi_formatter](../records/dart-flutter-multi-formatter-81896931.md) | 2.13.11 | 2026-05-17T16:06:36.018656Z | registry-derived |
 | [http_parser](../records/dart-http-parser-b9f650ad.md) | 4.1.2 | 2025-01-02T18:37:12.729308Z | registry-derived |
-| [image](../records/dart-image-cc352620.md) | 4.9.2 | 2026-08-19T03:08:40.747659Z | registry-derived |
+| [image](../records/dart-image-cc352620.md) | 4.10.0 | 2026-09-13T17:58:07.443565Z | registry-derived |
 | [intl](../records/dart-intl-d90bad2b.md) | 0.20.3 | 2026-06-25T09:21:11.857146Z | registry-derived |
 | [intl_phone_number_input](../records/dart-intl-phone-number-input-dcfa5905.md) | 0.7.5 | 2025-09-19T10:02:48.979345Z | registry-derived |
 | [jiffy](../records/dart-jiffy-c60b6c1d.md) | 6.4.5 | 2026-06-01T16:35:08.382931Z | registry-derived |

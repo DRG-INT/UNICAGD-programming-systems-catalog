@@ -8,14 +8,14 @@ Records: `652`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -239,7 +239,7 @@ Records: `652`
 | @tellescope/testing | 1.256.16 | 2026-09-10T21:42:35.691Z | [open](../records/node-js-javascript-tellescope-testing-59848a2c.md) |
 | @testing-library/angular | 19.5.0 | 2026-09-09T19:24:10.046Z | [open](../records/node-js-javascript-testing-library-angular-00401ff1.md) |
 | @testing-library/cypress | 10.1.3 | 2026-04-29T16:38:28.373Z | [open](../records/node-js-javascript-testing-library-cypress-7b6684d4.md) |
-| @testing-library/dom | 10.4.1 | 2025-07-27T13:23:37.151Z | [open](../records/node-js-javascript-testing-library-dom-98afebf0.md) |
+| @testing-library/dom | 10.4.2 | 2026-09-13T18:08:36.116Z | [open](../records/node-js-javascript-testing-library-dom-98afebf0.md) |
 | @testing-library/jasmine-dom | 1.3.3 | 2023-01-23T15:35:08.204Z | [open](../records/node-js-javascript-testing-library-jasmine-dom-c8bb9eef.md) |
 | @testing-library/preact | 3.2.4 | 2024-05-27T13:59:47.668Z | [open](../records/node-js-javascript-testing-library-preact-414a3191.md) |
 | @testing-library/preact-hooks | 1.1.0 | 2020-09-28T11:01:58.836Z | [open](../records/node-js-javascript-testing-library-preact-hooks-2a7ae0a2.md) |

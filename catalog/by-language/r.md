@@ -1,6 +1,6 @@
 # R
 
-Records: `2124`
+Records: `2125`
 
 ## Navigation
 
@@ -8,14 +8,14 @@ Records: `2124`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -87,6 +87,7 @@ Records: `2124`
 | [sfOpenData](../records/r-sfopendata-54f15ccf.md) | 0.1.2 | 2026-09-08 12:30:11 UTC | registry-derived |
 | [sidrar](../records/r-sidrar-e10f28e7.md) | 0.5.0 | 2026-08-26 02:20:03 UTC | registry-derived |
 | [stablelearner](../records/r-stablelearner-37956346.md) | 0.1-9 | 2026-08-28 07:20:02 UTC | registry-derived |
+| [stbl](../records/r-stbl-be0c4636.md) | 0.5.0 | 2026-09-13 16:20:02 UTC | registry-derived |
 | [StressCensoR](../records/r-stresscensor-d72438e2.md) | 0.1.0 | 2026-08-05 06:40:23 UTC | registry-derived |
 | [td](../records/r-td-4d67ec6c.md) | 0.0.7 | 2026-09-13 13:30:02 UTC | registry-derived |
 | [tesouror](../records/r-tesouror-0a7b94e7.md) | 0.3.1 | 2026-09-12 02:20:02 UTC | registry-derived |
@@ -1992,7 +1993,7 @@ Records: `2124`
 | [dbscan](../records/r-dbscan-ef4d1dc6.md) | 1.2.6 | 2026-08-25 21:20:13 UTC | registry-derived |
 | [DEA](../records/r-dea-51743a1e.md) | 1.0.0 | 2026-09-10 08:40:02 UTC | registry-derived |
 | [debtkit](../records/r-debtkit-af780050.md) | 0.1.3 | 2026-09-08 07:20:16 UTC | registry-derived |
-| [dexisensitivity](../records/r-dexisensitivity-75615f88.md) | 1.0.3 | 2026-08-30 10:50:02 UTC | registry-derived |
+| [dexisensitivity](../records/r-dexisensitivity-75615f88.md) | 1.0.4 | 2026-09-13 17:30:02 UTC | registry-derived |
 | [diffwrap](../records/r-diffwrap-0eca617e.md) | 0.6-3 | 2026-08-30 09:10:19 UTC | registry-derived |
 | [Directional](../records/r-directional-45bf5156.md) | 7.8 | 2026-09-02 12:20:22 UTC | registry-derived |
 | [DLCA](../records/r-dlca-172e032d.md) | 1.1 | 2026-08-21 09:10:02 UTC | registry-derived |

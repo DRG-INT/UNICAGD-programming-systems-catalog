@@ -8,14 +8,14 @@ Records: `1243`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -666,7 +666,7 @@ Records: `1243`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-13T16:18:30Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-13T17:43:09Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-13T17:05:48Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-13T11:40:47Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
@@ -1310,7 +1310,7 @@ Records: `1243`
 | flexcompute/tidy3d | partial | 2026-08-07T07:32:11Z | [open](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) |
 | Gjacquenot/Puma-EM | partial | 2020-09-12T13:09:29Z | [open](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) |
 | libretime/libretime | partial | 2026-09-11T00:23:52Z | [open](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) |
-| meshtastic/Meshtastic-Android | partial | 2026-09-13T01:24:41Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
+| meshtastic/Meshtastic-Android | partial | 2026-09-13T16:52:11Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | ocastilloreyes/petgem | partial | 2026-07-30T08:00:28Z | [open](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) |
 | pagermon/pagermon | partial | 2026-08-04T22:51:57Z | [open](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) |
 | psyb0t/piraterf | partial | 2026-08-01T19:49:42Z | [open](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) |

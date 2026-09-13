@@ -8,14 +8,14 @@ Records: `866`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · **[Machine Learning (866)](machine-learning.md)**
@@ -528,11 +528,11 @@ Records: `866`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T17:14:09Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T18:22:11Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-13T10:19:29Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T16:26:08Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T18:04:31Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -542,7 +542,7 @@ Records: `866`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T17:03:54Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-13T18:21:32Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -909,7 +909,7 @@ Records: `866`
 | --- | --- | --- | --- |
 | BigBodyCobain/Shadowbroker | partial | 2026-09-10T07:24:47Z | [open](../records/satcom-satellites-bigbodycobain-shadowbroker-e01d6138.md) |
 | doersino/google-maps-at-88-mph | partial | 2026-08-02T07:22:11Z | [open](../records/satcom-satellites-doersino-google-maps-at-88-mph-7a0794db.md) |
-| Flowm/satvis | partial | 2026-08-27T03:46:41Z | [open](../records/satcom-satellites-flowm-satvis-63649809.md) |
+| Flowm/satvis | partial | 2026-09-13T16:16:00Z | [open](../records/satcom-satellites-flowm-satvis-63649809.md) |
 | maia-sdr/maia-sdr | partial | 2026-04-27T10:38:39Z | [open](../records/satcom-satellites-maia-sdr-maia-sdr-69bb3f0a.md) |
 | Soul-AILab/SoulX-Transcriber | partial | 2026-06-22T04:21:40Z | [open](../records/satcom-satellites-soul-ailab-soulx-transcriber-80b73c2b.md) |
 | SysSec-KAIST/LTESniffer | partial | 2024-10-23T16:48:32Z | [open](../records/satcom-satellites-syssec-kaist-ltesniffer-4e2fb4dd.md) |
@@ -920,7 +920,7 @@ Records: `866`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 1ove9/antenna-forge | partial | 2026-06-01T09:11:25Z | [open](../records/electromagnetoscopes-1ove9-antenna-forge-919a534b.md) |
-| BigBodyCobain/Shadowbroker | partial | 2026-09-12T22:02:32Z | [open](../records/electromagnetoscopes-bigbodycobain-shadowbroker-197c47b8.md) |
+| BigBodyCobain/Shadowbroker | partial | 2026-09-13T08:52:10Z | [open](../records/electromagnetoscopes-bigbodycobain-shadowbroker-197c47b8.md) |
 | Blaarkies/ksp-visual-calculator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-blaarkies-ksp-visual-calculator-aabfb7be.md) |
 | bsumlin/PyMieScatt | partial | 2025-09-19T16:27:47Z | [open](../records/electromagnetoscopes-bsumlin-pymiescatt-d4db2fe9.md) |
 | CaptainCodeman/svelte-headlessui | partial | 2025-01-26T21:43:39Z | [open](../records/electromagnetoscopes-captaincodeman-svelte-headlessui-b148d1ce.md) |
@@ -1001,7 +1001,7 @@ Records: `866`
 | --- | --- | --- | --- |
 | Chris1sFlaggin/LCSAJdump | partial | 2026-06-22T08:17:14Z | [open](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) |
 | coderaiser/nemesis | partial | 2026-02-08T13:40:01Z | [open](../records/assembly-coderaiser-nemesis-87becb25.md) |
-| gbdev/rgbds | partial | 2026-09-12T21:58:37Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| gbdev/rgbds | partial | 2026-09-13T17:18:24Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
 | giacomo-folli/asmlings | partial | 2026-07-22T12:52:18Z | [open](../records/assembly-giacomo-folli-asmlings-14c668aa.md) |
 | jishanshaikh4/8086-cheatsheet | partial | 2022-10-02T05:33:54Z | [open](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | NtRaiseHardError/Reverse-Engineering-101 | partial | 2019-06-02T00:50:14Z | [open](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) |

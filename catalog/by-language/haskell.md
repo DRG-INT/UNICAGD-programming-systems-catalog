@@ -8,14 +8,14 @@ Records: `1742`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -934,7 +934,7 @@ Records: `1742`
 | [holidays](../records/haskell-holidays-31df113d.md) | 0.4.0.1 | 2026-09-13T13:14:57Z | registry-derived |
 | [hoogle](../records/haskell-hoogle-972b6dba.md) | 5.0.19.0 | 2026-01-19T20:38:58Z | registry-derived |
 | [hoopl](../records/haskell-hoopl-0b4ca46a.md) | 3.10.2.2 | 2017-10-29T03:38:52Z | registry-derived |
-| [hOpenPGP](../records/haskell-hopenpgp-dbd93565.md) | 3.7.1 | 2026-09-10T16:41:24Z | registry-derived |
+| [hOpenPGP](../records/haskell-hopenpgp-dbd93565.md) | 3.7.2 | 2026-09-13T18:04:23Z | registry-derived |
 | [hopenpgp-tools](../records/haskell-hopenpgp-tools-39a59dde.md) | 0.26 | 2026-09-08T22:58:04Z | registry-derived |
 | [hourglass](../records/haskell-hourglass-ed0a22e4.md) | 0.2.12 | 2018-08-24T19:46:48Z | registry-derived |
 | [hpack](../records/haskell-hpack-d2b641d5.md) | 0.39.6 | 2026-06-06T21:52:03Z | registry-derived |
@@ -1564,7 +1564,7 @@ Records: `1742`
 | [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | 1.6.1.3 | 2026-06-16T20:33:50Z | registry-derived |
 | [yi](../records/haskell-yi-3b78b64a.md) | 0.19.3 | 2024-11-01T13:06:18Z | registry-derived |
 | [yi-rope](../records/haskell-yi-rope-84a7e8d9.md) | 0.11 | 2018-06-06T20:58:47Z | registry-derived |
-| [yst](../records/haskell-yst-e5c97f24.md) | 0.7.2 | 2023-02-04T19:31:44Z | registry-derived |
+| [yst](../records/haskell-yst-e5c97f24.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-IO](../records/haskell-z-io-e37841a7.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [zeolite-lang](../records/haskell-zeolite-lang-121149cb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
@@ -1889,7 +1889,7 @@ Records: `1742`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [dhscanner-kbapi](../records/haskell-dhscanner-kbapi-560b5666.md) | 1.0.6 | 2026-09-13T13:30:14Z | registry-derived |
+| [dhscanner-kbapi](../records/haskell-dhscanner-kbapi-560b5666.md) | 1.0.7 | 2026-09-13T16:58:38Z | registry-derived |
 | [dhscanner-kbgen](../records/haskell-dhscanner-kbgen-81d7d915.md) | 1.3.0 | 2026-08-29T13:22:19Z | registry-derived |
 | [ethereum-analyzer](../records/haskell-ethereum-analyzer-919d0df7.md) | 3.3.4 | 2017-12-25T23:31:58Z | registry-derived |
 | [ethereum-analyzer-deps](../records/haskell-ethereum-analyzer-deps-0fa0e117.md) | 3.3.4 | 2017-12-25T23:32:25Z | registry-derived |

@@ -17,11 +17,11 @@
 | Source type | registry_expansion |
 | Verification | registry-derived |
 | Canonical URL | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) |
-| Source record ids | hackage_top_downloads-6f6d58eea7fc96 |
+| Source record ids | hackage_recent-6f6d58eea7fc96 |
 
 ## System Engineer Summary
 
-Hackage package with 246 recent downloads in the Hackage top-downloads listing.
+Hackage package recently uploaded by ClintAdams.
 
 ## Operational Role
 
@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.7.1 | 2026-09-10T16:41:24Z | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) |  |
-| candidate | partial | 2.6.1 |  | [https://hackage.haskell.org/package/hOpenPGP](https://hackage.haskell.org/package/hOpenPGP) | hackage_candidate_date_missing |
+| stable | known | 3.7.2 | 2026-09-13T18:04:23Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/hOpenPGP` at `2026-09-11T12:28:51+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-13T18:21:37+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| hackage_top_downloads | registry-derived | 2026-09-13 | `{"kind": "hackage_top_downloads", "retrieved": "2026-09-13", "status": "registry-derived"}` |
+| hackage_recent_uploads | registry-derived | 2026-09-13 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-13", "status": "registry-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 Evidence records merged into this identity: `1`.
 
-- `hackage_top_downloads-6f6d58eea7fc96` from `hackage_top_downloads` as `registry_expansion`
+- `hackage_recent-6f6d58eea7fc96` from `hackage_recent` as `registry_expansion`
 
 </details>
 
@@ -87,14 +87,14 @@ Evidence records merged into this identity: `1`.
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · **[Library (6145)](../by-category/library.md)** · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)

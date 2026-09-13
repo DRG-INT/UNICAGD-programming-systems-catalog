@@ -32,7 +32,7 @@ unit/integration validation, regression protection, and release confidence.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 10.4.1 | 2025-07-27T13:23:37.151Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 10.4.2 | 2026-09-13T18:08:36.116Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ unit/integration validation, regression protection, and release confidence.
 
 - Treat category as `testing_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-01T02:12:58+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-13T18:21:28+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance
@@ -88,14 +88,14 @@ Evidence records merged into this identity: `2`.
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)

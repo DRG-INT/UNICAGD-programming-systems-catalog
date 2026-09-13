@@ -8,14 +8,14 @@ Records: `1041`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · **[Build System (1041)](build-system.md)** · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -647,7 +647,7 @@ Records: `1041`
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T17:02:10Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
-| bazel-contrib/rules_scala | partial | 2026-09-11T17:59:41Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
+| bazel-contrib/rules_scala | partial | 2026-09-13T17:30:46Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | bazelbuild/rules_cc | partial | 2026-09-10T21:44:51Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
@@ -657,7 +657,7 @@ Records: `1041`
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-10T16:58:44Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
-| facebookincubator/reindeer | partial | 2026-09-13T05:40:42Z | [open](../records/starlark-facebookincubator-reindeer-e957d783.md) |
+| facebookincubator/reindeer | partial | 2026-09-13T17:54:55Z | [open](../records/starlark-facebookincubator-reindeer-e957d783.md) |
 | jin/awesome-bazel | partial | 2024-11-13T07:46:30Z | [open](../records/starlark-jin-awesome-bazel-fd38a6d9.md) |
 | line/rules_apple_line | partial | 2023-03-20T22:34:01Z | [open](../records/starlark-line-rules-apple-line-d48892df.md) |
 | maxmcd/bramble | partial | 2023-03-29T14:47:53Z | [open](../records/starlark-maxmcd-bramble-bcb99fb7.md) |
@@ -686,7 +686,7 @@ Records: `1041`
 | agentscope-ai/agentscope | partial | 2026-09-11T10:45:15Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | ComposioHQ/composio | partial | 2026-09-13T16:24:03Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-13T17:16:32Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-13T18:11:21Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T22:03:31Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |

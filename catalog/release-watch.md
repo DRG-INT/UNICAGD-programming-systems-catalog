@@ -1,19 +1,19 @@
 # Release Watch
 
-Generated: `2026-09-13T17:19:30+00:00`
+Generated: `2026-09-13T18:24:17+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (237)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (65)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6145)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
@@ -29,19 +29,23 @@ Generated: `2026-09-13T17:19:30+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10937 |
-| Unknown stable release | 18266 |
+| Unknown stable release | 18268 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @testing-library/dom | Node.js/JavaScript | Testing Framework | 10.4.2 | 2026-09-13T18:08:36.116Z | [open](records/node-js-javascript-testing-library-dom-98afebf0.md) |
+| hOpenPGP | Haskell | Library | 3.7.2 | 2026-09-13T18:04:23Z | [open](records/haskell-hopenpgp-dbd93565.md) |
+| image | Dart | Formatter | 4.10.0 | 2026-09-13T17:58:07.443565Z | [open](records/dart-image-cc352620.md) |
+| archive | Dart | Formatter | 4.3.0 | 2026-09-13T17:42:33.821730Z | [open](records/dart-archive-707387f9.md) |
+| dhscanner-kbapi | Haskell | Static Analyzer | 1.0.7 | 2026-09-13T16:58:38Z | [open](records/haskell-dhscanner-kbapi-560b5666.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.307 | 2026-09-13T16:05:31.695Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
 | okf-cli | Haskell | Cli | 0.9.0.0 | 2026-09-13T15:37:30Z | [open](records/haskell-okf-cli-6db274d3.md) |
 | okf-core | Haskell | Library | 0.9.0.0 | 2026-09-13T15:28:53Z | [open](records/haskell-okf-core-e6ee8554.md) |
 | solana-haskell-sdk | Haskell | Library | 1.3.0.0 | 2026-09-13T13:55:41Z | [open](records/haskell-solana-haskell-sdk-15c481f5.md) |
 | ureq | Rust | Networking Http | 3.4.2 | 2026-09-13T13:47:40.862114Z | [open](records/rust-ureq-552a6979.md) |
 | cue | Dart | Filesystem Os | 0.4.0 | 2026-09-13T13:44:04.493612Z | [open](records/dart-cue-4be55d38.md) |
-| dhscanner-kbapi | Haskell | Static Analyzer | 1.0.6 | 2026-09-13T13:30:14Z | [open](records/haskell-dhscanner-kbapi-560b5666.md) |
 | @tanstack/react-start-rsc | Node.js/JavaScript | Web Framework | 0.1.52 | 2026-09-13T13:19:32.045Z | [open](records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) |
 | holidays | Haskell | Library | 0.4.0.1 | 2026-09-13T13:14:57Z | [open](records/haskell-holidays-31df113d.md) |
 | ureq-proto | Rust | Library | 0.6.3 | 2026-09-13T13:08:39.031889Z | [open](records/rust-ureq-proto-d61deb16.md) |
@@ -81,6 +85,8 @@ Generated: `2026-09-13T17:19:30+00:00`
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| dexisensitivity | R | Static Analyzer | 1.0.4 | 2026-09-13 17:30:02 UTC | [open](records/r-dexisensitivity-75615f88.md) |
+| stbl | R | Api Abi Checker | 0.5.0 | 2026-09-13 16:20:02 UTC | [open](records/r-stbl-be0c4636.md) |
 | calibrator | R | Library | 1.2-9 | 2026-09-13 15:40:02 UTC | [open](records/r-calibrator-39e05c33.md) |
 | historicalborrowlong | R | Library | 0.1.1 | 2026-09-13 15:30:02 UTC | [open](records/r-historicalborrowlong-9ea56226.md) |
 | glmtlp | R | Library | 2.0.3 | 2026-09-13 15:20:02 UTC | [open](records/r-glmtlp-cee3dcfa.md) |
@@ -279,18 +285,12 @@ Generated: `2026-09-13T17:19:30+00:00`
 | bluefin-internal | Haskell | Library | 0.8.1.0 | 2026-09-11T12:11:41Z | [open](records/haskell-bluefin-internal-be13a89f.md) |
 | @orkestrel/database | Node.js/JavaScript | Database Datastore | 0.0.14 | 2026-09-11T12:06:07.549Z | [open](records/node-js-javascript-orkestrel-database-a6080967.md) |
 | protobuf | Dart | Interpreter Runtime | 6.1.0 | 2026-09-11T11:58:15.235407Z | [open](records/dart-protobuf-7bdc6c86.md) |
-| @apify/actors-mcp-server | Node.js/JavaScript | Web Framework | 0.15.7 | 2026-09-11T11:39:01.733Z | [open](records/node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
-| @expo/cli | Node.js/JavaScript | Cli | 57.0.24 | 2026-09-11T11:32:24.741Z | [open](records/node-js-javascript-expo-cli-22f34048.md) |
-| expo-sqlite | Node.js/JavaScript | Ide Editor Integration | 57.0.3 | 2026-09-11T11:31:22.884Z | [open](records/node-js-javascript-expo-sqlite-49d6a6b7.md) |
-| live_activities | Dart | Filesystem Os | 2.6.0 | 2026-09-11T11:25:26.920426Z | [open](records/dart-live-activities-40c95df6.md) |
-| bump-cli | Node.js/JavaScript | Documentation | 2.11.0 | 2026-09-11T10:55:52.549Z | [open](records/node-js-javascript-bump-cli-cdf340ec.md) |
-| @upstash/context7-mcp | Node.js/JavaScript | Web Framework | 4.1.0 | 2026-09-11T10:51:11.002Z | [open](records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10642 |
+| gh_search_reports_activity_not_release_version | 10643 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -304,7 +304,7 @@ Generated: `2026-09-13T17:19:30+00:00`
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 9 |
+| hackage_top_downloads_page_does_not_include_release_date | 10 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

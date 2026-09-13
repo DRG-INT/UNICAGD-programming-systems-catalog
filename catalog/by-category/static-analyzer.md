@@ -8,14 +8,14 @@ Records: `681`
 
 ## Category Index
 
-[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
@@ -204,7 +204,7 @@ Records: `681`
 | dbscan | 1.2.6 | 2026-08-25 21:20:13 UTC | [open](../records/r-dbscan-ef4d1dc6.md) |
 | DEA | 1.0.0 | 2026-09-10 08:40:02 UTC | [open](../records/r-dea-51743a1e.md) |
 | debtkit | 0.1.3 | 2026-09-08 07:20:16 UTC | [open](../records/r-debtkit-af780050.md) |
-| dexisensitivity | 1.0.3 | 2026-08-30 10:50:02 UTC | [open](../records/r-dexisensitivity-75615f88.md) |
+| dexisensitivity | 1.0.4 | 2026-09-13 17:30:02 UTC | [open](../records/r-dexisensitivity-75615f88.md) |
 | diffwrap | 0.6-3 | 2026-08-30 09:10:19 UTC | [open](../records/r-diffwrap-0eca617e.md) |
 | Directional | 7.8 | 2026-09-02 12:20:22 UTC | [open](../records/r-directional-45bf5156.md) |
 | DLCA | 1.1 | 2026-08-21 09:10:02 UTC | [open](../records/r-dlca-172e032d.md) |
@@ -392,7 +392,7 @@ Records: `681`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dhscanner-kbapi | 1.0.6 | 2026-09-13T13:30:14Z | [open](../records/haskell-dhscanner-kbapi-560b5666.md) |
+| dhscanner-kbapi | 1.0.7 | 2026-09-13T16:58:38Z | [open](../records/haskell-dhscanner-kbapi-560b5666.md) |
 | dhscanner-kbgen | 1.3.0 | 2026-08-29T13:22:19Z | [open](../records/haskell-dhscanner-kbgen-81d7d915.md) |
 | ethereum-analyzer | 3.3.4 | 2017-12-25T23:31:58Z | [open](../records/haskell-ethereum-analyzer-919d0df7.md) |
 | ethereum-analyzer-deps | 3.3.4 | 2017-12-25T23:32:25Z | [open](../records/haskell-ethereum-analyzer-deps-0fa0e117.md) |
@@ -443,7 +443,7 @@ Records: `681`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-13T14:23:51Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-13T18:18:04Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -916,12 +916,12 @@ Records: `681`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-13T13:35:31.573Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-13T16:06:47.791Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-13T17:42:13.758Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-13T17:40:25.691Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-13T08:04:18.809Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
-| internet-cleanup-foundation/web-security-map | partial | 2026-09-11T13:01:53.097Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
+| internet-cleanup-foundation/web-security-map | partial | 2026-09-13T12:59:18.165Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | ngalog-gitlab/openapi_security_scanner | partial | 2021-04-13T23:16:32.701Z | [open](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |
 | projectofst/el-sw/opensource/software10e | partial | 2022-09-01T19:49:17.081Z | [open](../records/repository-workplaces-projectofst-el-sw-opensource-software10e-dd1c6b07.md) |

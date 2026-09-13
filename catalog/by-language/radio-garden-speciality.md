@@ -1,6 +1,6 @@
 # Radio Garden Speciality
 
-Records: `129`
+Records: `130`
 
 ## Navigation
 
@@ -8,14 +8,14 @@ Records: `129`
 
 ## Category Index
 
-[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
@@ -98,7 +98,7 @@ Records: `129`
 | [gre/jardin-sensors](../records/radio-garden-speciality-gre-jardin-sensors-2b5e8c89.md) | partial | 2026-06-17T10:06:56Z | registry-derived |
 | [manwithfeathers/worldradiotuner](../records/radio-garden-speciality-manwithfeathers-worldradiotuner-a04fc050.md) | partial | 2026-06-20T14:01:24Z | registry-derived |
 | [markgrech42-art/Radiotune](../records/radio-garden-speciality-markgrech42-art-radiotune-4ac88c2d.md) | partial | 2026-08-12T09:40:51Z | registry-derived |
-| [steferic/world-radio](../records/radio-garden-speciality-steferic-world-radio-21a7ef08.md) | partial | 2026-09-13T02:08:28Z | registry-derived |
+| [steferic/world-radio](../records/radio-garden-speciality-steferic-world-radio-21a7ef08.md) | partial | 2026-09-13T14:53:35Z | registry-derived |
 
 ### Ffi Bindings
 
@@ -122,6 +122,12 @@ Records: `129`
 | [umshere/Soundgarden](../records/radio-garden-speciality-umshere-soundgarden-9c4ba64c.md) | partial | 2025-10-19T20:15:37Z | registry-derived |
 | [yjosh-dev/radio-garden](../records/radio-garden-speciality-yjosh-dev-radio-garden-37d2f840.md) | partial | 2026-01-31T05:50:44Z | registry-derived |
 | [yongabyte/favorite-radios](../records/radio-garden-speciality-yongabyte-favorite-radios-03ea808b.md) | partial | 2020-10-01T20:06:20Z | registry-derived |
+
+### Fuzzer
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [Zarnya/Global-Radio-Garden](../records/radio-garden-speciality-zarnya-global-radio-garden-c845ac51.md) | partial | 2026-09-13T18:10:33Z | registry-derived |
 
 ### Game Engine Game Dev
 

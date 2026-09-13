@@ -4,14 +4,14 @@
 
 ## Category Index
 
-[Api Abi Checker (237)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (65)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6145)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
@@ -827,6 +827,7 @@
 | `cran_packages_by_date-0277fda8653b74` | GIFT | [open](records/r-gift-df317f6c.md) |
 | `cran_packages_by_date-027b4ed6169839` | RATest | [open](records/r-ratest-d56ae4e0.md) |
 | `cran_packages_by_date-02a699500a7315` | locaR | [open](records/r-locar-7b4de61e.md) |
+| `cran_packages_by_date-02a699ec7a9ccf` | stbl | [open](records/r-stbl-be0c4636.md) |
 | `cran_packages_by_date-02bb864acf61d8` | libr | [open](records/r-libr-8366c85e.md) |
 | `cran_packages_by_date-02c78094a09573` | MGLM | [open](records/r-mglm-e37ae25f.md) |
 | `cran_packages_by_date-03043a4edb07d4` | periscope2 | [open](records/r-periscope2-9286b5bc.md) |
@@ -14001,6 +14002,7 @@
 | `github_search_radio_garden_speciality-b66330a22d0262` | kristofer-astro/kimika-bot | [open](records/radio-garden-speciality-kristofer-astro-kimika-bot-4aaf56d4.md) |
 | `github_search_radio_garden_speciality-b860028bdad58f` | OpenMaker2/RadioGarden | [open](records/radio-garden-speciality-openmaker2-radiogarden-535180cc.md) |
 | `github_search_radio_garden_speciality-b9838d4f0e8d72` | saurabhkaipurkar/Radio_Garden | [open](records/radio-garden-speciality-saurabhkaipurkar-radio-garden-5c7ea192.md) |
+| `github_search_radio_garden_speciality-b9db693e0f9fe2` | Zarnya/Global-Radio-Garden | [open](records/radio-garden-speciality-zarnya-global-radio-garden-c845ac51.md) |
 | `github_search_radio_garden_speciality-bb4ba17f733f8e` | chermenin/radio.G | [open](records/radio-garden-speciality-chermenin-radio-g-9c2b13d4.md) |
 | `github_search_radio_garden_speciality-bc85e77753e6d0` | awaitlol/radio.garden | [open](records/radio-garden-speciality-awaitlol-radio-garden-fc773abe.md) |
 | `github_search_radio_garden_speciality-bd9b4630a1cf35` | yongabyte/favorite-radios | [open](records/radio-garden-speciality-yongabyte-favorite-radios-03ea808b.md) |
@@ -18251,7 +18253,6 @@
 | `hackage_recent-3dac3a6b541303` | dtmc | [open](records/haskell-dtmc-cfd2fdd2.md) |
 | `hackage_recent-4108e47f4dc311` | s2n-tls | [open](records/haskell-s2n-tls-bb330827.md) |
 | `hackage_recent-4307de4136b7d8` | clash-lib-hedgehog | [open](records/haskell-clash-lib-hedgehog-09e86036.md) |
-| `hackage_recent-43e8d05291aea3` | mockcat | [open](records/haskell-mockcat-fdb03bd1.md) |
 | `hackage_recent-47efd10c48c5f2` | mcp-server | [open](records/haskell-mcp-server-4051b88c.md) |
 | `hackage_recent-4991588be3e093` | data-rfc5280 | [open](records/haskell-data-rfc5280-fa027eaf.md) |
 | `hackage_recent-4ae75b98574674` | dhscanner-kbapi | [open](records/haskell-dhscanner-kbapi-560b5666.md) |
@@ -18274,6 +18275,7 @@
 | `hackage_recent-6d6804f387a552` | shikumi-cache | [open](records/haskell-shikumi-cache-b542d89a.md) |
 | `hackage_recent-6d7aceee949008` | baikai-agent | [open](records/haskell-baikai-agent-51cdfaa3.md) |
 | `hackage_recent-6d9e1206b95312` | effectful-core | [open](records/haskell-effectful-core-7289fcb1.md) |
+| `hackage_recent-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_recent-70643b614e9981` | thread-utils-context | [open](records/haskell-thread-utils-context-4cff1f57.md) |
 | `hackage_recent-70822653d85203` | cabal-add | [open](records/haskell-cabal-add-666244f2.md) |
 | `hackage_recent-71ff2166351a35` | rme-what4 | [open](records/haskell-rme-what4-e5f70573.md) |
@@ -18767,6 +18769,7 @@
 | `hackage_top_downloads-431c8c491f22e0` | clash-lib | [open](records/haskell-clash-lib-284f93bb.md) |
 | `hackage_top_downloads-433cbfc4e92ffe` | servant-swagger | [open](records/haskell-servant-swagger-60297cca.md) |
 | `hackage_top_downloads-43bf682fb0533f` | libmpd | [open](records/haskell-libmpd-f33c999e.md) |
+| `hackage_top_downloads-43e8d05291aea3` | mockcat | [open](records/haskell-mockcat-fdb03bd1.md) |
 | `hackage_top_downloads-44088e498ee497` | kit | [open](records/haskell-kit-7fce43bd.md) |
 | `hackage_top_downloads-445a2f03c12286` | rerebase | [open](records/haskell-rerebase-8ef513f5.md) |
 | `hackage_top_downloads-44e5b3ccd6f92c` | wai-app-static | [open](records/haskell-wai-app-static-5fb5045f.md) |
@@ -19009,7 +19012,6 @@
 | `hackage_top_downloads-6f2f7a2b4f34fd` | hakyll-images | [open](records/haskell-hakyll-images-f64f99bf.md) |
 | `hackage_top_downloads-6f600b423be81c` | yesod-markdown | [open](records/haskell-yesod-markdown-8c3c7de7.md) |
 | `hackage_top_downloads-6f6778566cb5e3` | epub-tools | [open](records/haskell-epub-tools-fa26ba0a.md) |
-| `hackage_top_downloads-6f6d58eea7fc96` | hOpenPGP | [open](records/haskell-hopenpgp-dbd93565.md) |
 | `hackage_top_downloads-6fb011a4d833da` | butcher | [open](records/haskell-butcher-ceb9004a.md) |
 | `hackage_top_downloads-6ff04c51ced4ef` | groundhog-th | [open](records/haskell-groundhog-th-95ce5f1b.md) |
 | `hackage_top_downloads-7022895753a5a7` | phoityne-vscode | [open](records/haskell-phoityne-vscode-7dec1bd7.md) |
