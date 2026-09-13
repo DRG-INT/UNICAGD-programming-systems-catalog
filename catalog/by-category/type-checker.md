@@ -17,12 +17,12 @@ Records: `318`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6134)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -149,7 +149,7 @@ Records: `318`
 | @types/lodash | 4.17.25 | 2026-08-01T03:45:21.615Z | [open](../records/node-js-typescript-types-lodash-2fdbea40.md) |
 | @types/mdast | 4.0.4 | 2024-05-14T07:35:37.616Z | [open](../records/node-js-typescript-types-mdast-ec074f5c.md) |
 | @types/ms | 2.1.0 | 2025-01-16T21:02:46.181Z | [open](../records/node-js-typescript-types-ms-4a9c12e9.md) |
-| @types/node | 22.20.2 | 2026-09-09T18:10:54.939Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
+| @types/node | 26.5.1 | 2026-09-09T18:09:34.895Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
 | @types/oauth2-server | 3.0.18 | 2024-09-25T09:08:28.455Z | [open](../records/node-js-typescript-types-oauth2-server-b283557e.md) |
 | @types/passport-http | 0.3.11 | 2023-11-07T12:41:50.203Z | [open](../records/node-js-typescript-types-passport-http-3fa13cd9.md) |
 | @types/passport-http-bearer | 1.0.42 | 2025-09-23T23:32:05.943Z | [open](../records/node-js-typescript-types-passport-http-bearer-c89659f5.md) |

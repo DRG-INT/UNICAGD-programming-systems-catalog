@@ -17,12 +17,12 @@ Records: `392`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6134)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6135)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (679)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -55,7 +55,7 @@ Records: `392`
 | [tsoa](../records/node-js-typescript-tsoa-cb1f29e5.md) | 7.0.0-alpha.0 | 2025-12-14T19:48:12.007Z | npm_registry |
 | [tsup](../records/node-js-typescript-tsup-de7ae094.md) | unknown | not_checked | catalog_seed |
 | [tsx](../records/node-js-typescript-tsx-433003f0.md) | 4.23.13 | 2026-08-30T00:46:16.265Z | registry-derived |
-| [typescript-native-bridge](../records/node-js-typescript-typescript-native-bridge-239029dd.md) | 6.0.3-bridge.16.tsgo.7.0.2 | 2026-09-03T14:38:23.590Z | registry-derived |
+| [typescript-native-bridge](../records/node-js-typescript-typescript-native-bridge-239029dd.md) | 6.0.3-bridge.17.tsgo.7.0.2 | 2026-09-13T08:02:25.982Z | registry-derived |
 | [unbuild](../records/node-js-typescript-unbuild-9eda9e25.md) | unknown | not_checked | unverified_seed |
 
 ### Codegen Codemod Refactoring
@@ -388,7 +388,7 @@ Records: `392`
 | [@types/lodash](../records/node-js-typescript-types-lodash-2fdbea40.md) | 4.17.25 | 2026-08-01T03:45:21.615Z | registry-derived |
 | [@types/mdast](../records/node-js-typescript-types-mdast-ec074f5c.md) | 4.0.4 | 2024-05-14T07:35:37.616Z | registry-derived |
 | [@types/ms](../records/node-js-typescript-types-ms-4a9c12e9.md) | 2.1.0 | 2025-01-16T21:02:46.181Z | registry-derived |
-| [@types/node](../records/node-js-typescript-types-node-45f57646.md) | 22.20.2 | 2026-09-09T18:10:54.939Z | registry-derived |
+| [@types/node](../records/node-js-typescript-types-node-45f57646.md) | 26.5.1 | 2026-09-09T18:09:34.895Z | registry-derived |
 | [@types/oauth2-server](../records/node-js-typescript-types-oauth2-server-b283557e.md) | 3.0.18 | 2024-09-25T09:08:28.455Z | registry-derived |
 | [@types/passport-http](../records/node-js-typescript-types-passport-http-3fa13cd9.md) | 0.3.11 | 2023-11-07T12:41:50.203Z | registry-derived |
 | [@types/passport-http-bearer](../records/node-js-typescript-types-passport-http-bearer-c89659f5.md) | 1.0.42 | 2025-09-23T23:32:05.943Z | registry-derived |

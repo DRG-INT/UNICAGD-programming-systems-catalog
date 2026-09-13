@@ -1,6 +1,6 @@
 # Library
 
-Records: `6134`
+Records: `6135`
 
 ## Navigation
 
@@ -17,12 +17,12 @@ Records: `6134`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6134)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6135)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -2568,6 +2568,7 @@ Records: `6134`
 | CDSS | 1.0-0 | 2026-09-07 08:20:02 UTC | [open](../records/r-cdss-8356f605.md) |
 | cellGeometry | 0.6.4 | 2026-09-07 17:10:02 UTC | [open](../records/r-cellgeometry-af538b65.md) |
 | cfbseedR | 0.2.0 | 2026-09-09 14:50:11 UTC | [open](../records/r-cfbseedr-f65faa29.md) |
+| CGNM | 0.10.0 | 2026-09-13 08:00:02 UTC | [open](../records/r-cgnm-04391c1f.md) |
 | changepointGA | 0.1.6 | 2026-09-13 03:50:02 UTC | [open](../records/r-changepointga-5149066f.md) |
 | checkhelper | 1.0.1 | 2026-08-19 19:10:02 UTC | [open](../records/r-checkhelper-8b7440a8.md) |
 | chessResults | 2026.08.27 | 2026-08-28 07:01:26 UTC | [open](../records/r-chessresults-944d7b5e.md) |
@@ -3192,7 +3193,7 @@ Records: `6134`
 | aeson-extra | 0.5.1.3 | 2023-07-09T15:38:08Z | [open](../records/haskell-aeson-extra-08fc94a1.md) |
 | aeson-pretty | 0.8.11 | 2026-06-21T19:18:17Z | [open](../records/haskell-aeson-pretty-383df2f3.md) |
 | aeson-schema | 0.4.2.0 | 2020-04-09T02:01:22Z | [open](../records/haskell-aeson-schema-792d5420.md) |
-| Agda | 2.8.0.1 | 2026-09-01T13:36:12Z | [open](../records/haskell-agda-2052f829.md) |
+| Agda | 2.8.0.2 | 2026-09-13T07:57:35Z | [open](../records/haskell-agda-2052f829.md) |
 | alarmclock | 0.7.0.7 | 2024-10-29T16:59:26Z | [open](../records/haskell-alarmclock-ce260a31.md) |
 | alex | 3.5.4.2 | 2026-03-22T07:43:16Z | [open](../records/haskell-alex-fbc3014d.md) |
 | algebra | 4.3.1 | 2017-12-25T09:08:34Z | [open](../records/haskell-algebra-5b9a9f14.md) |
@@ -5423,7 +5424,7 @@ Records: `6134`
 | AravisProject/aravis | partial | 2026-08-29T18:14:26Z | [open](../records/photography-aravisproject-aravis-a9a12b71.md) |
 | ardov/hdr-web | partial | 2026-05-22T14:13:56Z | [open](../records/photography-ardov-hdr-web-cd66c2b2.md) |
 | bean-mhm/flim | partial | 2025-11-22T20:35:08Z | [open](../records/photography-bean-mhm-flim-533c21b0.md) |
-| bmachek/lrc-immich-plugin | partial | 2026-09-11T14:41:31Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
+| bmachek/lrc-immich-plugin | partial | 2026-09-13T06:30:37Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
 | brutella/hkcam | partial | 2024-07-01T20:37:02Z | [open](../records/photography-brutella-hkcam-863fb8c7.md) |
 | cadik/TMS | partial | 2026-06-01T11:50:00Z | [open](../records/photography-cadik-tms-33b35c97.md) |
 | Carrottor/WWPlayer | partial | 2026-09-08T12:13:15Z | [open](../records/photography-carrottor-wwplayer-d12266b7.md) |

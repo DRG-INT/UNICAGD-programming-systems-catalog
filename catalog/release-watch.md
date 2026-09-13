@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T07:19:54+00:00`
+Generated: `2026-09-13T08:23:42+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,12 +15,12 @@ Generated: `2026-09-13T07:19:54+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6134)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6135)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (679)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (680)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
@@ -28,13 +28,17 @@ Generated: `2026-09-13T07:19:54+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10919 |
+| Known stable release | 10921 |
 | Unknown stable release | 18252 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| typescript-native-bridge | Node.js/TypeScript | Build System | 6.0.3-bridge.17.tsgo.7.0.2 | 2026-09-13T08:02:25.982Z | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
+| Agda | Haskell | Library | 2.8.0.2 | 2026-09-13T07:57:35Z | [open](records/haskell-agda-2052f829.md) |
+| liquid_glass_widgets | Dart | Filesystem Os | 1.5.0 | 2026-09-13T07:36:08.529640Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
+| flutter_local_notifications | Dart | Filesystem Os | 22.3.1 | 2026-09-13T06:34:48.785139Z | [open](records/dart-flutter-local-notifications-2c4ccd3c.md) |
 | @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.14 | 2026-09-13T06:14:22.586Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.2 | 2026-09-13T06:14:22.240Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
 | @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 2.1.7 | 2026-09-13T06:14:22.212Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
@@ -52,6 +56,8 @@ Generated: `2026-09-13T07:19:54+00:00`
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| CGNM | R | Library | 0.10.0 | 2026-09-13 08:00:02 UTC | [open](records/r-cgnm-04391c1f.md) |
+| TextAnalysisR | R | Static Analyzer | 0.1.5 | 2026-09-13 07:00:02 UTC | [open](records/r-textanalysisr-fd30f41a.md) |
 | libopenexr | R | Image Audio Dsp | 3.4.12-6 | 2026-09-13 06:10:03 UTC | [open](records/r-libopenexr-415f6d9f.md) |
 | languageserver | R | Language Specification | 0.3.19 | 2026-09-13 04:10:02 UTC | [open](records/r-languageserver-309b2ff6.md) |
 | ACSWR | R | Tutorial Book Styleguide | 1.0.1 | 2026-09-13 03:50:09 UTC | [open](records/r-acswr-c9440a83.md) |
@@ -197,6 +203,7 @@ Generated: `2026-09-13T07:19:54+00:00`
 | @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.3.1 | 2026-09-11T19:15:43.050Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
 | @argos-ci/cli | Node.js/JavaScript | Testing Framework | 6.9.3 | 2026-09-11T19:15:21.444Z | [open](records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
 | mockttp | Node.js/JavaScript | Undefined Behavior Analyzer | 4.6.3 | 2026-09-11T19:13:36.581Z | [open](records/node-js-javascript-mockttp-89826f51.md) |
+| @asaidimu/utils-database | Node.js/JavaScript | Database Datastore | 5.0.1 | 2026-09-11T19:09:22.276Z | [open](records/node-js-javascript-asaidimu-utils-database-3c9a1580.md) |
 | aws-sdk-s3 | Rust | Library | 1.146.1 | 2026-09-11T19:08:17.164298Z | [open](records/rust-aws-sdk-s3-e7593d5c.md) |
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1131.0 | 2026-09-11T18:55:20.865Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | actix-server | Rust | Networking Http | 2.9.4 | 2026-09-11T18:41:39.446680Z | [open](records/rust-actix-server-e5a4daec.md) |
@@ -229,7 +236,6 @@ Generated: `2026-09-13T07:19:54+00:00`
 | markup5ever | Rust | Serialization | 0.40.0 | 2026-09-11T14:32:52.685100Z | [open](records/rust-markup5ever-becfce56.md) |
 | skeletonizer | Dart | Visualization Gui | 3.0.0 | 2026-09-11T14:26:38.136632Z | [open](records/dart-skeletonizer-cfc381b3.md) |
 | tricorder | Haskell | Library | 0.2.2.3 | 2026-09-11T13:57:20Z | [open](records/haskell-tricorder-354456ad.md) |
-| liquid_glass_widgets | Dart | Filesystem Os | 1.4.4 | 2026-09-11T13:48:33.895312Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
 | smallvec | Rust | Library | 1.16.1 | 2026-09-11T13:46:31.582594Z | [open](records/rust-smallvec-fae87076.md) |
 | tricorder-mcp | Haskell | Library | 0.1.2.1 | 2026-09-11T13:43:56Z | [open](records/haskell-tricorder-mcp-95664038.md) |
 | sydtest-mutation-driver | Haskell | Testing Framework | 0.2.0.0 | 2026-09-11T13:41:56Z | [open](records/haskell-sydtest-mutation-driver-308dc55e.md) |
@@ -279,12 +285,6 @@ Generated: `2026-09-13T07:19:54+00:00`
 | toml_edit | Rust | Formatter | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](records/rust-toml-edit-d8550b65.md) |
 | @unocss/cli | Node.js/JavaScript | Cli | 66.10.2 | 2026-09-11T01:29:28.485Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
 | code-server | Node.js/JavaScript | Web Framework | 4.137.0 | 2026-09-11T01:18:48.481Z | [open](records/node-js-javascript-code-server-cf26133a.md) |
-| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260911.1 | 2026-09-11T01:16:03.373Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
-| @athenna/database | Node.js/JavaScript | Database Datastore | 5.64.0 | 2026-09-11T01:11:46.885Z | [open](records/node-js-javascript-athenna-database-561068b6.md) |
-| @github/copilot-language-server-win32-x64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:31:07.955Z | [open](records/node-js-javascript-github-copilot-language-server-win32-x64-bfb04d01.md) |
-| @github/copilot-language-server-linux-x64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:28:25.847Z | [open](records/node-js-javascript-github-copilot-language-server-linux-x64-02307b0b.md) |
-| @github/copilot-language-server-darwin-arm64 | Node.js/JavaScript | Language Specification | 1.545.0 | 2026-09-11T00:27:36.385Z | [open](records/node-js-javascript-github-copilot-language-server-darwin-arm64-20bcc86b.md) |
-| yaml-rust2 | Rust | Parser Lexer Ast | 0.13.0 | 2026-09-11T00:00:22.447567Z | [open](records/rust-yaml-rust2-fae38726.md) |
 
 ## Unknown Reasons
 
@@ -314,6 +314,7 @@ Generated: `2026-09-13T07:19:54+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| flutter_appauth | Dart | preview | 13.0.0-dev.1 | 2026-09-13T08:04:49.302492Z | [open](records/dart-flutter-appauth-5be855e9.md) |
 | flutter_rust_bridge | Dart | preview | 2.14.0-beta.2 | 2026-09-12T01:28:35.247741Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | widgetbook | Dart | preview | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [open](records/dart-widgetbook-2f3d1f04.md) |
 | supabase_flutter | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:26.533302Z | [open](records/dart-supabase-flutter-7645000e.md) |
@@ -563,4 +564,3 @@ Generated: `2026-09-13T07:19:54+00:00`
 | github.com/Kmyk/competitive-programming-library | Go | module-preview | v0.0.0-20210829211041-77efa23a69f0 | 2026-08-30T12:53:14.382907Z | [open](records/go-github-com-kmyk-competitive-programming-library-f0b3cfab.md) |
 | github.com/annetutil/gnetcli/examples/netsshsetup | Go | module-preview | v0.0.0-20260829190234-6028097800a8 | 2026-08-30T12:53:00.171757Z | [open](records/go-github-com-annetutil-gnetcli-examples-netsshsetup-fa901aba.md) |
 | github.com/vibrantgio/workbench | Go | module-preview | v0.0.0-20260830112549-a3e36b4de823 | 2026-08-30T12:52:55.908471Z | [open](records/go-github-com-vibrantgio-workbench-38e97b77.md) |
-| github.com/kumparan/cacher | Go | module-preview | v1.23.1-0.20260830125208-962ffb391b33 | 2026-08-30T12:52:41.579585Z | [open](records/go-github-com-kumparan-cacher-403eb036.md) |

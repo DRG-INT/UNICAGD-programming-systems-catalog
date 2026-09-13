@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `679`
+Records: `680`
 
 ## Navigation
 
@@ -17,12 +17,12 @@ Records: `679`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6134)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (679)](static-analyzer.md)**
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (680)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -364,6 +364,7 @@ Records: `679`
 | TaxicabCA | 0.1.2 | 2026-09-07 16:50:10 UTC | [open](../records/r-taxicabca-45154e89.md) |
 | taxodist | 0.7.0 | 2026-08-28 23:00:02 UTC | [open](../records/r-taxodist-e4329e58.md) |
 | terra | 1.9-50 | 2026-09-08 15:50:02 UTC | [open](../records/r-terra-66a7f793.md) |
+| TextAnalysisR | 0.1.5 | 2026-09-13 07:00:02 UTC | [open](../records/r-textanalysisr-fd30f41a.md) |
 | themescopeR | 0.1.1 | 2026-08-20 14:10:02 UTC | [open](../records/r-themescoper-eedc4e53.md) |
 | tidyposterior | 1.1.0 | 2026-09-02 13:30:03 UTC | [open](../records/r-tidyposterior-19a88e56.md) |
 | tidyweather | 0.3.0 | 2026-08-20 10:40:02 UTC | [open](../records/r-tidyweather-eeace04c.md) |
@@ -442,7 +443,7 @@ Records: `679`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | paperless-ngx/paperless-ngx | partial | 2026-09-13T00:58:36Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
-| ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
+| ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T08:11:24Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
 
@@ -596,7 +597,7 @@ Records: `679`
 | aetaric/checkrr | partial | 2026-07-11T16:19:17Z | [open](../records/video-aetaric-checkrr-8332117e.md) |
 | byjlw/video-analyzer | partial | 2026-04-19T19:29:05Z | [open](../records/video-byjlw-video-analyzer-128898c4.md) |
 | rosenbjerg/FFMpegCore | partial | 2025-10-29T13:28:08Z | [open](../records/video-rosenbjerg-ffmpegcore-abd0f842.md) |
-| videoflow/videoflow | partial | 2026-09-12T01:51:07Z | [open](../records/video-videoflow-videoflow-5e9a03c8.md) |
+| videoflow/videoflow | partial | 2026-09-13T02:25:24Z | [open](../records/video-videoflow-videoflow-5e9a03c8.md) |
 
 ## Photography
 
@@ -914,8 +915,8 @@ Records: `679`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-12T20:17:09.658Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-13T06:17:58.737Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-13T06:40:06.680Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-13T07:22:53.491Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-12T08:05:09.242Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

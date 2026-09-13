@@ -17,12 +17,12 @@ Records: `768`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6134)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6135)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (679)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -308,7 +308,7 @@ Records: `768`
 | [flutter_gemma](../records/dart-flutter-gemma-9a6dbd9b.md) | 1.7.2 | 2026-09-06T06:54:53.445318Z | registry-derived |
 | [flutter_keyboard_visibility](../records/dart-flutter-keyboard-visibility-b5ffcede.md) | 7.0.1 | 2026-08-24T02:25:21.264837Z | registry-derived |
 | [flutter_keychain](../records/dart-flutter-keychain-1114ea7d.md) | 3.0.1 | 2026-03-30T12:03:12.684383Z | registry-derived |
-| [flutter_local_notifications](../records/dart-flutter-local-notifications-2c4ccd3c.md) | 22.3.0 | 2026-08-08T08:48:50.612325Z | registry-derived |
+| [flutter_local_notifications](../records/dart-flutter-local-notifications-2c4ccd3c.md) | 22.3.1 | 2026-09-13T06:34:48.785139Z | registry-derived |
 | [flutter_tilt](../records/dart-flutter-tilt-aed1989b.md) | 4.1.0 | 2026-07-29T13:24:38.863077Z | registry-derived |
 | [flutter_tts](../records/dart-flutter-tts-c525b76d.md) | 4.2.5 | 2026-01-05T17:54:55.367504Z | registry-derived |
 | [flutter_udid](../records/dart-flutter-udid-80c330fc.md) | 4.1.6 | 2026-07-14T09:56:51.543948Z | registry-derived |
@@ -322,7 +322,7 @@ Records: `768`
 | [introduction_screen](../records/dart-introduction-screen-08d53b87.md) | 4.0.0 | 2025-08-27T11:12:05.255637Z | registry-derived |
 | [ionicons](../records/dart-ionicons-f135b4db.md) | 0.2.3 | 2026-08-14T11:56:18.816042Z | registry-derived |
 | [liquid_glass_easy](../records/dart-liquid-glass-easy-3f994d7f.md) | 4.3.0 | 2026-09-12T00:44:35.272698Z | registry-derived |
-| [liquid_glass_widgets](../records/dart-liquid-glass-widgets-8954060d.md) | 1.4.4 | 2026-09-11T13:48:33.895312Z | registry-derived |
+| [liquid_glass_widgets](../records/dart-liquid-glass-widgets-8954060d.md) | 1.5.0 | 2026-09-13T07:36:08.529640Z | registry-derived |
 | [live_activities](../records/dart-live-activities-40c95df6.md) | 2.6.0 | 2026-09-11T11:25:26.920426Z | registry-derived |
 | [location](../records/dart-location-a6df9df7.md) | 10.0.2 | 2026-07-23T14:01:26.810867Z | registry-derived |
 | [mailer](../records/dart-mailer-bc4c38b4.md) | 7.2.0 | 2026-07-21T07:21:47.227015Z | registry-derived |
