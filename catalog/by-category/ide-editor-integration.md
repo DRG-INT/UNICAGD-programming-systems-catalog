@@ -17,7 +17,7 @@ Records: `1515`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -694,11 +694,11 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T11:16:45Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T11:34:11Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T10:10:39Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-13T09:31:21Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-13T08:07:25Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T12:18:30Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-13T12:13:18Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-13T12:12:53Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1170,7 +1170,7 @@ Records: `1515`
 | numz/ComfyUI-SeedVR2_VideoUpscaler | partial | 2025-12-24T08:52:32Z | [open](../records/video-numz-comfyui-seedvr2-videoupscaler-5fe4601b.md) |
 | nyanmisaka/ffmpeg-rockchip | partial | 2026-08-10T08:58:55Z | [open](../records/video-nyanmisaka-ffmpeg-rockchip-bcfd437a.md) |
 | octimot/StoryToolkitAI | partial | 2026-07-28T06:37:10Z | [open](../records/video-octimot-storytoolkitai-45c088c7.md) |
-| open-ani/animeko | partial | 2026-09-13T09:36:29Z | [open](../records/video-open-ani-animeko-232bc173.md) |
+| open-ani/animeko | partial | 2026-09-13T12:21:25Z | [open](../records/video-open-ani-animeko-232bc173.md) |
 | opencast/opencast | partial | 2026-09-04T05:12:09Z | [open](../records/video-opencast-opencast-f369afbf.md) |
 | openframeworks/openFrameworks | partial | 2026-09-12T04:38:10Z | [open](../records/video-openframeworks-openframeworks-3f1cb743.md) |
 | openlibrecommunity/olcrtc | partial | 2026-09-05T23:23:54Z | [open](../records/video-openlibrecommunity-olcrtc-37d08706.md) |

@@ -17,7 +17,7 @@ Records: `1243`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1243)](parser-lexer-ast.md)** · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -653,7 +653,7 @@ Records: `1243`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-13T11:10:43Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-13T11:51:09Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -666,9 +666,9 @@ Records: `1243`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-12T07:30:17Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-13T12:07:44Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-13T08:38:06Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-12T13:55:58Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-13T11:40:47Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -998,7 +998,7 @@ Records: `1243`
 | SpiceSharp/SpiceSharpParser | partial | 2026-08-01T17:44:33Z | [open](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/space-maps-starlink-starlink-7f05c3ed.md) |
 | Stellarium/stellarium | partial | 2026-09-13T01:02:50Z | [open](../records/space-maps-stellarium-stellarium-9881eb0a.md) |
-| steveberardi/starplot | partial | 2026-09-12T23:17:54Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
+| steveberardi/starplot | partial | 2026-09-13T12:19:58Z | [open](../records/space-maps-steveberardi-starplot-f953a72c.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/space-maps-stingraysoftware-stingray-96dfde34.md) |
 | sunpy/sunpy | partial | 2026-09-11T18:20:10Z | [open](../records/space-maps-sunpy-sunpy-8e44c814.md) |
 | tbonnardel/rigel | partial | 2020-10-06T17:00:48Z | [open](../records/space-maps-tbonnardel-rigel-9d53d779.md) |

@@ -17,7 +17,7 @@ Records: `308`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -70,13 +70,13 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-13T07:13:00Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-13T12:16:17Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-09-11T18:08:53Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-13T11:18:35Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-13T12:01:49Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -330,7 +330,7 @@ Records: `308`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-11T01:45:58Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-13T11:15:02Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-13T12:15:34Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-07T12:37:33Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-08-27T18:45:27Z | registry-derived |
 
@@ -375,7 +375,7 @@ Records: `308`
 | [ReturnInfinity/Pure64](../records/assembly-returninfinity-pure64-67a8cce1.md) | partial | 2026-06-12T19:29:07Z | registry-derived |
 | [segmentio/asm](../records/assembly-segmentio-asm-07cb5069.md) | partial | 2026-06-25T23:26:52Z | registry-derived |
 | [slembcke/Tina](../records/assembly-slembcke-tina-71c3cf67.md) | partial | 2026-01-08T20:44:16Z | registry-derived |
-| [Stephane-D/SGDK](../records/assembly-stephane-d-sgdk-bad539e3.md) | partial | 2026-08-17T08:47:30Z | registry-derived |
+| [Stephane-D/SGDK](../records/assembly-stephane-d-sgdk-bad539e3.md) | partial | 2026-09-13T11:58:06Z | registry-derived |
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [Thraetaona/EXACT](../records/assembly-thraetaona-exact-bb36746a.md) | partial | 2024-06-13T18:59:42Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-09-08T02:41:41Z | registry-derived |

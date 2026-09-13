@@ -17,7 +17,7 @@ Records: `2458`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -1102,7 +1102,7 @@ Records: `2458`
 | [@sanity/runtime-cli](../records/node-js-javascript-sanity-runtime-cli-727107f0.md) | 17.12.1 | 2026-09-10T18:52:09.986Z | registry-derived |
 | [@typespec/ts-http-runtime](../records/node-js-javascript-typespec-ts-http-runtime-4178f4d2.md) | 0.3.9 | 2026-09-03T17:16:35.239Z | registry-derived |
 | [@vscode/sandbox-runtime](../records/node-js-javascript-vscode-sandbox-runtime-7698def6.md) | 0.0.1 | 2026-05-03T00:01:03.642Z | npm_registry |
-| [@xemahq/biome-database-nest](../records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) | 0.27.0 | 2026-09-12T15:53:33.806Z | registry-derived |
+| [@xemahq/biome-database-nest](../records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) | 0.27.1 | 2026-09-13T12:06:07.208Z | registry-derived |
 | [eslint-plugin-node-security](../records/node-js-javascript-eslint-plugin-node-security-abc03048.md) | 5.2.3 | 2026-08-25T17:59:12.219Z | npm_registry |
 | [mcp-database-server](../records/node-js-javascript-mcp-database-server-46b20f44.md) | 0.1.6 | 2025-09-23T08:21:33.501Z | registry-derived |
 | [Node.js](../records/node-js-javascript-node-js-bb2a7d48.md) | unknown | not_checked | catalog_seed |
@@ -2204,10 +2204,10 @@ Records: `2458`
 | [@alfresco/adf-testing](../records/node-js-javascript-alfresco-adf-testing-65808cb1.md) | 7.0.0-alpha.6 | 2024-11-20T17:10:53.435Z | registry-derived |
 | [@apollo/react-testing](../records/node-js-javascript-apollo-react-testing-111f6dbc.md) | 4.0.0 | 2020-07-20T13:34:15.287Z | registry-derived |
 | [@argos-ci/browser](../records/node-js-javascript-argos-ci-browser-fe19edc4.md) | 6.4.5 | 2026-08-02T12:58:16.403Z | registry-derived |
-| [@argos-ci/cli](../records/node-js-javascript-argos-ci-cli-0a6caec9.md) | 6.9.3 | 2026-09-11T19:15:21.444Z | registry-derived |
-| [@argos-ci/core](../records/node-js-javascript-argos-ci-core-16d6b998.md) | 6.8.4 | 2026-09-11T19:16:13.276Z | registry-derived |
-| [@argos-ci/playwright](../records/node-js-javascript-argos-ci-playwright-54b0629c.md) | 7.5.1 | 2026-09-11T19:16:23.545Z | registry-derived |
-| [@argos-ci/storybook](../records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) | 6.3.1 | 2026-09-11T19:15:43.050Z | registry-derived |
+| [@argos-ci/cli](../records/node-js-javascript-argos-ci-cli-0a6caec9.md) | 6.9.4 | 2026-09-13T11:20:13.989Z | registry-derived |
+| [@argos-ci/core](../records/node-js-javascript-argos-ci-core-16d6b998.md) | 6.8.5 | 2026-09-13T11:21:25.775Z | registry-derived |
+| [@argos-ci/playwright](../records/node-js-javascript-argos-ci-playwright-54b0629c.md) | 7.6.0 | 2026-09-13T11:21:15.528Z | registry-derived |
+| [@argos-ci/storybook](../records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) | 6.4.0 | 2026-09-13T11:20:35.447Z | registry-derived |
 | [@atomic-testing/component-driver-html](../records/node-js-javascript-atomic-testing-component-driver-html-6686bccf.md) | 0.104.0 | 2026-08-20T13:18:24.603Z | registry-derived |
 | [@atomic-testing/dom-core](../records/node-js-javascript-atomic-testing-dom-core-0cf77348.md) | 0.104.0 | 2026-08-20T13:17:40.098Z | registry-derived |
 | [@atomic-testing/playwright](../records/node-js-javascript-atomic-testing-playwright-2dd5d8af.md) | 0.104.0 | 2026-08-20T13:20:54.461Z | registry-derived |

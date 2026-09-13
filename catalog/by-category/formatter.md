@@ -17,7 +17,7 @@ Records: `670`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · **[Formatter (670)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -693,7 +693,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-12T23:20:11Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-13T05:27:31Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
 | AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-12T17:34:08Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | AmitDigga/threejs-galaxy-shader | partial | 2026-03-27T08:08:16Z | [open](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) |
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |
@@ -722,7 +722,7 @@ Records: `670`
 | MikeMorenoDSP/LIRA-8 | partial | 2023-02-06T05:45:24Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | MycroftAI/ZZZ-RETIRED__openstt | partial | 2016-03-22T21:41:07Z | [open](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-12T23:42:46Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-13T11:37:19Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 
@@ -740,7 +740,7 @@ Records: `670`
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-11T23:06:36Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-12T22:07:05Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-13T12:23:09Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-09-04T06:33:23Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-13T07:03:30Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |

@@ -17,7 +17,7 @@ Records: `481`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -221,7 +221,7 @@ Records: `481`
 | [MikeMorenoDSP/LIRA-8](../records/audio-mikemorenodsp-lira-8-251c75e9.md) | partial | 2023-02-06T05:45:24Z | registry-derived |
 | [MycroftAI/ZZZ-RETIRED__openstt](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) | partial | 2016-03-22T21:41:07Z | registry-derived |
 | [pdeljanov/Symphonia](../records/audio-pdeljanov-symphonia-b302ab81.md) | partial | 2026-08-13T03:19:51Z | registry-derived |
-| [pytorch/audio](../records/audio-pytorch-audio-d02c37b9.md) | partial | 2026-09-12T23:42:46Z | registry-derived |
+| [pytorch/audio](../records/audio-pytorch-audio-d02c37b9.md) | partial | 2026-09-13T11:37:19Z | registry-derived |
 
 ### Fuzzer
 
@@ -509,7 +509,7 @@ Records: `481`
 | [electro-smith/DaisySP](../records/audio-electro-smith-daisysp-caa53501.md) | partial | 2025-05-29T04:37:29Z | registry-derived |
 | [GuitarML/FunBox](../records/audio-guitarml-funbox-6cee70c5.md) | partial | 2026-07-10T15:59:36Z | registry-derived |
 | [haoheliu/voicefixer_main](../records/audio-haoheliu-voicefixer-main-daefc20f.md) | partial | 2024-01-13T00:38:35Z | registry-derived |
-| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-13T03:31:49Z | registry-derived |
+| [huggingface/transformers](../records/audio-huggingface-transformers-9073c238.md) | partial | 2026-09-13T12:00:38Z | registry-derived |
 | [ictnlp/StreamSpeech](../records/audio-ictnlp-streamspeech-abc4c0a4.md) | partial | 2025-06-29T02:06:27Z | registry-derived |
 | [iver56/audiomentations](../records/audio-iver56-audiomentations-bf487b1d.md) | partial | 2026-04-13T22:04:14Z | registry-derived |
 | [jefflai108/pytorch-kaldi-neural-speaker-embeddings](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) | partial | 2020-01-27T22:29:25Z | registry-derived |
@@ -695,7 +695,7 @@ Records: `481`
 | [Lake1059/FFmpegFreeUI](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) | partial | 2026-09-12T16:45:27Z | registry-derived |
 | [monomadic/dd-core](../records/audio-monomadic-dd-core-a1124514.md) | partial | 2019-01-14T07:21:52Z | registry-derived |
 | [pierreguillot/Camomile](../records/audio-pierreguillot-camomile-eeeac032.md) | partial | 2024-02-26T10:06:47Z | registry-derived |
-| [pschatzmann/arduino-audio-tools](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) | partial | 2026-09-11T14:57:29Z | registry-derived |
+| [pschatzmann/arduino-audio-tools](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) | partial | 2026-09-13T11:26:29Z | registry-derived |
 | [QVbDev/quantumVerb](../records/audio-qvbdev-quantumverb-59e9d065.md) | partial | 2018-04-11T17:24:17Z | registry-derived |
 | [rsadsb/adsb_deku](../records/audio-rsadsb-adsb-deku-8c9a3700.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [sp-nitech/SPTK](../records/audio-sp-nitech-sptk-7cf4cfee.md) | partial | 2026-08-25T13:37:51Z | registry-derived |

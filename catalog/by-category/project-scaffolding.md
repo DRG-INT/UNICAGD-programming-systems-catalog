@@ -17,7 +17,7 @@ Records: `143`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -197,7 +197,7 @@ Records: `143`
 | IBM-Cloud/watson-starter-apps | partial | 2017-01-23T22:13:49Z | [open](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
 | johnpolacek/styled-starter | partial | 2018-09-02T13:46:29Z | [open](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
 | johnpolacek/styled-starter-basic | partial | 2018-09-01T17:02:27Z | [open](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
-| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-10T05:42:15Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
+| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-13T05:51:00Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
 | MohirM/game-catalog-starter | partial | 2021-05-04T00:21:07Z | [open](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
 | parthmax2/genai-starter-pack | partial | 2026-06-20T08:56:38Z | [open](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
 | strapi/strapi-starter-gatsby-catalog | partial | 2022-03-28T16:02:17Z | [open](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |

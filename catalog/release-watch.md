@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T11:21:00+00:00`
+Generated: `2026-09-13T12:26:32+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-13T11:21:00+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6136)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6137)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -28,13 +28,18 @@ Generated: `2026-09-13T11:21:00+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10923 |
+| Known stable release | 10924 |
 | Unknown stable release | 18253 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.27.1 | 2026-09-13T12:06:07.208Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
+| @argos-ci/core | Node.js/JavaScript | Testing Framework | 6.8.5 | 2026-09-13T11:21:25.775Z | [open](records/node-js-javascript-argos-ci-core-16d6b998.md) |
+| @argos-ci/playwright | Node.js/JavaScript | Testing Framework | 7.6.0 | 2026-09-13T11:21:15.528Z | [open](records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
+| @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.4.0 | 2026-09-13T11:20:35.447Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
+| @argos-ci/cli | Node.js/JavaScript | Testing Framework | 6.9.4 | 2026-09-13T11:20:13.989Z | [open](records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
 | actix-rt | Rust | Interpreter Runtime | 2.15.0 | 2026-09-13T10:24:44.125095Z | [open](records/rust-actix-rt-aef83aa1.md) |
 | envied | Dart | Security Sast | 1.3.9 | 2026-09-13T10:18:17.622831Z | [open](records/dart-envied-a8a210f2.md) |
 | cc | Rust | Compiler | 1.4.6 | 2026-09-13T10:18:01.507218Z | [open](records/rust-cc-40676e0b.md) |
@@ -65,6 +70,7 @@ Generated: `2026-09-13T11:21:00+00:00`
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| sessioncheck | R | Library | 0.2.0 | 2026-09-13 11:40:02 UTC | [open](records/r-sessioncheck-385e36b0.md) |
 | Rgof | R | Testing Framework | 4.0.0 | 2026-09-13 11:10:02 UTC | [open](records/r-rgof-a78bdfae.md) |
 | ipeval | R | Library | 0.1.2 | 2026-09-13 10:10:01 UTC | [open](records/r-ipeval-c09ab033.md) |
 | CGNM | R | Library | 0.10.0 | 2026-09-13 08:00:02 UTC | [open](records/r-cgnm-04391c1f.md) |
@@ -95,7 +101,6 @@ Generated: `2026-09-13T11:21:00+00:00`
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.3 | 2026-09-12T16:07:45.027Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.27 | 2026-09-12T16:06:59.122Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
 | @maxminddatabase/geolite2 | Node.js/JavaScript | Database Datastore | 1.0.306 | 2026-09-12T16:05:33.717Z | [open](records/node-js-javascript-maxminddatabase-geolite2-f679c34e.md) |
-| @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.27.0 | 2026-09-12T15:53:33.806Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
 | jiff | Rust | Datetime | 0.2.37 | 2026-09-12T15:39:55.879487Z | [open](records/rust-jiff-b0e170ca.md) |
 | jiff-static | Rust | Configuration | 0.2.37 | 2026-09-12T15:39:51.677774Z | [open](records/rust-jiff-static-d0c4ed1c.md) |
 | @logux/server | Node.js/JavaScript | Build System | 0.16.3 | 2026-09-12T15:26:35.941Z | [open](records/node-js-javascript-logux-server-52acd2a3.md) |
@@ -208,10 +213,6 @@ Generated: `2026-09-13T11:21:00+00:00`
 | flutter_secure_storage | Dart | Cryptography | 11.1.1 | 2026-09-11T20:08:14.955343Z | [open](records/dart-flutter-secure-storage-a8388f0a.md) |
 | @markuplint/cli-utils | Node.js/JavaScript | Linter | 5.0.0 | 2026-09-11T20:03:42.359Z | [open](records/node-js-javascript-markuplint-cli-utils-7177a9a3.md) |
 | convex-test | Node.js/JavaScript | Testing Framework | 0.0.58 | 2026-09-11T19:54:06.970Z | [open](records/node-js-javascript-convex-test-7a685bbc.md) |
-| @argos-ci/playwright | Node.js/JavaScript | Testing Framework | 7.5.1 | 2026-09-11T19:16:23.545Z | [open](records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
-| @argos-ci/core | Node.js/JavaScript | Testing Framework | 6.8.4 | 2026-09-11T19:16:13.276Z | [open](records/node-js-javascript-argos-ci-core-16d6b998.md) |
-| @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.3.1 | 2026-09-11T19:15:43.050Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
-| @argos-ci/cli | Node.js/JavaScript | Testing Framework | 6.9.3 | 2026-09-11T19:15:21.444Z | [open](records/node-js-javascript-argos-ci-cli-0a6caec9.md) |
 | mockttp | Node.js/JavaScript | Undefined Behavior Analyzer | 4.6.3 | 2026-09-11T19:13:36.581Z | [open](records/node-js-javascript-mockttp-89826f51.md) |
 | @asaidimu/utils-database | Node.js/JavaScript | Database Datastore | 5.0.1 | 2026-09-11T19:09:22.276Z | [open](records/node-js-javascript-asaidimu-utils-database-3c9a1580.md) |
 | aws-sdk-s3 | Rust | Library | 1.146.1 | 2026-09-11T19:08:17.164298Z | [open](records/rust-aws-sdk-s3-e7593d5c.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-13T11:21:00+00:00`
 | @fast-check/vitest | Node.js/JavaScript | Testing Framework | 0.5.0 | 2026-09-11T07:53:32.669Z | [open](records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | fast-check | Node.js/JavaScript | Testing Framework | 4.10.0 | 2026-09-11T07:53:24.309Z | [open](records/node-js-javascript-fast-check-359bc465.md) |
 | @fast-check/jest | Node.js/JavaScript | Testing Framework | 2.3.0 | 2026-09-11T07:51:16.759Z | [open](records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
-| accessibility_tools | Dart | Build System | 3.0.0 | 2026-09-11T07:38:44.544170Z | [open](records/dart-accessibility-tools-02c388e7.md) |
 
 ## Unknown Reasons
 

@@ -1,6 +1,6 @@
 # R
 
-Records: `2116`
+Records: `2117`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `2116`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -1273,6 +1273,7 @@ Records: `2116`
 | [seqmagick](../records/r-seqmagick-7853840d.md) | 0.1.9 | 2026-08-30 06:30:02 UTC | registry-derived |
 | [SEQTaRget](../records/r-seqtarget-050f7cdd.md) | 1.4.4 | 2026-08-28 07:50:02 UTC | registry-derived |
 | [seqwrap](../records/r-seqwrap-781d4d4f.md) | 0.8.1 | 2026-09-03 11:20:02 UTC | registry-derived |
+| [sessioncheck](../records/r-sessioncheck-385e36b0.md) | 0.2.0 | 2026-09-13 11:40:02 UTC | registry-derived |
 | [SeuratExplorer](../records/r-seuratexplorer-6311b262.md) | 0.1.8 | 2026-09-01 07:20:07 UTC | registry-derived |
 | [sf](../records/r-sf-d645920e.md) | 1.1-3 | 2026-09-11 06:40:02 UTC | registry-derived |
 | [sgee](../records/r-sgee-9edd0ee9.md) | 0.6-2 | 2026-08-31 19:50:02 UTC | registry-derived |

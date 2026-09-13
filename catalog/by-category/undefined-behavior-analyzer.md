@@ -17,7 +17,7 @@ Records: `1665`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -1172,7 +1172,7 @@ Records: `1665`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-13T10:16:22Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-13T11:55:58Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1366,7 +1366,7 @@ Records: `1665`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-13T04:08:33Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-13T12:04:49Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1479,7 +1479,7 @@ Records: `1665`
 | Afilmory/afilmory | partial | 2026-09-12T10:39:50Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
-| dougdonohoe/ddphotos | partial | 2026-09-13T05:51:52Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
+| dougdonohoe/ddphotos | partial | 2026-09-13T11:59:16Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |

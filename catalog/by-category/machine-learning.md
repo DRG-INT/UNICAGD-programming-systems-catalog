@@ -17,7 +17,7 @@ Records: `864`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · **[Machine Learning (864)](machine-learning.md)**
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -528,7 +528,7 @@ Records: `864`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T11:14:26Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T12:21:41Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-13T10:19:29Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -542,7 +542,7 @@ Records: `864`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T11:17:53Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-13T12:23:57Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -730,7 +730,7 @@ Records: `864`
 | chengzu-li/MVoT | partial | 2025-04-12T14:41:12Z | [open](../records/space-maps-chengzu-li-mvot-ebab9d25.md) |
 | drbitboy/naifdsk | partial | 2014-07-10T02:36:39Z | [open](../records/space-maps-drbitboy-naifdsk-2fb1e3f6.md) |
 | duairc/spk | partial | 2018-10-19T21:14:23Z | [open](../records/space-maps-duairc-spk-17c824dd.md) |
-| GregoireHENRY/rust-spice | partial | 2024-04-05T16:17:06Z | [open](../records/space-maps-gregoirehenry-rust-spice-cc677ccb.md) |
+| GregoireHENRY/rust-spice | partial | 2026-09-11T15:13:06Z | [open](../records/space-maps-gregoirehenry-rust-spice-cc677ccb.md) |
 | JustinLove/section_of_foreign_intelligence | partial | 2020-07-10T18:45:49Z | [open](../records/space-maps-justinlove-section-of-foreign-intelligence-47c06873.md) |
 | lukas-tr/pain | partial | 2025-11-09T16:51:31Z | [open](../records/space-maps-lukas-tr-pain-55aa2b81.md) |
 | mdrstudiogroup-ai/MDR-Studio-World-Map-For-Developers | partial | 2026-05-17T10:44:42Z | [open](../records/space-maps-mdrstudiogroup-ai-mdr-studio-world-map-for-developers-a5cbce0e.md) |
@@ -788,7 +788,7 @@ Records: `864`
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
 | GuitarML/FunBox | partial | 2026-07-10T15:59:36Z | [open](../records/audio-guitarml-funbox-6cee70c5.md) |
 | haoheliu/voicefixer_main | partial | 2024-01-13T00:38:35Z | [open](../records/audio-haoheliu-voicefixer-main-daefc20f.md) |
-| huggingface/transformers | partial | 2026-09-13T03:31:49Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| huggingface/transformers | partial | 2026-09-13T12:00:38Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | partial | 2025-06-29T02:06:27Z | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | partial | 2026-04-13T22:04:14Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | jefflai108/pytorch-kaldi-neural-speaker-embeddings | partial | 2020-01-27T22:29:25Z | [open](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) |

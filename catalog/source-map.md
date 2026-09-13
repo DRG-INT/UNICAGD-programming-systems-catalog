@@ -13,7 +13,7 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6136)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6137)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -1183,6 +1183,7 @@
 | `cran_packages_by_date-2dc23f92c6ae89` | HeatStressR | [open](records/r-heatstressr-efbc6ad7.md) |
 | `cran_packages_by_date-2ddc6fec05f184` | serad | [open](records/r-serad-0274bde8.md) |
 | `cran_packages_by_date-2dddeb17c43d5a` | cuda.ml | [open](records/r-cuda-ml-e3f5e9f7.md) |
+| `cran_packages_by_date-2ddf8203fda1e8` | sessioncheck | [open](records/r-sessioncheck-385e36b0.md) |
 | `cran_packages_by_date-2de1d02356fe05` | rquest | [open](records/r-rquest-6ab7845d.md) |
 | `cran_packages_by_date-2e0653a6670286` | enrichit | [open](records/r-enrichit-b6931f06.md) |
 | `cran_packages_by_date-2e1fd862b43ff9` | ipeaplot | [open](records/r-ipeaplot-f3ce9d27.md) |

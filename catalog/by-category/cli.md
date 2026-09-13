@@ -17,7 +17,7 @@ Records: `602`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -549,10 +549,10 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-13T10:14:22Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T11:56:08Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T11:15:42Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T12:19:43Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -664,7 +664,7 @@ Records: `602`
 | rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | TheZoraiz/ascii-image-converter | partial | 2024-04-14T19:34:21Z | [open](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
 | wszqkzqk/live-photo-conv | partial | 2026-09-04T08:38:55Z | [open](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) |
-| yurijmikhalevich/rclip | partial | 2026-09-13T10:20:26Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
+| yurijmikhalevich/rclip | partial | 2026-09-13T11:50:26Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
 
 ## Radars
 

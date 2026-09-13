@@ -17,7 +17,7 @@ Records: `529`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -149,7 +149,7 @@ Records: `529`
 | [Gitea: ziying/database](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) | partial | 2026-06-03T05:06:54Z | registry-derived |
 | [gitlab-org/advisories-community](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) | partial | 2026-09-12T14:30:37.673Z | registry-derived |
 | [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-12T02:09:09.779Z | registry-derived |
-| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-13T10:16:47.641Z | registry-derived |
+| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-13T11:18:48.014Z | registry-derived |
 | [postgres-ai/custom-images](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) | partial | 2026-08-31T12:45:54.446Z | registry-derived |
 | [ProfaneDB/ProfaneDB](../records/repository-workplaces-profanedb-profanedb-135545c0.md) | partial | 2021-08-10T13:32:11.702Z | registry-derived |
 | [radiobrowser/radio-database](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) | partial | 2026-09-13T09:56:36.336Z | registry-derived |

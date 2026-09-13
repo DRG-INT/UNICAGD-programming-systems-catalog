@@ -17,7 +17,7 @@ Records: `651`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -642,7 +642,7 @@ Records: `651`
 | Lake1059/FFmpegFreeUI | partial | 2026-09-12T16:45:27Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-11T14:57:29Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-13T11:26:29Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |

@@ -17,7 +17,7 @@ Records: `69`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -38,7 +38,7 @@ Records: `69`
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
-| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-13T01:41:06Z | registry-derived |
+| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-13T12:07:08Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-11T17:13:45Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-12T17:02:10Z | registry-derived |
