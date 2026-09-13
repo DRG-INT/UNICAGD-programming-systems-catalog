@@ -23,7 +23,7 @@ Records: `602`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -296,7 +296,7 @@ Records: `602`
 | @fallow-cli/linux-x64-musl | 3.25.0 | 2026-09-11T08:35:56.264Z | [open](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) |
 | @farmfe/cli | 1.0.5 | 2025-06-22T04:53:28.320Z | [open](../records/node-js-javascript-farmfe-cli-0b309d0f.md) |
 | @fragment-dev/cli | 2026.9.8-14 | 2026-09-08T23:19:31.350Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
-| @gjsify/cli | 0.49.0 | 2026-09-11T07:14:25.301Z | [open](../records/node-js-javascript-gjsify-cli-93fdc27b.md) |
+| @gjsify/cli | 0.51.1 | 2026-09-12T16:41:26.191Z | [open](../records/node-js-javascript-gjsify-cli-93fdc27b.md) |
 | @gltf-transform/cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](../records/node-js-javascript-gltf-transform-cli-56392446.md) |
 | @google/gemini-cli | 0.59.0 | 2026-09-08T21:19:17.301Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
 | @google/gemini-cli-core | 0.59.0 | 2026-09-08T21:13:36.100Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
@@ -542,7 +542,7 @@ Records: `602`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-13T10:21:45Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| JanDeDobbeleer/oh-my-posh | partial | 2026-09-13T10:28:34Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
 | yorukot/superfile | partial | 2026-09-11T00:21:18Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
@@ -552,7 +552,7 @@ Records: `602`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-13T10:14:22Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T10:22:12Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T11:15:42Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -664,7 +664,7 @@ Records: `602`
 | rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | TheZoraiz/ascii-image-converter | partial | 2024-04-14T19:34:21Z | [open](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
 | wszqkzqk/live-photo-conv | partial | 2026-09-04T08:38:55Z | [open](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) |
-| yurijmikhalevich/rclip | partial | 2026-09-07T05:15:25Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
+| yurijmikhalevich/rclip | partial | 2026-09-13T10:20:26Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
 
 ## Radars
 

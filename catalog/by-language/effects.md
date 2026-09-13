@@ -23,7 +23,7 @@ Records: `785`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -234,7 +234,7 @@ Records: `785`
 | [cansik/processing-postfx](../records/effects-cansik-processing-postfx-3d2f44fc.md) | partial | 2021-09-10T01:41:58Z | registry-derived |
 | [chaosbuffalolabs/ParticlePanda](../records/effects-chaosbuffalolabs-particlepanda-30e8b818.md) | partial | 2018-05-10T17:49:22Z | registry-derived |
 | [coryleach/UnityPostProcessing](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) | partial | 2019-11-21T20:16:01Z | registry-derived |
-| [crosire/reshade-shaders](../records/effects-crosire-reshade-shaders-edf78e8d.md) | partial | 2026-08-31T19:54:22Z | registry-derived |
+| [crosire/reshade-shaders](../records/effects-crosire-reshade-shaders-edf78e8d.md) | partial | 2026-09-12T16:35:49Z | registry-derived |
 | [CuriousNikhil/compose-particle-system](../records/effects-curiousnikhil-compose-particle-system-c0123d91.md) | partial | 2022-07-11T01:44:48Z | registry-derived |
 | [CyberDeck/Unity-HDRP-LensFlares](../records/effects-cyberdeck-unity-hdrp-lensflares-3a27fa68.md) | partial | 2020-05-11T20:35:18Z | registry-derived |
 | [daniel-ilett/shaders-fullscreen-outlines](../records/effects-daniel-ilett-shaders-fullscreen-outlines-eafdc07b.md) | partial | 2023-03-21T11:09:20Z | registry-derived |
@@ -438,7 +438,7 @@ Records: `785`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [appleseedhq/appleseed](../records/effects-appleseedhq-appleseed-7150506a.md) | partial | 2026-06-11T07:46:01Z | registry-derived |
-| [creativelifeform/three-nebula](../records/effects-creativelifeform-three-nebula-c054525f.md) | partial | 2026-09-12T11:55:12Z | registry-derived |
+| [creativelifeform/three-nebula](../records/effects-creativelifeform-three-nebula-c054525f.md) | partial | 2026-09-13T11:00:03Z | registry-derived |
 | [daniel-ilett/shaders-portal](../records/effects-daniel-ilett-shaders-portal-f6698878.md) | partial | 2020-01-19T18:54:22Z | registry-derived |
 | [DarknessFX/Niagara_Study](../records/effects-darknessfx-niagara-study-5380d323.md) | partial | 2021-04-03T14:47:46Z | registry-derived |
 | [flashhawk/spp.js](../records/effects-flashhawk-spp-js-ce4e0a32.md) | partial | 2015-06-23T16:05:48Z | registry-derived |

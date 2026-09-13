@@ -32,7 +32,7 @@ dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.1.1 | 2026-08-29 17:00:02 UTC | [https://cran.r-project.org/web/packages/ipeval/DESCRIPTION](https://cran.r-project.org/web/packages/ipeval/DESCRIPTION) |  |
+| stable | known | 0.1.2 | 2026-09-13 10:10:01 UTC | [https://cran.r-project.org/web/packages/ipeval/DESCRIPTION](https://cran.r-project.org/web/packages/ipeval/DESCRIPTION) |  |
 | preview/nightly | unknown |  |  | unknown | cran_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/ipeval/DESCRIPTION` at `2026-09-01T07:19:53+00:00`.
+- Latest stable metadata was observed from `https://cran.r-project.org/web/packages/ipeval/DESCRIPTION` at `2026-09-13T11:18:06+00:00`.
 - Preview/nightly metadata is unknown because `cran_has_no_standard_nightly_channel`.
 
 ## Provenance
@@ -102,5 +102,5 @@ Evidence records merged into this identity: `1`.
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

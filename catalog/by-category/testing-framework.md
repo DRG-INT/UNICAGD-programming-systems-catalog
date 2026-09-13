@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `650`
+Records: `651`
 
 ## Navigation
 
@@ -23,7 +23,7 @@ Records: `650`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (650)](testing-framework.md)** · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · **[Testing Framework (651)](testing-framework.md)** · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -484,6 +484,7 @@ Records: `650`
 | RATest | 0.1.12 | 2026-09-07 17:20:02 UTC | [open](../records/r-ratest-d56ae4e0.md) |
 | RCtest | 1.2 | 2026-08-28 14:40:10 UTC | [open](../records/r-rctest-0fc77196.md) |
 | RDieHarder | 0.2.8 | 2026-09-10 12:30:02 UTC | [open](../records/r-rdieharder-9e6c07bc.md) |
+| Rgof | 4.0.0 | 2026-09-13 11:10:02 UTC | [open](../records/r-rgof-a78bdfae.md) |
 | rkt | 1.8 | 2026-08-25 21:20:08 UTC | [open](../records/r-rkt-30862909.md) |
 | rmsfact | 0.0.4 | 2026-09-11 14:30:02 UTC | [open](../records/r-rmsfact-61bcaa97.md) |
 | robust2sls | 0.2.4 | 2026-08-20 13:40:02 UTC | [open](../records/r-robust2sls-542f6ca3.md) |

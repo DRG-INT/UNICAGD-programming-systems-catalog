@@ -23,7 +23,7 @@ Records: `2458`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -388,7 +388,7 @@ Records: `2458`
 | [@fallow-cli/linux-x64-musl](../records/node-js-javascript-fallow-cli-linux-x64-musl-ad0f87bf.md) | 3.25.0 | 2026-09-11T08:35:56.264Z | registry-derived |
 | [@farmfe/cli](../records/node-js-javascript-farmfe-cli-0b309d0f.md) | 1.0.5 | 2025-06-22T04:53:28.320Z | registry-derived |
 | [@fragment-dev/cli](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) | 2026.9.8-14 | 2026-09-08T23:19:31.350Z | registry-derived |
-| [@gjsify/cli](../records/node-js-javascript-gjsify-cli-93fdc27b.md) | 0.49.0 | 2026-09-11T07:14:25.301Z | registry-derived |
+| [@gjsify/cli](../records/node-js-javascript-gjsify-cli-93fdc27b.md) | 0.51.1 | 2026-09-12T16:41:26.191Z | registry-derived |
 | [@gltf-transform/cli](../records/node-js-javascript-gltf-transform-cli-56392446.md) | 4.5.0 | 2026-09-01T00:43:18.551Z | registry-derived |
 | [@google/gemini-cli](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) | 0.59.0 | 2026-09-08T21:19:17.301Z | registry-derived |
 | [@google/gemini-cli-core](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) | 0.59.0 | 2026-09-08T21:13:36.100Z | registry-derived |
@@ -2156,7 +2156,7 @@ Records: `2458`
 | [msgpackr](../records/node-js-javascript-msgpackr-97305d61.md) | unknown | not_checked | unverified_seed |
 | [next-logger](../records/node-js-javascript-next-logger-c9e9ac18.md) | 5.0.2 | 2025-10-08T08:07:39.079Z | npm_registry |
 | [node-json-db](../records/node-js-javascript-node-json-db-3561199d.md) | 2.6.0 | 2026-03-10T13:22:31.927Z | registry-derived |
-| [oui-data](../records/node-js-javascript-oui-data-c721fc74.md) | 2.1.20 | 2026-09-12T08:50:37.271Z | registry-derived |
+| [oui-data](../records/node-js-javascript-oui-data-c721fc74.md) | 2.1.21 | 2026-09-13T09:44:35.624Z | registry-derived |
 | [protobuf.js](../records/node-js-javascript-protobuf-js-e25225b4.md) | unknown | not_checked | unverified_seed |
 | [serverless-logging-config](../records/node-js-javascript-serverless-logging-config-d94d1c13.md) | 1.0.2 | 2024-01-05T19:41:41.282Z | npm_registry |
 | [sharedb](../records/node-js-javascript-sharedb-65f97f47.md) | 6.0.3 | 2026-09-07T09:41:25.911Z | registry-derived |

@@ -23,7 +23,7 @@ Records: `318`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
+[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · **[Type Checker (318)](type-checker.md)**
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## Python
@@ -402,7 +402,7 @@ Records: `318`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | seehiong/noteflow | partial | 2026-07-11T04:13:06Z | [open](../records/audio-seehiong-noteflow-25a87e06.md) |
-| Vanilagy/mediabunny | partial | 2026-09-12T14:38:21Z | [open](../records/audio-vanilagy-mediabunny-c14130e8.md) |
+| Vanilagy/mediabunny | partial | 2026-09-13T10:04:05Z | [open](../records/audio-vanilagy-mediabunny-c14130e8.md) |
 
 ## Video
 
@@ -410,7 +410,7 @@ Records: `318`
 | --- | --- | --- | --- |
 | etro-js/etro | partial | 2026-09-10T02:58:59Z | [open](../records/video-etro-js-etro-fc650c8f.md) |
 | peer-calls/peer-calls | partial | 2025-10-28T22:46:52Z | [open](../records/video-peer-calls-peer-calls-18074c54.md) |
-| Vanilagy/mediabunny | partial | 2026-09-12T14:38:21Z | [open](../records/video-vanilagy-mediabunny-f2242c0c.md) |
+| Vanilagy/mediabunny | partial | 2026-09-13T10:04:05Z | [open](../records/video-vanilagy-mediabunny-f2242c0c.md) |
 
 ## Photography
 

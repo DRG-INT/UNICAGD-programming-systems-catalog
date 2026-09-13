@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-13T10:23:39+00:00`
+Generated: `2026-09-13T11:21:00+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -21,7 +21,7 @@ Generated: `2026-09-13T10:23:39+00:00`
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (680)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (651)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Languages
@@ -37,7 +37,7 @@ Generated: `2026-09-13T10:23:39+00:00`
 | Node.js/JavaScript | 2458 | 2381 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 392 | 352 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 2115 | 2115 | [R](by-language/r.md) |
+| R | 2116 | 2116 | [R](by-language/r.md) |
 | Haskell | 1737 | 1728 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -153,7 +153,7 @@ Generated: `2026-09-13T10:23:39+00:00`
 | Standard Library | 26 | [standard_library](by-category/standard-library.md) |
 | Static Analyzer | 680 | [static_analyzer](by-category/static-analyzer.md) |
 | Templating | 2 | [templating](by-category/templating.md) |
-| Testing Framework | 650 | [testing_framework](by-category/testing-framework.md) |
+| Testing Framework | 651 | [testing_framework](by-category/testing-framework.md) |
 | Tutorial Book Styleguide | 75 | [tutorial_book_styleguide](by-category/tutorial-book-styleguide.md) |
 | Type Checker | 318 | [type_checker](by-category/type-checker.md) |
 | Undefined Behavior Analyzer | 1665 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-13T10:23:39+00:00`
 | Node.js/JavaScript | 2381 | 77 |
 | Node.js/TypeScript | 352 | 40 |
 | Lua family | 0 | 1937 |
-| R | 2115 | 0 |
+| R | 2116 | 0 |
 | Haskell | 1728 | 9 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |

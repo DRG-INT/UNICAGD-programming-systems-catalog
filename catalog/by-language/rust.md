@@ -23,7 +23,7 @@ Records: `2183`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -303,7 +303,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [autocfg](../records/rust-autocfg-ca0f8a64.md) | 1.5.1 | 2026-05-22T11:03:04.576867Z | registry-derived |
-| [cc](../records/rust-cc-40676e0b.md) | 1.4.5 | 2026-09-04T09:28:57.146598Z | registry-derived |
+| [cc](../records/rust-cc-40676e0b.md) | 1.4.6 | 2026-09-13T10:18:01.507218Z | registry-derived |
 | [clang-sys](../records/rust-clang-sys-f1961db1.md) | 1.9.1 | 2026-07-29T12:50:24.115950Z | registry-derived |
 | [cmov](../records/rust-cmov-061e5bcb.md) | 0.5.4 | 2026-05-28T19:07:33.005301Z | registry-derived |
 | [compiler_builtins](../records/rust-compiler-builtins-aa173dbd.md) | 0.1.160 | 2025-05-30T16:00:57.034414Z | crates_io |
@@ -1155,7 +1155,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [actix-macros](../records/rust-actix-macros-ca794fb7.md) | 0.2.4 | 2023-07-19T22:54:08.231118Z | registry-derived |
-| [actix-rt](../records/rust-actix-rt-aef83aa1.md) | 2.14.0 | 2026-09-13T09:32:41.329744Z | registry-derived |
+| [actix-rt](../records/rust-actix-rt-aef83aa1.md) | 2.15.0 | 2026-09-13T10:24:44.125095Z | registry-derived |
 | [actix-web-codegen](../records/rust-actix-web-codegen-9aba0585.md) | 4.3.0 | 2024-06-08T23:24:23.437523Z | registry-derived |
 | [aws-runtime](../records/rust-aws-runtime-ac213e01.md) | 1.9.2 | 2026-09-04T19:06:16.878739Z | registry-derived |
 | [aws-smithy-async](../records/rust-aws-smithy-async-9d69cd7f.md) | 1.3.0 | 2026-07-07T18:15:23.316813Z | registry-derived |

@@ -23,7 +23,7 @@ Records: `1720`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -1070,7 +1070,7 @@ Records: `1720`
 | cansik/processing-postfx | partial | 2021-09-10T01:41:58Z | [open](../records/effects-cansik-processing-postfx-3d2f44fc.md) |
 | chaosbuffalolabs/ParticlePanda | partial | 2018-05-10T17:49:22Z | [open](../records/effects-chaosbuffalolabs-particlepanda-30e8b818.md) |
 | coryleach/UnityPostProcessing | partial | 2019-11-21T20:16:01Z | [open](../records/effects-coryleach-unitypostprocessing-0847dfd6.md) |
-| crosire/reshade-shaders | partial | 2026-08-31T19:54:22Z | [open](../records/effects-crosire-reshade-shaders-edf78e8d.md) |
+| crosire/reshade-shaders | partial | 2026-09-12T16:35:49Z | [open](../records/effects-crosire-reshade-shaders-edf78e8d.md) |
 | CuriousNikhil/compose-particle-system | partial | 2022-07-11T01:44:48Z | [open](../records/effects-curiousnikhil-compose-particle-system-c0123d91.md) |
 | CyberDeck/Unity-HDRP-LensFlares | partial | 2020-05-11T20:35:18Z | [open](../records/effects-cyberdeck-unity-hdrp-lensflares-3a27fa68.md) |
 | daniel-ilett/shaders-fullscreen-outlines | partial | 2023-03-21T11:09:20Z | [open](../records/effects-daniel-ilett-shaders-fullscreen-outlines-eafdc07b.md) |
@@ -1335,7 +1335,7 @@ Records: `1720`
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
 | HaishinKit/HaishinKit.swift | partial | 2026-09-13T00:02:43Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
-| hanatos/vkdt | partial | 2026-09-13T07:32:58Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
+| hanatos/vkdt | partial | 2026-09-13T09:20:40Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | indulgeIn/YBImageBrowser | partial | 2023-11-24T10:57:58Z | [open](../records/photography-indulgein-ybimagebrowser-e5a55591.md) |
 | jdisho/Papr | partial | 2020-09-17T16:39:35Z | [open](../records/photography-jdisho-papr-d97d54b2.md) |
@@ -1349,7 +1349,7 @@ Records: `1720`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-12T12:11:46Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-13T09:10:51Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-12T20:14:21Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |

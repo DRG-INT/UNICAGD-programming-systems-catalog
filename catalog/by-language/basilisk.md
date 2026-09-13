@@ -23,7 +23,7 @@ Records: `37`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -115,7 +115,7 @@ Records: `37`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | partial | 2023-06-28T06:42:25Z | registry-derived |
-| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-13T02:09:48Z | registry-derived |
+| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-13T11:10:43Z | registry-derived |
 | [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-09-02T17:52:11Z | registry-derived |
 | [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
 | [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |

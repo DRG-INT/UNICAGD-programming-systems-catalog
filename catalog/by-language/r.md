@@ -1,6 +1,6 @@
 # R
 
-Records: `2115`
+Records: `2116`
 
 ## Navigation
 
@@ -23,7 +23,7 @@ Records: `2115`
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -1006,7 +1006,7 @@ Records: `2115`
 | [interactionRCS](../records/r-interactionrcs-1095af5e.md) | 0.1.3 | 2026-09-10 22:20:02 UTC | registry-derived |
 | [interSAE](../records/r-intersae-cb12b6c3.md) | 0.1.0 | 2026-08-25 05:20:31 UTC | registry-derived |
 | [IP](../records/r-ip-f4068fe8.md) | 0.1.7 | 2026-09-02 12:20:16 UTC | registry-derived |
-| [ipeval](../records/r-ipeval-c09ab033.md) | 0.1.1 | 2026-08-29 17:00:02 UTC | registry-derived |
+| [ipeval](../records/r-ipeval-c09ab033.md) | 0.1.2 | 2026-09-13 10:10:01 UTC | registry-derived |
 | [ipr](../records/r-ipr-6a772195.md) | 1.0.0 | 2026-09-11 10:10:02 UTC | registry-derived |
 | [ipred](../records/r-ipred-a4ee0c6d.md) | 0.9-16 | 2026-08-22 15:50:18 UTC | registry-derived |
 | [iRfcb](../records/r-irfcb-fccb47fd.md) | 0.10.0 | 2026-08-19 19:20:02 UTC | registry-derived |
@@ -2220,6 +2220,7 @@ Records: `2115`
 | [RATest](../records/r-ratest-d56ae4e0.md) | 0.1.12 | 2026-09-07 17:20:02 UTC | registry-derived |
 | [RCtest](../records/r-rctest-0fc77196.md) | 1.2 | 2026-08-28 14:40:10 UTC | registry-derived |
 | [RDieHarder](../records/r-rdieharder-9e6c07bc.md) | 0.2.8 | 2026-09-10 12:30:02 UTC | registry-derived |
+| [Rgof](../records/r-rgof-a78bdfae.md) | 4.0.0 | 2026-09-13 11:10:02 UTC | registry-derived |
 | [rkt](../records/r-rkt-30862909.md) | 1.8 | 2026-08-25 21:20:08 UTC | registry-derived |
 | [rmsfact](../records/r-rmsfact-61bcaa97.md) | 0.0.4 | 2026-09-11 14:30:02 UTC | registry-derived |
 | [robust2sls](../records/r-robust2sls-542f6ca3.md) | 0.2.4 | 2026-08-20 13:40:02 UTC | registry-derived |

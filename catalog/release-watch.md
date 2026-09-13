@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T10:23:39+00:00`
+Generated: `2026-09-13T11:21:00+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -21,23 +21,26 @@ Generated: `2026-09-13T10:23:39+00:00`
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (680)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (651)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10922 |
+| Known stable release | 10923 |
 | Unknown stable release | 18253 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| actix-rt | Rust | Interpreter Runtime | 2.15.0 | 2026-09-13T10:24:44.125095Z | [open](records/rust-actix-rt-aef83aa1.md) |
+| envied | Dart | Security Sast | 1.3.9 | 2026-09-13T10:18:17.622831Z | [open](records/dart-envied-a8a210f2.md) |
+| cc | Rust | Compiler | 1.4.6 | 2026-09-13T10:18:01.507218Z | [open](records/rust-cc-40676e0b.md) |
+| oui-data | Node.js/JavaScript | Serialization | 2.1.21 | 2026-09-13T09:44:35.624Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | cunning_document_scanner | Dart | Static Analyzer | 3.0.3 | 2026-09-13T09:37:06.931442Z | [open](records/dart-cunning-document-scanner-b98260f4.md) |
 | actix-server | Rust | Networking Http | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](records/rust-actix-server-e5a4daec.md) |
-| actix-rt | Rust | Interpreter Runtime | 2.14.0 | 2026-09-13T09:32:41.329744Z | [open](records/rust-actix-rt-aef83aa1.md) |
 | @graphql-codegen/testing | Node.js/JavaScript | Testing Framework | 5.0.2 | 2026-09-13T09:02:55.303Z | [open](records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
 | hasquant | Haskell | Library | 0.7.0.0 | 2026-09-13T08:28:57Z | [open](records/haskell-hasquant-609f2342.md) |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.7 | 2026-09-13T08:25:31.578Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
@@ -62,6 +65,8 @@ Generated: `2026-09-13T10:23:39+00:00`
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| Rgof | R | Testing Framework | 4.0.0 | 2026-09-13 11:10:02 UTC | [open](records/r-rgof-a78bdfae.md) |
+| ipeval | R | Library | 0.1.2 | 2026-09-13 10:10:01 UTC | [open](records/r-ipeval-c09ab033.md) |
 | CGNM | R | Library | 0.10.0 | 2026-09-13 08:00:02 UTC | [open](records/r-cgnm-04391c1f.md) |
 | TextAnalysisR | R | Static Analyzer | 0.1.5 | 2026-09-13 07:00:02 UTC | [open](records/r-textanalysisr-fd30f41a.md) |
 | libopenexr | R | Image Audio Dsp | 3.4.12-6 | 2026-09-13 06:10:03 UTC | [open](records/r-libopenexr-415f6d9f.md) |
@@ -84,6 +89,7 @@ Generated: `2026-09-13T10:23:39+00:00`
 | aeson | Haskell | Library | 2.3.2.0 | 2026-09-12T18:04:12Z | [open](records/haskell-aeson-7553a0ad.md) |
 | actix-codec | Rust | Library | 0.5.4 | 2026-09-12T17:27:06.516100Z | [open](records/rust-actix-codec-709c01aa.md) |
 | bugsnag-types | Haskell | Library | 1.1.0.1 | 2026-09-12T16:41:50Z | [open](records/haskell-bugsnag-types-dca970ca.md) |
+| @gjsify/cli | Node.js/JavaScript | Cli | 0.51.1 | 2026-09-12T16:41:26.191Z | [open](records/node-js-javascript-gjsify-cli-93fdc27b.md) |
 | @gjsify/http | Node.js/JavaScript | Networking Http | 0.51.1 | 2026-09-12T16:39:49.772Z | [open](records/node-js-javascript-gjsify-http-1598f2a7.md) |
 | hive_ce | Dart | Community Reference | 2.20.0 | 2026-09-12T16:09:41.936194Z | [open](records/dart-hive-ce-4ae295fe.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.3 | 2026-09-12T16:07:45.027Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
@@ -103,7 +109,6 @@ Generated: `2026-09-13T10:23:39+00:00`
 | langchain-hs-core | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:13:40Z | [open](records/haskell-langchain-hs-core-ea420901.md) |
 | slang | Dart | Serialization | 4.19.2 | 2026-09-12T11:44:14.783497Z | [open](records/dart-slang-f760648f.md) |
 | ai_barcode_scanner | Dart | Static Analyzer | 8.0.1 | 2026-09-12T09:04:26.763388Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
-| oui-data | Node.js/JavaScript | Serialization | 2.1.20 | 2026-09-12T08:50:37.271Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | windmill-cli | Node.js/JavaScript | Cli | 1.811.0 | 2026-09-12T08:10:43.479Z | [open](records/node-js-javascript-windmill-cli-71546be7.md) |
 | mockcat | Haskell | Assertion Mocking | 1.5.0.0 | 2026-09-12T04:56:46Z | [open](records/haskell-mockcat-fdb03bd1.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.9.0 | 2026-09-12T03:55:49.949Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-13T10:23:39+00:00`
 | fast-check | Node.js/JavaScript | Testing Framework | 4.10.0 | 2026-09-11T07:53:24.309Z | [open](records/node-js-javascript-fast-check-359bc465.md) |
 | @fast-check/jest | Node.js/JavaScript | Testing Framework | 2.3.0 | 2026-09-11T07:51:16.759Z | [open](records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
 | accessibility_tools | Dart | Build System | 3.0.0 | 2026-09-11T07:38:44.544170Z | [open](records/dart-accessibility-tools-02c388e7.md) |
-| @gjsify/cli | Node.js/JavaScript | Cli | 0.49.0 | 2026-09-11T07:14:25.301Z | [open](records/node-js-javascript-gjsify-cli-93fdc27b.md) |
-| yuku-parser | Node.js/TypeScript | Type Checker | 0.10.1 | 2026-09-11T06:59:22.613Z | [open](records/node-js-typescript-yuku-parser-d16e0e7c.md) |
-| kalender | Dart | Datetime | 0.30.0 | 2026-09-11T06:23:52.812069Z | [open](records/dart-kalender-10f50158.md) |
-| file_picker | Dart | Filesystem Os | 12.3.0 | 2026-09-11T05:47:28.095455Z | [open](records/dart-file-picker-09b00b4c.md) |
-| @larksuite/cli | Node.js/JavaScript | Ffi Bindings | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](records/node-js-javascript-larksuite-cli-442a55c5.md) |
 
 ## Unknown Reasons
 

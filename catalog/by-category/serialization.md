@@ -23,7 +23,7 @@ Records: `408`
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · **[Serialization (408)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -172,7 +172,7 @@ Records: `408`
 | msgpackr | unknown | not_checked | [open](../records/node-js-javascript-msgpackr-97305d61.md) |
 | next-logger | 5.0.2 | 2025-10-08T08:07:39.079Z | [open](../records/node-js-javascript-next-logger-c9e9ac18.md) |
 | node-json-db | 2.6.0 | 2026-03-10T13:22:31.927Z | [open](../records/node-js-javascript-node-json-db-3561199d.md) |
-| oui-data | 2.1.20 | 2026-09-12T08:50:37.271Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
+| oui-data | 2.1.21 | 2026-09-13T09:44:35.624Z | [open](../records/node-js-javascript-oui-data-c721fc74.md) |
 | protobuf.js | unknown | not_checked | [open](../records/node-js-javascript-protobuf-js-e25225b4.md) |
 | serverless-logging-config | 1.0.2 | 2024-01-05T19:41:41.282Z | [open](../records/node-js-javascript-serverless-logging-config-d94d1c13.md) |
 | sharedb | 6.0.3 | 2026-09-07T09:41:25.911Z | [open](../records/node-js-javascript-sharedb-65f97f47.md) |
