@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1742`
+Records: `1744`
 
 ## Navigation
 
@@ -13,11 +13,11 @@ Records: `1742`
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -315,6 +315,7 @@ Records: `1742`
 | [formatting](../records/haskell-formatting-265fd9f8.md) | 7.2.0 | 2022-11-25T23:41:48Z | registry-derived |
 | [hspec-junit-formatter](../records/haskell-hspec-junit-formatter-1edbeb32.md) | 1.3.1.1 | 2026-07-22T19:16:46Z | registry-derived |
 | [sequence-formats](../records/haskell-sequence-formats-57dac885.md) | 1.11.0.2 | 2025-06-11T06:12:49Z | registry-derived |
+| [skylighting-format-blaze-html](../records/haskell-skylighting-format-blaze-html-e1239789.md) | 0.1.2.2 | 2026-09-13T19:02:52Z | registry-derived |
 | [text-format](../records/haskell-text-format-a2c5e7e6.md) | 0.3.2.1 | 2022-11-21T22:42:32Z | registry-derived |
 
 ### Fuzzer
@@ -1096,7 +1097,7 @@ Records: `1742`
 | [midi](../records/haskell-midi-0107fcf7.md) | 0.2.2.6 | 2026-06-03T10:52:01Z | registry-derived |
 | [mini](../records/haskell-mini-8b13af00.md) | 2.1.0.0 | 2026-09-07T18:07:57Z | registry-derived |
 | [minio-hs](../records/haskell-minio-hs-ee34dd94.md) | 1.7.0 | 2023-05-22T20:19:31Z | registry-derived |
-| [miso](../records/haskell-miso-6e93c710.md) | 1.13.0.0 | 2026-08-30T22:19:35Z | registry-derived |
+| [miso](../records/haskell-miso-6e93c710.md) | 1.14.0.0 | 2026-09-13T19:27:57Z | registry-derived |
 | [MissingH](../records/haskell-missingh-e7599c81.md) | 1.6.0.3 | 2026-01-07T08:02:37Z | registry-derived |
 | [mixed-types-num](../records/haskell-mixed-types-num-ea61ec77.md) | 0.6.2 | 2024-10-05T10:35:52Z | registry-derived |
 | [mmark](../records/haskell-mmark-781e14c5.md) | 0.1.0.0 | 2026-08-16T19:09:09Z | registry-derived |
@@ -1354,8 +1355,8 @@ Records: `1742`
 | [simple-smt](../records/haskell-simple-smt-901983e2.md) | 1.0.1 | 2026-08-31T22:28:21Z | registry-derived |
 | [singletons](../records/haskell-singletons-0cb75e04.md) | 3.0.4 | 2024-12-11T12:49:55Z | registry-derived |
 | [sizes](../records/haskell-sizes-0e2a08bf.md) | 2.4.4 | 2026-08-13T04:27:48Z | registry-derived |
-| [skylighting](../records/haskell-skylighting-ee145f6d.md) | 0.14.7 | 2025-09-06T08:19:27Z | registry-derived |
-| [skylighting-core](../records/haskell-skylighting-core-2eeb0501.md) | 0.14.7 | 2025-09-06T08:19:03Z | registry-derived |
+| [skylighting](../records/haskell-skylighting-ee145f6d.md) | 0.15 | 2026-09-13T19:09:58Z | registry-derived |
+| [skylighting-core](../records/haskell-skylighting-core-2eeb0501.md) | 0.15 | 2026-09-13T19:09:24Z | registry-derived |
 | [slack-web](../records/haskell-slack-web-8cfb2dde.md) | 2.2.0.0 | 2025-03-24T18:11:43Z | registry-derived |
 | [sloane](../records/haskell-sloane-218ac5ea.md) | 5.0.1 | 2017-07-03T18:18:50Z | registry-derived |
 | [slynx](../records/haskell-slynx-4453bc4b.md) | 0.9.0.0 | 2025-08-11T07:21:54Z | registry-derived |
@@ -1413,6 +1414,7 @@ Records: `1742`
 | [synthesizer-core](../records/haskell-synthesizer-core-892f4041.md) | 0.9.0.1 | 2026-07-09T14:51:24Z | registry-derived |
 | [system-fileio](../records/haskell-system-fileio-17a471dc.md) | 0.3.16.7 | 2025-05-14T09:13:23Z | registry-derived |
 | [table-layout](../records/haskell-table-layout-976bcbcc.md) | 1.0.0.2 | 2025-05-18T13:53:50Z | registry-derived |
+| [tadka](../records/haskell-tadka-343b7cb4.md) | 2.0.0.0 | 2026-09-13T18:31:14Z | registry-derived |
 | [taffybar](../records/haskell-taffybar-a815d4bc.md) | 7.3.1 | 2026-09-04T15:54:34Z | registry-derived |
 | [tagged](../records/haskell-tagged-7a3ae623.md) | 0.8.10 | 2025-12-08T00:55:42Z | registry-derived |
 | [tagsoup](../records/haskell-tagsoup-2c416a3f.md) | 0.14.8 | 2019-05-01T19:45:41Z | registry-derived |

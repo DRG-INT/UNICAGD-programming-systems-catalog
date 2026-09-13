@@ -13,11 +13,11 @@ Records: `2183`
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -542,7 +542,7 @@ Records: `2183`
 | [iso8601](../records/rust-iso8601-3988d98f.md) | 0.6.5 | 2026-07-25T10:33:22.245499Z | crates_io |
 | [jiff](../records/rust-jiff-b0e170ca.md) | 0.2.37 | 2026-09-12T15:39:55.879487Z | registry-derived |
 | [konst](../records/rust-konst-2e44a3a7.md) | 0.4.3 | 2026-04-16T03:26:19.719591Z | crates_io |
-| [lru-slab](../records/rust-lru-slab-0d44d9bc.md) | 0.1.2 | 2025-04-19T16:52:25.183724Z | registry-derived |
+| [lru-slab](../records/rust-lru-slab-0d44d9bc.md) | 0.1.3 | 2026-09-13T19:19:47.208511Z | registry-derived |
 | [potential_utf](../records/rust-potential-utf-582c1be5.md) | 0.1.6 | 2026-08-13T23:28:14.578806Z | registry-derived |
 | [regex-lite](../records/rust-regex-lite-0ea8ce93.md) | 0.1.9 | 2026-02-03T13:47:43.407798Z | registry-derived |
 | [rust-embed](../records/rust-rust-embed-24bf3bfb.md) | 8.12.0 | 2026-07-08T06:06:06.917158Z | crates_io |
@@ -1666,7 +1666,7 @@ Records: `2183`
 | [tauri-winres](../records/rust-tauri-winres-0056e5eb.md) | 0.3.6 | 2026-04-27T03:06:53.653967Z | crates_io |
 | [tempfile](../records/rust-tempfile-9b91f1ce.md) | 3.27.0 | 2026-03-11T00:20:04.812840Z | registry-derived |
 | [tendril](../records/rust-tendril-cf3cb5b4.md) | 0.5.1 | 2026-07-06T14:29:34.019165Z | registry-derived |
-| [textwrap](../records/rust-textwrap-8db4ad70.md) | 0.16.3 | 2026-09-09T22:11:04.348580Z | registry-derived |
+| [textwrap](../records/rust-textwrap-8db4ad70.md) | 0.16.4 | 2026-09-13T19:48:56.924244Z | registry-derived |
 | [thin-vec](../records/rust-thin-vec-fd203c4a.md) | 0.2.19 | 2026-07-26T12:35:38.368918Z | crates_io |
 | [thiserror](../records/rust-thiserror-85aecacb.md) | 2.0.20 | 2026-08-08T06:22:23.795550Z | registry-derived |
 | [tiff](../records/rust-tiff-c33f6a02.md) | 0.11.3 | 2026-02-10T04:18:15.326938Z | registry-derived |
@@ -2146,7 +2146,7 @@ Records: `2183`
 | [serde_derive_internals](../records/rust-serde-derive-internals-4bb555e2.md) | 0.30.0 | 2026-07-25T14:58:00.367023Z | registry-derived |
 | [simd_cesu8](../records/rust-simd-cesu8-f38ede2f.md) | 1.2.0 | 2026-07-13T21:51:49.803302Z | crates_io |
 | [simplecss](../records/rust-simplecss-9cc07545.md) | 0.2.2 | 2025-01-06T13:06:27.458973Z | crates_io |
-| [sqlparser](../records/rust-sqlparser-1967217c.md) | 0.62.0 | 2026-05-07T20:28:05.419959Z | registry-derived |
+| [sqlparser](../records/rust-sqlparser-1967217c.md) | 0.63.0 | 2026-09-13T20:07:26.055155Z | registry-derived |
 | [sqlparser_derive](../records/rust-sqlparser-derive-39fe5362.md) | 0.5.0 | 2026-02-10T15:54:47.574676Z | crates_io |
 | [strength_reduce](../records/rust-strength-reduce-a1d2590d.md) | 0.2.4 | 2022-11-08T03:46:49.572569Z | crates_io |
 | [svgtypes](../records/rust-svgtypes-ed456006.md) | 0.16.1 | 2026-01-09T17:52:13.943Z | crates_io |

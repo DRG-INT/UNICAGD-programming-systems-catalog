@@ -13,11 +13,11 @@ Records: `1724`
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1724)](filesystem-os.md)** · [Formatter (670)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1724)](filesystem-os.md)** · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6145)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -602,7 +602,7 @@ Records: `1724`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-13T19:14:09Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-13T20:16:13Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -621,7 +621,7 @@ Records: `1724`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | f/prompts.chat | partial | 2026-09-09T10:27:05Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
-| Fosowl/agenticSeek | partial | 2026-09-13T18:59:49Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
+| Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
@@ -1111,7 +1111,7 @@ Records: `1724`
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
 | hmans/composer-suite | partial | 2026-02-27T15:45:58Z | [open](../records/effects-hmans-composer-suite-79097285.md) |
 | hughsk/voxel-colorist | partial | 2013-03-02T03:56:56Z | [open](../records/effects-hughsk-voxel-colorist-4f0cd027.md) |
-| hyprwm/Hyprland | partial | 2026-09-12T19:32:17Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
+| hyprwm/Hyprland | partial | 2026-09-13T15:27:21Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
 | ianmartinez/laikawm | partial | 2020-10-01T14:34:19Z | [open](../records/effects-ianmartinez-laikawm-c3e8d5aa.md) |
 | iBicha/ImageEffectGraph | partial | 2021-04-06T21:10:05Z | [open](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) |
 | icanzilb/UIEffectDesignerView | partial | 2013-03-31T13:13:33Z | [open](../records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) |
@@ -1153,7 +1153,7 @@ Records: `1724`
 | luisnquin/battery-notifier | partial | 2026-06-13T04:07:29Z | [open](../records/effects-luisnquin-battery-notifier-63a8347b.md) |
 | malbiruk/driftwm | partial | 2026-09-06T14:53:57Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | Malidos/Stylized-Water-Shader | partial | 2024-12-11T15:47:23Z | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
-| mangowm/mango | partial | 2026-09-12T14:39:57Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
+| mangowm/mango | partial | 2026-09-13T15:04:08Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
 | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | partial | 2019-06-05T19:15:07Z | [open](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
 | marinho/godot-visual-effects | partial | 2024-01-01T12:51:46Z | [open](../records/effects-marinho-godot-visual-effects-9a6af611.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/effects-martinber-noaa-apt-cd098cc9.md) |
@@ -1225,7 +1225,7 @@ Records: `1724`
 | WillyBilly06/BDK-AUDIO-APP | partial | 2026-06-08T09:56:37Z | [open](../records/effects-willybilly06-bdk-audio-app-13262d72.md) |
 | witherst/MayaNodeInterface | partial | 2015-08-27T16:34:34Z | [open](../records/effects-witherst-mayanodeinterface-da0e0468.md) |
 | wizgrav/aframe-effects | partial | 2020-08-23T23:36:32Z | [open](../records/effects-wizgrav-aframe-effects-51b6f98f.md) |
-| wlrfx/swayfx | partial | 2026-09-07T22:17:23Z | [open](../records/effects-wlrfx-swayfx-44f294c1.md) |
+| wlrfx/swayfx | partial | 2026-09-13T04:22:30Z | [open](../records/effects-wlrfx-swayfx-44f294c1.md) |
 | Wokarol/PostProcessing-CustomEffects | partial | 2019-06-03T20:20:43Z | [open](../records/effects-wokarol-postprocessing-customeffects-d426029f.md) |
 | wolf96/shader_for_unity | partial | 2015-08-07T01:16:56Z | [open](../records/effects-wolf96-shader-for-unity-ab3c90c1.md) |
 | XanderXu/RealityShaderExtension | partial | 2026-01-15T09:43:04Z | [open](../records/effects-xanderxu-realityshaderextension-4a05b6bb.md) |
@@ -1375,7 +1375,7 @@ Records: `1724`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-13T18:02:14Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T19:56:02Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy

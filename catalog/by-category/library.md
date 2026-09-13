@@ -1,6 +1,6 @@
 # Library
 
-Records: `6145`
+Records: `6147`
 
 ## Navigation
 
@@ -13,11 +13,11 @@ Records: `6145`
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (670)](formatter.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6145)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6147)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -1873,7 +1873,7 @@ Records: `6145`
 | tauri-winres | 0.3.6 | 2026-04-27T03:06:53.653967Z | [open](../records/rust-tauri-winres-0056e5eb.md) |
 | tempfile | 3.27.0 | 2026-03-11T00:20:04.812840Z | [open](../records/rust-tempfile-9b91f1ce.md) |
 | tendril | 0.5.1 | 2026-07-06T14:29:34.019165Z | [open](../records/rust-tendril-cf3cb5b4.md) |
-| textwrap | 0.16.3 | 2026-09-09T22:11:04.348580Z | [open](../records/rust-textwrap-8db4ad70.md) |
+| textwrap | 0.16.4 | 2026-09-13T19:48:56.924244Z | [open](../records/rust-textwrap-8db4ad70.md) |
 | thin-vec | 0.2.19 | 2026-07-26T12:35:38.368918Z | [open](../records/rust-thin-vec-fd203c4a.md) |
 | thiserror | 2.0.20 | 2026-08-08T06:22:23.795550Z | [open](../records/rust-thiserror-85aecacb.md) |
 | tiff | 0.11.3 | 2026-02-10T04:18:15.326938Z | [open](../records/rust-tiff-c33f6a02.md) |
@@ -2610,6 +2610,7 @@ Records: `6145`
 | csranks | 1.3.0 | 2026-08-21 05:44:19 UTC | [open](../records/r-csranks-d89e3d2e.md) |
 | ctreeMI | 1.0.1 | 2026-08-26 13:10:02 UTC | [open](../records/r-ctreemi-ff0ea3f0.md) |
 | cvar | 0.6.1 | 2026-08-21 15:00:08 UTC | [open](../records/r-cvar-51573d53.md) |
+| cystiSim | 0.2.1 | 2026-09-13 20:00:02 UTC | [open](../records/r-cystisim-0af0aa29.md) |
 | D4TAlink.light | 2.1.23 | 2026-08-04 10:40:09 UTC | [open](../records/r-d4talink-light-d725bd05.md) |
 | dann | 1.3.0 | 2026-08-28 13:50:02 UTC | [open](../records/r-dann-a22b2209.md) |
 | data.table | 1.18.6.1 | 2026-08-24 08:40:13 UTC | [open](../records/r-data-table-9d604bea.md) |
@@ -3877,7 +3878,7 @@ Records: `6145`
 | midi | 0.2.2.6 | 2026-06-03T10:52:01Z | [open](../records/haskell-midi-0107fcf7.md) |
 | mini | 2.1.0.0 | 2026-09-07T18:07:57Z | [open](../records/haskell-mini-8b13af00.md) |
 | minio-hs | 1.7.0 | 2023-05-22T20:19:31Z | [open](../records/haskell-minio-hs-ee34dd94.md) |
-| miso | 1.13.0.0 | 2026-08-30T22:19:35Z | [open](../records/haskell-miso-6e93c710.md) |
+| miso | 1.14.0.0 | 2026-09-13T19:27:57Z | [open](../records/haskell-miso-6e93c710.md) |
 | MissingH | 1.6.0.3 | 2026-01-07T08:02:37Z | [open](../records/haskell-missingh-e7599c81.md) |
 | mixed-types-num | 0.6.2 | 2024-10-05T10:35:52Z | [open](../records/haskell-mixed-types-num-ea61ec77.md) |
 | mmark | 0.1.0.0 | 2026-08-16T19:09:09Z | [open](../records/haskell-mmark-781e14c5.md) |
@@ -4135,8 +4136,8 @@ Records: `6145`
 | simple-smt | 1.0.1 | 2026-08-31T22:28:21Z | [open](../records/haskell-simple-smt-901983e2.md) |
 | singletons | 3.0.4 | 2024-12-11T12:49:55Z | [open](../records/haskell-singletons-0cb75e04.md) |
 | sizes | 2.4.4 | 2026-08-13T04:27:48Z | [open](../records/haskell-sizes-0e2a08bf.md) |
-| skylighting | 0.14.7 | 2025-09-06T08:19:27Z | [open](../records/haskell-skylighting-ee145f6d.md) |
-| skylighting-core | 0.14.7 | 2025-09-06T08:19:03Z | [open](../records/haskell-skylighting-core-2eeb0501.md) |
+| skylighting | 0.15 | 2026-09-13T19:09:58Z | [open](../records/haskell-skylighting-ee145f6d.md) |
+| skylighting-core | 0.15 | 2026-09-13T19:09:24Z | [open](../records/haskell-skylighting-core-2eeb0501.md) |
 | slack-web | 2.2.0.0 | 2025-03-24T18:11:43Z | [open](../records/haskell-slack-web-8cfb2dde.md) |
 | sloane | 5.0.1 | 2017-07-03T18:18:50Z | [open](../records/haskell-sloane-218ac5ea.md) |
 | slynx | 0.9.0.0 | 2025-08-11T07:21:54Z | [open](../records/haskell-slynx-4453bc4b.md) |
@@ -4194,6 +4195,7 @@ Records: `6145`
 | synthesizer-core | 0.9.0.1 | 2026-07-09T14:51:24Z | [open](../records/haskell-synthesizer-core-892f4041.md) |
 | system-fileio | 0.3.16.7 | 2025-05-14T09:13:23Z | [open](../records/haskell-system-fileio-17a471dc.md) |
 | table-layout | 1.0.0.2 | 2025-05-18T13:53:50Z | [open](../records/haskell-table-layout-976bcbcc.md) |
+| tadka | 2.0.0.0 | 2026-09-13T18:31:14Z | [open](../records/haskell-tadka-343b7cb4.md) |
 | taffybar | 7.3.1 | 2026-09-04T15:54:34Z | [open](../records/haskell-taffybar-a815d4bc.md) |
 | tagged | 0.8.10 | 2025-12-08T00:55:42Z | [open](../records/haskell-tagged-7a3ae623.md) |
 | tagsoup | 0.14.8 | 2019-05-01T19:45:41Z | [open](../records/haskell-tagsoup-2c416a3f.md) |
@@ -4580,7 +4582,7 @@ Records: `6145`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-13T17:44:33Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-13T20:12:06Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
