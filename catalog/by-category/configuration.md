@@ -239,7 +239,7 @@ Records: `141`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ooesili/sorceress | unknown | github_latest_release_missing | [open](../records/audio-ooesili-sorceress-48398234.md) |
+| ooesili/sorceress | partial | 2024-07-17T01:02:48Z | [open](../records/audio-ooesili-sorceress-48398234.md) |
 | tidalcycles/strudel | partial | 2025-06-19T15:56:31Z | [open](../records/audio-tidalcycles-strudel-194d5711.md) |
 
 ## Video

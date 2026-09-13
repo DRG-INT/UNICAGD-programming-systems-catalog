@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-13T18:24:17+00:00`
+Generated: `2026-09-13T19:18:16+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -64,7 +64,7 @@ Generated: `2026-09-13T18:24:17+00:00`
 | Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 656 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 785 | 1 | [Effects](by-language/effects.md) |
-| Audio | 481 | 6 | [Audio](by-language/audio.md) |
+| Audio | 481 | 0 | [Audio](by-language/audio.md) |
 | Video | 471 | 0 | [Video](by-language/video.md) |
 | Photography | 599 | 0 | [Photography](by-language/photography.md) |
 | Microscopy | 194 | 0 | [Microscopy](by-language/microscopy.md) |
@@ -201,7 +201,7 @@ Generated: `2026-09-13T18:24:17+00:00`
 | Space Shuttles | 0 | 80 |
 | Space Maps | 0 | 656 |
 | Effects | 1 | 784 |
-| Audio | 6 | 475 |
+| Audio | 0 | 481 |
 | Video | 0 | 471 |
 | Photography | 0 | 599 |
 | Microscopy | 0 | 194 |

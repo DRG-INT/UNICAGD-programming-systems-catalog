@@ -405,10 +405,10 @@ Records: `450`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Archie3d/aeolus_plugin | v0.3.0 | 2025-05-31T13:17:36Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
+| Archie3d/aeolus_plugin | partial | 2026-01-11T00:21:37Z | [open](../records/audio-archie3d-aeolus-plugin-c1d397f6.md) |
 | attenlabs/saa-sdk | partial | 2026-07-15T20:52:27Z | [open](../records/audio-attenlabs-saa-sdk-feb070cb.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
-| collidingScopes/arpeggiator | unknown | github_latest_release_missing | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
+| collidingScopes/arpeggiator | partial | 2025-06-22T20:06:32Z | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
 | modelscope/FunASR | partial | 2026-09-10T10:59:25Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-10T03:37:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 

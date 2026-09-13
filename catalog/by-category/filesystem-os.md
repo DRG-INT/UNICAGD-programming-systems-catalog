@@ -602,7 +602,7 @@ Records: `1724`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-13T18:09:59Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-13T19:14:09Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -621,7 +621,7 @@ Records: `1724`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | f/prompts.chat | partial | 2026-09-09T10:27:05Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
-| Fosowl/agenticSeek | partial | 2026-09-13T17:54:22Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
+| Fosowl/agenticSeek | partial | 2026-09-13T18:59:49Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
@@ -1239,13 +1239,13 @@ Records: `1724`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| akunull/piloslib | unknown | github_latest_release_missing | [open](../records/audio-akunull-piloslib-6084501c.md) |
+| akunull/piloslib | partial | 2023-06-03T14:33:53Z | [open](../records/audio-akunull-piloslib-6084501c.md) |
 | atsushieno/uapmd | partial | 2026-09-11T07:19:23Z | [open](../records/audio-atsushieno-uapmd-592e19c7.md) |
 | AudioKit/AudioKitSynthOne | partial | 2022-03-14T16:12:43Z | [open](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) |
 | bartolsthoorn/NVDSP | partial | 2017-06-05T09:19:32Z | [open](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) |
-| calf-studio-gear/calf | partial | 2026-07-31T15:17:16Z | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
+| calf-studio-gear/calf | partial | 2026-09-07T15:22:35Z | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
 | ceva-ip/DPDFNet | partial | 2026-09-09T11:34:38Z | [open](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) |
-| christofmuc/KnobKraft-orm | partial | 2026-09-07T09:06:50Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
+| christofmuc/KnobKraft-orm | partial | 2026-09-13T13:33:57Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
 | Conceptual-Machines/magda-core | partial | 2026-09-11T09:18:29Z | [open](../records/audio-conceptual-machines-magda-core-daf4c398.md) |
 | ddiakopoulos/MoogLadders | partial | 2026-06-13T18:35:36Z | [open](../records/audio-ddiakopoulos-moogladders-03832924.md) |
 | DropSnorz/OwlPlug | partial | 2026-09-07T21:10:05Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
@@ -1254,7 +1254,7 @@ Records: `1724`
 | HEnquist/camilladsp | partial | 2026-09-07T14:50:04Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
-| jameshball/osci-render | partial | 2026-09-10T20:06:07Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
+| jameshball/osci-render | partial | 2026-09-13T09:54:45Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
 | jatinchowdhury18/ChowPhaser | partial | 2022-02-23T08:14:59Z | [open](../records/audio-jatinchowdhury18-chowphaser-48d2d1a6.md) |
 | josephernest/SamplerBox | partial | 2024-05-09T19:18:19Z | [open](../records/audio-josephernest-samplerbox-c23f8c2d.md) |
 | joshwcomeau/key-and-pad | partial | 2022-12-12T07:44:58Z | [open](../records/audio-joshwcomeau-key-and-pad-da5bc43a.md) |
@@ -1265,7 +1265,7 @@ Records: `1724`
 | microsoft/UniSpeech | partial | 2024-04-05T13:14:48Z | [open](../records/audio-microsoft-unispeech-787685ec.md) |
 | mimium-org/mimium | partial | 2024-12-22T10:14:15Z | [open](../records/audio-mimium-org-mimium-8b76284d.md) |
 | openframeworks/openFrameworks | partial | 2026-09-12T04:38:10Z | [open](../records/audio-openframeworks-openframeworks-3c0a071e.md) |
-| polykit/pico-dco | unknown | github_latest_release_missing | [open](../records/audio-polykit-pico-dco-17364b22.md) |
+| polykit/pico-dco | partial | 2023-03-25T18:19:55Z | [open](../records/audio-polykit-pico-dco-17364b22.md) |
 | Rikorose/DeepFilterNet | partial | 2024-10-17T08:35:11Z | [open](../records/audio-rikorose-deepfilternet-659ef42c.md) |
 | rishikanthc/Scriberr | partial | 2026-06-01T03:07:49Z | [open](../records/audio-rishikanthc-scriberr-55b843d3.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/audio-robclouth-noise-canvas-9c933b86.md) |
@@ -1375,7 +1375,7 @@ Records: `1724`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-13T14:53:30Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T18:02:14Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy

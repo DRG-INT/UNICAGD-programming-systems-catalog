@@ -632,7 +632,7 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ardura/Actuate | v1.4.5 | 2026-04-15T14:51:14Z | [open](../records/audio-ardura-actuate-1c5dd2e9.md) |
+| ardura/Actuate | partial | 2026-06-04T16:05:07Z | [open](../records/audio-ardura-actuate-1c5dd2e9.md) |
 | arjo129/uSpeech | partial | 2021-05-05T10:12:34Z | [open](../records/audio-arjo129-uspeech-5eba5bde.md) |
 | bbc/peaks.js | partial | 2025-11-08T03:09:27Z | [open](../records/audio-bbc-peaks-js-ecba90fa.md) |
 | DhrBaksteen/ArduinoOPL2 | partial | 2025-01-19T12:21:54Z | [open](../records/audio-dhrbaksteen-arduinoopl2-f259ef2c.md) |
@@ -647,7 +647,7 @@ Records: `651`
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |
 | unchihugo/FluentFlyout | partial | 2026-09-12T06:08:17Z | [open](../records/audio-unchihugo-fluentflyout-e2e81b2d.md) |
-| zynthian/zynthian-ui | partial | 2026-09-06T20:31:32Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
+| zynthian/zynthian-ui | partial | 2026-09-13T18:54:42Z | [open](../records/audio-zynthian-zynthian-ui-308e1a33.md) |
 
 ## Video
 

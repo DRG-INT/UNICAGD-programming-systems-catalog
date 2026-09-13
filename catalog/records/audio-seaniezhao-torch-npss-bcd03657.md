@@ -32,23 +32,23 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | v0.2.0 | 2019-07-03T10:56:32Z | [https://api.github.com/repos/seaniezhao/torch_npss/releases/latest](https://api.github.com/repos/seaniezhao/torch_npss/releases/latest) |  |
-| preview | known | v0.0.2 | 2019-04-11T16:36:57Z | [https://api.github.com/repos/seaniezhao/torch_npss/releases?per_page=10](https://api.github.com/repos/seaniezhao/torch_npss/releases?per_page=10) |  |
+| stable | partial |  | 2021-12-27T03:37:29Z | gh search repos topic:synthesizer stars:>50 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
 - Treat category as `machine_learning` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://api.github.com/repos/seaniezhao/torch_npss/releases/latest` at `2026-09-01T11:21:42+00:00`.
-- Preview/nightly metadata is present through channel `preview`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -57,7 +57,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-01 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthesizer stars:>50", "retrieved": "2026-09-01", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:synthesizer stars:>50", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

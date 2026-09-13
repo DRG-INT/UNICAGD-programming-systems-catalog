@@ -1426,7 +1426,7 @@ Records: `1666`
 | VASTDynamics/Vaporizer2 | partial | 2024-09-14T15:20:53Z | [open](../records/audio-vastdynamics-vaporizer2-569707f6.md) |
 | vime-js/vime | partial | 2024-11-17T10:34:11Z | [open](../records/audio-vime-js-vime-2846352d.md) |
 | vipchengrui/traditional-speech-enhancement | partial | 2019-11-29T03:50:26Z | [open](../records/audio-vipchengrui-traditional-speech-enhancement-cd017dca.md) |
-| zynaddsubfx/zynaddsubfx | partial | 2026-07-26T20:57:46Z | [open](../records/audio-zynaddsubfx-zynaddsubfx-a0495cd0.md) |
+| zynaddsubfx/zynaddsubfx | partial | 2026-09-10T23:45:36Z | [open](../records/audio-zynaddsubfx-zynaddsubfx-a0495cd0.md) |
 
 ## Video
 

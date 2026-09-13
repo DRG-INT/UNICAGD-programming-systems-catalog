@@ -41,7 +41,7 @@ tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | GPL (>= 2); MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
+| Evidence | MIT License; https://api.github.com/licenses/mit; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

@@ -391,7 +391,7 @@ Records: `327`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | albertaparicio/tfg-voice-conversion | partial | 2022-12-18T11:50:48Z | [open](../records/audio-albertaparicio-tfg-voice-conversion-85e47393.md) |
-| jpcima/ADLplug | v1.0.2 | 2020-08-05T14:54:37Z | [open](../records/audio-jpcima-adlplug-39ccc0a3.md) |
+| jpcima/ADLplug | partial | 2023-05-12T13:28:41Z | [open](../records/audio-jpcima-adlplug-39ccc0a3.md) |
 
 ## Video
 
@@ -406,7 +406,7 @@ Records: `327`
 | besscroft/PicImpact | partial | 2026-07-03T13:33:00Z | [open](../records/photography-besscroft-picimpact-0dc1368b.md) |
 | boltgolt/howdy | partial | 2025-07-29T10:07:27Z | [open](../records/photography-boltgolt-howdy-772dcbb3.md) |
 | deric/DaVinciResolve-metadata | partial | 2025-10-13T08:04:47Z | [open](../records/photography-deric-davinciresolve-metadata-8a13e074.md) |
-| marcinz606/NegPy | partial | 2026-09-13T16:54:20Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
+| marcinz606/NegPy | partial | 2026-09-13T18:02:56Z | [open](../records/photography-marcinz606-negpy-13e4113f.md) |
 | ramokz/phantom-camera | partial | 2026-09-07T17:15:42Z | [open](../records/photography-ramokz-phantom-camera-07b158cf.md) |
 | showmewebcam/showmewebcam | partial | 2024-08-14T16:42:44Z | [open](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) |
 | SpecialKO/SpecialK | partial | 2026-09-09T03:41:20Z | [open](../records/photography-specialko-specialk-d14b8655.md) |

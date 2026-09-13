@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T18:24:17+00:00`
+Generated: `2026-09-13T19:18:16+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,8 +28,8 @@ Generated: `2026-09-13T18:24:17+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10937 |
-| Unknown stable release | 18268 |
+| Known stable release | 10931 |
+| Unknown stable release | 18274 |
 
 ## Newest Known Stable Metadata
 
@@ -290,7 +290,7 @@ Generated: `2026-09-13T18:24:17+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10643 |
+| gh_search_reports_activity_not_release_version | 10659 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -300,7 +300,7 @@ Generated: `2026-09-13T18:24:17+00:00`
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
-| github_latest_release_missing | 219 |
+| github_latest_release_missing | 209 |
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |

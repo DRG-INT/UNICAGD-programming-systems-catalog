@@ -562,7 +562,7 @@ Records: `558`
 | huawei-noah/Speech-Backbones | partial | 2023-09-18T08:22:42Z | [open](../records/audio-huawei-noah-speech-backbones-ae7b134d.md) |
 | innFactory/react-native-dialogflow | partial | 2023-05-04T19:18:49Z | [open](../records/audio-innfactory-react-native-dialogflow-3bb7da64.md) |
 | jatinchowdhury18/AnalogTapeModel | partial | 2025-04-09T07:59:02Z | [open](../records/audio-jatinchowdhury18-analogtapemodel-a0c4d127.md) |
-| mzuelch/CATs-Eurosynth | unknown | github_latest_release_missing | [open](../records/audio-mzuelch-cats-eurosynth-a6002844.md) |
+| mzuelch/CATs-Eurosynth | partial | 2024-11-01T04:02:07Z | [open](../records/audio-mzuelch-cats-eurosynth-a6002844.md) |
 | newdigate/teensy-eurorack | partial | 2023-07-22T09:08:39Z | [open](../records/audio-newdigate-teensy-eurorack-52a4de61.md) |
 | OpenMOSS/MOSS-TTS | partial | 2026-09-06T06:19:28Z | [open](../records/audio-openmoss-moss-tts-9e9e0059.md) |
 | reales/OB-Xd | partial | 2026-08-18T06:45:29Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
@@ -585,7 +585,7 @@ Records: `558`
 | amd/mini-isp | partial | 2026-09-01T17:19:59Z | [open](../records/photography-amd-mini-isp-b6f8adc0.md) |
 | doom40k/photography-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-doom40k-photography-blog-347adc8b.md) |
 | fakeyanss/Hexo-Album | unknown | github_search_does_not_include_release_date | [open](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
-| sambecker/exif-photo-blog | partial | 2026-09-13T04:50:08Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
+| sambecker/exif-photo-blog | partial | 2026-09-13T19:17:09Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
 
 ## Microscopy
 

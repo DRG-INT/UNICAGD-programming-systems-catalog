@@ -329,7 +329,7 @@ Records: `451`
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
 | freeman-jiang/beatsync | partial | 2026-06-12T18:53:27Z | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
-| FuchsiaBytes/twang | unknown | github_latest_release_missing | [open](../records/audio-fuchsiabytes-twang-463a8f33.md) |
+| FuchsiaBytes/twang | partial | 2025-03-03T06:20:18Z | [open](../records/audio-fuchsiabytes-twang-463a8f33.md) |
 | fullfxmedia/setekh | partial | 2026-02-19T14:38:36Z | [open](../records/audio-fullfxmedia-setekh-d49835a1.md) |
 | GeekyEggo/SoundDeck | partial | 2024-10-16T18:13:01Z | [open](../records/audio-geekyeggo-sounddeck-4b9cf71b.md) |
 | gemengtju/Tutorial_Speech_Signal_Processing | partial | 2020-07-20T11:33:47Z | [open](../records/audio-gemengtju-tutorial-speech-signal-processing-e00ad743.md) |
@@ -402,7 +402,7 @@ Records: `451`
 | styx-emulator/styx-emulator | partial | 2026-08-13T20:47:32Z | [open](../records/audio-styx-emulator-styx-emulator-e035860e.md) |
 | suda/wireless-microphone | partial | 2023-03-02T21:23:41Z | [open](../records/audio-suda-wireless-microphone-ab136d62.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/audio-superkogito-spafe-354360b4.md) |
-| surge-synthesizer/surge | partial | 2026-09-05T09:17:39Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
+| surge-synthesizer/surge | partial | 2026-09-13T17:23:19Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-13T15:06:57Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
 | thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |

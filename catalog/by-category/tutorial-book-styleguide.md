@@ -150,7 +150,7 @@ Records: `77`
 | --- | --- | --- | --- |
 | ahkarami/Great-Deep-Learning-Books | partial | 2024-11-23T09:51:00Z | [open](../records/audio-ahkarami-great-deep-learning-books-0b6766b4.md) |
 | gemengtju/Tutorial_Separation | partial | 2021-01-09T07:25:53Z | [open](../records/audio-gemengtju-tutorial-separation-9e84796b.md) |
-| hollance/synth-plugin-book | unknown | github_latest_release_missing | [open](../records/audio-hollance-synth-plugin-book-483e8c79.md) |
+| hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-483e8c79.md) |
 
 ## Video
 
