@@ -17,13 +17,13 @@ Records: `1041`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6132)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (74)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -665,7 +665,7 @@ Records: `1041`
 | mvukov/rules_ros2 | partial | 2026-09-10T23:25:11Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
 | pubref/rules_kotlin | partial | 2018-06-03T18:25:58Z | [open](../records/starlark-pubref-rules-kotlin-0034e649.md) |
 | pubref/rules_protobuf | partial | 2023-07-28T17:49:54Z | [open](../records/starlark-pubref-rules-protobuf-8dcd4cee.md) |
-| rules-proto-grpc/rules_proto_grpc | partial | 2026-09-07T17:54:15Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
+| rules-proto-grpc/rules_proto_grpc | partial | 2026-09-13T04:14:15Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
 | stackb/rules_proto | partial | 2026-09-08T20:02:39Z | [open](../records/starlark-stackb-rules-proto-b9dcde4f.md) |
 | tidbyt/pixlet | partial | 2026-09-10T21:45:00Z | [open](../records/starlark-tidbyt-pixlet-876fea90.md) |
 | tweag/rules_haskell | partial | 2026-09-11T03:57:40Z | [open](../records/starlark-tweag-rules-haskell-f813b994.md) |
@@ -904,7 +904,7 @@ Records: `1041`
 | --- | --- | --- | --- |
 | AuburnSounds/Dplug | partial | 2026-09-11T07:56:08Z | [open](../records/effects-auburnsounds-dplug-3c33ea8b.md) |
 | c8r/iso | partial | 2018-06-03T18:44:56Z | [open](../records/effects-c8r-iso-4a2333dd.md) |
-| ChrisBuilds/terminaltexteffects | partial | 2026-09-12T13:55:58Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
+| ChrisBuilds/terminaltexteffects | partial | 2026-09-13T03:14:46Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
 | CuarzoSoftware/Louvre | partial | 2026-09-12T16:41:12Z | [open](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) |
 | DatanoiseTV/PicoADK-Hardware | partial | 2024-01-05T12:00:10Z | [open](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) |
 | james34602/JamesDSPManager | partial | 2025-06-18T14:08:35Z | [open](../records/effects-james34602-jamesdspmanager-b977897f.md) |
@@ -914,7 +914,7 @@ Records: `1041`
 | kratofl/kratomix | partial | 2026-08-18T21:09:01Z | [open](../records/effects-kratofl-kratomix-0945699b.md) |
 | Masudbro94/python-hacked-mobile-phone- | partial | 2022-06-30T09:10:26Z | [open](../records/effects-masudbro94-python-hacked-mobile-phone-f3a240c2.md) |
 | MintoTsukino/MintoShaderSuite | partial | 2025-10-23T21:20:26Z | [open](../records/effects-mintotsukino-mintoshadersuite-ef86ca31.md) |
-| noisefactorllc/noisemaker | partial | 2026-09-12T17:19:17Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
+| noisefactorllc/noisemaker | partial | 2026-09-13T02:32:54Z | [open](../records/effects-noisefactorllc-noisemaker-3b4d1858.md) |
 | overmindstudios/BlenderUpdater | partial | 2026-06-02T17:35:22Z | [open](../records/effects-overmindstudios-blenderupdater-a3b9c905.md) |
 | patrickjquinn/Marathon-Shell | partial | 2026-09-09T11:54:59Z | [open](../records/effects-patrickjquinn-marathon-shell-271a70fd.md) |
 | phkaeser/wlmaker | partial | 2026-09-06T20:00:46Z | [open](../records/effects-phkaeser-wlmaker-bba50595.md) |
@@ -1281,7 +1281,7 @@ Records: `1041`
 | HariSekhon/DevOps-Bash-tools | partial | 2026-09-04T15:36:51Z | [open](../records/databases-harisekhon-devops-bash-tools-bd29d37f.md) |
 | knex/knex | partial | 2026-06-26T15:02:12Z | [open](../records/databases-knex-knex-a41a9917.md) |
 | kossakovsky/selfhost-ai | partial | 2026-09-02T20:48:40Z | [open](../records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
-| kysely-org/kysely | partial | 2026-09-12T23:19:29Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
+| kysely-org/kysely | partial | 2026-09-12T23:55:25Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
 | lithops-cloud/lithops | partial | 2026-09-07T21:02:34Z | [open](../records/databases-lithops-cloud-lithops-39ca953e.md) |
 | makeplane/plane | partial | 2026-09-11T07:07:43Z | [open](../records/databases-makeplane-plane-b0283e4b.md) |
 | neuron-core/neuron-ai | partial | 2026-09-09T10:20:28Z | [open](../records/databases-neuron-core-neuron-ai-5499172a.md) |
@@ -1296,7 +1296,7 @@ Records: `1041`
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | smart-data-lake/smart-data-lake | partial | 2026-09-09T15:54:14Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
-| supabase/supabase | partial | 2026-09-12T21:19:24Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-13T00:40:36Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-09-10T17:49:25Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |

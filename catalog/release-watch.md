@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T03:21:58+00:00`
+Generated: `2026-09-13T04:23:39+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,20 +15,20 @@ Generated: `2026-09-13T03:21:58+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1471)](by-category/language-specification.md) · [Library (6132)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6133)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (679)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (74)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (650)](by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10913 |
+| Known stable release | 10916 |
 | Unknown stable release | 18251 |
 
 ## Newest Known Stable Metadata
@@ -39,6 +39,10 @@ Generated: `2026-09-13T03:21:58+00:00`
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
+| languageserver | R | Language Specification | 0.3.19 | 2026-09-13 04:10:02 UTC | [open](records/r-languageserver-309b2ff6.md) |
+| ACSWR | R | Tutorial Book Styleguide | 1.0.1 | 2026-09-13 03:50:09 UTC | [open](records/r-acswr-c9440a83.md) |
+| changepointGA | R | Library | 0.1.6 | 2026-09-13 03:50:02 UTC | [open](records/r-changepointga-5149066f.md) |
+| DDIwR | R | Library | 0.21 | 2026-09-13 03:30:02 UTC | [open](records/r-ddiwr-d357505a.md) |
 | mnirs | R | Static Analyzer | 0.8.0 | 2026-09-13 00:00:02 UTC | [open](records/r-mnirs-7f540354.md) |
 | pigeon | Dart | Build System | 29.0.1 | 2026-09-12T22:55:55.236325Z | [open](records/dart-pigeon-1863b3b2.md) |
 | typed-peg | Haskell | Library | 0.3.0.0 | 2026-09-12T22:51:09Z | [open](records/haskell-typed-peg-d0f69182.md) |
@@ -281,10 +285,6 @@ Generated: `2026-09-13T03:21:58+00:00`
 | shapr | R | Library | 1.1.0 | 2026-09-11 21:00:02 UTC | [open](records/r-shapr-f22ab563.md) |
 | Certara.NLME8 | R | Game Engine Game Dev | 3.2.0 | 2026-09-11 20:20:02 UTC | [open](records/r-certara-nlme8-6e386477.md) |
 | choroplethr | R | Library | 5.0.2 | 2026-09-11 20:10:33 UTC | [open](records/r-choroplethr-86d7a96b.md) |
-| echor | R | Library | 0.1.10 | 2026-09-11 20:10:27 UTC | [open](records/r-echor-5b684fbb.md) |
-| gmeans | R | Library | 0.2.0 | 2026-09-11 20:10:21 UTC | [open](records/r-gmeans-b0aa97e9.md) |
-| lotri | R | Precommit Ci Quality | 1.0.5 | 2026-09-11 20:10:13 UTC | [open](records/r-lotri-2caacf85.md) |
-| weightflow | R | Precommit Ci Quality | 1.3.0 | 2026-09-11 20:10:02 UTC | [open](records/r-weightflow-33ea0642.md) |
 
 ## Unknown Reasons
 

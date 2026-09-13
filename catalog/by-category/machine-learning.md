@@ -17,13 +17,13 @@ Records: `864`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6132)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · **[Machine Learning (864)](machine-learning.md)**
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (74)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -502,7 +502,7 @@ Records: `864`
 | proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
 | samber/lo | partial | 2026-09-09T10:10:25Z | [open](../records/go-samber-lo-293e189e.md) |
 | satmihir/fair | partial | 2026-07-06T13:49:48Z | [open](../records/go-satmihir-fair-5ee21153.md) |
-| Tencent/WeKnora | partial | 2026-09-12T16:04:17Z | [open](../records/go-tencent-weknora-254a9260.md) |
+| Tencent/WeKnora | partial | 2026-09-13T03:43:18Z | [open](../records/go-tencent-weknora-254a9260.md) |
 
 ## "aim's"
 
@@ -528,11 +528,11 @@ Records: `864`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T03:17:55Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T04:20:44Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T02:52:29Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T03:54:59Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -686,7 +686,7 @@ Records: `864`
 | Esri/arcgis-maps-sdk-dotnet-samples | unknown | github_search_does_not_include_release_date | [open](../records/maps-esri-arcgis-maps-sdk-dotnet-samples-0c5516d2.md) |
 | heremaps/maps-api-for-javascript-examples | partial | 2026-06-19T11:16:12Z | [open](../records/maps-heremaps-maps-api-for-javascript-examples-735bd309.md) |
 | jvillarejo/spyme | partial | 2023-02-10T17:14:23Z | [open](../records/maps-jvillarejo-spyme-13d048c0.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-10T21:42:36Z | [open](../records/maps-kylecorry31-trail-sense-457700a7.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-13T01:06:31Z | [open](../records/maps-kylecorry31-trail-sense-457700a7.md) |
 | louis-e/arnis | partial | 2026-09-09T22:44:25Z | [open](../records/maps-louis-e-arnis-41cc177b.md) |
 | maptiler/maptiler-sdk-js | partial | 2026-09-11T09:12:18Z | [open](../records/maps-maptiler-maptiler-sdk-js-2a5f0115.md) |
 | merlinnot/nominatim-docker | partial | 2020-05-06T17:02:44Z | [open](../records/maps-merlinnot-nominatim-docker-1b141d7d.md) |
@@ -1050,7 +1050,7 @@ Records: `864`
 | newtork/dsag-ai-sdk-java | partial | 2025-03-28T19:33:43Z | [open](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) |
 | Pallavireddy23/ai-document-process-cap-java | partial | 2026-01-02T12:40:28Z | [open](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) |
 | phannindra-dev/portfolio | partial | 2026-04-24T20:53:58Z | [open](../records/sapjava-phannindra-dev-portfolio-beda514a.md) |
-| SAP/SapMachine | partial | 2026-09-12T01:33:51Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
+| SAP/SapMachine | partial | 2026-09-13T01:06:01Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
 | sharan-space1/asint_chat_llama | partial | 2024-07-06T02:04:32Z | [open](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) |
 | sree26365-dev/sap-abap-hana-learning | partial | 2026-06-20T08:10:18Z | [open](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) |
 | zkud/sap-cap-java-advanced-dev-containers-sample | partial | 2025-03-20T18:38:12Z | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |

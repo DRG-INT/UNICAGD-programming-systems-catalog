@@ -17,13 +17,13 @@ Records: `670`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · **[Formatter (670)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6132)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (74)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
@@ -547,8 +547,8 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T03:16:12Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
-| google/langextract | partial | 2026-09-12T06:23:45Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
+| BerriAI/litellm | partial | 2026-09-13T04:19:34Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| google/langextract | partial | 2026-09-13T03:59:32Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
 
@@ -693,7 +693,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-12T20:05:50Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-12T23:20:11Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
 | AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-12T17:34:08Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | AmitDigga/threejs-galaxy-shader | partial | 2026-03-27T08:08:16Z | [open](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) |
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |

@@ -17,13 +17,13 @@ Records: `602`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6132)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (74)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -549,10 +549,10 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-13T02:56:28Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T04:12:39Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T03:06:27Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T04:06:14Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -605,7 +605,7 @@ Records: `602`
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | unknown | github_search_does_not_include_release_date | [open](../records/maps-earthaccess-dev-earthaccess-69c17717.md) |
 | kraina-ai/quackosm | partial | 2026-09-07T22:01:28Z | [open](../records/maps-kraina-ai-quackosm-235b8910.md) |
-| organicmaps/organicmaps | partial | 2026-09-12T20:17:32Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
+| organicmaps/organicmaps | partial | 2026-09-12T23:37:45Z | [open](../records/maps-organicmaps-organicmaps-2fbbb788.md) |
 | Toblerity/Fiona | unknown | github_search_does_not_include_release_date | [open](../records/maps-toblerity-fiona-f99f05a8.md) |
 
 ## Space Maps
@@ -802,7 +802,7 @@ Records: `602`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-12T23:19:12Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-13T04:17:50Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

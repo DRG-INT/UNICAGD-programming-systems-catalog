@@ -17,13 +17,13 @@ Records: `308`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1471)](../by-category/language-specification.md) · [Library (6132)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6133)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (679)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (74)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (650)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -280,7 +280,7 @@ Records: `308`
 | [mirrorer/libbpg](../records/assembly-mirrorer-libbpg-745138b3.md) | partial | 2022-01-30T03:10:24Z | registry-derived |
 | [mschwartz/assembly-tutorial](../records/assembly-mschwartz-assembly-tutorial-860de2bf.md) | partial | 2026-05-03T23:34:30Z | registry-derived |
 | [mtuomi/SecondReality](../records/assembly-mtuomi-secondreality-5c489f57.md) | partial | 2022-06-27T15:45:39Z | registry-derived |
-| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-12T19:37:06Z | registry-derived |
+| [mytechnotalent/Reverse-Engineering](../records/assembly-mytechnotalent-reverse-engineering-73d01425.md) | partial | 2026-09-13T03:50:36Z | registry-derived |
 | [nanochess/bootOS](../records/assembly-nanochess-bootos-3579b41b.md) | partial | 2026-08-01T04:58:00Z | registry-derived |
 | [nemasu/asmttpd](../records/assembly-nemasu-asmttpd-9a612693.md) | partial | 2025-03-01T14:36:22Z | registry-derived |
 | [netwide-assembler/nasm](../records/assembly-netwide-assembler-nasm-7b1656d3.md) | partial | 2026-08-19T23:47:10Z | registry-derived |
