@@ -185,7 +185,7 @@ Records: `272`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-13T01:07:12Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-13T01:43:20Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
 | [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-09T18:43:09Z | registry-derived |
@@ -292,7 +292,7 @@ Records: `272`
 | [jasonsturges/lunarphase-js](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jbrazio/ardufocus-ascom](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) | partial | 2021-02-21T11:08:23Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-13T00:26:07Z | registry-derived |
+| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-13T01:39:51Z | registry-derived |
 | [JuliaAstro/AstroImages.jl](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) | partial | 2026-07-30T16:20:41Z | registry-derived |
 | [jyotisham/jyotisha](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) | partial | 2026-09-09T17:30:05Z | registry-derived |
 | [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-13T01:06:31Z | registry-derived |

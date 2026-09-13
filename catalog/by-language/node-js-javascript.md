@@ -598,7 +598,7 @@ Records: `2457`
 | [@antelopejs/database-decorators](../records/node-js-javascript-antelopejs-database-decorators-90f7241b.md) | 1.1.1 | 2026-05-22T13:47:54.518Z | registry-derived |
 | [@antelopejs/interface-database](../records/node-js-javascript-antelopejs-interface-database-3edcd00b.md) | 0.1.4 | 2026-07-20T19:11:33.913Z | registry-derived |
 | [@arkecosystem/core-database](../records/node-js-javascript-arkecosystem-core-database-6184a8b1.md) | 3.13.0 | 2026-08-19T07:48:49.983Z | registry-derived |
-| [@arkstack/database](../records/node-js-javascript-arkstack-database-828f146a.md) | 0.18.6 | 2026-09-08T09:01:51.552Z | registry-derived |
+| [@arkstack/database](../records/node-js-javascript-arkstack-database-828f146a.md) | 0.18.7 | 2026-09-13T01:55:04.815Z | registry-derived |
 | [@asaidimu/utils-database](../records/node-js-javascript-asaidimu-utils-database-3c9a1580.md) | 5.0.0 | 2026-09-01T15:40:35.593Z | registry-derived |
 | [@athenna/database](../records/node-js-javascript-athenna-database-561068b6.md) | 5.64.0 | 2026-09-11T01:11:46.885Z | registry-derived |
 | [@atlantjs/database](../records/node-js-javascript-atlantjs-database-9077aca2.md) | 2.1.32 | 2026-08-22T23:53:01.736Z | registry-derived |

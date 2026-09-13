@@ -568,7 +568,7 @@ Records: `558`
 | reales/OB-Xd | partial | 2026-08-18T06:45:29Z | [open](../records/audio-reales-ob-xd-4de1e164.md) |
 | sevagh/pitch-detection | partial | 2025-01-07T16:40:21Z | [open](../records/audio-sevagh-pitch-detection-26bd609d.md) |
 | shmoergh/moduleur | partial | 2026-05-29T06:57:11Z | [open](../records/audio-shmoergh-moduleur-a638dc17.md) |
-| Speech-Interaction-Technology-Aalto-U/itsp | partial | 2026-08-11T08:35:31Z | [open](../records/audio-speech-interaction-technology-aalto-u-itsp-c172b235.md) |
+| Speech-Interaction-Technology-Aalto-U/itsp | partial | 2026-09-12T20:23:56Z | [open](../records/audio-speech-interaction-technology-aalto-u-itsp-c172b235.md) |
 | Yuan-ManX/audio-development-tools | partial | 2025-07-11T04:13:08Z | [open](../records/audio-yuan-manx-audio-development-tools-b03ea782.md) |
 
 ## Video

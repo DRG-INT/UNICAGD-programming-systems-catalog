@@ -33,7 +33,7 @@ maintainability.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 2.12.4 | 2026-09-11T03:59:01.901Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 2.12.5 | 2026-09-13T01:24:14.765Z | [https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ maintainability.
 
 - Treat category as `type_checker` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-11T04:21:18+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=testing&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-13T02:19:27+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

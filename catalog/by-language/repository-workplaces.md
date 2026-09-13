@@ -149,7 +149,7 @@ Records: `528`
 | [Gitea: ziying/database](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) | partial | 2026-06-03T05:06:54Z | registry-derived |
 | [gitlab-org/advisories-community](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) | partial | 2026-09-12T14:30:37.673Z | registry-derived |
 | [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-12T02:09:09.779Z | registry-derived |
-| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-12T21:56:12.785Z | registry-derived |
+| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-13T01:52:35.271Z | registry-derived |
 | [postgres-ai/custom-images](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) | partial | 2026-08-31T12:45:54.446Z | registry-derived |
 | [ProfaneDB/ProfaneDB](../records/repository-workplaces-profanedb-profanedb-135545c0.md) | partial | 2021-08-10T13:32:11.702Z | registry-derived |
 | [radiobrowser/radio-database](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) | partial | 2026-09-11T20:24:51.009Z | registry-derived |
@@ -633,7 +633,7 @@ Records: `528`
 | [Gitea: corricca/elibrary-publication-analyzer](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) | partial | 2026-01-29T19:57:29Z | registry-derived |
 | [Gitea: ImageProcessing-ElectronicPublications/imthreshold](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) | partial | 2023-10-26T10:52:14Z | registry-derived |
 | [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-12T20:17:09.658Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-12T23:25:19.690Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-13T01:34:16.652Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-09-12T02:13:28.191Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
 | [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-12T08:05:09.242Z | registry-derived |

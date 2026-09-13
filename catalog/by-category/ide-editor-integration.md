@@ -694,11 +694,11 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T00:16:31Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T02:18:55Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T23:21:56Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-13T00:30:11Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-13T00:07:11Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| mudler/LocalAI | partial | 2026-09-13T02:18:21Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1085,7 +1085,7 @@ Records: `1515`
 | fabianwimberger/immich-convert-originals | partial | 2026-09-11T12:24:26Z | [open](../records/video-fabianwimberger-immich-convert-originals-f697063f.md) |
 | farshidrezaei/mosaic | partial | 2026-08-31T00:15:26Z | [open](../records/video-farshidrezaei-mosaic-2e134202.md) |
 | feross/simple-peer | partial | 2024-06-26T14:45:57Z | [open](../records/video-feross-simple-peer-4f82bc1c.md) |
-| FFmpeg/FFmpeg | partial | 2026-09-12T23:52:46Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
+| FFmpeg/FFmpeg | partial | 2026-09-13T00:42:02Z | [open](../records/video-ffmpeg-ffmpeg-9c6919a8.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/video-ffmpegwasm-ffmpeg-wasm-d150b28e.md) |
 | fmeringdal/nettu-meet | partial | 2023-08-30T11:44:55Z | [open](../records/video-fmeringdal-nettu-meet-97fd5a61.md) |
 | GhostZephyr/MetalVideoProcess | partial | 2020-10-16T06:36:56Z | [open](../records/video-ghostzephyr-metalvideoprocess-9f4e0ded.md) |
@@ -1098,7 +1098,7 @@ Records: `1515`
 | haasn/libplacebo | partial | 2026-09-03T19:13:12Z | [open](../records/video-haasn-libplacebo-801cca80.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-04T08:30:00Z | [open](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) |
 | HeiSir2014/M3U8-Downloader | partial | 2025-03-19T15:28:29Z | [open](../records/video-heisir2014-m3u8-downloader-23d9af39.md) |
-| heygen-com/hyperframes | partial | 2026-09-13T00:20:17Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
+| heygen-com/hyperframes | partial | 2026-09-13T00:56:53Z | [open](../records/video-heygen-com-hyperframes-39e19bfa.md) |
 | HUANGCHIHHUNGLeo/claude-real-video | partial | 2026-08-31T09:21:45Z | [open](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) |
 | Hunlongyu/ZY-Player | partial | 2023-02-09T06:33:07Z | [open](../records/video-hunlongyu-zy-player-c74fadea.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/video-hybridgroup-gocv-daa4c904.md) |
@@ -1179,7 +1179,7 @@ Records: `1515`
 | OpenVidu/openvidu | partial | 2026-09-08T10:34:51Z | [open](../records/video-openvidu-openvidu-5a62f827.md) |
 | ORB-HD/deface | partial | 2024-10-13T21:56:24Z | [open](../records/video-orb-hd-deface-821a4649.md) |
 | ossrs/srs | partial | 2026-09-05T17:33:56Z | [open](../records/video-ossrs-srs-c3ecdeaf.md) |
-| owncast/owncast | partial | 2026-09-12T21:01:22Z | [open](../records/video-owncast-owncast-b3a35889.md) |
+| owncast/owncast | partial | 2026-09-13T02:13:27Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | ozmartian/vidcutter | partial | 2025-04-24T10:12:36Z | [open](../records/video-ozmartian-vidcutter-1ee0d3b1.md) |
 | paulpacifico/shutter-encoder | partial | 2026-09-02T08:49:17Z | [open](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
 | pion/webrtc | partial | 2026-09-09T00:39:56Z | [open](../records/video-pion-webrtc-db831169.md) |

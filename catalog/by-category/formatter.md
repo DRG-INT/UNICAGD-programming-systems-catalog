@@ -547,7 +547,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T01:16:08Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-13T02:17:33Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-12T06:23:45Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -759,7 +759,7 @@ Records: `670`
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-12T23:45:57Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-13T02:05:10Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 | wasabeef/glide-transformations | partial | 2022-03-08T16:07:21Z | [open](../records/photography-wasabeef-glide-transformations-6efa38dc.md) |
 | webp-sh/webp_server_go | partial | 2026-09-11T02:42:57Z | [open](../records/photography-webp-sh-webp-server-go-e607ab44.md) |
 | WeTransfer/format_parser | partial | 2024-12-11T15:22:35Z | [open](../records/photography-wetransfer-format-parser-a46c542e.md) |

@@ -640,7 +640,7 @@ Records: `1243`
 | HyNetworks/hysteria | partial | 2026-09-12T20:28:44Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-11T21:28:23Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
 | praetorian-inc/nerva | partial | 2026-09-11T15:33:24Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
-| zincsearch/zincsearch | partial | 2026-09-12T16:02:07Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
+| zincsearch/zincsearch | partial | 2026-09-13T01:34:16Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
 ## Starlark
 
@@ -653,7 +653,7 @@ Records: `1243`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-12T23:35:31Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-13T02:09:48Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -1184,7 +1184,7 @@ Records: `1243`
 | jasonsturges/lunarphase-js | partial | 2024-03-01T22:53:58Z | [open](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) |
 | jbrazio/ardufocus-ascom | partial | 2021-02-21T11:08:23Z | [open](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) |
 | jeff-regier/Celeste.jl | partial | 2021-09-18T08:20:37Z | [open](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) |
-| jobovy/galpy | partial | 2026-09-13T00:26:07Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
+| jobovy/galpy | partial | 2026-09-13T01:39:51Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | JuliaAstro/AstroImages.jl | partial | 2026-07-30T16:20:41Z | [open](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) |
 | kylecorry31/Trail-Sense | partial | 2026-09-13T01:06:31Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |

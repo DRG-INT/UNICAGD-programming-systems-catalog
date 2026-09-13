@@ -643,7 +643,7 @@ Records: `1041`
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
-| bazel-contrib/rules_dotnet | partial | 2026-09-13T01:13:31Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
+| bazel-contrib/rules_dotnet | partial | 2026-09-13T01:41:06Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T17:02:10Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
@@ -944,7 +944,7 @@ Records: `1041`
 | nanahou/Awesome-Speech-Enhancement | partial | 2020-12-01T10:20:50Z | [open](../records/audio-nanahou-awesome-speech-enhancement-6184e00e.md) |
 | Okazari/Rythm.js | partial | 2024-07-30T12:08:08Z | [open](../records/audio-okazari-rythm-js-ba668e5d.md) |
 | omriharel/deej | partial | 2024-07-11T05:34:00Z | [open](../records/audio-omriharel-deej-f9f1a432.md) |
-| pyannote/pyannote-audio | partial | 2026-09-02T04:32:55Z | [open](../records/audio-pyannote-pyannote-audio-338f7805.md) |
+| pyannote/pyannote-audio | partial | 2026-09-10T12:20:48Z | [open](../records/audio-pyannote-pyannote-audio-338f7805.md) |
 | r9y9/nnmnkwii | partial | 2024-06-29T06:29:32Z | [open](../records/audio-r9y9-nnmnkwii-9b0a2078.md) |
 | rghvdberg/ninjas | partial | 2018-01-05T10:25:17Z | [open](../records/audio-rghvdberg-ninjas-832428ad.md) |
 | sophiapoirier/destroyfx | partial | 2026-09-01T21:08:34Z | [open](../records/audio-sophiapoirier-destroyfx-e543724e.md) |

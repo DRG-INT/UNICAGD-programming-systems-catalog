@@ -60,7 +60,7 @@ Records: `318`
 | @babel/preset-typescript | 8.0.1 | 2026-06-17T09:45:25.966Z | [open](../records/node-js-typescript-babel-preset-typescript-bae2a595.md) |
 | @better-auth/core | 1.7.3 | 2026-09-06T03:03:26.293Z | [open](../records/node-js-typescript-better-auth-core-fa635d03.md) |
 | @betterer/typescript | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | [open](../records/node-js-typescript-betterer-typescript-35e88ce6.md) |
-| @clipboard-health/testing-core | 2.12.4 | 2026-09-11T03:59:01.901Z | [open](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
+| @clipboard-health/testing-core | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | @cloudflare/workers-types | 5.20260911.1 | 2026-09-11T01:16:03.373Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @cspell/dict-typescript | 3.2.3 | 2025-07-09T18:55:17.973Z | [open](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) |
 | @dbos-inc/dbos-sdk | 4.27.6 | 2026-08-25T15:39:32.081Z | [open](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) |

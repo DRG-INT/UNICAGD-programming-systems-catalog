@@ -602,7 +602,7 @@ Records: `1720`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-13T00:59:26Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-13T02:00:24Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1240,7 +1240,7 @@ Records: `1720`
 | AudioKit/AudioKitSynthOne | partial | 2022-03-14T16:12:43Z | [open](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) |
 | bartolsthoorn/NVDSP | partial | 2017-06-05T09:19:32Z | [open](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) |
 | calf-studio-gear/calf | partial | 2026-07-31T15:17:16Z | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
-| ceva-ip/DPDFNet | partial | 2026-07-22T07:48:24Z | [open](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) |
+| ceva-ip/DPDFNet | partial | 2026-09-09T11:34:38Z | [open](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) |
 | christofmuc/KnobKraft-orm | partial | 2026-09-07T09:06:50Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
 | Conceptual-Machines/magda-core | partial | 2026-09-11T09:18:29Z | [open](../records/audio-conceptual-machines-magda-core-daf4c398.md) |
 | ddiakopoulos/MoogLadders | partial | 2026-06-13T18:35:36Z | [open](../records/audio-ddiakopoulos-moogladders-03832924.md) |
@@ -1371,7 +1371,7 @@ Records: `1720`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-13T00:14:05Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T02:08:52Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy

@@ -387,7 +387,7 @@ Records: `449`
 | rom1v/sndcpy | partial | 2026-07-15T12:00:54Z | [open](../records/audio-rom1v-sndcpy-b4d75ce7.md) |
 | rust-dsp/rtb-rs | partial | 2019-03-12T02:21:11Z | [open](../records/audio-rust-dsp-rtb-rs-eb1efd82.md) |
 | SamiPerttu/fundsp | partial | 2026-03-03T15:41:09Z | [open](../records/audio-samiperttu-fundsp-dc381c0a.md) |
-| simonzander/PeerWave | partial | 2026-06-15T06:54:51Z | [open](../records/audio-simonzander-peerwave-3b047c41.md) |
+| simonzander/PeerWave | partial | 2026-09-10T14:42:06Z | [open](../records/audio-simonzander-peerwave-3b047c41.md) |
 | sjoerdvankreel/firefly-synth | partial | 2026-01-08T21:28:44Z | [open](../records/audio-sjoerdvankreel-firefly-synth-02173536.md) |
 | sjoerdvankreel/firefly-synth-2 | partial | 2026-09-03T20:37:19Z | [open](../records/audio-sjoerdvankreel-firefly-synth-2-58314591.md) |
 | sjoerdvankreel/infernal-synth | partial | 2026-01-08T21:25:39Z | [open](../records/audio-sjoerdvankreel-infernal-synth-b17d2065.md) |

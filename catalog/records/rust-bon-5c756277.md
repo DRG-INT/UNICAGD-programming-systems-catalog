@@ -39,9 +39,9 @@ reproducibility, cross-platform build policy, and CI integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; The Unlicense; https://api.github.com/licenses/unlicense; {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Nuke.Utilities.Text.Json/10.1.0/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

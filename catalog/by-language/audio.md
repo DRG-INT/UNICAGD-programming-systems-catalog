@@ -62,7 +62,7 @@ Records: `481`
 | [nanahou/Awesome-Speech-Enhancement](../records/audio-nanahou-awesome-speech-enhancement-6184e00e.md) | partial | 2020-12-01T10:20:50Z | registry-derived |
 | [Okazari/Rythm.js](../records/audio-okazari-rythm-js-ba668e5d.md) | partial | 2024-07-30T12:08:08Z | registry-derived |
 | [omriharel/deej](../records/audio-omriharel-deej-f9f1a432.md) | partial | 2024-07-11T05:34:00Z | registry-derived |
-| [pyannote/pyannote-audio](../records/audio-pyannote-pyannote-audio-338f7805.md) | partial | 2026-09-02T04:32:55Z | registry-derived |
+| [pyannote/pyannote-audio](../records/audio-pyannote-pyannote-audio-338f7805.md) | partial | 2026-09-10T12:20:48Z | registry-derived |
 | [r9y9/nnmnkwii](../records/audio-r9y9-nnmnkwii-9b0a2078.md) | partial | 2024-06-29T06:29:32Z | registry-derived |
 | [rghvdberg/ninjas](../records/audio-rghvdberg-ninjas-832428ad.md) | partial | 2018-01-05T10:25:17Z | registry-derived |
 | [sophiapoirier/destroyfx](../records/audio-sophiapoirier-destroyfx-e543724e.md) | partial | 2026-09-01T21:08:34Z | registry-derived |
@@ -171,7 +171,7 @@ Records: `481`
 | [AudioKit/AudioKitSynthOne](../records/audio-audiokit-audiokitsynthone-f3e02e66.md) | partial | 2022-03-14T16:12:43Z | registry-derived |
 | [bartolsthoorn/NVDSP](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) | partial | 2017-06-05T09:19:32Z | registry-derived |
 | [calf-studio-gear/calf](../records/audio-calf-studio-gear-calf-089316e7.md) | partial | 2026-07-31T15:17:16Z | registry-derived |
-| [ceva-ip/DPDFNet](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) | partial | 2026-07-22T07:48:24Z | registry-derived |
+| [ceva-ip/DPDFNet](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) | partial | 2026-09-09T11:34:38Z | registry-derived |
 | [christofmuc/KnobKraft-orm](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) | partial | 2026-09-07T09:06:50Z | registry-derived |
 | [Conceptual-Machines/magda-core](../records/audio-conceptual-machines-magda-core-daf4c398.md) | partial | 2026-09-11T09:18:29Z | registry-derived |
 | [ddiakopoulos/MoogLadders](../records/audio-ddiakopoulos-moogladders-03832924.md) | partial | 2026-06-13T18:35:36Z | registry-derived |
@@ -370,7 +370,7 @@ Records: `481`
 | [rom1v/sndcpy](../records/audio-rom1v-sndcpy-b4d75ce7.md) | partial | 2026-07-15T12:00:54Z | registry-derived |
 | [rust-dsp/rtb-rs](../records/audio-rust-dsp-rtb-rs-eb1efd82.md) | partial | 2019-03-12T02:21:11Z | registry-derived |
 | [SamiPerttu/fundsp](../records/audio-samiperttu-fundsp-dc381c0a.md) | partial | 2026-03-03T15:41:09Z | registry-derived |
-| [simonzander/PeerWave](../records/audio-simonzander-peerwave-3b047c41.md) | partial | 2026-06-15T06:54:51Z | registry-derived |
+| [simonzander/PeerWave](../records/audio-simonzander-peerwave-3b047c41.md) | partial | 2026-09-10T14:42:06Z | registry-derived |
 | [sjoerdvankreel/firefly-synth](../records/audio-sjoerdvankreel-firefly-synth-02173536.md) | partial | 2026-01-08T21:28:44Z | registry-derived |
 | [sjoerdvankreel/firefly-synth-2](../records/audio-sjoerdvankreel-firefly-synth-2-58314591.md) | partial | 2026-09-03T20:37:19Z | registry-derived |
 | [sjoerdvankreel/infernal-synth](../records/audio-sjoerdvankreel-infernal-synth-b17d2065.md) | partial | 2026-01-08T21:25:39Z | registry-derived |
@@ -494,7 +494,7 @@ Records: `481`
 | [reales/OB-Xd](../records/audio-reales-ob-xd-4de1e164.md) | partial | 2026-08-18T06:45:29Z | registry-derived |
 | [sevagh/pitch-detection](../records/audio-sevagh-pitch-detection-26bd609d.md) | partial | 2025-01-07T16:40:21Z | registry-derived |
 | [shmoergh/moduleur](../records/audio-shmoergh-moduleur-a638dc17.md) | partial | 2026-05-29T06:57:11Z | registry-derived |
-| [Speech-Interaction-Technology-Aalto-U/itsp](../records/audio-speech-interaction-technology-aalto-u-itsp-c172b235.md) | partial | 2026-08-11T08:35:31Z | registry-derived |
+| [Speech-Interaction-Technology-Aalto-U/itsp](../records/audio-speech-interaction-technology-aalto-u-itsp-c172b235.md) | partial | 2026-09-12T20:23:56Z | registry-derived |
 | [Yuan-ManX/audio-development-tools](../records/audio-yuan-manx-audio-development-tools-b03ea782.md) | partial | 2025-07-11T04:13:08Z | registry-derived |
 
 ### Machine Learning

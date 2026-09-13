@@ -257,7 +257,7 @@ Records: `471`
 | [fabianwimberger/immich-convert-originals](../records/video-fabianwimberger-immich-convert-originals-f697063f.md) | partial | 2026-09-11T12:24:26Z | registry-derived |
 | [farshidrezaei/mosaic](../records/video-farshidrezaei-mosaic-2e134202.md) | partial | 2026-08-31T00:15:26Z | registry-derived |
 | [feross/simple-peer](../records/video-feross-simple-peer-4f82bc1c.md) | partial | 2024-06-26T14:45:57Z | registry-derived |
-| [FFmpeg/FFmpeg](../records/video-ffmpeg-ffmpeg-9c6919a8.md) | partial | 2026-09-12T23:52:46Z | registry-derived |
+| [FFmpeg/FFmpeg](../records/video-ffmpeg-ffmpeg-9c6919a8.md) | partial | 2026-09-13T00:42:02Z | registry-derived |
 | [ffmpegwasm/ffmpeg.wasm](../records/video-ffmpegwasm-ffmpeg-wasm-d150b28e.md) | partial | 2026-02-01T08:35:30Z | registry-derived |
 | [fmeringdal/nettu-meet](../records/video-fmeringdal-nettu-meet-97fd5a61.md) | partial | 2023-08-30T11:44:55Z | registry-derived |
 | [GhostZephyr/MetalVideoProcess](../records/video-ghostzephyr-metalvideoprocess-9f4e0ded.md) | partial | 2020-10-16T06:36:56Z | registry-derived |
@@ -270,7 +270,7 @@ Records: `471`
 | [haasn/libplacebo](../records/video-haasn-libplacebo-801cca80.md) | partial | 2026-09-03T19:13:12Z | registry-derived |
 | [harry0703/MoneyPrinterTurbo](../records/video-harry0703-moneyprinterturbo-b29c8cda.md) | partial | 2026-09-04T08:30:00Z | registry-derived |
 | [HeiSir2014/M3U8-Downloader](../records/video-heisir2014-m3u8-downloader-23d9af39.md) | partial | 2025-03-19T15:28:29Z | registry-derived |
-| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-13T00:20:17Z | registry-derived |
+| [heygen-com/hyperframes](../records/video-heygen-com-hyperframes-39e19bfa.md) | partial | 2026-09-13T00:56:53Z | registry-derived |
 | [HUANGCHIHHUNGLeo/claude-real-video](../records/video-huangchihhungleo-claude-real-video-3b18d05b.md) | partial | 2026-08-31T09:21:45Z | registry-derived |
 | [Hunlongyu/ZY-Player](../records/video-hunlongyu-zy-player-c74fadea.md) | partial | 2023-02-09T06:33:07Z | registry-derived |
 | [hybridgroup/gocv](../records/video-hybridgroup-gocv-daa4c904.md) | partial | 2026-05-28T08:16:03Z | registry-derived |
@@ -351,7 +351,7 @@ Records: `471`
 | [OpenVidu/openvidu](../records/video-openvidu-openvidu-5a62f827.md) | partial | 2026-09-08T10:34:51Z | registry-derived |
 | [ORB-HD/deface](../records/video-orb-hd-deface-821a4649.md) | partial | 2024-10-13T21:56:24Z | registry-derived |
 | [ossrs/srs](../records/video-ossrs-srs-c3ecdeaf.md) | partial | 2026-09-05T17:33:56Z | registry-derived |
-| [owncast/owncast](../records/video-owncast-owncast-b3a35889.md) | partial | 2026-09-12T21:01:22Z | registry-derived |
+| [owncast/owncast](../records/video-owncast-owncast-b3a35889.md) | partial | 2026-09-13T02:13:27Z | registry-derived |
 | [ozmartian/vidcutter](../records/video-ozmartian-vidcutter-1ee0d3b1.md) | partial | 2025-04-24T10:12:36Z | registry-derived |
 | [paulpacifico/shutter-encoder](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) | partial | 2026-09-02T08:49:17Z | registry-derived |
 | [pion/webrtc](../records/video-pion-webrtc-db831169.md) | partial | 2026-09-09T00:39:56Z | registry-derived |
@@ -569,7 +569,7 @@ Records: `471`
 | [memvid/memvid](../records/video-memvid-memvid-bb0d9def.md) | partial | 2026-07-14T14:39:07Z | registry-derived |
 | [pathwaycom/pathway](../records/video-pathwaycom-pathway-a50dba92.md) | partial | 2026-09-04T13:04:04Z | registry-derived |
 | [rushindrasinha/youtube-shorts-pipeline](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) | partial | 2026-06-09T23:55:00Z | registry-derived |
-| [snapotter-hq/SnapOtter](../records/video-snapotter-hq-snapotter-7f75c7aa.md) | partial | 2026-09-12T14:16:20Z | registry-derived |
+| [snapotter-hq/SnapOtter](../records/video-snapotter-hq-snapotter-7f75c7aa.md) | partial | 2026-09-13T01:52:09Z | registry-derived |
 | [streamlink/streamlink](../records/video-streamlink-streamlink-ff62fe99.md) | partial | 2026-09-03T21:24:55Z | registry-derived |
 | [TeamNewPipe/NewPipe](../records/video-teamnewpipe-newpipe-c1ab8a41.md) | partial | 2026-08-31T12:57:33Z | registry-derived |
 | [towhee-io/towhee](../records/video-towhee-io-towhee-12a64678.md) | partial | 2024-10-18T00:01:12Z | registry-derived |

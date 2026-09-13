@@ -34,7 +34,7 @@ of state persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-12T21:56:12.785Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-13T01:52:35.271Z | [https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=database&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert

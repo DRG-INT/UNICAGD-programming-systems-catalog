@@ -32,7 +32,7 @@ state persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.18.6 | 2026-09-08T09:01:51.552Z | [https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 0.18.7 | 2026-09-13T01:55:04.815Z | [https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ state persistence, migrations, performance, and operational recovery.
 
 - Treat category as `database_datastore` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-08T10:21:36+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=database&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-13T02:19:26+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance

@@ -122,7 +122,7 @@ Records: `981`
 | @antelopejs/database-decorators | 1.1.1 | 2026-05-22T13:47:54.518Z | [open](../records/node-js-javascript-antelopejs-database-decorators-90f7241b.md) |
 | @antelopejs/interface-database | 0.1.4 | 2026-07-20T19:11:33.913Z | [open](../records/node-js-javascript-antelopejs-interface-database-3edcd00b.md) |
 | @arkecosystem/core-database | 3.13.0 | 2026-08-19T07:48:49.983Z | [open](../records/node-js-javascript-arkecosystem-core-database-6184a8b1.md) |
-| @arkstack/database | 0.18.6 | 2026-09-08T09:01:51.552Z | [open](../records/node-js-javascript-arkstack-database-828f146a.md) |
+| @arkstack/database | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](../records/node-js-javascript-arkstack-database-828f146a.md) |
 | @asaidimu/utils-database | 5.0.0 | 2026-09-01T15:40:35.593Z | [open](../records/node-js-javascript-asaidimu-utils-database-3c9a1580.md) |
 | @athenna/database | 5.64.0 | 2026-09-11T01:11:46.885Z | [open](../records/node-js-javascript-athenna-database-561068b6.md) |
 | @atlantjs/database | 2.1.32 | 2026-08-22T23:53:01.736Z | [open](../records/node-js-javascript-atlantjs-database-9077aca2.md) |
@@ -1184,7 +1184,7 @@ Records: `981`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-12T14:30:37.673Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-12T02:09:09.779Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-12T21:56:12.785Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-13T01:52:35.271Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-11T20:24:51.009Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |

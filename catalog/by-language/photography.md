@@ -236,7 +236,7 @@ Records: `599`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-13T00:14:05Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-13T02:08:52Z | registry-derived |
 | [ZSDM-HDR/Zero-Shot-Diffusion-HDR](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) | partial | 2025-08-25T07:36:28Z | registry-derived |
 
 ### Formatter
@@ -265,7 +265,7 @@ Records: `599`
 | [mz2/Carpaccio](../records/photography-mz2-carpaccio-47bb21ca.md) | partial | 2023-06-10T06:49:52Z | registry-derived |
 | [QQxiaoming/YUVviewer](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) | partial | 2026-06-27T03:38:01Z | registry-derived |
 | [rfrench/gify](../records/photography-rfrench-gify-e7a0c938.md) | partial | 2023-03-08T22:03:16Z | registry-derived |
-| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-12T23:45:57Z | registry-derived |
+| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-13T02:05:10Z | registry-derived |
 | [wasabeef/glide-transformations](../records/photography-wasabeef-glide-transformations-6efa38dc.md) | partial | 2022-03-08T16:07:21Z | registry-derived |
 | [webp-sh/webp_server_go](../records/photography-webp-sh-webp-server-go-e607ab44.md) | partial | 2026-09-11T02:42:57Z | registry-derived |
 | [WeTransfer/format_parser](../records/photography-wetransfer-format-parser-a46c542e.md) | partial | 2024-12-11T15:22:35Z | registry-derived |

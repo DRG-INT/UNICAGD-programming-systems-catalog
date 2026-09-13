@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T01:19:13+00:00`
+Generated: `2026-09-13T02:22:34+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,8 @@ Generated: `2026-09-13T01:19:13+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
+| @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
 | mnirs | R | Static Analyzer | 0.8.0 | 2026-09-13 00:00:02 UTC | [open](records/r-mnirs-7f540354.md) |
 | pigeon | Dart | Build System | 29.0.1 | 2026-09-12T22:55:55.236325Z | [open](records/dart-pigeon-1863b3b2.md) |
@@ -263,7 +265,6 @@ Generated: `2026-09-13T01:19:13+00:00`
 | kalender | Dart | Datetime | 0.30.0 | 2026-09-11T06:23:52.812069Z | [open](records/dart-kalender-10f50158.md) |
 | file_picker | Dart | Filesystem Os | 12.3.0 | 2026-09-11T05:47:28.095455Z | [open](records/dart-file-picker-09b00b4c.md) |
 | @larksuite/cli | Node.js/JavaScript | Ffi Bindings | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](records/node-js-javascript-larksuite-cli-442a55c5.md) |
-| @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.4 | 2026-09-11T03:59:01.901Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | structured-headers | Node.js/JavaScript | Networking Http | 2.1.0 | 2026-09-11T01:49:18.023Z | [open](records/node-js-javascript-structured-headers-06c81359.md) |
 | toml_edit | Rust | Formatter | 0.25.15+spec-1.1.0 | 2026-09-11T01:44:08.521316Z | [open](records/rust-toml-edit-d8550b65.md) |
 | @unocss/cli | Node.js/JavaScript | Cli | 66.10.2 | 2026-09-11T01:29:28.485Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-13T01:19:13+00:00`
 | lotri | R | Precommit Ci Quality | 1.0.5 | 2026-09-11 20:10:13 UTC | [open](records/r-lotri-2caacf85.md) |
 | weightflow | R | Precommit Ci Quality | 1.3.0 | 2026-09-11 20:10:02 UTC | [open](records/r-weightflow-33ea0642.md) |
 | bacenR | R | Library | 0.5.0 | 2026-09-11 19:10:02 UTC | [open](records/r-bacenr-190cf654.md) |
-| gllvm | R | Compiler | 2.0.15 | 2026-09-11 19:00:02 UTC | [open](records/r-gllvm-13527514.md) |
 
 ## Unknown Reasons
 

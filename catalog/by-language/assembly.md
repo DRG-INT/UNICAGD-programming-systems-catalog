@@ -363,7 +363,7 @@ Records: `308`
 | [las-nish/NASM-Assembly-Collection](../records/assembly-las-nish-nasm-assembly-collection-a42cbaf3.md) | partial | 2022-03-29T03:18:01Z | registry-derived |
 | [ldlaur/ares](../records/assembly-ldlaur-ares-cf2f6d60.md) | partial | 2026-07-08T19:32:26Z | registry-derived |
 | [mattdibi/redox-keyboard](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) | partial | 2026-05-26T18:15:22Z | registry-derived |
-| [MattPD/cpplinks](../records/assembly-mattpd-cpplinks-29eb7bcc.md) | partial | 2026-09-10T02:38:22Z | registry-derived |
+| [MattPD/cpplinks](../records/assembly-mattpd-cpplinks-29eb7bcc.md) | partial | 2026-09-13T02:14:29Z | registry-derived |
 | [meribold/btry](../records/assembly-meribold-btry-acc80abb.md) | partial | 2026-08-02T18:34:33Z | registry-derived |
 | [mmcloughlin/avo](../records/assembly-mmcloughlin-avo-46167d30.md) | partial | 2026-09-01T05:34:18Z | registry-derived |
 | [mohitmishra786/amILearningEnough](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) | partial | 2026-03-26T16:42:23Z | registry-derived |
