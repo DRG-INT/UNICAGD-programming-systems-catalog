@@ -440,7 +440,7 @@ Records: `450`
 | kepengxu/RealCamNet | partial | 2024-10-20T14:00:36Z | [open](../records/photography-kepengxu-realcamnet-aaafb86d.md) |
 | loliri/Starshot | partial | 2026-09-08T02:54:13Z | [open](../records/photography-loliri-starshot-54549de2.md) |
 | SlavaSexton/ComfyUI-OCIO | partial | 2026-08-26T03:31:37Z | [open](../records/photography-slavasexton-comfyui-ocio-367e8dd5.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-12T06:00:32Z | [open](../records/photography-snapotter-hq-snapotter-d8fb50c1.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-12T14:16:20Z | [open](../records/photography-snapotter-hq-snapotter-d8fb50c1.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/photography-towhee-io-towhee-7a77ff1d.md) |
 
 ## Microscopy

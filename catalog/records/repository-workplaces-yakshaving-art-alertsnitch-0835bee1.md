@@ -39,9 +39,9 @@ part of defect discovery, security review, undefined-state detection, and regres
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ part of defect discovery, security review, undefined-state detection, and regres
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-12 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-13 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-13", "status": "forge-api-derived"}` |
 
 </details>
 

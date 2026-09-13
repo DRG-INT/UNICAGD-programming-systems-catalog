@@ -515,7 +515,7 @@ Records: `864`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-09-12T02:51:21Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-13T00:28:53Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-13T01:06:33Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-11T17:28:22Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -528,7 +528,7 @@ Records: `864`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-12T06:20:29Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T00:21:10Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T01:15:35Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
@@ -845,7 +845,7 @@ Records: `864`
 | JoaoFranco03/photography-portfolio | partial | 2024-12-28T22:47:06Z | [open](../records/photography-joaofranco03-photography-portfolio-4323d081.md) |
 | jpvalery/portfolio | partial | 2025-12-10T10:39:30Z | [open](../records/photography-jpvalery-portfolio-65a2420d.md) |
 | kepengxu/RealRep | partial | 2026-06-17T09:59:05Z | [open](../records/photography-kepengxu-realrep-cdb57399.md) |
-| kornia/kornia | partial | 2026-09-12T07:52:52Z | [open](../records/photography-kornia-kornia-2f30e568.md) |
+| kornia/kornia | partial | 2026-09-13T00:08:29Z | [open](../records/photography-kornia-kornia-2f30e568.md) |
 | pa7/nude.js | partial | 2024-04-06T17:27:23Z | [open](../records/photography-pa7-nude-js-0f214943.md) |
 | Skykai521/StickerCamera | partial | 2026-06-18T11:59:06Z | [open](../records/photography-skykai521-stickercamera-9cf56aa6.md) |
 | sun0225SUN/camlife | unknown | github_search_does_not_include_release_date | [open](../records/photography-sun0225sun-camlife-84932ff0.md) |
@@ -918,7 +918,7 @@ Records: `864`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 1ove9/antenna-forge | partial | 2026-06-01T09:11:25Z | [open](../records/electromagnetoscopes-1ove9-antenna-forge-919a534b.md) |
-| BigBodyCobain/Shadowbroker | partial | 2026-09-11T07:38:16Z | [open](../records/electromagnetoscopes-bigbodycobain-shadowbroker-197c47b8.md) |
+| BigBodyCobain/Shadowbroker | partial | 2026-09-12T22:02:32Z | [open](../records/electromagnetoscopes-bigbodycobain-shadowbroker-197c47b8.md) |
 | Blaarkies/ksp-visual-calculator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-blaarkies-ksp-visual-calculator-aabfb7be.md) |
 | bsumlin/PyMieScatt | partial | 2025-09-19T16:27:47Z | [open](../records/electromagnetoscopes-bsumlin-pymiescatt-d4db2fe9.md) |
 | CaptainCodeman/svelte-headlessui | partial | 2025-01-26T21:43:39Z | [open](../records/electromagnetoscopes-captaincodeman-svelte-headlessui-b148d1ce.md) |

@@ -40,7 +40,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:image-processing stars:>500", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:image-processing stars:>500", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

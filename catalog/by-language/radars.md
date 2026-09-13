@@ -33,7 +33,7 @@ Records: `365`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [earthaccess-dev/earthaccess](../records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) | partial | 2026-09-05T17:57:03Z | registry-derived |
-| [ktuukkan/marine-api](../records/radars-ktuukkan-marine-api-c4837662.md) | partial | 2026-08-03T23:42:16Z | registry-derived |
+| [ktuukkan/marine-api](../records/radars-ktuukkan-marine-api-c4837662.md) | partial | 2026-09-12T21:31:42Z | registry-derived |
 | [MapIV/eagleye](../records/radars-mapiv-eagleye-c0a50797.md) | partial | 2026-04-06T07:21:54Z | registry-derived |
 | [wgcban/ddpm-cd](../records/radars-wgcban-ddpm-cd-d1dbc669.md) | partial | 2024-12-08T18:49:35Z | registry-derived |
 
@@ -319,7 +319,7 @@ Records: `365`
 | [csete/gpredict](../records/radars-csete-gpredict-f8c8985f.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [denkywu/InSAR-Simulation-and-Studies](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) | partial | 2020-09-03T03:51:40Z | registry-derived |
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
-| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T17:09:19Z | registry-derived |
+| [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T20:24:13Z | registry-derived |
 | [dz0ny/meshcore-sar](../records/radars-dz0ny-meshcore-sar-633f07d9.md) | partial | 2026-09-04T14:59:38Z | registry-derived |
 | [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-08T22:38:40Z | registry-derived |
 | [Erensu/ignav](../records/radars-erensu-ignav-9cdb787e.md) | partial | 2021-12-07T02:09:44Z | registry-derived |

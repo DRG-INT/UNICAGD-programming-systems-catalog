@@ -40,9 +40,9 @@ tooling, code generation, static analysis, and source transformation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT + file LICENSE; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | GPL (>= 2); MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

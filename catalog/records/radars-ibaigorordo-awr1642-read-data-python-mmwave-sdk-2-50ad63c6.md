@@ -41,9 +41,9 @@ operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

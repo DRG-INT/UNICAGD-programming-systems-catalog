@@ -5441,7 +5441,7 @@ Records: `6132`
 | florent37/CameraFragment | partial | 2020-08-06T14:11:49Z | [open](../records/photography-florent37-camerafragment-c53ceb9f.md) |
 | franckferman/MetaDetective | partial | 2026-07-15T17:38:43Z | [open](../records/photography-franckferman-metadetective-7e7e6923.md) |
 | FrozenBurning/Text2Light | partial | 2023-05-05T03:22:22Z | [open](../records/photography-frozenburning-text2light-01db8a68.md) |
-| gfxprim/gfxprim | partial | 2026-09-06T19:51:19Z | [open](../records/photography-gfxprim-gfxprim-80a69da2.md) |
+| gfxprim/gfxprim | partial | 2026-09-12T21:28:22Z | [open](../records/photography-gfxprim-gfxprim-80a69da2.md) |
 | gilbitron/Splashify | partial | 2018-06-11T13:59:50Z | [open](../records/photography-gilbitron-splashify-82147992.md) |
 | google/cameraview | partial | 2020-02-08T13:20:53Z | [open](../records/photography-google-cameraview-f7228a30.md) |
 | gphoto/libgphoto2 | partial | 2026-09-02T07:46:57Z | [open](../records/photography-gphoto-libgphoto2-e25aa2b2.md) |
@@ -5533,7 +5533,7 @@ Records: `6132`
 | csete/gpredict | partial | 2026-08-16T15:12:21Z | [open](../records/radars-csete-gpredict-f8c8985f.md) |
 | denkywu/InSAR-Simulation-and-Studies | partial | 2020-09-03T03:51:40Z | [open](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) |
 | denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
-| dpaulat/supercell-wx | partial | 2026-09-12T17:09:19Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
+| dpaulat/supercell-wx | partial | 2026-09-12T20:24:13Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | dz0ny/meshcore-sar | partial | 2026-09-04T14:59:38Z | [open](../records/radars-dz0ny-meshcore-sar-633f07d9.md) |
 | earthobservations/wetterdienst | partial | 2026-09-08T22:38:40Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | Erensu/ignav | partial | 2021-12-07T02:09:44Z | [open](../records/radars-erensu-ignav-9cdb787e.md) |
@@ -5668,7 +5668,7 @@ Records: `6132`
 | rawify/GPS.js | partial | 2026-09-09T13:29:49Z | [open](../records/satcom-satellites-rawify-gps-js-e3c59e2f.md) |
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
-| rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
+| rt-bishop/Look4Sat | partial | 2026-09-12T18:05:17Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
 | SatDump/SatDump | partial | 2026-09-12T11:50:39Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | satnogs/gr-satnogs | partial | 2018-12-17T14:53:47Z | [open](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
@@ -5694,7 +5694,7 @@ Records: `6132`
 | beamzorg/beamz | partial | 2026-09-10T09:08:32Z | [open](../records/electromagnetoscopes-beamzorg-beamz-a88f7bef.md) |
 | bk-squared/rfx | partial | 2026-09-08T01:39:50Z | [open](../records/electromagnetoscopes-bk-squared-rfx-bb3c9d75.md) |
 | brtkrtz/magnelio | partial | 2026-09-09T09:39:35Z | [open](../records/electromagnetoscopes-brtkrtz-magnelio-392510d6.md) |
-| BruceDevices/firmware | partial | 2026-09-11T15:26:26Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
+| BruceDevices/firmware | partial | 2026-09-12T22:01:42Z | [open](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) |
 | Bttstrp/bootstrap-switch | partial | 2021-10-05T21:37:19Z | [open](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) |
 | cariboulabs/cariboulite | partial | 2025-07-24T17:35:47Z | [open](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) |
 | cbassa/strf | partial | 2026-03-06T22:33:19Z | [open](../records/electromagnetoscopes-cbassa-strf-475240d4.md) |
@@ -5707,18 +5707,18 @@ Records: `6132`
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-11T23:01:44Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-12T23:20:36Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-12T12:32:16Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-12T22:23:07Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
-| fooyin/fooyin | partial | 2026-09-12T14:31:53Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
+| fooyin/fooyin | partial | 2026-09-12T23:49:56Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | gaspode-t-wonderdog/moxon-frame-generator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) |
 | geekysuavo/pyppm | partial | 2021-07-04T15:42:35Z | [open](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) |
 | gnss-sdr/gnss-sdr | partial | 2026-09-10T10:38:25Z | [open](../records/electromagnetoscopes-gnss-sdr-gnss-sdr-1128bbcc.md) |
-| gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
+| gnuradio/volk | partial | 2026-09-12T19:34:20Z | [open](../records/electromagnetoscopes-gnuradio-volk-04fc44e6.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/electromagnetoscopes-gqrx-sdr-gqrx-a55e0296.md) |
 | greatscottgadgets/yardstick | partial | 2026-03-19T15:58:30Z | [open](../records/electromagnetoscopes-greatscottgadgets-yardstick-cd00b0af.md) |
 | GSchnackers/dgwaves | partial | 2019-05-21T01:14:41Z | [open](../records/electromagnetoscopes-gschnackers-dgwaves-2114e760.md) |
@@ -5738,7 +5738,7 @@ Records: `6132`
 | JuliaPhysics/ThinFilmsTools.jl | partial | 2025-12-02T00:15:55Z | [open](../records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) |
 | junguler/m3u-radio-music-playlists | partial | 2026-09-05T07:57:14Z | [open](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) |
 | kgoba/ft8_lib | partial | 2025-08-24T04:55:25Z | [open](../records/electromagnetoscopes-kgoba-ft8-lib-9adffda7.md) |
-| Kopuz-org/kopuz | partial | 2026-09-11T21:16:47Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
+| Kopuz-org/kopuz | partial | 2026-09-12T20:06:07Z | [open](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) |
 | Lauszus/LaunchPadFlightController | partial | 2020-04-11T19:44:13Z | [open](../records/electromagnetoscopes-lauszus-launchpadflightcontroller-8b7c701f.md) |
 | linroid/Sky31Radio | partial | 2019-10-04T12:02:38Z | [open](../records/electromagnetoscopes-linroid-sky31radio-c5c60aad.md) |
 | liviobisogni/quaternion-kalman-filter | partial | 2023-05-17T13:41:52Z | [open](../records/electromagnetoscopes-liviobisogni-quaternion-kalman-filter-423da6ea.md) |
@@ -5756,7 +5756,7 @@ Records: `6132`
 | nliaudat/weatherstation | partial | 2021-11-09T06:51:20Z | [open](../records/electromagnetoscopes-nliaudat-weatherstation-8cd7f04b.md) |
 | open-sdr/openwifi | partial | 2026-09-11T11:55:48Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-80c00ff2.md) |
 | OpenATS/OpenATS | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-openats-openats-7ca6c997.md) |
-| OpenRTX/OpenRTX | partial | 2026-09-12T16:10:23Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
+| OpenRTX/OpenRTX | partial | 2026-09-12T20:10:35Z | [open](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) |
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) |
 | portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) |
@@ -5768,7 +5768,7 @@ Records: `6132`
 | RedBlight/EFVIE-MoM | partial | 2019-01-23T21:41:27Z | [open](../records/electromagnetoscopes-redblight-efvie-mom-8c3c7dd0.md) |
 | rofl0r/MacGeiger | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rofl0r-macgeiger-79d68312.md) |
 | rookiepeng/antenna-models | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-rookiepeng-antenna-models-0eb8a406.md) |
-| rt-bishop/Look4Sat | partial | 2026-09-03T07:40:26Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
+| rt-bishop/Look4Sat | partial | 2026-09-12T18:05:17Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
 | SatDump/SatDump | partial | 2026-09-12T11:50:39Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |

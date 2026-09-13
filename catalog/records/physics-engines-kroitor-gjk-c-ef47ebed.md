@@ -39,9 +39,9 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

@@ -697,7 +697,7 @@ Records: `1515`
 | can1357/oh-my-pi | partial | 2026-09-13T00:16:31Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T23:21:56Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-12T21:08:12Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-13T00:30:11Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-13T00:07:11Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -1252,7 +1252,7 @@ Records: `1515`
 | codeforreal1/compressO | partial | 2026-08-17T12:39:47Z | [open](../records/photography-codeforreal1-compresso-03a9ea13.md) |
 | copicseal/copicseal | unknown | github_search_does_not_include_release_date | [open](../records/photography-copicseal-copicseal-b0bf1efa.md) |
 | coreprocess/linux-unattended-installation | partial | 2023-02-01T02:36:50Z | [open](../records/photography-coreprocess-linux-unattended-installation-f53db419.md) |
-| CyberTimon/RapidRAW | partial | 2026-09-09T20:28:26Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
+| CyberTimon/RapidRAW | partial | 2026-09-12T18:07:26Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
 | dividebysandwich/LightningView | partial | 2026-09-09T16:54:11Z | [open](../records/photography-dividebysandwich-lightningview-edad5607.md) |
 | dmarnerides/hdr-expandnet | partial | 2021-03-02T09:15:13Z | [open](../records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) |
 | drewnoakes/metadata-extractor | partial | 2026-07-28T04:25:06Z | [open](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
@@ -1262,7 +1262,7 @@ Records: `1515`
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
-| GraphiteEditor/Graphite | partial | 2026-09-12T06:07:22Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
+| GraphiteEditor/Graphite | partial | 2026-09-13T01:07:30Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
@@ -1301,7 +1301,7 @@ Records: `1515`
 | RajPShinde/CamSlider | unknown | github_search_does_not_include_release_date | [open](../records/photography-rajpshinde-camslider-b85e6af0.md) |
 | RandScullard/photo-screen-saver | unknown | github_search_does_not_include_release_date | [open](../records/photography-randscullard-photo-screen-saver-13ac7993.md) |
 | RawLabo/QuickRawPicker | partial | 2022-05-31T07:07:25Z | [open](../records/photography-rawlabo-quickrawpicker-e8697a03.md) |
-| Refloow/Refloow-Geo-Forensics | partial | 2026-07-07T22:09:25Z | [open](../records/photography-refloow-refloow-geo-forensics-023aa0f3.md) |
+| Refloow/Refloow-Geo-Forensics | partial | 2026-09-12T19:59:45Z | [open](../records/photography-refloow-refloow-geo-forensics-023aa0f3.md) |
 | Refloow/Refloow-Photo-Studio | partial | 2026-07-07T21:03:10Z | [open](../records/photography-refloow-refloow-photo-studio-01fccd9c.md) |
 | SasaKaranovic/DIY-Camera-Slider | partial | 2025-03-02T02:19:18Z | [open](../records/photography-sasakaranovic-diy-camera-slider-db4a5c42.md) |
 | shenmintao/Raw-Alchemy | partial | 2026-09-06T05:44:22Z | [open](../records/photography-shenmintao-raw-alchemy-4749893d.md) |
@@ -1311,7 +1311,7 @@ Records: `1515`
 | tannerhelland/PhotoDemon | partial | 2026-08-18T17:17:58Z | [open](../records/photography-tannerhelland-photodemon-a6f66710.md) |
 | test-full-band/tfb-video | partial | 2024-12-14T19:18:09Z | [open](../records/photography-test-full-band-tfb-video-4f53f9ac.md) |
 | thumbsup/thumbsup | partial | 2026-02-28T02:10:14Z | [open](../records/photography-thumbsup-thumbsup-c22883cd.md) |
-| wiltodelta/remove-ai-watermarks | partial | 2026-09-11T18:01:07Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
+| wiltodelta/remove-ai-watermarks | partial | 2026-09-12T20:36:52Z | [open](../records/photography-wiltodelta-remove-ai-watermarks-f1898429.md) |
 | woelper/oculante | partial | 2026-08-31T22:33:46Z | [open](../records/photography-woelper-oculante-7408791d.md) |
 | xemle/home-gallery | partial | 2026-06-25T21:41:23Z | [open](../records/photography-xemle-home-gallery-5b6dd9db.md) |
 | xmtggh/VideoCalling | partial | 2019-08-26T02:13:50Z | [open](../records/photography-xmtggh-videocalling-89dad280.md) |
@@ -1367,7 +1367,7 @@ Records: `1515`
 | MarcHamamji/runner.nvim | partial | 2025-03-04T10:42:26Z | [open](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | MironPascalCaseFan/rittli.nvim | partial | 2024-11-29T13:40:56Z | [open](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | Mirsmog/real-icons.nvim | partial | 2026-08-04T22:30:42Z | [open](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
-| mrcjkb/haskell-tools.nvim | partial | 2026-09-13T00:22:24Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
+| mrcjkb/haskell-tools.nvim | partial | 2026-09-13T00:31:08Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | mrcjkb/telescope-manix | partial | 2026-09-13T00:27:19Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
@@ -1565,7 +1565,7 @@ Records: `1515`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-08T20:13:05Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-11T19:13:12Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-13T01:11:26Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

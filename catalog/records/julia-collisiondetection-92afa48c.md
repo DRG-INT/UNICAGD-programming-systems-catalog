@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""}; Apache-2.0; https://www.nuget.org/packages/Serilog.Formatting.Compact/3.0.0/license |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Backup plan required |
+| Evidence | GPL (>= 2) |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

@@ -643,7 +643,7 @@ Records: `1041`
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-09T01:10:28Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
 | bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
-| bazel-contrib/rules_dotnet | partial | 2026-09-12T23:13:48Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
+| bazel-contrib/rules_dotnet | partial | 2026-09-13T01:13:31Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-11T17:13:45Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
 | bazel-contrib/rules_kotlin | partial | 2026-09-12T17:02:10Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
@@ -685,15 +685,15 @@ Records: `1041`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-11T10:45:15Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-13T00:06:23Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-12T23:48:56Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| ComposioHQ/composio | partial | 2026-09-13T01:05:41Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-13T00:42:23Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T22:03:31Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-07T16:27:01Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
-| langchain-ai/langgraph | partial | 2026-09-11T19:34:48Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
+| langchain-ai/langgraph | partial | 2026-09-13T00:54:53Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-12T23:51:51Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-13T00:04:16Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-13T01:07:39Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-12T22:51:50Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-12T22:27:49Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -988,7 +988,7 @@ Records: `1041`
 | luoxue03/mpv-lazy-2026-custom | partial | 2026-08-21T14:18:51Z | [open](../records/photography-luoxue03-mpv-lazy-2026-custom-78859b64.md) |
 | natario1/CameraView | partial | 2024-09-03T20:56:02Z | [open](../records/photography-natario1-cameraview-d63ed58c.md) |
 | nuno-faria/tiler | partial | 2023-10-31T13:55:47Z | [open](../records/photography-nuno-faria-tiler-7b94422f.md) |
-| NVIDIA/DALI | partial | 2026-09-11T17:21:29Z | [open](../records/photography-nvidia-dali-a173c9e6.md) |
+| NVIDIA/DALI | partial | 2026-09-12T10:41:30Z | [open](../records/photography-nvidia-dali-a173c9e6.md) |
 | Srameo/LED | partial | 2025-12-17T17:53:37Z | [open](../records/photography-srameo-led-221cbacc.md) |
 
 ## Microscopy

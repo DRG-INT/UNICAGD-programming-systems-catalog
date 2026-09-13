@@ -667,7 +667,7 @@ Records: `1243`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-12T07:30:17Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-12T15:43:24Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-13T00:32:37Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-12T13:55:58Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -1090,12 +1090,12 @@ Records: `1243`
 | alecazam/kram | partial | 2026-07-15T06:45:20Z | [open](../records/photography-alecazam-kram-5b321c90.md) |
 | BenJuan26/OpenSkyStacker | unknown | github_search_does_not_include_release_date | [open](../records/photography-benjuan26-openskystacker-db61a302.md) |
 | cdgriffith/FastFlix | partial | 2026-05-19T03:06:49Z | [open](../records/photography-cdgriffith-fastflix-7fb4169b.md) |
-| cshum/imagor | partial | 2026-09-07T13:13:48Z | [open](../records/photography-cshum-imagor-a7d7da1b.md) |
+| cshum/imagor | partial | 2026-09-12T17:25:02Z | [open](../records/photography-cshum-imagor-a7d7da1b.md) |
 | dmpop/pellicola | partial | 2025-05-27T11:09:48Z | [open](../records/photography-dmpop-pellicola-756cb6c8.md) |
 | h2non/imaginary | partial | 2025-11-08T19:49:48Z | [open](../records/photography-h2non-imaginary-36b02b58.md) |
 | iammatthias/com | partial | 2026-09-10T16:03:59Z | [open](../records/photography-iammatthias-com-e27dacc6.md) |
 | iib0011/omni-tools | partial | 2026-08-17T19:00:25Z | [open](../records/photography-iib0011-omni-tools-25e339f6.md) |
-| imgproxy/imgproxy | partial | 2026-09-10T22:04:13Z | [open](../records/photography-imgproxy-imgproxy-fffb72aa.md) |
+| imgproxy/imgproxy | partial | 2026-09-12T19:38:26Z | [open](../records/photography-imgproxy-imgproxy-fffb72aa.md) |
 | jim-easterbrook/Photini | partial | 2026-09-11T08:50:55Z | [open](../records/photography-jim-easterbrook-photini-e6016870.md) |
 | kydecker/astro-photo-grid | partial | 2026-08-11T01:32:56Z | [open](../records/photography-kydecker-astro-photo-grid-8e515209.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) |
@@ -1187,7 +1187,7 @@ Records: `1243`
 | jobovy/galpy | partial | 2026-09-13T00:26:07Z | [open](../records/telescopes-jobovy-galpy-b2e4e9ec.md) |
 | JuliaAstro/AstroImages.jl | partial | 2026-07-30T16:20:41Z | [open](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) |
 | jyotisham/jyotisha | partial | 2026-09-09T17:30:05Z | [open](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-13T00:01:04Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-13T01:06:31Z | [open](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) |
 | larrylart/Unimap | partial | 2019-02-18T20:46:00Z | [open](../records/telescopes-larrylart-unimap-07a1fd44.md) |
 | lenstronomy/lenstronomy | partial | 2026-09-07T00:13:35Z | [open](../records/telescopes-lenstronomy-lenstronomy-33b11625.md) |
 | lgrcia/twirl | partial | 2026-07-21T07:23:08Z | [open](../records/telescopes-lgrcia-twirl-2b14ac34.md) |
@@ -1241,7 +1241,7 @@ Records: `1243`
 | sshh12/astro-app | partial | 2024-11-03T18:50:26Z | [open](../records/telescopes-sshh12-astro-app-9e112594.md) |
 | Starlink/starlink | partial | 2026-08-12T00:17:22Z | [open](../records/telescopes-starlink-starlink-a17e4ea1.md) |
 | StefanoTesla/TeslaBoard | partial | 2026-08-28T10:07:31Z | [open](../records/telescopes-stefanotesla-teslaboard-f09975c6.md) |
-| Stellarium/stellarium | partial | 2026-09-12T22:02:57Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
+| Stellarium/stellarium | partial | 2026-09-13T01:02:50Z | [open](../records/telescopes-stellarium-stellarium-a274d765.md) |
 | steveberardi/starplot | partial | 2026-09-09T13:29:47Z | [open](../records/telescopes-steveberardi-starplot-6a1c13aa.md) |
 | StingraySoftware/stingray | partial | 2026-06-02T08:10:03Z | [open](../records/telescopes-stingraysoftware-stingray-6e54158b.md) |
 | sunpy/sunpy | partial | 2026-09-11T18:20:10Z | [open](../records/telescopes-sunpy-sunpy-52ba6b6e.md) |
@@ -1310,7 +1310,7 @@ Records: `1243`
 | flexcompute/tidy3d | partial | 2026-08-07T07:32:11Z | [open](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) |
 | Gjacquenot/Puma-EM | partial | 2020-09-12T13:09:29Z | [open](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) |
 | libretime/libretime | partial | 2026-09-11T00:23:52Z | [open](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) |
-| meshtastic/Meshtastic-Android | partial | 2026-09-12T13:06:04Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
+| meshtastic/Meshtastic-Android | partial | 2026-09-13T01:01:57Z | [open](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) |
 | ocastilloreyes/petgem | partial | 2026-07-30T08:00:28Z | [open](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) |
 | pagermon/pagermon | partial | 2026-08-04T22:51:57Z | [open](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) |
 | psyb0t/piraterf | partial | 2026-08-01T19:49:42Z | [open](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) |

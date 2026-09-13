@@ -547,7 +547,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T00:23:36Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-13T01:16:08Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-12T06:23:45Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -750,7 +750,7 @@ Records: `670`
 | google/libultrahdr | partial | 2026-09-12T03:59:01Z | [open](../records/photography-google-libultrahdr-51251004.md) |
 | Hedroed/png-parser | partial | 2023-04-07T11:29:47Z | [open](../records/photography-hedroed-png-parser-e0bab35a.md) |
 | iamsanmith/MetaSort | partial | 2026-05-17T12:19:55Z | [open](../records/photography-iamsanmith-metasort-55a2488c.md) |
-| ImageMagick/ImageMagick | partial | 2026-09-12T08:20:22Z | [open](../records/photography-imagemagick-imagemagick-21d650e1.md) |
+| ImageMagick/ImageMagick | partial | 2026-09-12T14:08:00Z | [open](../records/photography-imagemagick-imagemagick-21d650e1.md) |
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
 | karimz1/imgcompress | partial | 2026-09-12T03:50:23Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |

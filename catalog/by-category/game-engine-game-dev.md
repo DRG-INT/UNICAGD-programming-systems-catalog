@@ -500,7 +500,7 @@ Records: `377`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | BttrDrgn/radio.garten | partial | 2023-04-10T18:03:18Z | [open](../records/radio-garden-speciality-bttrdrgn-radio-garten-7728091a.md) |
-| DocDamage/world-radio-game | partial | 2026-09-12T04:30:48Z | [open](../records/radio-garden-speciality-docdamage-world-radio-game-592e3a02.md) |
+| DocDamage/world-radio-game | partial | 2026-09-12T22:57:20Z | [open](../records/radio-garden-speciality-docdamage-world-radio-game-592e3a02.md) |
 | MrMirhan/Radio-Garden-API | partial | 2021-09-21T11:12:25Z | [open](../records/radio-garden-speciality-mrmirhan-radio-garden-api-154f15be.md) |
 
 ## Repertoare Catalogs

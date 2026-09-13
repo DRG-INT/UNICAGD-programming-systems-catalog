@@ -39,9 +39,9 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; {"key": "", "name": "", "url": ""}; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GPL (>= 3) |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

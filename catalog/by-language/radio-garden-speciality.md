@@ -128,7 +128,7 @@ Records: `129`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [BttrDrgn/radio.garten](../records/radio-garden-speciality-bttrdrgn-radio-garten-7728091a.md) | partial | 2023-04-10T18:03:18Z | registry-derived |
-| [DocDamage/world-radio-game](../records/radio-garden-speciality-docdamage-world-radio-game-592e3a02.md) | partial | 2026-09-12T04:30:48Z | registry-derived |
+| [DocDamage/world-radio-game](../records/radio-garden-speciality-docdamage-world-radio-game-592e3a02.md) | partial | 2026-09-12T22:57:20Z | registry-derived |
 | [MrMirhan/Radio-Garden-API](../records/radio-garden-speciality-mrmirhan-radio-garden-api-154f15be.md) | partial | 2021-09-21T11:12:25Z | registry-derived |
 
 ### Ide Editor Integration

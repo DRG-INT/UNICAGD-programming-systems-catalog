@@ -602,7 +602,7 @@ Records: `1720`
 | gosom/scrapemate | partial | 2026-07-21T13:50:02Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-12T18:04:37Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-13T00:59:26Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1351,7 +1351,7 @@ Records: `1720`
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
 | photoprism/photoprism | partial | 2026-09-12T12:11:46Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
-| pmndrs/postprocessing | partial | 2026-09-09T22:53:47Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
+| pmndrs/postprocessing | partial | 2026-09-12T20:14:21Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |
 | pop-os/wallpapers | partial | 2025-06-24T16:00:43Z | [open](../records/photography-pop-os-wallpapers-b9bd093b.md) |
 | pyinat/naturtag | partial | 2026-09-05T16:02:26Z | [open](../records/photography-pyinat-naturtag-6ba95d49.md) |
@@ -1520,7 +1520,7 @@ Records: `1720`
 | inigodelportillo/ITU-Rpy | partial | 2026-07-26T23:16:08Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
 | jgrss/geowombat | partial | 2026-09-10T12:55:10Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
 | jopohl/urh | partial | 2025-12-19T14:25:58Z | [open](../records/satcom-satellites-jopohl-urh-a7932818.md) |
-| JuliaGeo/GDAL.jl | partial | 2026-09-11T20:27:51Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
+| JuliaGeo/GDAL.jl | partial | 2026-09-12T20:42:29Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
 | lukeswitz/DragonSync-iOS | partial | 2026-08-27T20:01:30Z | [open](../records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) |
 | mhostetter/gr-adsb | partial | 2026-04-09T14:23:55Z | [open](../records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) |

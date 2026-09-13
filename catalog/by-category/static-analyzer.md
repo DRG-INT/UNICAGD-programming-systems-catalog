@@ -434,14 +434,14 @@ Records: `679`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-12T22:08:43Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-13T00:35:55Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-12T23:24:28Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-13T00:58:36Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-06T12:34:16Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software

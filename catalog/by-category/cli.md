@@ -549,10 +549,10 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T21:29:13Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T01:10:15Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T00:18:28Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T01:11:23Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -687,9 +687,9 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bjarneo/cliamp | partial | 2026-09-12T14:01:30Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| bjarneo/cliamp | partial | 2026-09-12T19:18:30Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | dpnkrpl/radio-active | partial | 2026-06-30T15:34:15Z | [open](../records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
-| geo-tp/ESP32-Bit-Pirate | partial | 2026-09-12T14:47:17Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
+| geo-tp/ESP32-Bit-Pirate | partial | 2026-09-12T17:40:17Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
 | jafrado/magdec | partial | 2026-03-15T00:39:45Z | [open](../records/electromagnetoscopes-jafrado-magdec-863f75e9.md) |
 

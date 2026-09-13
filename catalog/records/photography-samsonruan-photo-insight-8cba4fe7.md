@@ -40,9 +40,9 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""}; Other |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:exif stars:>50", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:exif stars:>50", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

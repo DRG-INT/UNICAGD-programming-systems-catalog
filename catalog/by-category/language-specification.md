@@ -704,7 +704,7 @@ Records: `1471`
 | antlr/antlr4 | partial | 2026-02-16T21:29:09Z | [open](../records/go-antlr-antlr4-1390b066.md) |
 | aquasecurity/trivy | partial | 2026-09-11T10:39:47Z | [open](../records/go-aquasecurity-trivy-a759b66b.md) |
 | astaxie/build-web-application-with-golang | partial | 2024-05-12T00:47:46Z | [open](../records/go-astaxie-build-web-application-with-golang-30f88db6.md) |
-| authelia/authelia | partial | 2026-09-13T00:10:54Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
+| authelia/authelia | partial | 2026-09-13T01:03:40Z | [open](../records/go-authelia-authelia-bd98b68d.md) |
 | avelino/awesome-go | partial | 2026-09-12T19:39:06Z | [open](../records/go-avelino-awesome-go-512e7dd9.md) |
 | beego/beego | partial | 2026-09-10T13:43:49Z | [open](../records/go-beego-beego-e98bc924.md) |
 | binwiederhier/ntfy | partial | 2026-09-10T03:56:54Z | [open](../records/go-binwiederhier-ntfy-973f5ef2.md) |
@@ -718,9 +718,9 @@ Records: `1471`
 | danielmiessler/Fabric | partial | 2026-09-07T19:17:46Z | [open](../records/go-danielmiessler-fabric-e388968f.md) |
 | derailed/k9s | partial | 2026-09-11T09:19:34Z | [open](../records/go-derailed-k9s-e40d54ee.md) |
 | docker/compose | partial | 2026-09-11T17:21:34Z | [open](../records/go-docker-compose-cdd7478b.md) |
-| doocs/leetcode | partial | 2026-09-12T10:14:38Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
+| doocs/leetcode | partial | 2026-09-13T00:56:35Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
 | ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-12T21:29:13Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T01:10:15Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
 | etcd-io/etcd | partial | 2026-09-11T20:50:01Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
 | ethereum/go-ethereum | partial | 2026-09-11T03:15:54Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
 | evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
@@ -733,7 +733,7 @@ Records: `1471`
 | gitleaks/gitleaks | partial | 2026-09-09T04:18:49Z | [open](../records/go-gitleaks-gitleaks-d8047052.md) |
 | glanceapp/glance | partial | 2026-09-05T12:22:32Z | [open](../records/go-glanceapp-glance-c761949a.md) |
 | go-delve/delve | partial | 2026-09-09T15:49:05Z | [open](../records/go-go-delve-delve-92f06a69.md) |
-| go-gitea/gitea | partial | 2026-09-12T16:26:21Z | [open](../records/go-go-gitea-gitea-16871751.md) |
+| go-gitea/gitea | partial | 2026-09-13T01:00:57Z | [open](../records/go-go-gitea-gitea-16871751.md) |
 | go-gorm/gorm | partial | 2026-06-25T07:21:11Z | [open](../records/go-go-gorm-gorm-7ca42177.md) |
 | go-kit/kit | partial | 2024-07-19T01:40:06Z | [open](../records/go-go-kit-kit-a994b76c.md) |
 | gofiber/fiber | partial | 2026-09-12T22:16:47Z | [open](../records/go-gofiber-fiber-4a40c103.md) |
@@ -765,7 +765,7 @@ Records: `1471`
 | kubernetes/minikube | partial | 2026-09-12T22:31:13Z | [open](../records/go-kubernetes-minikube-284bb65c.md) |
 | labstack/echo | partial | 2026-09-11T05:12:32Z | [open](../records/go-labstack-echo-87caf04e.md) |
 | MHSanaei/3x-ui | partial | 2026-09-12T10:00:21Z | [open](../records/go-mhsanaei-3x-ui-0505b860.md) |
-| micro-editor/micro | partial | 2026-09-12T15:02:41Z | [open](../records/go-micro-editor-micro-31344ae4.md) |
+| micro-editor/micro | partial | 2026-09-13T00:38:20Z | [open](../records/go-micro-editor-micro-31344ae4.md) |
 | microsoft/TypeScript | partial | 2026-09-12T00:32:38Z | [open](../records/go-microsoft-typescript-263acd6d.md) |
 | milvus-io/milvus | partial | 2026-09-11T21:18:26Z | [open](../records/go-milvus-io-milvus-f58bc0a6.md) |
 | minio/minio | partial | 2026-04-24T17:54:39Z | [open](../records/go-minio-minio-db7d09c3.md) |
@@ -790,7 +790,7 @@ Records: `1471`
 | router-for-me/CLIProxyAPI | partial | 2026-09-12T18:00:05Z | [open](../records/go-router-for-me-cliproxyapi-093a59b1.md) |
 | SagerNet/sing-box | partial | 2026-09-12T11:01:00Z | [open](../records/go-sagernet-sing-box-7213e1d8.md) |
 | schollz/croc | partial | 2026-09-12T21:44:41Z | [open](../records/go-schollz-croc-63a54584.md) |
-| seaweedfs/seaweedfs | partial | 2026-09-12T21:37:37Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
+| seaweedfs/seaweedfs | partial | 2026-09-13T00:54:32Z | [open](../records/go-seaweedfs-seaweedfs-e63ae9d7.md) |
 | sipeed/picoclaw | partial | 2026-09-03T17:15:19Z | [open](../records/go-sipeed-picoclaw-00ca996b.md) |
 | slimtoolkit/slim | partial | 2026-08-02T15:58:35Z | [open](../records/go-slimtoolkit-slim-92b8fc23.md) |
 | spf13/cobra | partial | 2026-07-11T00:43:07Z | [open](../records/go-spf13-cobra-eeac1239.md) |
@@ -805,7 +805,7 @@ Records: `1471`
 | v2fly/v2ray-core | partial | 2026-09-08T22:27:45Z | [open](../records/go-v2fly-v2ray-core-4115df01.md) |
 | v2ray/v2ray-core | partial | 2026-08-31T03:24:40Z | [open](../records/go-v2ray-v2ray-core-416161d0.md) |
 | wagoodman/dive | partial | 2025-12-15T17:20:36Z | [open](../records/go-wagoodman-dive-64f44bbd.md) |
-| wailsapp/wails | partial | 2026-09-13T00:09:00Z | [open](../records/go-wailsapp-wails-76753cd4.md) |
+| wailsapp/wails | partial | 2026-09-13T00:31:26Z | [open](../records/go-wailsapp-wails-76753cd4.md) |
 | Wei-Shaw/sub2api | partial | 2026-09-13T00:06:58Z | [open](../records/go-wei-shaw-sub2api-b8221375.md) |
 | XIU2/CloudflareSpeedTest | partial | 2026-08-23T06:31:44Z | [open](../records/go-xiu2-cloudflarespeedtest-4441b21f.md) |
 | XTLS/Xray-core | partial | 2026-09-12T20:09:36Z | [open](../records/go-xtls-xray-core-bef74000.md) |
@@ -852,7 +852,7 @@ Records: `1471`
 | mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
 | p-e-w/heretic | partial | 2026-09-05T16:11:52Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
-| sgl-project/sglang | partial | 2026-09-13T00:27:23Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| sgl-project/sglang | partial | 2026-09-13T01:15:47Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
 | yamadashy/repomix | partial | 2026-09-12T22:09:13Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
@@ -1083,7 +1083,7 @@ Records: `1471`
 | angelgladin/Photo_Exif_Toolkit | partial | 2017-07-19T19:12:30Z | [open](../records/photography-angelgladin-photo-exif-toolkit-754e1378.md) |
 | dmotz/thing-translator | partial | 2021-03-23T02:35:05Z | [open](../records/photography-dmotz-thing-translator-7eb7907e.md) |
 | dsoprea/go-exif | partial | 2024-04-04T22:50:05Z | [open](../records/photography-dsoprea-go-exif-58f74328.md) |
-| halide/Halide | partial | 2026-09-12T07:11:12Z | [open](../records/photography-halide-halide-872dbb0e.md) |
+| halide/Halide | partial | 2026-09-13T01:03:19Z | [open](../records/photography-halide-halide-872dbb0e.md) |
 | JaidedAI/EasyOCR | partial | 2025-12-05T12:23:12Z | [open](../records/photography-jaidedai-easyocr-4261194e.md) |
 | mcrescas/veriv | partial | 2025-08-29T12:24:44Z | [open](../records/photography-mcrescas-veriv-fd04d504.md) |
 | mv-lab/InstructIR | unknown | github_search_does_not_include_release_date | [open](../records/photography-mv-lab-instructir-9bdb6aa5.md) |
@@ -1101,7 +1101,7 @@ Records: `1471`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ad-si/Woxi | partial | 2026-09-12T22:18:28Z | [open](../records/telescopes-ad-si-woxi-8a8c02e7.md) |
+| ad-si/Woxi | partial | 2026-09-13T01:07:12Z | [open](../records/telescopes-ad-si-woxi-8a8c02e7.md) |
 | Avimitin/nvim | partial | 2026-07-28T05:10:02Z | [open](../records/telescopes-avimitin-nvim-96de9a1e.md) |
 | gnudatalanguage/gdl | partial | 2026-09-11T21:18:21Z | [open](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) |
 | indigo-astronomy/indigo | partial | 2026-09-09T18:43:09Z | [open](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) |
