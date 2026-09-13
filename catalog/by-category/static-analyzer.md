@@ -17,9 +17,9 @@ Records: `680`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (680)](static-analyzer.md)**
@@ -426,7 +426,7 @@ Records: `680`
 | --- | --- | --- | --- |
 | ai_barcode_scanner | 8.0.1 | 2026-09-12T09:04:26.763388Z | [open](../records/dart-ai-barcode-scanner-b66d3773.md) |
 | barcode_scan2 | 4.8.2 | 2026-09-09T04:06:14.386333Z | [open](../records/dart-barcode-scan2-37eae369.md) |
-| cunning_document_scanner | 3.0.2 | 2026-08-31T06:14:42.627856Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
+| cunning_document_scanner | 3.0.3 | 2026-09-13T09:37:06.931442Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
 | flutter_zxing | 3.0.1 | 2026-09-02T15:25:47.933010Z | [open](../records/dart-flutter-zxing-a58545cd.md) |
 | mobile_scanner | 7.4.1 | 2026-09-09T21:28:23.659354Z | [open](../records/dart-mobile-scanner-cd355124.md) |
 | string_scanner | 1.4.1 | 2024-12-17T10:00:43.322120Z | [open](../records/dart-string-scanner-05017d50.md) |
@@ -435,7 +435,7 @@ Records: `680`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-13T04:51:03Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-13T08:40:31Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -443,7 +443,7 @@ Records: `680`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | paperless-ngx/paperless-ngx | partial | 2026-09-13T00:58:36Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
-| ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T08:11:24Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
+| ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
 
@@ -915,11 +915,11 @@ Records: `680`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-13T06:40:06.680Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-13T07:22:53.491Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-13T08:27:42.047Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-13T08:44:37.173Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
-| hgraca/app-mapper | partial | 2026-09-12T08:05:09.242Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
+| hgraca/app-mapper | partial | 2026-09-13T08:04:18.809Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
 | internet-cleanup-foundation/web-security-map | partial | 2026-09-11T13:01:53.097Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | ngalog-gitlab/openapi_security_scanner | partial | 2021-04-13T23:16:32.701Z | [open](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |

@@ -17,9 +17,9 @@ Records: `210`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -418,7 +418,7 @@ Records: `210`
 | gizmodata/gizmosql | partial | 2026-09-11T19:02:59Z | [open](../records/databases-gizmodata-gizmosql-5fb47832.md) |
 | jiangwenyuan/nuster | partial | 2021-12-07T14:46:06Z | [open](../records/databases-jiangwenyuan-nuster-17a1b344.md) |
 | milvus-io/milvus | partial | 2026-09-09T10:57:12Z | [open](../records/databases-milvus-io-milvus-8ad33119.md) |
-| Mithril-mine/libmdbx | partial | 2026-09-08T13:54:36Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
+| Mithril-mine/libmdbx | partial | 2026-09-12T14:53:01Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-09T02:09:55Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-09T11:13:27Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
 | questdb/questdb | partial | 2026-09-13T00:19:58Z | [open](../records/databases-questdb-questdb-cb22f378.md) |

@@ -17,9 +17,9 @@ Records: `1094`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1094)](networking-http.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1094)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -80,7 +80,7 @@ Records: `1094`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | actix-http | 3.13.5 | 2026-09-02T13:30:04.048236Z | [open](../records/rust-actix-http-649d5d41.md) |
-| actix-server | 2.9.4 | 2026-09-11T18:41:39.446680Z | [open](../records/rust-actix-server-e5a4daec.md) |
+| actix-server | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](../records/rust-actix-server-e5a4daec.md) |
 | attohttpc | 0.31.0 | 2026-05-25T03:09:33.175942Z | [open](../records/rust-attohttpc-ed4c6017.md) |
 | aws-http | 0.60.6 | 2024-08-09T19:35:18.677687Z | [open](../records/rust-aws-http-8b04a69b.md) |
 | aws-sigv4 | 1.5.1 | 2026-07-08T19:08:55.193683Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
@@ -815,7 +815,7 @@ Records: `1094`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-13T02:38:22Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-13T08:33:09Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1317,7 +1317,7 @@ Records: `1094`
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-12T20:16:40Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-13T09:40:30Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |

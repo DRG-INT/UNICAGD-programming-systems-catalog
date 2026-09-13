@@ -17,9 +17,9 @@ Records: `1243`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1243)](parser-lexer-ast.md)** · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -635,7 +635,7 @@ Records: `1243`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-13T07:39:08Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-13T09:39:58Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-12T20:28:44Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-13T04:38:36Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -667,7 +667,7 @@ Records: `1243`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-12T07:30:17Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-13T08:21:28Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-13T08:38:06Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-12T13:55:58Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -1492,7 +1492,7 @@ Records: `1243`
 | objectbox/objectbox-dart | partial | 2026-09-07T11:33:49Z | [open](../records/databases-objectbox-objectbox-dart-50b3b5f5.md) |
 | objectbox/objectbox-go | partial | 2025-03-12T13:34:35Z | [open](../records/databases-objectbox-objectbox-go-7fb091f2.md) |
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
-| orientechnologies/orientdb | partial | 2026-09-11T16:29:59Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
+| orientechnologies/orientdb | partial | 2026-09-11T21:52:02Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
 | pingcap/tidb | partial | 2026-09-13T04:22:39Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-08-12T11:48:25Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |

@@ -17,9 +17,9 @@ Records: `2183`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6135)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
@@ -1155,7 +1155,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [actix-macros](../records/rust-actix-macros-ca794fb7.md) | 0.2.4 | 2023-07-19T22:54:08.231118Z | registry-derived |
-| [actix-rt](../records/rust-actix-rt-aef83aa1.md) | 2.13.0 | 2026-08-28T20:35:10.936505Z | registry-derived |
+| [actix-rt](../records/rust-actix-rt-aef83aa1.md) | 2.14.0 | 2026-09-13T09:32:41.329744Z | registry-derived |
 | [actix-web-codegen](../records/rust-actix-web-codegen-9aba0585.md) | 4.3.0 | 2024-06-08T23:24:23.437523Z | registry-derived |
 | [aws-runtime](../records/rust-aws-runtime-ac213e01.md) | 1.9.2 | 2026-09-04T19:06:16.878739Z | registry-derived |
 | [aws-smithy-async](../records/rust-aws-smithy-async-9d69cd7f.md) | 1.3.0 | 2026-07-07T18:15:23.316813Z | registry-derived |
@@ -1965,7 +1965,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [actix-http](../records/rust-actix-http-649d5d41.md) | 3.13.5 | 2026-09-02T13:30:04.048236Z | registry-derived |
-| [actix-server](../records/rust-actix-server-e5a4daec.md) | 2.9.4 | 2026-09-11T18:41:39.446680Z | registry-derived |
+| [actix-server](../records/rust-actix-server-e5a4daec.md) | 2.9.5 | 2026-09-13T09:33:39.249409Z | registry-derived |
 | [attohttpc](../records/rust-attohttpc-ed4c6017.md) | 0.31.0 | 2026-05-25T03:09:33.175942Z | crates_io |
 | [aws-http](../records/rust-aws-http-8b04a69b.md) | 0.60.6 | 2024-08-09T19:35:18.677687Z | crates_io |
 | [aws-sigv4](../records/rust-aws-sigv4-3f7fb63e.md) | 1.5.1 | 2026-07-08T19:08:55.193683Z | registry-derived |

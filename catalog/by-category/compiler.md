@@ -17,9 +17,9 @@ Records: `180`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -259,7 +259,7 @@ Records: `180`
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
 | pacak/cargo-show-asm | partial | 2026-09-11T18:08:53Z | [open](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
 | ujjwal-kr/system-programming-roadmap | partial | 2026-08-29T03:34:53Z | [open](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) |
-| vygr/ChrysaLisp | partial | 2026-09-12T17:29:40Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
+| vygr/ChrysaLisp | partial | 2026-09-13T09:20:27Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
 | wargio/r2dec-js | partial | 2026-08-16T18:36:14Z | [open](../records/assembly-wargio-r2dec-js-b98d3015.md) |
 | wgtdkp/wgtcc | partial | 2021-01-31T07:55:46Z | [open](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) |
 

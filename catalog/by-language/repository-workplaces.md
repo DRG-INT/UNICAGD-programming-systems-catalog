@@ -1,6 +1,6 @@
 # Repository Workplaces
 
-Records: `528`
+Records: `529`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `528`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6135)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
@@ -274,7 +274,7 @@ Records: `528`
 | [cespedes/ltrace](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) | partial | 2026-09-11T09:55:04.386Z | registry-derived |
 | [cznic/libc](../records/repository-workplaces-cznic-libc-3b834450.md) | partial | 2026-09-12T05:53:05.507Z | registry-derived |
 | [DerLinkshaender/csv2xlsx](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) | partial | 2023-01-23T21:54:27.769Z | registry-derived |
-| [freedesktop-sdk/freedesktop-sdk](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) | partial | 2026-09-12T19:09:03.950Z | registry-derived |
+| [freedesktop-sdk/freedesktop-sdk](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) | partial | 2026-09-13T09:26:42.725Z | registry-derived |
 | [Gitea: Befaci03/collab-vm-1.2-server-bettetweak](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) | partial | 2025-04-20T12:00:39Z | registry-derived |
 | [Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) | partial | 2025-04-19T11:00:56Z | registry-derived |
 | [Gitea: Gala_Group/GalaRuntime](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) | partial | 2023-09-03T18:22:16Z | registry-derived |
@@ -427,6 +427,7 @@ Records: `528`
 | --- | --- | --- | --- |
 | [Gitea: deepim/flatbuffers](../records/repository-workplaces-gitea-deepim-flatbuffers-d97eab34.md) | partial | 2025-10-09T13:09:13Z | registry-derived |
 | [Gitea: lunny/size](../records/repository-workplaces-gitea-lunny-size-39ab5da8.md) | partial | 2019-06-26T08:36:19Z | registry-derived |
+| [mdkrush/openclaw-true-recall-base](../records/repository-workplaces-mdkrush-openclaw-true-recall-base-5df5ba43.md) | partial | 2026-03-13T18:14:18.146Z | registry-derived |
 
 ### Message Broker
 
@@ -607,7 +608,7 @@ Records: `528`
 | [palmapps/jwt-spring-security-demo](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) | partial | 2019-02-23T10:05:23.454Z | registry-derived |
 | [peachtech/peach-fuzzer-community](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) | partial | 2021-03-30T17:59:40.973Z | registry-derived |
 | [prism-break/prism-break](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) | partial | 2026-09-09T18:50:23.501Z | registry-derived |
-| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-05T12:10:32.736Z | registry-derived |
+| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-13T08:56:45.581Z | registry-derived |
 | [riot.ai/NoteRiot](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) | partial | 2024-03-25T22:54:03.551Z | registry-derived |
 | [Shinobi-Systems/ShinobiCE](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) | partial | 2026-03-16T12:22:45.336Z | registry-derived |
 | [spritely/goblins](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) | partial | 2025-03-11T20:30:35.821Z | registry-derived |
@@ -632,11 +633,11 @@ Records: `528`
 | [Gitea: awdscan/awdscanserver](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) | partial | 2025-10-06T13:47:16Z | registry-derived |
 | [Gitea: corricca/elibrary-publication-analyzer](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) | partial | 2026-01-29T19:57:29Z | registry-derived |
 | [Gitea: ImageProcessing-ElectronicPublications/imthreshold](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) | partial | 2023-10-26T10:52:14Z | registry-derived |
-| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-13T06:40:06.680Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-13T07:22:53.491Z | registry-derived |
+| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-13T08:27:42.047Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-13T08:44:37.173Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-09-12T02:13:28.191Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
-| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-12T08:05:09.242Z | registry-derived |
+| [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-13T08:04:18.809Z | registry-derived |
 | [internet-cleanup-foundation/web-security-map](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) | partial | 2026-09-11T13:01:53.097Z | registry-derived |
 | [mopsa/mopsa-analyzer](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) | partial | 2026-08-23T14:57:22.050Z | registry-derived |
 | [ngalog-gitlab/openapi_security_scanner](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) | partial | 2021-04-13T23:16:32.701Z | registry-derived |

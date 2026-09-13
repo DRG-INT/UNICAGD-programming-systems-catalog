@@ -17,9 +17,9 @@ Records: `983`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -803,8 +803,8 @@ Records: `983`
 | apache/lucene | partial | 2026-09-11T08:24:32Z | [open](../records/databases-apache-lucene-85981dbd.md) |
 | apache/lucene-solr | partial | 2026-05-15T22:15:22Z | [open](../records/databases-apache-lucene-solr-fb225570.md) |
 | apache/pouchdb | partial | 2026-09-12T07:03:26Z | [open](../records/databases-apache-pouchdb-13275ac3.md) |
-| apache/solr | partial | 2026-09-11T19:50:08Z | [open](../records/databases-apache-solr-a1b48587.md) |
-| apache/zeppelin | partial | 2026-09-10T12:17:23Z | [open](../records/databases-apache-zeppelin-896076cb.md) |
+| apache/solr | partial | 2026-09-12T19:50:19Z | [open](../records/databases-apache-solr-a1b48587.md) |
+| apache/zeppelin | partial | 2026-09-13T08:50:03Z | [open](../records/databases-apache-zeppelin-896076cb.md) |
 | apache/zookeeper | partial | 2026-09-11T19:05:04Z | [open](../records/databases-apache-zookeeper-3f9970e6.md) |
 | ArangoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-arangodb-52639a97.md) |
 | asg017/sqlite-vec | partial | 2026-05-18T06:50:45Z | [open](../records/databases-asg017-sqlite-vec-a5b9bdb7.md) |
@@ -845,7 +845,7 @@ Records: `983`
 | coleifer/sqlite-web | partial | 2026-09-08T18:46:49Z | [open](../records/databases-coleifer-sqlite-web-559da57e.md) |
 | cooderl/wewe-rss | partial | 2026-03-20T00:22:37Z | [open](../records/databases-cooderl-wewe-rss-7a4431e6.md) |
 | Cosmos DB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cosmos-db-7ffbb419.md) |
-| couchbase/couchbase-lite-ios | partial | 2026-09-02T21:44:23Z | [open](../records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
+| couchbase/couchbase-lite-ios | partial | 2026-09-12T00:43:58Z | [open](../records/databases-couchbase-couchbase-lite-ios-6c0953f5.md) |
 | Count | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-count-4fee7662.md) |
 | crate/crate | partial | 2026-09-11T18:47:58Z | [open](../records/databases-crate-crate-20858887.md) |
 | cstack/db_tutorial | partial | 2024-03-04T14:18:06Z | [open](../records/databases-cstack-db-tutorial-5fe821d6.md) |
@@ -872,7 +872,7 @@ Records: `983`
 | Dolibarr/dolibarr | partial | 2026-09-13T03:39:29Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
 | dotnet/efcore | partial | 2026-09-12T04:41:21Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
-| dragonflydb/dragonfly | partial | 2026-09-12T15:37:39Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
+| dragonflydb/dragonfly | partial | 2026-09-13T07:26:44Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
 | drizzle-team/drizzle-orm | partial | 2026-09-11T15:04:58Z | [open](../records/databases-drizzle-team-drizzle-orm-70f57054.md) |
 | DuckDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-duckdb-88d17aa9.md) |
 | duckdb/duckdb | partial | 2026-09-11T19:35:43Z | [open](../records/databases-duckdb-duckdb-654530e3.md) |
@@ -901,7 +901,7 @@ Records: `983`
 | GORM | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-gorm-e339ce80.md) |
 | Grafana | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-grafana-eb0ace9f.md) |
 | grandnode/grandnode | partial | 2021-08-25T14:50:10Z | [open](../records/databases-grandnode-grandnode-bb4d9898.md) |
-| grandnode/grandnode2 | partial | 2026-09-11T20:00:44Z | [open](../records/databases-grandnode-grandnode2-f27a8b8d.md) |
+| grandnode/grandnode2 | partial | 2026-09-13T09:44:18Z | [open](../records/databases-grandnode-grandnode2-f27a8b8d.md) |
 | gristlabs/grist-core | partial | 2026-09-11T18:31:52Z | [open](../records/databases-gristlabs-grist-core-d8e14d49.md) |
 | groue/GRDB.swift | partial | 2026-08-08T08:57:22Z | [open](../records/databases-groue-grdb-swift-f7a16ae4.md) |
 | gyoogle/tech-interview-for-developer | partial | 2025-06-04T08:16:06Z | [open](../records/databases-gyoogle-tech-interview-for-developer-dc2a8dbb.md) |
@@ -920,7 +920,7 @@ Records: `983`
 | ibis-project/ibis | partial | 2026-09-09T21:50:32Z | [open](../records/databases-ibis-project-ibis-5585ff7c.md) |
 | IceFireDB/IceFireDB | partial | 2026-09-11T12:02:48Z | [open](../records/databases-icefiredb-icefiredb-27424ec8.md) |
 | impossibl/pgjdbc-ng | partial | 2024-06-21T05:24:50Z | [open](../records/databases-impossibl-pgjdbc-ng-63791c56.md) |
-| infinispan/infinispan | partial | 2026-09-11T15:46:57Z | [open](../records/databases-infinispan-infinispan-d1cf9b60.md) |
+| infinispan/infinispan | partial | 2026-09-12T10:05:50Z | [open](../records/databases-infinispan-infinispan-d1cf9b60.md) |
 | InfluxDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-influxdb-db18cf2c.md) |
 | InsForge/InsForge | partial | 2026-09-11T22:39:08Z | [open](../records/databases-insforge-insforge-e3aaf1f0.md) |
 | itwanger/toBeBetterJavaer | partial | 2026-09-11T12:23:43Z | [open](../records/databases-itwanger-tobebetterjavaer-be3c87d7.md) |
@@ -952,7 +952,7 @@ Records: `983`
 | linkedin/school-of-sre | partial | 2025-12-25T12:44:23Z | [open](../records/databases-linkedin-school-of-sre-373f9d76.md) |
 | lioensky/VCPToolBox | partial | 2026-09-09T08:00:51Z | [open](../records/databases-lioensky-vcptoolbox-7835fe3a.md) |
 | Liquibase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-liquibase-64f6983e.md) |
-| litedb-org/LiteDB | partial | 2026-08-21T08:45:54Z | [open](../records/databases-litedb-org-litedb-ee5cca46.md) |
+| litedb-org/LiteDB | partial | 2026-09-13T09:41:57Z | [open](../records/databases-litedb-org-litedb-ee5cca46.md) |
 | livestorejs/livestore | partial | 2026-09-11T21:16:29Z | [open](../records/databases-livestorejs-livestore-d5c5b0b8.md) |
 | liyupi/ai-code-helper | partial | 2025-07-10T11:32:26Z | [open](../records/databases-liyupi-ai-code-helper-5bbf3afc.md) |
 | liyupi/codefather | partial | 2026-07-11T03:14:33Z | [open](../records/databases-liyupi-codefather-dcb6715d.md) |
@@ -1103,7 +1103,7 @@ Records: `983`
 | thedotmack/claude-mem | partial | 2026-09-11T18:13:59Z | [open](../records/databases-thedotmack-claude-mem-3839dcc6.md) |
 | TiDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-tidb-c38e2156.md) |
 | TimescaleDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-timescaledb-559a9fcc.md) |
-| topling/toplingdb | partial | 2026-09-05T03:48:54Z | [open](../records/databases-topling-toplingdb-dad1d1dc.md) |
+| topling/toplingdb | partial | 2026-09-13T00:02:29Z | [open](../records/databases-topling-toplingdb-dad1d1dc.md) |
 | Turso | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-turso-62cb710e.md) |
 | tursodatabase/agentfs | partial | 2026-06-03T10:48:12Z | [open](../records/databases-tursodatabase-agentfs-6fde2cd8.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/databases-tursodatabase-libsql-7be947ec.md) |

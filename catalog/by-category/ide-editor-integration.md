@@ -17,9 +17,9 @@ Records: `1515`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -191,7 +191,7 @@ Records: `1515`
 | @launchdarkly/openfeature-node-server | 2.0.3 | 2026-09-11T15:46:35.369Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.58 | 2026-09-11T15:46:15.659Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
-| @lvce-editor/server | 0.115.6 | 2026-09-12T22:14:06.335Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @lvce-editor/server | 0.115.7 | 2026-09-13T08:25:31.578Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
@@ -694,10 +694,10 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T08:16:10Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T09:42:36Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T06:31:58Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-13T06:19:31Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T08:36:43Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-13T09:31:21Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-13T08:07:25Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |

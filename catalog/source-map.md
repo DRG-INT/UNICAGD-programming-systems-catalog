@@ -13,9 +13,9 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6135)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6136)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (680)](by-category/static-analyzer.md)
@@ -17153,6 +17153,7 @@
 | `gitlab_projects_api-0d4e3eafd4810a` | just.insane/kubernetes | [open](records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
 | `gitlab_projects_api-0ec32849aa549d` | jrmiller82/pathfinder-2-sqlite | [open](records/repository-workplaces-jrmiller82-pathfinder-2-sqlite-806cf747.md) |
 | `gitlab_projects_api-10df29863b2598` | prism-break/prism-break | [open](records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
+| `gitlab_projects_api-119963e630e5e0` | mdkrush/openclaw-true-recall-base | [open](records/repository-workplaces-mdkrush-openclaw-true-recall-base-5df5ba43.md) |
 | `gitlab_projects_api-120bdf6b6eab54` | icecap-project/icecap | [open](records/repository-workplaces-icecap-project-icecap-186fdf2b.md) |
 | `gitlab_projects_api-139d76b2348214` | qvex/vex-rt | [open](records/repository-workplaces-qvex-vex-rt-86c278e7.md) |
 | `gitlab_projects_api-141957e93f7c4f` | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | [open](records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
@@ -18219,6 +18220,7 @@
 | `hackage_recent-36b9648f0bd994` | keel | [open](records/haskell-keel-dffc1816.md) |
 | `hackage_recent-36d21c9436a774` | quic-simple | [open](records/haskell-quic-simple-f198ea36.md) |
 | `hackage_recent-36f4a9a68d187b` | ktx-font | [open](records/haskell-ktx-font-8c048a63.md) |
+| `hackage_recent-372431c84bb6f6` | hasquant | [open](records/haskell-hasquant-609f2342.md) |
 | `hackage_recent-37353658c3dd2d` | hsinstall | [open](records/haskell-hsinstall-b4fd04ed.md) |
 | `hackage_recent-392236b0cd3630` | pgmq-migration | [open](records/haskell-pgmq-migration-ed203ec5.md) |
 | `hackage_recent-394e34f595c790` | libheif-hs | [open](records/haskell-libheif-hs-92008b9d.md) |

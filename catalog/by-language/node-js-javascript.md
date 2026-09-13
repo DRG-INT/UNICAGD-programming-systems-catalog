@@ -17,9 +17,9 @@ Records: `2458`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6135)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6136)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
@@ -1051,7 +1051,7 @@ Records: `2458`
 | [@launchdarkly/openfeature-node-server](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) | 2.0.3 | 2026-09-11T15:46:35.369Z | registry-derived |
 | [@launchdarkly/vercel-server-sdk](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) | 1.3.58 | 2026-09-11T15:46:15.659Z | registry-derived |
 | [@lit-labs/ssr-dom-shim](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) | 1.6.0 | 2026-05-14T03:55:57.027Z | registry-derived |
-| [@lvce-editor/server](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) | 0.115.6 | 2026-09-12T22:14:06.335Z | registry-derived |
+| [@lvce-editor/server](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) | 0.115.7 | 2026-09-13T08:25:31.578Z | registry-derived |
 | [@mixmark-io/domino](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) | 2.2.0 | 2024-04-06T21:31:29.908Z | registry-derived |
 | [@molecule/api-database-sqlite](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) | 1.0.3 | 2026-08-15T04:44:36.606Z | registry-derived |
 | [@nexrender/database-redis](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) | 1.60.10 | 2025-01-24T12:30:12.941Z | registry-derived |
@@ -2236,7 +2236,7 @@ Records: `2458`
 | [@genesislcap/foundation-testing](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) | 15.28.1 | 2026-09-11T16:37:45.313Z | registry-derived |
 | [@golevelup/ts-jest](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) | 3.0.0 | 2026-03-18T20:15:21.180Z | registry-derived |
 | [@golevelup/ts-vitest](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) | 4.0.0 | 2026-03-18T20:15:23.670Z | registry-derived |
-| [@graphql-codegen/testing](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) | 5.0.1 | 2026-05-27T13:31:00.554Z | registry-derived |
+| [@graphql-codegen/testing](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) | 5.0.2 | 2026-09-13T09:02:55.303Z | registry-derived |
 | [@harnessio/react-api-testing-service-client](../records/node-js-javascript-harnessio-react-api-testing-service-client-a9acdedb.md) | 0.4.0 | 2026-07-23T13:19:47.347Z | registry-derived |
 | [@iabtechlabtcf/testing](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) | 1.5.22 | 2026-09-01T18:14:14.773Z | registry-derived |
 | [@inngest/test](../records/node-js-javascript-inngest-test-8b100cd2.md) | 1.0.0 | 2026-03-25T14:11:16.511Z | registry-derived |

@@ -17,9 +17,9 @@ Records: `864`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · **[Machine Learning (864)](machine-learning.md)**
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -524,7 +524,7 @@ Records: `864`
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-13T07:27:49Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | partial | 2026-09-13T08:15:14Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| langchain-ai/langchain | partial | 2026-09-13T08:27:48Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
@@ -532,7 +532,7 @@ Records: `864`
 | onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T03:54:59Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T08:39:07Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -542,8 +542,8 @@ Records: `864`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T07:38:27Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
-| VectifyAI/PageIndex | partial | 2026-09-13T08:11:58Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
+| unslothai/unsloth | partial | 2026-09-13T09:22:29Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| VectifyAI/PageIndex | partial | 2026-09-13T09:40:47Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
 ## Computer Graphics Software

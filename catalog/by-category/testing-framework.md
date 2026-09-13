@@ -17,9 +17,9 @@ Records: `650`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6135)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6136)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
@@ -173,7 +173,7 @@ Records: `650`
 | @genesislcap/foundation-testing | 15.28.1 | 2026-09-11T16:37:45.313Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | @golevelup/ts-vitest | 4.0.0 | 2026-03-18T20:15:23.670Z | [open](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) |
-| @graphql-codegen/testing | 5.0.1 | 2026-05-27T13:31:00.554Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
+| @graphql-codegen/testing | 5.0.2 | 2026-09-13T09:02:55.303Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
 | @harnessio/react-api-testing-service-client | 0.4.0 | 2026-07-23T13:19:47.347Z | [open](../records/node-js-javascript-harnessio-react-api-testing-service-client-a9acdedb.md) |
 | @iabtechlabtcf/testing | 1.5.22 | 2026-09-01T18:14:14.773Z | [open](../records/node-js-javascript-iabtechlabtcf-testing-999f222a.md) |
 | @inngest/test | 1.0.0 | 2026-03-25T14:11:16.511Z | [open](../records/node-js-javascript-inngest-test-8b100cd2.md) |
