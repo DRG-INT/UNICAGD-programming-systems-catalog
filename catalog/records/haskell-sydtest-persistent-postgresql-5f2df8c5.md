@@ -1,0 +1,106 @@
+# sydtest-persistent-postgresql
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Haskell](../by-language/haskell.md) · [Category: Testing Framework](../by-category/testing-framework.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://hackage.haskell.org/package/sydtest-persistent-postgresql -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Haskell |
+| Category | Testing Framework |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://hackage.haskell.org/package/sydtest-persistent-postgresql](https://hackage.haskell.org/package/sydtest-persistent-postgresql) |
+| Source record ids | hackage_recent-28247a3c327908 |
+
+## System Engineer Summary
+
+Hackage package recently uploaded by Norfair.
+
+## Operational Role
+
+For a systems engineer, sydtest-persistent-postgresql belongs in the Haskell inventory as part of
+unit/integration validation, regression protection, and release confidence.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | known | 0.5.0.0 | 2026-09-13T21:04:26Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+
+## Engineering Notes
+
+- Treat category as `testing_framework` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-13T22:19:03+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| hackage_recent_uploads | registry-derived | 2026-09-13 | `{"kind": "hackage_recent_uploads", "retrieved": "2026-09-13", "status": "registry-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `hackage_recent-28247a3c327908` from `hackage_recent` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| bytestring | Testing Framework | [open](haskell-bytestring-38df8b50.md) |
+| bytestring-trie | Testing Framework | [open](haskell-bytestring-trie-fc4506c9.md) |
+| cabal-doctest | Testing Framework | [open](haskell-cabal-doctest-3d16d0b9.md) |
+| distributed-process-tests | Testing Framework | [open](haskell-distributed-process-tests-fb4ba8e2.md) |
+| doctest | Testing Framework | [open](haskell-doctest-30d37480.md) |
+| erebos-tester | Testing Framework | [open](haskell-erebos-tester-78ab693a.md) |
+| hls-test-utils | Testing Framework | [open](haskell-hls-test-utils-92298e45.md) |
+| keiro-test-support | Testing Framework | [open](haskell-keiro-test-support-e5766eee.md) |
+
+## Category Index
+
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1042)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6149)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (867)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (682)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · **[Testing Framework (653)](../by-category/testing-framework.md)** · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1667)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

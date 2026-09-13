@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1666`
+Records: `1667`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `1666`
 [Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6149)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (867)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (681)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (652)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-**[Undefined Behavior Analyzer (1666)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (682)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (653)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+**[Undefined Behavior Analyzer (1667)](undefined-behavior-analyzer.md)** · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -341,6 +341,7 @@ Records: `1666`
 | rsconnect | 1.11.0 | 2026-08-25 16:50:02 UTC | [open](../records/r-rsconnect-df45a366.md) |
 | scimesh | 0.3.4 | 2026-08-21 14:10:10 UTC | [open](../records/r-scimesh-91e77ee3.md) |
 | subincomeR | 0.6.0 | 2026-08-21 21:00:02 UTC | [open](../records/r-subincomer-918df686.md) |
+| SubTS | 2.0 | 2026-09-13 21:30:08 UTC | [open](../records/r-subts-10a5aad8.md) |
 | summata | 0.12.0 | 2026-08-21 06:00:02 UTC | [open](../records/r-summata-bb837bd7.md) |
 | tabulergm | 0.1.0 | 2026-08-21 13:50:02 UTC | [open](../records/r-tabulergm-44172871.md) |
 | tanner | 1.8.0 | 2026-08-06 13:10:02 UTC | [open](../records/r-tanner-99dfc021.md) |
@@ -417,8 +418,8 @@ Records: `1666`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| bluenviron/mediamtx | partial | 2026-09-12T05:01:10Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
@@ -1148,9 +1149,9 @@ Records: `1666`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | partial | 2026-09-12T08:35:55Z | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1824,11 +1825,11 @@ Records: `1666`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AladinWay/TransitionButton | unknown | not_a_cocoapods_name | [open](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) |
-| devxoul/CocoaSeeds | unknown | not_a_cocoapods_name | [open](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) |
-| efremidze/Magnetic | unknown | not_a_cocoapods_name | [open](../records/cocoa-efremidze-magnetic-ac9421b5.md) |
-| KelvinJin/AnimatedCollectionViewLayout | unknown | not_a_cocoapods_name | [open](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) |
-| macmade/GitHubUpdates | unknown | not_a_cocoapods_name | [open](../records/cocoa-macmade-githubupdates-e05a7458.md) |
+| AladinWay/TransitionButton | partial | 2022-09-05T11:51:13Z | [open](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) |
+| devxoul/CocoaSeeds | partial | 2017-02-15T17:45:51Z | [open](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) |
+| efremidze/Magnetic | partial | 2025-07-09T23:33:43Z | [open](../records/cocoa-efremidze-magnetic-ac9421b5.md) |
+| KelvinJin/AnimatedCollectionViewLayout | partial | 2020-09-20T07:09:55Z | [open](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) |
+| macmade/GitHubUpdates | partial | 2026-07-17T07:37:29Z | [open](../records/cocoa-macmade-githubupdates-e05a7458.md) |
 | subethaedit/SubEthaEdit | partial | 2025-11-09T15:30:33Z | [open](../records/cocoa-subethaedit-subethaedit-a17dc346.md) |
 | tbxark/TKRubberIndicator | partial | 2024-08-21T09:11:19Z | [open](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) |
 | XCDYouTubeKit | 2.15.2 | 2020-12-08T20:28:58Z | [open](../records/cocoa-xcdyoutubekit-06b9c2a1.md) |
@@ -1868,7 +1869,7 @@ Records: `1666`
 | simonw/datasette | partial | 2026-09-11T18:29:18Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-13T01:45:17Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-13T14:50:31Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-13T20:06:59Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |

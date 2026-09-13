@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `652`
+Records: `653`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `652`
 [Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6149)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (867)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (681)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (652)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1666)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (682)](static-analyzer.md)
+[Templating (2)](templating.md) · **[Testing Framework (653)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1667)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -259,8 +259,8 @@ Records: `652`
 | @vizzly-testing/cli | 0.36.0 | 2026-09-08T06:22:32.088Z | [open](../records/node-js-javascript-vizzly-testing-cli-e4348fc2.md) |
 | @vue/cli-plugin-unit-jest | 5.0.9 | 2025-08-21T10:57:04.686Z | [open](../records/node-js-javascript-vue-cli-plugin-unit-jest-00f301fd.md) |
 | @vue/test-utils | 2.5.0 | 2026-08-27T13:56:57.235Z | [open](../records/node-js-javascript-vue-test-utils-aa8d0a01.md) |
-| @wdio/cucumber-framework | 9.31.7 | 2026-09-07T20:06:23.289Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
-| @wdio/mocha-framework | 9.31.7 | 2026-09-07T20:06:23.116Z | [open](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
+| @wdio/cucumber-framework | 9.31.9 | 2026-09-13T20:44:54.202Z | [open](../records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
+| @wdio/mocha-framework | 9.31.9 | 2026-09-13T20:45:49.139Z | [open](../records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
 | @wdio/tauri-service | 1.4.0 | 2026-09-06T16:38:42.632Z | [open](../records/node-js-javascript-wdio-tauri-service-cfa3308c.md) |
 | @wdio/visual-service | 10.1.0 | 2026-07-11T06:11:57.135Z | [open](../records/node-js-javascript-wdio-visual-service-0c53ea2f.md) |
 | @wdio/xvfb | 9.31.2 | 2026-08-21T01:44:54.191Z | [open](../records/node-js-javascript-wdio-xvfb-e9e46e8a.md) |
@@ -528,6 +528,7 @@ Records: `652`
 | sydtest | 0.31.0.0 | 2026-09-11T13:41:53Z | [open](../records/haskell-sydtest-4ee551d3.md) |
 | sydtest-mutation-driver | 0.2.0.0 | 2026-09-11T13:41:56Z | [open](../records/haskell-sydtest-mutation-driver-308dc55e.md) |
 | sydtest-mutation-plugin | 0.5.0.0 | 2026-09-11T13:23:55Z | [open](../records/haskell-sydtest-mutation-plugin-e9523493.md) |
+| sydtest-persistent-postgresql | 0.5.0.0 | 2026-09-13T21:04:26Z | [open](../records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
 | test-framework | 0.8.2.3 | 2026-01-05T13:44:05Z | [open](../records/haskell-test-framework-fa8f43e5.md) |
 | test-framework-quickcheck2 | 0.3.0.7 | 2026-01-05T13:43:55Z | [open](../records/haskell-test-framework-quickcheck2-52913538.md) |
 | test-sandbox | 0.1.9 | 2021-10-26T15:08:29Z | [open](../records/haskell-test-sandbox-6e07fc62.md) |
@@ -569,10 +570,10 @@ Records: `652`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -869,9 +870,9 @@ Records: `652`
 | 20170610test | 0.0.2 | 2017-06-05 02:17:27 UTC | [open](../records/cocoa-20170610test-13e1b0eb.md) |
 | 20180408Test | 1.0.0 | 2018-04-08 02:52:21 UTC | [open](../records/cocoa-20180408test-58f8ab6c.md) |
 | A11yUITests | 1.1.0 | 2023-02-26 10:11:34 UTC | [open](../records/cocoa-a11yuitests-718d6b04.md) |
-| ChenYilong/CYLTabBarController | unknown | not_a_cocoapods_name | [open](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) |
-| JohnSundell/TestDrive | unknown | not_a_cocoapods_name | [open](../records/cocoa-johnsundell-testdrive-98007bfc.md) |
-| mmattozzi/cocoa-rest-client | unknown | not_a_cocoapods_name | [open](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) |
+| ChenYilong/CYLTabBarController | partial | 2026-08-12T11:19:25Z | [open](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) |
+| JohnSundell/TestDrive | partial | 2020-11-23T23:46:45Z | [open](../records/cocoa-johnsundell-testdrive-98007bfc.md) |
+| mmattozzi/cocoa-rest-client | partial | 2024-10-14T00:29:42Z | [open](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) |
 | Quick/Quick | partial | 2026-05-18T15:19:28Z | [open](../records/cocoa-quick-quick-a1ffded2.md) |
 | Viperit | 1.5.0 | 2021-09-15T10:33:08Z | [open](../records/cocoa-viperit-20557691.md) |
 
