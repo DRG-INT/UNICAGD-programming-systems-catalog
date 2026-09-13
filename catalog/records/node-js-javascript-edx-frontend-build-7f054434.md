@@ -40,7 +40,7 @@ build graph control, artifact reproducibility, cross-platform build policy, and 
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL (>= 2) |
+| Evidence | GPL |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

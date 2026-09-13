@@ -40,7 +40,7 @@ artifact reproducibility, cross-platform build policy, and CI integration.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; zlib License; https://api.github.com/licenses/zlib |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -39,9 +39,9 @@ style policy, defect prevention, and local/CI quality gates.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ style policy, defect prevention, and local/CI quality gates.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-12 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-12", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-13 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-13", "status": "registry-derived"}` |
 
 </details>
 

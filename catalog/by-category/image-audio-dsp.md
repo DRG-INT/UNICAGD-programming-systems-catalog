@@ -322,7 +322,7 @@ Records: `449`
 | FFmpeg Audio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-ffmpeg-audio-ea69064f.md) |
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | fgnt/pb_bss | partial | 2025-05-19T09:09:42Z | [open](../records/audio-fgnt-pb-bss-f15b9a38.md) |
-| File-New-Project/EarTrumpet | partial | 2026-09-06T00:45:52Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
+| File-New-Project/EarTrumpet | partial | 2026-09-13T00:45:39Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
 | floe-audio/Floe | partial | 2026-09-10T14:40:18Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
@@ -352,7 +352,7 @@ Records: `449`
 | JUCE | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-juce-3f2891c9.md) |
 | JuliaDSP/DSP.jl | partial | 2026-08-25T10:58:30Z | [open](../records/audio-juliadsp-dsp-jl-4e524896.md) |
 | katspaugh/wavesurfer.js | partial | 2026-09-10T20:11:15Z | [open](../records/audio-katspaugh-wavesurfer-js-cff13805.md) |
-| koel/koel | partial | 2026-09-12T18:30:16Z | [open](../records/audio-koel-koel-f2457c0c.md) |
+| koel/koel | partial | 2026-09-13T05:16:20Z | [open](../records/audio-koel-koel-f2457c0c.md) |
 | libsndfile | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/audio-libsndfile-6065db3d.md) |
 | mackron/miniaudio | partial | 2026-08-19T22:07:12Z | [open](../records/audio-mackron-miniaudio-78110754.md) |
 | mahmoud/awesome-python-applications | partial | 2026-07-11T16:46:22Z | [open](../records/audio-mahmoud-awesome-python-applications-7548e8bd.md) |
@@ -364,7 +364,7 @@ Records: `449`
 | ModernFlyouts-Community/ModernFlyouts | partial | 2024-11-17T02:39:02Z | [open](../records/audio-modernflyouts-community-modernflyouts-61772da5.md) |
 | Moekotori/ECHO | partial | 2026-09-05T22:47:36Z | [open](../records/audio-moekotori-echo-a5eae6e0.md) |
 | morkt/GARbro | partial | 2024-07-08T19:36:58Z | [open](../records/audio-morkt-garbro-79127cac.md) |
-| mpv-player/mpv | partial | 2026-09-11T09:04:18Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
+| mpv-player/mpv | partial | 2026-09-13T04:04:19Z | [open](../records/audio-mpv-player-mpv-42e3d95c.md) |
 | mumble-voip/mumble | partial | 2026-09-11T23:19:49Z | [open](../records/audio-mumble-voip-mumble-d83c7a49.md) |
 | novoic/surfboard | partial | 2022-03-04T23:04:03Z | [open](../records/audio-novoic-surfboard-0947802a.md) |
 | npisanti/ofxPDSP | partial | 2024-08-09T02:07:03Z | [open](../records/audio-npisanti-ofxpdsp-71b17c19.md) |

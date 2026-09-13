@@ -190,7 +190,7 @@ Records: `147`
 | [evoiz/Agentic-Design-Patterns](../records/pattern-language-evoiz-agentic-design-patterns-01a7bf2b.md) | partial | 2026-07-24T14:23:04Z | registry-derived |
 | [fadeevab/design-patterns-rust](../records/pattern-language-fadeevab-design-patterns-rust-d33499f2.md) | partial | 2025-01-01T17:16:57Z | registry-derived |
 | [fbeline/design-patterns-JS](../records/pattern-language-fbeline-design-patterns-js-6a6af94b.md) | partial | 2023-02-10T16:43:18Z | registry-derived |
-| [felangel/bloc](../records/pattern-language-felangel-bloc-2de5d68d.md) | partial | 2026-09-11T00:15:32Z | registry-derived |
+| [felangel/bloc](../records/pattern-language-felangel-bloc-2de5d68d.md) | partial | 2026-09-13T04:59:05Z | registry-derived |
 | [FengJungle/DesignPattern](../records/pattern-language-fengjungle-designpattern-555629f0.md) | partial | 2024-04-17T07:27:17Z | registry-derived |
 | [Habrador/Unity-Programming-Patterns](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) | partial | 2026-04-28T12:37:06Z | registry-derived |
 | [iluwatar/java-design-patterns](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) | partial | 2026-08-31T22:43:02Z | registry-derived |

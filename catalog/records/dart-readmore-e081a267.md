@@ -41,7 +41,7 @@ integrity, authentication, and key-management risk.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ integrity, authentication, and key-management risk.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-12 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-12", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-13 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-13", "status": "registry-derived"}` |
 
 </details>
 
