@@ -1,13 +1,13 @@
 # Release Watch
 
-Generated: `2026-09-13T20:22:38+00:00`
+Generated: `2026-09-13T21:20:54+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1042)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
@@ -15,7 +15,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -28,8 +28,8 @@ Generated: `2026-09-13T20:22:38+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10935 |
-| Unknown stable release | 18274 |
+| Known stable release | 10940 |
+| Unknown stable release | 18271 |
 
 ## Newest Known Stable Metadata
 
@@ -290,7 +290,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10659 |
+| gh_search_reports_activity_not_release_version | 10392 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -302,13 +302,16 @@ Generated: `2026-09-13T20:22:38+00:00`
 | awesome_list_does_not_include_release_date | 237 |
 | github_latest_release_missing | 209 |
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
+| not_a_go_module_path | 167 |
+| not_a_cocoapods_name | 106 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 10 |
-| not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
+| hackage_top_downloads_page_does_not_include_release_date | 5 |
 | cocoapods_metadata_missing | 5 |
+| not_a_maven_coordinate | 2 |
 | source_returned_no_release | 2 |
+| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

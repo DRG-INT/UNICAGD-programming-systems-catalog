@@ -9,7 +9,7 @@ Records: `6147`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `6147`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6147)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6147)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -4347,12 +4347,12 @@ Records: `6147`
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yi-rope | 0.11 | 2018-06-06T20:58:47Z | [open](../records/haskell-yi-rope-84a7e8d9.md) |
-| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
+| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4558,7 +4558,7 @@ Records: `6147`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4582,7 +4582,7 @@ Records: `6147`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-13T20:12:06Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4596,7 +4596,7 @@ Records: `6147`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-13T12:09:59Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5000,7 +5000,7 @@ Records: `6147`
 | takushun-wu/WenJinMincho | partial | 2026-08-21T05:37:59Z | [open](../records/assets-takushun-wu-wenjinmincho-84d3befd.md) |
 | TakWolf/ark-pixel-font | partial | 2026-09-11T07:35:45Z | [open](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) |
 | TakWolf/fusion-pixel-font | partial | 2026-09-11T08:39:35Z | [open](../records/assets-takwolf-fusion-pixel-font-02635494.md) |
-| WallSoGB/Patapon3Textures | partial | 2024-03-02T17:49:40Z | [open](../records/assets-wallsogb-patapon3textures-30ad5cad.md) |
+| WallSoGB/Patapon3Textures | partial | 2026-09-11T19:45:45Z | [open](../records/assets-wallsogb-patapon3textures-30ad5cad.md) |
 | wanteddev/wanted-sans | partial | 2024-05-27T12:07:41Z | [open](../records/assets-wanteddev-wanted-sans-d20700fb.md) |
 | weiweihuanghuang/Work-Sans | partial | 2024-04-10T14:05:11Z | [open](../records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
 | xausky/UnityModManager | partial | 2020-01-13T10:11:36Z | [open](../records/assets-xausky-unitymodmanager-25e4a9f1.md) |
@@ -5019,11 +5019,11 @@ Records: `6147`
 | b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
 | benjamintd/benmaps.fr | partial | 2026-09-11T21:12:09Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
-| bilawalsidhu/gods-eye-view | partial | 2026-09-12T20:12:46Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
+| bilawalsidhu/gods-eye-view | partial | 2026-09-13T21:13:59Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |
-| CesiumGS/cesium | partial | 2026-09-12T13:23:02Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
+| CesiumGS/cesium | partial | 2026-09-13T12:59:04Z | [open](../records/maps-cesiumgs-cesium-03600c9a.md) |
 | codezero-be/laravel-localized-routes | partial | 2024-03-17T22:44:54Z | [open](../records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | danielemoraschi/maplace.js | partial | 2020-05-25T22:54:13Z | [open](../records/maps-danielemoraschi-maplace-js-5adb914c.md) |
 | der-stefan/OpenTopoMap | partial | 2026-01-29T22:24:26Z | [open](../records/maps-der-stefan-opentopomap-d1828225.md) |
@@ -5068,7 +5068,7 @@ Records: `6147`
 | mousebird-consulting-inc/WhirlyGlobe | partial | 2026-07-31T00:23:58Z | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-3130b66b.md) |
 | nuxt-modules/i18n | partial | 2026-09-11T11:01:08Z | [open](../records/maps-nuxt-modules-i18n-79eea90d.md) |
 | olutter/map | partial | 2026-08-16T14:48:12Z | [open](../records/maps-olutter-map-b3100e59.md) |
-| opengisch/QField | partial | 2026-09-12T07:09:21Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
+| opengisch/QField | partial | 2026-09-13T05:45:10Z | [open](../records/maps-opengisch-qfield-f04d9b83.md) |
 | openlayers/openlayers | partial | 2026-09-12T10:34:01Z | [open](../records/maps-openlayers-openlayers-6d483e33.md) |
 | openmaptiles/openmaptiles | partial | 2026-07-29T12:19:41Z | [open](../records/maps-openmaptiles-openmaptiles-8add1ab5.md) |
 | openstreetmap/merkaartor | partial | 2026-06-19T20:27:06Z | [open](../records/maps-openstreetmap-merkaartor-0547b0b6.md) |
@@ -5121,12 +5121,12 @@ Records: `6147`
 | jonnyhyman/PyBurn | partial | 2017-09-26T21:09:32Z | [open](../records/space-engines-jonnyhyman-pyburn-6c49c451.md) |
 | kyleniemeyer/gas-dynamics-notes | partial | 2026-07-29T22:00:09Z | [open](../records/space-engines-kyleniemeyer-gas-dynamics-notes-88f66440.md) |
 | kyleniemeyer/rocket-propulsion | partial | 2026-07-29T17:41:03Z | [open](../records/space-engines-kyleniemeyer-rocket-propulsion-880f0ccd.md) |
-| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-13T14:38:02Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
+| LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-13T17:33:26Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
 | RocketPy-Team/RocketPy | partial | 2026-09-12T04:42:39Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
-| wedesoft/sfsim | partial | 2026-09-11T23:04:31Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
+| wedesoft/sfsim | partial | 2026-09-13T21:09:43Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 
 ## Space Shuttles
 
@@ -5264,7 +5264,7 @@ Records: `6147`
 | fuddlesworth/PlasmaZones | partial | 2026-09-12T22:41:39Z | [open](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) |
 | GabrielSCabrera/nBody | partial | 2024-03-31T14:11:02Z | [open](../records/effects-gabrielscabrera-nbody-387acb4c.md) |
 | GarrettGunnell/Iterated-Function-Systems | partial | 2024-11-30T14:42:06Z | [open](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) |
-| ggarra13/mrv2 | partial | 2026-09-13T07:46:44Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
+| ggarra13/mrv2 | partial | 2026-09-13T20:23:34Z | [open](../records/effects-ggarra13-mrv2-5b1bc07b.md) |
 | glotzerlab/hoomd-blue | partial | 2026-09-11T13:43:06Z | [open](../records/effects-glotzerlab-hoomd-blue-5217e991.md) |
 | glotzerlab/hoomd-examples | partial | 2026-08-31T13:19:32Z | [open](../records/effects-glotzerlab-hoomd-examples-8b82445a.md) |
 | henriquelalves/SimpleGodotCRTShader | partial | 2024-09-02T21:57:23Z | [open](../records/effects-henriquelalves-simplegodotcrtshader-0feadcb8.md) |
@@ -6037,7 +6037,7 @@ Records: `6147`
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | lldap/lldap | partial | 2026-08-28T21:38:48Z | [open](../records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-13T10:55:04Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-13T21:10:04Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | nebulet/nebulet | partial | 2023-02-28T21:27:36Z | [open](../records/webassembly-nebulet-nebulet-31ed69e9.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | rust-windowing/winit | partial | 2026-09-12T08:26:23Z | [open](../records/webassembly-rust-windowing-winit-3721948f.md) |
@@ -6241,22 +6241,22 @@ Records: `6147`
 | Alamofire | 5.12.0 | 2026-07-27 19:22:32 UTC | [open](../records/cocoa-alamofire-71d81a2b.md) |
 | Appz | v2.0.0 | 2016-09-21T19:45:20Z | [open](../records/cocoa-appz-7ff129e8.md) |
 | ARKit-CoreLocation | 1.2.1 | 2019-08-23T15:10:47Z | [open](../records/cocoa-arkit-corelocation-9ac024d1.md) |
-| bojan/xcode-one-dark | partial | 2019-04-02T13:49:11Z | [open](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) |
+| bojan/xcode-one-dark | unknown | not_a_cocoapods_name | [open](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) |
 | CocoaLumberjack | 3.9.1 | 2026-04-16 06:33:41 UTC | [open](../records/cocoa-cocoalumberjack-ffcca241.md) |
-| D-32/SegmentedProgressBar | partial | 2019-07-02T15:49:03Z | [open](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) |
+| D-32/SegmentedProgressBar | unknown | not_a_cocoapods_name | [open](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) |
 | DeepLinkKit | 1.5.1 | 2019-09-09T15:35:06Z | [open](../records/cocoa-deeplinkkit-eeec6b1d.md) |
-| dogo/SCLAlertView | partial | 2026-07-27T13:07:06Z | [open](../records/cocoa-dogo-sclalertview-73109317.md) |
-| Ekhoo/Device | partial | 2026-04-22T04:58:59Z | [open](../records/cocoa-ekhoo-device-e4ad8111.md) |
+| dogo/SCLAlertView | unknown | not_a_cocoapods_name | [open](../records/cocoa-dogo-sclalertview-73109317.md) |
+| Ekhoo/Device | unknown | not_a_cocoapods_name | [open](../records/cocoa-ekhoo-device-e4ad8111.md) |
 | Firebase | 12.18.0 | 2026-08-19 17:01:34 UTC | [open](../records/cocoa-firebase-b4c158d4.md) |
 | FMDB | 2.7.12 | 2024-07-03 19:18:47 UTC | [open](../records/cocoa-fmdb-4823178b.md) |
 | Free App Store Optimization Tool | unknown | not_a_cocoapods_name | [open](../records/cocoa-free-app-store-optimization-tool-c92f5a1d.md) |
 | IGListKit | 5.2.0 | 2026-02-17 11:15:47 UTC | [open](../records/cocoa-iglistkit-b7065ccb.md) |
-| jogendra/LoadingShimmer | partial | 2022-10-22T13:31:11Z | [open](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) |
-| JohnEstropia/CoreStore | partial | 2026-07-29T04:56:44Z | [open](../records/cocoa-johnestropia-corestore-3f796dad.md) |
+| jogendra/LoadingShimmer | unknown | not_a_cocoapods_name | [open](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) |
+| JohnEstropia/CoreStore | unknown | not_a_cocoapods_name | [open](../records/cocoa-johnestropia-corestore-3f796dad.md) |
 | Kingfisher | 8.12.0 | 2026-08-25 15:23:12 UTC | [open](../records/cocoa-kingfisher-e162ef48.md) |
 | Masonry | 1.1.0 | 2017-09-20 06:43:57 UTC | [open](../records/cocoa-masonry-af358449.md) |
 | MBProgressHUD | 1.2.0 | 2020-01-13 21:47:56 UTC | [open](../records/cocoa-mbprogresshud-5484e66b.md) |
-| mikekazakov/nimble-commander | partial | 2026-08-10T23:14:57Z | [open](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) |
+| mikekazakov/nimble-commander | unknown | not_a_cocoapods_name | [open](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) |
 | Nimble | 14.0.0 | 2025-11-29 07:18:15 UTC | [open](../records/cocoa-nimble-997c1836.md) |
 | NSHipster/articles | partial | 2025-12-31T16:08:28Z | [open](../records/cocoa-nshipster-articles-eba6d53b.md) |
 | NSHipster/nshipster.com | partial | 2025-12-31T16:15:18Z | [open](../records/cocoa-nshipster-nshipster-com-646cd4e3.md) |

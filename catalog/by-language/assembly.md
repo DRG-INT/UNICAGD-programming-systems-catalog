@@ -9,7 +9,7 @@ Records: `308`
 ## Category Index
 
 [Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1042)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
@@ -17,7 +17,7 @@ Records: `308`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -289,12 +289,12 @@ Records: `308`
 | [nornagon/jonesforth](../records/assembly-nornagon-jonesforth-691f782b.md) | partial | 2023-04-04T16:56:38Z | registry-derived |
 | [obdev/v-usb](../records/assembly-obdev-v-usb-977cf25b.md) | partial | 2026-08-26T14:47:54Z | registry-derived |
 | [openhwgroup/core-v-verif](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) | partial | 2026-09-10T08:24:13Z | registry-derived |
-| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-12T23:08:54Z | registry-derived |
+| [openhwgroup/cva6](../records/assembly-openhwgroup-cva6-c0f79b44.md) | partial | 2026-09-13T21:08:42Z | registry-derived |
 | [oriansj/stage0](../records/assembly-oriansj-stage0-6791bc52.md) | partial | 2026-06-17T03:03:21Z | registry-derived |
 | [Overv/MineAssemble](../records/assembly-overv-mineassemble-4e2e626b.md) | partial | 2023-09-11T09:31:31Z | registry-derived |
 | [PDP-10/its](../records/assembly-pdp-10-its-cfa6e89a.md) | partial | 2026-08-19T16:37:56Z | registry-derived |
 | [pkivolowitz/asm_book](../records/assembly-pkivolowitz-asm-book-b080ef6b.md) | partial | 2026-04-20T01:09:10Z | registry-derived |
-| [PluMGMK/vbesvga.drv](../records/assembly-plumgmk-vbesvga-drv-17dbec94.md) | partial | 2026-07-26T10:10:59Z | registry-derived |
+| [PluMGMK/vbesvga.drv](../records/assembly-plumgmk-vbesvga-drv-17dbec94.md) | partial | 2026-09-13T20:55:06Z | registry-derived |
 | [PlummersSoftwareLLC/TinyRetroPad](../records/assembly-plummerssoftwarellc-tinyretropad-9938f18a.md) | partial | 2026-06-29T20:47:53Z | registry-derived |
 | [pooler/cpuminer](../records/assembly-pooler-cpuminer-f94e15ef.md) | partial | 2023-04-05T20:58:12Z | registry-derived |
 | [pret/pokecrystal](../records/assembly-pret-pokecrystal-513db7cc.md) | partial | 2026-08-28T22:06:49Z | registry-derived |
@@ -396,7 +396,7 @@ Records: `308`
 | --- | --- | --- | --- |
 | [Chris1sFlaggin/LCSAJdump](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) | partial | 2026-06-22T08:17:14Z | registry-derived |
 | [coderaiser/nemesis](../records/assembly-coderaiser-nemesis-87becb25.md) | partial | 2026-02-08T13:40:01Z | registry-derived |
-| [gbdev/rgbds](../records/assembly-gbdev-rgbds-2d9bc1c6.md) | partial | 2026-09-13T19:00:58Z | registry-derived |
+| [gbdev/rgbds](../records/assembly-gbdev-rgbds-2d9bc1c6.md) | partial | 2026-09-13T20:35:54Z | registry-derived |
 | [giacomo-folli/asmlings](../records/assembly-giacomo-folli-asmlings-14c668aa.md) | partial | 2026-07-22T12:52:18Z | registry-derived |
 | [jishanshaikh4/8086-cheatsheet](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) | partial | 2022-10-02T05:33:54Z | registry-derived |
 | [NtRaiseHardError/Reverse-Engineering-101](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) | partial | 2019-06-02T00:50:14Z | registry-derived |

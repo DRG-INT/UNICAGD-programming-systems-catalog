@@ -9,7 +9,7 @@ Records: `651`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `651`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -312,7 +312,7 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
 | piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
@@ -528,7 +528,7 @@ Records: `651`
 | arasgungore/rocket-flight-simulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) |
 | davidcalhoun/tle.js | partial | 2026-07-21T22:01:04Z | [open](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) |
 | ep2lab/dimagno | partial | 2024-10-21T08:59:37Z | [open](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) |
-| jrenaud90/TidalPy | partial | 2026-09-12T23:24:15Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
+| jrenaud90/TidalPy | partial | 2026-09-13T21:16:52Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
 
 ## Space Shuttles
 
@@ -565,7 +565,7 @@ Records: `651`
 | inbalpaz/CLANS | partial | 2024-12-05T14:27:09Z | [open](../records/space-maps-inbalpaz-clans-88d3b06d.md) |
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
-| jrenaud90/TidalPy | partial | 2026-09-12T23:24:15Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| jrenaud90/TidalPy | partial | 2026-09-13T21:16:52Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
 | KDE/filelight | partial | 2026-09-06T02:30:31Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
@@ -859,7 +859,7 @@ Records: `651`
 | SwiftKickMobile/SwiftMessages | partial | 2026-01-26T02:59:00Z | [open](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
 | SwiftWebUI/SwiftWebUI | partial | 2024-03-02T16:11:08Z | [open](../records/swift-swiftwebui-swiftwebui-2d397522.md) |
 | thaw-app/Thaw | partial | 2026-09-11T01:32:59Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
-| VakhoKontridze/VComponents | partial | 2026-08-31T10:24:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
+| VakhoKontridze/VComponents | partial | 2026-09-13T19:55:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 | WillieWangWei/SwiftUI-Tutorials | partial | 2020-02-10T03:43:35Z | [open](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
 | yannickl/DynamicColor | partial | 2023-11-30T13:02:01Z | [open](../records/swift-yannickl-dynamiccolor-11df482b.md) |
 
@@ -867,14 +867,14 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BeauNouvelle/FaceAware | partial | 2020-08-01T12:44:20Z | [open](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) |
-| BenEmdon/CenteredCollectionView | partial | 2021-01-20T08:28:57Z | [open](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) |
+| BeauNouvelle/FaceAware | unknown | not_a_cocoapods_name | [open](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) |
+| BenEmdon/CenteredCollectionView | unknown | not_a_cocoapods_name | [open](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) |
 | Charts | 4.1.0 | 2022-09-13 02:40:04 UTC | [open](../records/cocoa-charts-c4279276.md) |
 | Clean Architecture for SwiftUI + Combine | 3.0 | 2024-12-08T18:25:58Z | [open](../records/cocoa-clean-architecture-for-swiftui-combine-0c7b4e0d.md) |
-| exyte/ConcentricOnboarding | partial | 2026-07-08T08:22:38Z | [open](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) |
-| fdzsergio/SFFocusViewLayout | partial | 2018-09-29T16:30:27Z | [open](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) |
-| fermoya/SwiftUIPager | partial | 2024-02-16T07:20:16Z | [open](../records/cocoa-fermoya-swiftuipager-eda23130.md) |
-| gmarm/BetterSegmentedControl | partial | 2023-04-11T22:16:40Z | [open](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) |
+| exyte/ConcentricOnboarding | unknown | not_a_cocoapods_name | [open](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) |
+| fdzsergio/SFFocusViewLayout | unknown | not_a_cocoapods_name | [open](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) |
+| fermoya/SwiftUIPager | unknown | not_a_cocoapods_name | [open](../records/cocoa-fermoya-swiftuipager-eda23130.md) |
+| gmarm/BetterSegmentedControl | unknown | not_a_cocoapods_name | [open](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) |
 | Quick | 7.6.2 | 2024-07-23 16:09:04 UTC | [open](../records/cocoa-quick-06529433.md) |
 | roblillack/spot | partial | 2024-12-19T08:19:21Z | [open](../records/cocoa-roblillack-spot-d826ce53.md) |
 | Yalantis/GuillotineMenu | partial | 2020-04-13T12:49:18Z | [open](../records/cocoa-yalantis-guillotinemenu-03703741.md) |

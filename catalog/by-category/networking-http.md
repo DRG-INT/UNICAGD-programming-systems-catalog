@@ -9,7 +9,7 @@ Records: `1094`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `1094`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1094)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -792,12 +792,12 @@ Records: `1094`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-12T18:48:54Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-12T19:39:54Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
@@ -1293,13 +1293,13 @@ Records: `1094`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AFNetworking | 4.0.1 | 2020-04-20 02:25:51 UTC | [open](../records/cocoa-afnetworking-c33f66f5.md) |
-| Alamofire/Alamofire | partial | 2026-09-13T06:45:44Z | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
-| ChangbaDevs/KTVHTTPCache | partial | 2025-09-04T06:54:40Z | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
-| ChiliLabs/CHIPageControl | partial | 2023-05-22T02:43:41Z | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
-| dustturtle/RealReachability | partial | 2026-04-29T06:58:35Z | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
-| emqx/CocoaMQTT | partial | 2026-09-08T07:01:58Z | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
-| jkpang/PPNetworkHelper | partial | 2018-12-14T03:53:44Z | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
-| neilalexander/seaglass | partial | 2021-09-20T13:46:51Z | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
+| Alamofire/Alamofire | unknown | not_a_cocoapods_name | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
+| ChangbaDevs/KTVHTTPCache | unknown | not_a_cocoapods_name | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
+| ChiliLabs/CHIPageControl | unknown | not_a_cocoapods_name | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
+| dustturtle/RealReachability | unknown | not_a_cocoapods_name | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |
+| emqx/CocoaMQTT | unknown | not_a_cocoapods_name | [open](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) |
+| jkpang/PPNetworkHelper | unknown | not_a_cocoapods_name | [open](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) |
+| neilalexander/seaglass | unknown | not_a_cocoapods_name | [open](../records/cocoa-neilalexander-seaglass-fe29ac21.md) |
 | strongbox-password-safe/Strongbox | partial | 2026-07-17T14:03:41Z | [open](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) |
 | thecatalinstan/Criollo | partial | 2022-09-20T21:52:51Z | [open](../records/cocoa-thecatalinstan-criollo-2759b788.md) |
 
@@ -1317,7 +1317,7 @@ Records: `1094`
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-13T12:47:13Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-13T20:54:12Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-12T14:14:16Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
@@ -1345,7 +1345,7 @@ Records: `1094`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-11T18:16:05Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-13T14:31:53Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-13T18:44:24Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-12T05:01:58Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |

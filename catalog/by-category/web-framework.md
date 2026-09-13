@@ -9,7 +9,7 @@ Records: `496`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `496`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -402,7 +402,7 @@ Records: `496`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -568,7 +568,7 @@ Records: `496`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-12T14:56:53Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-13T21:13:42Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-08-24T17:58:45Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 

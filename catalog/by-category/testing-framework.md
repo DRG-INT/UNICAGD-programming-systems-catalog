@@ -9,7 +9,7 @@ Records: `652`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `652`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -569,10 +569,10 @@ Records: `652`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -869,9 +869,9 @@ Records: `652`
 | 20170610test | 0.0.2 | 2017-06-05 02:17:27 UTC | [open](../records/cocoa-20170610test-13e1b0eb.md) |
 | 20180408Test | 1.0.0 | 2018-04-08 02:52:21 UTC | [open](../records/cocoa-20180408test-58f8ab6c.md) |
 | A11yUITests | 1.1.0 | 2023-02-26 10:11:34 UTC | [open](../records/cocoa-a11yuitests-718d6b04.md) |
-| ChenYilong/CYLTabBarController | partial | 2026-08-12T11:19:25Z | [open](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) |
-| JohnSundell/TestDrive | partial | 2020-11-23T23:46:45Z | [open](../records/cocoa-johnsundell-testdrive-98007bfc.md) |
-| mmattozzi/cocoa-rest-client | partial | 2024-10-14T00:29:42Z | [open](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) |
+| ChenYilong/CYLTabBarController | unknown | not_a_cocoapods_name | [open](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) |
+| JohnSundell/TestDrive | unknown | not_a_cocoapods_name | [open](../records/cocoa-johnsundell-testdrive-98007bfc.md) |
+| mmattozzi/cocoa-rest-client | unknown | not_a_cocoapods_name | [open](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) |
 | Quick/Quick | partial | 2026-05-18T15:19:28Z | [open](../records/cocoa-quick-quick-a1ffded2.md) |
 | Viperit | 1.5.0 | 2021-09-15T10:33:08Z | [open](../records/cocoa-viperit-20557691.md) |
 

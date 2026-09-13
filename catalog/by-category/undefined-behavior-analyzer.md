@@ -9,7 +9,7 @@ Records: `1666`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `1666`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -417,8 +417,8 @@ Records: `1666`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-12T05:01:10Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
@@ -1148,9 +1148,9 @@ Records: `1666`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | partial | 2026-09-12T08:35:55Z | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1315,7 +1315,7 @@ Records: `1666`
 | rspatial/terra | partial | 2026-09-08T17:47:17Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
 | t-rex-tileserver/t-rex | partial | 2024-09-24T14:17:05Z | [open](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) |
-| uber/h3 | partial | 2026-09-10T17:56:29Z | [open](../records/maps-uber-h3-909abfb5.md) |
+| uber/h3 | partial | 2026-09-13T04:58:45Z | [open](../records/maps-uber-h3-909abfb5.md) |
 | uber/h3-js | partial | 2026-08-24T19:35:25Z | [open](../records/maps-uber-h3-js-8f70e2d6.md) |
 | uber/h3-py | partial | 2026-09-08T21:33:20Z | [open](../records/maps-uber-h3-py-113e2f65.md) |
 | xeokit/xeokit-bim-viewer | partial | 2026-02-04T13:20:28Z | [open](../records/maps-xeokit-xeokit-bim-viewer-7fecdcf4.md) |
@@ -1357,7 +1357,7 @@ Records: `1666`
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
 | MESAHub/mesa | partial | 2026-09-04T05:23:44Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
-| rhannequin/astronoby | partial | 2026-09-13T13:08:50Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
+| rhannequin/astronoby | partial | 2026-09-13T20:52:45Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
 | sametcn99/my-stars-atlas | partial | 2026-08-15T00:06:02Z | [open](../records/space-maps-sametcn99-my-stars-atlas-26dfd7e9.md) |
 | segevl/dynamic_scheduler | partial | 2026-08-24T10:46:19Z | [open](../records/space-maps-segevl-dynamic-scheduler-4c37b302.md) |
@@ -1367,7 +1367,7 @@ Records: `1666`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-13T14:37:42Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-13T15:58:22Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1648,10 +1648,10 @@ Records: `1666`
 | erikdarlingdata/DarlingData | partial | 2026-09-04T21:16:14Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
 | fossaryhq/catalog | partial | 2026-09-12T02:24:58Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-12T13:22:26Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-13T14:50:11Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-09-07T08:05:43Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-12T07:29:56Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
-| llnl/llnl.github.io | partial | 2026-09-12T15:23:36Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
+| llnl/llnl.github.io | partial | 2026-09-13T16:07:00Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
 | pumpzera/github-achievements-catalog | partial | 2026-04-05T21:51:58Z | [open](../records/catalogs-pumpzera-github-achievements-catalog-4fee72cc.md) |
@@ -1687,7 +1687,7 @@ Records: `1666`
 | NathanGeerinck/laravel-newsletter | partial | 2018-09-26T13:41:42Z | [open](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) |
 | ningoink/open-source-magazine | unknown | github_search_does_not_include_release_date | [open](../records/magazines-ningoink-open-source-magazine-9862f636.md) |
 | openjournals/joss | unknown | github_search_does_not_include_release_date | [open](../records/magazines-openjournals-joss-843100bc.md) |
-| openlibhums/janeway | partial | 2026-09-11T11:52:47Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
+| openlibhums/janeway | partial | 2026-09-13T09:12:17Z | [open](../records/magazines-openlibhums-janeway-b53e06a3.md) |
 | petterh/range-slider | partial | 2016-02-01T16:19:29Z | [open](../records/magazines-petterh-range-slider-f875d29f.md) |
 | rubin55/gdm-examples | partial | 2018-11-10T20:28:04Z | [open](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) |
 | rust-gamedev/rust-gamedev.github.io | partial | 2025-08-28T14:43:46Z | [open](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) |
@@ -1707,7 +1707,7 @@ Records: `1666`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-11T23:57:20Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-13T18:56:35Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
@@ -1824,11 +1824,11 @@ Records: `1666`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AladinWay/TransitionButton | partial | 2022-09-05T11:51:13Z | [open](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) |
-| devxoul/CocoaSeeds | partial | 2017-02-15T17:45:51Z | [open](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) |
-| efremidze/Magnetic | partial | 2025-07-09T23:33:43Z | [open](../records/cocoa-efremidze-magnetic-ac9421b5.md) |
-| KelvinJin/AnimatedCollectionViewLayout | partial | 2020-09-20T07:09:55Z | [open](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) |
-| macmade/GitHubUpdates | partial | 2026-07-17T07:37:29Z | [open](../records/cocoa-macmade-githubupdates-e05a7458.md) |
+| AladinWay/TransitionButton | unknown | not_a_cocoapods_name | [open](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) |
+| devxoul/CocoaSeeds | unknown | not_a_cocoapods_name | [open](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) |
+| efremidze/Magnetic | unknown | not_a_cocoapods_name | [open](../records/cocoa-efremidze-magnetic-ac9421b5.md) |
+| KelvinJin/AnimatedCollectionViewLayout | unknown | not_a_cocoapods_name | [open](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) |
+| macmade/GitHubUpdates | unknown | not_a_cocoapods_name | [open](../records/cocoa-macmade-githubupdates-e05a7458.md) |
 | subethaedit/SubEthaEdit | partial | 2025-11-09T15:30:33Z | [open](../records/cocoa-subethaedit-subethaedit-a17dc346.md) |
 | tbxark/TKRubberIndicator | partial | 2024-08-21T09:11:19Z | [open](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) |
 | XCDYouTubeKit | 2.15.2 | 2020-12-08T20:28:58Z | [open](../records/cocoa-xcdyoutubekit-06b9c2a1.md) |
@@ -1848,7 +1848,7 @@ Records: `1666`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-11T13:32:52Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-13T19:16:07Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
 | dolthub/dolt | partial | 2026-09-12T09:43:31Z | [open](../records/databases-dolthub-dolt-702548e2.md) |

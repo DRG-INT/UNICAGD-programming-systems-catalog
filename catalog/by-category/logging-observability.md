@@ -9,7 +9,7 @@ Records: `558`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `558`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (558)](logging-observability.md)** · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -363,7 +363,7 @@ Records: `558`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-11T17:47:49Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -439,7 +439,7 @@ Records: `558`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | raphaelhanneken/iconizer | partial | 2023-05-23T19:05:30Z | [open](../records/assets-raphaelhanneken-iconizer-867b9d26.md) |
-| TMHSDigital/Free-Game-Dev-Assets | partial | 2026-09-06T15:48:08Z | [open](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
+| TMHSDigital/Free-Game-Dev-Assets | partial | 2026-09-10T01:46:07Z | [open](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
 | unjs/fontaine | partial | 2026-09-11T19:00:23Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/assets-vorillaz-devicons-ab704e06.md) |
 
@@ -450,7 +450,7 @@ Records: `558`
 | CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
 | locationtech/jts | partial | 2026-09-05T16:48:40Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
 | meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
-| opengeos/geospatial-data-catalogs | partial | 2026-09-12T04:57:07Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
+| opengeos/geospatial-data-catalogs | partial | 2026-09-13T04:56:50Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
 | samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
 | teslamate-org/teslamate | partial | 2026-09-12T00:41:11Z | [open](../records/maps-teslamate-org-teslamate-4ad3999f.md) |
@@ -646,7 +646,7 @@ Records: `558`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-12T16:58:47Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-13T21:14:42Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |
@@ -685,7 +685,7 @@ Records: `558`
 | apache/polaris | partial | 2026-09-12T00:03:47Z | [open](../records/catalogs-apache-polaris-7eac00da.md) |
 | aws-samples/aws-dbs-refarch-datalake | partial | 2020-05-13T14:36:19Z | [open](../records/catalogs-aws-samples-aws-dbs-refarch-datalake-d639ef15.md) |
 | CodeCavePro/revitless-toolkit | partial | 2026-07-13T12:00:26Z | [open](../records/catalogs-codecavepro-revitless-toolkit-c3c016b5.md) |
-| CS-SI/eodag | partial | 2026-09-12T09:51:07Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
+| CS-SI/eodag | partial | 2026-09-13T10:52:39Z | [open](../records/catalogs-cs-si-eodag-85e7685e.md) |
 | danricho/where_the | partial | 2026-07-29T22:19:07Z | [open](../records/catalogs-danricho-where-the-79411964.md) |
 | Dansoftowner/Boomega | partial | 2022-06-17T18:31:23Z | [open](../records/catalogs-dansoftowner-boomega-ec1e6e4d.md) |
 | flyteorg/datacatalog | partial | 2023-10-09T18:35:36Z | [open](../records/catalogs-flyteorg-datacatalog-d5667377.md) |
@@ -705,7 +705,7 @@ Records: `558`
 | MetaModels/core | partial | 2026-09-10T20:04:31Z | [open](../records/catalogs-metamodels-core-73396b33.md) |
 | MiSTerOrganize/MiSTer_Organize | partial | 2026-09-10T20:57:53Z | [open](../records/catalogs-misterorganize-mister-organize-9c1a4788.md) |
 | MLT-OSS/FirstData | partial | 2026-08-17T09:27:51Z | [open](../records/catalogs-mlt-oss-firstdata-d8c26afb.md) |
-| Mozzo1000/booklogr | partial | 2026-09-12T13:19:03Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
+| Mozzo1000/booklogr | partial | 2026-09-12T19:48:10Z | [open](../records/catalogs-mozzo1000-booklogr-3c01bb2b.md) |
 | nasa/Open-Source-Catalog | partial | 2026-07-13T19:47:24Z | [open](../records/catalogs-nasa-open-source-catalog-894aa87e.md) |
 | Niki9001/purview-unified-sdk | partial | 2026-08-12T12:45:06Z | [open](../records/catalogs-niki9001-purview-unified-sdk-0a308ee8.md) |
 | opendatadiscovery/awesome-data-catalogs | partial | 2025-08-14T14:10:59Z | [open](../records/catalogs-opendatadiscovery-awesome-data-catalogs-123e6c4a.md) |
@@ -713,7 +713,7 @@ Records: `558`
 | Polydile/dile-components | partial | 2026-09-11T15:44:00Z | [open](../records/catalogs-polydile-dile-components-0f53e37e.md) |
 | raysan5/custom_game_engines | partial | 2025-10-28T20:25:23Z | [open](../records/catalogs-raysan5-custom-game-engines-538ff30d.md) |
 | redhat-cop/openshift-disconnected-operators | partial | 2025-02-05T23:15:39Z | [open](../records/catalogs-redhat-cop-openshift-disconnected-operators-40a78cf4.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-12T15:58:40Z | [open](../records/catalogs-samapriya-awesome-gee-community-datasets-2d5f99df.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-13T16:48:11Z | [open](../records/catalogs-samapriya-awesome-gee-community-datasets-2d5f99df.md) |
 | semi-column/tmdb-discover-plus | partial | 2026-09-10T12:19:16Z | [open](../records/catalogs-semi-column-tmdb-discover-plus-656aa943.md) |
 | SHERlocked93/progress-catalog | partial | 2023-04-29T01:38:28Z | [open](../records/catalogs-sherlocked93-progress-catalog-50952959.md) |
 | tfonteyn/NeverTooManyBooks | partial | 2026-09-11T15:12:20Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
@@ -760,7 +760,7 @@ Records: `558`
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-26d96d5e.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging-filters | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-filters-cf3a376b.md) |
 | logalitech/cap-skills | partial | 2026-08-15T09:07:37Z | [open](../records/sapjava-logalitech-cap-skills-4147e508.md) |
-| SAP/cf-java-logging-support | partial | 2026-09-11T01:18:03Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
+| SAP/cf-java-logging-support | unknown | not_a_maven_coordinate | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
 | SAP/cloud-metricswatcher | partial | 2026-05-27T14:12:12Z | [open](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) |
 | sapanablog/Medical-ERP-CAP | partial | 2026-07-12T14:42:34Z | [open](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) |
 | soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022 | partial | 2023-02-04T14:56:07Z | [open](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) |

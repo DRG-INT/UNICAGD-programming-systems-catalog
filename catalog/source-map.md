@@ -5,7 +5,7 @@
 ## Category Index
 
 [Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1042)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
@@ -13,7 +13,7 @@
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -6299,6 +6299,7 @@
 | `github_search_assets-0cee72847f778d` | Samukashvili/LUMEN-PS | [open](records/assets-samukashvili-lumen-ps-760ce575.md) |
 | `github_search_assets-0ece8c9ffab5f7` | julie-ng/azure-nodejs-demo | [open](records/assets-julie-ng-azure-nodejs-demo-f91d5026.md) |
 | `github_search_assets-0f3e1b87058a82` | ME3Tweaks/ALOTInstaller | [open](records/assets-me3tweaks-alotinstaller-075e5b1d.md) |
+| `github_search_assets-0f75c059e9fcc2` | matthew-kissinger/kiln | [open](records/assets-matthew-kissinger-kiln-10f37b94.md) |
 | `github_search_assets-0ff01d1b0992ce` | hqjs/hq | [open](records/assets-hqjs-hq-4376b515.md) |
 | `github_search_assets-10145d3c5e38b2` | markstory/asset_compress | [open](records/assets-markstory-asset-compress-f9bf354d.md) |
 | `github_search_assets-106a269df0f38d` | weiweihuanghuang/Work-Sans | [open](records/assets-weiweihuanghuang-work-sans-9e5609e3.md) |
@@ -6633,6 +6634,7 @@
 | `github_search_assets-e09f847df1e74f` | TMHSDigital/Free-Game-Dev-Assets | [open](records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
 | `github_search_assets-e1df67b660f962` | AlexeyPerov/Unity-Textures-Hunter | [open](records/assets-alexeyperov-unity-textures-hunter-3aee53ed.md) |
 | `github_search_assets-e1e139aeadad07` | ITS-NIGHTOWL/CSSource-Texture-Installer | [open](records/assets-its-nightowl-cssource-texture-installer-42397280.md) |
+| `github_search_assets-e25840482fa922` | rolanfreeman6-png/rpgm-decrypt | [open](records/assets-rolanfreeman6-png-rpgm-decrypt-bbe2a8e8.md) |
 | `github_search_assets-e3d8ded6b31e10` | QodotPlugin/qodot-plugin | [open](records/assets-qodotplugin-qodot-plugin-d6f80581.md) |
 | `github_search_assets-e3f96e60b5df6c` | Numbersf/MakeFontsGreatAgain | [open](records/assets-numbersf-makefontsgreatagain-5c928149.md) |
 | `github_search_assets-e438cfa7e38bb7` | adobe-fonts/source-sans | [open](records/assets-adobe-fonts-source-sans-0a0aa01d.md) |

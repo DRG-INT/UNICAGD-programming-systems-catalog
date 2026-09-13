@@ -9,7 +9,7 @@ Records: `349`
 ## Category Index
 
 [Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1042)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
@@ -17,7 +17,7 @@ Records: `349`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -45,20 +45,20 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Emerge Tools](../records/cocoa-emerge-tools-0eafd66f.md) | unknown | not_a_cocoapods_name | registry-derived |
-| [kaishin/Gifu](../records/cocoa-kaishin-gifu-ef4fb951.md) | partial | 2025-08-17T07:20:07Z | registry-derived |
+| [kaishin/Gifu](../records/cocoa-kaishin-gifu-ef4fb951.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Build System
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [algolia/instantsearch-ios](../records/cocoa-algolia-instantsearch-ios-1ffc950c.md) | partial | 2026-09-07T09:35:24Z | registry-derived |
-| [briskml/brisk](../records/cocoa-briskml-brisk-0a4a5d4e.md) | partial | 2019-11-03T14:15:35Z | registry-derived |
+| [algolia/instantsearch-ios](../records/cocoa-algolia-instantsearch-ios-1ffc950c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [briskml/brisk](../records/cocoa-briskml-brisk-0a4a5d4e.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Composable Navigator](../records/cocoa-composable-navigator-4c5e22f7.md) | unknown | not_a_cocoapods_name | registry-derived |
-| [DebugSwift/DebugSwift](../records/cocoa-debugswift-debugswift-306cbf91.md) | partial | 2026-09-02T06:06:37Z | registry-derived |
-| [frang75/nappgui_src](../records/cocoa-frang75-nappgui-src-9b6a7c6d.md) | partial | 2026-08-30T18:24:21Z | registry-derived |
-| [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
-| [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
-| [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
+| [DebugSwift/DebugSwift](../records/cocoa-debugswift-debugswift-306cbf91.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [frang75/nappgui_src](../records/cocoa-frang75-nappgui-src-9b6a7c6d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-12T12:50:47Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
@@ -69,7 +69,7 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AloneMonkey/MonkeyDev](../records/cocoa-alonemonkey-monkeydev-09828048.md) | partial | 2022-07-09T08:24:07Z | registry-derived |
+| [AloneMonkey/MonkeyDev](../records/cocoa-alonemonkey-monkeydev-09828048.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Community Reference
 
@@ -111,29 +111,29 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [CocoaDebug/CocoaDebug](../records/cocoa-cocoadebug-cocoadebug-e76b4df0.md) | partial | 2023-06-11T12:45:10Z | registry-derived |
-| [kasketis/netfox](../records/cocoa-kasketis-netfox-7a32f973.md) | partial | 2024-03-21T14:08:46Z | registry-derived |
+| [CocoaDebug/CocoaDebug](../records/cocoa-cocoadebug-cocoadebug-e76b4df0.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [kasketis/netfox](../records/cocoa-kasketis-netfox-7a32f973.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Dependency Manager
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Carthage/Carthage](../records/cocoa-carthage-carthage-6ae6cade.md) | partial | 2025-09-10T15:36:04Z | registry-derived |
-| [CocoaPods/CocoaPods](../records/cocoa-cocoapods-cocoapods-b02abfdf.md) | partial | 2026-07-06T21:36:05Z | registry-derived |
-| [googlesamples/unity-jar-resolver](../records/cocoa-googlesamples-unity-jar-resolver-c1f52085.md) | partial | 2026-09-02T20:16:38Z | registry-derived |
+| [Carthage/Carthage](../records/cocoa-carthage-carthage-6ae6cade.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CocoaPods/CocoaPods](../records/cocoa-cocoapods-cocoapods-b02abfdf.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [googlesamples/unity-jar-resolver](../records/cocoa-googlesamples-unity-jar-resolver-c1f52085.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Documentation
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [jverkoey/nimbus](../records/cocoa-jverkoey-nimbus-ecf9ed35.md) | partial | 2024-04-25T21:23:31Z | registry-derived |
+| [jverkoey/nimbus](../records/cocoa-jverkoey-nimbus-ecf9ed35.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Ffi Bindings
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-11T20:34:54Z | registry-derived |
-| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-12T13:09:21Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
 | [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-09T16:54:10Z | registry-derived |
 
@@ -141,38 +141,38 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [alaingalvan/CrossWindow](../records/cocoa-alaingalvan-crosswindow-b9767615.md) | partial | 2024-08-15T22:17:52Z | registry-derived |
-| [armadsen/ORSSerialPort](../records/cocoa-armadsen-orsserialport-ea69ce4d.md) | partial | 2023-11-03T14:19:49Z | registry-derived |
-| [bradjasper/RadialMenu](../records/cocoa-bradjasper-radialmenu-22394b23.md) | partial | 2022-08-15T19:50:21Z | registry-derived |
+| [alaingalvan/CrossWindow](../records/cocoa-alaingalvan-crosswindow-b9767615.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [armadsen/ORSSerialPort](../records/cocoa-armadsen-orsserialport-ea69ce4d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [bradjasper/RadialMenu](../records/cocoa-bradjasper-radialmenu-22394b23.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [CleanArchitectureRxSwift](../records/cocoa-cleanarchitecturerxswift-cd79b32d.md) | unknown | cocoapods_metadata_missing | registry-derived |
-| [codam-coding-college/MLX42](../records/cocoa-codam-coding-college-mlx42-9cfc2f7b.md) | partial | 2026-06-09T08:38:33Z | registry-derived |
-| [coding/Coding-iOS](../records/cocoa-coding-coding-ios-dbb20773.md) | partial | 2019-05-23T03:43:13Z | registry-derived |
-| [ColleagueRiley/RGFW](../records/cocoa-colleagueriley-rgfw-e967884f.md) | partial | 2026-09-05T14:29:36Z | registry-derived |
+| [codam-coding-college/MLX42](../records/cocoa-codam-coding-college-mlx42-9cfc2f7b.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [coding/Coding-iOS](../records/cocoa-coding-coding-ios-dbb20773.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ColleagueRiley/RGFW](../records/cocoa-colleagueriley-rgfw-e967884f.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Countly](../records/cocoa-countly-2297ca5c.md) | 26.1.0 | 2026-02-18 14:12:24 UTC | registry-derived |
-| [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | partial | 2026-08-24T16:54:29Z | registry-derived |
-| [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | partial | 2020-10-19T07:14:11Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-13T13:02:23Z | registry-derived |
-| [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | partial | 2023-03-13T12:23:46Z | registry-derived |
-| [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | partial | 2021-04-29T15:34:36Z | registry-derived |
-| [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | partial | 2026-08-21T18:15:48Z | registry-derived |
-| [freshOS/Stevia](../records/cocoa-freshos-stevia-f781058c.md) | partial | 2025-09-21T09:17:28Z | registry-derived |
-| [guoyingtao/Mantis](../records/cocoa-guoyingtao-mantis-145f6603.md) | partial | 2026-09-09T03:28:04Z | registry-derived |
+| [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [freshOS/Stevia](../records/cocoa-freshos-stevia-f781058c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [guoyingtao/Mantis](../records/cocoa-guoyingtao-mantis-145f6603.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Heimdallr.swift](../records/cocoa-heimdallr-swift-1def73fc.md) | 4.0.0 | 2024-01-04T09:06:03Z | registry-derived |
 | [iOS-Viper-Architecture](../records/cocoa-ios-viper-architecture-eb2ddbcf.md) | unknown | cocoapods_metadata_missing | registry-derived |
-| [ivanvorobei/awesome-ios](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) | partial | 2023-03-06T08:19:36Z | registry-derived |
-| [iziz/libPhoneNumber-iOS](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) | partial | 2026-09-12T16:27:06Z | registry-derived |
+| [ivanvorobei/awesome-ios](../records/cocoa-ivanvorobei-awesome-ios-b2601cf1.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [iziz/libPhoneNumber-iOS](../records/cocoa-iziz-libphonenumber-ios-cb5f359d.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [JLRoutes](../records/cocoa-jlroutes-7a9922bb.md) | 2.1.1 | 2021-08-10T19:10:38Z | registry-derived |
-| [joeldev/JLRoutes](../records/cocoa-joeldev-jlroutes-352fbc29.md) | partial | 2023-02-21T14:37:00Z | registry-derived |
-| [JonasGessner/JGProgressHUD](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) | partial | 2023-10-18T01:21:10Z | registry-derived |
-| [justvanrossum/fontgoggles](../records/cocoa-justvanrossum-fontgoggles-bc5e9e02.md) | partial | 2026-09-07T17:07:17Z | registry-derived |
-| [ko1o/PYSearch](../records/cocoa-ko1o-pysearch-486c5a10.md) | partial | 2020-09-30T01:35:57Z | registry-derived |
-| [KrauseFx/TSMessages](../records/cocoa-krausefx-tsmessages-76430fc4.md) | partial | 2023-06-01T11:22:32Z | registry-derived |
-| [krevis/MIDIApps](../records/cocoa-krevis-midiapps-99b0ceac.md) | partial | 2026-05-13T06:02:06Z | registry-derived |
+| [joeldev/JLRoutes](../records/cocoa-joeldev-jlroutes-352fbc29.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [JonasGessner/JGProgressHUD](../records/cocoa-jonasgessner-jgprogresshud-6640e1c5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [justvanrossum/fontgoggles](../records/cocoa-justvanrossum-fontgoggles-bc5e9e02.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ko1o/PYSearch](../records/cocoa-ko1o-pysearch-486c5a10.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [KrauseFx/TSMessages](../records/cocoa-krausefx-tsmessages-76430fc4.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [krevis/MIDIApps](../records/cocoa-krevis-midiapps-99b0ceac.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Linker](../records/cocoa-linker-4fdf9997.md) | 1.0.0 | 2018-02-16 13:10:21 UTC | registry-derived |
-| [LouisCAD/Splitties](../records/cocoa-louiscad-splitties-2b7fd459.md) | partial | 2024-05-29T22:10:21Z | registry-derived |
+| [LouisCAD/Splitties](../records/cocoa-louiscad-splitties-2b7fd459.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [lovoo/NSFWDetector](../records/cocoa-lovoo-nsfwdetector-c23e9e45.md) | partial | 2024-08-29T13:35:18Z | registry-derived |
-| [lukakerr/NSWindowStyles](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) | partial | 2021-05-30T23:29:35Z | registry-derived |
-| [marcosgriselli/SwipeableTabBarController](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) | partial | 2023-06-04T21:52:42Z | registry-derived |
+| [lukakerr/NSWindowStyles](../records/cocoa-lukakerr-nswindowstyles-1fe4dfe0.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [marcosgriselli/SwipeableTabBarController](../records/cocoa-marcosgriselli-swipeabletabbarcontroller-78b50143.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [MOCA Analytics](../records/cocoa-moca-analytics-2499b29b.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [OAuth2](../records/cocoa-oauth2-8f88febb.md) | 5.2.0 | 2020-02-09T07:00:50Z | registry-derived |
 | [OAuthSwift](../records/cocoa-oauthswift-fc66a7d4.md) | 2.2.0 | 2021-05-20T21:49:57Z | registry-derived |
@@ -212,7 +212,7 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [DaveWoodCom/XCGLogger](../records/cocoa-davewoodcom-xcglogger-2671614e.md) | partial | 2024-07-02T13:12:43Z | registry-derived |
+| [DaveWoodCom/XCGLogger](../records/cocoa-davewoodcom-xcglogger-2671614e.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Shake](../records/cocoa-shake-6aaa6776.md) | 17.2.5 | 2026-05-12 13:42:29 UTC | registry-derived |
 
 ### Ide Editor Integration
@@ -221,14 +221,14 @@ Records: `349`
 | --- | --- | --- | --- |
 | [Apple Review Guidelines](../records/cocoa-apple-review-guidelines-d06165e6.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ARVideoKit](../records/cocoa-arvideokit-9a0f973d.md) | 1.6.0 | 2020-03-18T17:57:09Z | registry-derived |
-| [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | partial | 2025-08-26T18:58:06Z | registry-derived |
-| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | partial | 2026-09-12T14:24:22Z | registry-derived |
-| [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | partial | 2025-02-02T12:29:36Z | registry-derived |
+| [AuroraEditor/AuroraEditor](../records/cocoa-auroraeditor-auroraeditor-43b28791.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [coteditor/CotEditor](../records/cocoa-coteditor-coteditor-061a819f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [edgar-zigis/CocoaTextField](../records/cocoa-edgar-zigis-cocoatextfield-8587dd05.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Embrace](../records/cocoa-embrace-ced14cf1.md) | unknown | cocoapods_metadata_missing | registry-derived |
-| [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | partial | 2021-07-13T07:49:54Z | registry-derived |
+| [fespinoza/LinkedIdeas](../records/cocoa-fespinoza-linkedideas-cf83dabc.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Instabug](../records/cocoa-instabug-8cb52c94.md) | 16.0.3 | 2025-09-07 19:47:21 UTC | registry-derived |
-| [jonkykong/SideMenu](../records/cocoa-jonkykong-sidemenu-c7e6f352.md) | partial | 2023-02-09T09:07:10Z | registry-derived |
-| [MacDownApp/macdown](../records/cocoa-macdownapp-macdown-7b8db2fc.md) | partial | 2023-07-10T22:19:38Z | registry-derived |
+| [jonkykong/SideMenu](../records/cocoa-jonkykong-sidemenu-c7e6f352.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [MacDownApp/macdown](../records/cocoa-macdownapp-macdown-7b8db2fc.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [qvacua/vimr](../records/cocoa-qvacua-vimr-71377ce6.md) | partial | 2026-08-28T15:36:51Z | registry-derived |
 | [ravynsoft/ravynos](../records/cocoa-ravynsoft-ravynos-5f25f2d3.md) | partial | 2026-09-06T21:02:41Z | registry-derived |
 | [revblaze/SimpleSidebar](../records/cocoa-revblaze-simplesidebar-9e33e769.md) | partial | 2025-02-20T14:22:55Z | registry-derived |
@@ -244,29 +244,29 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [michaelhenry/ImageViewer.swift](../records/cocoa-michaelhenry-imageviewer-swift-87f7ff2e.md) | partial | 2026-06-14T00:35:45Z | registry-derived |
+| [michaelhenry/ImageViewer.swift](../records/cocoa-michaelhenry-imageviewer-swift-87f7ff2e.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [SDWebImage](../records/cocoa-sdwebimage-8a178612.md) | 5.21.7 | 2026-02-26 07:41:49 UTC | registry-derived |
 
 ### Interop Bindings
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Arti3DPlayer/USBDeviceSwift](../records/cocoa-arti3dplayer-usbdeviceswift-5a1c0f00.md) | partial | 2023-12-19T14:09:42Z | registry-derived |
+| [Arti3DPlayer/USBDeviceSwift](../records/cocoa-arti3dplayer-usbdeviceswift-5a1c0f00.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Interpreter Runtime
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [devMEremenko/XcodeBenchmark](../records/cocoa-devmeremenko-xcodebenchmark-b69f9c37.md) | partial | 2026-03-28T21:57:19Z | registry-derived |
+| [devMEremenko/XcodeBenchmark](../records/cocoa-devmeremenko-xcodebenchmark-b69f9c37.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [ios-architecture](../records/cocoa-ios-architecture-838b8ba2.md) | unknown | cocoapods_metadata_missing | registry-derived |
-| [LiquidPlayer/LiquidCore](../records/cocoa-liquidplayer-liquidcore-823dfbce.md) | partial | 2023-01-05T04:53:17Z | registry-derived |
+| [LiquidPlayer/LiquidCore](../records/cocoa-liquidplayer-liquidcore-823dfbce.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Tuccuay/RuntimeSummary](../records/cocoa-tuccuay-runtimesummary-23b32fea.md) | partial | 2016-04-29T17:51:19Z | registry-derived |
 
 ### Language Specification
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AFNetworking/AFNetworking](../records/cocoa-afnetworking-afnetworking-b2e7cf91.md) | partial | 2023-01-17T19:30:05Z | registry-derived |
+| [AFNetworking/AFNetworking](../records/cocoa-afnetworking-afnetworking-b2e7cf91.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [alcatraz/Alcatraz](../records/cocoa-alcatraz-alcatraz-32db9c72.md) | partial | 2017-09-28T10:13:15Z | registry-derived |
 | [AloneMonkey/MonkeyDev](../records/cocoa-alonemonkey-monkeydev-a3ce0e4e.md) | partial | 2022-07-09T08:24:07Z | registry-derived |
 | [Aufree/trip-to-iOS](../records/cocoa-aufree-trip-to-ios-ceb0e182.md) | partial | 2022-05-17T07:07:01Z | registry-derived |
@@ -286,7 +286,7 @@ Records: `349`
 | [draveness/analyze](../records/cocoa-draveness-analyze-6668f62d.md) | partial | 2021-11-14T19:00:39Z | registry-derived |
 | [dzenbot/DZNEmptyDataSet](../records/cocoa-dzenbot-dznemptydataset-f1b09f50.md) | partial | 2022-07-06T08:08:53Z | registry-derived |
 | [eczarny/spectacle](../records/cocoa-eczarny-spectacle-0492e732.md) | partial | 2022-01-15T17:32:42Z | registry-derived |
-| [Esqarrouth/EZSwiftExtensions](../records/cocoa-esqarrouth-ezswiftextensions-cfddd979.md) | partial | 2024-04-05T13:43:05Z | registry-derived |
+| [Esqarrouth/EZSwiftExtensions](../records/cocoa-esqarrouth-ezswiftextensions-cfddd979.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [facebookarchive/KVOController](../records/cocoa-facebookarchive-kvocontroller-c52963ac.md) | partial | 2020-01-25T04:18:28Z | registry-derived |
 | [facebookarchive/Shimmer](../records/cocoa-facebookarchive-shimmer-0e7025c3.md) | partial | 2021-02-06T00:01:46Z | registry-derived |
 | [facebookarchive/three20](../records/cocoa-facebookarchive-three20-df1634c8.md) | partial | 2017-05-02T06:05:12Z | registry-derived |
@@ -330,7 +330,7 @@ Records: `349`
 | [marcuswestin/WebViewJavascriptBridge](../records/cocoa-marcuswestin-webviewjavascriptbridge-0c9e9663.md) | partial | 2024-08-01T09:17:17Z | registry-derived |
 | [MatthewYork/DateTools](../records/cocoa-matthewyork-datetools-101ba0cf.md) | partial | 2024-08-21T17:55:53Z | registry-derived |
 | [MortimerGoro/MGSwipeTableCell](../records/cocoa-mortimergoro-mgswipetablecell-b478436d.md) | partial | 2023-03-22T00:38:19Z | registry-derived |
-| [MustangYM/WeChatExtension-ForMac](../records/cocoa-mustangym-wechatextension-formac-fcd2c960.md) | partial | 2025-02-13T21:53:57Z | registry-derived |
+| [MustangYM/WeChatExtension-ForMac](../records/cocoa-mustangym-wechatextension-formac-fcd2c960.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | partial | 2024-06-27T12:38:19Z | registry-derived |
 | [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | partial | 2026-08-15T11:38:08Z | registry-derived |
 | [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | partial | 2024-06-27T05:43:24Z | registry-derived |
@@ -380,22 +380,22 @@ Records: `349`
 | [Alamofire](../records/cocoa-alamofire-71d81a2b.md) | 5.12.0 | 2026-07-27 19:22:32 UTC | registry-derived |
 | [Appz](../records/cocoa-appz-7ff129e8.md) | v2.0.0 | 2016-09-21T19:45:20Z | registry-derived |
 | [ARKit-CoreLocation](../records/cocoa-arkit-corelocation-9ac024d1.md) | 1.2.1 | 2019-08-23T15:10:47Z | registry-derived |
-| [bojan/xcode-one-dark](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) | partial | 2019-04-02T13:49:11Z | registry-derived |
+| [bojan/xcode-one-dark](../records/cocoa-bojan-xcode-one-dark-f58fdf57.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [CocoaLumberjack](../records/cocoa-cocoalumberjack-ffcca241.md) | 3.9.1 | 2026-04-16 06:33:41 UTC | registry-derived |
-| [D-32/SegmentedProgressBar](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) | partial | 2019-07-02T15:49:03Z | registry-derived |
+| [D-32/SegmentedProgressBar](../records/cocoa-d-32-segmentedprogressbar-02534ce8.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [DeepLinkKit](../records/cocoa-deeplinkkit-eeec6b1d.md) | 1.5.1 | 2019-09-09T15:35:06Z | registry-derived |
-| [dogo/SCLAlertView](../records/cocoa-dogo-sclalertview-73109317.md) | partial | 2026-07-27T13:07:06Z | registry-derived |
-| [Ekhoo/Device](../records/cocoa-ekhoo-device-e4ad8111.md) | partial | 2026-04-22T04:58:59Z | registry-derived |
+| [dogo/SCLAlertView](../records/cocoa-dogo-sclalertview-73109317.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Ekhoo/Device](../records/cocoa-ekhoo-device-e4ad8111.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Firebase](../records/cocoa-firebase-b4c158d4.md) | 12.18.0 | 2026-08-19 17:01:34 UTC | registry-derived |
 | [FMDB](../records/cocoa-fmdb-4823178b.md) | 2.7.12 | 2024-07-03 19:18:47 UTC | registry-derived |
 | [Free App Store Optimization Tool](../records/cocoa-free-app-store-optimization-tool-c92f5a1d.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [IGListKit](../records/cocoa-iglistkit-b7065ccb.md) | 5.2.0 | 2026-02-17 11:15:47 UTC | registry-derived |
-| [jogendra/LoadingShimmer](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) | partial | 2022-10-22T13:31:11Z | registry-derived |
-| [JohnEstropia/CoreStore](../records/cocoa-johnestropia-corestore-3f796dad.md) | partial | 2026-07-29T04:56:44Z | registry-derived |
+| [jogendra/LoadingShimmer](../records/cocoa-jogendra-loadingshimmer-48a2e51d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [JohnEstropia/CoreStore](../records/cocoa-johnestropia-corestore-3f796dad.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Kingfisher](../records/cocoa-kingfisher-e162ef48.md) | 8.12.0 | 2026-08-25 15:23:12 UTC | registry-derived |
 | [Masonry](../records/cocoa-masonry-af358449.md) | 1.1.0 | 2017-09-20 06:43:57 UTC | registry-derived |
 | [MBProgressHUD](../records/cocoa-mbprogresshud-5484e66b.md) | 1.2.0 | 2020-01-13 21:47:56 UTC | registry-derived |
-| [mikekazakov/nimble-commander](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) | partial | 2026-08-10T23:14:57Z | registry-derived |
+| [mikekazakov/nimble-commander](../records/cocoa-mikekazakov-nimble-commander-c6ee07c4.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Nimble](../records/cocoa-nimble-997c1836.md) | 14.0.0 | 2025-11-29 07:18:15 UTC | registry-derived |
 | [NSHipster/articles](../records/cocoa-nshipster-articles-eba6d53b.md) | partial | 2025-12-31T16:08:28Z | registry-derived |
 | [NSHipster/nshipster.com](../records/cocoa-nshipster-nshipster-com-646cd4e3.md) | partial | 2025-12-31T16:15:18Z | registry-derived |
@@ -423,15 +423,15 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ApplicationCoordinator](../records/cocoa-applicationcoordinator-8ea1dd1c.md) | unknown | cocoapods_metadata_missing | registry-derived |
-| [ArtSabintsev/Harpy](../records/cocoa-artsabintsev-harpy-80ab1b52.md) | partial | 2018-12-27T15:32:41Z | registry-derived |
-| [ArtSabintsev/Siren](../records/cocoa-artsabintsev-siren-d4396747.md) | partial | 2026-08-16T02:08:13Z | registry-derived |
+| [ArtSabintsev/Harpy](../records/cocoa-artsabintsev-harpy-80ab1b52.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ArtSabintsev/Siren](../records/cocoa-artsabintsev-siren-d4396747.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [BitcoinKit](../records/cocoa-bitcoinkit-7d649e39.md) | v1.1.0 | 2019-09-29T11:56:36Z | registry-derived |
-| [danielsaidi/Sheeeeeeeeet](../records/cocoa-danielsaidi-sheeeeeeeeet-e0c4e706.md) | partial | 2023-06-29T08:26:45Z | registry-derived |
-| [draveness/DKNightVersion](../records/cocoa-draveness-dknightversion-41f96d7c.md) | partial | 2019-09-03T10:59:06Z | registry-derived |
-| [eddiekaiger/SwiftyAttributes](../records/cocoa-eddiekaiger-swiftyattributes-63fee88f.md) | partial | 2024-01-02T00:06:00Z | registry-derived |
+| [danielsaidi/Sheeeeeeeeet](../records/cocoa-danielsaidi-sheeeeeeeeet-e0c4e706.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [draveness/DKNightVersion](../records/cocoa-draveness-dknightversion-41f96d7c.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [eddiekaiger/SwiftyAttributes](../records/cocoa-eddiekaiger-swiftyattributes-63fee88f.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [EthereumKit](../records/cocoa-ethereumkit-34e1ff70.md) | 2.0.1 | 2018-11-12T06:26:53Z | registry-derived |
-| [lovoo/NSFWDetector](../records/cocoa-lovoo-nsfwdetector-48ea3715.md) | partial | 2024-08-29T13:35:18Z | registry-derived |
-| [makomori/Sharaku](../records/cocoa-makomori-sharaku-ea65cec8.md) | partial | 2021-01-18T18:53:28Z | registry-derived |
+| [lovoo/NSFWDetector](../records/cocoa-lovoo-nsfwdetector-48ea3715.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [makomori/Sharaku](../records/cocoa-makomori-sharaku-ea65cec8.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Web3.swift](../records/cocoa-web3-swift-7d13ee01.md) | 0.8.8 | 2024-05-02T17:02:29Z | registry-derived |
 
 ### Memory Analyzer
@@ -445,13 +445,13 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AFNetworking](../records/cocoa-afnetworking-c33f66f5.md) | 4.0.1 | 2020-04-20 02:25:51 UTC | registry-derived |
-| [Alamofire/Alamofire](../records/cocoa-alamofire-alamofire-e2b01e1d.md) | partial | 2026-09-13T06:45:44Z | registry-derived |
-| [ChangbaDevs/KTVHTTPCache](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) | partial | 2025-09-04T06:54:40Z | registry-derived |
-| [ChiliLabs/CHIPageControl](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) | partial | 2023-05-22T02:43:41Z | registry-derived |
-| [dustturtle/RealReachability](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) | partial | 2026-04-29T06:58:35Z | registry-derived |
-| [emqx/CocoaMQTT](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) | partial | 2026-09-08T07:01:58Z | registry-derived |
-| [jkpang/PPNetworkHelper](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) | partial | 2018-12-14T03:53:44Z | registry-derived |
-| [neilalexander/seaglass](../records/cocoa-neilalexander-seaglass-fe29ac21.md) | partial | 2021-09-20T13:46:51Z | registry-derived |
+| [Alamofire/Alamofire](../records/cocoa-alamofire-alamofire-e2b01e1d.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ChangbaDevs/KTVHTTPCache](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [ChiliLabs/CHIPageControl](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [dustturtle/RealReachability](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [emqx/CocoaMQTT](../records/cocoa-emqx-cocoamqtt-ef5d936b.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [jkpang/PPNetworkHelper](../records/cocoa-jkpang-ppnetworkhelper-8c57f6f7.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [neilalexander/seaglass](../records/cocoa-neilalexander-seaglass-fe29ac21.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [strongbox-password-safe/Strongbox](../records/cocoa-strongbox-password-safe-strongbox-2b9fd84c.md) | partial | 2026-07-17T14:03:41Z | registry-derived |
 | [thecatalinstan/Criollo](../records/cocoa-thecatalinstan-criollo-2759b788.md) | partial | 2022-09-20T21:52:51Z | registry-derived |
 
@@ -459,9 +459,9 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [CaliCastle/PopMenu](../records/cocoa-calicastle-popmenu-4a75e526.md) | partial | 2024-03-12T06:52:56Z | registry-derived |
-| [CocoaLumberjack/CocoaLumberjack](../records/cocoa-cocoalumberjack-cocoalumberjack-5c5f99b5.md) | partial | 2026-08-12T06:31:06Z | registry-derived |
-| [Mijick/Popups](../records/cocoa-mijick-popups-14686208.md) | partial | 2025-10-22T18:52:37Z | registry-derived |
+| [CaliCastle/PopMenu](../records/cocoa-calicastle-popmenu-4a75e526.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [CocoaLumberjack/CocoaLumberjack](../records/cocoa-cocoalumberjack-cocoalumberjack-5c5f99b5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [Mijick/Popups](../records/cocoa-mijick-popups-14686208.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [pinterest/PINCache](../records/cocoa-pinterest-pincache-1dd6b3db.md) | partial | 2026-09-11T22:01:33Z | registry-derived |
 | [twitter/scrooge](../records/cocoa-twitter-scrooge-3eef7c88.md) | partial | 2025-04-02T01:10:55Z | registry-derived |
 
@@ -481,7 +481,7 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Brightify/Cuckoo](../records/cocoa-brightify-cuckoo-e63a8184.md) | partial | 2026-09-05T14:49:01Z | registry-derived |
+| [Brightify/Cuckoo](../records/cocoa-brightify-cuckoo-e63a8184.md) | unknown | not_a_cocoapods_name | registry-derived |
 
 ### Security Sast
 
@@ -493,10 +493,10 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [3breadt/dd-plist](../records/cocoa-3breadt-dd-plist-2a35e6c5.md) | partial | 2026-07-24T12:28:17Z | registry-derived |
-| [3lvis/SwiftSync](../records/cocoa-3lvis-swiftsync-b91bf583.md) | partial | 2026-06-27T09:58:57Z | registry-derived |
-| [hhfa008/SwiftAI](../records/cocoa-hhfa008-swiftai-dadec2ef.md) | partial | 2020-03-14T04:43:41Z | registry-derived |
-| [m8labs/WidgetKit](../records/cocoa-m8labs-widgetkit-52747f23.md) | partial | 2021-08-02T15:35:49Z | registry-derived |
+| [3breadt/dd-plist](../records/cocoa-3breadt-dd-plist-2a35e6c5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [3lvis/SwiftSync](../records/cocoa-3lvis-swiftsync-b91bf583.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [hhfa008/SwiftAI](../records/cocoa-hhfa008-swiftai-dadec2ef.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [m8labs/WidgetKit](../records/cocoa-m8labs-widgetkit-52747f23.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [SwiftyJSON/SwiftyJSON](../records/cocoa-swiftyjson-swiftyjson-10f72bb1.md) | partial | 2026-08-18T07:07:07Z | registry-derived |
 
 ### Static Analyzer
@@ -512,9 +512,9 @@ Records: `349`
 | [20170610test](../records/cocoa-20170610test-13e1b0eb.md) | 0.0.2 | 2017-06-05 02:17:27 UTC | registry-derived |
 | [20180408Test](../records/cocoa-20180408test-58f8ab6c.md) | 1.0.0 | 2018-04-08 02:52:21 UTC | registry-derived |
 | [A11yUITests](../records/cocoa-a11yuitests-718d6b04.md) | 1.1.0 | 2023-02-26 10:11:34 UTC | registry-derived |
-| [ChenYilong/CYLTabBarController](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) | partial | 2026-08-12T11:19:25Z | registry-derived |
-| [JohnSundell/TestDrive](../records/cocoa-johnsundell-testdrive-98007bfc.md) | partial | 2020-11-23T23:46:45Z | registry-derived |
-| [mmattozzi/cocoa-rest-client](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) | partial | 2024-10-14T00:29:42Z | registry-derived |
+| [ChenYilong/CYLTabBarController](../records/cocoa-chenyilong-cyltabbarcontroller-8ac2e993.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [JohnSundell/TestDrive](../records/cocoa-johnsundell-testdrive-98007bfc.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [mmattozzi/cocoa-rest-client](../records/cocoa-mmattozzi-cocoa-rest-client-0ebb1a70.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Quick/Quick](../records/cocoa-quick-quick-a1ffded2.md) | partial | 2026-05-18T15:19:28Z | registry-derived |
 | [Viperit](../records/cocoa-viperit-20557691.md) | 1.5.0 | 2021-09-15T10:33:08Z | registry-derived |
 
@@ -522,11 +522,11 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AladinWay/TransitionButton](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) | partial | 2022-09-05T11:51:13Z | registry-derived |
-| [devxoul/CocoaSeeds](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) | partial | 2017-02-15T17:45:51Z | registry-derived |
-| [efremidze/Magnetic](../records/cocoa-efremidze-magnetic-ac9421b5.md) | partial | 2025-07-09T23:33:43Z | registry-derived |
-| [KelvinJin/AnimatedCollectionViewLayout](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) | partial | 2020-09-20T07:09:55Z | registry-derived |
-| [macmade/GitHubUpdates](../records/cocoa-macmade-githubupdates-e05a7458.md) | partial | 2026-07-17T07:37:29Z | registry-derived |
+| [AladinWay/TransitionButton](../records/cocoa-aladinway-transitionbutton-2e72d6bd.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [devxoul/CocoaSeeds](../records/cocoa-devxoul-cocoaseeds-cdcf30f0.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [efremidze/Magnetic](../records/cocoa-efremidze-magnetic-ac9421b5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [KelvinJin/AnimatedCollectionViewLayout](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [macmade/GitHubUpdates](../records/cocoa-macmade-githubupdates-e05a7458.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [subethaedit/SubEthaEdit](../records/cocoa-subethaedit-subethaedit-a17dc346.md) | partial | 2025-11-09T15:30:33Z | registry-derived |
 | [tbxark/TKRubberIndicator](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) | partial | 2024-08-21T09:11:19Z | registry-derived |
 | [XCDYouTubeKit](../records/cocoa-xcdyoutubekit-06b9c2a1.md) | 2.15.2 | 2020-12-08T20:28:58Z | registry-derived |
@@ -535,14 +535,14 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [BeauNouvelle/FaceAware](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) | partial | 2020-08-01T12:44:20Z | registry-derived |
-| [BenEmdon/CenteredCollectionView](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) | partial | 2021-01-20T08:28:57Z | registry-derived |
+| [BeauNouvelle/FaceAware](../records/cocoa-beaunouvelle-faceaware-a6b691c0.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [BenEmdon/CenteredCollectionView](../records/cocoa-benemdon-centeredcollectionview-086c96b7.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Charts](../records/cocoa-charts-c4279276.md) | 4.1.0 | 2022-09-13 02:40:04 UTC | registry-derived |
 | [Clean Architecture for SwiftUI + Combine](../records/cocoa-clean-architecture-for-swiftui-combine-0c7b4e0d.md) | 3.0 | 2024-12-08T18:25:58Z | registry-derived |
-| [exyte/ConcentricOnboarding](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) | partial | 2026-07-08T08:22:38Z | registry-derived |
-| [fdzsergio/SFFocusViewLayout](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) | partial | 2018-09-29T16:30:27Z | registry-derived |
-| [fermoya/SwiftUIPager](../records/cocoa-fermoya-swiftuipager-eda23130.md) | partial | 2024-02-16T07:20:16Z | registry-derived |
-| [gmarm/BetterSegmentedControl](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) | partial | 2023-04-11T22:16:40Z | registry-derived |
+| [exyte/ConcentricOnboarding](../records/cocoa-exyte-concentriconboarding-c9203ac5.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [fdzsergio/SFFocusViewLayout](../records/cocoa-fdzsergio-sffocusviewlayout-b221b24a.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [fermoya/SwiftUIPager](../records/cocoa-fermoya-swiftuipager-eda23130.md) | unknown | not_a_cocoapods_name | registry-derived |
+| [gmarm/BetterSegmentedControl](../records/cocoa-gmarm-bettersegmentedcontrol-996fc5ef.md) | unknown | not_a_cocoapods_name | registry-derived |
 | [Quick](../records/cocoa-quick-06529433.md) | 7.6.2 | 2024-07-23 16:09:04 UTC | registry-derived |
 | [roblillack/spot](../records/cocoa-roblillack-spot-d826ce53.md) | partial | 2024-12-19T08:19:21Z | registry-derived |
 | [Yalantis/GuillotineMenu](../records/cocoa-yalantis-guillotinemenu-03703741.md) | partial | 2020-04-13T12:49:18Z | registry-derived |

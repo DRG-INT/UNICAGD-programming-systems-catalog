@@ -9,7 +9,7 @@ Records: `192`
 ## Category Index
 
 [Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1042)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
@@ -17,7 +17,7 @@ Records: `192`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6147)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -71,7 +71,7 @@ Records: `192`
 | [PGScatalog/pgs-harmonizer](../records/repertoare-catalogs-pgscatalog-pgs-harmonizer-78877edd.md) | partial | 2026-03-26T10:04:58Z | registry-derived |
 | [Resch17/repertoire](../records/repertoare-catalogs-resch17-repertoire-6a7569f8.md) | partial | 2022-08-14T17:48:20Z | registry-derived |
 | [SEI-York/ROCKME-open-source](../records/repertoare-catalogs-sei-york-rockme-open-source-eeeda39c.md) | partial | 2021-11-25T16:00:40Z | registry-derived |
-| [techninja/asili](../records/repertoare-catalogs-techninja-asili-1d96fa22.md) | partial | 2026-07-31T23:25:44Z | registry-derived |
+| [techninja/asili](../records/repertoare-catalogs-techninja-asili-1d96fa22.md) | partial | 2026-09-12T18:57:37Z | registry-derived |
 | [techninja/asili-lab](../records/repertoare-catalogs-techninja-asili-lab-cafbfad1.md) | partial | 2026-06-28T06:43:12Z | registry-derived |
 | [thanhtai9606/iiot-platform](../records/repertoare-catalogs-thanhtai9606-iiot-platform-8fe9e6d1.md) | partial | 2026-06-01T09:03:48Z | registry-derived |
 | [UmrenTV/repertoire](../records/repertoare-catalogs-umrentv-repertoire-c829cce8.md) | partial | 2023-04-10T01:27:29Z | registry-derived |
@@ -160,7 +160,7 @@ Records: `192`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-12T15:09:11Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-13T20:38:56Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [pesnik/flask-repertoire](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) | partial | 2025-03-13T21:08:48Z | registry-derived |
 | [pesnik/gin-repertoire](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) | partial | 2025-03-13T23:17:07Z | registry-derived |
@@ -223,7 +223,7 @@ Records: `192`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-12T16:58:47Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-13T21:14:42Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -343,7 +343,7 @@ Records: `192`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Agam3108/Catalogue-Scanning-App](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) | partial | 2024-03-23T09:53:13Z | registry-derived |
-| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-11T22:54:26Z | registry-derived |
+| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-12T22:00:49Z | registry-derived |
 | [HusseinBakri/PythonFinancialRepertoire](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) | partial | 2020-02-23T11:17:53Z | registry-derived |
 | [jayesh265/classifying_songs_based_on_audio_data](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) | partial | 2020-03-17T05:32:14Z | registry-derived |
 | [johnvteixido/etherlens](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) | partial | 2026-06-12T21:21:22Z | registry-derived |

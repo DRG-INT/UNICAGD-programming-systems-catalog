@@ -1,13 +1,13 @@
 # Catalog Index
 
-Generated: `2026-09-13T20:22:38+00:00`
+Generated: `2026-09-13T21:20:54+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
 ## Category Index
 
 [Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1042)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
@@ -15,7 +15,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1724)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6147)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (866)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -38,7 +38,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Node.js/TypeScript | 392 | 352 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 2126 | 2126 | [R](by-language/r.md) |
-| Haskell | 1744 | 1734 | [Haskell](by-language/haskell.md) |
+| Haskell | 1744 | 1739 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -58,7 +58,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Game Engines | 184 | 0 | [Game Engines](by-language/game-engines.md) |
 | Icons and Logos | 388 | 0 | [Icons and Logos](by-language/icons-and-logos.md) |
 | Font Briefcase | 272 | 0 | [Font Briefcase](by-language/font-briefcase.md) |
-| Assets | 419 | 0 | [Assets](by-language/assets.md) |
+| Assets | 421 | 0 | [Assets](by-language/assets.md) |
 | Maps | 620 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 160 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
@@ -97,7 +97,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Assertion Mocking | 46 | [assertion_mocking](by-category/assertion-mocking.md) |
 | Async Runtime | 139 | [async_runtime](by-category/async-runtime.md) |
 | Benchmarking | 210 | [benchmarking](by-category/benchmarking.md) |
-| Build System | 1041 | [build_system](by-category/build-system.md) |
+| Build System | 1042 | [build_system](by-category/build-system.md) |
 | Cli | 603 | [cli](by-category/cli.md) |
 | Codegen Codemod Refactoring | 23 | [codegen_codemod_refactoring](by-category/codegen-codemod-refactoring.md) |
 | Community Reference | 126 | [community_reference](by-category/community-reference.md) |
@@ -129,7 +129,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Interpreter Runtime | 290 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 67 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
-| Language Specification | 1472 | [language_specification](by-category/language-specification.md) |
+| Language Specification | 1473 | [language_specification](by-category/language-specification.md) |
 | Library | 6147 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 52 | [lint_rule_pack](by-category/lint-rule-pack.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Node.js/TypeScript | 352 | 40 |
 | Lua family | 0 | 1937 |
 | R | 2126 | 0 |
-| Haskell | 1734 | 10 |
+| Haskell | 1739 | 5 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
@@ -195,7 +195,7 @@ Generated: `2026-09-13T20:22:38+00:00`
 | Game Engines | 0 | 184 |
 | Icons and Logos | 0 | 388 |
 | Font Briefcase | 0 | 272 |
-| Assets | 0 | 419 |
+| Assets | 0 | 421 |
 | Maps | 0 | 620 |
 | Space Engines | 0 | 160 |
 | Space Shuttles | 0 | 80 |

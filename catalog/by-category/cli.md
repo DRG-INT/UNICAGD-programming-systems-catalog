@@ -9,7 +9,7 @@ Records: `603`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · **[Cli (603)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · **[Cli (603)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `603`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -542,9 +542,9 @@ Records: `603`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
-| JanDeDobbeleer/oh-my-posh | partial | 2026-09-13T15:59:32Z | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
-| yorukot/superfile | partial | 2026-09-11T00:21:18Z | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
+| golang-migrate/migrate | unknown | not_a_go_module_path | [open](../records/go-golang-migrate-migrate-c00bf5c0.md) |
+| JanDeDobbeleer/oh-my-posh | unknown | not_a_go_module_path | [open](../records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| yorukot/superfile | unknown | not_a_go_module_path | [open](../records/go-yorukot-superfile-1e2c0bb7.md) |
 
 ## "aim's"
 
@@ -553,7 +553,7 @@ Records: `603`
 | esengine/DeepSeek-Reasonix | partial | 2026-09-13T19:16:48Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-13T20:03:28Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-13T20:50:18Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -788,14 +788,14 @@ Records: `603`
 | mas-cli/mas | unknown | github_search_does_not_include_release_date | [open](../records/swift-mas-cli-mas-b7913336.md) |
 | mazzzystar/Queryable | partial | 2026-03-29T14:30:04Z | [open](../records/swift-mazzzystar-queryable-52c87dc0.md) |
 | p0deje/Maccy | unknown | github_search_does_not_include_release_date | [open](../records/swift-p0deje-maccy-a0af33c6.md) |
-| tw93/Mole | partial | 2026-09-13T13:03:55Z | [open](../records/swift-tw93-mole-8d180f51.md) |
+| tw93/Mole | partial | 2026-09-13T14:10:28Z | [open](../records/swift-tw93-mole-8d180f51.md) |
 | XcodesOrg/XcodesApp | partial | 2026-09-12T01:18:43Z | [open](../records/swift-xcodesorg-xcodesapp-30834dbe.md) |
 
 ## Cocoa
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AloneMonkey/MonkeyDev | partial | 2022-07-09T08:24:07Z | [open](../records/cocoa-alonemonkey-monkeydev-09828048.md) |
+| AloneMonkey/MonkeyDev | unknown | not_a_cocoapods_name | [open](../records/cocoa-alonemonkey-monkeydev-09828048.md) |
 
 ## Databases
 
@@ -803,7 +803,7 @@ Records: `603`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-13T15:20:22Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-13T21:20:37Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

@@ -9,7 +9,7 @@ Records: `681`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `681`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -436,14 +436,14 @@ Records: `681`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-13T19:27:54Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-13T19:44:04Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-13T21:05:56Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -491,7 +491,7 @@ Records: `681`
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-13T04:09:33Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-13T21:13:24Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -824,7 +824,7 @@ Records: `681`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Agam3108/Catalogue-Scanning-App | partial | 2024-03-23T09:53:13Z | [open](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) |
-| glitchwerks/claude-wayfinder | partial | 2026-09-11T22:54:26Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
+| glitchwerks/claude-wayfinder | partial | 2026-09-12T22:00:49Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
 | HusseinBakri/PythonFinancialRepertoire | partial | 2020-02-23T11:17:53Z | [open](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) |
 | jayesh265/classifying_songs_based_on_audio_data | partial | 2020-03-17T05:32:14Z | [open](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) |
 | johnvteixido/etherlens | partial | 2026-06-12T21:21:22Z | [open](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) |
@@ -847,7 +847,7 @@ Records: `681`
 | --- | --- | --- | --- |
 | emanemad-dev/ux-review-website | partial | 2026-01-05T11:07:47Z | [open](../records/magazines-emanemad-dev-ux-review-website-030b8c54.md) |
 | Lifailon/lazyjournal | unknown | github_search_does_not_include_release_date | [open](../records/magazines-lifailon-lazyjournal-28d8daea.md) |
-| massimoaria/bibliometrix | partial | 2026-09-10T20:48:18Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
+| massimoaria/bibliometrix | partial | 2026-09-13T20:00:22Z | [open](../records/magazines-massimoaria-bibliometrix-de0b9efa.md) |
 | TalEliyahu/awesome-security-newsletters | partial | 2026-07-26T07:35:03Z | [open](../records/magazines-taleliyahu-awesome-security-newsletters-16430f65.md) |
 
 ## Assembly

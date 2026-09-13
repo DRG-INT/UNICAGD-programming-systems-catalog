@@ -9,7 +9,7 @@ Records: `671`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1042)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
@@ -17,7 +17,7 @@ Records: `671`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · **[Formatter (671)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6147)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -536,7 +536,7 @@ Records: `671`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -548,7 +548,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T10:56:18Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-13T21:13:47Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -616,7 +616,7 @@ Records: `671`
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
 | elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
 | fcamarlinghi/expresso | partial | 2025-10-04T13:44:15Z | [open](../records/assets-fcamarlinghi-expresso-80b908f5.md) |
-| fernandotonon/QtMeshEditor | partial | 2026-09-10T03:38:35Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
+| fernandotonon/QtMeshEditor | partial | 2026-09-11T21:40:09Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
 | iZePlayzYT/SuperMarioEclipse-TexturePacks | partial | 2026-06-26T22:41:38Z | [open](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | jtomori/batch_textures_convert | partial | 2022-01-05T20:08:33Z | [open](../records/assets-jtomori-batch-textures-convert-0307606c.md) |
@@ -641,7 +641,7 @@ Records: `671`
 | davemlz/eemont | unknown | github_search_does_not_include_release_date | [open](../records/maps-davemlz-eemont-fb067ac2.md) |
 | MIERUNE/plateau-gis-converter | partial | 2026-09-07T05:43:47Z | [open](../records/maps-mierune-plateau-gis-converter-33d0b196.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
-| proj4js/proj4js | partial | 2026-09-11T01:32:46Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
+| proj4js/proj4js | partial | 2026-09-13T20:05:10Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
 | pyproj4/pyproj | partial | 2026-09-09T06:03:15Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 | simonpoole/mapsplit | partial | 2025-08-29T08:42:49Z | [open](../records/maps-simonpoole-mapsplit-9201cef5.md) |
@@ -906,7 +906,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| DaveWoodCom/XCGLogger | partial | 2024-07-02T13:12:43Z | [open](../records/cocoa-davewoodcom-xcglogger-2671614e.md) |
+| DaveWoodCom/XCGLogger | unknown | not_a_cocoapods_name | [open](../records/cocoa-davewoodcom-xcglogger-2671614e.md) |
 | Shake | 17.2.5 | 2026-05-12 13:42:29 UTC | [open](../records/cocoa-shake-6aaa6776.md) |
 
 ## Databases
