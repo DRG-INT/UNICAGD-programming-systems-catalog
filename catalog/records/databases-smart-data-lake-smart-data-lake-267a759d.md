@@ -32,7 +32,7 @@ of build graph control, artifact reproducibility, cross-platform build policy, a
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T15:54:14Z | gh search repos topic:data-lake stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T09:51:58Z | gh search repos topic:data-lake stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ of build graph control, artifact reproducibility, cross-platform build policy, a
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-3; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ of build graph control, artifact reproducibility, cross-platform build policy, a
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:data-lake stars:>50", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:data-lake stars:>50", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

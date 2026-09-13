@@ -1172,7 +1172,7 @@ Records: `1665`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-13T09:23:05Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-13T10:16:22Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1838,7 +1838,7 @@ Records: `1665`
 | --- | --- | --- | --- |
 | aerospike-community/aerospike-client-ruby | partial | 2026-06-22T21:15:26Z | [open](../records/databases-aerospike-community-aerospike-client-ruby-04491640.md) |
 | apache/incubator-pegasus | partial | 2026-06-16T08:03:52Z | [open](../records/databases-apache-incubator-pegasus-7ce631b5.md) |
-| apache/kyuubi | partial | 2026-09-11T01:56:32Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
+| apache/kyuubi | partial | 2026-09-12T16:07:25Z | [open](../records/databases-apache-kyuubi-29762e0a.md) |
 | bytebase/dbhub | partial | 2026-09-10T09:10:25Z | [open](../records/databases-bytebase-dbhub-ead21c0d.md) |
 | CaviraOSS/LongMemory | partial | 2026-08-31T16:18:42Z | [open](../records/databases-caviraoss-longmemory-7c32bdd6.md) |
 | christopherkarani/Wax | partial | 2026-09-09T11:17:55Z | [open](../records/databases-christopherkarani-wax-06442a2f.md) |
@@ -1846,7 +1846,7 @@ Records: `1665`
 | CodingDocs/awesome-java | partial | 2026-03-10T08:34:42Z | [open](../records/databases-codingdocs-awesome-java-f7da703d.md) |
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
-| cubefs/cubefs | partial | 2026-09-08T09:24:36Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
+| cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
 | debezium/debezium | partial | 2026-09-11T13:32:52Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |

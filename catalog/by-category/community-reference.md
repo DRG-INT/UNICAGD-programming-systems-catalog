@@ -320,4 +320,4 @@ Records: `126`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | aws-samples/aws-dbs-refarch-datalake | partial | 2020-05-13T14:36:19Z | [open](../records/databases-aws-samples-aws-dbs-refarch-datalake-330a8350.md) |
-| EMCECS/ECS-CommunityEdition | partial | 2026-09-08T06:25:39Z | [open](../records/databases-emcecs-ecs-communityedition-bb7df53f.md) |
+| EMCECS/ECS-CommunityEdition | partial | 2026-09-10T16:38:25Z | [open](../records/databases-emcecs-ecs-communityedition-bb7df53f.md) |

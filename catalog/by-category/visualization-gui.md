@@ -884,8 +884,8 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rootSunc/CNEquity | partial | 2026-09-05T21:32:54Z | [open](../records/databases-rootsunc-cnequity-120d106c.md) |
-| slatedb/slatedb | partial | 2026-09-08T16:00:31Z | [open](../records/databases-slatedb-slatedb-840e5749.md) |
+| rootSunc/CNEquity | partial | 2026-09-12T21:43:01Z | [open](../records/databases-rootsunc-cnequity-120d106c.md) |
+| slatedb/slatedb | partial | 2026-09-12T23:57:47Z | [open](../records/databases-slatedb-slatedb-840e5749.md) |
 | TuiQiao/CBoard | partial | 2025-12-06T02:29:12Z | [open](../records/databases-tuiqiao-cboard-4ade1901.md) |
 | zio/zio-protoquill | partial | 2026-09-11T02:05:27Z | [open](../records/databases-zio-zio-protoquill-4215be35.md) |
 

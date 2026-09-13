@@ -495,7 +495,7 @@ Records: `341`
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 | cookieY/Yearning | partial | 2026-08-24T11:46:31Z | [open](../records/databases-cookiey-yearning-30a7b49e.md) |
 | IoT-Technology/IoT-Technical-Guide | partial | 2023-09-05T12:28:00Z | [open](../records/databases-iot-technology-iot-technical-guide-4f9cb27e.md) |
-| lakekeeper/lakekeeper | partial | 2026-09-09T16:34:14Z | [open](../records/databases-lakekeeper-lakekeeper-0020b553.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-11T22:42:42Z | [open](../records/databases-lakekeeper-lakekeeper-0020b553.md) |
 | shashirajraja/onlinebookstore | partial | 2024-08-14T01:13:48Z | [open](../records/databases-shashirajraja-onlinebookstore-f5ef7b71.md) |
 | skerkour/cloudflare-for-speed-and-security | partial | 2024-03-05T18:10:02Z | [open](../records/databases-skerkour-cloudflare-for-speed-and-security-151124fc.md) |
 | soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL | partial | 2021-08-27T07:27:07Z | [open](../records/databases-soumyadip007-e-medical-system-web-project-using-spring-boot-security-jpa-rest-thymeleaf-hql-d7409ecf.md) |

@@ -516,7 +516,7 @@ Records: `864`
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-09-12T02:51:21Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
 | firecrawl/firecrawl | partial | 2026-09-13T06:27:14Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
-| HKUDS/Vibe-Trading | partial | 2026-09-11T17:28:22Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
+| HKUDS/Vibe-Trading | partial | 2026-09-13T10:08:13Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
 | janhq/jan | partial | 2026-09-11T06:02:04Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
@@ -529,7 +529,7 @@ Records: `864`
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
 | NousResearch/hermes-agent | partial | 2026-09-13T07:29:15Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-12T10:13:20Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| onyx-dot-app/onyx | partial | 2026-09-13T10:19:29Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-13T08:39:07Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -542,8 +542,8 @@ Records: `864`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T09:22:29Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
-| VectifyAI/PageIndex | partial | 2026-09-13T09:40:47Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
+| unslothai/unsloth | partial | 2026-09-13T10:21:34Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| VectifyAI/PageIndex | partial | 2026-09-13T10:05:42Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
 ## Computer Graphics Software
@@ -1091,7 +1091,7 @@ Records: `864`
 | heavyai/heavydb | partial | 2026-09-04T00:10:33Z | [open](../records/databases-heavyai-heavydb-c3f1c0b3.md) |
 | isaac-mcfadyen/d1-jdbc-driver | partial | 2024-05-26T19:05:42Z | [open](../records/databases-isaac-mcfadyen-d1-jdbc-driver-64e8443d.md) |
 | NoKV-Lab/NoKV | partial | 2026-09-08T03:06:24Z | [open](../records/databases-nokv-lab-nokv-978f4506.md) |
-| NVIDIA/aistore | partial | 2026-09-09T18:25:05Z | [open](../records/databases-nvidia-aistore-c8de1037.md) |
+| NVIDIA/aistore | partial | 2026-09-13T00:45:43Z | [open](../records/databases-nvidia-aistore-c8de1037.md) |
 | pglookout | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pglookout-b0a850ee.md) |
 | SkyTools | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-skytools-b55afad3.md) |
 

@@ -903,7 +903,7 @@ Records: `680`
 | DataBrewery/cubes | partial | 2022-04-29T06:53:17Z | [open](../records/databases-databrewery-cubes-5a028f66.md) |
 | donnemartin/dev-setup | partial | 2023-02-27T18:00:26Z | [open](../records/databases-donnemartin-dev-setup-b0548ea3.md) |
 | milvus-io/bootcamp | partial | 2026-09-08T09:14:04Z | [open](../records/databases-milvus-io-bootcamp-d2394190.md) |
-| NygenAnalytics/scarf | partial | 2026-09-02T16:03:53Z | [open](../records/databases-nygenanalytics-scarf-8496d3f8.md) |
+| NygenAnalytics/scarf | partial | 2026-09-11T19:55:44Z | [open](../records/databases-nygenanalytics-scarf-8496d3f8.md) |
 | rupurt/odbc-scanner-duckdb-extension | partial | 2023-09-04T22:49:50Z | [open](../records/databases-rupurt-odbc-scanner-duckdb-extension-71eefae9.md) |
 | shzlw/poli | partial | 2023-01-06T21:00:47Z | [open](../records/databases-shzlw-poli-beee279d.md) |
 

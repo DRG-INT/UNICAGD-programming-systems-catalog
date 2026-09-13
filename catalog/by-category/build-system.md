@@ -1271,7 +1271,7 @@ Records: `1041`
 | Bessouat40/RAGLight | partial | 2026-09-02T07:29:47Z | [open](../records/databases-bessouat40-raglight-8ffd38ed.md) |
 | cuebook/cuelake | partial | 2022-05-25T20:49:32Z | [open](../records/databases-cuebook-cuelake-b8200fda.md) |
 | diesel-rs/diesel | partial | 2026-09-09T07:28:36Z | [open](../records/databases-diesel-rs-diesel-a59a8892.md) |
-| dlt-hub/dlt | partial | 2026-09-09T17:29:00Z | [open](../records/databases-dlt-hub-dlt-3016ab39.md) |
+| dlt-hub/dlt | partial | 2026-09-11T12:34:20Z | [open](../records/databases-dlt-hub-dlt-3016ab39.md) |
 | dynamodb-toolbox/dynamodb-toolbox | partial | 2026-09-13T00:12:30Z | [open](../records/databases-dynamodb-toolbox-dynamodb-toolbox-ae559802.md) |
 | geldata/gel-js | partial | 2025-11-14T14:56:34Z | [open](../records/databases-geldata-gel-js-59c36290.md) |
 | genkit-ai/genkit | partial | 2026-09-09T10:30:39Z | [open](../records/databases-genkit-ai-genkit-d1a3caa1.md) |
@@ -1282,10 +1282,10 @@ Records: `1041`
 | knex/knex | partial | 2026-06-26T15:02:12Z | [open](../records/databases-knex-knex-a41a9917.md) |
 | kossakovsky/selfhost-ai | partial | 2026-09-02T20:48:40Z | [open](../records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
 | kysely-org/kysely | partial | 2026-09-12T23:55:25Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
-| lithops-cloud/lithops | partial | 2026-09-07T21:02:34Z | [open](../records/databases-lithops-cloud-lithops-39ca953e.md) |
+| lithops-cloud/lithops | partial | 2026-09-12T09:49:30Z | [open](../records/databases-lithops-cloud-lithops-39ca953e.md) |
 | makeplane/plane | partial | 2026-09-12T18:37:21Z | [open](../records/databases-makeplane-plane-b0283e4b.md) |
 | neuron-core/neuron-ai | partial | 2026-09-09T10:20:28Z | [open](../records/databases-neuron-core-neuron-ai-5499172a.md) |
-| nodestream-proj/nodestream | partial | 2026-09-09T17:45:09Z | [open](../records/databases-nodestream-proj-nodestream-aceab8fe.md) |
+| nodestream-proj/nodestream | partial | 2026-09-11T18:57:09Z | [open](../records/databases-nodestream-proj-nodestream-aceab8fe.md) |
 | Open-Source-Legal/OpenContracts | partial | 2026-09-09T04:48:08Z | [open](../records/databases-open-source-legal-opencontracts-4d09da5d.md) |
 | PAF | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-paf-21357df7.md) |
 | plastic-labs/honcho | partial | 2026-09-02T03:03:48Z | [open](../records/databases-plastic-labs-honcho-ddaa1a7f.md) |
@@ -1295,7 +1295,7 @@ Records: `1041`
 | sinaptik-ai/pandas-ai | partial | 2025-10-28T10:02:13Z | [open](../records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
-| smart-data-lake/smart-data-lake | partial | 2026-09-09T15:54:14Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
+| smart-data-lake/smart-data-lake | partial | 2026-09-11T09:51:58Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
 | supabase/supabase | partial | 2026-09-13T00:40:36Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-09-13T05:00:14Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |

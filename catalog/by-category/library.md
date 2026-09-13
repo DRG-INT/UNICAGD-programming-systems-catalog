@@ -6278,7 +6278,7 @@ Records: `6136`
 | apache/drill | partial | 2026-09-08T17:47:19Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
 | apache/flink-connector-jdbc | partial | 2026-08-13T19:12:44Z | [open](../records/databases-apache-flink-connector-jdbc-5ab1a981.md) |
 | apache/spark-website | partial | 2026-08-31T12:27:10Z | [open](../records/databases-apache-spark-website-4546f531.md) |
-| awslabs/amazon-s3-find-and-forget | partial | 2026-09-03T01:19:16Z | [open](../records/databases-awslabs-amazon-s3-find-and-forget-6b9f17d6.md) |
+| awslabs/amazon-s3-find-and-forget | partial | 2026-09-10T03:07:17Z | [open](../records/databases-awslabs-amazon-s3-find-and-forget-6b9f17d6.md) |
 | ByConity/ByConity | partial | 2026-06-14T02:35:45Z | [open](../records/databases-byconity-byconity-c80e34b8.md) |
 | clojure.jdbc | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-clojure-jdbc-3ab0e552.md) |
 | collabH/bigdata-growth | partial | 2026-04-18T13:12:36Z | [open](../records/databases-collabh-bigdata-growth-88dbeb0f.md) |
@@ -6308,7 +6308,7 @@ Records: `6136`
 | pg\_back | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pg-back-2caa380c.md) |
 | pghoard | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pghoard-00e7248d.md) |
 | PsiACE/databend-internals | partial | 2024-01-26T03:04:19Z | [open](../records/databases-psiace-databend-internals-83bbddb4.md) |
-| scality/Zenko | partial | 2026-09-09T15:30:32Z | [open](../records/databases-scality-zenko-248037a0.md) |
+| scality/Zenko | partial | 2026-09-13T07:15:05Z | [open](../records/databases-scality-zenko-248037a0.md) |
 | scratchdata/scratchdata | partial | 2024-07-19T17:29:04Z | [open](../records/databases-scratchdata-scratchdata-7f09b0b9.md) |
 | snowflakedb/snowflake-jdbc | partial | 2026-09-10T12:15:36Z | [open](../records/databases-snowflakedb-snowflake-jdbc-81de35a1.md) |
 | spring-projects/spring-data-relational | partial | 2026-09-10T13:56:35Z | [open](../records/databases-spring-projects-spring-data-relational-4dc71488.md) |

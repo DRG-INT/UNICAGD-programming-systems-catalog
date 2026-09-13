@@ -414,7 +414,7 @@ Records: `210`
 | epsilla-cloud/vectordb | partial | 2025-11-29T16:02:22Z | [open](../records/databases-epsilla-cloud-vectordb-e5e95855.md) |
 | finos/TimeBase-CE | partial | 2026-09-08T07:28:20Z | [open](../records/databases-finos-timebase-ce-0fc518bd.md) |
 | flike/kingshard | partial | 2026-06-05T21:08:57Z | [open](../records/databases-flike-kingshard-ba5b30d6.md) |
-| fractalbits-labs/fractalbits | partial | 2026-08-21T14:08:00Z | [open](../records/databases-fractalbits-labs-fractalbits-44c1d55a.md) |
+| fractalbits-labs/fractalbits | partial | 2026-09-12T00:18:39Z | [open](../records/databases-fractalbits-labs-fractalbits-44c1d55a.md) |
 | gizmodata/gizmosql | partial | 2026-09-11T19:02:59Z | [open](../records/databases-gizmodata-gizmosql-5fb47832.md) |
 | jiangwenyuan/nuster | partial | 2021-12-07T14:46:06Z | [open](../records/databases-jiangwenyuan-nuster-17a1b344.md) |
 | milvus-io/milvus | partial | 2026-09-09T10:57:12Z | [open](../records/databases-milvus-io-milvus-8ad33119.md) |
@@ -423,7 +423,7 @@ Records: `210`
 | qdrant/qdrant | partial | 2026-09-09T11:13:27Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
 | questdb/questdb | partial | 2026-09-13T00:19:58Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
-| rustfs/rustfs | partial | 2026-09-09T17:25:19Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
+| rustfs/rustfs | partial | 2026-09-13T10:11:40Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-12T13:55:45Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |
 | Tencent/Tendis | partial | 2026-09-09T04:42:13Z | [open](../records/databases-tencent-tendis-df49c9ba.md) |
 | timescale/timescaledb | partial | 2026-09-12T00:40:56Z | [open](../records/databases-timescale-timescaledb-a9f2409b.md) |

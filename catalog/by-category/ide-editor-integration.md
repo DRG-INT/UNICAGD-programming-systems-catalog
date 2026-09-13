@@ -694,9 +694,9 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T09:42:36Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T09:53:39Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T08:36:43Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-13T10:10:39Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-13T09:31:21Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-13T08:07:25Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
@@ -1725,7 +1725,7 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 1bench | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-1bench-647a1c79.md) |
-| aminueza/terraform-provider-minio | partial | 2026-09-08T11:25:54Z | [open](../records/databases-aminueza-terraform-provider-minio-a2f5a8be.md) |
+| aminueza/terraform-provider-minio | partial | 2026-09-11T21:08:40Z | [open](../records/databases-aminueza-terraform-provider-minio-a2f5a8be.md) |
 | baztian/jaydebeapi | partial | 2024-07-03T11:26:59Z | [open](../records/databases-baztian-jaydebeapi-dc2ab2ed.md) |
 | bytedance/bitsail | partial | 2024-01-01T15:59:00Z | [open](../records/databases-bytedance-bitsail-ee54726e.md) |
 | chartdb/chartdb | partial | 2026-09-07T01:04:22Z | [open](../records/databases-chartdb-chartdb-227bd0d2.md) |

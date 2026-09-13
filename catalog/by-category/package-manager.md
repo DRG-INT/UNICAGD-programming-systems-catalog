@@ -648,7 +648,7 @@ Records: `450`
 | --- | --- | --- | --- |
 | airbytehq/airbyte | partial | 2026-09-13T01:49:07Z | [open](../records/databases-airbytehq-airbyte-c3bd56b6.md) |
 | CodisLabs/codis | partial | 2024-04-15T03:46:45Z | [open](../records/databases-codislabs-codis-2fbfa490.md) |
-| datajoint/datajoint-python | partial | 2026-08-19T23:49:10Z | [open](../records/databases-datajoint-datajoint-python-fe901d32.md) |
+| datajoint/datajoint-python | partial | 2026-09-09T22:42:42Z | [open](../records/databases-datajoint-datajoint-python-fe901d32.md) |
 | datamindedbe/lighthouse | partial | 2024-09-06T14:49:32Z | [open](../records/databases-datamindedbe-lighthouse-189318ac.md) |
 | doobidoo/mcp-memory-service | partial | 2026-09-09T05:58:40Z | [open](../records/databases-doobidoo-mcp-memory-service-1f3af65d.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/databases-memvid-memvid-85e03b2f.md) |

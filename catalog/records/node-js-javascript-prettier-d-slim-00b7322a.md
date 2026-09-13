@@ -41,9 +41,9 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | MIT; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl; {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT + file LICENSE |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

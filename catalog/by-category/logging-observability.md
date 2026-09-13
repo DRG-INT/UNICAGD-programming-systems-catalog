@@ -778,7 +778,7 @@ Records: `558`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Barre/ZeroFS | partial | 2026-09-09T16:22:50Z | [open](../records/databases-barre-zerofs-c52f3abe.md) |
+| Barre/ZeroFS | partial | 2026-09-13T06:14:45Z | [open](../records/databases-barre-zerofs-c52f3abe.md) |
 | Teradata/kylo | partial | 2023-01-12T08:25:19Z | [open](../records/databases-teradata-kylo-b03a4cc2.md) |
 | theangryangel/logstash-output-jdbc | partial | 2019-06-19T08:36:05Z | [open](../records/databases-theangryangel-logstash-output-jdbc-96042fd0.md) |
 

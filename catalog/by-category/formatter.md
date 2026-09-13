@@ -547,7 +547,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T09:44:23Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-13T10:19:07Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T05:41:05Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -912,7 +912,7 @@ Records: `670`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/amoro | partial | 2026-09-08T09:14:23Z | [open](../records/databases-apache-amoro-d2a3a509.md) |
+| apache/amoro | partial | 2026-09-11T09:21:51Z | [open](../records/databases-apache-amoro-d2a3a509.md) |
 | cube2222/octosql | partial | 2024-05-26T15:16:53Z | [open](../records/databases-cube2222-octosql-cab58556.md) |
 | mabel-dev/opteryx | partial | 2026-09-07T09:29:10Z | [open](../records/databases-mabel-dev-opteryx-2e638eaa.md) |
 | shunfei/indexr | partial | 2022-11-16T05:23:54Z | [open](../records/databases-shunfei-indexr-0f058165.md) |

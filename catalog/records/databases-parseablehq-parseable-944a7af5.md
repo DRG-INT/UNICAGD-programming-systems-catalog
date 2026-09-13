@@ -34,7 +34,7 @@ discovery, allocation analysis, latency control, and capacity planning.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T09:02:26Z | gh search repos topic:object-storage stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T14:07:48Z | gh search repos topic:object-storage stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -42,7 +42,7 @@ discovery, allocation analysis, latency control, and capacity planning.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | {"key": "", "name": "", "url": ""}; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -59,7 +59,7 @@ discovery, allocation analysis, latency control, and capacity planning.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-09 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:object-storage stars:>100", "retrieved": "2026-09-09", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:object-storage stars:>100", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

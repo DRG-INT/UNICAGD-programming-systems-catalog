@@ -1309,7 +1309,7 @@ Records: `1094`
 | --- | --- | --- | --- |
 | aerospike/aerospike-client-nodejs | partial | 2026-09-11T21:40:15Z | [open](../records/databases-aerospike-aerospike-client-nodejs-346f6618.md) |
 | aerospike/aerospike-client-rust | partial | 2026-09-13T01:36:29Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
-| awslabs/mountpoint-s3 | partial | 2026-09-08T16:56:13Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
+| awslabs/mountpoint-s3 | partial | 2026-09-11T13:03:32Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
 | beekeeper-studio/beekeeper-studio | partial | 2026-09-12T21:41:09Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
@@ -1320,7 +1320,7 @@ Records: `1094`
 | dbeaver/dbeaver | partial | 2026-09-13T09:40:30Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
-| deuxfleurs-org/garage | partial | 2026-09-08T08:45:07Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
+| deuxfleurs-org/garage | partial | 2026-09-12T14:14:16Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | geldata/gel-elixir | partial | 2026-02-20T22:42:45Z | [open](../records/databases-geldata-gel-elixir-a46bd8bb.md) |
 | go-xorm/xorm | partial | 2020-04-03T01:12:12Z | [open](../records/databases-go-xorm-xorm-28a3d567.md) |
 | HeidiSQL/HeidiSQL | partial | 2026-09-10T16:18:48Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
