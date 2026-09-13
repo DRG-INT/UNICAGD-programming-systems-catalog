@@ -8,12 +8,12 @@
 [Benchmarking (210)](by-category/benchmarking.md) · [Build System (1041)](by-category/build-system.md) · [Cli (602)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (981)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
+[Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (449)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6133)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6134)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1243)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -1353,6 +1353,7 @@
 | `cran_packages_by_date-41523592deba46` | survalis | [open](records/r-survalis-1a651db3.md) |
 | `cran_packages_by_date-417f046279fe25` | mditools | [open](records/r-mditools-d2710433.md) |
 | `cran_packages_by_date-41809062c1876a` | liver | [open](records/r-liver-05b7675b.md) |
+| `cran_packages_by_date-419c4fd0f5e467` | libopenexr | [open](records/r-libopenexr-415f6d9f.md) |
 | `cran_packages_by_date-41b171bac1673c` | multcomp | [open](records/r-multcomp-ff29e00f.md) |
 | `cran_packages_by_date-41d7bfdd04822d` | TH | [open](records/r-th-6c0bb6f6.md) |
 | `cran_packages_by_date-41e16b08c5b62c` | acR | [open](records/r-acr-06483fc8.md) |
@@ -18322,6 +18323,7 @@
 | `hackage_recent-f796cad6d7eed3` | shikumi-compile | [open](records/haskell-shikumi-compile-3acac682.md) |
 | `hackage_recent-f7f704a3f1d51b` | srtree | [open](records/haskell-srtree-02456200.md) |
 | `hackage_recent-f8bae12dc2caa9` | holeyexp | [open](records/haskell-holeyexp-db5dc519.md) |
+| `hackage_recent-f8f883e10428f5` | hmp3-ng | [open](records/haskell-hmp3-ng-b5ed1245.md) |
 | `hackage_recent-fc3b339575ae76` | fuyu-gpio | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | `hackage_recent-fcb8a1c8163b1b` | baikai-claude | [open](records/haskell-baikai-claude-dd79deaa.md) |
 | `hackage_top_downloads-001e2e9231f2f1` | web-encodings | [open](records/haskell-web-encodings-015c513d.md) |
@@ -24653,6 +24655,7 @@
 | `npm_registry-2119820c5283ac` | prettier-config-smarthr | [open](records/node-js-javascript-prettier-config-smarthr-203f7079.md) |
 | `npm_registry-21239337cf6a05` | @sapui5/types | [open](records/node-js-typescript-sapui5-types-43d1c09c.md) |
 | `npm_registry-213594c5e4bff5` | lodash.isobject | [open](records/node-js-javascript-lodash-isobject-64fb4122.md) |
+| `npm_registry-214434b96b13d5` | @nauth-toolkit/storage-database | [open](records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) |
 | `npm_registry-2153d3a1459441` | @babel/helper-builder-react-jsx | [open](records/node-js-javascript-babel-helper-builder-react-jsx-e53542ed.md) |
 | `npm_registry-2158311c12f9fe` | @redux-saga/testing-utils | [open](records/node-js-javascript-redux-saga-testing-utils-600a4a68.md) |
 | `npm_registry-215c96d9cc081b` | @prettier/plugin-xml | [open](records/node-js-javascript-prettier-plugin-xml-23b3c42e.md) |
@@ -27799,6 +27802,7 @@
 | `packagist_search-c042d7ed82f3d2` | yadakhov/insert-on-duplicate-key | [open](records/php-yadakhov-insert-on-duplicate-key-07c18b9a.md) |
 | `packagist_search-c078cde0392080` | doctrine/doctrine-bundle | [open](records/php-doctrine-doctrine-bundle-c909c68e.md) |
 | `packagist_search-c0956eebf69ce9` | zendesk/zendesk_api_client_php | [open](records/php-zendesk-zendesk-api-client-php-b7dfb3ab.md) |
+| `packagist_search-c1583f0cbc8570` | codeception/module-db | [open](records/php-codeception-module-db-259d6553.md) |
 | `packagist_search-c1764e70c931c2` | orchestra/testbench-core | [open](records/php-orchestra-testbench-core-82efdda1.md) |
 | `packagist_search-c188468538a839` | sad_spirit/pg_builder | [open](records/php-sad-spirit-pg-builder-60fd7a5f.md) |
 | `packagist_search-c1d55f1ad06143` | workerman/workerman | [open](records/php-workerman-workerman-355412a8.md) |

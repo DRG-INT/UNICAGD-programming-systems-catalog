@@ -1,6 +1,6 @@
 # Library
 
-Records: `6133`
+Records: `6134`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `6133`
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
-[Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6133)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6134)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -3700,6 +3700,7 @@ Records: `6133`
 | hls-splice-plugin | 2.6.0.0 | 2024-01-15T16:13:11Z | [open](../records/haskell-hls-splice-plugin-f0bcd7e6.md) |
 | hmatrix | 0.20.2 | 2021-03-08T08:41:57Z | [open](../records/haskell-hmatrix-db2235a8.md) |
 | hmatrix-gsl-stats | 0.4.1.8 | 2019-06-11T02:08:25Z | [open](../records/haskell-hmatrix-gsl-stats-c1835cf9.md) |
+| hmp3-ng | 2.20.0 | 2026-09-13T04:42:55Z | [open](../records/haskell-hmp3-ng-b5ed1245.md) |
 | hnix | 0.17.0 | 2023-11-20T21:56:55Z | [open](../records/haskell-hnix-c2074b72.md) |
 | hoauth2 | 2.15.2 | 2026-08-10T05:11:12Z | [open](../records/haskell-hoauth2-37ba6e12.md) |
 | holeyexp | 0.3.0.2 | 2026-09-10T20:09:12Z | [open](../records/haskell-holeyexp-db5dc519.md) |
@@ -4568,7 +4569,7 @@ Records: `6133`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-13T05:11:30Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-13T05:25:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5980,7 +5981,7 @@ Records: `6133`
 | felangel/bloc | partial | 2026-09-13T04:59:05Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
 | FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
 | Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
-| iluwatar/java-design-patterns | partial | 2026-08-31T22:43:02Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
+| iluwatar/java-design-patterns | partial | 2026-09-13T06:04:57Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
 | in28minutes/camel | partial | 2024-09-05T07:23:55Z | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
 | landy8530/DesignPatterns | partial | 2022-12-16T00:46:17Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
 | lbroudoux/eip-designer | partial | 2016-10-05T12:51:54Z | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |

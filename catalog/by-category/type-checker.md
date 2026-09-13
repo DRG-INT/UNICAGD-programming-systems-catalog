@@ -12,12 +12,12 @@ Records: `318`
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
-[Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6134)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -273,7 +273,7 @@ Records: `318`
 | typescript-transform-paths | 4.0.0 | 2026-05-17T20:31:59.125Z | [open](../records/node-js-typescript-typescript-transform-paths-44bf66fc.md) |
 | typescript-tuple | 5.0.1 | 2021-03-06T06:11:03.342Z | [open](../records/node-js-typescript-typescript-tuple-8febb596.md) |
 | utility-types | 3.11.0 | 2024-01-18T16:51:23.522Z | [open](../records/node-js-typescript-utility-types-b519937e.md) |
-| viem | 2.56.3 | 2026-09-02T02:28:20.378Z | [open](../records/node-js-typescript-viem-f5262c89.md) |
+| viem | 2.56.5 | 2026-09-13T05:03:27.977Z | [open](../records/node-js-typescript-viem-f5262c89.md) |
 | volar-service-typescript | 0.0.71 | 2026-05-09T23:48:57.498Z | [open](../records/node-js-typescript-volar-service-typescript-53ff59b0.md) |
 | volar-service-typescript-twoslash-queries | 0.0.71 | 2026-05-09T23:48:59.933Z | [open](../records/node-js-typescript-volar-service-typescript-twoslash-queries-55b6d189.md) |
 | yuku-parser | 0.10.1 | 2026-09-11T06:59:22.613Z | [open](../records/node-js-typescript-yuku-parser-d16e0e7c.md) |
@@ -315,7 +315,7 @@ Records: `318`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-13T04:39:15Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-13T06:04:30Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -510,6 +510,6 @@ Records: `318`
 | mikro-orm/mikro-orm | partial | 2026-09-11T21:00:59Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
 | prisma/orm | partial | 2026-09-12T11:53:41Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
-| sequelize/sequelize | partial | 2026-09-12T02:23:36Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
+| sequelize/sequelize | partial | 2026-09-13T05:59:55Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
 | strapi/strapi | partial | 2026-09-11T20:51:12Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
 | typeorm/typeorm | partial | 2026-09-11T07:22:38Z | [open](../records/databases-typeorm-typeorm-5d6b5459.md) |

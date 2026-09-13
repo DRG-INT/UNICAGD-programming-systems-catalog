@@ -1,6 +1,6 @@
 # Node.js/JavaScript
 
-Records: `2457`
+Records: `2458`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `2457`
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (981)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (449)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6133)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6134)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (103)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -635,6 +635,7 @@ Records: `2457`
 | [@mojaloop/central-services-database](../records/node-js-javascript-mojaloop-central-services-database-c3b30361.md) | 10.7.0 | 2021-05-13T10:30:08.748Z | registry-derived |
 | [@molecule/api-database](../records/node-js-javascript-molecule-api-database-979879ec.md) | 1.0.1 | 2026-08-04T02:40:01.172Z | registry-derived |
 | [@mongodb-js/compass-database](../records/node-js-javascript-mongodb-js-compass-database-9655011a.md) | 3.19.1 | 2023-11-08T12:54:49.882Z | registry-derived |
+| [@nauth-toolkit/storage-database](../records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) | 0.7.5 | 2026-09-13T05:53:34.179Z | registry-derived |
 | [@neo4j/introspector](../records/node-js-javascript-neo4j-introspector-6e9626fd.md) | 5.0.1 | 2025-10-31T12:54:15.805Z | registry-derived |
 | [@netlify/database-dev](../records/node-js-javascript-netlify-database-dev-9fc07d35.md) | 1.0.1 | 2026-08-27T19:42:31.086Z | registry-derived |
 | [@netlify/database-proxy](../records/node-js-javascript-netlify-database-proxy-924b0aac.md) | 0.2.1 | 2026-08-27T19:42:26.549Z | registry-derived |
@@ -1877,7 +1878,7 @@ Records: `2457`
 | [@achingbrain/http-parser-js](../records/node-js-javascript-achingbrain-http-parser-js-8505e6ab.md) | 0.5.9 | 2025-04-09T16:33:10.786Z | registry-derived |
 | [@contrast/logger](../records/node-js-javascript-contrast-logger-a68ffedd.md) | 1.41.0 | 2026-08-19T14:43:27.680Z | npm_registry |
 | [@elastic/ecs-helpers](../records/node-js-javascript-elastic-ecs-helpers-8d648081.md) | 2.1.1 | 2023-10-31T16:58:04.987Z | npm_registry |
-| [@expressots/cli](../records/node-js-javascript-expressots-cli-4d128df9.md) | 4.2.1 | 2026-08-04T01:36:15.605Z | registry-derived |
+| [@expressots/cli](../records/node-js-javascript-expressots-cli-4d128df9.md) | 4.3.0 | 2026-09-13T06:12:04.413Z | registry-derived |
 | [@fastify/forwarded](../records/node-js-javascript-fastify-forwarded-03d42012.md) | 3.0.2 | 2026-07-28T22:20:36.713Z | registry-derived |
 | [@fastify/http-proxy](../records/node-js-javascript-fastify-http-proxy-a9bfdde1.md) | 11.6.2 | 2026-09-03T08:35:23.421Z | registry-derived |
 | [@faststore/cli](../records/node-js-javascript-faststore-cli-98f71262.md) | 4.7.0 | 2026-08-31T21:22:09.303Z | registry-derived |
@@ -2605,14 +2606,14 @@ Records: `2457`
 | [@supabase/mcp-server-supabase](../records/node-js-javascript-supabase-mcp-server-supabase-7cd0f08b.md) | 0.12.0 | 2026-09-04T13:33:08.786Z | registry-derived |
 | [@tanstack/react-start-rsc](../records/node-js-javascript-tanstack-react-start-rsc-cf26d1f1.md) | 0.1.51 | 2026-09-10T18:18:52.692Z | registry-derived |
 | [@toolbox-sdk/server](../records/node-js-javascript-toolbox-sdk-server-6410dd9c.md) | 1.11.0 | 2026-09-10T23:54:07.640Z | registry-derived |
-| [@transcend-io/mcp-server-admin](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | 1.0.9 | 2026-09-12T06:03:41.217Z | registry-derived |
-| [@transcend-io/mcp-server-assessment](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) | 2.1.6 | 2026-09-12T06:04:36.360Z | registry-derived |
-| [@transcend-io/mcp-server-consent](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) | 1.2.1 | 2026-09-12T06:04:37.353Z | registry-derived |
-| [@transcend-io/mcp-server-discovery](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) | 1.0.9 | 2026-09-12T06:03:41.229Z | registry-derived |
-| [@transcend-io/mcp-server-dsr](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) | 2.0.6 | 2026-09-12T06:03:41.848Z | registry-derived |
-| [@transcend-io/mcp-server-inventory](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) | 1.0.9 | 2026-09-12T06:03:41.581Z | registry-derived |
-| [@transcend-io/mcp-server-preferences](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) | 0.7.13 | 2026-09-12T06:04:35.723Z | registry-derived |
-| [@transcend-io/mcp-server-workflows](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) | 1.0.9 | 2026-09-12T06:03:45.570Z | registry-derived |
+| [@transcend-io/mcp-server-admin](../records/node-js-javascript-transcend-io-mcp-server-admin-c732016b.md) | 1.0.10 | 2026-09-13T06:13:26.701Z | registry-derived |
+| [@transcend-io/mcp-server-assessment](../records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) | 2.1.7 | 2026-09-13T06:14:22.212Z | registry-derived |
+| [@transcend-io/mcp-server-consent](../records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) | 1.2.2 | 2026-09-13T06:14:22.240Z | registry-derived |
+| [@transcend-io/mcp-server-discovery](../records/node-js-javascript-transcend-io-mcp-server-discovery-87735bfc.md) | 1.0.10 | 2026-09-13T06:13:26.595Z | registry-derived |
+| [@transcend-io/mcp-server-dsr](../records/node-js-javascript-transcend-io-mcp-server-dsr-76f6cb8b.md) | 2.0.7 | 2026-09-13T06:13:26.817Z | registry-derived |
+| [@transcend-io/mcp-server-inventory](../records/node-js-javascript-transcend-io-mcp-server-inventory-9bc583b1.md) | 1.0.10 | 2026-09-13T06:13:26.592Z | registry-derived |
+| [@transcend-io/mcp-server-preferences](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) | 0.7.14 | 2026-09-13T06:14:22.586Z | registry-derived |
+| [@transcend-io/mcp-server-workflows](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) | 1.0.10 | 2026-09-13T06:13:31.784Z | registry-derived |
 | [@trpc/server](../records/node-js-javascript-trpc-server-02b69ad5.md) | 11.18.0 | 2026-06-17T22:48:25.078Z | registry-derived |
 | [@turnkey/sdk-server](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) | 8.4.0 | 2026-09-04T15:40:30.545Z | registry-derived |
 | [@ui5/mcp-server](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) | 0.2.20 | 2026-09-10T12:51:14.362Z | registry-derived |

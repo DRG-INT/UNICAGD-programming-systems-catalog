@@ -1,6 +1,6 @@
 # Image Audio Dsp
 
-Records: `449`
+Records: `450`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `449`
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
-**[Image Audio Dsp (449)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+**[Image Audio Dsp (450)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6134)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -102,6 +102,7 @@ Records: `449`
 | DRIP | 2.5 | 2026-08-19 22:20:30 UTC | [open](../records/r-drip-69d87f82.md) |
 | gasper | 1.1.7 | 2026-09-02 20:40:03 UTC | [open](../records/r-gasper-765e7234.md) |
 | grayleafspotdata | 0.1.0 | 2026-08-21 15:30:09 UTC | [open](../records/r-grayleafspotdata-587a47f0.md) |
+| libopenexr | 3.4.12-6 | 2026-09-13 06:10:03 UTC | [open](../records/r-libopenexr-415f6d9f.md) |
 | rcicr | 1.3.0 | 2026-09-02 21:10:03 UTC | [open](../records/r-rcicr-8cd8aead.md) |
 | RNiftyReg | 2.8.6 | 2026-08-21 10:30:10 UTC | [open](../records/r-rniftyreg-251ec455.md) |
 | tractor.base | 3.5.2.1 | 2026-08-21 10:10:02 UTC | [open](../records/r-tractor-base-bf878a87.md) |

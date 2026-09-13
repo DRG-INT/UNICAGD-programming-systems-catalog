@@ -1,6 +1,6 @@
 # Database Datastore
 
-Records: `981`
+Records: `983`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `981`
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · **[Database Datastore (981)](database-datastore.md)** · [Datetime (254)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · **[Database Datastore (983)](database-datastore.md)** · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
-[Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6133)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6134)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -159,6 +159,7 @@ Records: `981`
 | @mojaloop/central-services-database | 10.7.0 | 2021-05-13T10:30:08.748Z | [open](../records/node-js-javascript-mojaloop-central-services-database-c3b30361.md) |
 | @molecule/api-database | 1.0.1 | 2026-08-04T02:40:01.172Z | [open](../records/node-js-javascript-molecule-api-database-979879ec.md) |
 | @mongodb-js/compass-database | 3.19.1 | 2023-11-08T12:54:49.882Z | [open](../records/node-js-javascript-mongodb-js-compass-database-9655011a.md) |
+| @nauth-toolkit/storage-database | 0.7.5 | 2026-09-13T05:53:34.179Z | [open](../records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) |
 | @neo4j/introspector | 5.0.1 | 2025-10-31T12:54:15.805Z | [open](../records/node-js-javascript-neo4j-introspector-6e9626fd.md) |
 | @netlify/database-dev | 1.0.1 | 2026-08-27T19:42:31.086Z | [open](../records/node-js-javascript-netlify-database-dev-9fc07d35.md) |
 | @netlify/database-proxy | 0.2.1 | 2026-08-27T19:42:26.549Z | [open](../records/node-js-javascript-netlify-database-proxy-924b0aac.md) |
@@ -557,6 +558,7 @@ Records: `981`
 | catfan/medoo | unknown | packagist_package_metadata_missing | [open](../records/php-catfan-medoo-b62a84e4.md) |
 | cmsig/seal | unknown | packagist_package_metadata_missing | [open](../records/php-cmsig-seal-b31383d6.md) |
 | cmsig/seal-symfony-bundle | unknown | packagist_package_metadata_missing | [open](../records/php-cmsig-seal-symfony-bundle-d5e60961.md) |
+| codeception/module-db | unknown | packagist_package_metadata_missing | [open](../records/php-codeception-module-db-259d6553.md) |
 | codeception/module-redis | unknown | packagist_package_metadata_missing | [open](../records/php-codeception-module-redis-3b360b57.md) |
 | codeigniter4/queue | unknown | packagist_package_metadata_missing | [open](../records/php-codeigniter4-queue-8fa6ceff.md) |
 | colinmollenhour/cache-backend-redis | unknown | packagist_package_metadata_missing | [open](../records/php-colinmollenhour-cache-backend-redis-10e5358b.md) |
@@ -823,7 +825,7 @@ Records: `981`
 | boltdb/bolt | partial | 2018-03-02T18:00:53Z | [open](../records/databases-boltdb-bolt-1e1b16b8.md) |
 | bookshelf/bookshelf | partial | 2024-08-10T14:12:20Z | [open](../records/databases-bookshelf-bookshelf-2132594f.md) |
 | bxcodec/go-clean-arch | partial | 2024-04-24T04:15:38Z | [open](../records/databases-bxcodec-go-clean-arch-3bdb1ed8.md) |
-| bytebase/bytebase | partial | 2026-09-11T18:32:41Z | [open](../records/databases-bytebase-bytebase-96236567.md) |
+| bytebase/bytebase | partial | 2026-09-13T04:02:05Z | [open](../records/databases-bytebase-bytebase-96236567.md) |
 | Canner/vulcan-sql | partial | 2024-07-01T02:57:10Z | [open](../records/databases-canner-vulcan-sql-633fe596.md) |
 | canonical/dqlite | partial | 2026-08-24T07:56:34Z | [open](../records/databases-canonical-dqlite-d71c166b.md) |
 | catfan/Medoo | partial | 2026-08-22T04:27:15Z | [open](../records/databases-catfan-medoo-6f0bf005.md) |
@@ -853,7 +855,7 @@ Records: `981`
 | Datazenit | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datazenit-394c3b2d.md) |
 | DBeaver | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-dbeaver-3ea00044.md) |
 | Debezium | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-debezium-a616bcbf.md) |
-| deeplethe/utopia | partial | 2026-09-12T00:11:29Z | [open](../records/databases-deeplethe-utopia-1a8ac8d3.md) |
+| deeplethe/utopia | partial | 2026-09-13T06:14:20Z | [open](../records/databases-deeplethe-utopia-1a8ac8d3.md) |
 | Delta Lake | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-delta-lake-927dada3.md) |
 | dexie/Dexie.js | partial | 2026-09-10T13:45:16Z | [open](../records/databases-dexie-dexie-js-fd147e26.md) |
 | dgllghr/stanchion | partial | 2024-03-21T13:41:27Z | [open](../records/databases-dgllghr-stanchion-f1dfbc51.md) |
@@ -862,12 +864,12 @@ Records: `981`
 | dieselpoint/norm | partial | 2026-02-27T18:08:09Z | [open](../records/databases-dieselpoint-norm-d5dbd93a.md) |
 | dimitri/pgloader | partial | 2026-07-24T14:35:08Z | [open](../records/databases-dimitri-pgloader-b06e2e41.md) |
 | directus/directus | partial | 2026-09-12T21:59:29Z | [open](../records/databases-directus-directus-1a9841eb.md) |
-| discourse/discourse | partial | 2026-09-11T22:13:39Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
+| discourse/discourse | partial | 2026-09-12T23:46:36Z | [open](../records/databases-discourse-discourse-7bfa29f8.md) |
 | distributedio/titan | partial | 2023-10-21T05:34:32Z | [open](../records/databases-distributedio-titan-2725f29d.md) |
-| doctrine/dbal | partial | 2026-09-07T06:38:33Z | [open](../records/databases-doctrine-dbal-55d5a11f.md) |
-| documenso/documenso | partial | 2026-09-12T00:19:57Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
+| doctrine/dbal | partial | 2026-09-12T11:40:50Z | [open](../records/databases-doctrine-dbal-55d5a11f.md) |
+| documenso/documenso | partial | 2026-09-13T06:16:07Z | [open](../records/databases-documenso-documenso-192ee2e7.md) |
 | Dokploy/dokploy | partial | 2026-09-11T08:20:23Z | [open](../records/databases-dokploy-dokploy-05537e16.md) |
-| Dolibarr/dolibarr | partial | 2026-09-12T00:14:42Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
+| Dolibarr/dolibarr | partial | 2026-09-13T03:39:29Z | [open](../records/databases-dolibarr-dolibarr-10b5d5de.md) |
 | domaframework/doma | partial | 2026-09-07T20:06:02Z | [open](../records/databases-domaframework-doma-188a30ea.md) |
 | dotnet/efcore | partial | 2026-09-12T04:41:21Z | [open](../records/databases-dotnet-efcore-f57314d7.md) |
 | dragonflydb/dragonfly | partial | 2026-09-12T15:37:39Z | [open](../records/databases-dragonflydb-dragonfly-fdf6559c.md) |
@@ -895,7 +897,7 @@ Records: `981`
 | get-convex/convex-backend | partial | 2026-09-12T01:03:33Z | [open](../records/databases-get-convex-convex-backend-114706b7.md) |
 | gluesql/gluesql | partial | 2026-09-06T13:20:52Z | [open](../records/databases-gluesql-gluesql-13df10e7.md) |
 | go-sql-driver/mysql | partial | 2026-09-06T12:23:56Z | [open](../records/databases-go-sql-driver-mysql-f2d64d6f.md) |
-| gogs/gogs | partial | 2026-09-11T13:58:40Z | [open](../records/databases-gogs-gogs-f9556bd6.md) |
+| gogs/gogs | partial | 2026-09-12T20:28:48Z | [open](../records/databases-gogs-gogs-f9556bd6.md) |
 | GORM | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-gorm-e339ce80.md) |
 | Grafana | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-grafana-eb0ace9f.md) |
 | grandnode/grandnode | partial | 2021-08-25T14:50:10Z | [open](../records/databases-grandnode-grandnode-bb4d9898.md) |
@@ -971,11 +973,11 @@ Records: `981`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-13T02:08:20Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-13T06:27:30Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |
-| miniflux/v2 | partial | 2026-09-11T04:00:48Z | [open](../records/databases-miniflux-v2-b1de0e9c.md) |
+| miniflux/v2 | partial | 2026-09-12T02:28:22Z | [open](../records/databases-miniflux-v2-b1de0e9c.md) |
 | MinIO | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-minio-f5c4390e.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-09T04:11:34Z | [open](../records/databases-mintplex-labs-anything-llm-1f2ed9ad.md) |
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
@@ -1003,8 +1005,8 @@ Records: `981`
 | NGT-labs/NGT | partial | 2026-09-01T02:04:32Z | [open](../records/databases-ngt-labs-ngt-a5cc3d67.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/databases-nirdiamant-rag-techniques-836fe306.md) |
 | nitrite/nitrite-java | partial | 2026-09-10T03:27:40Z | [open](../records/databases-nitrite-nitrite-java-5d05a2a7.md) |
-| nocodb/nocodb | partial | 2026-09-11T18:50:22Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
-| NodeBB/NodeBB | partial | 2026-09-12T00:57:48Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
+| nocodb/nocodb | partial | 2026-09-13T06:29:33Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
+| NodeBB/NodeBB | partial | 2026-09-12T23:34:40Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
 | noodle-run/noodle | partial | 2024-10-17T02:31:07Z | [open](../records/databases-noodle-run-noodle-e7620669.md) |
 | oceanbase/oceanbase | partial | 2026-09-11T01:00:56Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
@@ -1016,7 +1018,7 @@ Records: `981`
 | outerbase/studio | partial | 2026-03-25T23:41:33Z | [open](../records/databases-outerbase-studio-5d199295.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-12T00:07:50Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-13T05:29:23Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pawelsalawa/letos | partial | 2026-08-24T18:18:03Z | [open](../records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | paypal/gimel | partial | 2025-07-10T08:52:55Z | [open](../records/databases-paypal-gimel-dac7e5cd.md) |
@@ -1037,7 +1039,7 @@ Records: `981`
 | pitrery | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pitrery-13f324c6.md) |
 | pixeltable/pixeltable | partial | 2026-09-09T06:09:12Z | [open](../records/databases-pixeltable-pixeltable-ad627e6f.md) |
 | PlanetScale | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-planetscale-d8051113.md) |
-| plausible/analytics | partial | 2026-09-11T14:59:16Z | [open](../records/databases-plausible-analytics-6794b97c.md) |
+| plausible/analytics | partial | 2026-09-12T14:58:23Z | [open](../records/databases-plausible-analytics-6794b97c.md) |
 | playframework/anorm | partial | 2026-09-08T21:10:48Z | [open](../records/databases-playframework-anorm-feb01c23.md) |
 | PoloDB/PoloDB | partial | 2026-09-01T21:40:34Z | [open](../records/databases-polodb-polodb-e3557cfb.md) |
 | ponyorm/pony | partial | 2026-08-10T12:37:32Z | [open](../records/databases-ponyorm-pony-7bd1ee6c.md) |
@@ -1063,12 +1065,12 @@ Records: `981`
 | reorproject/reor | partial | 2025-05-13T21:28:59Z | [open](../records/databases-reorproject-reor-6601e7a1.md) |
 | requery/requery | partial | 2026-02-09T08:58:28Z | [open](../records/databases-requery-requery-85762cf6.md) |
 | risinglightdb/risinglight | partial | 2025-08-10T04:37:32Z | [open](../records/databases-risinglightdb-risinglight-5fac81e7.md) |
-| risingwavelabs/risingwave | partial | 2026-09-11T23:13:18Z | [open](../records/databases-risingwavelabs-risingwave-fc224eaa.md) |
+| risingwavelabs/risingwave | partial | 2026-09-12T05:51:13Z | [open](../records/databases-risingwavelabs-risingwave-fc224eaa.md) |
 | RocksDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-rocksdb-a15d9be7.md) |
 | rqlite/rqlite | partial | 2026-09-11T12:24:53Z | [open](../records/databases-rqlite-rqlite-61a88f3e.md) |
 | run-llama/llama_index | partial | 2026-09-08T23:38:22Z | [open](../records/databases-run-llama-llama-index-1ae4495a.md) |
 | samber/awesome-olap | partial | 2026-09-03T18:44:49Z | [open](../records/databases-samber-awesome-olap-284e3c76.md) |
-| samuelclay/NewsBlur | partial | 2026-09-10T20:10:25Z | [open](../records/databases-samuelclay-newsblur-94b97b4e.md) |
+| samuelclay/NewsBlur | partial | 2026-09-12T19:49:09Z | [open](../records/databases-samuelclay-newsblur-94b97b4e.md) |
 | schemacrawler/SchemaCrawler | partial | 2026-09-11T01:34:44Z | [open](../records/databases-schemacrawler-schemacrawler-9a9c89e5.md) |
 | ScyllaDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-scylladb-305a7332.md) |
 | seancorfield/next-jdbc | partial | 2026-08-31T02:54:14Z | [open](../records/databases-seancorfield-next-jdbc-f28adceb.md) |
@@ -1105,7 +1107,7 @@ Records: `981`
 | Turso | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-turso-62cb710e.md) |
 | tursodatabase/agentfs | partial | 2026-06-03T10:48:12Z | [open](../records/databases-tursodatabase-agentfs-6fde2cd8.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/databases-tursodatabase-libsql-7be947ec.md) |
-| twentyhq/twenty | partial | 2026-09-11T22:38:21Z | [open](../records/databases-twentyhq-twenty-d5d0607f.md) |
+| twentyhq/twenty | partial | 2026-09-13T06:05:07Z | [open](../records/databases-twentyhq-twenty-d5d0607f.md) |
 | twitter/finagle | partial | 2026-08-13T18:10:51Z | [open](../records/databases-twitter-finagle-f47280d0.md) |
 | ty4z2008/Qix | partial | 2026-09-06T06:09:13Z | [open](../records/databases-ty4z2008-qix-50ded90a.md) |
 | Typesense | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-typesense-8520ac9c.md) |
@@ -1125,7 +1127,7 @@ Records: `981`
 | vlcn-io/cr-sqlite | partial | 2026-08-10T10:55:49Z | [open](../records/databases-vlcn-io-cr-sqlite-548c9b6c.md) |
 | volcengine/MineContext | partial | 2026-05-07T13:23:05Z | [open](../records/databases-volcengine-minecontext-175b292e.md) |
 | Vonng/ddia | partial | 2026-08-30T01:20:59Z | [open](../records/databases-vonng-ddia-08c2e7f3.md) |
-| vrana/adminer | partial | 2026-09-11T22:36:13Z | [open](../records/databases-vrana-adminer-61729166.md) |
+| vrana/adminer | partial | 2026-09-12T18:16:03Z | [open](../records/databases-vrana-adminer-61729166.md) |
 | wal-e | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-wal-e-470e7aed.md) |
 | Weaviate | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-weaviate-919e9163.md) |
 | weaviate/recipes | partial | 2026-08-27T18:00:42Z | [open](../records/databases-weaviate-recipes-113b16c1.md) |
