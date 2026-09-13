@@ -41,7 +41,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; MIT License; https://api.github.com/licenses/mit |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

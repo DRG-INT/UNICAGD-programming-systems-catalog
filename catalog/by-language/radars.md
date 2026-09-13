@@ -33,7 +33,7 @@ Records: `365`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [earthaccess-dev/earthaccess](../records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) | partial | 2026-09-05T17:57:03Z | registry-derived |
-| [ktuukkan/marine-api](../records/radars-ktuukkan-marine-api-c4837662.md) | partial | 2026-09-13T13:32:20Z | registry-derived |
+| [ktuukkan/marine-api](../records/radars-ktuukkan-marine-api-c4837662.md) | partial | 2026-09-13T16:23:47Z | registry-derived |
 | [MapIV/eagleye](../records/radars-mapiv-eagleye-c0a50797.md) | partial | 2026-04-06T07:21:54Z | registry-derived |
 | [wgcban/ddpm-cd](../records/radars-wgcban-ddpm-cd-d1dbc669.md) | partial | 2024-12-08T18:49:35Z | registry-derived |
 
@@ -321,7 +321,7 @@ Records: `365`
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
 | [dpaulat/supercell-wx](../records/radars-dpaulat-supercell-wx-216e49cf.md) | partial | 2026-09-12T20:24:13Z | registry-derived |
 | [dz0ny/meshcore-sar](../records/radars-dz0ny-meshcore-sar-633f07d9.md) | partial | 2026-09-04T14:59:38Z | registry-derived |
-| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-13T16:10:41Z | registry-derived |
+| [earthobservations/wetterdienst](../records/radars-earthobservations-wetterdienst-4494a41f.md) | partial | 2026-09-13T17:14:28Z | registry-derived |
 | [Erensu/ignav](../records/radars-erensu-ignav-9cdb787e.md) | partial | 2021-12-07T02:09:44Z | registry-derived |
 | [erikliland/pyMHT](../records/radars-erikliland-pymht-6bcd5586.md) | partial | 2023-09-19T11:10:15Z | registry-derived |
 | [ethanhuang13/ladybug](../records/radars-ethanhuang13-ladybug-9ff29291.md) | partial | 2019-12-26T07:04:26Z | registry-derived |

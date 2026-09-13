@@ -337,7 +337,7 @@ Records: `237`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | earthaccess-dev/earthaccess | partial | 2026-09-05T17:57:03Z | [open](../records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) |
-| ktuukkan/marine-api | partial | 2026-09-13T13:32:20Z | [open](../records/radars-ktuukkan-marine-api-c4837662.md) |
+| ktuukkan/marine-api | partial | 2026-09-13T16:23:47Z | [open](../records/radars-ktuukkan-marine-api-c4837662.md) |
 | MapIV/eagleye | partial | 2026-04-06T07:21:54Z | [open](../records/radars-mapiv-eagleye-c0a50797.md) |
 | wgcban/ddpm-cd | partial | 2024-12-08T18:49:35Z | [open](../records/radars-wgcban-ddpm-cd-d1dbc669.md) |
 

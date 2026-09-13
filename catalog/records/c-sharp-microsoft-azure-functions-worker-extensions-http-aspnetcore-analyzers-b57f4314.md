@@ -42,7 +42,7 @@ detection, and regression prevention.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.Analyzers/1.0.4/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.Analyzers/1.0.4/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

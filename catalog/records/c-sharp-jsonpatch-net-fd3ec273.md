@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GPL-2; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Apache-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; Apache License 2.0; https://api.github.com/licenses/apache-2.0; https://www.nuget.org/packages/JsonPatch.Net/5.0.3/license |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

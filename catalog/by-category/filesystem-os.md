@@ -1404,7 +1404,7 @@ Records: `1724`
 | cytomining/pycytominer | partial | 2026-09-04T16:07:02Z | [open](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) |
 | dancsalo/TensorFlow-MIL | partial | 2020-08-24T19:46:19Z | [open](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) |
 | david-hoffman/pyotf | partial | 2024-04-08T20:58:26Z | [open](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) |
-| deepinv/deepinv | partial | 2026-09-12T10:10:43Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
+| deepinv/deepinv | partial | 2026-09-13T17:06:31Z | [open](../records/microscopy-deepinv-deepinv-59141df0.md) |
 | delmic/odemis | partial | 2026-09-11T16:50:25Z | [open](../records/microscopy-delmic-odemis-64e6d3c9.md) |
 | fairscope/PlanktoScope | partial | 2026-09-10T16:08:42Z | [open](../records/microscopy-fairscope-planktoscope-9189e5a9.md) |
 | google-research/sofima | partial | 2026-09-09T17:25:44Z | [open](../records/microscopy-google-research-sofima-72568ecb.md) |

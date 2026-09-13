@@ -510,7 +510,7 @@ Records: `866`
 | --- | --- | --- | --- |
 | ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
 | bojieli/ai-agent-book | partial | 2026-09-13T03:02:18Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
-| browser-use/browser-use | partial | 2026-09-12T07:39:39Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
+| browser-use/browser-use | partial | 2026-09-13T16:27:35Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
@@ -528,11 +528,11 @@ Records: `866`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T16:18:56Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T17:14:09Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-13T10:19:29Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-12T04:40:28Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T16:07:52Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T16:26:08Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -542,7 +542,7 @@ Records: `866`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T16:02:40Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-13T17:03:54Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-12T03:00:34Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -835,7 +835,7 @@ Records: `866`
 | afichet/openexr-viewer | partial | 2023-12-11T13:18:47Z | [open](../records/photography-afichet-openexr-viewer-4d7b742b.md) |
 | aiff22/PyNET-Bokeh | partial | 2025-08-23T13:03:09Z | [open](../records/photography-aiff22-pynet-bokeh-16cbc735.md) |
 | amusi/AI-Job-Notes | partial | 2025-06-05T05:50:01Z | [open](../records/photography-amusi-ai-job-notes-6f93e231.md) |
-| BestImageViewer/geeqie | partial | 2026-09-13T15:57:11Z | [open](../records/photography-bestimageviewer-geeqie-eed65f97.md) |
+| BestImageViewer/geeqie | partial | 2026-09-13T16:51:46Z | [open](../records/photography-bestimageviewer-geeqie-eed65f97.md) |
 | bhouston/hdrify | partial | 2026-07-09T16:04:29Z | [open](../records/photography-bhouston-hdrify-3fccdb03.md) |
 | coobird/thumbnailator | partial | 2026-02-17T17:48:42Z | [open](../records/photography-coobird-thumbnailator-dc6338d1.md) |
 | ermig1979/Simd | partial | 2026-09-11T16:39:30Z | [open](../records/photography-ermig1979-simd-8387acfa.md) |

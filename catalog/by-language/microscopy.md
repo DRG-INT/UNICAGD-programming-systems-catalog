@@ -103,7 +103,7 @@ Records: `194`
 | [cytomining/pycytominer](../records/microscopy-cytomining-pycytominer-f61cb1dc.md) | partial | 2026-09-04T16:07:02Z | registry-derived |
 | [dancsalo/TensorFlow-MIL](../records/microscopy-dancsalo-tensorflow-mil-823d26d9.md) | partial | 2020-08-24T19:46:19Z | registry-derived |
 | [david-hoffman/pyotf](../records/microscopy-david-hoffman-pyotf-f47c74b0.md) | partial | 2024-04-08T20:58:26Z | registry-derived |
-| [deepinv/deepinv](../records/microscopy-deepinv-deepinv-59141df0.md) | partial | 2026-09-12T10:10:43Z | registry-derived |
+| [deepinv/deepinv](../records/microscopy-deepinv-deepinv-59141df0.md) | partial | 2026-09-13T17:06:31Z | registry-derived |
 | [delmic/odemis](../records/microscopy-delmic-odemis-64e6d3c9.md) | partial | 2026-09-11T16:50:25Z | registry-derived |
 | [fairscope/PlanktoScope](../records/microscopy-fairscope-planktoscope-9189e5a9.md) | partial | 2026-09-10T16:08:42Z | registry-derived |
 | [google-research/sofima](../records/microscopy-google-research-sofima-72568ecb.md) | partial | 2026-09-09T17:25:44Z | registry-derived |

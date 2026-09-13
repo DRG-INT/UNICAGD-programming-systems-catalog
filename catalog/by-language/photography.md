@@ -246,7 +246,7 @@ Records: `599`
 | [AcademySoftwareFoundation/OpenImageIO](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) | partial | 2026-09-11T23:06:36Z | registry-derived |
 | [AlenVelocity/wa-sticker-formatter](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) | partial | 2026-08-10T19:22:06Z | registry-derived |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-13T12:41:36Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-13T16:51:01Z | registry-derived |
 | [blakeblackshear/frigate-hass-integration](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) | partial | 2026-09-04T06:33:23Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-13T07:03:30Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
@@ -575,7 +575,7 @@ Records: `599`
 | [afichet/openexr-viewer](../records/photography-afichet-openexr-viewer-4d7b742b.md) | partial | 2023-12-11T13:18:47Z | registry-derived |
 | [aiff22/PyNET-Bokeh](../records/photography-aiff22-pynet-bokeh-16cbc735.md) | partial | 2025-08-23T13:03:09Z | registry-derived |
 | [amusi/AI-Job-Notes](../records/photography-amusi-ai-job-notes-6f93e231.md) | partial | 2025-06-05T05:50:01Z | registry-derived |
-| [BestImageViewer/geeqie](../records/photography-bestimageviewer-geeqie-eed65f97.md) | partial | 2026-09-13T15:57:11Z | registry-derived |
+| [BestImageViewer/geeqie](../records/photography-bestimageviewer-geeqie-eed65f97.md) | partial | 2026-09-13T16:51:46Z | registry-derived |
 | [bhouston/hdrify](../records/photography-bhouston-hdrify-3fccdb03.md) | partial | 2026-07-09T16:04:29Z | registry-derived |
 | [coobird/thumbnailator](../records/photography-coobird-thumbnailator-dc6338d1.md) | partial | 2026-02-17T17:48:42Z | registry-derived |
 | [ermig1979/Simd](../records/photography-ermig1979-simd-8387acfa.md) | partial | 2026-09-11T16:39:30Z | registry-derived |
@@ -673,7 +673,7 @@ Records: `599`
 | [besscroft/PicImpact](../records/photography-besscroft-picimpact-0dc1368b.md) | partial | 2026-07-03T13:33:00Z | registry-derived |
 | [boltgolt/howdy](../records/photography-boltgolt-howdy-772dcbb3.md) | partial | 2025-07-29T10:07:27Z | registry-derived |
 | [deric/DaVinciResolve-metadata](../records/photography-deric-davinciresolve-metadata-8a13e074.md) | partial | 2025-10-13T08:04:47Z | registry-derived |
-| [marcinz606/NegPy](../records/photography-marcinz606-negpy-13e4113f.md) | partial | 2026-09-12T18:10:41Z | registry-derived |
+| [marcinz606/NegPy](../records/photography-marcinz606-negpy-13e4113f.md) | partial | 2026-09-13T16:54:20Z | registry-derived |
 | [ramokz/phantom-camera](../records/photography-ramokz-phantom-camera-07b158cf.md) | partial | 2026-09-07T17:15:42Z | registry-derived |
 | [showmewebcam/showmewebcam](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) | partial | 2024-08-14T16:42:44Z | registry-derived |
 | [SpecialKO/SpecialK](../records/photography-specialko-specialk-d14b8655.md) | partial | 2026-09-09T03:41:20Z | registry-derived |

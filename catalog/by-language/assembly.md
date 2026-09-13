@@ -70,7 +70,7 @@ Records: `308`
 | [emproof-com/nyxstone](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) | partial | 2026-06-05T16:43:08Z | registry-derived |
 | [Fedjmike/mini-c](../records/assembly-fedjmike-mini-c-295a2fc0.md) | partial | 2022-04-15T08:24:14Z | registry-derived |
 | [HexHive/retrowrite](../records/assembly-hexhive-retrowrite-c7fefa2b.md) | partial | 2025-04-26T16:48:55Z | registry-derived |
-| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-13T15:55:21Z | registry-derived |
+| [illegalstudio/elephc](../records/assembly-illegalstudio-elephc-5fbaada8.md) | partial | 2026-09-13T17:16:17Z | registry-derived |
 | [joexbayer/RetrOS-32](../records/assembly-joexbayer-retros-32-b6c205a2.md) | partial | 2026-02-22T16:07:58Z | registry-derived |
 | [JustasMasiulis/inline_syscall](../records/assembly-justasmasiulis-inline-syscall-0c8a798a.md) | partial | 2024-06-21T00:26:33Z | registry-derived |
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
@@ -119,7 +119,7 @@ Records: `308`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashvardanian/NumKong](../records/assembly-ashvardanian-numkong-bff1efd3.md) | partial | 2026-09-12T23:56:19Z | registry-derived |
+| [ashvardanian/NumKong](../records/assembly-ashvardanian-numkong-bff1efd3.md) | partial | 2026-09-13T16:22:08Z | registry-derived |
 | [awaescher/Fusion](../records/assembly-awaescher-fusion-614ef7c1.md) | partial | 2022-09-01T06:28:12Z | registry-derived |
 | [cheng-alvin/jas](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) | partial | 2026-04-23T12:31:32Z | registry-derived |
 | [encounter/objdiff](../records/assembly-encounter-objdiff-533f7383.md) | partial | 2026-08-29T22:14:27Z | registry-derived |
