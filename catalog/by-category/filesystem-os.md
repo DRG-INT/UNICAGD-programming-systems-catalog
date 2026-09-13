@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1720`
+Records: `1724`
 
 ## Navigation
 
@@ -13,18 +13,18 @@ Records: `1720`
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
-[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1720)](filesystem-os.md)** · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1724)](filesystem-os.md)** · [Formatter (670)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (65)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6139)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (866)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (681)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Undefined Behavior Analyzer (1666)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -855,6 +855,7 @@ Records: `1720`
 | 52inc/Pulley | partial | 2024-12-03T22:49:50Z | [open](../records/maps-52inc-pulley-a5b376ec.md) |
 | ajnisbet/opentopodata | unknown | github_search_does_not_include_release_date | [open](../records/maps-ajnisbet-opentopodata-c059790e.md) |
 | alexbosworth/balanceofsatoshis | partial | 2026-09-02T16:56:37Z | [open](../records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) |
+| anonymousRAID/OSINT-Mapping-Tool | partial | 2026-07-05T00:17:04Z | [open](../records/maps-anonymousraid-osint-mapping-tool-8ed049b5.md) |
 | apache/calcite | partial | 2026-09-12T13:07:01Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
 | apache/ofbiz | partial | 2020-04-27T06:10:43Z | [open](../records/maps-apache-ofbiz-0fe319f9.md) |
 | apache/sedona | partial | 2026-09-12T08:06:05Z | [open](../records/maps-apache-sedona-820c9e53.md) |
@@ -875,7 +876,7 @@ Records: `1720`
 | eurostat/eurostat-map | partial | 2026-09-11T10:28:21Z | [open](../records/maps-eurostat-eurostat-map-3607c2dc.md) |
 | fatiando/verde | partial | 2026-08-04T17:47:38Z | [open](../records/maps-fatiando-verde-bc8675d9.md) |
 | fenwii/OpenHarmony | partial | 2025-07-01T13:08:55Z | [open](../records/maps-fenwii-openharmony-29b44e36.md) |
-| Freika/dawarich | partial | 2026-09-12T14:01:06Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
+| Freika/dawarich | partial | 2026-09-13T11:31:58Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
 | gaopengbin/geo-downloader | partial | 2026-09-08T04:13:07Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
@@ -906,14 +907,16 @@ Records: `1720`
 | JuliaEarth/GeoStats.jl | partial | 2026-09-10T19:06:48Z | [open](../records/maps-juliaearth-geostats-jl-a5aee36c.md) |
 | koopjs/koop | partial | 2026-04-04T10:02:47Z | [open](../records/maps-koopjs-koop-a534718e.md) |
 | koordinates/kart | partial | 2026-08-23T23:23:29Z | [open](../records/maps-koordinates-kart-e6aa0e37.md) |
-| kunifujiwara/VoxCity | partial | 2026-09-01T13:57:37Z | [open](../records/maps-kunifujiwara-voxcity-9690a86c.md) |
+| kunifujiwara/VoxCity | partial | 2026-09-12T08:52:49Z | [open](../records/maps-kunifujiwara-voxcity-9690a86c.md) |
 | labexp/osmtracker-android | partial | 2026-05-28T05:17:16Z | [open](../records/maps-labexp-osmtracker-android-88955973.md) |
 | leocavalcante/siler | partial | 2022-02-13T14:04:09Z | [open](../records/maps-leocavalcante-siler-ba8244f3.md) |
 | lminhtm/LMGeocoder | partial | 2023-01-11T13:17:02Z | [open](../records/maps-lminhtm-lmgeocoder-ed80a908.md) |
 | mapbox/mapbox-gl-native | partial | 2023-07-27T10:31:03Z | [open](../records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
+| mapbox/mapbox-maps-ios | partial | 2026-09-11T17:02:34Z | [open](../records/maps-mapbox-mapbox-maps-ios-89bfc14b.md) |
 | mapbox/MapboxGeocoder.swift | partial | 2022-09-16T19:41:09Z | [open](../records/maps-mapbox-mapboxgeocoder-swift-8e8212bc.md) |
-| maplibre/maplibre-compose | partial | 2026-09-12T02:10:18Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
-| maplibre/maplibre-native | partial | 2026-09-12T21:32:38Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
+| maplibre/maplibre-compose | partial | 2026-09-13T12:40:53Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
+| maplibre/maplibre-native | partial | 2026-09-13T07:09:21Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |
+| maplibre/maplibre-react-native | partial | 2026-09-07T05:04:13Z | [open](../records/maps-maplibre-maplibre-react-native-5ff4d1da.md) |
 | Mapsui/Mapsui | partial | 2026-09-08T09:02:04Z | [open](../records/maps-mapsui-mapsui-d3cbf954.md) |
 | maptiler/qgis-maptiler-plugin | partial | 2026-08-11T10:56:34Z | [open](../records/maps-maptiler-qgis-maptiler-plugin-142df605.md) |
 | marceloprates/prettymaps | partial | 2026-07-30T16:29:42Z | [open](../records/maps-marceloprates-prettymaps-e0130cc1.md) |
@@ -938,7 +941,7 @@ Records: `1720`
 | osm-search/Nominatim | partial | 2026-09-11T12:01:06Z | [open](../records/maps-osm-search-nominatim-1378bce3.md) |
 | osmcode/osmium-tool | partial | 2026-09-03T16:26:52Z | [open](../records/maps-osmcode-osmium-tool-c7a1c3f9.md) |
 | osmlab/awesome-openstreetmap | partial | 2026-02-23T22:06:05Z | [open](../records/maps-osmlab-awesome-openstreetmap-129e4352.md) |
-| osmlab/name-suggestion-index | partial | 2026-09-08T15:58:11Z | [open](../records/maps-osmlab-name-suggestion-index-18387a66.md) |
+| osmlab/name-suggestion-index | partial | 2026-09-12T17:03:25Z | [open](../records/maps-osmlab-name-suggestion-index-18387a66.md) |
 | PaddlePaddle/PaddleRS | unknown | github_search_does_not_include_release_date | [open](../records/maps-paddlepaddle-paddlers-14045f54.md) |
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-d9946984.md) |
 | paulmach/osm | partial | 2026-08-14T10:53:33Z | [open](../records/maps-paulmach-osm-3e108fc8.md) |
@@ -946,7 +949,7 @@ Records: `1720`
 | PimpinPumpkin/Vela | partial | 2026-09-08T07:02:37Z | [open](../records/maps-pimpinpumpkin-vela-18046f7a.md) |
 | plant99/felicette | partial | 2022-03-12T00:43:06Z | [open](../records/maps-plant99-felicette-255df365.md) |
 | pola-rs/geopolars | partial | 2025-12-10T21:37:24Z | [open](../records/maps-pola-rs-geopolars-3af274f3.md) |
-| Project-OSRM/osrm-backend | partial | 2026-09-12T08:26:32Z | [open](../records/maps-project-osrm-osrm-backend-8976c2db.md) |
+| Project-OSRM/osrm-backend | partial | 2026-09-12T18:33:03Z | [open](../records/maps-project-osrm-osrm-backend-8976c2db.md) |
 | qiuxiang/react-native-amap3d | partial | 2023-10-28T08:46:38Z | [open](../records/maps-qiuxiang-react-native-amap3d-b2466ea6.md) |
 | Qwant/qwantmaps | partial | 2023-10-24T08:59:32Z | [open](../records/maps-qwant-qwantmaps-426cd52c.md) |
 | radarlabs/radar-sdk-ios | partial | 2026-09-11T20:11:00Z | [open](../records/maps-radarlabs-radar-sdk-ios-8bff1741.md) |
@@ -961,9 +964,10 @@ Records: `1720`
 | symerio/pgeocode | partial | 2026-07-06T16:29:42Z | [open](../records/maps-symerio-pgeocode-1bd42f96.md) |
 | The-Osint-Toolbox/Geolocation-OSINT | partial | 2026-05-24T06:52:19Z | [open](../records/maps-the-osint-toolbox-geolocation-osint-50da3900.md) |
 | tidwall/tile38 | partial | 2026-09-02T08:15:39Z | [open](../records/maps-tidwall-tile38-18e4fb35.md) |
+| tomekvenits/react-native-map-clustering | partial | 2025-07-23T18:05:45Z | [open](../records/maps-tomekvenits-react-native-map-clustering-0710e21c.md) |
 | torchgeo/terratorch | partial | 2026-08-31T13:02:45Z | [open](../records/maps-torchgeo-terratorch-7f26ee3e.md) |
 | torchgeo/torchgeo | partial | 2026-09-09T10:28:02Z | [open](../records/maps-torchgeo-torchgeo-6274ceee.md) |
-| tordanik/OSM2World | partial | 2026-08-26T13:08:51Z | [open](../records/maps-tordanik-osm2world-02ec29bb.md) |
+| tordanik/OSM2World | partial | 2026-09-09T10:08:47Z | [open](../records/maps-tordanik-osm2world-02ec29bb.md) |
 | yousifamanuel/terraink | partial | 2026-08-17T21:00:45Z | [open](../records/maps-yousifamanuel-terraink-33b659b4.md) |
 | zcreativelabs/react-simple-maps | partial | 2026-09-12T15:26:55Z | [open](../records/maps-zcreativelabs-react-simple-maps-082e62dd.md) |
 
@@ -1093,7 +1097,7 @@ Records: `1720`
 | End3r6/URPUnderwaterEffects | partial | 2024-06-20T05:33:51Z | [open](../records/effects-end3r6-urpunderwatereffects-c9b9a30c.md) |
 | ep1h/gta-sa-postfx | partial | 2026-03-22T01:25:11Z | [open](../records/effects-ep1h-gta-sa-postfx-459bbfc3.md) |
 | Estradel/URP-Simple-Per-Object-Motion-Blur | partial | 2024-02-11T22:28:23Z | [open](../records/effects-estradel-urp-simple-per-object-motion-blur-054d0007.md) |
-| Fabric-Project/Fabric | partial | 2026-09-13T12:16:37Z | [open](../records/effects-fabric-project-fabric-9b837163.md) |
+| Fabric-Project/Fabric | partial | 2026-09-13T12:39:19Z | [open](../records/effects-fabric-project-fabric-9b837163.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/effects-fedden-renderman-c333ed0b.md) |
 | florolf/fluxus-pp | partial | 2011-08-13T13:12:06Z | [open](../records/effects-florolf-fluxus-pp-90640899.md) |
 | GarrettGunnell/Inktober-Ink-Shader | partial | 2021-10-27T10:35:37Z | [open](../records/effects-garrettgunnell-inktober-ink-shader-9c674dfd.md) |
