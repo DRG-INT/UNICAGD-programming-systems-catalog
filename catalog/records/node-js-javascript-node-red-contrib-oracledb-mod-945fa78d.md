@@ -40,7 +40,7 @@ part of state persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Creative Commons Attribution Share Alike 4.0 International; https://api.github.com/licenses/cc-by-sa-4.0; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

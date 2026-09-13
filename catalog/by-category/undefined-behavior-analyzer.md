@@ -1173,7 +1173,7 @@ Records: `1665`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | bytedance/deer-flow | partial | 2026-09-13T01:37:27Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
-| sansan0/TrendRadar | partial | 2026-09-03T12:34:00Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
+| sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
 ## Computer Graphics Software
@@ -1866,7 +1866,7 @@ Records: `1665`
 | rom-rb/rom | partial | 2026-01-15T10:52:00Z | [open](../records/databases-rom-rb-rom-e8be5cad.md) |
 | simonw/datasette | partial | 2026-09-11T18:29:18Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
-| spiculedata/saiku | partial | 2026-09-08T12:33:02Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
+| spiculedata/saiku | partial | 2026-09-13T01:45:17Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
 | StarRocks/starrocks | partial | 2026-09-13T00:14:01Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |

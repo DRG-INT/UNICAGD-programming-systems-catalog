@@ -42,9 +42,9 @@ validation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -60,7 +60,7 @@ validation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-12 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-13 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-13", "status": "forge-api-derived"}` |
 
 </details>
 

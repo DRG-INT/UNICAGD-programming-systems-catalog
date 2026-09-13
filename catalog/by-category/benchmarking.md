@@ -406,7 +406,7 @@ Records: `210`
 | akopytov/sysbench | partial | 2025-03-09T16:27:25Z | [open](../records/databases-akopytov-sysbench-030eed13.md) |
 | AnghelLeonard/Hibernate-SpringBoot | partial | 2026-03-25T11:30:34Z | [open](../records/databases-anghelleonard-hibernate-springboot-ad555e27.md) |
 | brettwooldridge/HikariCP | partial | 2026-06-14T21:05:22Z | [open](../records/databases-brettwooldridge-hikaricp-4189650c.md) |
-| ClickHouse/ClickBench | partial | 2026-09-08T11:30:43Z | [open](../records/databases-clickhouse-clickbench-3cbfaabf.md) |
+| ClickHouse/ClickBench | partial | 2026-09-13T04:34:34Z | [open](../records/databases-clickhouse-clickbench-3cbfaabf.md) |
 | cnosdb/cnosdb | partial | 2025-09-26T07:27:53Z | [open](../records/databases-cnosdb-cnosdb-5480514a.md) |
 | dgraph-io/dgraph | partial | 2026-09-11T22:06:55Z | [open](../records/databases-dgraph-io-dgraph-d8a0cd12.md) |
 | dromara/easy-query | partial | 2026-09-07T14:18:21Z | [open](../records/databases-dromara-easy-query-b3c029c2.md) |

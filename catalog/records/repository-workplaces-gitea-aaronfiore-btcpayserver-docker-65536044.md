@@ -60,7 +60,7 @@ integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-12 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-13 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "server", "retrieved": "2026-09-13", "status": "forge-api-derived"}` |
 
 </details>
 

@@ -709,7 +709,7 @@ Records: `487`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | apache/spark-docker | partial | 2026-07-23T09:03:18Z | [open](../records/databases-apache-spark-docker-ed7ea3e6.md) |
-| duckdb/duckdb-rs | partial | 2026-09-08T09:35:40Z | [open](../records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
+| duckdb/duckdb-rs | partial | 2026-09-11T08:59:57Z | [open](../records/databases-duckdb-duckdb-rs-3bc8e1ae.md) |
 | electric-sql/pglite | partial | 2026-08-26T18:35:11Z | [open](../records/databases-electric-sql-pglite-aaa8e71d.md) |
 | geldata/gel-python | partial | 2025-11-06T02:05:16Z | [open](../records/databases-geldata-gel-python-70c815ca.md) |
 | HDFGroup/hdf5 | partial | 2026-09-11T14:59:04Z | [open](../records/databases-hdfgroup-hdf5-b4780cb8.md) |

@@ -41,7 +41,7 @@ as part of low-noise code review, style consistency, and automation-friendly edi
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; {"key": "", "name": "", "url": ""}; The Unlicense; https://api.github.com/licenses/unlicense |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes

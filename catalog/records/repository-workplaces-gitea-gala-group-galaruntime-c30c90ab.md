@@ -41,9 +41,9 @@ validation.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ validation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-12 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-12", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-13 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-13", "status": "forge-api-derived"}` |
 
 </details>
 

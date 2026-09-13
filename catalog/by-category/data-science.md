@@ -134,4 +134,4 @@ Records: `40`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | apache/spark | partial | 2026-09-12T03:04:01Z | [open](../records/databases-apache-spark-8676d6b2.md) |
-| databendlabs/databend | partial | 2026-09-11T20:31:11Z | [open](../records/databases-databendlabs-databend-b025738c.md) |
+| databendlabs/databend | partial | 2026-09-13T06:17:51Z | [open](../records/databases-databendlabs-databend-b025738c.md) |

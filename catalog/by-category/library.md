@@ -4569,7 +4569,7 @@ Records: `6134`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-13T05:25:37Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-13T06:57:34Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5959,7 +5959,7 @@ Records: `6134`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-13T05:02:51Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-13T07:04:53Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |
@@ -5981,7 +5981,7 @@ Records: `6134`
 | felangel/bloc | partial | 2026-09-13T04:59:05Z | [open](../records/pattern-language-felangel-bloc-2de5d68d.md) |
 | FengJungle/DesignPattern | partial | 2024-04-17T07:27:17Z | [open](../records/pattern-language-fengjungle-designpattern-555629f0.md) |
 | Habrador/Unity-Programming-Patterns | partial | 2026-04-28T12:37:06Z | [open](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) |
-| iluwatar/java-design-patterns | partial | 2026-09-13T06:04:57Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
+| iluwatar/java-design-patterns | partial | 2026-09-13T06:53:54Z | [open](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) |
 | in28minutes/camel | partial | 2024-09-05T07:23:55Z | [open](../records/pattern-language-in28minutes-camel-175e126b.md) |
 | landy8530/DesignPatterns | partial | 2022-12-16T00:46:17Z | [open](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) |
 | lbroudoux/eip-designer | partial | 2016-10-05T12:51:54Z | [open](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) |
@@ -6272,7 +6272,7 @@ Records: `6134`
 | --- | --- | --- | --- |
 | abhay-ramesh/pushduck | partial | 2026-09-07T09:11:44Z | [open](../records/databases-abhay-ramesh-pushduck-a045aead.md) |
 | anthonybudd/S4 | partial | 2021-03-03T20:08:07Z | [open](../records/databases-anthonybudd-s4-cbdae55c.md) |
-| apache/doris-flink-connector | partial | 2026-08-28T09:25:14Z | [open](../records/databases-apache-doris-flink-connector-03be6ee5.md) |
+| apache/doris-flink-connector | partial | 2026-09-11T06:13:17Z | [open](../records/databases-apache-doris-flink-connector-03be6ee5.md) |
 | apache/drill | partial | 2026-09-08T17:47:19Z | [open](../records/databases-apache-drill-5e3bde8a.md) |
 | apache/flink-connector-jdbc | partial | 2026-08-13T19:12:44Z | [open](../records/databases-apache-flink-connector-jdbc-5ab1a981.md) |
 | apache/spark-website | partial | 2026-08-31T12:27:10Z | [open](../records/databases-apache-spark-website-4546f531.md) |
@@ -6284,7 +6284,7 @@ Records: `6134`
 | Datomic | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datomic-4f9c8bd8.md) |
 | dolphindb/DolphinDBPlugin | partial | 2026-07-20T04:17:42Z | [open](../records/databases-dolphindb-dolphindbplugin-117a11bd.md) |
 | duckdb/duckdb-odbc | partial | 2026-09-11T09:07:24Z | [open](../records/databases-duckdb-duckdb-odbc-3d201108.md) |
-| duckdb/duckdb-r | partial | 2026-09-06T11:55:03Z | [open](../records/databases-duckdb-duckdb-r-6dc81616.md) |
+| duckdb/duckdb-r | partial | 2026-09-13T07:18:11Z | [open](../records/databases-duckdb-duckdb-r-6dc81616.md) |
 | duckdb/duckdb-wasm | partial | 2026-07-28T09:43:35Z | [open](../records/databases-duckdb-duckdb-wasm-c56947ec.md) |
 | ebean-orm/ebean | partial | 2026-08-28T22:43:07Z | [open](../records/databases-ebean-orm-ebean-f16dcb8d.md) |
 | gavlyukovskiy/spring-boot-data-source-decorator | partial | 2026-09-05T14:53:27Z | [open](../records/databases-gavlyukovskiy-spring-boot-data-source-decorator-1e09a225.md) |

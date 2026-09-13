@@ -193,7 +193,7 @@ Records: `147`
 | [felangel/bloc](../records/pattern-language-felangel-bloc-2de5d68d.md) | partial | 2026-09-13T04:59:05Z | registry-derived |
 | [FengJungle/DesignPattern](../records/pattern-language-fengjungle-designpattern-555629f0.md) | partial | 2024-04-17T07:27:17Z | registry-derived |
 | [Habrador/Unity-Programming-Patterns](../records/pattern-language-habrador-unity-programming-patterns-b7ded15d.md) | partial | 2026-04-28T12:37:06Z | registry-derived |
-| [iluwatar/java-design-patterns](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) | partial | 2026-09-13T06:04:57Z | registry-derived |
+| [iluwatar/java-design-patterns](../records/pattern-language-iluwatar-java-design-patterns-92e5a814.md) | partial | 2026-09-13T06:53:54Z | registry-derived |
 | [in28minutes/camel](../records/pattern-language-in28minutes-camel-175e126b.md) | partial | 2024-09-05T07:23:55Z | registry-derived |
 | [landy8530/DesignPatterns](../records/pattern-language-landy8530-designpatterns-ec410f5c.md) | partial | 2022-12-16T00:46:17Z | registry-derived |
 | [lbroudoux/eip-designer](../records/pattern-language-lbroudoux-eip-designer-c1075562.md) | partial | 2016-10-05T12:51:54Z | registry-derived |

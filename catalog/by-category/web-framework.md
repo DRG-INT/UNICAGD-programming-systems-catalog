@@ -644,8 +644,8 @@ Records: `496`
 | --- | --- | --- | --- |
 | 4ra1n/mysql-fake-server | partial | 2023-09-18T15:13:23Z | [open](../records/databases-4ra1n-mysql-fake-server-c9a98cb5.md) |
 | altairbow/django-db-connection-pool | partial | 2025-05-05T03:44:39Z | [open](../records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
-| apache/doris-mcp-server | partial | 2026-09-01T21:47:24Z | [open](../records/databases-apache-doris-mcp-server-111c3250.md) |
-| apecloud/myduckserver | partial | 2026-09-07T07:22:18Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
+| apache/doris-mcp-server | partial | 2026-09-08T21:33:03Z | [open](../records/databases-apache-doris-mcp-server-111c3250.md) |
+| apecloud/myduckserver | partial | 2026-09-12T21:36:00Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
 | aws-solutions-library-samples/data-lakes-on-aws | partial | 2026-09-04T16:16:53Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | boilingdata/boilstream | partial | 2026-07-03T11:38:01Z | [open](../records/databases-boilingdata-boilstream-8489b4c0.md) |
 | borisdj/EFCore.BulkExtensions | partial | 2026-08-14T12:25:19Z | [open](../records/databases-borisdj-efcore-bulkextensions-221ede9a.md) |
@@ -662,10 +662,10 @@ Records: `496`
 | Maxteabag/sqlit | partial | 2026-09-10T05:39:26Z | [open](../records/databases-maxteabag-sqlit-20f35e8c.md) |
 | neondatabase/neon | partial | 2026-08-31T11:03:14Z | [open](../records/databases-neondatabase-neon-3c375148.md) |
 | parse-community/parse-server | partial | 2026-09-09T16:28:44Z | [open](../records/databases-parse-community-parse-server-9d5b6dd7.md) |
-| pentaho/mondrian | partial | 2026-09-08T02:11:27Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
+| pentaho/mondrian | partial | 2026-09-13T02:18:14Z | [open](../records/databases-pentaho-mondrian-2ee4c8b7.md) |
 | pgrwl | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgrwl-c69e3b71.md) |
 | repmgr | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-repmgr-a7902124.md) |
-| rpbouman/huey | partial | 2026-08-23T20:03:47Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
+| rpbouman/huey | partial | 2026-09-08T22:44:01Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
 | scality/cloudserver | partial | 2026-09-09T16:10:55Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
 | SeekStorm/SeekStorm | partial | 2026-09-09T07:33:11Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
 | TabularisDB/tabularis | partial | 2026-09-11T15:27:06Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |

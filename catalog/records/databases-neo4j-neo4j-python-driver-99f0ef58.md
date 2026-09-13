@@ -32,16 +32,16 @@ state persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-04T07:41:20Z | gh search repos topic:database-driver stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-11T20:35:44Z | gh search repos topic:database-driver stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit; Other |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ state persistence, migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database-driver stars:>50", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database-driver stars:>50", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 

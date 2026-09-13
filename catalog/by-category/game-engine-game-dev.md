@@ -562,7 +562,7 @@ Records: `377`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | alanchn31/Data-Engineering-Projects | partial | 2023-02-08T00:44:31Z | [open](../records/databases-alanchn31-data-engineering-projects-ec5e441e.md) |
-| apache/datafusion-ballista | partial | 2026-09-11T07:04:46Z | [open](../records/databases-apache-datafusion-ballista-0541951e.md) |
+| apache/datafusion-ballista | partial | 2026-09-12T21:11:49Z | [open](../records/databases-apache-datafusion-ballista-0541951e.md) |
 | Jayvardhan-Reddy/Azure-Certification-DP-200 | partial | 2020-08-05T02:50:07Z | [open](../records/databases-jayvardhan-reddy-azure-certification-dp-200-bc190a86.md) |
 | qala-io/java-course | partial | 2025-08-20T08:48:10Z | [open](../records/databases-qala-io-java-course-54153d86.md) |
 

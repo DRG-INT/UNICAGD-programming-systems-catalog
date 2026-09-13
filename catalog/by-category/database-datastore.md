@@ -796,7 +796,7 @@ Records: `983`
 | Apache Superset | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-apache-superset-bf8e2bfc.md) |
 | apache/cassandra-gocql-driver | partial | 2026-07-28T10:40:38Z | [open](../records/databases-apache-cassandra-gocql-driver-13378c84.md) |
 | apache/cassandra-nodejs-driver | partial | 2026-09-08T23:04:17Z | [open](../records/databases-apache-cassandra-nodejs-driver-80b85a13.md) |
-| apache/datafusion | partial | 2026-09-11T21:06:04Z | [open](../records/databases-apache-datafusion-4e892e01.md) |
+| apache/datafusion | partial | 2026-09-13T03:54:23Z | [open](../records/databases-apache-datafusion-4e892e01.md) |
 | apache/doris | partial | 2026-09-13T03:47:53Z | [open](../records/databases-apache-doris-48052ae4.md) |
 | apache/flink-cdc | partial | 2026-09-09T07:46:08Z | [open](../records/databases-apache-flink-cdc-404f27d7.md) |
 | apache/iotdb | partial | 2026-09-11T08:36:25Z | [open](../records/databases-apache-iotdb-b6bf919e.md) |
@@ -816,7 +816,7 @@ Records: `983`
 | baidu/tera | partial | 2024-06-05T12:31:05Z | [open](../records/databases-baidu-tera-d6493d61.md) |
 | baomidou/mybatis-plus | partial | 2026-08-03T06:30:48Z | [open](../records/databases-baomidou-mybatis-plus-ec3d66b0.md) |
 | Barman | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-barman-6455bec6.md) |
-| Basekick-Labs/arc | partial | 2026-09-07T23:51:45Z | [open](../records/databases-basekick-labs-arc-8d733223.md) |
+| Basekick-Labs/arc | partial | 2026-09-12T20:29:30Z | [open](../records/databases-basekick-labs-arc-8d733223.md) |
 | BemiHQ/BemiDB | partial | 2026-01-07T18:55:38Z | [open](../records/databases-bemihq-bemidb-44ac1af8.md) |
 | benawad/dogehouse | partial | 2023-09-14T22:42:54Z | [open](../records/databases-benawad-dogehouse-d48f730a.md) |
 | Berkeley DB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-berkeley-db-0e2bb933.md) |
@@ -983,7 +983,7 @@ Records: `983`
 | Mintplex-Labs/vector-admin | partial | 2025-04-15T20:40:32Z | [open](../records/databases-mintplex-labs-vector-admin-90dbe9c3.md) |
 | MongoDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mongodb-c5c57340.md) |
 | mongodb/mongo | partial | 2026-09-11T22:53:36Z | [open](../records/databases-mongodb-mongo-277cd77e.md) |
-| mongodb/mongo-cxx-driver | partial | 2026-09-11T21:12:00Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
+| mongodb/mongo-cxx-driver | partial | 2026-09-12T18:01:28Z | [open](../records/databases-mongodb-mongo-cxx-driver-457d57a9.md) |
 | mouredev/hello-sql | partial | 2025-03-31T17:05:09Z | [open](../records/databases-mouredev-hello-sql-0b090060.md) |
 | msiemens/tinydb | partial | 2026-08-10T18:34:35Z | [open](../records/databases-msiemens-tinydb-137ac34b.md) |
 | MySQL | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-mysql-42cb893b.md) |
@@ -995,7 +995,7 @@ Records: `983`
 | neo4j/neo4j | partial | 2026-09-10T17:24:46Z | [open](../records/databases-neo4j-neo4j-1651d75a.md) |
 | neo4j/neo4j-dotnet-driver | partial | 2026-09-11T12:50:23Z | [open](../records/databases-neo4j-neo4j-dotnet-driver-17b0523b.md) |
 | neo4j/neo4j-go-driver | partial | 2026-09-10T11:55:41Z | [open](../records/databases-neo4j-neo4j-go-driver-8a74d04c.md) |
-| neo4j/neo4j-python-driver | partial | 2026-09-04T07:41:20Z | [open](../records/databases-neo4j-neo4j-python-driver-99f0ef58.md) |
+| neo4j/neo4j-python-driver | partial | 2026-09-11T20:35:44Z | [open](../records/databases-neo4j-neo4j-python-driver-99f0ef58.md) |
 | Neon | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-neon-79b7afe1.md) |
 | nestjs/typeorm | partial | 2026-09-10T23:12:39Z | [open](../records/databases-nestjs-typeorm-3312e1e4.md) |
 | Netflix/dynomite | partial | 2024-05-20T21:58:40Z | [open](../records/databases-netflix-dynomite-bbdaecf5.md) |
@@ -1008,7 +1008,7 @@ Records: `983`
 | nocodb/nocodb | partial | 2026-09-13T06:29:33Z | [open](../records/databases-nocodb-nocodb-4fc74d77.md) |
 | NodeBB/NodeBB | partial | 2026-09-12T23:34:40Z | [open](../records/databases-nodebb-nodebb-19c32886.md) |
 | noodle-run/noodle | partial | 2024-10-17T02:31:07Z | [open](../records/databases-noodle-run-noodle-e7620669.md) |
-| oceanbase/oceanbase | partial | 2026-09-11T01:00:56Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
+| oceanbase/oceanbase | partial | 2026-09-13T01:00:42Z | [open](../records/databases-oceanbase-oceanbase-8d26f652.md) |
 | ODBC | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-odbc-00ecc2f5.md) |
 | OmniPITR | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-omnipitr-bc5ebaae.md) |
 | Ontos-AI/knowhere | partial | 2026-09-09T08:28:01Z | [open](../records/databases-ontos-ai-knowhere-fbe4c98b.md) |
@@ -1018,7 +1018,7 @@ Records: `983`
 | outerbase/studio | partial | 2026-03-25T23:41:33Z | [open](../records/databases-outerbase-studio-5d199295.md) |
 | oxnr/awesome-bigdata | partial | 2026-07-31T12:51:12Z | [open](../records/databases-oxnr-awesome-bigdata-a2984bc7.md) |
 | p6spy/p6spy | partial | 2022-02-21T16:46:12Z | [open](../records/databases-p6spy-p6spy-2c3d2ab8.md) |
-| paradedb/paradedb | partial | 2026-09-13T05:29:23Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
+| paradedb/paradedb | partial | 2026-09-13T07:19:21Z | [open](../records/databases-paradedb-paradedb-f07ab96f.md) |
 | paradedb/pg_analytics | partial | 2025-03-19T19:27:38Z | [open](../records/databases-paradedb-pg-analytics-ff29ad8d.md) |
 | pawelsalawa/letos | partial | 2026-08-24T18:18:03Z | [open](../records/databases-pawelsalawa-letos-3a5b74d0.md) |
 | paypal/gimel | partial | 2025-07-10T08:52:55Z | [open](../records/databases-paypal-gimel-dac7e5cd.md) |
@@ -1077,7 +1077,7 @@ Records: `983`
 | SeaQL/sea-orm | partial | 2026-09-10T07:45:38Z | [open](../records/databases-seaql-sea-orm-dfb42d06.md) |
 | Sequel-Ace/Sequel-Ace | partial | 2026-09-11T09:54:44Z | [open](../records/databases-sequel-ace-sequel-ace-204510b1.md) |
 | sequelpro/sequelpro | partial | 2023-02-25T08:11:30Z | [open](../records/databases-sequelpro-sequelpro-433a9d9f.md) |
-| serenedb/serenedb | partial | 2026-09-08T12:18:21Z | [open](../records/databases-serenedb-serenedb-f826e3f9.md) |
+| serenedb/serenedb | partial | 2026-09-13T02:51:08Z | [open](../records/databases-serenedb-serenedb-f826e3f9.md) |
 | SkywalkerDarren/chatWeb | partial | 2026-05-25T16:56:25Z | [open](../records/databases-skywalkerdarren-chatweb-13dcdc64.md) |
 | Snouzy/workout-cool | partial | 2026-07-31T11:30:12Z | [open](../records/databases-snouzy-workout-cool-003448e6.md) |
 | softace/sqliteodbc | partial | 2024-03-08T11:54:04Z | [open](../records/databases-softace-sqliteodbc-4afb4159.md) |
