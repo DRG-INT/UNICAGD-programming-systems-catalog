@@ -2090,7 +2090,7 @@ Records: `2183`
 | [dtoa](../records/rust-dtoa-23f994fc.md) | 1.0.11 | 2025-12-27T06:45:26.518961Z | registry-derived |
 | [ed25519-dalek](../records/rust-ed25519-dalek-35973c8e.md) | 3.0.0 | 2026-07-06T16:23:09.992366Z | registry-derived |
 | [elasticsearch](../records/rust-elasticsearch-7a32d992.md) | 9.1.0-alpha.1 | 2025-08-08T17:06:30.587382Z | crates_io |
-| [fancy-regex](../records/rust-fancy-regex-2a559670.md) | 0.19.1 | 2026-09-06T18:37:47.095219Z | registry-derived |
+| [fancy-regex](../records/rust-fancy-regex-2a559670.md) | 0.19.2 | 2026-09-13T02:28:32.654499Z | registry-derived |
 | [fast_chemail](../records/rust-fast-chemail-d11471ea.md) | 0.9.6 | 2019-02-15T12:02:40.474144Z | crates_io |
 | [faster-hex](../records/rust-faster-hex-b3a94bbc.md) | 0.10.0 | 2024-09-14T06:29:11.794302Z | registry-derived |
 | [fastrand](../records/rust-fastrand-91261c83.md) | 2.5.0 | 2026-07-19T12:40:53.683020Z | registry-derived |

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-13T02:22:34+00:00`
+Generated: `2026-09-13T03:21:58+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,7 @@ Generated: `2026-09-13T02:22:34+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| fancy-regex | Rust | Parser Lexer Ast | 0.19.2 | 2026-09-13T02:28:32.654499Z | [open](records/rust-fancy-regex-2a559670.md) |
 | @arkstack/database | Node.js/JavaScript | Database Datastore | 0.18.7 | 2026-09-13T01:55:04.815Z | [open](records/node-js-javascript-arkstack-database-828f146a.md) |
 | @clipboard-health/testing-core | Node.js/TypeScript | Type Checker | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.4 | 2026-09-13T00:12:11.332Z | [open](records/node-js-typescript-zod-b5537602.md) |
@@ -284,7 +285,6 @@ Generated: `2026-09-13T02:22:34+00:00`
 | gmeans | R | Library | 0.2.0 | 2026-09-11 20:10:21 UTC | [open](records/r-gmeans-b0aa97e9.md) |
 | lotri | R | Precommit Ci Quality | 1.0.5 | 2026-09-11 20:10:13 UTC | [open](records/r-lotri-2caacf85.md) |
 | weightflow | R | Precommit Ci Quality | 1.3.0 | 2026-09-11 20:10:02 UTC | [open](records/r-weightflow-33ea0642.md) |
-| bacenR | R | Library | 0.5.0 | 2026-09-11 19:10:02 UTC | [open](records/r-bacenr-190cf654.md) |
 
 ## Unknown Reasons
 

@@ -40,7 +40,7 @@ numerical runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; Eclipse Public License 1.0; https://api.github.com/licenses/epl-1.0 |
+| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0; MIT License; https://api.github.com/licenses/mit; Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

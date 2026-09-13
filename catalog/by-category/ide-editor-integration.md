@@ -694,11 +694,11 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T02:18:55Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T03:11:41Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-12T23:21:56Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-13T00:30:11Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-13T02:18:21Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-13T03:11:48Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-13T03:04:18Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -1344,7 +1344,7 @@ Records: `1515`
 | axkirillov/easypick.nvim | partial | 2026-08-06T11:48:43Z | [open](../records/telescopes-axkirillov-easypick-nvim-8c09cea0.md) |
 | benfowler/telescope-luasnip.nvim | partial | 2024-12-14T04:26:31Z | [open](../records/telescopes-benfowler-telescope-luasnip-nvim-10f15a0d.md) |
 | cljoly/telescope-repo.nvim | partial | 2026-05-25T20:01:36Z | [open](../records/telescopes-cljoly-telescope-repo-nvim-9d2cb15e.md) |
-| CosmicNvim/CosmicNvim | partial | 2026-09-08T16:16:32Z | [open](../records/telescopes-cosmicnvim-cosmicnvim-093f95f7.md) |
+| CosmicNvim/CosmicNvim | partial | 2026-09-13T02:57:31Z | [open](../records/telescopes-cosmicnvim-cosmicnvim-093f95f7.md) |
 | crispgm/telescope-heading.nvim | partial | 2026-03-31T09:30:21Z | [open](../records/telescopes-crispgm-telescope-heading-nvim-a4ff0631.md) |
 | crusj/bookmarks.nvim | partial | 2024-07-12T08:47:38Z | [open](../records/telescopes-crusj-bookmarks-nvim-f3b12644.md) |
 | cuducos/yaml.nvim | partial | 2026-01-04T21:12:19Z | [open](../records/telescopes-cuducos-yaml-nvim-ad137727.md) |

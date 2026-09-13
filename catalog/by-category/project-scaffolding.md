@@ -278,7 +278,7 @@ Records: `143`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | andrechristikan/ack-nestjs-boilerplate-kafka | partial | 2023-07-19T10:53:33Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
-| cobusgreyling/loop-engineering | partial | 2026-09-12T02:34:20Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
+| cobusgreyling/loop-engineering | partial | 2026-09-13T02:34:55Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
 
 ## PHP
 

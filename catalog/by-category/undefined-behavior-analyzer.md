@@ -1589,7 +1589,7 @@ Records: `1665`
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-12T19:40:07Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
-| kismetwireless/kismet | partial | 2026-09-12T16:17:46Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
+| kismetwireless/kismet | partial | 2026-09-13T02:19:52Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
 | LargeModGames/spotatui | partial | 2026-09-10T13:19:30Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | mmalekzadeh/dana | partial | 2021-10-25T10:36:43Z | [open](../records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |

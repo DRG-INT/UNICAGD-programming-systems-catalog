@@ -303,7 +303,7 @@ Records: `210`
 | eldruin/lsm303agr-rs | partial | 2024-06-24T20:22:44Z | [open](../records/electromagnetoscopes-eldruin-lsm303agr-rs-f0561090.md) |
 | google/ceviche-challenges | partial | 2024-01-20T18:04:58Z | [open](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) |
 | KJ7LNW/xnec2c | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-kj7lnw-xnec2c-b0133631.md) |
-| luigifcruz/CyberEther | partial | 2026-09-12T00:18:48Z | [open](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) |
+| luigifcruz/CyberEther | partial | 2026-09-13T03:08:02Z | [open](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) |
 
 ## Repertoare Catalogs
 

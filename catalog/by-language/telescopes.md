@@ -103,7 +103,7 @@ Records: `272`
 | [axkirillov/easypick.nvim](../records/telescopes-axkirillov-easypick-nvim-8c09cea0.md) | partial | 2026-08-06T11:48:43Z | registry-derived |
 | [benfowler/telescope-luasnip.nvim](../records/telescopes-benfowler-telescope-luasnip-nvim-10f15a0d.md) | partial | 2024-12-14T04:26:31Z | registry-derived |
 | [cljoly/telescope-repo.nvim](../records/telescopes-cljoly-telescope-repo-nvim-9d2cb15e.md) | partial | 2026-05-25T20:01:36Z | registry-derived |
-| [CosmicNvim/CosmicNvim](../records/telescopes-cosmicnvim-cosmicnvim-093f95f7.md) | partial | 2026-09-08T16:16:32Z | registry-derived |
+| [CosmicNvim/CosmicNvim](../records/telescopes-cosmicnvim-cosmicnvim-093f95f7.md) | partial | 2026-09-13T02:57:31Z | registry-derived |
 | [crispgm/telescope-heading.nvim](../records/telescopes-crispgm-telescope-heading-nvim-a4ff0631.md) | partial | 2026-03-31T09:30:21Z | registry-derived |
 | [crusj/bookmarks.nvim](../records/telescopes-crusj-bookmarks-nvim-f3b12644.md) | partial | 2024-07-12T08:47:38Z | registry-derived |
 | [cuducos/yaml.nvim](../records/telescopes-cuducos-yaml-nvim-ad137727.md) | partial | 2026-01-04T21:12:19Z | registry-derived |
@@ -292,7 +292,7 @@ Records: `272`
 | [jasonsturges/lunarphase-js](../records/telescopes-jasonsturges-lunarphase-js-0e590da6.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jbrazio/ardufocus-ascom](../records/telescopes-jbrazio-ardufocus-ascom-dca68881.md) | partial | 2021-02-21T11:08:23Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/telescopes-jeff-regier-celeste-jl-80fff8a5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-13T01:39:51Z | registry-derived |
+| [jobovy/galpy](../records/telescopes-jobovy-galpy-b2e4e9ec.md) | partial | 2026-09-13T03:14:51Z | registry-derived |
 | [JuliaAstro/AstroImages.jl](../records/telescopes-juliaastro-astroimages-jl-2c56131c.md) | partial | 2026-07-30T16:20:41Z | registry-derived |
 | [jyotisham/jyotisha](../records/telescopes-jyotisham-jyotisha-8a86df5e.md) | partial | 2026-09-09T17:30:05Z | registry-derived |
 | [kylecorry31/Trail-Sense](../records/telescopes-kylecorry31-trail-sense-8d97a469.md) | partial | 2026-09-13T01:06:31Z | registry-derived |

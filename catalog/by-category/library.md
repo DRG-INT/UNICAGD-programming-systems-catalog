@@ -5711,7 +5711,7 @@ Records: `6132`
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
-| fanmingming/live | partial | 2026-09-12T22:23:07Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
+| fanmingming/live | partial | 2026-09-13T02:34:49Z | [open](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) |
 | FennisRobert/EMerge | partial | 2026-08-31T16:18:14Z | [open](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) |
 | fooyin/fooyin | partial | 2026-09-12T23:49:56Z | [open](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) |
 | gaspode-t-wonderdog/moxon-frame-generator | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) |

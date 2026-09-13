@@ -42,7 +42,7 @@ Records: `499`
 | [eldruin/lsm303agr-rs](../records/electromagnetoscopes-eldruin-lsm303agr-rs-f0561090.md) | partial | 2024-06-24T20:22:44Z | registry-derived |
 | [google/ceviche-challenges](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) | partial | 2024-01-20T18:04:58Z | registry-derived |
 | [KJ7LNW/xnec2c](../records/electromagnetoscopes-kj7lnw-xnec2c-b0133631.md) | unknown | github_latest_release_missing | registry-derived |
-| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-12T00:18:48Z | registry-derived |
+| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-13T03:08:02Z | registry-derived |
 
 ### Build System
 
@@ -339,7 +339,7 @@ Records: `499`
 | [eldraco/Salamandra](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) | partial | 2021-01-11T15:40:06Z | registry-derived |
 | [ErcBunny/bunnyAAT](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) | unknown | github_latest_release_missing | registry-derived |
 | [fancompute/ceviche](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) | partial | 2023-07-06T21:35:53Z | registry-derived |
-| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-12T22:23:07Z | registry-derived |
+| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-13T02:34:49Z | registry-derived |
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-08-31T16:18:14Z | registry-derived |
 | [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-12T23:49:56Z | registry-derived |
 | [gaspode-t-wonderdog/moxon-frame-generator](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) | unknown | github_latest_release_missing | registry-derived |
@@ -511,7 +511,7 @@ Records: `499`
 | [flexcompute/tidy3d](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) | partial | 2026-08-07T07:32:11Z | registry-derived |
 | [Gjacquenot/Puma-EM](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) | partial | 2020-09-12T13:09:29Z | registry-derived |
 | [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-11T00:23:52Z | registry-derived |
-| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-13T01:01:57Z | registry-derived |
+| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-13T01:24:41Z | registry-derived |
 | [ocastilloreyes/petgem](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) | partial | 2026-07-30T08:00:28Z | registry-derived |
 | [pagermon/pagermon](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) | partial | 2026-08-04T22:51:57Z | registry-derived |
 | [psyb0t/piraterf](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) | partial | 2026-08-01T19:49:42Z | registry-derived |
@@ -689,7 +689,7 @@ Records: `499`
 | [GeoBrain-Project/GeoBrain](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) | partial | 2026-08-20T08:37:35Z | registry-derived |
 | [greatscottgadgets/ubertooth](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) | partial | 2026-03-19T15:58:24Z | registry-derived |
 | [jvde-github/AIS-catcher](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) | partial | 2026-09-12T19:40:07Z | registry-derived |
-| [kismetwireless/kismet](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) | partial | 2026-09-12T16:17:46Z | registry-derived |
+| [kismetwireless/kismet](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) | partial | 2026-09-13T02:19:52Z | registry-derived |
 | [LargeModGames/spotatui](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) | partial | 2026-09-10T13:19:30Z | registry-derived |
 | [mmalekzadeh/dana](../records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) | partial | 2021-10-25T10:36:43Z | registry-derived |
 | [Moosync/Moosync-electron](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) | partial | 2025-03-06T13:43:37Z | registry-derived |

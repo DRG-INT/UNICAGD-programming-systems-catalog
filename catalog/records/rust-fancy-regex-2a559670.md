@@ -33,7 +33,7 @@ generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.19.1 | 2026-09-06T18:37:47.095219Z | [https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads) |  |
+| stable | known | 0.19.2 | 2026-09-13T02:28:32.654499Z | [https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ generation, static analysis, and source transformation.
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads` at `2026-09-06T20:19:01+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=5&per_page=100&sort=downloads` at `2026-09-13T03:19:31+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

@@ -57,7 +57,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-12 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-12", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-13 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-13", "status": "registry-derived"}` |
 
 </details>
 

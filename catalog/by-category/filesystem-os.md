@@ -1371,7 +1371,7 @@ Records: `1720`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-13T02:08:52Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T03:12:19Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy
@@ -1520,7 +1520,7 @@ Records: `1720`
 | inigodelportillo/ITU-Rpy | partial | 2026-07-26T23:16:08Z | [open](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) |
 | jgrss/geowombat | partial | 2026-09-10T12:55:10Z | [open](../records/satcom-satellites-jgrss-geowombat-9fded595.md) |
 | jopohl/urh | partial | 2025-12-19T14:25:58Z | [open](../records/satcom-satellites-jopohl-urh-a7932818.md) |
-| JuliaGeo/GDAL.jl | partial | 2026-09-12T20:42:29Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
+| JuliaGeo/GDAL.jl | partial | 2026-09-13T03:03:06Z | [open](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
 | lukeswitz/DragonSync-iOS | partial | 2026-08-27T20:01:30Z | [open](../records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) |
 | mhostetter/gr-adsb | partial | 2026-04-09T14:23:55Z | [open](../records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) |

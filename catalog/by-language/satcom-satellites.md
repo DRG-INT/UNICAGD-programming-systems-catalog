@@ -158,7 +158,7 @@ Records: `326`
 | [inigodelportillo/ITU-Rpy](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) | partial | 2026-07-26T23:16:08Z | registry-derived |
 | [jgrss/geowombat](../records/satcom-satellites-jgrss-geowombat-9fded595.md) | partial | 2026-09-10T12:55:10Z | registry-derived |
 | [jopohl/urh](../records/satcom-satellites-jopohl-urh-a7932818.md) | partial | 2025-12-19T14:25:58Z | registry-derived |
-| [JuliaGeo/GDAL.jl](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) | partial | 2026-09-12T20:42:29Z | registry-derived |
+| [JuliaGeo/GDAL.jl](../records/satcom-satellites-juliageo-gdal-jl-613aca42.md) | partial | 2026-09-13T03:03:06Z | registry-derived |
 | [lukeswitz/DragonSync-iOS](../records/satcom-satellites-lukeswitz-dragonsync-ios-158c7b79.md) | partial | 2026-08-27T20:01:30Z | registry-derived |
 | [martinber/noaa-apt](../records/satcom-satellites-martinber-noaa-apt-d4c032f7.md) | partial | 2024-02-10T15:41:50Z | registry-derived |
 | [mhostetter/gr-adsb](../records/satcom-satellites-mhostetter-gr-adsb-0a37363b.md) | partial | 2026-04-09T14:23:55Z | registry-derived |
