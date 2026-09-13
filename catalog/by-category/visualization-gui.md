@@ -671,7 +671,7 @@ Records: `651`
 | Automaticism/Promptvision | partial | 2024-09-04T21:15:49Z | [open](../records/photography-automaticism-promptvision-8cf055e0.md) |
 | CarVac/filmulator-gui | partial | 2026-07-05T14:39:24Z | [open](../records/photography-carvac-filmulator-gui-7958689d.md) |
 | darktable | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-darktable-643ff3aa.md) |
-| deckerst/aves | partial | 2026-09-12T10:08:56Z | [open](../records/photography-deckerst-aves-abe42e9c.md) |
+| deckerst/aves | partial | 2026-09-13T14:14:58Z | [open](../records/photography-deckerst-aves-abe42e9c.md) |
 | ECarry/photography-website | partial | 2026-09-11T16:05:05Z | [open](../records/photography-ecarry-photography-website-36282ce9.md) |
 | GuidoBartoli/sherloq | partial | 2026-07-16T11:39:56Z | [open](../records/photography-guidobartoli-sherloq-89dd76f4.md) |
 | hfiguiere/libopenraw | unknown | github_search_does_not_include_release_date | [open](../records/photography-hfiguiere-libopenraw-7e1e5568.md) |

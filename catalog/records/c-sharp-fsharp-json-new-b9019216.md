@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; https://www.nuget.org/packages/FSharp.Json.New/0.5.0/license |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; https://www.nuget.org/packages/FSharp.Json.New/0.5.0/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

@@ -694,7 +694,7 @@ Records: `1516`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-13T22:07:03Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T21:46:11Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T23:08:48Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-13T12:18:30Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-13T21:07:32Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1252,7 +1252,7 @@ Records: `1516`
 | codeforreal1/compressO | partial | 2026-08-17T12:39:47Z | [open](../records/photography-codeforreal1-compresso-03a9ea13.md) |
 | copicseal/copicseal | unknown | github_search_does_not_include_release_date | [open](../records/photography-copicseal-copicseal-b0bf1efa.md) |
 | coreprocess/linux-unattended-installation | partial | 2023-02-01T02:36:50Z | [open](../records/photography-coreprocess-linux-unattended-installation-f53db419.md) |
-| CyberTimon/RapidRAW | partial | 2026-09-12T18:07:26Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
+| CyberTimon/RapidRAW | partial | 2026-09-13T08:13:48Z | [open](../records/photography-cybertimon-rapidraw-037bcba7.md) |
 | dividebysandwich/LightningView | partial | 2026-09-09T16:54:11Z | [open](../records/photography-dividebysandwich-lightningview-edad5607.md) |
 | dmarnerides/hdr-expandnet | partial | 2021-03-02T09:15:13Z | [open](../records/photography-dmarnerides-hdr-expandnet-7a4e2be3.md) |
 | drewnoakes/metadata-extractor | partial | 2026-07-28T04:25:06Z | [open](../records/photography-drewnoakes-metadata-extractor-0d5413a2.md) |
@@ -1262,7 +1262,7 @@ Records: `1516`
 | fastvideo/pgm2dng | partial | 2026-07-21T05:55:54Z | [open](../records/photography-fastvideo-pgm2dng-d1583b9e.md) |
 | geerlingguy/pi-timelapse | unknown | github_search_does_not_include_release_date | [open](../records/photography-geerlingguy-pi-timelapse-b66cdb8a.md) |
 | GimelStudio/GimelStudio | partial | 2026-06-18T03:36:38Z | [open](../records/photography-gimelstudio-gimelstudio-c971959d.md) |
-| GraphiteEditor/Graphite | partial | 2026-09-13T01:07:30Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
+| GraphiteEditor/Graphite | partial | 2026-09-13T17:36:32Z | [open](../records/photography-graphiteeditor-graphite-f4ddca51.md) |
 | guanyingc/DeepHDRVideo | partial | 2026-03-16T14:48:31Z | [open](../records/photography-guanyingc-deephdrvideo-b6233de5.md) |
 | hjdhjd/homebridge-unifi-protect | partial | 2026-07-19T20:47:25Z | [open](../records/photography-hjdhjd-homebridge-unifi-protect-782e9500.md) |
 | hkk595/Resizer | unknown | github_search_does_not_include_release_date | [open](../records/photography-hkk595-resizer-84d16447.md) |
@@ -1367,7 +1367,7 @@ Records: `1516`
 | MarcHamamji/runner.nvim | partial | 2025-03-04T10:42:26Z | [open](../records/telescopes-marchamamji-runner-nvim-d5d3f9d8.md) |
 | MironPascalCaseFan/rittli.nvim | partial | 2024-11-29T13:40:56Z | [open](../records/telescopes-mironpascalcasefan-rittli-nvim-1f2cf266.md) |
 | Mirsmog/real-icons.nvim | partial | 2026-08-04T22:30:42Z | [open](../records/telescopes-mirsmog-real-icons-nvim-2ffc30c6.md) |
-| mrcjkb/haskell-tools.nvim | partial | 2026-09-13T00:31:08Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
+| mrcjkb/haskell-tools.nvim | partial | 2026-09-13T21:11:26Z | [open](../records/telescopes-mrcjkb-haskell-tools-nvim-94956c21.md) |
 | mrcjkb/telescope-manix | partial | 2026-09-13T00:27:19Z | [open](../records/telescopes-mrcjkb-telescope-manix-74de5637.md) |
 | mrjones2014/dash.nvim | partial | 2022-08-30T00:29:47Z | [open](../records/telescopes-mrjones2014-dash-nvim-c0435f14.md) |
 | mrjones2014/tldr.nvim | partial | 2024-01-02T13:18:05Z | [open](../records/telescopes-mrjones2014-tldr-nvim-207a9aa6.md) |
@@ -1400,7 +1400,7 @@ Records: `1516`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-11T00:06:15Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-13T22:35:13Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | bgin/RF-EMT | partial | 2026-09-11T11:01:43Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |

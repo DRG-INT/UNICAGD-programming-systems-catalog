@@ -40,7 +40,7 @@ supply-chain review, vulnerability detection, and release gate enforcement.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Apache-2.0; https://www.nuget.org/packages/OpenIddict.Client.SystemNetHttp/7.6.1/license |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Apache-2.0; https://www.nuget.org/packages/OpenIddict.Client.SystemNetHttp/7.6.1/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

@@ -444,7 +444,7 @@ Records: `682`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-13T22:16:39Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-13T22:28:42Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -619,8 +619,8 @@ Records: `682`
 | MK-Ware/Forensic-Tools | partial | 2019-09-12T12:38:16Z | [open](../records/photography-mk-ware-forensic-tools-3fbe9061.md) |
 | moaazsidat/react-native-qrcode-scanner | partial | 2023-05-12T11:16:38Z | [open](../records/photography-moaazsidat-react-native-qrcode-scanner-e8683b24.md) |
 | ncoevoet/facet | unknown | github_search_does_not_include_release_date | [open](../records/photography-ncoevoet-facet-f48943dd.md) |
-| ocrmypdf/OCRmyPDF | partial | 2026-09-08T18:26:29Z | [open](../records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
-| ossappscollective/OSS-DocumentScanner | partial | 2026-09-11T20:55:36Z | [open](../records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
+| ocrmypdf/OCRmyPDF | partial | 2026-09-13T22:14:27Z | [open](../records/photography-ocrmypdf-ocrmypdf-1ca953e5.md) |
+| ossappscollective/OSS-DocumentScanner | partial | 2026-09-13T13:28:39Z | [open](../records/photography-ossappscollective-oss-documentscanner-1c9854f2.md) |
 | petrobras/GeoSlicer | partial | 2026-08-18T18:30:06Z | [open](../records/photography-petrobras-geoslicer-d6192212.md) |
 | photonixapp/photonix | partial | 2026-07-21T11:06:10Z | [open](../records/photography-photonixapp-photonix-0ee14fb2.md) |
 | react-native-camera/react-native-camera | partial | 2023-06-07T10:03:10Z | [open](../records/photography-react-native-camera-react-native-camera-beed788e.md) |

@@ -337,7 +337,7 @@ Records: `290`
 | --- | --- | --- | --- |
 | a-r-d/PureJsImage | partial | 2026-09-12T00:36:13Z | [open](../records/microscopy-a-r-d-purejsimage-f9287947.md) |
 | ziatdinovmax/GPim | partial | 2023-11-24T06:29:59Z | [open](../records/microscopy-ziatdinovmax-gpim-a892ca24.md) |
-| ziatdinovmax/SciLink | partial | 2026-09-13T20:05:01Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
+| ziatdinovmax/SciLink | partial | 2026-09-13T20:52:09Z | [open](../records/microscopy-ziatdinovmax-scilink-c222b07f.md) |
 
 ## Telescopes
 

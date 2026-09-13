@@ -396,7 +396,7 @@ Records: `1473`
 | baidut/OpenCE | partial | 2018-06-28T09:14:34Z | [open](../records/matlab-baidut-opence-da08b629.md) |
 | banterle/HDR_Toolbox | partial | 2026-09-11T13:10:36Z | [open](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) |
 | bcmi/Image-Harmonization-Dataset-iHarmony4 | partial | 2026-08-20T08:31:02Z | [open](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) |
-| benfulcher/hctsa | partial | 2026-09-12T23:07:55Z | [open](../records/matlab-benfulcher-hctsa-738269ba.md) |
+| benfulcher/hctsa | partial | 2026-09-13T23:08:29Z | [open](../records/matlab-benfulcher-hctsa-738269ba.md) |
 | bertinetto/cfnet | partial | 2018-05-31T13:59:08Z | [open](../records/matlab-bertinetto-cfnet-658a3dfe.md) |
 | bertinetto/siamese-fc | partial | 2019-05-16T10:10:53Z | [open](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) |
 | bertinetto/staple | partial | 2017-04-25T16:36:08Z | [open](../records/matlab-bertinetto-staple-d5a45a59.md) |
@@ -721,7 +721,7 @@ Records: `1473`
 | docker/compose | partial | 2026-09-11T17:21:34Z | [open](../records/go-docker-compose-cdd7478b.md) |
 | doocs/leetcode | partial | 2026-09-13T13:53:53Z | [open](../records/go-doocs-leetcode-2d4ea4e3.md) |
 | ehang-io/nps | partial | 2024-05-30T03:51:08Z | [open](../records/go-ehang-io-nps-346fc0a0.md) |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-13T21:29:28Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-13T22:47:03Z | [open](../records/go-esengine-deepseek-reasonix-efdb9688.md) |
 | etcd-io/etcd | partial | 2026-09-11T20:50:01Z | [open](../records/go-etcd-io-etcd-7f59ae57.md) |
 | ethereum/go-ethereum | partial | 2026-09-11T03:15:54Z | [open](../records/go-ethereum-go-ethereum-805e21c2.md) |
 | evanw/esbuild | partial | 2026-08-09T17:20:12Z | [open](../records/go-evanw-esbuild-1272b34b.md) |
@@ -744,7 +744,7 @@ Records: `1473`
 | golang-standards/project-layout | partial | 2026-04-28T17:18:05Z | [open](../records/go-golang-standards-project-layout-cd4d5fd4.md) |
 | golang/go | partial | 2026-09-13T17:47:05Z | [open](../records/go-golang-go-eddbf466.md) |
 | grafana/k6 | partial | 2026-09-13T13:08:31Z | [open](../records/go-grafana-k6-ed133f82.md) |
-| grafana/loki | partial | 2026-09-13T21:12:36Z | [open](../records/go-grafana-loki-2fc58cde.md) |
+| grafana/loki | partial | 2026-09-13T22:29:47Z | [open](../records/go-grafana-loki-2fc58cde.md) |
 | grpc/grpc-go | partial | 2026-09-11T10:41:10Z | [open](../records/go-grpc-grpc-go-4b231603.md) |
 | halfrost/LeetCode-Go | partial | 2026-09-11T01:48:08Z | [open](../records/go-halfrost-leetcode-go-09ca25e1.md) |
 | harness/harness | partial | 2026-09-10T12:27:51Z | [open](../records/go-harness-harness-fe931205.md) |
@@ -779,7 +779,7 @@ Records: `1473`
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/go-ollama-ollama-37c1cc0e.md) |
 | opentofu/opentofu | partial | 2026-09-10T08:05:47Z | [open](../records/go-opentofu-opentofu-186b8c42.md) |
 | photoprism/photoprism | partial | 2026-09-13T14:57:37Z | [open](../records/go-photoprism-photoprism-47249a2f.md) |
-| pingcap/tidb | partial | 2026-09-13T21:36:32Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
+| pingcap/tidb | partial | 2026-09-13T23:12:08Z | [open](../records/go-pingcap-tidb-cf9a579a.md) |
 | pocketbase/pocketbase | partial | 2026-09-12T20:07:15Z | [open](../records/go-pocketbase-pocketbase-129b5588.md) |
 | podman-container-tools/podman | partial | 2026-09-12T21:42:48Z | [open](../records/go-podman-container-tools-podman-b8d59e44.md) |
 | projectdiscovery/nuclei | partial | 2026-09-13T18:43:57Z | [open](../records/go-projectdiscovery-nuclei-166bc26c.md) |
@@ -853,7 +853,7 @@ Records: `1473`
 | mlabonne/llm-course | partial | 2026-02-05T13:09:26Z | [open](../records/aim-s-mlabonne-llm-course-686674f6.md) |
 | mukul975/Anthropic-Cybersecurity-Skills | partial | 2026-08-31T04:32:44Z | [open](../records/aim-s-mukul975-anthropic-cybersecurity-skills-9e0cc92c.md) |
 | p-e-w/heretic | partial | 2026-09-05T16:11:52Z | [open](../records/aim-s-p-e-w-heretic-a6b88cd3.md) |
-| sgl-project/sglang | partial | 2026-09-13T22:07:34Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
+| sgl-project/sglang | partial | 2026-09-13T23:09:22Z | [open](../records/aim-s-sgl-project-sglang-4b12b8a7.md) |
 | yamadashy/repomix | partial | 2026-09-13T06:41:37Z | [open](../records/aim-s-yamadashy-repomix-25d6e394.md) |
 
 ## nix
@@ -1085,7 +1085,7 @@ Records: `1473`
 | angelgladin/Photo_Exif_Toolkit | partial | 2017-07-19T19:12:30Z | [open](../records/photography-angelgladin-photo-exif-toolkit-754e1378.md) |
 | dmotz/thing-translator | partial | 2021-03-23T02:35:05Z | [open](../records/photography-dmotz-thing-translator-7eb7907e.md) |
 | dsoprea/go-exif | partial | 2024-04-04T22:50:05Z | [open](../records/photography-dsoprea-go-exif-58f74328.md) |
-| halide/Halide | partial | 2026-09-13T01:03:19Z | [open](../records/photography-halide-halide-872dbb0e.md) |
+| halide/Halide | partial | 2026-09-13T18:52:59Z | [open](../records/photography-halide-halide-872dbb0e.md) |
 | JaidedAI/EasyOCR | partial | 2025-12-05T12:23:12Z | [open](../records/photography-jaidedai-easyocr-4261194e.md) |
 | mcrescas/veriv | partial | 2025-08-29T12:24:44Z | [open](../records/photography-mcrescas-veriv-fd04d504.md) |
 | mv-lab/InstructIR | unknown | github_search_does_not_include_release_date | [open](../records/photography-mv-lab-instructir-9bdb6aa5.md) |
@@ -1103,7 +1103,7 @@ Records: `1473`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ad-si/Woxi | partial | 2026-09-13T18:26:48Z | [open](../records/telescopes-ad-si-woxi-8a8c02e7.md) |
+| ad-si/Woxi | partial | 2026-09-13T22:20:32Z | [open](../records/telescopes-ad-si-woxi-8a8c02e7.md) |
 | Avimitin/nvim | partial | 2026-07-28T05:10:02Z | [open](../records/telescopes-avimitin-nvim-96de9a1e.md) |
 | gnudatalanguage/gdl | partial | 2026-09-11T21:18:21Z | [open](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) |
 | indigo-astronomy/indigo | partial | 2026-09-09T18:43:09Z | [open](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) |
@@ -1222,7 +1222,7 @@ Records: `1473`
 | bitdump/BLHeli | partial | 2025-08-21T07:30:10Z | [open](../records/assembly-bitdump-blheli-5d346476.md) |
 | blackbird71SR/Hello-World | partial | 2024-03-02T10:40:36Z | [open](../records/assembly-blackbird71sr-hello-world-2fa43546.md) |
 | BLAKE3-team/BLAKE3 | partial | 2026-09-10T20:47:09Z | [open](../records/assembly-blake3-team-blake3-cc15f4ed.md) |
-| bluewaysw/pcgeos | partial | 2026-09-13T08:20:43Z | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
+| bluewaysw/pcgeos | partial | 2026-09-13T22:44:05Z | [open](../records/assembly-bluewaysw-pcgeos-aee787b1.md) |
 | briansmith/ring | partial | 2026-07-23T18:48:09Z | [open](../records/assembly-briansmith-ring-3a265118.md) |
 | bytecode77/pe-union | partial | 2025-06-28T10:36:18Z | [open](../records/assembly-bytecode77-pe-union-295ee237.md) |
 | cch123/asm-cli | partial | 2019-01-20T08:58:33Z | [open](../records/assembly-cch123-asm-cli-b6f3f924.md) |
@@ -1279,7 +1279,7 @@ Records: `1473`
 | nornagon/jonesforth | partial | 2023-04-04T16:56:38Z | [open](../records/assembly-nornagon-jonesforth-691f782b.md) |
 | obdev/v-usb | partial | 2026-08-26T14:47:54Z | [open](../records/assembly-obdev-v-usb-977cf25b.md) |
 | openhwgroup/core-v-verif | partial | 2026-09-10T08:24:13Z | [open](../records/assembly-openhwgroup-core-v-verif-9b6682d3.md) |
-| openhwgroup/cva6 | partial | 2026-09-13T21:08:42Z | [open](../records/assembly-openhwgroup-cva6-c0f79b44.md) |
+| openhwgroup/cva6 | partial | 2026-09-13T23:10:17Z | [open](../records/assembly-openhwgroup-cva6-c0f79b44.md) |
 | oriansj/stage0 | partial | 2026-06-17T03:03:21Z | [open](../records/assembly-oriansj-stage0-6791bc52.md) |
 | Overv/MineAssemble | partial | 2023-09-11T09:31:31Z | [open](../records/assembly-overv-mineassemble-4e2e626b.md) |
 | PDP-10/its | partial | 2026-08-19T16:37:56Z | [open](../records/assembly-pdp-10-its-cfa6e89a.md) |

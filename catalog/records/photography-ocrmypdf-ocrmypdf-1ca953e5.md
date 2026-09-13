@@ -32,16 +32,16 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-08T18:26:29Z | gh search repos topic:image-processing stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-13T22:14:27Z | gh search repos topic:image-processing stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

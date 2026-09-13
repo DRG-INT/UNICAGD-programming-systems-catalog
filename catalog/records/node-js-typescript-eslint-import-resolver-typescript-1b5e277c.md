@@ -39,9 +39,9 @@ inventory as part of static feedback, style policy, defect prevention, and local
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | ISC |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Mixed license review |
+| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0; MIT License; https://api.github.com/licenses/mit; Other |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

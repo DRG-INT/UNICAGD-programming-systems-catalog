@@ -529,11 +529,11 @@ Records: `867`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T22:17:45Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-13T23:13:23Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-13T20:50:56Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
-| openai/openai-agents-python | partial | 2026-09-13T21:54:22Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T18:04:31Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| openai/openai-agents-python | partial | 2026-09-13T23:08:41Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T23:17:32Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -543,7 +543,7 @@ Records: `867`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T21:00:52Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-13T23:15:25Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-13T21:24:39Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -848,7 +848,7 @@ Records: `867`
 | JoaoFranco03/photography-portfolio | partial | 2024-12-28T22:47:06Z | [open](../records/photography-joaofranco03-photography-portfolio-4323d081.md) |
 | jpvalery/portfolio | partial | 2025-12-10T10:39:30Z | [open](../records/photography-jpvalery-portfolio-65a2420d.md) |
 | kepengxu/RealRep | partial | 2026-06-17T09:59:05Z | [open](../records/photography-kepengxu-realrep-cdb57399.md) |
-| kornia/kornia | partial | 2026-09-13T00:08:29Z | [open](../records/photography-kornia-kornia-2f30e568.md) |
+| kornia/kornia | partial | 2026-09-13T20:00:30Z | [open](../records/photography-kornia-kornia-2f30e568.md) |
 | pa7/nude.js | partial | 2024-04-06T17:27:23Z | [open](../records/photography-pa7-nude-js-0f214943.md) |
 | Skykai521/StickerCamera | partial | 2026-06-18T11:59:06Z | [open](../records/photography-skykai521-stickercamera-9cf56aa6.md) |
 | sun0225SUN/camlife | unknown | github_search_does_not_include_release_date | [open](../records/photography-sun0225sun-camlife-84932ff0.md) |

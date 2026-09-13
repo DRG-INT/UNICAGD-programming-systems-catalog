@@ -262,8 +262,8 @@ Records: `210`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| evanoberholster/imagemeta | partial | 2026-08-24T02:39:00Z | [open](../records/photography-evanoberholster-imagemeta-c9cdf7ac.md) |
-| lovell/sharp | partial | 2026-09-07T13:43:14Z | [open](../records/photography-lovell-sharp-2ca40e3a.md) |
+| evanoberholster/imagemeta | partial | 2026-09-13T20:43:54Z | [open](../records/photography-evanoberholster-imagemeta-c9cdf7ac.md) |
+| lovell/sharp | partial | 2026-09-13T18:58:12Z | [open](../records/photography-lovell-sharp-2ca40e3a.md) |
 | margelo/react-native-fast-tflite | partial | 2026-08-28T20:49:05Z | [open](../records/photography-margelo-react-native-fast-tflite-26269249.md) |
 | margelo/react-native-vision-camera | partial | 2026-09-10T15:44:23Z | [open](../records/photography-margelo-react-native-vision-camera-77b61cb8.md) |
 | teslamotors/react-native-camera-kit | partial | 2026-08-03T22:12:29Z | [open](../records/photography-teslamotors-react-native-camera-kit-22df3292.md) |

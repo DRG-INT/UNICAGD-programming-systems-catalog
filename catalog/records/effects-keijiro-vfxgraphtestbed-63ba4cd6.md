@@ -40,7 +40,7 @@ unit/integration validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; The Unlicense; https://api.github.com/licenses/unlicense |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
