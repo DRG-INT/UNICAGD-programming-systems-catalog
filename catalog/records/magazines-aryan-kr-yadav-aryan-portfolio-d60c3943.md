@@ -1,0 +1,107 @@
+# Aryan-Kr-Yadav/Aryan-Portfolio
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Magazines](../by-language/magazines.md) · [Category: Ide Editor Integration](../by-category/ide-editor-integration.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://github.com/Aryan-Kr-Yadav/Aryan-Portfolio -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Magazines |
+| Category | Ide Editor Integration |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://github.com/Aryan-Kr-Yadav/Aryan-Portfolio](https://github.com/Aryan-Kr-Yadav/Aryan-Portfolio) |
+| Source record ids | github_search_magazines-043d748c60801a |
+
+## System Engineer Summary
+
+Aryan's Portfolio -: A newspaper-inspired developer portfolio crafted with React, Vite, and CSS.
+Showcasing my journey as a software developer through an editorial magazine aesthetic.
+
+## Operational Role
+
+For a systems engineer, Aryan-Kr-Yadav/Aryan-Portfolio belongs in the Magazines inventory as part of
+ecosystem capability mapping, dependency review, release awareness, and operational fit assessment.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | partial |  | 2026-09-12T23:14:51Z | gh search repos developer magazine | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+
+## Engineering Notes
+
+- Treat category as `ide_editor_integration` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "developer magazine", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `github_search_magazines-043d748c60801a` from `github_search_magazines` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| 2KAbhishek/tdo.nvim | Ide Editor Integration | [open](magazines-2kabhishek-tdo-nvim-8ea68e09.md) |
+| anvayeem-spec/personal_portfolio | Ide Editor Integration | [open](magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
+| appml/neutrinote | Ide Editor Integration | [open](magazines-appml-neutrinote-0348cb9f.md) |
+| ATOSHI-ORG/atoshi-docs | Ide Editor Integration | [open](magazines-atoshi-org-atoshi-docs-f8974b72.md) |
+| aviaryan/VSCodeNotebook | Ide Editor Integration | [open](magazines-aviaryan-vscodenotebook-49fbf0bb.md) |
+| Baroshem/nuxt-newsletter | Ide Editor Integration | [open](magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
+| braziljs/weekly | Ide Editor Integration | [open](magazines-braziljs-weekly-013dd57e.md) |
+| business-science/free_r_tips | Ide Editor Integration | [open](magazines-business-science-free-r-tips-64f5375c.md) |
+
+## Category Index
+
+[Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · **[Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)**
+[Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

@@ -11,7 +11,7 @@
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (254)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (45)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (115)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1720)](by-category/filesystem-os.md) · [Formatter (670)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (63)](by-category/fuzzer.md) · [Game Engine Game Dev (377)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1472)](by-category/language-specification.md) · [Library (6137)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (558)](by-category/logging-observability.md) · [Machine Learning (864)](by-category/machine-learning.md)
@@ -11085,6 +11085,7 @@
 | `github_search_magazines-01cdf1d6b339d5` | samuelmeuli/mini-diary | [open](records/magazines-samuelmeuli-mini-diary-55a97725.md) |
 | `github_search_magazines-02ca27357eaeee` | BohdanPetryshyn/formzero | [open](records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
 | `github_search_magazines-03a7ab504140a6` | JacobEvelyn/friends | [open](records/magazines-jacobevelyn-friends-9e7e65ed.md) |
+| `github_search_magazines-043d748c60801a` | Aryan-Kr-Yadav/Aryan-Portfolio | [open](records/magazines-aryan-kr-yadav-aryan-portfolio-d60c3943.md) |
 | `github_search_magazines-04441090f6b817` | logog782-cmyk/linkly-quote-cards | [open](records/magazines-logog782-cmyk-linkly-quote-cards-6f7b079d.md) |
 | `github_search_magazines-04cdad72e53548` | thuang136/DeveloperMagazine | [open](records/magazines-thuang136-developermagazine-86d0075f.md) |
 | `github_search_magazines-04ddf62355a2e5` | tonycai/The-Journal-of-Blockchain | [open](records/magazines-tonycai-the-journal-of-blockchain-bbd4ccd1.md) |

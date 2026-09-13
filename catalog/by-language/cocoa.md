@@ -15,7 +15,7 @@ Records: `349`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
@@ -151,7 +151,7 @@ Records: `349`
 | [Countly](../records/cocoa-countly-2297ca5c.md) | 26.1.0 | 2026-02-18 14:12:24 UTC | registry-derived |
 | [Danie1s/Tiercel](../records/cocoa-danie1s-tiercel-5ed21306.md) | partial | 2026-08-24T16:54:29Z | registry-derived |
 | [DarielChen/iOSTips](../records/cocoa-darielchen-iostips-e6e9e701.md) | partial | 2020-10-19T07:14:11Z | registry-derived |
-| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-12T16:24:35Z | registry-derived |
+| [dkhamsing/open-source-ios-apps](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) | partial | 2026-09-13T13:02:23Z | registry-derived |
 | [DrawKit/DrawKit](../records/cocoa-drawkit-drawkit-72c338f1.md) | partial | 2023-03-13T12:23:46Z | registry-derived |
 | [dusty-commits/Closures](../records/cocoa-dusty-commits-closures-519b25c5.md) | partial | 2021-04-29T15:34:36Z | registry-derived |
 | [FluidGroup/NextGrowingTextView](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) | partial | 2026-08-21T18:15:48Z | registry-derived |
@@ -203,7 +203,7 @@ Records: `349`
 | [WAAppRouting](../records/cocoa-waapprouting-28d367e4.md) | 0.0.5 | 2015-11-13T01:24:41Z | registry-derived |
 | [WenchaoD/FSCalendar](../records/cocoa-wenchaod-fscalendar-a94a6797.md) | partial | 2024-08-10T13:44:15Z | registry-derived |
 | [wmcmahan/react-native-calendar-events](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) | partial | 2026-01-05T21:09:47Z | registry-derived |
-| [wxWidgets/wxWidgets](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) | partial | 2026-09-11T14:55:34Z | registry-derived |
+| [wxWidgets/wxWidgets](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) | partial | 2026-09-13T12:47:02Z | registry-derived |
 | [xmartlabs/XLPagerTabStrip](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) | partial | 2023-11-22T13:34:09Z | registry-derived |
 | [Yalantis/FoldingTabBar.iOS](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) | partial | 2022-06-13T14:56:56Z | registry-derived |
 | [Yalantis/Koloda](../records/cocoa-yalantis-koloda-c5819ab8.md) | partial | 2024-05-29T20:58:30Z | registry-derived |
@@ -445,7 +445,7 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AFNetworking](../records/cocoa-afnetworking-c33f66f5.md) | 4.0.1 | 2020-04-20 02:25:51 UTC | registry-derived |
-| [Alamofire/Alamofire](../records/cocoa-alamofire-alamofire-e2b01e1d.md) | partial | 2026-09-10T01:44:50Z | registry-derived |
+| [Alamofire/Alamofire](../records/cocoa-alamofire-alamofire-e2b01e1d.md) | partial | 2026-09-13T06:45:44Z | registry-derived |
 | [ChangbaDevs/KTVHTTPCache](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) | partial | 2025-09-04T06:54:40Z | registry-derived |
 | [ChiliLabs/CHIPageControl](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) | partial | 2023-05-22T02:43:41Z | registry-derived |
 | [dustturtle/RealReachability](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) | partial | 2026-04-29T06:58:35Z | registry-derived |

@@ -40,9 +40,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | The Unlicense; https://api.github.com/licenses/unlicense; {"key": "", "name": "", "url": ""} |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-07 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "developer magazine", "retrieved": "2026-09-07", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "developer magazine", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
 
 </details>
 
@@ -80,11 +80,11 @@ Evidence records merged into this identity: `1`.
 | 2KAbhishek/tdo.nvim | Ide Editor Integration | [open](magazines-2kabhishek-tdo-nvim-8ea68e09.md) |
 | anvayeem-spec/personal_portfolio | Ide Editor Integration | [open](magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
 | appml/neutrinote | Ide Editor Integration | [open](magazines-appml-neutrinote-0348cb9f.md) |
+| Aryan-Kr-Yadav/Aryan-Portfolio | Ide Editor Integration | [open](magazines-aryan-kr-yadav-aryan-portfolio-d60c3943.md) |
 | ATOSHI-ORG/atoshi-docs | Ide Editor Integration | [open](magazines-atoshi-org-atoshi-docs-f8974b72.md) |
 | aviaryan/VSCodeNotebook | Ide Editor Integration | [open](magazines-aviaryan-vscodenotebook-49fbf0bb.md) |
 | Baroshem/nuxt-newsletter | Ide Editor Integration | [open](magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
 | braziljs/weekly | Ide Editor Integration | [open](magazines-braziljs-weekly-013dd57e.md) |
-| business-science/free_r_tips | Ide Editor Integration | [open](magazines-business-science-free-r-tips-64f5375c.md) |
 
 ## Category Index
 
@@ -95,7 +95,7 @@ Evidence records merged into this identity: `1`.
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · **[Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)**
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · **[Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)**
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)

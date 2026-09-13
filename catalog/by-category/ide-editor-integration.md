@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1515`
+Records: `1516`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `1515`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1515)](ide-editor-integration.md)**
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · **[Ide Editor Integration (1516)](ide-editor-integration.md)**
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
@@ -694,7 +694,7 @@ Records: `1515`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-11T08:35:06Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-13T11:34:11Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-13T13:08:53Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-13T12:18:30Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-13T12:13:18Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -1513,6 +1513,7 @@ Records: `1515`
 | 2KAbhishek/tdo.nvim | partial | 2025-11-20T06:13:22Z | [open](../records/magazines-2kabhishek-tdo-nvim-8ea68e09.md) |
 | anvayeem-spec/personal_portfolio | partial | 2026-08-07T14:35:04Z | [open](../records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) |
 | appml/neutrinote | unknown | github_search_does_not_include_release_date | [open](../records/magazines-appml-neutrinote-0348cb9f.md) |
+| Aryan-Kr-Yadav/Aryan-Portfolio | partial | 2026-09-12T23:14:51Z | [open](../records/magazines-aryan-kr-yadav-aryan-portfolio-d60c3943.md) |
 | ATOSHI-ORG/atoshi-docs | partial | 2026-07-21T18:08:03Z | [open](../records/magazines-atoshi-org-atoshi-docs-f8974b72.md) |
 | aviaryan/VSCodeNotebook | partial | 2023-08-16T09:54:44Z | [open](../records/magazines-aviaryan-vscodenotebook-49fbf0bb.md) |
 | Baroshem/nuxt-newsletter | partial | 2023-04-23T21:25:37Z | [open](../records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) |
@@ -1728,7 +1729,7 @@ Records: `1515`
 | aminueza/terraform-provider-minio | partial | 2026-09-11T21:08:40Z | [open](../records/databases-aminueza-terraform-provider-minio-a2f5a8be.md) |
 | baztian/jaydebeapi | partial | 2024-07-03T11:26:59Z | [open](../records/databases-baztian-jaydebeapi-dc2ab2ed.md) |
 | bytedance/bitsail | partial | 2024-01-01T15:59:00Z | [open](../records/databases-bytedance-bitsail-ee54726e.md) |
-| chartdb/chartdb | partial | 2026-09-07T01:04:22Z | [open](../records/databases-chartdb-chartdb-227bd0d2.md) |
+| chartdb/chartdb | partial | 2026-09-13T08:43:19Z | [open](../records/databases-chartdb-chartdb-227bd0d2.md) |
 | cooperl22/laravel-db2 | partial | 2024-03-13T12:41:31Z | [open](../records/databases-cooperl22-laravel-db2-7e6a4b52.md) |
 | Dailin521/codex-provider-sync | partial | 2026-09-11T17:13:37Z | [open](../records/databases-dailin521-codex-provider-sync-805d5bca.md) |
 | DataGrip | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datagrip-eadfb401.md) |

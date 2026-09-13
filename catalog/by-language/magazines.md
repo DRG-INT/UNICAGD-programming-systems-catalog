@@ -1,6 +1,6 @@
 # Magazines
 
-Records: `341`
+Records: `342`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `341`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
@@ -227,6 +227,7 @@ Records: `341`
 | [2KAbhishek/tdo.nvim](../records/magazines-2kabhishek-tdo-nvim-8ea68e09.md) | partial | 2025-11-20T06:13:22Z | registry-derived |
 | [anvayeem-spec/personal_portfolio](../records/magazines-anvayeem-spec-personal-portfolio-c313c07f.md) | partial | 2026-08-07T14:35:04Z | registry-derived |
 | [appml/neutrinote](../records/magazines-appml-neutrinote-0348cb9f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
+| [Aryan-Kr-Yadav/Aryan-Portfolio](../records/magazines-aryan-kr-yadav-aryan-portfolio-d60c3943.md) | partial | 2026-09-12T23:14:51Z | registry-derived |
 | [ATOSHI-ORG/atoshi-docs](../records/magazines-atoshi-org-atoshi-docs-f8974b72.md) | partial | 2026-07-21T18:08:03Z | registry-derived |
 | [aviaryan/VSCodeNotebook](../records/magazines-aviaryan-vscodenotebook-49fbf0bb.md) | partial | 2023-08-16T09:54:44Z | registry-derived |
 | [Baroshem/nuxt-newsletter](../records/magazines-baroshem-nuxt-newsletter-d3e6f5cd.md) | partial | 2023-04-23T21:25:37Z | registry-derived |
@@ -361,7 +362,7 @@ Records: `341`
 | [ElliotKillick/rss2newsletter](../records/magazines-elliotkillick-rss2newsletter-2594c02c.md) | partial | 2024-08-17T08:14:27Z | registry-derived |
 | [fcakyon/phd-skills](../records/magazines-fcakyon-phd-skills-152d55ed.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [imsoumya18/upsc_bot](../records/magazines-imsoumya18-upsc-bot-45ae1b79.md) | partial | 2024-03-07T03:20:59Z | registry-derived |
-| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-12T09:51:54Z | registry-derived |
+| [kotlin-digest/weekly](../records/magazines-kotlin-digest-weekly-a20aa634.md) | partial | 2026-09-13T10:51:25Z | registry-derived |
 | [kujian/frontendDaily](../records/magazines-kujian-frontenddaily-cd11d2ae.md) | partial | 2026-08-11T13:28:03Z | registry-derived |
 | [mindori/linkpress](../records/magazines-mindori-linkpress-ed13907c.md) | partial | 2026-02-01T17:56:40Z | registry-derived |
 | [OutreachStud-io/studio](../records/magazines-outreachstud-io-studio-9a231d39.md) | partial | 2026-08-28T22:59:22Z | registry-derived |
@@ -496,7 +497,7 @@ Records: `341`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Abdo-Hussien/Magazine-System](../records/magazines-abdo-hussien-magazine-system-99fd7e1b.md) | partial | 2025-06-29T15:48:21Z | registry-derived |
-| [api-evangelist/vox-media](../records/magazines-api-evangelist-vox-media-808b1be2.md) | partial | 2026-09-04T20:24:39Z | registry-derived |
+| [api-evangelist/vox-media](../records/magazines-api-evangelist-vox-media-808b1be2.md) | partial | 2026-09-12T21:41:46Z | registry-derived |
 | [ayushi7rawat/Ultimate-Python-Resource-Hub](../records/magazines-ayushi7rawat-ultimate-python-resource-hub-7be0a988.md) | partial | 2022-12-13T11:16:50Z | registry-derived |
 | [bahdotsh/blogr](../records/magazines-bahdotsh-blogr-a26c09e7.md) | partial | 2026-06-08T09:11:47Z | registry-derived |
 | [bindthegap/bindthegap.github.io](../records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) | partial | 2021-01-11T13:58:50Z | registry-derived |
@@ -527,7 +528,7 @@ Records: `341`
 | [Sandglaz/maktoub](../records/magazines-sandglaz-maktoub-4bc281dd.md) | partial | 2023-01-19T11:17:45Z | registry-derived |
 | [SrirangaDigital/gipa](../records/magazines-srirangadigital-gipa-be5566ac.md) | partial | 2024-06-06T09:31:07Z | registry-derived |
 | [stefanbc/Asgar](../records/magazines-stefanbc-asgar-0b7791d7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-12T18:33:28Z | registry-derived |
+| [stlin256/OpenHomepage-V2](../records/magazines-stlin256-openhomepage-v2-7462e2f1.md) | partial | 2026-09-13T06:27:12Z | registry-derived |
 | [superleeyom/my-feed-OPML](../records/magazines-superleeyom-my-feed-opml-7829b043.md) | partial | 2023-05-24T01:44:56Z | registry-derived |
 | [SwiftWeekly/swiftweekly.github.io](../records/magazines-swiftweekly-swiftweekly-github-io-8f5db8c4.md) | partial | 2023-03-26T17:24:38Z | registry-derived |
 | [TryGhost/Alto](../records/magazines-tryghost-alto-4eb3cc9f.md) | unknown | github_search_does_not_include_release_date | registry-derived |

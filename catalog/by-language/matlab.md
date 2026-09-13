@@ -15,7 +15,7 @@ Records: `287`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (115)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1515)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
@@ -198,7 +198,7 @@ Records: `287`
 | [Mayankm96/Stereo-Odometry-SOFT](../records/matlab-mayankm96-stereo-odometry-soft-c49a2549.md) | partial | 2018-11-23T17:37:38Z | registry-derived |
 | [MeowLucian/SDR_Matlab_OFDM_802.11a](../records/matlab-meowlucian-sdr-matlab-ofdm-802-11a-5ed3430a.md) | partial | 2018-04-07T01:23:52Z | registry-derived |
 | [mikeroyal/MATLAB-Guide](../records/matlab-mikeroyal-matlab-guide-ce86917d.md) | partial | 2022-04-03T19:04:46Z | registry-derived |
-| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-13T10:05:54Z | registry-derived |
+| [mohammadrezwankhan/matlab-simulink-energy-lab](../records/matlab-mohammadrezwankhan-matlab-simulink-energy-lab-1613dbf1.md) | partial | 2026-09-13T12:27:31Z | registry-derived |
 | [moranzcw/AndrewNg-Machine-Learning-NOTES](../records/matlab-moranzcw-andrewng-machine-learning-notes-4a3f9206.md) | partial | 2018-12-11T16:22:09Z | registry-derived |
 | [morriswmz/doa-tools](../records/matlab-morriswmz-doa-tools-1d8c8495.md) | partial | 2018-11-07T20:47:45Z | registry-derived |
 | [mtex-toolbox/mtex](../records/matlab-mtex-toolbox-mtex-c19e6fb8.md) | partial | 2026-09-11T13:11:30Z | registry-derived |

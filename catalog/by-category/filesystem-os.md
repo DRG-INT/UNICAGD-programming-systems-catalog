@@ -15,7 +15,7 @@ Records: `1720`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1720)](filesystem-os.md)** · [Formatter (670)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · [Library (6137)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
@@ -1799,7 +1799,7 @@ Records: `1720`
 | CodeEditApp/CodeEdit | partial | 2026-08-18T21:24:35Z | [open](../records/swift-codeeditapp-codeedit-88d3a878.md) |
 | CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
 | darrylmorley/whatcable | partial | 2026-09-11T15:12:43Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-12T16:24:35Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-13T13:02:23Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
 | duongductrong/Snapzy | partial | 2026-09-12T05:09:29Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
 | eleev/ios-learning-materials | partial | 2026-08-18T18:26:29Z | [open](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
@@ -1880,7 +1880,7 @@ Records: `1720`
 | Countly | 26.1.0 | 2026-02-18 14:12:24 UTC | [open](../records/cocoa-countly-2297ca5c.md) |
 | Danie1s/Tiercel | partial | 2026-08-24T16:54:29Z | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
 | DarielChen/iOSTips | partial | 2020-10-19T07:14:11Z | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-12T16:24:35Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-13T13:02:23Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
 | DrawKit/DrawKit | partial | 2023-03-13T12:23:46Z | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
 | dusty-commits/Closures | partial | 2021-04-29T15:34:36Z | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
 | FluidGroup/NextGrowingTextView | partial | 2026-08-21T18:15:48Z | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |
@@ -1932,7 +1932,7 @@ Records: `1720`
 | WAAppRouting | 0.0.5 | 2015-11-13T01:24:41Z | [open](../records/cocoa-waapprouting-28d367e4.md) |
 | WenchaoD/FSCalendar | partial | 2024-08-10T13:44:15Z | [open](../records/cocoa-wenchaod-fscalendar-a94a6797.md) |
 | wmcmahan/react-native-calendar-events | partial | 2026-01-05T21:09:47Z | [open](../records/cocoa-wmcmahan-react-native-calendar-events-387e0782.md) |
-| wxWidgets/wxWidgets | partial | 2026-09-11T14:55:34Z | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
+| wxWidgets/wxWidgets | partial | 2026-09-13T12:47:02Z | [open](../records/cocoa-wxwidgets-wxwidgets-d7c0778b.md) |
 | xmartlabs/XLPagerTabStrip | partial | 2023-11-22T13:34:09Z | [open](../records/cocoa-xmartlabs-xlpagertabstrip-9d461d1f.md) |
 | Yalantis/FoldingTabBar.iOS | partial | 2022-06-13T14:56:56Z | [open](../records/cocoa-yalantis-foldingtabbar-ios-6790d432.md) |
 | Yalantis/Koloda | partial | 2024-05-29T20:58:30Z | [open](../records/cocoa-yalantis-koloda-c5819ab8.md) |
