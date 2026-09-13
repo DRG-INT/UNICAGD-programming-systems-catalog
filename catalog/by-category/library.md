@@ -1,6 +1,6 @@
 # Library
 
-Records: `6137`
+Records: `6139`
 
 ## Navigation
 
@@ -8,7 +8,7 @@ Records: `6137`
 
 ## Category Index
 
-[Api Abi Checker (236)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (237)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1041)](build-system.md) · [Cli (602)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (27)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
@@ -17,12 +17,12 @@ Records: `6137`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1720)](filesystem-os.md) · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (450)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6137)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1472)](language-specification.md) · **[Library (6139)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (680)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (681)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (651)](testing-framework.md) · [Tutorial Book Styleguide (75)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
@@ -1906,7 +1906,7 @@ Records: `6137`
 | unindent | 0.2.4 | 2025-03-03T23:32:26.449483Z | [open](../records/rust-unindent-ca4e7bb2.md) |
 | unreachable | 1.0.0 | 2017-05-09T20:54:44.587632Z | [open](../records/rust-unreachable-1acc7172.md) |
 | unsigned-varint | 0.8.0 | 2023-11-01T17:52:24.337696Z | [open](../records/rust-unsigned-varint-d777618d.md) |
-| ureq-proto | 0.6.2 | 2026-09-06T09:53:37.032944Z | [open](../records/rust-ureq-proto-d61deb16.md) |
+| ureq-proto | 0.6.3 | 2026-09-13T13:08:39.031889Z | [open](../records/rust-ureq-proto-d61deb16.md) |
 | urlencoding | 2.1.3 | 2023-07-21T15:12:17.534094Z | [open](../records/rust-urlencoding-11bccc4a.md) |
 | usvg | 0.48.1 | 2026-08-02T14:13:55.187963Z | [open](../records/rust-usvg-aec2b708.md) |
 | utf-8 | 0.7.6 | 2021-04-16T14:55:34.691346Z | [open](../records/rust-utf-8-8c966d20.md) |
@@ -3707,6 +3707,7 @@ Records: `6137`
 | hnix | 0.17.0 | 2023-11-20T21:56:55Z | [open](../records/haskell-hnix-c2074b72.md) |
 | hoauth2 | 2.15.2 | 2026-08-10T05:11:12Z | [open](../records/haskell-hoauth2-37ba6e12.md) |
 | holeyexp | 0.3.0.2 | 2026-09-10T20:09:12Z | [open](../records/haskell-holeyexp-db5dc519.md) |
+| holidays | 0.4.0.1 | 2026-09-13T13:14:57Z | [open](../records/haskell-holidays-31df113d.md) |
 | hoogle | 5.0.19.0 | 2026-01-19T20:38:58Z | [open](../records/haskell-hoogle-972b6dba.md) |
 | hoopl | 3.10.2.2 | 2017-10-29T03:38:52Z | [open](../records/haskell-hoopl-0b4ca46a.md) |
 | hOpenPGP | 3.7.1 | 2026-09-10T16:41:24Z | [open](../records/haskell-hopenpgp-dbd93565.md) |
@@ -4138,6 +4139,7 @@ Records: `6137`
 | snap | 1.1.3.3 | 2023-10-23T17:15:56Z | [open](../records/haskell-snap-cbca65a0.md) |
 | snap-core | 1.0.5.1 | 2023-02-10T21:32:56Z | [open](../records/haskell-snap-core-866c653a.md) |
 | soap | 0.2.3.6 | 2018-03-16T13:34:30Z | [open](../records/haskell-soap-181dbbb6.md) |
+| solana-haskell-sdk | 1.3.0.0 | 2026-09-13T13:55:41Z | [open](../records/haskell-solana-haskell-sdk-15c481f5.md) |
 | som | 10.1.11 | 2021-08-18T17:05:28Z | [open](../records/haskell-som-fbc6774e.md) |
 | some | 1.1 | 2026-05-10T17:20:15Z | [open](../records/haskell-some-9723eb72.md) |
 | sorted-list | 0.3.1.0 | 2025-03-25T12:39:13Z | [open](../records/haskell-sorted-list-b2a91da8.md) |
@@ -5421,7 +5423,7 @@ Records: `6137`
 | 7gxycn08/PyAutoActions | partial | 2026-09-05T20:37:00Z | [open](../records/photography-7gxycn08-pyautoactions-6830a146.md) |
 | afgprogrammer/Flutter-Photography-Application | partial | 2023-11-28T13:23:46Z | [open](../records/photography-afgprogrammer-flutter-photography-application-53b42786.md) |
 | aheze/OpenFind | partial | 2023-02-10T01:10:12Z | [open](../records/photography-aheze-openfind-d5016eff.md) |
-| alyssaxuu/screenity | partial | 2026-09-05T17:12:39Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
+| alyssaxuu/screenity | partial | 2026-09-13T14:02:29Z | [open](../records/photography-alyssaxuu-screenity-3dcd34af.md) |
 | andyzg/gallery | partial | 2024-05-24T19:43:17Z | [open](../records/photography-andyzg-gallery-707abac1.md) |
 | AravisProject/aravis | partial | 2026-08-29T18:14:26Z | [open](../records/photography-aravisproject-aravis-a9a12b71.md) |
 | ardov/hdr-web | partial | 2026-05-22T14:13:56Z | [open](../records/photography-ardov-hdr-web-cd66c2b2.md) |
@@ -5433,7 +5435,7 @@ Records: `6137`
 | cdcseacave/TinyEXIF | partial | 2026-08-23T08:51:46Z | [open](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
 | colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
-| commons-app/apps-android-commons | partial | 2026-09-12T17:35:28Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
+| commons-app/apps-android-commons | partial | 2026-09-13T13:57:03Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
 | crazycodeboy/TakePhoto | partial | 2019-08-26T09:42:27Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | dearDreamWeb/camera-watermark | partial | 2026-04-20T14:12:10Z | [open](../records/photography-deardreamweb-camera-watermark-f0af2ad8.md) |
 | dorukkumkumoglu/optocamzero | partial | 2026-08-16T08:16:43Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |

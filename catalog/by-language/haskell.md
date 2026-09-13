@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1737`
+Records: `1740`
 
 ## Navigation
 
@@ -8,7 +8,7 @@ Records: `1737`
 
 ## Category Index
 
-[Api Abi Checker (236)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
@@ -17,12 +17,12 @@ Records: `1737`
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1720)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (63)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6137)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6139)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (864)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (680)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (681)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (75)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1665)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
@@ -930,6 +930,7 @@ Records: `1737`
 | [hnix](../records/haskell-hnix-c2074b72.md) | 0.17.0 | 2023-11-20T21:56:55Z | registry-derived |
 | [hoauth2](../records/haskell-hoauth2-37ba6e12.md) | 2.15.2 | 2026-08-10T05:11:12Z | registry-derived |
 | [holeyexp](../records/haskell-holeyexp-db5dc519.md) | 0.3.0.2 | 2026-09-10T20:09:12Z | registry-derived |
+| [holidays](../records/haskell-holidays-31df113d.md) | 0.4.0.1 | 2026-09-13T13:14:57Z | registry-derived |
 | [hoogle](../records/haskell-hoogle-972b6dba.md) | 5.0.19.0 | 2026-01-19T20:38:58Z | registry-derived |
 | [hoopl](../records/haskell-hoopl-0b4ca46a.md) | 3.10.2.2 | 2017-10-29T03:38:52Z | registry-derived |
 | [hOpenPGP](../records/haskell-hopenpgp-dbd93565.md) | 3.7.1 | 2026-09-10T16:41:24Z | registry-derived |
@@ -1361,6 +1362,7 @@ Records: `1737`
 | [snap](../records/haskell-snap-cbca65a0.md) | 1.1.3.3 | 2023-10-23T17:15:56Z | registry-derived |
 | [snap-core](../records/haskell-snap-core-866c653a.md) | 1.0.5.1 | 2023-02-10T21:32:56Z | registry-derived |
 | [soap](../records/haskell-soap-181dbbb6.md) | 0.2.3.6 | 2018-03-16T13:34:30Z | registry-derived |
+| [solana-haskell-sdk](../records/haskell-solana-haskell-sdk-15c481f5.md) | 1.3.0.0 | 2026-09-13T13:55:41Z | registry-derived |
 | [som](../records/haskell-som-fbc6774e.md) | 10.1.11 | 2021-08-18T17:05:28Z | registry-derived |
 | [some](../records/haskell-some-9723eb72.md) | 1.1 | 2026-05-10T17:20:15Z | registry-derived |
 | [sorted-list](../records/haskell-sorted-list-b2a91da8.md) | 0.3.1.0 | 2025-03-25T12:39:13Z | registry-derived |
@@ -1885,6 +1887,7 @@ Records: `1737`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
+| [dhscanner-kbapi](../records/haskell-dhscanner-kbapi-560b5666.md) | 1.0.6 | 2026-09-13T13:30:14Z | registry-derived |
 | [dhscanner-kbgen](../records/haskell-dhscanner-kbgen-81d7d915.md) | 1.3.0 | 2026-08-29T13:22:19Z | registry-derived |
 | [ethereum-analyzer](../records/haskell-ethereum-analyzer-919d0df7.md) | 3.3.4 | 2017-12-25T23:31:58Z | registry-derived |
 | [ethereum-analyzer-deps](../records/haskell-ethereum-analyzer-deps-0fa0e117.md) | 3.3.4 | 2017-12-25T23:32:25Z | registry-derived |
