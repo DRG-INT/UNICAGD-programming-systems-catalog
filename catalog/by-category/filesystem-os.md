@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1718`
+Records: `1720`
 
 ## Navigation
 
@@ -14,16 +14,16 @@ Records: `1718`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (981)](database-datastore.md) · [Datetime (254)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (45)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (115)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1718)](filesystem-os.md)** · [Formatter (670)](formatter.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1720)](filesystem-os.md)** · [Formatter (670)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (63)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1515)](ide-editor-integration.md)
-[Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (289)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6118)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (449)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1471)](language-specification.md) · [Library (6132)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (864)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (103)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1242)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1243)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (678)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (73)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (679)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (650)](testing-framework.md) · [Tutorial Book Styleguide (74)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
 [Undefined Behavior Analyzer (1665)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
@@ -480,6 +480,7 @@ Records: `1718`
 | gloss-examples | 1.13.0.4 | 2022-03-20T08:45:24Z | [open](../records/haskell-gloss-examples-367806ce.md) |
 | hie-bios | 0.21.0 | 2026-07-30T14:41:11Z | [open](../records/haskell-hie-bios-c5d727df.md) |
 | hosc | 0.21.1 | 2025-01-15T20:10:46Z | [open](../records/haskell-hosc-f4c10da5.md) |
+| hpath | 0.12.1 | 2021-03-08T13:59:14Z | [open](../records/haskell-hpath-60b4699f.md) |
 | jose | 0.13 | 2026-06-06T14:52:11Z | [open](../records/haskell-jose-6857ae66.md) |
 | jose-jwt | 0.11.0 | 2026-07-26T12:55:17Z | [open](../records/haskell-jose-jwt-6e66bebf.md) |
 | mattermost-api | 90000.1.1 | 2025-10-08T16:34:59Z | [open](../records/haskell-mattermost-api-5371c4c1.md) |
@@ -489,6 +490,7 @@ Records: `1718`
 | path | 0.9.6 | 2024-08-11T12:45:58Z | [open](../records/haskell-path-96670e62.md) |
 | path-extra | 0.3.1 | 2023-10-02T10:05:29Z | [open](../records/haskell-path-extra-b78fb2a0.md) |
 | path-io | 1.8.2 | 2024-05-20T08:12:23Z | [open](../records/haskell-path-io-892a5504.md) |
+| Pathfinder | 0.5.10 | 2011-12-01T14:04:42Z | [open](../records/haskell-pathfinder-781284d6.md) |
 | PenroseKiteDart | 1.10.1 | 2026-09-06T15:03:47Z | [open](../records/haskell-penrosekitedart-fee1bf50.md) |
 | regex-posix | 0.96.0.2 | 2025-03-02T11:16:13Z | [open](../records/haskell-regex-posix-7b5a5d6c.md) |
 | rhine-gloss | 1.8 | 2026-06-07T22:07:58Z | [open](../records/haskell-rhine-gloss-c88c36c2.md) |
@@ -1105,7 +1107,7 @@ Records: `1718`
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
 | hmans/composer-suite | partial | 2026-02-27T15:45:58Z | [open](../records/effects-hmans-composer-suite-79097285.md) |
 | hughsk/voxel-colorist | partial | 2013-03-02T03:56:56Z | [open](../records/effects-hughsk-voxel-colorist-4f0cd027.md) |
-| hyprwm/Hyprland | partial | 2026-09-10T13:28:24Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
+| hyprwm/Hyprland | partial | 2026-09-12T19:32:17Z | [open](../records/effects-hyprwm-hyprland-ab213774.md) |
 | ianmartinez/laikawm | partial | 2020-10-01T14:34:19Z | [open](../records/effects-ianmartinez-laikawm-c3e8d5aa.md) |
 | iBicha/ImageEffectGraph | partial | 2021-04-06T21:10:05Z | [open](../records/effects-ibicha-imageeffectgraph-726f4f7e.md) |
 | icanzilb/UIEffectDesignerView | partial | 2013-03-31T13:13:33Z | [open](../records/effects-icanzilb-uieffectdesignerview-53a5eac9.md) |
@@ -1134,7 +1136,7 @@ Records: `1718`
 | keshto/tinywl_plus | partial | 2023-04-10T09:53:42Z | [open](../records/effects-keshto-tinywl-plus-81645720.md) |
 | kevinraymond/fosfora | partial | 2026-08-25T18:06:30Z | [open](../records/effects-kevinraymond-fosfora-abca78d3.md) |
 | klange/toaru-nih | partial | 2018-10-06T12:11:01Z | [open](../records/effects-klange-toaru-nih-87098692.md) |
-| klange/toaruos | partial | 2026-09-11T05:14:39Z | [open](../records/effects-klange-toaruos-177b4062.md) |
+| klange/toaruos | partial | 2026-09-12T05:22:53Z | [open](../records/effects-klange-toaruos-177b4062.md) |
 | KonradIT/gopro-linux | partial | 2024-08-11T16:30:35Z | [open](../records/effects-konradit-gopro-linux-8d431adf.md) |
 | KorinDev/Godot-Post-Process-Plugin | partial | 2025-06-05T07:56:05Z | [open](../records/effects-korindev-godot-post-process-plugin-7b4fccc0.md) |
 | kylebueche/compositor | partial | 2026-02-02T08:34:18Z | [open](../records/effects-kylebueche-compositor-53bcb2a4.md) |
@@ -1147,7 +1149,7 @@ Records: `1718`
 | luisnquin/battery-notifier | partial | 2026-06-13T04:07:29Z | [open](../records/effects-luisnquin-battery-notifier-63a8347b.md) |
 | malbiruk/driftwm | partial | 2026-09-06T14:53:57Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | Malidos/Stylized-Water-Shader | partial | 2024-12-11T15:47:23Z | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
-| mangowm/mango | partial | 2026-09-12T00:00:45Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
+| mangowm/mango | partial | 2026-09-12T14:39:57Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
 | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | partial | 2019-06-05T19:15:07Z | [open](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
 | marinho/godot-visual-effects | partial | 2024-01-01T12:51:46Z | [open](../records/effects-marinho-godot-visual-effects-9a6af611.md) |
 | martinber/noaa-apt | partial | 2024-02-10T15:41:50Z | [open](../records/effects-martinber-noaa-apt-cd098cc9.md) |
@@ -1187,7 +1189,7 @@ Records: `1718`
 | QianMo/X-PostProcessing-Library | partial | 2023-07-14T17:42:11Z | [open](../records/effects-qianmo-x-postprocessing-library-3834f7d5.md) |
 | radoslawregula/reverb-algorithms | partial | 2020-02-09T11:12:27Z | [open](../records/effects-radoslawregula-reverb-algorithms-0f4a1d2f.md) |
 | ralgar/vkShade | partial | 2026-09-09T00:56:00Z | [open](../records/effects-ralgar-vkshade-027f2833.md) |
-| rcalixte/awesome-wayland | partial | 2026-09-05T17:56:05Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
+| rcalixte/awesome-wayland | partial | 2026-09-12T18:50:16Z | [open](../records/effects-rcalixte-awesome-wayland-4cc39bd2.md) |
 | robclouth/noise-canvas | partial | 2026-08-25T09:29:49Z | [open](../records/effects-robclouth-noise-canvas-171ca6d8.md) |
 | rockbite/talos | partial | 2026-08-18T11:17:42Z | [open](../records/effects-rockbite-talos-07105463.md) |
 | ruofeidu/MyShadertoy | partial | 2017-11-13T21:25:28Z | [open](../records/effects-ruofeidu-myshadertoy-a20635d7.md) |
@@ -1312,11 +1314,11 @@ Records: `1718`
 | aiff22/PyNET-PyTorch | partial | 2025-08-23T12:56:55Z | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
 | AlkaidLab/foundation-sunshine | partial | 2026-09-11T09:32:52Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
 | Apparence-io/CamerAwesome | partial | 2026-04-08T20:22:58Z | [open](../records/photography-apparence-io-camerawesome-6dfa91a5.md) |
-| ashesbloom/LocalLens | partial | 2026-09-12T19:04:21Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
+| ashesbloom/LocalLens | partial | 2026-09-12T21:00:08Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-12T14:06:17Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-12T23:03:00Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-11T13:20:57Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1332,7 +1334,7 @@ Records: `1718`
 | feloex/GoogleTakeoutFixer | partial | 2026-05-02T19:22:10Z | [open](../records/photography-feloex-googletakeoutfixer-ab28bf0f.md) |
 | GEEKiDoS/bitblt-hdr | partial | 2026-05-14T04:13:50Z | [open](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) |
 | gergelysanta/PhotoMiner | partial | 2025-02-09T13:08:04Z | [open](../records/photography-gergelysanta-photominer-7d3deb74.md) |
-| HaishinKit/HaishinKit.swift | partial | 2026-08-30T12:17:41Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
+| HaishinKit/HaishinKit.swift | partial | 2026-09-13T00:02:43Z | [open](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) |
 | hanatos/vkdt | partial | 2026-09-12T17:21:58Z | [open](../records/photography-hanatos-vkdt-673c0f96.md) |
 | hulk66/timeline | unknown | github_search_does_not_include_release_date | [open](../records/photography-hulk66-timeline-edac6d56.md) |
 | indulgeIn/YBImageBrowser | partial | 2023-11-24T10:57:58Z | [open](../records/photography-indulgein-ybimagebrowser-e5a55591.md) |
@@ -1369,7 +1371,7 @@ Records: `1718`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-12T14:28:29Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T00:14:05Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy
