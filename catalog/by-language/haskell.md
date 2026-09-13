@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1740`
+Records: `1742`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `1740`
 ## Category Index
 
 [Api Abi Checker (237)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (602)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1041)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (254)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (45)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (670)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (65)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (450)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6139)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1472)](../by-category/language-specification.md) · [Library (6145)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (866)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1243)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (681)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (651)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (652)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1666)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
@@ -84,6 +84,7 @@ Records: `1740`
 | [ansi-terminal-game](../records/haskell-ansi-terminal-game-a0833edf.md) | 1.9.4.0 | 2026-05-27T12:57:31Z | registry-derived |
 | [commander-cli](../records/haskell-commander-cli-d49d9b59.md) | 0.11.0.0 | 2023-01-17T16:51:29Z | registry-derived |
 | [kioku-cli](../records/haskell-kioku-cli-1c907a92.md) | 0.6.0.0 | 2026-09-08T20:45:30Z | registry-derived |
+| [okf-cli](../records/haskell-okf-cli-6db274d3.md) | 0.9.0.0 | 2026-09-13T15:37:30Z | registry-derived |
 | [pandoc-cli](../records/haskell-pandoc-cli-85f047c4.md) | 3.11 | 2026-08-29T00:44:05Z | registry-derived |
 | [prettyprinter-ansi-terminal](../records/haskell-prettyprinter-ansi-terminal-f8e428da.md) | 1.1.4 | 2026-04-28T13:43:04Z | registry-derived |
 | [seihou-cli](../records/haskell-seihou-cli-27b5e8d8.md) | 0.8.0.0 | 2026-09-10T20:08:32Z | registry-derived |
@@ -1147,6 +1148,7 @@ Records: `1740`
 | [o-clock](../records/haskell-o-clock-f890769a.md) | 1.4.0.1 | 2025-01-22T22:14:20Z | registry-derived |
 | [octane](../records/haskell-octane-e0373ee1.md) | 0.20.3 | 2017-10-24T13:56:12Z | registry-derived |
 | [oeis](../records/haskell-oeis-6573c6d5.md) | 0.3.10.2 | 2026-03-15T16:45:35Z | registry-derived |
+| [okf-core](../records/haskell-okf-core-e6ee8554.md) | 0.9.0.0 | 2026-09-13T15:28:53Z | registry-derived |
 | [om-plugin-imports](../records/haskell-om-plugin-imports-67812e4f.md) | 0.4.2.0.9.14 | 2026-06-26T19:40:58Z | registry-derived |
 | [one-liner](../records/haskell-one-liner-410c9444.md) | 2.1.1 | 2026-01-06T16:00:46Z | registry-derived |
 | [OneTuple](../records/haskell-onetuple-91e34ca7.md) | 0.4.3 | 2026-05-08T12:25:37Z | registry-derived |
