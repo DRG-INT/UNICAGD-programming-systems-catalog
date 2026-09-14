@@ -40,7 +40,7 @@ part of diagnostics, metrics, auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT No Attribution; https://api.github.com/licenses/mit-0 |
+| Evidence | MIT No Attribution; https://api.github.com/licenses/mit-0 |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ part of diagnostics, metrics, auditability, tracing, and incident response.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:data-catalog stars:>50", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:data-catalog stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

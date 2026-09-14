@@ -40,7 +40,7 @@ part of language tooling, code generation, static analysis, and source transform
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; MIT License; https://api.github.com/licenses/mit |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

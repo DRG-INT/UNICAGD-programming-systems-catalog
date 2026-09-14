@@ -377,7 +377,7 @@ Records: `378`
 | Escartem/GenshinTextures | partial | 2023-02-28T11:20:21Z | [open](../records/assets-escartem-genshintextures-e0aff47b.md) |
 | felladrin/game-development-resources-list | partial | 2021-07-09T22:22:14Z | [open](../records/assets-felladrin-game-development-resources-list-6087f418.md) |
 | fourgames/resources | partial | 2026-04-23T20:45:54Z | [open](../records/assets-fourgames-resources-96067fd2.md) |
-| harfbuzz/harfbuzz | partial | 2026-09-11T04:19:50Z | [open](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
+| harfbuzz/harfbuzz | partial | 2026-09-14T11:09:00Z | [open](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
 | hec-ovi/text-to-3D-skill | partial | 2026-07-28T15:44:23Z | [open](../records/assets-hec-ovi-text-to-3d-skill-3ef6fa92.md) |
 | kristiker/source1import | partial | 2025-02-28T12:55:47Z | [open](../records/assets-kristiker-source1import-382cf47f.md) |
 | memo-db/pixel-heroes-spine | partial | 2023-03-23T13:36:52Z | [open](../records/assets-memo-db-pixel-heroes-spine-1bf85b13.md) |
@@ -443,7 +443,7 @@ Records: `378`
 | SUSTech-CANStudio/bullet-storm-unity | partial | 2021-04-21T18:51:00Z | [open](../records/effects-sustech-canstudio-bullet-storm-unity-6f9bf2e8.md) |
 | TheRensei/godot_spicyparticlesystem | partial | 2024-04-27T17:21:48Z | [open](../records/effects-therensei-godot-spicyparticlesystem-9cea651b.md) |
 | wass08/wawa-vfx | partial | 2025-09-23T03:54:16Z | [open](../records/effects-wass08-wawa-vfx-5db2d4d3.md) |
-| zenustech/zeno | partial | 2026-09-03T02:51:31Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
+| zenustech/zeno | partial | 2026-09-14T11:09:45Z | [open](../records/effects-zenustech-zeno-c40a1537.md) |
 
 ## Audio
 
@@ -514,7 +514,7 @@ Records: `378`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asciimoo/hister | partial | 2026-09-11T08:03:19Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
+| asciimoo/hister | partial | 2026-09-13T14:14:02Z | [open](../records/catalogs-asciimoo-hister-7dbd60c9.md) |
 | gamedilong/awesome-cn | partial | 2020-01-23T06:56:32Z | [open](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) |
 
 ## Assembly

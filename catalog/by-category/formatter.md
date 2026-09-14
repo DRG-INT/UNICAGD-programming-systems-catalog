@@ -536,7 +536,7 @@ Records: `671`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-08T14:52:43Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -548,7 +548,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T10:21:29Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T11:20:17Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -616,7 +616,7 @@ Records: `671`
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
 | elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
 | fcamarlinghi/expresso | partial | 2025-10-04T13:44:15Z | [open](../records/assets-fcamarlinghi-expresso-80b908f5.md) |
-| fernandotonon/QtMeshEditor | partial | 2026-09-11T21:40:09Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
+| fernandotonon/QtMeshEditor | partial | 2026-09-14T06:47:02Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
 | iZePlayzYT/SuperMarioEclipse-TexturePacks | partial | 2026-06-26T22:41:38Z | [open](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | jtomori/batch_textures_convert | partial | 2022-01-05T20:08:33Z | [open](../records/assets-jtomori-batch-textures-convert-0307606c.md) |
@@ -829,7 +829,7 @@ Records: `671`
 | gabledata/recap | partial | 2025-12-30T22:10:01Z | [open](../records/catalogs-gabledata-recap-0e1817aa.md) |
 | ihsn/nada | partial | 2026-09-11T13:31:51Z | [open](../records/catalogs-ihsn-nada-e8df2a6b.md) |
 | MediaSavvy/MediaSavvy | partial | 2026-08-16T16:39:22Z | [open](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) |
-| opengeos/Earth-Engine-Catalog | partial | 2026-09-12T03:35:50Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
+| opengeos/Earth-Engine-Catalog | partial | 2026-09-14T03:39:43Z | [open](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) |
 | postgrespro/rum | partial | 2026-09-07T12:55:16Z | [open](../records/catalogs-postgrespro-rum-fb7c64d1.md) |
 
 ## Magazines

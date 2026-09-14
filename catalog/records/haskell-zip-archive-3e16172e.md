@@ -32,23 +32,23 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
-| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+| stable | known | 0.4.3.2 | 2024-04-09T16:45:10Z | [https://hackage.haskell.org/package/zip-archive](https://hackage.haskell.org/package/zip-archive) |  |
+| candidate | partial | 0.3.2.6 |  | [https://hackage.haskell.org/package/zip-archive](https://hackage.haskell.org/package/zip-archive) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `compression` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
-- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/zip-archive` at `2026-09-14T11:24:12+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 

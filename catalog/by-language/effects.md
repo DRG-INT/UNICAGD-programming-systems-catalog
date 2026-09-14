@@ -458,7 +458,7 @@ Records: `785`
 | [SUSTech-CANStudio/bullet-storm-unity](../records/effects-sustech-canstudio-bullet-storm-unity-6f9bf2e8.md) | partial | 2021-04-21T18:51:00Z | registry-derived |
 | [TheRensei/godot_spicyparticlesystem](../records/effects-therensei-godot-spicyparticlesystem-9cea651b.md) | partial | 2024-04-27T17:21:48Z | registry-derived |
 | [wass08/wawa-vfx](../records/effects-wass08-wawa-vfx-5db2d4d3.md) | partial | 2025-09-23T03:54:16Z | registry-derived |
-| [zenustech/zeno](../records/effects-zenustech-zeno-c40a1537.md) | partial | 2026-09-03T02:51:31Z | registry-derived |
+| [zenustech/zeno](../records/effects-zenustech-zeno-c40a1537.md) | partial | 2026-09-14T11:09:45Z | registry-derived |
 
 ### Ide Editor Integration
 

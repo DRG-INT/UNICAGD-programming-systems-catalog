@@ -245,14 +245,14 @@ Records: `160`
 | [Arrowstar/ksptot](../records/space-engines-arrowstar-ksptot-0193b8c4.md) | partial | 2026-08-31T15:11:17Z | registry-derived |
 | [astrobook/astrobook](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) | partial | 2021-02-19T07:33:04Z | registry-derived |
 | [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-11T07:11:18Z | registry-derived |
-| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-13T18:45:29Z | registry-derived |
+| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-14T11:21:49Z | registry-derived |
 | [bluescarni/piranha](../records/space-engines-bluescarni-piranha-892e8cb6.md) | partial | 2022-07-06T14:41:33Z | registry-derived |
 | [ChristopherRabotin/smd](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) | partial | 2018-01-18T01:07:09Z | registry-derived |
 | [cisprague/Astro.IQ](../records/space-engines-cisprague-astro-iq-88ee2214.md) | partial | 2022-06-26T08:19:19Z | registry-derived |
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | partial | 2026-09-10T16:42:10Z | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-14T04:10:16Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-14T10:03:26Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | partial | 2026-08-07T13:57:29Z | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-14T04:15:45Z | registry-derived |
@@ -262,7 +262,7 @@ Records: `160`
 | [IO-Aerospace-software-engineering/Astrodynamics](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) | partial | 2026-07-31T19:10:48Z | registry-derived |
 | [jacobwilliams/Fortran-Astrodynamics-Toolkit](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) | partial | 2025-10-29T03:43:23Z | registry-derived |
 | [lizard-isana/orb.js](../records/space-engines-lizard-isana-orb-js-65c97be7.md) | partial | 2026-09-05T23:49:02Z | registry-derived |
-| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-14T06:56:44Z | registry-derived |
+| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-14T11:11:13Z | registry-derived |
 | [MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM-](../records/space-engines-masterogon-aeroacoustic-flying-saucer-oscillating-resonator-cfd-simulation-lbm-88f2724c.md) | partial | 2026-07-27T16:53:55Z | registry-derived |
 | [onekiloparsec/SwiftAA](../records/space-engines-onekiloparsec-swiftaa-dda5a441.md) | partial | 2026-05-31T09:03:53Z | registry-derived |
 | [poliastro/poliastro](../records/space-engines-poliastro-poliastro-bebf5f35.md) | partial | 2023-10-14T15:30:47Z | registry-derived |
@@ -273,7 +273,7 @@ Records: `160`
 | [tamaskis/planet3D-MATLAB](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) | partial | 2023-05-21T01:19:09Z | registry-derived |
 | [TheWand3rer/Universe](../records/space-engines-thewand3rer-universe-b6822711.md) | partial | 2026-06-03T18:28:06Z | registry-derived |
 | [Thomas-Loudis/georb](../records/space-engines-thomas-loudis-georb-83c767a6.md) | partial | 2026-07-24T12:36:11Z | registry-derived |
-| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-14T00:41:13Z | registry-derived |
+| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-14T10:39:32Z | registry-derived |
 | [ut-astria/orbdetpy](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) | partial | 2023-07-05T20:53:31Z | registry-derived |
 | [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-14T04:38:41Z | registry-derived |
 

@@ -79,7 +79,7 @@ Records: `40`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| emirpasic/gods | partial | 2025-03-12T00:01:29Z | [open](../records/go-emirpasic-gods-83b03cfe.md) |
+| emirpasic/gods | unknown | not_a_go_module_path | [open](../records/go-emirpasic-gods-83b03cfe.md) |
 
 ## Transmission Protocols
 
@@ -115,7 +115,7 @@ Records: `40`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| marmotdata/marmot | partial | 2026-09-11T17:03:42Z | [open](../records/catalogs-marmotdata-marmot-bdbf7d59.md) |
+| marmotdata/marmot | partial | 2026-09-13T22:31:53Z | [open](../records/catalogs-marmotdata-marmot-bdbf7d59.md) |
 
 ## Magazines
 

@@ -365,7 +365,7 @@ Records: `561`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-14T09:19:16Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -443,7 +443,7 @@ Records: `561`
 | --- | --- | --- | --- |
 | raphaelhanneken/iconizer | partial | 2023-05-23T19:05:30Z | [open](../records/assets-raphaelhanneken-iconizer-867b9d26.md) |
 | TMHSDigital/Free-Game-Dev-Assets | partial | 2026-09-10T01:46:07Z | [open](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) |
-| unjs/fontaine | partial | 2026-09-11T19:00:23Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
+| unjs/fontaine | partial | 2026-09-14T08:13:13Z | [open](../records/assets-unjs-fontaine-adf8d9fd.md) |
 | vorillaz/devicons | partial | 2026-05-10T21:43:36Z | [open](../records/assets-vorillaz-devicons-ab704e06.md) |
 
 ## Maps

@@ -597,13 +597,13 @@ Records: `1729`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | partial | 2026-09-10T17:17:50Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-14T10:10:16Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -840,7 +840,7 @@ Records: `1729`
 | ppy/osu-resources | partial | 2026-09-10T09:44:39Z | [open](../records/assets-ppy-osu-resources-fbc50ca8.md) |
 | projectdiscovery/awesome-search-queries | partial | 2026-09-11T12:07:57Z | [open](../records/assets-projectdiscovery-awesome-search-queries-b4756398.md) |
 | qwerasd205/AnnotationMono | partial | 2026-07-28T05:24:50Z | [open](../records/assets-qwerasd205-annotationmono-39d157d9.md) |
-| rektdeckard/departure-mono | partial | 2026-09-10T04:23:18Z | [open](../records/assets-rektdeckard-departure-mono-2cee23db.md) |
+| rektdeckard/departure-mono | partial | 2026-09-13T04:04:18Z | [open](../records/assets-rektdeckard-departure-mono-2cee23db.md) |
 | riccardoscalco/textures | partial | 2023-01-01T20:03:38Z | [open](../records/assets-riccardoscalco-textures-1ed66e06.md) |
 | segecey/SwiftIconFont | partial | 2022-08-05T12:12:28Z | [open](../records/assets-segecey-swifticonfont-20851835.md) |
 | simonsmh/notocjk | partial | 2025-08-20T11:46:28Z | [open](../records/assets-simonsmh-notocjk-15d1c280.md) |
@@ -869,7 +869,7 @@ Records: `1729`
 | CesiumGS/cesium-unreal | partial | 2026-09-11T15:49:12Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-14T07:11:10Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-14T11:15:14Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -886,7 +886,7 @@ Records: `1729`
 | GeoNode/geonode | partial | 2026-09-14T00:03:50Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-14T07:10:41Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
 | georust/geo | partial | 2026-09-07T09:51:36Z | [open](../records/maps-georust-geo-aa20b54a.md) |
-| geosolutions-it/MapStore2 | partial | 2026-09-11T14:19:03Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
+| geosolutions-it/MapStore2 | partial | 2026-09-14T10:47:38Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
 | GeoStat-Framework/GSTools | partial | 2026-08-24T11:34:44Z | [open](../records/maps-geostat-framework-gstools-08dca3ea.md) |
 | GEOSwift/GEOSwift | partial | 2026-09-05T22:27:09Z | [open](../records/maps-geoswift-geoswift-aeb19eb4.md) |
 | gisgraphy/gisgraphy | partial | 2023-12-27T05:25:11Z | [open](../records/maps-gisgraphy-gisgraphy-7b638690.md) |

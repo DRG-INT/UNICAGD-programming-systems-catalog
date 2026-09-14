@@ -40,7 +40,7 @@ migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-2; Other |
+| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

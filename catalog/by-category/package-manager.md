@@ -533,7 +533,7 @@ Records: `450`
 | Fleex255/PolicyPlus | partial | 2025-12-27T20:44:47Z | [open](../records/catalogs-fleex255-policyplus-b34a9b34.md) |
 | Foulest/RepairKit | partial | 2026-09-07T18:54:36Z | [open](../records/catalogs-foulest-repairkit-96da04d2.md) |
 | GiovanniDicanio/WinReg | partial | 2026-08-21T18:01:01Z | [open](../records/catalogs-giovannidicanio-winreg-b855affc.md) |
-| git-pkgs/proxy | partial | 2026-09-10T20:34:29Z | [open](../records/catalogs-git-pkgs-proxy-d3c42acb.md) |
+| git-pkgs/proxy | partial | 2026-09-14T03:05:58Z | [open](../records/catalogs-git-pkgs-proxy-d3c42acb.md) |
 | goharbor/harbor | partial | 2026-09-14T10:04:27Z | [open](../records/catalogs-goharbor-harbor-ec2d9450.md) |
 | google/go-containerregistry | partial | 2026-09-11T19:32:29Z | [open](../records/catalogs-google-go-containerregistry-38c3c5cd.md) |
 | harrisonwang/wharf | partial | 2026-05-07T01:09:05Z | [open](../records/catalogs-harrisonwang-wharf-662407ae.md) |
@@ -569,7 +569,7 @@ Records: `450`
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
 | psviderski/unregistry | partial | 2026-07-14T02:56:03Z | [open](../records/catalogs-psviderski-unregistry-3f86a01d.md) |
-| pypi/warehouse | partial | 2026-09-11T17:50:06Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
+| pypi/warehouse | partial | 2026-09-13T14:58:41Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
 | Railly/tinte | partial | 2026-08-08T01:10:38Z | [open](../records/catalogs-railly-tinte-4b7c9203.md) |
 | react-native-community/directory | partial | 2026-09-14T10:08:08Z | [open](../records/catalogs-react-native-community-directory-369a61a1.md) |
 | regclient/regclient | partial | 2026-09-09T21:12:36Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |

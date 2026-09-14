@@ -61,7 +61,7 @@ Records: `421`
 | [KnifeXRage/Godot-Secure](../records/assets-knifexrage-godot-secure-27dbfc11.md) | partial | 2026-09-06T09:15:30Z | registry-derived |
 | [M5ez/M5ez](../records/assets-m5ez-m5ez-6aee584f.md) | partial | 2022-11-11T13:40:06Z | registry-derived |
 | [markstory/mini-asset](../records/assets-markstory-mini-asset-2d6a55bc.md) | partial | 2026-02-08T16:57:50Z | registry-derived |
-| [microsoft/maker.js](../records/assets-microsoft-maker-js-f91ce860.md) | partial | 2026-08-25T23:57:42Z | registry-derived |
+| [microsoft/maker.js](../records/assets-microsoft-maker-js-f91ce860.md) | partial | 2026-09-13T04:56:56Z | registry-derived |
 | [Numbersf/MakeFontsGreatAgain](../records/assets-numbersf-makefontsgreatagain-5c928149.md) | partial | 2026-09-03T05:03:55Z | registry-derived |
 | [openremote/openremote](../records/assets-openremote-openremote-92db2618.md) | partial | 2026-09-14T07:11:01Z | registry-derived |
 | [parcel-bundler/parcel](../records/assets-parcel-bundler-parcel-b4cac5ec.md) | partial | 2026-09-06T13:12:08Z | registry-derived |
@@ -206,7 +206,7 @@ Records: `421`
 | [ppy/osu-resources](../records/assets-ppy-osu-resources-fbc50ca8.md) | partial | 2026-09-10T09:44:39Z | registry-derived |
 | [projectdiscovery/awesome-search-queries](../records/assets-projectdiscovery-awesome-search-queries-b4756398.md) | partial | 2026-09-11T12:07:57Z | registry-derived |
 | [qwerasd205/AnnotationMono](../records/assets-qwerasd205-annotationmono-39d157d9.md) | partial | 2026-07-28T05:24:50Z | registry-derived |
-| [rektdeckard/departure-mono](../records/assets-rektdeckard-departure-mono-2cee23db.md) | partial | 2026-09-10T04:23:18Z | registry-derived |
+| [rektdeckard/departure-mono](../records/assets-rektdeckard-departure-mono-2cee23db.md) | partial | 2026-09-13T04:04:18Z | registry-derived |
 | [riccardoscalco/textures](../records/assets-riccardoscalco-textures-1ed66e06.md) | partial | 2023-01-01T20:03:38Z | registry-derived |
 | [segecey/SwiftIconFont](../records/assets-segecey-swifticonfont-20851835.md) | partial | 2022-08-05T12:12:28Z | registry-derived |
 | [simonsmh/notocjk](../records/assets-simonsmh-notocjk-15d1c280.md) | partial | 2025-08-20T11:46:28Z | registry-derived |
@@ -226,7 +226,7 @@ Records: `421`
 | [dogoncouch/LogESP](../records/assets-dogoncouch-logesp-487d8edc.md) | partial | 2023-08-24T20:13:12Z | registry-derived |
 | [elasota/ConvectionKernels](../records/assets-elasota-convectionkernels-1bd72eb9.md) | partial | 2022-06-23T03:15:07Z | registry-derived |
 | [fcamarlinghi/expresso](../records/assets-fcamarlinghi-expresso-80b908f5.md) | partial | 2025-10-04T13:44:15Z | registry-derived |
-| [fernandotonon/QtMeshEditor](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) | partial | 2026-09-11T21:40:09Z | registry-derived |
+| [fernandotonon/QtMeshEditor](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) | partial | 2026-09-14T06:47:02Z | registry-derived |
 | [iZePlayzYT/SuperMarioEclipse-TexturePacks](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) | partial | 2026-06-26T22:41:38Z | registry-derived |
 | [johanmattssonm/birdfont](../records/assets-johanmattssonm-birdfont-f317dbe1.md) | partial | 2025-11-23T19:49:15Z | registry-derived |
 | [jtomori/batch_textures_convert](../records/assets-jtomori-batch-textures-convert-0307606c.md) | partial | 2022-01-05T20:08:33Z | registry-derived |
@@ -255,7 +255,7 @@ Records: `421`
 | [Escartem/GenshinTextures](../records/assets-escartem-genshintextures-e0aff47b.md) | partial | 2023-02-28T11:20:21Z | registry-derived |
 | [felladrin/game-development-resources-list](../records/assets-felladrin-game-development-resources-list-6087f418.md) | partial | 2021-07-09T22:22:14Z | registry-derived |
 | [fourgames/resources](../records/assets-fourgames-resources-96067fd2.md) | partial | 2026-04-23T20:45:54Z | registry-derived |
-| [harfbuzz/harfbuzz](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) | partial | 2026-09-11T04:19:50Z | registry-derived |
+| [harfbuzz/harfbuzz](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) | partial | 2026-09-14T11:09:00Z | registry-derived |
 | [hec-ovi/text-to-3D-skill](../records/assets-hec-ovi-text-to-3d-skill-3ef6fa92.md) | partial | 2026-07-28T15:44:23Z | registry-derived |
 | [kristiker/source1import](../records/assets-kristiker-source1import-382cf47f.md) | partial | 2025-02-28T12:55:47Z | registry-derived |
 | [memo-db/pixel-heroes-spine](../records/assets-memo-db-pixel-heroes-spine-1bf85b13.md) | partial | 2023-03-23T13:36:52Z | registry-derived |
@@ -327,7 +327,7 @@ Records: `421`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [adobe-fonts/source-serif](../records/assets-adobe-fonts-source-serif-d174881a.md) | partial | 2026-09-09T13:19:22Z | registry-derived |
+| [adobe-fonts/source-serif](../records/assets-adobe-fonts-source-serif-d174881a.md) | partial | 2026-09-13T11:28:27Z | registry-derived |
 | [darwinex/dwxconnect](../records/assets-darwinex-dwxconnect-17a92fc5.md) | partial | 2025-05-25T07:44:34Z | registry-derived |
 | [matthew-kissinger/kiln](../records/assets-matthew-kissinger-kiln-10f37b94.md) | partial | 2026-09-13T12:27:06Z | registry-derived |
 | [OpenAssetIO/OpenAssetIO](../records/assets-openassetio-openassetio-90739a90.md) | partial | 2026-08-24T13:15:42Z | registry-derived |
@@ -357,7 +357,7 @@ Records: `421`
 | [Figma-Linux/figma-linux-font-helper](../records/assets-figma-linux-figma-linux-font-helper-926a2b9d.md) | partial | 2024-03-06T14:28:49Z | registry-derived |
 | [Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) | partial | 2026-08-05T12:41:45Z | registry-derived |
 | [FontManager/font-manager](../records/assets-fontmanager-font-manager-b4a35494.md) | partial | 2025-09-24T15:51:58Z | registry-derived |
-| [fonttools/fonttools](../records/assets-fonttools-fonttools-a4b5432b.md) | partial | 2026-09-11T09:06:34Z | registry-derived |
+| [fonttools/fonttools](../records/assets-fonttools-fonttools-a4b5432b.md) | partial | 2026-09-12T09:55:35Z | registry-derived |
 | [frappe/erpnext](../records/assets-frappe-erpnext-d9e1ae16.md) | partial | 2026-09-14T05:28:19Z | registry-derived |
 | [Gaafar/dev-fonts](../records/assets-gaafar-dev-fonts-6d11b6eb.md) | partial | 2023-01-06T03:07:36Z | registry-derived |
 | [googlefonts/gftools](../records/assets-googlefonts-gftools-a07fff0e.md) | partial | 2026-09-10T10:36:24Z | registry-derived |
@@ -409,8 +409,8 @@ Records: `421`
 | [symfony/assetic-bundle](../records/assets-symfony-assetic-bundle-4dada5ec.md) | partial | 2022-11-07T16:20:58Z | registry-derived |
 | [system-fonts/modern-font-stacks](../records/assets-system-fonts-modern-font-stacks-431ff0c6.md) | partial | 2026-03-10T21:21:49Z | registry-derived |
 | [takushun-wu/WenJinMincho](../records/assets-takushun-wu-wenjinmincho-84d3befd.md) | partial | 2026-08-21T05:37:59Z | registry-derived |
-| [TakWolf/ark-pixel-font](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) | partial | 2026-09-11T07:35:45Z | registry-derived |
-| [TakWolf/fusion-pixel-font](../records/assets-takwolf-fusion-pixel-font-02635494.md) | partial | 2026-09-11T08:39:35Z | registry-derived |
+| [TakWolf/ark-pixel-font](../records/assets-takwolf-ark-pixel-font-22f9b9cc.md) | partial | 2026-09-13T18:33:45Z | registry-derived |
+| [TakWolf/fusion-pixel-font](../records/assets-takwolf-fusion-pixel-font-02635494.md) | partial | 2026-09-13T18:34:54Z | registry-derived |
 | [WallSoGB/Patapon3Textures](../records/assets-wallsogb-patapon3textures-30ad5cad.md) | partial | 2026-09-11T19:45:45Z | registry-derived |
 | [wanteddev/wanted-sans](../records/assets-wanteddev-wanted-sans-d20700fb.md) | partial | 2024-05-27T12:07:41Z | registry-derived |
 | [weiweihuanghuang/Work-Sans](../records/assets-weiweihuanghuang-work-sans-9e5609e3.md) | partial | 2024-04-10T14:05:11Z | registry-derived |
@@ -426,7 +426,7 @@ Records: `421`
 | --- | --- | --- | --- |
 | [raphaelhanneken/iconizer](../records/assets-raphaelhanneken-iconizer-867b9d26.md) | partial | 2023-05-23T19:05:30Z | registry-derived |
 | [TMHSDigital/Free-Game-Dev-Assets](../records/assets-tmhsdigital-free-game-dev-assets-e139ddb6.md) | partial | 2026-09-10T01:46:07Z | registry-derived |
-| [unjs/fontaine](../records/assets-unjs-fontaine-adf8d9fd.md) | partial | 2026-09-11T19:00:23Z | registry-derived |
+| [unjs/fontaine](../records/assets-unjs-fontaine-adf8d9fd.md) | partial | 2026-09-14T08:13:13Z | registry-derived |
 | [vorillaz/devicons](../records/assets-vorillaz-devicons-ab704e06.md) | partial | 2026-05-10T21:43:36Z | registry-derived |
 
 ### Machine Learning
@@ -435,7 +435,7 @@ Records: `421`
 | --- | --- | --- | --- |
 | [1024XEngineer/Holonic-Asset](../records/assets-1024xengineer-holonic-asset-957733ad.md) | partial | 2026-09-11T06:46:38Z | registry-derived |
 | [archaicvirus/TreeGenerator](../records/assets-archaicvirus-treegenerator-3aab4963.md) | partial | 2023-07-07T21:43:41Z | registry-derived |
-| [chsh2/import_paint_brush](../records/assets-chsh2-import-paint-brush-3612f075.md) | partial | 2026-09-13T19:23:42Z | registry-derived |
+| [chsh2/import_paint_brush](../records/assets-chsh2-import-paint-brush-3612f075.md) | partial | 2026-09-13T21:37:27Z | registry-derived |
 | [EYamanS/texel-studio](../records/assets-eyamans-texel-studio-907f9579.md) | partial | 2026-07-02T11:57:12Z | registry-derived |
 | [HotpotDesign/Game-Assets-And-Resources](../records/assets-hotpotdesign-game-assets-and-resources-94fd43a7.md) | partial | 2024-04-01T06:25:51Z | registry-derived |
 | [justfont/open-huninn-font](../records/assets-justfont-open-huninn-font-7bee933f.md) | partial | 2025-06-17T11:05:44Z | registry-derived |
@@ -532,7 +532,7 @@ Records: `421`
 | [LongOnly/Quantitative-Notebooks](../records/assets-longonly-quantitative-notebooks-855b8424.md) | partial | 2020-07-02T00:17:39Z | registry-derived |
 | [sahibjotsaggu/San-Francisco-Pro-Fonts](../records/assets-sahibjotsaggu-san-francisco-pro-fonts-f6ecd2be.md) | partial | 2023-01-29T07:38:34Z | registry-derived |
 | [satelllte/JSPlacementWeb](../records/assets-satelllte-jsplacementweb-55922817.md) | partial | 2024-02-03T11:52:51Z | registry-derived |
-| [sepandhaghighi/art](../records/assets-sepandhaghighi-art-5075f3ee.md) | partial | 2026-09-11T17:52:55Z | registry-derived |
+| [sepandhaghighi/art](../records/assets-sepandhaghighi-art-5075f3ee.md) | partial | 2026-09-14T01:32:35Z | registry-derived |
 | [tschm/pyhrp](../records/assets-tschm-pyhrp-3c7c1465.md) | partial | 2026-09-08T05:35:54Z | registry-derived |
 | [xero/figlet-fonts](../records/assets-xero-figlet-fonts-4c500777.md) | partial | 2026-03-30T14:19:33Z | registry-derived |
 

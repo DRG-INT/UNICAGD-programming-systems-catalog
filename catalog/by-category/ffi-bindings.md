@@ -489,7 +489,7 @@ Records: `487`
 | crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
 | geoserver/geoserver | partial | 2026-09-14T03:25:01Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
-| geotools/geotools | partial | 2026-09-14T06:51:33Z | [open](../records/maps-geotools-geotools-a7928212.md) |
+| geotools/geotools | partial | 2026-09-14T10:32:46Z | [open](../records/maps-geotools-geotools-a7928212.md) |
 | mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
 | osmcode/pyosmium | partial | 2026-09-05T19:35:17Z | [open](../records/maps-osmcode-pyosmium-236a85f5.md) |
@@ -638,7 +638,7 @@ Records: `487`
 | --- | --- | --- | --- |
 | COMBINE-lab/pufferfish | partial | 2026-06-19T22:15:51Z | [open](../records/catalogs-combine-lab-pufferfish-42ddb5f0.md) |
 | SciCatProject/frontend | partial | 2026-09-11T13:14:45Z | [open](../records/catalogs-scicatproject-frontend-1c71b867.md) |
-| vcaesar/riot | partial | 2026-09-12T15:01:33Z | [open](../records/catalogs-vcaesar-riot-b31aa712.md) |
+| vcaesar/riot | partial | 2026-09-13T16:06:36Z | [open](../records/catalogs-vcaesar-riot-b31aa712.md) |
 
 ## Magazines
 
@@ -724,7 +724,7 @@ Records: `487`
 | rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-14T03:55:28Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-14T10:59:06Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 

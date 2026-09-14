@@ -40,13 +40,13 @@ Records: `285`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [antgroup/sofa](../records/catalogs-antgroup-sofa-dfd41cac.md) | partial | 2023-02-10T09:26:35Z | registry-derived |
-| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-12T11:11:39Z | registry-derived |
+| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-14T10:28:05Z | registry-derived |
 | [ckan/ckan](../records/catalogs-ckan-ckan-56d2a0d2.md) | partial | 2026-09-14T03:49:53Z | registry-derived |
 | [flowershow/markdowndb](../records/catalogs-flowershow-markdowndb-c72b0d23.md) | partial | 2026-05-21T02:18:02Z | registry-derived |
-| [geolens-io/geolens](../records/catalogs-geolens-io-geolens-2be2bb7d.md) | partial | 2026-09-12T21:20:04Z | registry-derived |
+| [geolens-io/geolens](../records/catalogs-geolens-io-geolens-2be2bb7d.md) | partial | 2026-09-14T08:12:58Z | registry-derived |
 | [henomis/lingoose](../records/catalogs-henomis-lingoose-b7784a16.md) | partial | 2026-03-15T09:43:28Z | registry-derived |
-| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-12T20:54:50Z | registry-derived |
-| [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-11T19:45:43Z | registry-derived |
+| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-14T11:03:20Z | registry-derived |
+| [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-14T07:33:06Z | registry-derived |
 | [openfun/richie](../records/catalogs-openfun-richie-3e0bc01d.md) | partial | 2026-09-14T06:28:05Z | registry-derived |
 | [sealerio/sealer](../records/catalogs-sealerio-sealer-b1b1c3d8.md) | partial | 2025-06-03T08:29:24Z | registry-derived |
 | [sixem/ivfi-php](../records/catalogs-sixem-ivfi-php-0295793e.md) | partial | 2026-09-09T18:51:38Z | registry-derived |
@@ -58,7 +58,7 @@ Records: `285`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [deadc0de6/catcli](../records/catalogs-deadc0de6-catcli-5ebe7272.md) | partial | 2024-02-17T20:43:40Z | registry-derived |
-| [githits-com/githits-cli](../records/catalogs-githits-com-githits-cli-ec2db423.md) | partial | 2026-09-11T12:04:50Z | registry-derived |
+| [githits-com/githits-cli](../records/catalogs-githits-com-githits-cli-ec2db423.md) | partial | 2026-09-14T08:25:57Z | registry-derived |
 | [rsyi/whale](../records/catalogs-rsyi-whale-6924afde.md) | partial | 2023-02-08T00:39:40Z | registry-derived |
 
 ### Database Datastore
@@ -89,7 +89,7 @@ Records: `285`
 | --- | --- | --- | --- |
 | [COMBINE-lab/pufferfish](../records/catalogs-combine-lab-pufferfish-42ddb5f0.md) | partial | 2026-06-19T22:15:51Z | registry-derived |
 | [SciCatProject/frontend](../records/catalogs-scicatproject-frontend-1c71b867.md) | partial | 2026-09-11T13:14:45Z | registry-derived |
-| [vcaesar/riot](../records/catalogs-vcaesar-riot-b31aa712.md) | partial | 2026-09-12T15:01:33Z | registry-derived |
+| [vcaesar/riot](../records/catalogs-vcaesar-riot-b31aa712.md) | partial | 2026-09-13T16:06:36Z | registry-derived |
 
 ### Filesystem Os
 
@@ -105,14 +105,14 @@ Records: `285`
 | [gabledata/recap](../records/catalogs-gabledata-recap-0e1817aa.md) | partial | 2025-12-30T22:10:01Z | registry-derived |
 | [ihsn/nada](../records/catalogs-ihsn-nada-e8df2a6b.md) | partial | 2026-09-11T13:31:51Z | registry-derived |
 | [MediaSavvy/MediaSavvy](../records/catalogs-mediasavvy-mediasavvy-5d89532f.md) | partial | 2026-08-16T16:39:22Z | registry-derived |
-| [opengeos/Earth-Engine-Catalog](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) | partial | 2026-09-12T03:35:50Z | registry-derived |
+| [opengeos/Earth-Engine-Catalog](../records/catalogs-opengeos-earth-engine-catalog-4bda34cb.md) | partial | 2026-09-14T03:39:43Z | registry-derived |
 | [postgrespro/rum](../records/catalogs-postgrespro-rum-fb7c64d1.md) | partial | 2026-09-07T12:55:16Z | registry-derived |
 
 ### Game Engine Game Dev
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [asciimoo/hister](../records/catalogs-asciimoo-hister-7dbd60c9.md) | partial | 2026-09-11T08:03:19Z | registry-derived |
+| [asciimoo/hister](../records/catalogs-asciimoo-hister-7dbd60c9.md) | partial | 2026-09-13T14:14:02Z | registry-derived |
 | [gamedilong/awesome-cn](../records/catalogs-gamedilong-awesome-cn-95ab928b.md) | partial | 2020-01-23T06:56:32Z | registry-derived |
 
 ### Ide Editor Integration
@@ -122,7 +122,7 @@ Records: `285`
 | [AlbertLucianto/vuex-search](../records/catalogs-albertlucianto-vuex-search-73599187.md) | partial | 2022-12-09T23:26:52Z | registry-derived |
 | [austinsonger/Incident-Playbook](../records/catalogs-austinsonger-incident-playbook-b40b651a.md) | partial | 2024-07-28T04:19:40Z | registry-derived |
 | [ckenst/testing-guides](../records/catalogs-ckenst-testing-guides-bf06a16f.md) | partial | 2023-11-13T21:24:45Z | registry-derived |
-| [clidey/whodb](../records/catalogs-clidey-whodb-90b65b4d.md) | partial | 2026-09-12T03:30:58Z | registry-derived |
+| [clidey/whodb](../records/catalogs-clidey-whodb-90b65b4d.md) | partial | 2026-09-14T03:36:12Z | registry-derived |
 | [Esri/geoportal-server-catalog](../records/catalogs-esri-geoportal-server-catalog-528de935.md) | partial | 2026-09-14T07:23:26Z | registry-derived |
 | [fnplus/community-project-ideas](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) | partial | 2025-02-21T18:58:09Z | registry-derived |
 | [geonetwork/core-geonetwork](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) | partial | 2026-09-11T07:20:28Z | registry-derived |
@@ -131,7 +131,7 @@ Records: `285`
 | [lofcz/Infidex](../records/catalogs-lofcz-infidex-7d75607d.md) | partial | 2025-12-30T17:35:01Z | registry-derived |
 | [Paturages/chorus](../records/catalogs-paturages-chorus-32376abb.md) | partial | 2025-02-22T10:21:34Z | registry-derived |
 | [Snaacky/theindex](../records/catalogs-snaacky-theindex-d5736be6.md) | partial | 2026-05-22T11:30:44Z | registry-derived |
-| [symfony/property-access](../records/catalogs-symfony-property-access-3f5d7dc1.md) | partial | 2026-09-09T16:46:58Z | registry-derived |
+| [symfony/property-access](../records/catalogs-symfony-property-access-3f5d7dc1.md) | partial | 2026-09-14T10:21:45Z | registry-derived |
 | [TalkingJourney/SCIndexView](../records/catalogs-talkingjourney-scindexview-e0c3d61c.md) | partial | 2021-01-05T13:21:19Z | registry-derived |
 | [yaowei9363/vue-side-catalog](../records/catalogs-yaowei9363-vue-side-catalog-59730215.md) | partial | 2020-07-04T15:24:03Z | registry-derived |
 
@@ -216,7 +216,7 @@ Records: `285`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [marmotdata/marmot](../records/catalogs-marmotdata-marmot-bdbf7d59.md) | partial | 2026-09-11T17:03:42Z | registry-derived |
+| [marmotdata/marmot](../records/catalogs-marmotdata-marmot-bdbf7d59.md) | partial | 2026-09-13T22:31:53Z | registry-derived |
 
 ### Networking Http
 
@@ -269,7 +269,7 @@ Records: `285`
 | [Fleex255/PolicyPlus](../records/catalogs-fleex255-policyplus-b34a9b34.md) | partial | 2025-12-27T20:44:47Z | registry-derived |
 | [Foulest/RepairKit](../records/catalogs-foulest-repairkit-96da04d2.md) | partial | 2026-09-07T18:54:36Z | registry-derived |
 | [GiovanniDicanio/WinReg](../records/catalogs-giovannidicanio-winreg-b855affc.md) | partial | 2026-08-21T18:01:01Z | registry-derived |
-| [git-pkgs/proxy](../records/catalogs-git-pkgs-proxy-d3c42acb.md) | partial | 2026-09-10T20:34:29Z | registry-derived |
+| [git-pkgs/proxy](../records/catalogs-git-pkgs-proxy-d3c42acb.md) | partial | 2026-09-14T03:05:58Z | registry-derived |
 | [goharbor/harbor](../records/catalogs-goharbor-harbor-ec2d9450.md) | partial | 2026-09-14T10:04:27Z | registry-derived |
 | [google/go-containerregistry](../records/catalogs-google-go-containerregistry-38c3c5cd.md) | partial | 2026-09-11T19:32:29Z | registry-derived |
 | [harrisonwang/wharf](../records/catalogs-harrisonwang-wharf-662407ae.md) | partial | 2026-05-07T01:09:05Z | registry-derived |
@@ -305,7 +305,7 @@ Records: `285`
 | [outsideris/citizen](../records/catalogs-outsideris-citizen-8805d3c4.md) | partial | 2024-10-12T20:14:31Z | registry-derived |
 | [packistry/packistry](../records/catalogs-packistry-packistry-e15ec62a.md) | partial | 2026-08-12T19:19:09Z | registry-derived |
 | [psviderski/unregistry](../records/catalogs-psviderski-unregistry-3f86a01d.md) | partial | 2026-07-14T02:56:03Z | registry-derived |
-| [pypi/warehouse](../records/catalogs-pypi-warehouse-5a5ebfce.md) | partial | 2026-09-11T17:50:06Z | registry-derived |
+| [pypi/warehouse](../records/catalogs-pypi-warehouse-5a5ebfce.md) | partial | 2026-09-13T14:58:41Z | registry-derived |
 | [Railly/tinte](../records/catalogs-railly-tinte-4b7c9203.md) | partial | 2026-08-08T01:10:38Z | registry-derived |
 | [react-native-community/directory](../records/catalogs-react-native-community-directory-369a61a1.md) | partial | 2026-09-14T10:08:08Z | registry-derived |
 | [regclient/regclient](../records/catalogs-regclient-regclient-e0f0e503.md) | partial | 2026-09-09T21:12:36Z | registry-derived |
@@ -427,12 +427,12 @@ Records: `285`
 | --- | --- | --- | --- |
 | [AppImage/appimage.github.io](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) | partial | 2026-08-30T13:05:20Z | registry-derived |
 | [awclub/catalog](../records/catalogs-awclub-catalog-58839c97.md) | partial | 2025-03-14T14:22:23Z | registry-derived |
-| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-12T20:41:54Z | registry-derived |
-| [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-04T21:16:14Z | registry-derived |
+| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-14T11:20:47Z | registry-derived |
+| [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-12T21:02:43Z | registry-derived |
 | [FeatureBaseDB/featurebase](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) | partial | 2024-02-21T23:20:41Z | registry-derived |
 | [fossaryhq/catalog](../records/catalogs-fossaryhq-catalog-c3ae2133.md) | partial | 2026-09-12T02:24:58Z | registry-derived |
 | [imsai-sh/awesome-deepseek-harness-plugins](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) | partial | 2026-09-14T07:32:57Z | registry-derived |
-| [italia/.github](../records/catalogs-italia-github-0b346e57.md) | partial | 2026-09-07T08:05:43Z | registry-derived |
+| [italia/.github](../records/catalogs-italia-github-0b346e57.md) | partial | 2026-09-14T08:43:19Z | registry-derived |
 | [leenkcool/Blue-Whale-Harness](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) | partial | 2026-09-12T07:29:56Z | registry-derived |
 | [llnl/llnl.github.io](../records/catalogs-llnl-llnl-github-io-afb77a91.md) | partial | 2026-09-13T16:07:00Z | registry-derived |
 | [mbahArip/next-gdrive-index](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) | partial | 2026-01-15T23:56:25Z | registry-derived |
@@ -455,5 +455,5 @@ Records: `285`
 | [emertozd/Compose-Material-3-Expressive-Catalog](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) | partial | 2026-08-25T13:27:09Z | registry-derived |
 | [expressjs/serve-index](../records/catalogs-expressjs-serve-index-a5f99f53.md) | partial | 2026-08-05T14:00:57Z | registry-derived |
 | [fabiodalez-dev/Pinakes](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) | partial | 2026-09-14T09:51:05Z | registry-derived |
-| [sergiisyrovatchenko/SQLIndexManager](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) | partial | 2026-08-24T17:58:45Z | registry-derived |
+| [sergiisyrovatchenko/SQLIndexManager](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) | partial | 2026-09-13T20:09:25Z | registry-derived |
 | [zyegfryed/django-statici18n](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) | partial | 2026-09-02T17:13:48Z | registry-derived |

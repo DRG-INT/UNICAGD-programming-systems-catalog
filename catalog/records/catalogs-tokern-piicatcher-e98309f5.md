@@ -33,7 +33,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-01-05T17:37:23Z | gh search repos topic:catalog stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2024-01-05T17:37:23Z | gh search repos topic:data-catalog stars:>50 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:catalog stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:data-catalog stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 
