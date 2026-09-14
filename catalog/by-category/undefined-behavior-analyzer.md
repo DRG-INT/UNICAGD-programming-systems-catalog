@@ -14,11 +14,11 @@ Records: `1667`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6149)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (867)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -1173,7 +1173,7 @@ Records: `1667`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-13T23:17:52Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-13T23:30:34Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1381,7 +1381,7 @@ Records: `1667`
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) |
 | braedonsaunders/openstudio | partial | 2026-05-13T23:00:35Z | [open](../records/effects-braedonsaunders-openstudio-43bdd073.md) |
 | brandleesee/ePSXe64Ubuntu | partial | 2023-06-20T07:52:14Z | [open](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) |
-| canonical/ubuntu-frame | partial | 2026-09-11T11:18:38Z | [open](../records/effects-canonical-ubuntu-frame-e76d66fc.md) |
+| canonical/ubuntu-frame | partial | 2026-09-13T23:49:51Z | [open](../records/effects-canonical-ubuntu-frame-e76d66fc.md) |
 | cmajor-lang/cmajor | partial | 2026-09-12T18:13:36Z | [open](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) |
 | CompleteUnityDeveloper/Laser-Defender-Original | partial | 2018-08-14T11:29:55Z | [open](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) |
 | CustomPhase/CP_SSSSS | partial | 2019-05-26T11:39:20Z | [open](../records/effects-customphase-cp-sssss-c1aa7a17.md) |
@@ -1458,7 +1458,7 @@ Records: `1667`
 | mediago-dev/mediago | partial | 2026-09-11T04:13:53Z | [open](../records/video-mediago-dev-mediago-0cd9405a.md) |
 | modelscope/FunClip | partial | 2026-09-10T12:36:13Z | [open](../records/video-modelscope-funclip-7124bb3f.md) |
 | MrS0m30n3/youtube-dl-gui | partial | 2022-12-06T17:12:44Z | [open](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) |
-| namidaco/namida | partial | 2026-09-12T00:02:50Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
+| namidaco/namida | partial | 2026-09-13T23:36:14Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
 | OpenShot/libopenshot | partial | 2026-09-13T06:18:24Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
 | OvenMediaLabs/OvenMediaEngine | partial | 2026-09-07T08:57:02Z | [open](../records/video-ovenmedialabs-ovenmediaengine-48a1af34.md) |
 | patrikhuber/4dface | partial | 2018-12-10T15:49:06Z | [open](../records/video-patrikhuber-4dface-650983e0.md) |
@@ -1906,7 +1906,7 @@ Records: `1667`
 | gitlab-org/caproni | partial | 2026-09-13T14:00:41.577Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-12T06:01:48.142Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-13T22:29:38.449Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |

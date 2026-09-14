@@ -14,11 +14,11 @@ Records: `785`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1724)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (377)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6149)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (558)](../by-category/logging-observability.md) · [Machine Learning (867)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6161)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -81,7 +81,7 @@ Records: `785`
 | --- | --- | --- | --- |
 | [c8r/lab-cli](../records/effects-c8r-lab-cli-d2cc5cac.md) | partial | 2018-02-18T17:42:26Z | registry-derived |
 | [CanYuzbey/Cpp-Audio-Bitcrusher](../records/effects-canyuzbey-cpp-audio-bitcrusher-d7defebc.md) | partial | 2026-01-25T15:51:00Z | registry-derived |
-| [denialwm/denial](../records/effects-denialwm-denial-38ee513d.md) | partial | 2026-09-13T18:51:36Z | registry-derived |
+| [denialwm/denial](../records/effects-denialwm-denial-38ee513d.md) | partial | 2026-09-14T00:09:45Z | registry-derived |
 | [EemilAhonen/leikkaus](../records/effects-eemilahonen-leikkaus-f2b2b34e.md) | partial | 2024-03-04T22:16:25Z | registry-derived |
 | [ha7ilm/csdr](../records/effects-ha7ilm-csdr-5d56336a.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 | [jmstajim/Particlized](../records/effects-jmstajim-particlized-6bb3d995.md) | partial | 2025-09-18T20:30:44Z | registry-derived |
@@ -116,7 +116,7 @@ Records: `785`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [blazejkustra/react-native-effects](../records/effects-blazejkustra-react-native-effects-f28ddf4f.md) | partial | 2026-09-05T18:10:45Z | registry-derived |
+| [blazejkustra/react-native-effects](../records/effects-blazejkustra-react-native-effects-f28ddf4f.md) | partial | 2026-09-13T19:38:26Z | registry-derived |
 | [junidy/parallel-dsp](../records/effects-junidy-parallel-dsp-31b8efad.md) | partial | 2024-04-16T14:54:35Z | registry-derived |
 
 ### Configuration
@@ -311,7 +311,7 @@ Records: `785`
 | [lotos-linux/hypr-dock](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) | partial | 2026-03-14T22:51:39Z | registry-derived |
 | [Luci0n/CrowFX-Unity-Image-Effects](../records/effects-luci0n-crowfx-unity-image-effects-3266375f.md) | partial | 2026-09-07T21:05:31Z | registry-derived |
 | [luisnquin/battery-notifier](../records/effects-luisnquin-battery-notifier-63a8347b.md) | partial | 2026-06-13T04:07:29Z | registry-derived |
-| [malbiruk/driftwm](../records/effects-malbiruk-driftwm-7fb2ce7f.md) | partial | 2026-09-06T14:53:57Z | registry-derived |
+| [malbiruk/driftwm](../records/effects-malbiruk-driftwm-7fb2ce7f.md) | partial | 2026-09-13T21:47:10Z | registry-derived |
 | [Malidos/Stylized-Water-Shader](../records/effects-malidos-stylized-water-shader-b701423a.md) | partial | 2024-12-11T15:47:23Z | registry-derived |
 | [mangowm/mango](../records/effects-mangowm-mango-e98f7439.md) | partial | 2026-09-13T15:04:08Z | registry-derived |
 | [MarieLynneBlock/RealTimeAudioSignalProcessing-Faust](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) | partial | 2019-06-05T19:15:07Z | registry-derived |
@@ -841,7 +841,7 @@ Records: `785`
 | [PrismPipeline/QuiltiX](../records/effects-prismpipeline-quiltix-bb50e556.md) | partial | 2025-07-03T17:45:40Z | registry-derived |
 | [sinnwrig/URP-Fog-Volumes](../records/effects-sinnwrig-urp-fog-volumes-845ab6cc.md) | partial | 2026-01-23T02:03:17Z | registry-derived |
 | [thevoidky/custom-post-process-on-urp](../records/effects-thevoidky-custom-post-process-on-urp-f0e94f32.md) | unknown | github_latest_release_missing | registry-derived |
-| [udinmoInc/WindEffects](../records/effects-udinmoinc-windeffects-66eeb79d.md) | partial | 2026-09-12T16:50:47Z | registry-derived |
+| [udinmoInc/WindEffects](../records/effects-udinmoinc-windeffects-66eeb79d.md) | partial | 2026-09-13T12:01:59Z | registry-derived |
 
 ### Parser Lexer Ast
 
@@ -936,7 +936,7 @@ Records: `785`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [canonical/wlcs](../records/effects-canonical-wlcs-0e2f6e21.md) | partial | 2026-09-11T18:05:17Z | registry-derived |
+| [canonical/wlcs](../records/effects-canonical-wlcs-0e2f6e21.md) | partial | 2026-09-13T23:35:47Z | registry-derived |
 | [greatest-ape/OctaSine](../records/effects-greatest-ape-octasine-7fa71b9c.md) | partial | 2024-07-03T10:59:21Z | registry-derived |
 | [keijiro/NNAOTest](../records/effects-keijiro-nnaotest-9909441c.md) | partial | 2017-08-10T10:54:24Z | registry-derived |
 | [keijiro/VfxGraphTestbed](../records/effects-keijiro-vfxgraphtestbed-63ba4cd6.md) | partial | 2021-02-19T08:29:08Z | registry-derived |
@@ -962,7 +962,7 @@ Records: `785`
 | [BillyDM/awesome-audio-dsp](../records/effects-billydm-awesome-audio-dsp-a5cff982.md) | partial | 2026-08-20T03:10:10Z | registry-derived |
 | [braedonsaunders/openstudio](../records/effects-braedonsaunders-openstudio-43bdd073.md) | partial | 2026-05-13T23:00:35Z | registry-derived |
 | [brandleesee/ePSXe64Ubuntu](../records/effects-brandleesee-epsxe64ubuntu-ae197016.md) | partial | 2023-06-20T07:52:14Z | registry-derived |
-| [canonical/ubuntu-frame](../records/effects-canonical-ubuntu-frame-e76d66fc.md) | partial | 2026-09-11T11:18:38Z | registry-derived |
+| [canonical/ubuntu-frame](../records/effects-canonical-ubuntu-frame-e76d66fc.md) | partial | 2026-09-13T23:49:51Z | registry-derived |
 | [cmajor-lang/cmajor](../records/effects-cmajor-lang-cmajor-4dc0a78b.md) | partial | 2026-09-12T18:13:36Z | registry-derived |
 | [CompleteUnityDeveloper/Laser-Defender-Original](../records/effects-completeunitydeveloper-laser-defender-original-c8db6005.md) | partial | 2018-08-14T11:29:55Z | registry-derived |
 | [CustomPhase/CP_SSSSS](../records/effects-customphase-cp-sssss-c1aa7a17.md) | partial | 2019-05-26T11:39:20Z | registry-derived |

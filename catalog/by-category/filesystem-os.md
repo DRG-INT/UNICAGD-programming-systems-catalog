@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1724`
+Records: `1725`
 
 ## Navigation
 
@@ -14,11 +14,11 @@ Records: `1724`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1724)](filesystem-os.md)** · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1725)](filesystem-os.md)** · [Formatter (671)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6149)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · [Machine Learning (867)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -466,6 +466,7 @@ Records: `1724`
 | cabal-macosx | 0.2.4.2 | 2019-12-26T20:25:51Z | [open](../records/haskell-cabal-macosx-c2f02600.md) |
 | chronos | 1.1.7.0 | 2025-07-15T16:11:45Z | [open](../records/haskell-chronos-1ff53297.md) |
 | composite-aeson | 0.8.2.2 | 2023-12-04T19:06:26Z | [open](../records/haskell-composite-aeson-29a8e7c4.md) |
+| composite-aeson-refined | 0.8.2.2 | 2023-12-04T19:07:44Z | [open](../records/haskell-composite-aeson-refined-8d6d30dd.md) |
 | composite-base | 0.8.3.0 | 2025-02-12T21:36:10Z | [open](../records/haskell-composite-base-bea0530d.md) |
 | composite-ekg | 0.8.2.2 | 2023-12-04T19:08:33Z | [open](../records/haskell-composite-ekg-b61833d1.md) |
 | composite-opaleye | 0.8.2.2 | 2023-12-04T19:09:04Z | [open](../records/haskell-composite-opaleye-c290b243.md) |
@@ -602,7 +603,7 @@ Records: `1724`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-13T22:28:40Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-13T23:51:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -622,7 +623,7 @@ Records: `1724`
 | --- | --- | --- | --- |
 | f/prompts.chat | partial | 2026-09-09T10:27:05Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
-| microsoft/graphrag | partial | 2026-09-08T18:54:12Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
+| microsoft/graphrag | partial | 2026-09-14T00:19:19Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
 | ollama/ollama | partial | 2026-09-11T21:44:45Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
@@ -1151,7 +1152,7 @@ Records: `1724`
 | lotos-linux/hypr-dock | partial | 2026-03-14T22:51:39Z | [open](../records/effects-lotos-linux-hypr-dock-30a70bd7.md) |
 | Luci0n/CrowFX-Unity-Image-Effects | partial | 2026-09-07T21:05:31Z | [open](../records/effects-luci0n-crowfx-unity-image-effects-3266375f.md) |
 | luisnquin/battery-notifier | partial | 2026-06-13T04:07:29Z | [open](../records/effects-luisnquin-battery-notifier-63a8347b.md) |
-| malbiruk/driftwm | partial | 2026-09-06T14:53:57Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
+| malbiruk/driftwm | partial | 2026-09-13T21:47:10Z | [open](../records/effects-malbiruk-driftwm-7fb2ce7f.md) |
 | Malidos/Stylized-Water-Shader | partial | 2024-12-11T15:47:23Z | [open](../records/effects-malidos-stylized-water-shader-b701423a.md) |
 | mangowm/mango | partial | 2026-09-13T15:04:08Z | [open](../records/effects-mangowm-mango-e98f7439.md) |
 | MarieLynneBlock/RealTimeAudioSignalProcessing-Faust | partial | 2019-06-05T19:15:07Z | [open](../records/effects-marielynneblock-realtimeaudiosignalprocessing-faust-184135f0.md) |
@@ -1322,7 +1323,7 @@ Records: `1724`
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |
 | Awalz/SwiftyCam | partial | 2022-02-04T10:24:45Z | [open](../records/photography-awalz-swiftycam-8b6b12a3.md) |
 | awxkee/avif.swift | partial | 2026-04-29T10:30:31Z | [open](../records/photography-awxkee-avif-swift-72b07b3d.md) |
-| Bitpainter75/FerrumPix | partial | 2026-09-12T23:03:00Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
+| Bitpainter75/FerrumPix | partial | 2026-09-13T21:52:02Z | [open](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) |
 | carina-studio/PixelViewer | partial | 2026-09-11T13:20:57Z | [open](../records/photography-carina-studio-pixelviewer-70d11532.md) |
 | carlospuenteg/File-Injector | partial | 2022-11-18T00:20:21Z | [open](../records/photography-carlospuenteg-file-injector-2533177f.md) |
 | carlospuenteg/Photomosaic-Creator | unknown | github_search_does_not_include_release_date | [open](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) |
@@ -1375,7 +1376,7 @@ Records: `1724`
 | wsl2ls/iOS_Tips | partial | 2022-08-28T19:02:32Z | [open](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) |
 | Yummypets/YPImagePicker | partial | 2026-07-28T15:57:49Z | [open](../records/photography-yummypets-ypimagepicker-25854b52.md) |
 | zapdos-labs/unblink | partial | 2026-03-09T09:42:25Z | [open](../records/photography-zapdos-labs-unblink-0845b1a9.md) |
-| zidage/AlcedoStudio | partial | 2026-09-13T19:56:02Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
+| zidage/AlcedoStudio | partial | 2026-09-13T20:59:02Z | [open](../records/photography-zidage-alcedostudio-7b939307.md) |
 | ZSDM-HDR/Zero-Shot-Diffusion-HDR | partial | 2025-08-25T07:36:28Z | [open](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) |
 
 ## Microscopy

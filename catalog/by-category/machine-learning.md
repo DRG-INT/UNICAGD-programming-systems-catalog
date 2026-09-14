@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `867`
+Records: `870`
 
 ## Navigation
 
@@ -14,11 +14,11 @@ Records: `867`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1724)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (377)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6149)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (558)](logging-observability.md) · **[Machine Learning (867)](machine-learning.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · **[Machine Learning (870)](machine-learning.md)**
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -366,6 +366,7 @@ Records: `867`
 | periscope2 | 0.4.0 | 2026-08-19 16:10:02 UTC | [open](../records/r-periscope2-9286b5bc.md) |
 | planr | 0.6.5 | 2026-08-23 09:30:08 UTC | [open](../records/r-planr-6120bc45.md) |
 | predictset | 0.4.0 | 2026-09-08 07:20:02 UTC | [open](../records/r-predictset-dbf90b0a.md) |
+| querychat | 0.4.0 | 2026-09-13 22:40:02 UTC | [open](../records/r-querychat-33bc8d57.md) |
 | Rmalschains | 0.2-12 | 2026-09-05 16:10:09 UTC | [open](../records/r-rmalschains-568d821e.md) |
 | SampleSelectR | 1.0.0 | 2026-09-12 12:10:02 UTC | [open](../records/r-sampleselectr-a09dc243.md) |
 | scov | 2.0.2 | 2026-08-28 12:20:02 UTC | [open](../records/r-scov-c80bd944.md) |
@@ -388,6 +389,7 @@ Records: `867`
 | aihc-cpp | 2.0.0.0 | 2026-09-10T11:00:24Z | [open](../records/haskell-aihc-cpp-dcb7d8e3.md) |
 | aivika | 6.2 | 2025-10-07T08:58:53Z | [open](../records/haskell-aivika-d4afe517.md) |
 | aivika-experiment-chart | 5.4.1 | 2023-10-14T12:03:42Z | [open](../records/haskell-aivika-experiment-chart-48bbe912.md) |
+| aivika-transformers | 6.1.1 | 2024-06-29T13:24:12Z | [open](../records/haskell-aivika-transformers-300a759c.md) |
 | algebraic-classes | 0.10 | 2026-01-05T17:25:11Z | [open](../records/haskell-algebraic-classes-b195bceb.md) |
 | amazonka-cloudsearch-domains | 2.0 | 2023-07-27T21:07:26Z | [open](../records/haskell-amazonka-cloudsearch-domains-4f967faa.md) |
 | amazonka-ml | 2.0 | 2023-07-27T21:42:01Z | [open](../records/haskell-amazonka-ml-78adde35.md) |
@@ -420,6 +422,7 @@ Records: `867`
 | mime-mail | 0.5.2 | 2026-04-13T15:13:26Z | [open](../records/haskell-mime-mail-d739de0e.md) |
 | mime-mail-ses | 0.4.5 | 2026-06-21T19:24:26Z | [open](../records/haskell-mime-mail-ses-fd8e9219.md) |
 | monoidal-containers | 0.6.8.0 | 2026-06-20T00:51:00Z | [open](../records/haskell-monoidal-containers-6b7c088e.md) |
+| openai | 2.5.4 | 2026-08-25T14:31:40Z | [open](../records/haskell-openai-f26294e1.md) |
 | phladiprelio-ukrainian-simple | 0.20.2.2 | 2024-04-10T19:26:42Z | [open](../records/haskell-phladiprelio-ukrainian-simple-710985bf.md) |
 | pms-domain-model | 0.1.9.0 | 2026-06-19T23:35:47Z | [open](../records/haskell-pms-domain-model-a9daeff9.md) |
 | rainbow | 0.34.2.2 | 2019-11-29T23:12:39Z | [open](../records/haskell-rainbow-88ef19a2.md) |
@@ -529,11 +532,11 @@ Records: `867`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-13T23:13:23Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-14T00:10:34Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-13T20:50:56Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
-| open-webui/open-webui | partial | 2026-09-13T00:23:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
-| openai/openai-agents-python | partial | 2026-09-13T23:08:41Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-13T23:17:32Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| open-webui/open-webui | partial | 2026-09-14T00:22:18Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
+| openai/openai-agents-python | partial | 2026-09-14T00:24:18Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
+| OpenHands/OpenHands | partial | 2026-09-13T23:49:12Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -543,7 +546,7 @@ Records: `867`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-13T23:15:25Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-14T00:27:03Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-13T21:24:39Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -1002,7 +1005,7 @@ Records: `867`
 | --- | --- | --- | --- |
 | Chris1sFlaggin/LCSAJdump | partial | 2026-06-22T08:17:14Z | [open](../records/assembly-chris1sflaggin-lcsajdump-9acae59e.md) |
 | coderaiser/nemesis | partial | 2026-02-08T13:40:01Z | [open](../records/assembly-coderaiser-nemesis-87becb25.md) |
-| gbdev/rgbds | partial | 2026-09-13T20:35:54Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
+| gbdev/rgbds | partial | 2026-09-14T00:25:13Z | [open](../records/assembly-gbdev-rgbds-2d9bc1c6.md) |
 | giacomo-folli/asmlings | partial | 2026-07-22T12:52:18Z | [open](../records/assembly-giacomo-folli-asmlings-14c668aa.md) |
 | jishanshaikh4/8086-cheatsheet | partial | 2022-10-02T05:33:54Z | [open](../records/assembly-jishanshaikh4-8086-cheatsheet-66f8dab8.md) |
 | NtRaiseHardError/Reverse-Engineering-101 | partial | 2019-06-02T00:50:14Z | [open](../records/assembly-ntraiseharderror-reverse-engineering-101-495c0a78.md) |
