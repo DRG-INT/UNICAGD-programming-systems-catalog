@@ -183,7 +183,7 @@ Records: `255`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | partial | 2026-09-14T04:51:57Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-14T06:08:58Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 

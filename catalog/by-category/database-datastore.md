@@ -472,7 +472,7 @@ Records: `983`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| metabrainz/picard | partial | 2026-09-13T08:25:50Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
+| metabrainz/picard | partial | 2026-09-14T04:14:40Z | [open](../records/audio-metabrainz-picard-de814b29.md) |
 
 ## Video
 

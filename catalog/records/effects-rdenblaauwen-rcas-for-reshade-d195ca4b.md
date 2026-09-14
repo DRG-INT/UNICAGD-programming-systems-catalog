@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | LGPL-3; {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Unknown license |
+| Evidence | {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

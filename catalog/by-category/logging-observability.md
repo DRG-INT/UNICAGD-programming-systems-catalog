@@ -587,7 +587,7 @@ Records: `560`
 | amd/mini-isp | partial | 2026-09-01T17:19:59Z | [open](../records/photography-amd-mini-isp-b6f8adc0.md) |
 | doom40k/photography-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-doom40k-photography-blog-347adc8b.md) |
 | fakeyanss/Hexo-Album | unknown | github_search_does_not_include_release_date | [open](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) |
-| sambecker/exif-photo-blog | partial | 2026-09-13T22:53:53Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
+| sambecker/exif-photo-blog | partial | 2026-09-14T03:48:51Z | [open](../records/photography-sambecker-exif-photo-blog-fea309fc.md) |
 
 ## Microscopy
 

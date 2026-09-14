@@ -39,9 +39,9 @@ wire formats, persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Apache-2.0 |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Apache-2.0; https://www.nuget.org/packages/Amazon.Lambda.Serialization.Json/3.0.0/license |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

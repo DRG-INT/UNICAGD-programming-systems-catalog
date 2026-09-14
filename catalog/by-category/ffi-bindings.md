@@ -404,7 +404,7 @@ Records: `487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | partial | 2026-09-07T09:59:57Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | partial | 2026-09-14T06:10:49Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 

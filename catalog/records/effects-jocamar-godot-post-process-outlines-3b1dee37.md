@@ -42,7 +42,7 @@ assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -59,7 +59,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

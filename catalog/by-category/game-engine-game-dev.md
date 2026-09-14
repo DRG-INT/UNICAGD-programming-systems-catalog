@@ -451,7 +451,7 @@ Records: `378`
 | --- | --- | --- | --- |
 | bitfieldaudio/OTTO | partial | 2023-01-23T08:31:10Z | [open](../records/audio-bitfieldaudio-otto-3f40ed1a.md) |
 | jarikomppa/soloud | partial | 2024-08-13T04:10:58Z | [open](../records/audio-jarikomppa-soloud-63f03ea3.md) |
-| turanszkij/WickedEngine | partial | 2026-09-08T13:05:55Z | [open](../records/audio-turanszkij-wickedengine-5bc83ed9.md) |
+| turanszkij/WickedEngine | partial | 2026-09-14T00:40:50Z | [open](../records/audio-turanszkij-wickedengine-5bc83ed9.md) |
 
 ## Video
 

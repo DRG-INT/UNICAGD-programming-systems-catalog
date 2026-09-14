@@ -111,7 +111,7 @@ Records: `69`
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-08-31T14:21:32Z | registry-derived |
 | [bazelbuild/rules_apple](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) | partial | 2026-09-13T20:27:53Z | registry-derived |
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |
-| [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-07T14:58:21Z | registry-derived |
+| [bazelbuild/rules_rust](../records/starlark-bazelbuild-rules-rust-3c62960b.md) | partial | 2026-09-14T06:09:51Z | registry-derived |
 | [cel-expr/cel-spec](../records/starlark-cel-expr-cel-spec-b2658dd8.md) | partial | 2026-08-13T21:27:23Z | registry-derived |
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-14T03:15:59Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-10T17:22:15Z | registry-derived |

@@ -40,7 +40,7 @@ part of defect discovery, security review, undefined-state detection, and regres
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GPL (>= 3) |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ part of defect discovery, security review, undefined-state detection, and regres
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "post processing shader", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

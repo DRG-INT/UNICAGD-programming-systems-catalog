@@ -548,7 +548,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T05:12:35Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T06:11:31Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -755,12 +755,12 @@ Records: `671`
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
 | karimz1/imgcompress | partial | 2026-09-13T19:50:24Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
-| libjxl/libjxl | partial | 2026-09-13T02:46:36Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
+| libjxl/libjxl | partial | 2026-09-14T02:48:47Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mdouchement/hdr | partial | 2023-02-04T12:19:10Z | [open](../records/photography-mdouchement-hdr-30201254.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-13T18:40:06Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-14T03:31:27Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 | wasabeef/glide-transformations | partial | 2022-03-08T16:07:21Z | [open](../records/photography-wasabeef-glide-transformations-6efa38dc.md) |
 | webp-sh/webp_server_go | partial | 2026-09-11T02:42:57Z | [open](../records/photography-webp-sh-webp-server-go-e607ab44.md) |
 | WeTransfer/format_parser | partial | 2024-12-11T15:22:35Z | [open](../records/photography-wetransfer-format-parser-a46c542e.md) |
