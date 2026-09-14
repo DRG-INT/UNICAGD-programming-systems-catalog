@@ -12,12 +12,12 @@ Records: `1096`
 [Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6168)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6171)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1096)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -259,12 +259,12 @@ Records: `1096`
 | @commercetools/http-user-agent | 4.0.1 | 2025-04-25T12:36:18.727Z | [open](../records/node-js-javascript-commercetools-http-user-agent-9006cccf.md) |
 | @commercetools/sdk-middleware-http | 8.0.1 | 2025-04-25T12:36:18.435Z | [open](../records/node-js-javascript-commercetools-sdk-middleware-http-f71385c3.md) |
 | @compodoc/live-server | 1.2.3 | 2022-01-10T10:28:34.179Z | [open](../records/node-js-javascript-compodoc-live-server-c6fa8f98.md) |
-| @comunica/actor-dereference-http | 5.3.0 | 2026-07-10T10:46:33.921Z | [open](../records/node-js-javascript-comunica-actor-dereference-http-ce6794b7.md) |
-| @comunica/actor-http-fetch | 5.3.0 | 2026-07-10T10:46:29.018Z | [open](../records/node-js-javascript-comunica-actor-http-fetch-e8b274f9.md) |
-| @comunica/actor-http-proxy | 5.3.0 | 2026-07-10T10:46:28.988Z | [open](../records/node-js-javascript-comunica-actor-http-proxy-7953c313.md) |
-| @comunica/actor-http-wayback | 5.3.0 | 2026-07-10T10:46:26.195Z | [open](../records/node-js-javascript-comunica-actor-http-wayback-d0995b35.md) |
-| @comunica/bus-http | 5.3.0 | 2026-07-10T10:46:18.606Z | [open](../records/node-js-javascript-comunica-bus-http-0c46ef4a.md) |
-| @comunica/bus-http-invalidate | 5.3.0 | 2026-07-10T10:46:18.534Z | [open](../records/node-js-javascript-comunica-bus-http-invalidate-4f0477c5.md) |
+| @comunica/actor-dereference-http | 5.4.0 | 2026-09-14T09:10:07.923Z | [open](../records/node-js-javascript-comunica-actor-dereference-http-ce6794b7.md) |
+| @comunica/actor-http-fetch | 5.4.0 | 2026-09-14T09:15:19.010Z | [open](../records/node-js-javascript-comunica-actor-http-fetch-e8b274f9.md) |
+| @comunica/actor-http-proxy | 5.4.0 | 2026-09-14T09:10:03.729Z | [open](../records/node-js-javascript-comunica-actor-http-proxy-7953c313.md) |
+| @comunica/actor-http-wayback | 5.4.0 | 2026-09-14T09:10:00.031Z | [open](../records/node-js-javascript-comunica-actor-http-wayback-d0995b35.md) |
+| @comunica/bus-http | 5.4.0 | 2026-09-14T09:10:48.127Z | [open](../records/node-js-javascript-comunica-bus-http-0c46ef4a.md) |
+| @comunica/bus-http-invalidate | 5.4.0 | 2026-09-14T09:10:50.282Z | [open](../records/node-js-javascript-comunica-bus-http-invalidate-4f0477c5.md) |
 | @contract-case/case-core-plugin-http-dsl | 0.31.2 | 2026-08-31T13:45:42.818Z | [open](../records/node-js-javascript-contract-case-case-core-plugin-http-dsl-63d52497.md) |
 | @cypress/request | 4.0.1 | 2026-05-28T13:26:21.179Z | [open](../records/node-js-javascript-cypress-request-1a554a17.md) |
 | @digitalbazaar/http-client | 4.4.0 | 2026-08-06T22:49:33.660Z | [open](../records/node-js-javascript-digitalbazaar-http-client-80de7a7d.md) |
@@ -1295,7 +1295,7 @@ Records: `1096`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AFNetworking | 4.0.1 | 2020-04-20 02:25:51 UTC | [open](../records/cocoa-afnetworking-c33f66f5.md) |
-| Alamofire/Alamofire | partial | 2026-09-13T06:45:44Z | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
+| Alamofire/Alamofire | partial | 2026-09-14T05:44:45Z | [open](../records/cocoa-alamofire-alamofire-e2b01e1d.md) |
 | ChangbaDevs/KTVHTTPCache | partial | 2025-09-04T06:54:40Z | [open](../records/cocoa-changbadevs-ktvhttpcache-542d5edc.md) |
 | ChiliLabs/CHIPageControl | partial | 2023-05-22T02:43:41Z | [open](../records/cocoa-chililabs-chipagecontrol-cbd520fb.md) |
 | dustturtle/RealReachability | partial | 2026-04-29T06:58:35Z | [open](../records/cocoa-dustturtle-realreachability-89a5cfc6.md) |

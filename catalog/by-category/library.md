@@ -1,6 +1,6 @@
 # Library
 
-Records: `6168`
+Records: `6171`
 
 ## Navigation
 
@@ -12,12 +12,12 @@ Records: `6168`
 [Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6168)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6171)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -1929,7 +1929,7 @@ Records: `6168`
 | wasm-bindgen-futures | 0.4.78 | 2026-09-04T23:58:17.192884Z | [open](../records/rust-wasm-bindgen-futures-07e4253c.md) |
 | wasm-encoder | 0.259.0 | 2026-09-10T17:56:39.484498Z | [open](../records/rust-wasm-encoder-3c68ef24.md) |
 | wasm-metadata | 0.259.0 | 2026-09-10T17:56:57.479884Z | [open](../records/rust-wasm-metadata-d391b536.md) |
-| wasm-streams | 0.6.0 | 2026-05-24T13:46:25.406359Z | [open](../records/rust-wasm-streams-05d45669.md) |
+| wasm-streams | 0.7.0 | 2026-09-14T09:13:22.301646Z | [open](../records/rust-wasm-streams-05d45669.md) |
 | webpki | 0.22.4 | 2023-10-09T00:31:09.299041Z | [open](../records/rust-webpki-91a4b3c2.md) |
 | webpki-roots | 1.0.9 | 2026-07-18T09:30:44.802479Z | [open](../records/rust-webpki-roots-4aa40f15.md) |
 | windows | 0.62.2 | 2025-10-06T19:19:49.704461Z | [open](../records/rust-windows-bc41072f.md) |
@@ -2667,6 +2667,7 @@ Records: `6168`
 | exdqlm | 1.1.1 | 2026-08-28 19:00:02 UTC | [open](../records/r-exdqlm-82eabd48.md) |
 | ExpDesignR | 1.0.0 | 2026-09-01 12:40:08 UTC | [open](../records/r-expdesignr-ca6d468b.md) |
 | ExperimentalDesignGeneratorandRandomiser | 0.1.0 | 2026-09-02 12:30:13 UTC | [open](../records/r-experimentaldesigngeneratorandrandomiser-c207090b.md) |
+| extRC | 1.3 | 2026-09-14 09:30:08 UTC | [open](../records/r-extrc-cce983b7.md) |
 | f1pits | 1.3.2 | 2026-08-24 18:10:02 UTC | [open](../records/r-f1pits-b8d3a939.md) |
 | Familia | 2.0.0 | 2026-08-24 15:50:11 UTC | [open](../records/r-familia-05e7de00.md) |
 | FBMS | 1.4 | 2026-08-25 21:50:09 UTC | [open](../records/r-fbms-13f6b6e2.md) |
@@ -2682,6 +2683,7 @@ Records: `6168`
 | flextable | 0.10.1 | 2026-09-10 14:30:16 UTC | [open](../records/r-flextable-ecf37fbb.md) |
 | fpc | 2.2-15 | 2026-08-19 16:00:02 UTC | [open](../records/r-fpc-8fc84fbe.md) |
 | fplyr | 2.0.0 | 2026-09-08 09:30:10 UTC | [open](../records/r-fplyr-2ee91e27.md) |
+| fpod | 1.0.2 | 2026-09-14 09:10:02 UTC | [open](../records/r-fpod-340624d0.md) |
 | FPScausal | 0.1.1 | 2026-08-23 10:20:02 UTC | [open](../records/r-fpscausal-cb9c5b17.md) |
 | fracreg | 1.1.0 | 2026-08-20 13:00:02 UTC | [open](../records/r-fracreg-cbf7ff53.md) |
 | fred | 0.3.1 | 2026-09-09 10:00:07 UTC | [open](../records/r-fred-657ffbea.md) |
@@ -3504,6 +3506,7 @@ Records: `6168`
 | elynx-markov | 0.9.0.0 | 2025-08-11T07:26:08Z | [open](../records/haskell-elynx-markov-09f06d0e.md) |
 | elynx-tools | 0.9.0.0 | 2025-08-11T07:21:51Z | [open](../records/haskell-elynx-tools-4bc21ddc.md) |
 | elynx-tree | 0.9.0.0 | 2025-08-11T07:25:05Z | [open](../records/haskell-elynx-tree-8e669a88.md) |
+| encapsule | 0.5 | 2026-09-14T10:00:37Z | [open](../records/haskell-encapsule-a315f436.md) |
 | encoding | 0.10.3 | 2026-06-13T20:01:49Z | [open](../records/haskell-encoding-3dd6bfab.md) |
 | entropy | 0.4.1.11 | 2025-01-01T23:24:19Z | [open](../records/haskell-entropy-958c2912.md) |
 | enumerator | 0.4.20 | 2013-10-13T01:39:33Z | [open](../records/haskell-enumerator-ce661620.md) |
@@ -6058,7 +6061,7 @@ Records: `6168`
 | LingDong-/wasm-fun | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lingdong-wasm-fun-c02d519e.md) |
 | lldap/lldap | partial | 2026-08-28T21:38:48Z | [open](../records/webassembly-lldap-lldap-2dbc8ad4.md) |
 | mbebenita/WasmExplorer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mbebenita-wasmexplorer-39663e88.md) |
-| meshery/meshery | partial | 2026-09-14T01:28:50Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
+| meshery/meshery | partial | 2026-09-14T08:02:09Z | [open](../records/webassembly-meshery-meshery-19a90056.md) |
 | nebulet/nebulet | partial | 2023-02-28T21:27:36Z | [open](../records/webassembly-nebulet-nebulet-31ed69e9.md) |
 | rstropek/rust-samples | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rstropek-rust-samples-7a66305a.md) |
 | rust-windowing/winit | partial | 2026-09-12T08:26:23Z | [open](../records/webassembly-rust-windowing-winit-3721948f.md) |
