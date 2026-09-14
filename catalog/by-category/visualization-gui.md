@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `652`
+Records: `653`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `652`
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (984)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1733)](filesystem-os.md) · [Formatter (674)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6181)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1248)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (655)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (652)](visualization-gui.md)** · [Web Framework (497)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (656)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1674)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (653)](visualization-gui.md)** · [Web Framework (497)](web-framework.md)
 
 ## C++23
 
@@ -182,6 +182,7 @@ Records: `652`
 | ggpalettes | 0.2.0 | 2026-08-04 16:30:17 UTC | [open](../records/r-ggpalettes-7fbdf211.md) |
 | ggpop | 1.8.0 | 2026-08-23 20:10:11 UTC | [open](../records/r-ggpop-471817eb.md) |
 | ggquiver | 0.5.0 | 2026-08-20 14:10:22 UTC | [open](../records/r-ggquiver-ccf7e4a5.md) |
+| ggspatial | 1.1.11 | 2026-09-14 22:10:02 UTC | [open](../records/r-ggspatial-f2c39090.md) |
 | ggstats | 0.14.0 | 2026-09-02 05:20:33 UTC | [open](../records/r-ggstats-bf9f633f.md) |
 | ggtext | 0.2.0 | 2026-08-28 10:30:07 UTC | [open](../records/r-ggtext-20be84ab.md) |
 | ggthemes | 6.0.0 | 2026-08-30 05:10:30 UTC | [open](../records/r-ggthemes-d19d474f.md) |
@@ -654,10 +655,10 @@ Records: `652`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 66HEX/frame | partial | 2026-08-31T02:37:41Z | [open](../records/video-66hex-frame-3fe690c6.md) |
+| 66HEX/frame | partial | 2026-09-14T02:38:37Z | [open](../records/video-66hex-frame-3fe690c6.md) |
 | kannagi0303/yt-dlp-gui | partial | 2026-05-13T11:02:40Z | [open](../records/video-kannagi0303-yt-dlp-gui-adc5538e.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-04T09:35:28Z | [open](../records/video-lake1059-ffmpegfreeui-83a6c1f5.md) |
-| langhuihui/jessibuca | partial | 2026-09-04T07:31:02Z | [open](../records/video-langhuihui-jessibuca-06a0e5ac.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-14T13:54:07Z | [open](../records/video-lake1059-ffmpegfreeui-83a6c1f5.md) |
+| langhuihui/jessibuca | partial | 2026-09-14T17:32:21Z | [open](../records/video-langhuihui-jessibuca-06a0e5ac.md) |
 | mpvnet-player/mpv.net | partial | 2026-02-09T13:12:05Z | [open](../records/video-mpvnet-player-mpv-net-ef22c1b1.md) |
 | OBS Studio | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/video-obs-studio-6a894ae9.md) |
 | onsip/SIP.js | partial | 2026-06-15T19:18:20Z | [open](../records/video-onsip-sip-js-79b82b69.md) |

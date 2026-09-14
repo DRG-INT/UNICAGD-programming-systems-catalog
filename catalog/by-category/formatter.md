@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `673`
+Records: `674`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `673`
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (984)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · **[Formatter (673)](formatter.md)**
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1733)](filesystem-os.md) · **[Formatter (674)](formatter.md)**
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6181)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1248)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (655)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (656)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1674)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (653)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
 
@@ -428,6 +428,7 @@ Records: `673`
 | learningtower | 2.0.0 | 2026-08-25 10:50:08 UTC | [open](../records/r-learningtower-5de0b769.md) |
 | liteformats | 0.2.0 | 2026-08-24 05:20:09 UTC | [open](../records/r-liteformats-501b647c.md) |
 | lucid | 1.12 | 2026-09-03 16:20:08 UTC | [open](../records/r-lucid-224c51a5.md) |
+| miic | 2.0.4 | 2026-09-14 20:50:02 UTC | [open](../records/r-miic-61cb86f5.md) |
 | mlt | 1.8-2 | 2026-08-21 15:00:02 UTC | [open](../records/r-mlt-55856087.md) |
 | msigdbr | 26.1.1 | 2026-08-20 05:21:05 UTC | [open](../records/r-msigdbr-b3649ac1.md) |
 | nlmixr2save | 0.2.0 | 2026-08-05 00:20:02 UTC | [open](../records/r-nlmixr2save-13c62579.md) |
@@ -548,7 +549,7 @@ Records: `673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T21:18:01Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T22:18:59Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -732,9 +733,9 @@ Records: `673`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | deepjyoti30/ytmdl | partial | 2024-08-15T09:11:15Z | [open](../records/video-deepjyoti30-ytmdl-d75a15bb.md) |
-| LaoFeng-mouse/flyingmouse-format | partial | 2026-09-04T14:32:12Z | [open](../records/video-laofeng-mouse-flyingmouse-format-e28842e0.md) |
+| LaoFeng-mouse/flyingmouse-format | partial | 2026-09-14T15:18:44Z | [open](../records/video-laofeng-mouse-flyingmouse-format-e28842e0.md) |
 | robbyant-research/CoDeF | partial | 2024-04-07T03:27:29Z | [open](../records/video-robbyant-research-codef-fd77a0b3.md) |
-| signalwire/freeswitch | partial | 2026-09-08T22:33:50Z | [open](../records/video-signalwire-freeswitch-a9bf73a8.md) |
+| signalwire/freeswitch | partial | 2026-09-14T13:03:57Z | [open](../records/video-signalwire-freeswitch-a9bf73a8.md) |
 
 ## Photography
 
@@ -743,7 +744,7 @@ Records: `673`
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-13T05:27:31Z | [open](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) |
 | AlenVelocity/wa-sticker-formatter | partial | 2026-08-10T19:22:06Z | [open](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) |
 | ankitdhall/lidar_camera_calibration | partial | 2025-10-16T18:17:31Z | [open](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) |
-| blakeblackshear/frigate | partial | 2026-09-14T19:26:46Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
+| blakeblackshear/frigate | partial | 2026-09-14T22:12:57Z | [open](../records/photography-blakeblackshear-frigate-ea8ac18c.md) |
 | blakeblackshear/frigate-hass-integration | partial | 2026-09-04T06:33:23Z | [open](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) |
 | d2phap/ImageGlass | partial | 2026-09-14T16:04:12Z | [open](../records/photography-d2phap-imageglass-ec40014f.md) |
 | dnglab/dnglab | partial | 2026-08-30T14:57:26Z | [open](../records/photography-dnglab-dnglab-05d113bb.md) |
