@@ -443,7 +443,7 @@ Records: `983`
 | osm2pgsql-dev/osm2pgsql | partial | 2026-09-10T21:09:53Z | [open](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) |
 | PostGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-postgis-05acffcb.md) |
 | postgis/postgis | partial | 2026-09-14T10:39:34Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
-| RediSearch/RediSearch | partial | 2026-09-14T14:24:12Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
+| RediSearch/RediSearch | partial | 2026-09-14T15:22:49Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
 | thanglequoc/vietnamese-provinces-database | partial | 2026-09-13T08:41:30Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | unknown | github_search_does_not_include_release_date | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) |
 

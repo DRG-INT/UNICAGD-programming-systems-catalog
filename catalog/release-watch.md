@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T14:26:51+00:00`
+Generated: `2026-09-14T15:25:37+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -290,7 +290,7 @@ Generated: `2026-09-14T14:26:51+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10557 |
+| gh_search_reports_activity_not_release_version | 10584 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -300,8 +300,8 @@ Generated: `2026-09-14T14:26:51+00:00`
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
-| github_latest_release_missing | 209 |
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
+| github_latest_release_missing | 182 |
 | not_a_go_module_path | 178 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |

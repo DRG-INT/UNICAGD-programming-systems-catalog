@@ -169,7 +169,7 @@ Records: `69`
 | fulldecent/system-bus-radio | partial | 2026-03-18T14:20:54Z | [open](../records/electromagnetoscopes-fulldecent-system-bus-radio-4aafaaaf.md) |
 | jremington/LSM9DS1-AHRS | partial | 2024-04-20T22:19:52Z | [open](../records/electromagnetoscopes-jremington-lsm9ds1-ahrs-8887a17e.md) |
 | open-sdr/openwifi-hw | partial | 2025-09-23T06:57:55Z | [open](../records/electromagnetoscopes-open-sdr-openwifi-hw-23742265.md) |
-| react-native-sensors/react-native-sensors | partial | 2026-09-09T22:46:20Z | [open](../records/electromagnetoscopes-react-native-sensors-react-native-sensors-af79e7ca.md) |
+| react-native-sensors/react-native-sensors | partial | 2026-09-13T14:07:06Z | [open](../records/electromagnetoscopes-react-native-sensors-react-native-sensors-af79e7ca.md) |
 | rtl-sdr | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/electromagnetoscopes-rtl-sdr-7229b2c8.md) |
 | the-risk-taker/matlab-magnetometer-hard-and-soft-iron-compensation-algorithm | partial | 2023-03-22T23:33:34Z | [open](../records/electromagnetoscopes-the-risk-taker-matlab-magnetometer-hard-and-soft-iron-compensation-algorithm-0046e691.md) |
 

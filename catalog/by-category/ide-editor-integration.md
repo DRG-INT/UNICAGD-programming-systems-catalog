@@ -695,12 +695,12 @@ Records: `1522`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T13:51:02Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T15:05:46Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-14T12:55:58Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-14T12:15:43Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-14T15:10:58Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-14T14:07:30Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-14T13:45:52Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-14T14:51:05Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software
@@ -826,7 +826,7 @@ Records: `1522`
 | epilys/gerb | partial | 2024-10-17T10:23:39Z | [open](../records/assets-epilys-gerb-11b0ad1a.md) |
 | fontra/fontra | partial | 2026-09-11T18:21:29Z | [open](../records/assets-fontra-fontra-5752503b.md) |
 | imadr/Unity-game-hacking | partial | 2022-11-14T15:38:12Z | [open](../records/assets-imadr-unity-game-hacking-14ce1631.md) |
-| itflow-org/itflow | partial | 2026-09-14T13:28:45Z | [open](../records/assets-itflow-org-itflow-94ed9c35.md) |
+| itflow-org/itflow | partial | 2026-09-14T15:13:25Z | [open](../records/assets-itflow-org-itflow-94ed9c35.md) |
 | javierbyte/brutalita | partial | 2026-09-12T03:03:44Z | [open](../records/assets-javierbyte-brutalita-1566daf1.md) |
 | JeffersonQin/YuzuMarker.FontDetection | partial | 2025-02-22T22:38:43Z | [open](../records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) |
 | listyque/TACTIC-Handler | partial | 2026-09-13T14:51:21Z | [open](../records/assets-listyque-tactic-handler-4eac647f.md) |
@@ -1451,10 +1451,10 @@ Records: `1522`
 | jman4162/Phased-Array-Antenna-Model | partial | 2026-09-05T07:51:29Z | [open](../records/electromagnetoscopes-jman4162-phased-array-antenna-model-c135e53f.md) |
 | JonaNorman/HDRSample | partial | 2024-08-01T09:01:08Z | [open](../records/electromagnetoscopes-jonanorman-hdrsample-ac827086.md) |
 | KAIST-HCIL/MagTouch | partial | 2020-05-08T12:45:13Z | [open](../records/electromagnetoscopes-kaist-hcil-magtouch-88db435c.md) |
-| NGSolve/ngsolve | partial | 2026-09-10T15:46:23Z | [open](../records/electromagnetoscopes-ngsolve-ngsolve-f54b35ee.md) |
+| NGSolve/ngsolve | partial | 2026-09-14T03:53:36Z | [open](../records/electromagnetoscopes-ngsolve-ngsolve-f54b35ee.md) |
 | osmocom/osmocom-bb | partial | 2026-06-17T20:09:42Z | [open](../records/electromagnetoscopes-osmocom-osmocom-bb-2f4c1d97.md) |
 | pkarsy/CC1101_RF | partial | 2025-01-28T18:30:26Z | [open](../records/electromagnetoscopes-pkarsy-cc1101-rf-7d6c1931.md) |
-| Raiden-Numerics/mufem | partial | 2026-09-09T11:34:07Z | [open](../records/electromagnetoscopes-raiden-numerics-mufem-30380f48.md) |
+| Raiden-Numerics/mufem | partial | 2026-09-14T01:18:57Z | [open](../records/electromagnetoscopes-raiden-numerics-mufem-30380f48.md) |
 | ratwolfzero/Capacitor_FEM | partial | 2026-08-25T19:55:58Z | [open](../records/electromagnetoscopes-ratwolfzero-capacitor-fem-dd40c270.md) |
 | romavis/lomiloop | partial | 2023-03-30T13:49:50Z | [open](../records/electromagnetoscopes-romavis-lomiloop-7ad72199.md) |
 | ruvnet/RuView | partial | 2026-09-14T06:32:58Z | [open](../records/electromagnetoscopes-ruvnet-ruview-2ca00b65.md) |
@@ -1502,7 +1502,7 @@ Records: `1522`
 | clidey/whodb | partial | 2026-09-14T03:36:12Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
 | Esri/geoportal-server-catalog | partial | 2026-09-14T07:23:26Z | [open](../records/catalogs-esri-geoportal-server-catalog-528de935.md) |
 | fnplus/community-project-ideas | partial | 2025-02-21T18:58:09Z | [open](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) |
-| geonetwork/core-geonetwork | partial | 2026-09-11T07:20:28Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
+| geonetwork/core-geonetwork | partial | 2026-09-14T14:30:33Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
 | interactivethings/catalog | partial | 2025-10-10T15:02:22Z | [open](../records/catalogs-interactivethings-catalog-75b8f4c3.md) |
 | jinht/GuidePages | partial | 2018-12-17T13:04:31Z | [open](../records/catalogs-jinht-guidepages-bfe173bf.md) |
 | lofcz/Infidex | partial | 2025-12-30T17:35:01Z | [open](../records/catalogs-lofcz-infidex-7d75607d.md) |

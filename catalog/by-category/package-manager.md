@@ -500,7 +500,7 @@ Records: `450`
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
 | agentclientprotocol/registry | partial | 2026-09-14T13:22:03Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
 | agentic-community/mcp-gateway-registry | partial | 2026-09-14T09:23:58Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
-| agentregistry-dev/agentregistry | partial | 2026-09-11T21:02:41Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
+| agentregistry-dev/agentregistry | partial | 2026-09-14T15:19:26Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
 | andrey-pohilko/registry-cli | partial | 2025-08-21T07:46:50Z | [open](../records/catalogs-andrey-pohilko-registry-cli-f5eec2cd.md) |
 | Arvanaghi/SessionGopher | partial | 2022-11-22T21:33:23Z | [open](../records/catalogs-arvanaghi-sessiongopher-9db51615.md) |
@@ -524,8 +524,8 @@ Records: `450`
 | dragonflyoss/dragonfly | partial | 2026-09-14T09:38:39Z | [open](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) |
 | dragonflyoss/dragonfly-archived | partial | 2023-02-27T11:07:29Z | [open](../records/catalogs-dragonflyoss-dragonfly-archived-f9b97716.md) |
 | dromara/disjob | partial | 2026-09-11T14:04:26Z | [open](../records/catalogs-dromara-disjob-0416b69e.md) |
-| eclipse-openvsx/openvsx | partial | 2026-09-14T14:16:14Z | [open](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) |
-| EclipseFdn/open-vsx.org | partial | 2026-09-10T15:32:07Z | [open](../records/catalogs-eclipsefdn-open-vsx-org-155087b7.md) |
+| eclipse-openvsx/openvsx | partial | 2026-09-14T14:52:18Z | [open](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) |
+| EclipseFdn/open-vsx.org | partial | 2026-09-14T15:21:27Z | [open](../records/catalogs-eclipsefdn-open-vsx-org-155087b7.md) |
 | elixir-horde/horde | partial | 2026-07-31T15:48:34Z | [open](../records/catalogs-elixir-horde-horde-18124598.md) |
 | eon01/DockerCheatSheet | partial | 2026-02-19T11:33:06Z | [open](../records/catalogs-eon01-dockercheatsheet-4be1df5d.md) |
 | Evalle/DCA | partial | 2026-04-26T19:17:39Z | [open](../records/catalogs-evalle-dca-424f4b2e.md) |
@@ -575,7 +575,7 @@ Records: `450`
 | regclient/regclient | partial | 2026-09-09T21:12:36Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
 | replicatedhq/ttl.sh | partial | 2026-09-08T16:18:08Z | [open](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) |
 | riferrei/srclient | partial | 2025-10-30T23:49:01Z | [open](../records/catalogs-riferrei-srclient-a30143ad.md) |
-| rtvkiz/minimal | partial | 2026-09-14T14:10:28Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
+| rtvkiz/minimal | partial | 2026-09-14T14:26:47Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
 | salasaurusrex/context_menu | partial | 2024-09-14T17:11:04Z | [open](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) |
 | SatyamVyas04/sensory-ui | partial | 2026-09-12T10:07:21Z | [open](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) |
 | scarf-sh/gateway | partial | 2026-06-13T16:09:48Z | [open](../records/catalogs-scarf-sh-gateway-74aad772.md) |

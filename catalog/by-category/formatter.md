@@ -548,7 +548,7 @@ Records: `673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T14:13:56Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T15:20:10Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -604,7 +604,7 @@ Records: `673`
 | kokokuo/scraper-fourone-jobs | partial | 2022-12-08T05:49:51Z | [open](../records/font-briefcase-kokokuo-scraper-fourone-jobs-469cbe70.md) |
 | KonghaYao/chinese-free-web-font-storage | partial | 2026-06-16T07:38:56Z | [open](../records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) |
 | rbanffy/3270font | partial | 2026-02-13T04:07:55Z | [open](../records/font-briefcase-rbanffy-3270font-bb4cce98.md) |
-| SixLabors/Fonts | partial | 2026-09-10T05:30:44Z | [open](../records/font-briefcase-sixlabors-fonts-14452040.md) |
+| SixLabors/Fonts | partial | 2026-09-12T05:34:38Z | [open](../records/font-briefcase-sixlabors-fonts-14452040.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/font-briefcase-trufont-trufont-616b3d2e.md) |
 
 ## Assets
@@ -628,7 +628,7 @@ Records: `673`
 | oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-14T14:08:32Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-14T14:39:21Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 | wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |

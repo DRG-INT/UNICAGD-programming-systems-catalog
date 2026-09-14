@@ -870,7 +870,7 @@ Records: `1730`
 | CesiumGS/cesium-unreal | partial | 2026-09-11T15:49:12Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-14T14:21:34Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-14T15:07:54Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -884,7 +884,7 @@ Records: `1730`
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
 | GenericMappingTools/gmt | partial | 2026-09-13T21:59:13Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | geocompx/geocompr | partial | 2026-09-14T14:14:43Z | [open](../records/maps-geocompx-geocompr-56cd97d0.md) |
-| GeoNode/geonode | partial | 2026-09-14T14:01:15Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
+| GeoNode/geonode | partial | 2026-09-14T14:58:05Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-14T07:10:41Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
 | georust/geo | partial | 2026-09-07T09:51:36Z | [open](../records/maps-georust-geo-aa20b54a.md) |
 | geosolutions-it/MapStore2 | partial | 2026-09-14T10:47:38Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
@@ -1598,7 +1598,7 @@ Records: `1730`
 | potatobeanradio/circuitRF | partial | 2026-09-14T04:21:51Z | [open](../records/electromagnetoscopes-potatobeanradio-circuitrf-543cc137.md) |
 | pothosware/PothosCore | partial | 2023-06-04T00:14:56Z | [open](../records/electromagnetoscopes-pothosware-pothoscore-bfc13d94.md) |
 | pothosware/SoapySDR | partial | 2026-01-02T21:28:01Z | [open](../records/electromagnetoscopes-pothosware-soapysdr-c11f1141.md) |
-| SiEPIC/gds_fdtd | partial | 2026-09-07T04:11:13Z | [open](../records/electromagnetoscopes-siepic-gds-fdtd-0f8dc0d6.md) |
+| SiEPIC/gds_fdtd | partial | 2026-09-14T04:13:45Z | [open](../records/electromagnetoscopes-siepic-gds-fdtd-0f8dc0d6.md) |
 | simpeg/geoana | partial | 2026-02-03T05:02:24Z | [open](../records/electromagnetoscopes-simpeg-geoana-c733ddeb.md) |
 | therealdreg/umsakazo | partial | 2026-09-13T22:02:30Z | [open](../records/electromagnetoscopes-therealdreg-umsakazo-7a83458b.md) |
 | toammann/Multilayer_SMA2Microstrip | partial | 2023-11-16T18:44:04Z | [open](../records/electromagnetoscopes-toammann-multilayer-sma2microstrip-aff8d378.md) |
@@ -1769,7 +1769,7 @@ Records: `1730`
 | lucasgelfond/exiftool-web | partial | 2026-01-10T18:07:32Z | [open](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
 | mbasso/awesome-wasm | partial | 2024-11-15T14:58:04Z | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
-| microsoft/fluentui-blazor | partial | 2026-09-14T12:13:36Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
+| microsoft/fluentui-blazor | partial | 2026-09-14T14:55:25Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | mosra/magnum | partial | 2026-08-23T10:24:48Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | nihui/opencv-mobile | partial | 2026-07-12T12:55:31Z | [open](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | not-fl3/macroquad | partial | 2026-08-18T09:37:35Z | [open](../records/webassembly-not-fl3-macroquad-ace3e52a.md) |
@@ -1809,7 +1809,7 @@ Records: `1730`
 | CodeEditApp/CodeEdit | partial | 2026-08-18T21:24:35Z | [open](../records/swift-codeeditapp-codeedit-88d3a878.md) |
 | CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
 | darrylmorley/whatcable | partial | 2026-09-11T15:12:43Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-13T17:12:44Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-14T12:44:38Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
 | duongductrong/Snapzy | partial | 2026-09-12T05:09:29Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
 | eleev/ios-learning-materials | partial | 2026-08-18T18:26:29Z | [open](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |

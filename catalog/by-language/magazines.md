@@ -39,7 +39,7 @@ Records: `342`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [akka/akka-persistence-jdbc](../records/magazines-akka-akka-persistence-jdbc-422551b6.md) | partial | 2026-09-14T07:12:46Z | registry-derived |
+| [akka/akka-persistence-jdbc](../records/magazines-akka-akka-persistence-jdbc-422551b6.md) | partial | 2026-09-14T15:24:13Z | registry-derived |
 
 ### Benchmarking
 
@@ -119,7 +119,7 @@ Records: `342`
 | [hashirshoaeb/star_book](../records/magazines-hashirshoaeb-star-book-7ed3063e.md) | partial | 2025-05-29T09:00:13Z | registry-derived |
 | [jendrikseipp/rednotebook](../records/magazines-jendrikseipp-rednotebook-5d8d4f11.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [lunatask/lunatask](../records/magazines-lunatask-lunatask-2f6be720.md) | partial | 2026-06-10T21:01:27Z | registry-derived |
-| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-14T09:17:42Z | registry-derived |
+| [memrynote/memry](../records/magazines-memrynote-memry-3848d952.md) | partial | 2026-09-14T15:23:29Z | registry-derived |
 
 ### Data Science
 
@@ -408,7 +408,7 @@ Records: `342`
 | --- | --- | --- | --- |
 | [2KAbhishek/tdo](../records/magazines-2kabhishek-tdo-3992095c.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [ajaymnk/open-electronics](../records/magazines-ajaymnk-open-electronics-d823069e.md) | partial | 2024-12-22T18:40:08Z | registry-derived |
-| [collective/icalendar](../records/magazines-collective-icalendar-8d6e8512.md) | partial | 2026-09-13T19:34:59Z | registry-derived |
+| [collective/icalendar](../records/magazines-collective-icalendar-8d6e8512.md) | partial | 2026-09-14T12:35:33Z | registry-derived |
 | [FiltersHeroes/PolishAnnoyanceFilters](../records/magazines-filtersheroes-polishannoyancefilters-7c5a5ef3.md) | partial | 2026-09-12T21:57:02Z | registry-derived |
 | [Ha0Tang/HandGestureRecognition](../records/magazines-ha0tang-handgesturerecognition-16d2c54b.md) | partial | 2021-07-25T07:22:18Z | registry-derived |
 | [mat-nolen/tldr-radio](../records/magazines-mat-nolen-tldr-radio-65ac5e2c.md) | partial | 2026-08-29T22:50:47Z | registry-derived |
@@ -443,7 +443,7 @@ Records: `342`
 | [quantixed/manuscript-templates](../records/magazines-quantixed-manuscript-templates-0fd952ae.md) | partial | 2026-01-21T08:54:04Z | registry-derived |
 | [razacreative/blog-dark](../records/magazines-razacreative-blog-dark-50487664.md) | partial | 2020-06-16T05:05:48Z | registry-derived |
 | [razacreative/Responsive-NavBar](../records/magazines-razacreative-responsive-navbar-21017105.md) | partial | 2020-06-19T05:21:12Z | registry-derived |
-| [rstudio/rticles](../records/magazines-rstudio-rticles-1354fe57.md) | partial | 2026-05-15T17:24:39Z | registry-derived |
+| [rstudio/rticles](../records/magazines-rstudio-rticles-1354fe57.md) | partial | 2026-09-14T15:17:39Z | registry-derived |
 | [shellywhen/Journal-Response-Letter-Template-LaTeX](../records/magazines-shellywhen-journal-response-letter-template-latex-e3622e7f.md) | partial | 2026-04-15T14:31:43Z | registry-derived |
 | [sunbliss/photorama](../records/magazines-sunbliss-photorama-e8437230.md) | partial | 2022-11-26T16:31:05Z | registry-derived |
 

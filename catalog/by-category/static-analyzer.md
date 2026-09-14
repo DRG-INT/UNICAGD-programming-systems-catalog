@@ -783,7 +783,7 @@ Records: `686`
 | pingequalab/rf-lab | partial | 2026-07-25T09:15:55Z | [open](../records/electromagnetoscopes-pingequalab-rf-lab-63ca71e8.md) |
 | Pyrograf/Audio-Spectrum-Display | partial | 2025-01-15T12:44:40Z | [open](../records/electromagnetoscopes-pyrograf-audio-spectrum-display-f9f518d4.md) |
 | questrail/keysight | partial | 2026-09-02T15:43:15Z | [open](../records/electromagnetoscopes-questrail-keysight-54ace743.md) |
-| Range-Software/range-fea | partial | 2026-08-28T10:17:40Z | [open](../records/electromagnetoscopes-range-software-range-fea-ebb108aa.md) |
+| Range-Software/range-fea | partial | 2026-09-14T13:57:34Z | [open](../records/electromagnetoscopes-range-software-range-fea-ebb108aa.md) |
 | rbn42/panon | partial | 2023-10-02T11:57:27Z | [open](../records/electromagnetoscopes-rbn42-panon-1725c9fd.md) |
 | rfquack/RFQuack | partial | 2024-12-23T21:53:48Z | [open](../records/electromagnetoscopes-rfquack-rfquack-ea9f1c02.md) |
 | romankalyna/RFsquek | partial | 2025-09-07T16:24:47Z | [open](../records/electromagnetoscopes-romankalyna-rfsquek-d7004bab.md) |

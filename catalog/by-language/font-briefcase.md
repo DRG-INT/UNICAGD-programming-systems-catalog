@@ -172,7 +172,7 @@ Records: `272`
 | [kokokuo/scraper-fourone-jobs](../records/font-briefcase-kokokuo-scraper-fourone-jobs-469cbe70.md) | partial | 2022-12-08T05:49:51Z | registry-derived |
 | [KonghaYao/chinese-free-web-font-storage](../records/font-briefcase-konghayao-chinese-free-web-font-storage-7df90ad6.md) | partial | 2026-06-16T07:38:56Z | registry-derived |
 | [rbanffy/3270font](../records/font-briefcase-rbanffy-3270font-bb4cce98.md) | partial | 2026-02-13T04:07:55Z | registry-derived |
-| [SixLabors/Fonts](../records/font-briefcase-sixlabors-fonts-14452040.md) | partial | 2026-09-10T05:30:44Z | registry-derived |
+| [SixLabors/Fonts](../records/font-briefcase-sixlabors-fonts-14452040.md) | partial | 2026-09-12T05:34:38Z | registry-derived |
 | [trufont/trufont](../records/font-briefcase-trufont-trufont-616b3d2e.md) | partial | 2025-12-02T16:43:50Z | registry-derived |
 
 ### Game Engine Game Dev

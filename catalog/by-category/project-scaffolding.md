@@ -271,7 +271,7 @@ Records: `145`
 | quantixed/manuscript-templates | partial | 2026-01-21T08:54:04Z | [open](../records/magazines-quantixed-manuscript-templates-0fd952ae.md) |
 | razacreative/blog-dark | partial | 2020-06-16T05:05:48Z | [open](../records/magazines-razacreative-blog-dark-50487664.md) |
 | razacreative/Responsive-NavBar | partial | 2020-06-19T05:21:12Z | [open](../records/magazines-razacreative-responsive-navbar-21017105.md) |
-| rstudio/rticles | partial | 2026-05-15T17:24:39Z | [open](../records/magazines-rstudio-rticles-1354fe57.md) |
+| rstudio/rticles | partial | 2026-09-14T15:17:39Z | [open](../records/magazines-rstudio-rticles-1354fe57.md) |
 | shellywhen/Journal-Response-Letter-Template-LaTeX | partial | 2026-04-15T14:31:43Z | [open](../records/magazines-shellywhen-journal-response-letter-template-latex-e3622e7f.md) |
 | sunbliss/photorama | partial | 2022-11-26T16:31:05Z | [open](../records/magazines-sunbliss-photorama-e8437230.md) |
 

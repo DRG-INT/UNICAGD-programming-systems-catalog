@@ -442,7 +442,7 @@ Records: `291`
 | qrdate/tinywasi | partial | 2022-03-27T10:59:01Z | [open](../records/webassembly-qrdate-tinywasi-3dc1de87.md) |
 | rdunnington/bytebox | partial | 2026-06-08T00:58:21Z | [open](../records/webassembly-rdunnington-bytebox-718ba3d6.md) |
 | remko/uxn.wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-remko-uxn-wasm-81ebab05.md) |
-| rivet-dev/agentos | partial | 2026-09-10T00:26:54Z | [open](../records/webassembly-rivet-dev-agentos-6c03f7ec.md) |
+| rivet-dev/agentos | partial | 2026-09-14T14:17:50Z | [open](../records/webassembly-rivet-dev-agentos-6c03f7ec.md) |
 | runtimeverification/wasm-semantics | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-runtimeverification-wasm-semantics-45d67936.md) |
 | RustPython/RustPython | partial | 2026-09-13T15:34:45Z | [open](../records/webassembly-rustpython-rustpython-0b8d0749.md) |
 | saghul/txiki.js | partial | 2026-09-11T09:17:08Z | [open](../records/webassembly-saghul-txiki-js-8b8b75eb.md) |
@@ -452,7 +452,7 @@ Records: `291`
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-14T05:31:19Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
 | wasm3/wasm3 | partial | 2026-09-14T00:19:47Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-14T08:38:41Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-14T13:25:53Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmerio/wasmer-go | partial | 2025-02-01T18:39:34Z | [open](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |
 | wasmerio/wasmer-python | partial | 2023-09-17T14:48:07Z | [open](../records/webassembly-wasmerio-wasmer-python-5f08abff.md) |

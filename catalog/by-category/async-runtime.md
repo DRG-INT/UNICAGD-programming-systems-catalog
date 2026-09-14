@@ -201,7 +201,7 @@ Records: `139`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| akka/akka-persistence-jdbc | partial | 2026-09-14T07:12:46Z | [open](../records/magazines-akka-akka-persistence-jdbc-422551b6.md) |
+| akka/akka-persistence-jdbc | partial | 2026-09-14T15:24:13Z | [open](../records/magazines-akka-akka-persistence-jdbc-422551b6.md) |
 
 ## PHP
 

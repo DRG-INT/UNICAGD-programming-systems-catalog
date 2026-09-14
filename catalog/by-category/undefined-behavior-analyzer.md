@@ -1312,7 +1312,7 @@ Records: `1673`
 | JOSM/josm | partial | 2026-09-13T17:00:36Z | [open](../records/maps-josm-josm-420b210b.md) |
 | koopjs/koop | unknown | github_search_does_not_include_release_date | [open](../records/maps-koopjs-koop-6b3ab614.md) |
 | maplibre/demotiles | partial | 2026-08-21T17:15:02Z | [open](../records/maps-maplibre-demotiles-72972139.md) |
-| MapServer/MapServer | partial | 2026-09-14T12:40:27Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
+| MapServer/MapServer | partial | 2026-09-14T14:32:34Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
 | opendatacube/datacube-core | partial | 2026-09-11T07:18:05Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
