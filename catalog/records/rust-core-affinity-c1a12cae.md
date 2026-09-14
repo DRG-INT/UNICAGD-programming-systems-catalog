@@ -41,9 +41,9 @@ integration, ABI ownership, memory safety, and runtime embedding.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | zlib License; https://api.github.com/licenses/zlib |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Mixed license review |
+| Evidence | GPL-3; {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

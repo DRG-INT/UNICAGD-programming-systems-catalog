@@ -191,7 +191,7 @@ Records: `290`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asdf-vm/asdf | unknown | not_a_go_module_path | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
+| asdf-vm/asdf | partial | 2026-09-03T13:48:57Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
 | github.com/btc-vision/btc-runtime | v1.10.6 | 2026-08-30T12:53:01.50741Z | [open](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) |
 | github.com/btc-vision/op-vm | v0.3.8 | 2026-08-30T16:32:47.097658Z | [open](../records/go-github-com-btc-vision-op-vm-0f62577b.md) |
 | github.com/esotericsoftware/spine-runtimes | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
@@ -515,9 +515,9 @@ Records: `290`
 | --- | --- | --- | --- |
 | andreyorst/fenneldoc | partial | 2025-11-25T23:04:47.461Z | [open](../records/repository-workplaces-andreyorst-fenneldoc-ae269a8d.md) |
 | cespedes/ltrace | partial | 2026-09-11T09:55:04.386Z | [open](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) |
-| cznic/libc | partial | 2026-09-14T05:50:56.955Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
+| cznic/libc | partial | 2026-09-14T10:23:06.003Z | [open](../records/repository-workplaces-cznic-libc-3b834450.md) |
 | DerLinkshaender/csv2xlsx | partial | 2023-01-23T21:54:27.769Z | [open](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) |
-| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-14T09:52:34.568Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
+| freedesktop-sdk/freedesktop-sdk | partial | 2026-09-14T11:33:19.358Z | [open](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) |
 | Gitea: Befaci03/collab-vm-1.2-server-bettetweak | partial | 2025-04-20T12:00:39Z | [open](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) |
 | Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better | partial | 2025-04-19T11:00:56Z | [open](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) |
 | Gitea: Gala_Group/GalaRuntime | partial | 2023-09-03T18:22:16Z | [open](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) |

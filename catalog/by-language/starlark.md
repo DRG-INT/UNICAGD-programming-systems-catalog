@@ -116,7 +116,7 @@ Records: `69`
 | [envoyproxy/data-plane-api](../records/starlark-envoyproxy-data-plane-api-7610f6c0.md) | partial | 2026-09-14T03:15:59Z | registry-derived |
 | [google/dotprompt](../records/starlark-google-dotprompt-07de9fab.md) | partial | 2026-09-10T17:22:15Z | registry-derived |
 | [google/fully-homomorphic-encryption](../records/starlark-google-fully-homomorphic-encryption-7e96f129.md) | partial | 2026-09-06T04:02:41Z | registry-derived |
-| [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-11T16:28:51Z | registry-derived |
+| [googleapis/googleapis](../records/starlark-googleapis-googleapis-b2038836.md) | partial | 2026-09-14T12:26:40Z | registry-derived |
 | [GoogleContainerTools/distroless](../records/starlark-googlecontainertools-distroless-b973874f.md) | partial | 2026-09-13T21:48:15Z | registry-derived |
 | [lucperkins/colossus](../records/starlark-lucperkins-colossus-6d410097.md) | partial | 2022-06-02T18:12:42Z | registry-derived |
 | [Starlark Language Specification](../records/starlark-starlark-language-specification-b9f4bbd9.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |

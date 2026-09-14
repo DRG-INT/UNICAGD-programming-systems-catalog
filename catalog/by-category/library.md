@@ -4370,13 +4370,13 @@ Records: `6171`
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yi-rope | 0.11 | 2018-06-06T20:58:47Z | [open](../records/haskell-yi-rope-84a7e8d9.md) |
 | yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
-| Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
-| Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
+| Z-Data | 2.0.1.0 | 2024-06-28T09:55:36Z | [open](../records/haskell-z-data-ad2a6ebb.md) |
+| Z-IO | 2.0.0.0 | 2022-11-26T03:59:17Z | [open](../records/haskell-z-io-e37841a7.md) |
 | zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
-| zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
+| zeromq4-haskell | 0.8.0 | 2019-03-03T15:15:33Z | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
 | zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
-| zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
-| zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
+| zoom-cache | 1.2.1.6 | 2012-12-07T00:08:12Z | [open](../records/haskell-zoom-cache-f1ef611e.md) |
+| zoovisitor | 0.2.7.0 | 2024-05-24T09:11:31Z | [open](../records/haskell-zoovisitor-25533034.md) |
 
 ## Octave
 
@@ -4580,7 +4580,7 @@ Records: `6171`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4604,7 +4604,7 @@ Records: `6171`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-14T10:51:25Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4618,7 +4618,7 @@ Records: `6171`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-14T04:07:52Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-14T12:23:31Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -4969,7 +4969,7 @@ Records: `6171`
 | Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project | partial | 2026-08-05T12:41:45Z | [open](../records/assets-fitzgerald-porthmouth-koenigsegg-plangothic-project-5165c4c3.md) |
 | FontManager/font-manager | partial | 2025-09-24T15:51:58Z | [open](../records/assets-fontmanager-font-manager-b4a35494.md) |
 | fonttools/fonttools | partial | 2026-09-12T09:55:35Z | [open](../records/assets-fonttools-fonttools-a4b5432b.md) |
-| frappe/erpnext | partial | 2026-09-14T05:28:19Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
+| frappe/erpnext | partial | 2026-09-14T12:21:18Z | [open](../records/assets-frappe-erpnext-d9e1ae16.md) |
 | Gaafar/dev-fonts | partial | 2023-01-06T03:07:36Z | [open](../records/assets-gaafar-dev-fonts-6d11b6eb.md) |
 | googlefonts/gftools | partial | 2026-09-10T10:36:24Z | [open](../records/assets-googlefonts-gftools-a07fff0e.md) |
 | hiqdev/asset-packagist | partial | 2026-09-01T12:10:46Z | [open](../records/assets-hiqdev-asset-packagist-ef04a544.md) |
@@ -4985,7 +4985,7 @@ Records: `6171`
 | levinzonr/godot-asset-placer | partial | 2026-08-25T20:19:53Z | [open](../records/assets-levinzonr-godot-asset-placer-8d39dc8a.md) |
 | lmueller27/Fusion360PatternsAndTextures | partial | 2024-09-10T13:50:22Z | [open](../records/assets-lmueller27-fusion360patternsandtextures-781b8065.md) |
 | lzhbrian/Clothes-3D | partial | 2020-04-16T16:04:57Z | [open](../records/assets-lzhbrian-clothes-3d-4979afed.md) |
-| marcelscruz/dev-resources | partial | 2026-09-14T07:07:20Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
+| marcelscruz/dev-resources | partial | 2026-09-14T10:35:45Z | [open](../records/assets-marcelscruz-dev-resources-f1007139.md) |
 | maria-rcks/dinorip | partial | 2026-06-28T19:46:38Z | [open](../records/assets-maria-rcks-dinorip-3322f81b.md) |
 | MassEffectModder/MassEffectModder | partial | 2026-04-02T20:46:15Z | [open](../records/assets-masseffectmodder-masseffectmodder-f546ad41.md) |
 | maxartz15/TextureCombiner | partial | 2021-01-24T16:32:48Z | [open](../records/assets-maxartz15-texturecombiner-33f459d2.md) |
@@ -5146,7 +5146,7 @@ Records: `6171`
 | LoicViennois/KSP-DeltaV-Planner | partial | 2026-09-13T17:33:26Z | [open](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) |
 | nmisyats/KSP-MGA-Planner | partial | 2026-06-08T16:41:24Z | [open](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) |
 | podgorskiy/KeplerOrbits | partial | 2023-04-02T23:28:28Z | [open](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) |
-| RocketPy-Team/RocketPy | partial | 2026-09-14T03:24:00Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
+| RocketPy-Team/RocketPy | partial | 2026-09-14T12:13:21Z | [open](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) |
 | usuaero/PyProp | partial | 2021-06-21T16:46:34Z | [open](../records/space-engines-usuaero-pyprop-cf41d1df.md) |
 | wedesoft/sfsim | partial | 2026-09-13T23:56:33Z | [open](../records/space-engines-wedesoft-sfsim-99e126c8.md) |
 

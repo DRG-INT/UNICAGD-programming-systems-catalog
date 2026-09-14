@@ -39,9 +39,9 @@ static feedback, style policy, defect prevention, and local/CI quality gates.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 

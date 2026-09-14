@@ -94,7 +94,7 @@ Records: `2183`
 | --- | --- | --- | --- |
 | [actix-service](../records/rust-actix-service-c35b1c38.md) | 2.0.3 | 2025-03-09T17:57:51.688174Z | registry-derived |
 | [async-channel](../records/rust-async-channel-56d40cbc.md) | 2.5.0 | 2025-07-06T07:06:07.101546Z | registry-derived |
-| [async-compression](../records/rust-async-compression-1943c86c.md) | 0.4.46 | 2026-09-09T15:19:46.095770Z | registry-derived |
+| [async-compression](../records/rust-async-compression-1943c86c.md) | 0.4.47 | 2026-09-14T11:16:15.623576Z | registry-derived |
 | [async-executor](../records/rust-async-executor-bf2249ed.md) | 1.14.0 | 2026-02-15T16:45:48.706047Z | registry-derived |
 | [async-fs](../records/rust-async-fs-73af5d3e.md) | 2.2.0 | 2025-09-14T14:07:03.987502Z | registry-derived |
 | [async-global-executor](../records/rust-async-global-executor-51b07d47.md) | 3.1.0 | 2025-02-26T14:26:42.950567Z | registry-derived |
@@ -340,7 +340,7 @@ Records: `2183`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [compression-codecs](../records/rust-compression-codecs-b842972a.md) | 0.4.41 | 2026-09-09T15:19:40.933466Z | registry-derived |
+| [compression-codecs](../records/rust-compression-codecs-b842972a.md) | 0.4.42 | 2026-09-14T11:16:11.274506Z | registry-derived |
 | [compression-core](../records/rust-compression-core-ef3f311e.md) | 0.4.33 | 2026-09-02T16:05:19.162370Z | registry-derived |
 | [deflate](../records/rust-deflate-11068d3f.md) | 1.0.0 | 2021-11-10T17:02:27.957683Z | crates_io |
 | [gzip-header](../records/rust-gzip-header-55bb5bd8.md) | 1.1.0 | 2026-04-15T23:11:04.580804Z | crates_io |

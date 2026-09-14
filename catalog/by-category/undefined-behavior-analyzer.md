@@ -420,8 +420,8 @@ Records: `1671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| bluenviron/mediamtx | partial | 2026-09-12T05:01:10Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
@@ -1151,7 +1151,7 @@ Records: `1671`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
+| labring/sealos | partial | 2026-09-14T09:29:33Z | [open](../records/go-labring-sealos-594e5269.md) |
 | uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
 | uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-05T16:28:54Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
@@ -1649,7 +1649,7 @@ Records: `1671`
 | --- | --- | --- | --- |
 | AppImage/appimage.github.io | partial | 2026-08-30T13:05:20Z | [open](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) |
 | awclub/catalog | partial | 2025-03-14T14:22:23Z | [open](../records/catalogs-awclub-catalog-58839c97.md) |
-| datahub-project/datahub | partial | 2026-09-14T11:20:47Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
+| datahub-project/datahub | partial | 2026-09-14T12:20:51Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-12T21:02:43Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
 | fossaryhq/catalog | partial | 2026-09-12T02:24:58Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
@@ -1910,7 +1910,7 @@ Records: `1671`
 | gitlab-org/caproni | partial | 2026-09-13T14:00:41.577Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T09:40:00.017Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T12:02:53.879Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1923,7 +1923,7 @@ Records: `1671`
 | mt-ag-k8s-training-course/kubernetesexercises | partial | 2026-05-31T18:14:32.353Z | [open](../records/repository-workplaces-mt-ag-k8s-training-course-kubernetesexercises-8c51245a.md) |
 | mts-teta-public/devops-tools | partial | 2022-09-20T14:05:32.817Z | [open](../records/repository-workplaces-mts-teta-public-devops-tools-0ec6239d.md) |
 | nanuchi/bootcamp-kubernetes | partial | 2024-05-08T20:14:25.618Z | [open](../records/repository-workplaces-nanuchi-bootcamp-kubernetes-14dcba8c.md) |
-| ongresinc/stackgres | partial | 2026-09-11T15:26:05.477Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
+| ongresinc/stackgres | partial | 2026-09-14T11:50:14.725Z | [open](../records/repository-workplaces-ongresinc-stackgres-219e17d7.md) |
 | postgres-ai/joe | partial | 2026-08-06T01:15:25.024Z | [open](../records/repository-workplaces-postgres-ai-joe-6048f213.md) |
 | purelb/purelb | partial | 2026-05-18T16:37:02.681Z | [open](../records/repository-workplaces-purelb-purelb-96e96f02.md) |
 | rocha.public/cursos/jenkins-em-larga-escala | partial | 2018-04-27T17:12:30.554Z | [open](../records/repository-workplaces-rocha-public-cursos-jenkins-em-larga-escala-11be6109.md) |
@@ -1935,4 +1935,4 @@ Records: `1671`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-14T08:42:11.947Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-14T11:28:20.132Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

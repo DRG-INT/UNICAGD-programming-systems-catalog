@@ -132,7 +132,7 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-14T10:21:26Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-14T11:53:27Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-12T13:09:21Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
 | [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-14T06:51:29Z | registry-derived |

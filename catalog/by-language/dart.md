@@ -954,7 +954,7 @@ Records: `771`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ai_barcode_scanner](../records/dart-ai-barcode-scanner-b66d3773.md) | 8.1.0 | 2026-09-13T12:24:25.592848Z | registry-derived |
+| [ai_barcode_scanner](../records/dart-ai-barcode-scanner-b66d3773.md) | 8.2.0 | 2026-09-14T10:28:25.187774Z | registry-derived |
 | [barcode_scan2](../records/dart-barcode-scan2-37eae369.md) | 4.8.2 | 2026-09-09T04:06:14.386333Z | registry-derived |
 | [cunning_document_scanner](../records/dart-cunning-document-scanner-b98260f4.md) | 3.0.3 | 2026-09-13T09:37:06.931442Z | registry-derived |
 | [flutter_zxing](../records/dart-flutter-zxing-a58545cd.md) | 3.0.1 | 2026-09-02T15:25:47.933010Z | registry-derived |

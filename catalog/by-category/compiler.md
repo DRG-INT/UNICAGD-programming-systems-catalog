@@ -259,7 +259,7 @@ Records: `180`
 | Mati365/ts-c-compiler | partial | 2026-08-11T06:13:10Z | [open](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) |
 | pacak/cargo-show-asm | partial | 2026-09-11T18:08:53Z | [open](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) |
 | ujjwal-kr/system-programming-roadmap | partial | 2026-08-29T03:34:53Z | [open](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) |
-| vygr/ChrysaLisp | partial | 2026-09-14T08:40:15Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
+| vygr/ChrysaLisp | partial | 2026-09-14T12:24:53Z | [open](../records/assembly-vygr-chrysalisp-0e234f7b.md) |
 | wargio/r2dec-js | partial | 2026-08-16T18:36:14Z | [open](../records/assembly-wargio-r2dec-js-b98d3015.md) |
 | wgtdkp/wgtcc | partial | 2021-01-31T07:55:46Z | [open](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) |
 
@@ -312,7 +312,7 @@ Records: `180`
 | BuildGrid/recc | partial | 2024-11-19T23:12:30.966Z | [open](../records/repository-workplaces-buildgrid-recc-21c7a89e.md) |
 | cznic/cc | partial | 2026-09-12T09:56:38.032Z | [open](../records/repository-workplaces-cznic-cc-89e992e6.md) |
 | dfffffff/gcc6809 | partial | 2019-11-29T14:34:33.015Z | [open](../records/repository-workplaces-dfffffff-gcc6809-15bef404.md) |
-| freepascal.org/fpc/source | partial | 2026-09-14T09:22:04.771Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
+| freepascal.org/fpc/source | partial | 2026-09-14T10:40:48.814Z | [open](../records/repository-workplaces-freepascal-org-fpc-source-0fc2714e.md) |
 | Gitea: 6lin/sbcl | partial | 2022-09-16T23:40:41Z | [open](../records/repository-workplaces-gitea-6lin-sbcl-f57192a2.md) |
 | Gitea: catdog100/zlcompiler | partial | 2025-01-10T08:36:43Z | [open](../records/repository-workplaces-gitea-catdog100-zlcompiler-cde7bc6e.md) |
 | Gitea: EnderIce2/Fennix | partial | 2025-04-14T01:21:22Z | [open](../records/repository-workplaces-gitea-enderice2-fennix-a295c30d.md) |

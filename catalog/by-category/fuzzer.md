@@ -117,7 +117,7 @@ Records: `67`
 | emikhalev/leaflet-2gis | partial | 2023-06-18T13:05:57Z | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | partial | 2026-03-24T13:41:39Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
 | fleaflet/flutter_map | partial | 2026-09-13T23:07:36Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
-| geoman-io/leaflet-geoman | partial | 2026-09-12T13:38:49Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
+| geoman-io/leaflet-geoman | partial | 2026-09-14T11:53:00Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |

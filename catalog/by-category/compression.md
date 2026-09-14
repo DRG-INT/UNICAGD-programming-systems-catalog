@@ -50,7 +50,7 @@ Records: `55`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| compression-codecs | 0.4.41 | 2026-09-09T15:19:40.933466Z | [open](../records/rust-compression-codecs-b842972a.md) |
+| compression-codecs | 0.4.42 | 2026-09-14T11:16:11.274506Z | [open](../records/rust-compression-codecs-b842972a.md) |
 | compression-core | 0.4.33 | 2026-09-02T16:05:19.162370Z | [open](../records/rust-compression-core-ef3f311e.md) |
 | deflate | 1.0.0 | 2021-11-10T17:02:27.957683Z | [open](../records/rust-deflate-11068d3f.md) |
 | gzip-header | 1.1.0 | 2026-04-15T23:11:04.580804Z | [open](../records/rust-gzip-header-55bb5bd8.md) |

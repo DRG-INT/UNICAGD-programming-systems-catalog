@@ -44,7 +44,7 @@ Records: `139`
 | --- | --- | --- | --- |
 | actix-service | 2.0.3 | 2025-03-09T17:57:51.688174Z | [open](../records/rust-actix-service-c35b1c38.md) |
 | async-channel | 2.5.0 | 2025-07-06T07:06:07.101546Z | [open](../records/rust-async-channel-56d40cbc.md) |
-| async-compression | 0.4.46 | 2026-09-09T15:19:46.095770Z | [open](../records/rust-async-compression-1943c86c.md) |
+| async-compression | 0.4.47 | 2026-09-14T11:16:15.623576Z | [open](../records/rust-async-compression-1943c86c.md) |
 | async-executor | 1.14.0 | 2026-02-15T16:45:48.706047Z | [open](../records/rust-async-executor-bf2249ed.md) |
 | async-fs | 2.2.0 | 2025-09-14T14:07:03.987502Z | [open](../records/rust-async-fs-73af5d3e.md) |
 | async-global-executor | 3.1.0 | 2025-02-26T14:26:42.950567Z | [open](../records/rust-async-global-executor-51b07d47.md) |

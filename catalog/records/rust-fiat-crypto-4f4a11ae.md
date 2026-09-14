@@ -32,7 +32,7 @@ integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.3.0 | 2025-06-04T02:42:06.808859Z | [https://crates.io/api/v1/crates?page=7&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=7&per_page=100&sort=downloads) |  |
+| stable | known | 0.3.0 | 2025-06-04T02:42:06.808859Z | [https://crates.io/api/v1/crates?page=8&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=8&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,14 +40,14 @@ integrity, authentication, and key-management risk.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `cryptography` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=7&per_page=100&sort=downloads` at `2026-09-13T06:28:19+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=8&per_page=100&sort=downloads` at `2026-09-14T12:26:01+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

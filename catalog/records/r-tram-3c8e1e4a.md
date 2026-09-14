@@ -42,7 +42,7 @@ consistency, and automation-friendly editing.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GPL-3 |
+| Evidence | GPL-2 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

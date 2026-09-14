@@ -699,7 +699,7 @@ Records: `487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| getsentry/sentry-cocoa | partial | 2026-09-14T10:21:26Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
+| getsentry/sentry-cocoa | partial | 2026-09-14T11:53:27Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
 | madsmtm/objc2 | partial | 2026-09-12T13:09:21Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-14T06:51:29Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
@@ -724,7 +724,7 @@ Records: `487`
 | rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-14T10:59:06Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-14T12:28:11Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 

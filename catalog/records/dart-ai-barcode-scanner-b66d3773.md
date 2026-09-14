@@ -21,8 +21,8 @@
 
 ## System Engineer Summary
 
-A universal AI barcode and QR code scanner for Flutter based on MLKit. Uses CameraX on Android,
-AVFoundation on iOS and Apple Vision & AVFoundation on macOS.
+Barcode and QR code scanner for Flutter on Android, iOS, macOS and the web: a full-screen or
+embedded scanner UI in one call, built on mobile_scanner.
 
 ## Operational Role
 
@@ -33,7 +33,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 8.1.0 | 2026-09-13T12:24:25.592848Z | [https://pub.dev/api/packages/ai_barcode_scanner](https://pub.dev/api/packages/ai_barcode_scanner) |  |
+| stable | known | 8.2.0 | 2026-09-14T10:28:25.187774Z | [https://pub.dev/api/packages/ai_barcode_scanner](https://pub.dev/api/packages/ai_barcode_scanner) |  |
 | preview | known | 1.0.0-dev.1 | 2023-07-03T08:09:44.314621Z | [https://pub.dev/api/packages/ai_barcode_scanner](https://pub.dev/api/packages/ai_barcode_scanner) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 - Treat category as `static_analyzer` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/ai_barcode_scanner` at `2026-09-13T14:18:39+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/ai_barcode_scanner` at `2026-09-14T12:26:18+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

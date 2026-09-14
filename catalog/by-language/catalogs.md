@@ -40,12 +40,12 @@ Records: `285`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [antgroup/sofa](../records/catalogs-antgroup-sofa-dfd41cac.md) | partial | 2023-02-10T09:26:35Z | registry-derived |
-| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-14T10:28:05Z | registry-derived |
+| [apache/gravitino](../records/catalogs-apache-gravitino-f9021fca.md) | partial | 2026-09-14T12:20:40Z | registry-derived |
 | [ckan/ckan](../records/catalogs-ckan-ckan-56d2a0d2.md) | partial | 2026-09-14T03:49:53Z | registry-derived |
 | [flowershow/markdowndb](../records/catalogs-flowershow-markdowndb-c72b0d23.md) | partial | 2026-05-21T02:18:02Z | registry-derived |
 | [geolens-io/geolens](../records/catalogs-geolens-io-geolens-2be2bb7d.md) | partial | 2026-09-14T08:12:58Z | registry-derived |
 | [henomis/lingoose](../records/catalogs-henomis-lingoose-b7784a16.md) | partial | 2026-03-15T09:43:28Z | registry-derived |
-| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-14T11:03:20Z | registry-derived |
+| [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-14T12:23:30Z | registry-derived |
 | [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-14T07:33:06Z | registry-derived |
 | [openfun/richie](../records/catalogs-openfun-richie-3e0bc01d.md) | partial | 2026-09-14T06:28:05Z | registry-derived |
 | [sealerio/sealer](../records/catalogs-sealerio-sealer-b1b1c3d8.md) | partial | 2025-06-03T08:29:24Z | registry-derived |
@@ -427,7 +427,7 @@ Records: `285`
 | --- | --- | --- | --- |
 | [AppImage/appimage.github.io](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) | partial | 2026-08-30T13:05:20Z | registry-derived |
 | [awclub/catalog](../records/catalogs-awclub-catalog-58839c97.md) | partial | 2025-03-14T14:22:23Z | registry-derived |
-| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-14T11:20:47Z | registry-derived |
+| [datahub-project/datahub](../records/catalogs-datahub-project-datahub-245b610a.md) | partial | 2026-09-14T12:20:51Z | registry-derived |
 | [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-12T21:02:43Z | registry-derived |
 | [FeatureBaseDB/featurebase](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) | partial | 2024-02-21T23:20:41Z | registry-derived |
 | [fossaryhq/catalog](../records/catalogs-fossaryhq-catalog-c3ae2133.md) | partial | 2026-09-12T02:24:58Z | registry-derived |

@@ -66,8 +66,8 @@ Records: `467`
 | [mbasso/asm-dom](../records/webassembly-mbasso-asm-dom-e1407840.md) | partial | 2023-03-03T18:16:02Z | registry-derived |
 | [mosra/magnum](../records/webassembly-mosra-magnum-7354176b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [oqtane/oqtane.framework](../records/webassembly-oqtane-oqtane-framework-3c2c720d.md) | partial | 2026-09-11T19:58:40Z | registry-derived |
-| [slint-ui/slint](../records/webassembly-slint-ui-slint-1565f5f8.md) | partial | 2026-09-14T11:23:00Z | registry-derived |
-| [spinframework/spin](../records/webassembly-spinframework-spin-bc703583.md) | partial | 2026-09-13T20:08:15Z | registry-derived |
+| [slint-ui/slint](../records/webassembly-slint-ui-slint-1565f5f8.md) | partial | 2026-09-14T12:25:38Z | registry-derived |
+| [spinframework/spin](../records/webassembly-spinframework-spin-bc703583.md) | partial | 2026-09-14T11:57:58Z | registry-derived |
 | [TokamakUI/Tokamak](../records/webassembly-tokamakui-tokamak-0097025f.md) | partial | 2024-03-23T16:00:17Z | registry-derived |
 | [trunk-rs/trunk](../records/webassembly-trunk-rs-trunk-a4abb93b.md) | partial | 2026-09-09T16:04:37Z | registry-derived |
 | [unoplatform/uno](../records/webassembly-unoplatform-uno-0c5b85c2.md) | partial | 2026-09-14T06:35:55Z | registry-derived |
@@ -208,7 +208,7 @@ Records: `467`
 | [lucasgelfond/exiftool-web](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) | partial | 2026-01-10T18:07:32Z | registry-derived |
 | [mafintosh/blake2b-wasm](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [mbasso/awesome-wasm](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) | partial | 2024-11-15T14:58:04Z | registry-derived |
-| [microsoft/fluentui-blazor](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) | partial | 2026-09-14T09:21:40Z | registry-derived |
+| [microsoft/fluentui-blazor](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) | partial | 2026-09-14T12:13:36Z | registry-derived |
 | [mosra/magnum](../records/webassembly-mosra-magnum-973479c6.md) | partial | 2026-08-23T10:24:48Z | registry-derived |
 | [nihui/opencv-mobile](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) | partial | 2026-07-12T12:55:31Z | registry-derived |
 | [not-fl3/macroquad](../records/webassembly-not-fl3-macroquad-ace3e52a.md) | partial | 2026-08-18T09:37:35Z | registry-derived |
@@ -388,7 +388,7 @@ Records: `467`
 | [Implex-ltd/hcaptcha-reverse](../records/webassembly-implex-ltd-hcaptcha-reverse-64b09389.md) | partial | 2025-09-26T18:48:51Z | registry-derived |
 | [InsightSoftwareConsortium/ITK-Wasm](../records/webassembly-insightsoftwareconsortium-itk-wasm-d40bc24d.md) | partial | 2026-09-10T02:53:38Z | registry-derived |
 | [iRath96/webNBT](../records/webassembly-irath96-webnbt-35ce95aa.md) | partial | 2022-04-29T17:48:51Z | registry-derived |
-| [JetBrains/kotlin](../records/webassembly-jetbrains-kotlin-df8d54fa.md) | partial | 2026-09-14T11:21:07Z | registry-derived |
+| [JetBrains/kotlin](../records/webassembly-jetbrains-kotlin-df8d54fa.md) | partial | 2026-09-14T12:26:28Z | registry-derived |
 | [jungomi/xxhash-wasm](../records/webassembly-jungomi-xxhash-wasm-49598b2a.md) | partial | 2024-11-19T13:37:31Z | registry-derived |
 | [KhronosGroupArchives/Basis-Universal-Transcoders](../records/webassembly-khronosgrouparchives-basis-universal-transcoders-5be15dfa.md) | partial | 2023-07-17T12:09:33Z | registry-derived |
 | [kign/c4wa](../records/webassembly-kign-c4wa-49154407.md) | partial | 2022-01-29T06:17:26Z | registry-derived |
@@ -598,7 +598,7 @@ Records: `467`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AdrienTorris/awesome-blazor](../records/webassembly-adrientorris-awesome-blazor-baae6774.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [Automattic/harper](../records/webassembly-automattic-harper-ac075554.md) | partial | 2026-09-14T11:19:46Z | registry-derived |
+| [Automattic/harper](../records/webassembly-automattic-harper-ac075554.md) | partial | 2026-09-14T12:02:56Z | registry-derived |
 | [drbh/wasm-fingerprint](../records/webassembly-drbh-wasm-fingerprint-2d024b12.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [esimov/pigo](../records/webassembly-esimov-pigo-47c4c3e9.md) | partial | 2025-05-03T15:07:42Z | registry-derived |
 | [jameslittle230/stork](../records/webassembly-jameslittle230-stork-1024e297.md) | partial | 2023-07-01T14:15:45Z | registry-derived |

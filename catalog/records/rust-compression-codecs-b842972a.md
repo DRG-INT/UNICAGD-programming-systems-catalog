@@ -32,22 +32,22 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.4.41 | 2026-09-09T15:19:40.933466Z | [https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads) |  |
+| stable | known | 0.4.42 | 2026-09-14T11:16:11.274506Z | [https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads](https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads) |  |
 | preview/nightly | unknown |  |  | unknown | crates_io_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `compression` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads` at `2026-09-09T16:21:47+00:00`.
+- Latest stable metadata was observed from `https://crates.io/api/v1/crates?page=10&per_page=100&sort=downloads` at `2026-09-14T12:26:01+00:00`.
 - Preview/nightly metadata is unknown because `crates_io_has_no_standard_nightly_channel`.
 
 ## Provenance

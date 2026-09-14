@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T11:24:13+00:00`
+Generated: `2026-09-14T12:30:12+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,14 +28,19 @@ Generated: `2026-09-14T11:24:13+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10993 |
-| Unknown stable release | 18286 |
+| Known stable release | 10998 |
+| Unknown stable release | 18281 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.205.0 | 2026-09-14T10:09:39.268Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @rspack/cli | Node.js/JavaScript | Cli | 2.2.4 | 2026-09-14T12:17:53.872Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| async-compression | Rust | Async Runtime | 0.4.47 | 2026-09-14T11:16:15.623576Z | [open](records/rust-async-compression-1943c86c.md) |
+| compression-codecs | Rust | Compression | 0.4.42 | 2026-09-14T11:16:11.274506Z | [open](records/rust-compression-codecs-b842972a.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.206.2 | 2026-09-14T11:11:05.552Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| sydtest-persistent-postgresql | Haskell | Testing Framework | 0.5.1.0 | 2026-09-14T10:40:12Z | [open](records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
+| ai_barcode_scanner | Dart | Static Analyzer | 8.2.0 | 2026-09-14T10:28:25.187774Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 | quinn | Rust | Visualization Gui | 0.11.12 | 2026-09-14T10:08:47.662258Z | [open](records/rust-quinn-3ef01818.md) |
 | quinn-proto | Rust | Visualization Gui | 0.11.18 | 2026-09-14T10:08:32.833754Z | [open](records/rust-quinn-proto-34fe4d50.md) |
 | encapsule | Haskell | Library | 0.5 | 2026-09-14T10:00:37Z | [open](records/haskell-encapsule-a315f436.md) |
@@ -102,7 +107,6 @@ Generated: `2026-09-14T11:24:13+00:00`
 | tinyvec | Rust | Ide Editor Integration | 1.13.3 | 2026-09-13T23:30:12.904680Z | [open](records/rust-tinyvec-a3ec787a.md) |
 | zod | Node.js/TypeScript | Type Checker | 4.6.5 | 2026-09-13T23:25:14.644Z | [open](records/node-js-typescript-zod-b5537602.md) |
 | image | Dart | Formatter | 4.10.1 | 2026-09-13T21:26:44.512784Z | [open](records/dart-image-cc352620.md) |
-| sydtest-persistent-postgresql | Haskell | Testing Framework | 0.5.0.0 | 2026-09-13T21:04:26Z | [open](records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
 | ghc-tags | Haskell | Library | 1.11 | 2026-09-13T20:50:40Z | [open](records/haskell-ghc-tags-064221e5.md) |
 | @wdio/mocha-framework | Node.js/JavaScript | Testing Framework | 9.31.9 | 2026-09-13T20:45:49.139Z | [open](records/node-js-javascript-wdio-mocha-framework-8a114d96.md) |
 | @wdio/cucumber-framework | Node.js/JavaScript | Testing Framework | 9.31.9 | 2026-09-13T20:44:54.202Z | [open](records/node-js-javascript-wdio-cucumber-framework-3fd5daaf.md) |
@@ -131,7 +135,6 @@ Generated: `2026-09-14T11:24:13+00:00`
 | cue | Dart | Filesystem Os | 0.4.0 | 2026-09-13T13:44:04.493612Z | [open](records/dart-cue-4be55d38.md) |
 | holidays | Haskell | Library | 0.4.0.1 | 2026-09-13T13:14:57Z | [open](records/haskell-holidays-31df113d.md) |
 | ureq-proto | Rust | Library | 0.6.3 | 2026-09-13T13:08:39.031889Z | [open](records/rust-ureq-proto-d61deb16.md) |
-| ai_barcode_scanner | Dart | Static Analyzer | 8.1.0 | 2026-09-13T12:24:25.592848Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 | @argos-ci/core | Node.js/JavaScript | Testing Framework | 6.8.5 | 2026-09-13T11:21:25.775Z | [open](records/node-js-javascript-argos-ci-core-16d6b998.md) |
 | @argos-ci/playwright | Node.js/JavaScript | Testing Framework | 7.6.0 | 2026-09-13T11:21:15.528Z | [open](records/node-js-javascript-argos-ci-playwright-54b0629c.md) |
 | @argos-ci/storybook | Node.js/JavaScript | Testing Framework | 6.4.0 | 2026-09-13T11:20:35.447Z | [open](records/node-js-javascript-argos-ci-storybook-6e4d39f7.md) |
@@ -282,15 +285,12 @@ Generated: `2026-09-14T11:24:13+00:00`
 | LLMRpanel | R | Benchmarking | 0.6.1 | 2026-09-12 13:20:08 UTC | [open](records/r-llmrpanel-659aa10b.md) |
 | MobilityDataPT | R | Library | 1.0 | 2026-09-12 13:20:02 UTC | [open](records/r-mobilitydatapt-927be74e.md) |
 | actisensorlog | R | Logging Observability | 0.2.0 | 2026-09-12 13:10:16 UTC | [open](records/r-actisensorlog-39c7fd58.md) |
-| autotest | R | Testing Framework | 0.2.0 | 2026-09-12 13:10:09 UTC | [open](records/r-autotest-e93c76ee.md) |
-| ibist | R | Filesystem Os | 0.1-0 | 2026-09-12 13:10:02 UTC | [open](records/r-ibist-d9bf0573.md) |
-| visual.kaito | R | Machine Learning | 0.1.0 | 2026-09-12 13:00:02 UTC | [open](records/r-visual-kaito-f855bdab.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10596 |
+| gh_search_reports_activity_not_release_version | 10713 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -302,15 +302,12 @@ Generated: `2026-09-14T11:24:13+00:00`
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
 | github_latest_release_missing | 172 |
-| not_a_go_module_path | 116 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
-| hackage_top_downloads_page_does_not_include_release_date | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 

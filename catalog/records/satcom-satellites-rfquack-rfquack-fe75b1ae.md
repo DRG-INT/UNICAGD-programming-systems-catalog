@@ -40,7 +40,7 @@ discovery, security review, undefined-state detection, and regression prevention
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Other; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | GPL-3; {"key": "", "name": "", "url": ""}; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

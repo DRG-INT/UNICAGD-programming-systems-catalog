@@ -312,7 +312,7 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
 | piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
@@ -495,7 +495,7 @@ Records: `651`
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-09-08T00:06:11Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-11T20:25:27Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-14T12:24:25Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
 | skfolio/skfolio | partial | 2026-09-13T22:01:09Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 

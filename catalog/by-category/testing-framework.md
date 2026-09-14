@@ -529,7 +529,7 @@ Records: `654`
 | sydtest | 0.31.0.0 | 2026-09-11T13:41:53Z | [open](../records/haskell-sydtest-4ee551d3.md) |
 | sydtest-mutation-driver | 0.2.0.0 | 2026-09-11T13:41:56Z | [open](../records/haskell-sydtest-mutation-driver-308dc55e.md) |
 | sydtest-mutation-plugin | 0.5.0.0 | 2026-09-11T13:23:55Z | [open](../records/haskell-sydtest-mutation-plugin-e9523493.md) |
-| sydtest-persistent-postgresql | 0.5.0.0 | 2026-09-13T21:04:26Z | [open](../records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
+| sydtest-persistent-postgresql | 0.5.1.0 | 2026-09-14T10:40:12Z | [open](../records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
 | test-framework | 0.8.2.3 | 2026-01-05T13:44:05Z | [open](../records/haskell-test-framework-fa8f43e5.md) |
 | test-framework-quickcheck2 | 0.3.0.7 | 2026-01-05T13:43:55Z | [open](../records/haskell-test-framework-quickcheck2-52913538.md) |
 | test-sandbox | 0.1.9 | 2021-10-26T15:08:29Z | [open](../records/haskell-test-sandbox-6e07fc62.md) |
@@ -571,7 +571,7 @@ Records: `654`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
 | quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
 | vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
@@ -887,7 +887,7 @@ Records: `654`
 | invertase/react-native-firebase | partial | 2026-09-14T03:45:35Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-14T07:37:10Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-14T11:37:49Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |
@@ -903,4 +903,4 @@ Records: `654`
 | Gitea: marco.fullstack2/devops_test | partial | 2026-01-27T15:06:12Z | [open](../records/repository-workplaces-gitea-marco-fullstack2-devops-test-054aeba6.md) |
 | Gitea: nhanpt/config-server-test | partial | 2023-12-28T08:40:58Z | [open](../records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) |
 | Gitea: sillyguodong/asciicast_test | partial | 2023-04-21T03:04:25Z | [open](../records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) |
-| postgres-ai/database-lab | partial | 2026-09-14T09:07:31.477Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |
+| postgres-ai/database-lab | partial | 2026-09-14T11:39:32.424Z | [open](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) |

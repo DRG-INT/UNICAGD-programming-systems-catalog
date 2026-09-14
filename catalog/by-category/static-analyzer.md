@@ -430,7 +430,7 @@ Records: `686`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ai_barcode_scanner | 8.1.0 | 2026-09-13T12:24:25.592848Z | [open](../records/dart-ai-barcode-scanner-b66d3773.md) |
+| ai_barcode_scanner | 8.2.0 | 2026-09-14T10:28:25.187774Z | [open](../records/dart-ai-barcode-scanner-b66d3773.md) |
 | barcode_scan2 | 4.8.2 | 2026-09-09T04:06:14.386333Z | [open](../records/dart-barcode-scan2-37eae369.md) |
 | cunning_document_scanner | 3.0.3 | 2026-09-13T09:37:06.931442Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
 | flutter_zxing | 3.0.1 | 2026-09-02T15:25:47.933010Z | [open](../records/dart-flutter-zxing-a58545cd.md) |
@@ -441,7 +441,7 @@ Records: `686`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-14T04:56:35Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -476,7 +476,7 @@ Records: `686`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ArturSepp/QuantInvestStrats | partial | 2026-09-14T05:41:10Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
+| ArturSepp/QuantInvestStrats | partial | 2026-09-14T10:57:58Z | [open](../records/assets-artursepp-quantinveststrats-a7a51697.md) |
 | letianzj/QuantResearch | partial | 2023-08-26T12:16:05Z | [open](../records/assets-letianzj-quantresearch-61864c0e.md) |
 | Samukashvili/LUMEN-PS | partial | 2026-08-22T18:47:11Z | [open](../records/assets-samukashvili-lumen-ps-760ce575.md) |
 | ScanMountGoat/image_dds | partial | 2025-09-28T21:42:29Z | [open](../records/assets-scanmountgoat-image-dds-87704c34.md) |
@@ -496,7 +496,7 @@ Records: `686`
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-14T11:21:16Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-14T12:15:51Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -921,9 +921,9 @@ Records: `686`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-14T09:56:30.809Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-14T10:08:59.852Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
-| gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-12T02:13:28.191Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-14T11:14:19.156Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-14T12:09:12.770Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-14T12:08:38.367Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-13T08:04:18.809Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
 | internet-cleanup-foundation/web-security-map | partial | 2026-09-13T12:59:18.165Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |

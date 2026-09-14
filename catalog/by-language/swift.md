@@ -373,7 +373,7 @@ Records: `464`
 | [LiveContainer/LiveContainer](../records/swift-livecontainer-livecontainer-df088e07.md) | partial | 2026-09-13T07:44:02Z | registry-derived |
 | [lwouis/alt-tab-macos](../records/swift-lwouis-alt-tab-macos-ffbd7980.md) | partial | 2026-09-11T20:13:05Z | registry-derived |
 | [mac-cain13/R.swift](../records/swift-mac-cain13-r-swift-576f6e69.md) | partial | 2025-04-01T13:18:36Z | registry-derived |
-| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-14T11:14:25Z | registry-derived |
+| [manaflow-ai/cmux](../records/swift-manaflow-ai-cmux-97abd3fc.md) | partial | 2026-09-14T12:22:50Z | registry-derived |
 | [mas-cli/mas](../records/swift-mas-cli-mas-eeeb85cb.md) | partial | 2026-08-31T13:20:08Z | registry-derived |
 | [maxgoedjen/secretive](../records/swift-maxgoedjen-secretive-c206b7a6.md) | partial | 2026-09-14T06:20:03Z | registry-derived |
 | [maziyarpanahi/openmed](../records/swift-maziyarpanahi-openmed-4666ab59.md) | partial | 2026-09-12T00:47:34Z | registry-derived |
@@ -381,7 +381,7 @@ Records: `464`
 | [MonitorControl/MonitorControl](../records/swift-monitorcontrol-monitorcontrol-71ba7549.md) | partial | 2026-08-31T16:37:52Z | registry-derived |
 | [Mortennn/Dozer](../records/swift-mortennn-dozer-5a851823.md) | partial | 2023-11-30T13:45:27Z | registry-derived |
 | [Moya/Moya](../records/swift-moya-moya-934d110e.md) | partial | 2026-07-14T22:07:40Z | registry-derived |
-| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-14T10:50:29Z | registry-derived |
+| [mozilla-mobile/firefox-ios](../records/swift-mozilla-mobile-firefox-ios-2083324a.md) | partial | 2026-09-14T12:26:05Z | registry-derived |
 | [mrkai77/Loop](../records/swift-mrkai77-loop-00f0d1de.md) | partial | 2026-09-11T00:13:04Z | registry-derived |
 | [mxcl/PromiseKit](../records/swift-mxcl-promisekit-231b3051.md) | partial | 2026-06-03T18:37:03Z | registry-derived |
 | [newlinedotco/FlappySwift](../records/swift-newlinedotco-flappyswift-4860e4e2.md) | partial | 2023-04-29T03:44:50Z | registry-derived |
@@ -427,13 +427,13 @@ Records: `464`
 | [TelegramMessenger/Telegram-iOS](../records/swift-telegrammessenger-telegram-ios-919c5962.md) | partial | 2026-07-21T04:34:53Z | registry-derived |
 | [thaw-app/Thaw](../records/swift-thaw-app-thaw-925be275.md) | partial | 2026-09-14T10:00:01Z | registry-derived |
 | [TheBoredTeam/boring.notch](../records/swift-theboredteam-boring-notch-97c99eb2.md) | partial | 2026-09-14T06:06:17Z | registry-derived |
-| [tisfeng/Easydict](../records/swift-tisfeng-easydict-efdf4df7.md) | partial | 2026-09-13T17:57:37Z | registry-derived |
+| [tisfeng/Easydict](../records/swift-tisfeng-easydict-efdf4df7.md) | partial | 2026-09-14T12:02:47Z | registry-derived |
 | [toptal/gitignore.io](../records/swift-toptal-gitignore-io-af3ffa2e.md) | partial | 2024-12-23T15:12:40Z | registry-derived |
 | [tristanhimmelman/ObjectMapper](../records/swift-tristanhimmelman-objectmapper-35c64bc7.md) | partial | 2024-05-02T13:32:48Z | registry-derived |
 | [utmapp/UTM](../records/swift-utmapp-utm-cd8eae5c.md) | partial | 2026-09-02T05:14:37Z | registry-derived |
 | [vapor/vapor](../records/swift-vapor-vapor-45f6fc70.md) | partial | 2026-09-14T10:30:16Z | registry-derived |
 | [vim-polyglot](../records/swift-vim-polyglot-4e647549.md) | unknown | awesome_list_does_not_include_release_date | registry-derived |
-| [vorssaint/vorssaint-utils](../records/swift-vorssaint-vorssaint-utils-c1ec15fd.md) | partial | 2026-09-14T00:36:14Z | registry-derived |
+| [vorssaint/vorssaint-utils](../records/swift-vorssaint-vorssaint-utils-c1ec15fd.md) | partial | 2026-09-14T11:48:41Z | registry-derived |
 | [vorssaintapp/vorssaint-utils](../records/swift-vorssaintapp-vorssaint-utils-6c9bd080.md) | partial | 2026-09-04T12:32:18Z | registry-derived |
 | [vsouza/awesome-ios](../records/swift-vsouza-awesome-ios-2f790b50.md) | partial | 2026-08-27T19:34:29Z | registry-derived |
 | [Whisky-App/Whisky](../records/swift-whisky-app-whisky-01ab3144.md) | partial | 2025-05-11T17:50:04Z | registry-derived |

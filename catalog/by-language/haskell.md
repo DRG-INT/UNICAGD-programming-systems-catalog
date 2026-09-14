@@ -1584,13 +1584,13 @@ Records: `1764`
 | [yi](../records/haskell-yi-3b78b64a.md) | 0.19.3 | 2024-11-01T13:06:18Z | registry-derived |
 | [yi-rope](../records/haskell-yi-rope-84a7e8d9.md) | 0.11 | 2018-06-06T20:58:47Z | registry-derived |
 | [yst](../records/haskell-yst-e5c97f24.md) | 0.7.2 | 2023-02-04T19:31:44Z | registry-derived |
-| [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
-| [Z-IO](../records/haskell-z-io-e37841a7.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | 2.0.1.0 | 2024-06-28T09:55:36Z | registry-derived |
+| [Z-IO](../records/haskell-z-io-e37841a7.md) | 2.0.0.0 | 2022-11-26T03:59:17Z | registry-derived |
 | [zeolite-lang](../records/haskell-zeolite-lang-121149cb.md) | 0.24.1.0 | 2024-01-08T01:25:04Z | registry-derived |
-| [zeromq4-haskell](../records/haskell-zeromq4-haskell-8f1953e2.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [zeromq4-haskell](../records/haskell-zeromq4-haskell-8f1953e2.md) | 0.8.0 | 2019-03-03T15:15:33Z | registry-derived |
 | [zlib](../records/haskell-zlib-2a0db053.md) | 0.7.1.1 | 2025-09-06T12:21:07Z | registry-derived |
-| [zoom-cache](../records/haskell-zoom-cache-f1ef611e.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
-| [zoovisitor](../records/haskell-zoovisitor-25533034.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [zoom-cache](../records/haskell-zoom-cache-f1ef611e.md) | 1.2.1.6 | 2012-12-07T00:08:12Z | registry-derived |
+| [zoovisitor](../records/haskell-zoovisitor-25533034.md) | 0.2.7.0 | 2024-05-24T09:11:31Z | registry-derived |
 
 ### Linter
 
@@ -1935,7 +1935,7 @@ Records: `1764`
 | [sydtest](../records/haskell-sydtest-4ee551d3.md) | 0.31.0.0 | 2026-09-11T13:41:53Z | registry-derived |
 | [sydtest-mutation-driver](../records/haskell-sydtest-mutation-driver-308dc55e.md) | 0.2.0.0 | 2026-09-11T13:41:56Z | registry-derived |
 | [sydtest-mutation-plugin](../records/haskell-sydtest-mutation-plugin-e9523493.md) | 0.5.0.0 | 2026-09-11T13:23:55Z | registry-derived |
-| [sydtest-persistent-postgresql](../records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) | 0.5.0.0 | 2026-09-13T21:04:26Z | registry-derived |
+| [sydtest-persistent-postgresql](../records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) | 0.5.1.0 | 2026-09-14T10:40:12Z | registry-derived |
 | [test-framework](../records/haskell-test-framework-fa8f43e5.md) | 0.8.2.3 | 2026-01-05T13:44:05Z | registry-derived |
 | [test-framework-quickcheck2](../records/haskell-test-framework-quickcheck2-52913538.md) | 0.3.0.7 | 2026-01-05T13:43:55Z | registry-derived |
 | [test-sandbox](../records/haskell-test-sandbox-6e07fc62.md) | 0.1.9 | 2021-10-26T15:08:29Z | registry-derived |

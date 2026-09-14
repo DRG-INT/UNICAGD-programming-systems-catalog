@@ -34,8 +34,8 @@ style consistency, and automation-friendly editing.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | not_a_go_module_path |
-| preview/nightly | unknown |  |  | unknown | not_a_go_module_path |
+| stable | partial |  | 2026-09-08T14:52:43Z | gh search repos topic:go-library stars:>100 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -49,8 +49,8 @@ style consistency, and automation-friendly editing.
 
 - Treat category as `formatter` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `not_a_go_module_path`.
-- Preview/nightly metadata is unknown because `not_a_go_module_path`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 

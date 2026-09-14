@@ -636,10 +636,10 @@ Records: `1245`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-04T03:14:29Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | unknown | not_a_go_module_path | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
-| gravitational/teleport | unknown | not_a_go_module_path | [open](../records/go-gravitational-teleport-6a32fe26.md) |
-| HyNetworks/hysteria | unknown | not_a_go_module_path | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
-| kovidgoyal/kitty | unknown | not_a_go_module_path | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
+| GopeedLab/gopeed | partial | 2026-09-14T02:13:12Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
+| HyNetworks/hysteria | partial | 2026-09-14T06:53:02Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
+| kovidgoyal/kitty | partial | 2026-09-14T08:54:00Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
 | praetorian-inc/nerva | partial | 2026-09-11T15:33:24Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
 | zincsearch/zincsearch | partial | 2026-09-14T03:36:03Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
@@ -654,7 +654,7 @@ Records: `1245`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xIonRod/learning-basilisk | partial | 2023-06-28T06:42:25Z | [open](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) |
-| AVSLab/basilisk | partial | 2026-09-14T11:20:51Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
+| AVSLab/basilisk | partial | 2026-09-14T11:21:49Z | [open](../records/basilisk-avslab-basilisk-3f9dd832.md) |
 | CarterBalow/avs-lab-work | partial | 2026-09-02T17:52:11Z | [open](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) |
 | DISCOWER/bsk-msgs | partial | 2026-07-02T20:47:18Z | [open](../records/basilisk-discower-bsk-msgs-80974f96.md) |
 | DISCOWER/bsk-ros2-bridge | partial | 2026-08-25T16:24:45Z | [open](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) |
@@ -667,9 +667,9 @@ Records: `1245`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AstrBotDevs/AstrBot | partial | 2026-09-13T17:43:09Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
+| AstrBotDevs/AstrBot | partial | 2026-09-14T12:19:39Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
 | HKUDS/LightRAG | partial | 2026-09-14T09:51:40Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
-| labring/FastGPT | partial | 2026-09-14T08:12:08Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
+| labring/FastGPT | partial | 2026-09-14T11:40:58Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
 
@@ -830,7 +830,7 @@ Records: `1245`
 | duncaneddy/brahe | partial | 2026-09-14T10:03:26Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
 | esa/dSGP4 | partial | 2026-08-07T13:57:29Z | [open](../records/space-engines-esa-dsgp4-8c05d97f.md) |
 | esa/pykep | partial | 2026-09-11T09:54:29Z | [open](../records/space-engines-esa-pykep-de004d6c.md) |
-| GalacticDynamics/galax | partial | 2026-09-14T04:15:45Z | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
+| GalacticDynamics/galax | partial | 2026-09-14T12:27:19Z | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
 | gberrante/map_3d | partial | 2026-09-04T06:50:37Z | [open](../records/space-engines-gberrante-map-3d-291724c2.md) |
 | gunvirranu/perturb | partial | 2025-02-19T11:46:24Z | [open](../records/space-engines-gunvirranu-perturb-e116c98e.md) |
 | helgee/Astrodynamics.jl | partial | 2024-02-26T11:44:11Z | [open](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) |
@@ -971,7 +971,7 @@ Records: `1245`
 | PlasmaPy/PlasmaPy | partial | 2026-09-08T13:09:49Z | [open](../records/space-maps-plasmapy-plasmapy-38af8e3b.md) |
 | polatory/polatory | partial | 2026-09-03T17:12:57Z | [open](../records/space-maps-polatory-polatory-c8cfead9.md) |
 | poliastro/poliastro | partial | 2023-10-14T15:30:47Z | [open](../records/space-maps-poliastro-poliastro-d7649ab9.md) |
-| ppp-one/astra | partial | 2026-09-12T19:03:55Z | [open](../records/space-maps-ppp-one-astra-9c6eaad7.md) |
+| ppp-one/astra | partial | 2026-09-14T12:06:10Z | [open](../records/space-maps-ppp-one-astra-9c6eaad7.md) |
 | pprat2004/NASA-SPACE-APP-PROJECT-2025- | partial | 2025-10-05T14:25:05Z | [open](../records/space-maps-pprat2004-nasa-space-app-project-2025-6e5a8eaf.md) |
 | prappleizer/planetary-system-generator | partial | 2022-09-06T01:56:51Z | [open](../records/space-maps-prappleizer-planetary-system-generator-7a31d2bd.md) |
 | Prothom7/Stella | partial | 2026-05-06T08:12:16Z | [open](../records/space-maps-prothom7-stella-e8d27a42.md) |
@@ -1416,7 +1416,7 @@ Records: `1245`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AdrienTorris/awesome-blazor | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-adrientorris-awesome-blazor-baae6774.md) |
-| Automattic/harper | partial | 2026-09-14T11:19:46Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
+| Automattic/harper | partial | 2026-09-14T12:02:56Z | [open](../records/webassembly-automattic-harper-ac075554.md) |
 | drbh/wasm-fingerprint | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-drbh-wasm-fingerprint-2d024b12.md) |
 | esimov/pigo | partial | 2025-05-03T15:07:42Z | [open](../records/webassembly-esimov-pigo-47c4c3e9.md) |
 | jameslittle230/stork | partial | 2023-07-01T14:15:45Z | [open](../records/webassembly-jameslittle230-stork-1024e297.md) |
@@ -1496,10 +1496,10 @@ Records: `1245`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-11T21:52:02Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-14T11:15:13Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-14T12:21:07Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-09-11T17:39:20Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
-| scylladb/scylladb | partial | 2026-09-14T10:46:04Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
+| scylladb/scylladb | partial | 2026-09-14T11:56:46Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |
 | Slony-I | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-slony-i-cc9dd3b4.md) |
 | Spock | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-spock-80573fc1.md) |
 | StarTrail-org/LEANN | partial | 2026-09-05T09:57:42Z | [open](../records/databases-startrail-org-leann-a6b16bc8.md) |
@@ -1509,7 +1509,7 @@ Records: `1245`
 | typicode/lowdb | partial | 2026-03-27T22:36:45Z | [open](../records/databases-typicode-lowdb-305affaa.md) |
 | valeriansaliou/sonic | partial | 2026-09-10T12:34:23Z | [open](../records/databases-valeriansaliou-sonic-919a601d.md) |
 | vesoft-inc/nebula | partial | 2026-09-08T06:42:15Z | [open](../records/databases-vesoft-inc-nebula-ddaede03.md) |
-| VictoriaMetrics/VictoriaMetrics | partial | 2026-09-14T10:52:25Z | [open](../records/databases-victoriametrics-victoriametrics-1acc72ef.md) |
+| VictoriaMetrics/VictoriaMetrics | partial | 2026-09-14T12:18:35Z | [open](../records/databases-victoriametrics-victoriametrics-1acc72ef.md) |
 | zhisheng17/flink-learning | partial | 2026-05-06T13:39:08Z | [open](../records/databases-zhisheng17-flink-learning-b92bd5de.md) |
 
 ## Repository Workplaces

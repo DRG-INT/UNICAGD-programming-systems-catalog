@@ -686,20 +686,20 @@ Records: `1519`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | partial | 2026-09-11T14:57:43Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
-| gorilla/websocket | unknown | not_a_go_module_path | [open](../records/go-gorilla-websocket-b72dd879.md) |
+| gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T07:59:31Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T10:32:04Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T11:47:02Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T09:17:57Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-14T09:14:02Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
-| mudler/LocalAI | partial | 2026-09-14T08:05:34Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T11:59:37Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-14T12:15:43Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| mudler/LocalAI | partial | 2026-09-14T12:05:13Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
@@ -823,10 +823,10 @@ Records: `1519`
 | epilys/gerb | partial | 2024-10-17T10:23:39Z | [open](../records/assets-epilys-gerb-11b0ad1a.md) |
 | fontra/fontra | partial | 2026-09-11T18:21:29Z | [open](../records/assets-fontra-fontra-5752503b.md) |
 | imadr/Unity-game-hacking | partial | 2022-11-14T15:38:12Z | [open](../records/assets-imadr-unity-game-hacking-14ce1631.md) |
-| itflow-org/itflow | partial | 2026-09-11T11:56:53Z | [open](../records/assets-itflow-org-itflow-94ed9c35.md) |
+| itflow-org/itflow | partial | 2026-09-14T10:19:09Z | [open](../records/assets-itflow-org-itflow-94ed9c35.md) |
 | javierbyte/brutalita | partial | 2026-09-12T03:03:44Z | [open](../records/assets-javierbyte-brutalita-1566daf1.md) |
 | JeffersonQin/YuzuMarker.FontDetection | partial | 2025-02-22T22:38:43Z | [open](../records/assets-jeffersonqin-yuzumarker-fontdetection-c21fcdcb.md) |
-| listyque/TACTIC-Handler | partial | 2024-09-23T13:12:49Z | [open](../records/assets-listyque-tactic-handler-4eac647f.md) |
+| listyque/TACTIC-Handler | partial | 2026-09-13T14:51:21Z | [open](../records/assets-listyque-tactic-handler-4eac647f.md) |
 | markusmoenig/ShaderMania | partial | 2026-05-23T01:19:59Z | [open](../records/assets-markusmoenig-shadermania-e22e5065.md) |
 | projectdiscovery/cloudlist | partial | 2026-09-14T05:21:25Z | [open](../records/assets-projectdiscovery-cloudlist-3b29358e.md) |
 | schroef/Extra-Image-List | partial | 2024-11-12T19:01:44Z | [open](../records/assets-schroef-extra-image-list-8b1585cd.md) |
@@ -840,7 +840,7 @@ Records: `1519`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-14T09:30:32Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-14T12:02:39Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-06T20:59:29Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -855,7 +855,7 @@ Records: `1519`
 | mesa/mesa | partial | 2026-09-08T08:20:39Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-13T01:53:27Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-14T04:21:23Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-14T12:25:21Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-11T09:23:20Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |

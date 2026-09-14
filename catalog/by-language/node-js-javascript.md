@@ -405,7 +405,7 @@ Records: `2460`
 | [@ionic/cli-framework-prompts](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) | 2.1.13 | 2023-12-19T22:38:35.436Z | registry-derived |
 | [@jscad/cli](../records/node-js-javascript-jscad-cli-3e9c3318.md) | 2.3.8 | 2026-02-22T00:37:56.918Z | registry-derived |
 | [@knocklabs/cli](../records/node-js-javascript-knocklabs-cli-62154908.md) | 1.3.0 | 2026-09-08T20:53:10.588Z | registry-derived |
-| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.205.0 | 2026-09-14T10:09:39.268Z | registry-derived |
+| [@lightdash/cli](../records/node-js-javascript-lightdash-cli-ba24b859.md) | 2.206.2 | 2026-09-14T11:11:05.552Z | registry-derived |
 | [@lingui/cli](../records/node-js-javascript-lingui-cli-343f33ec.md) | 6.6.0 | 2026-07-24T13:52:53.439Z | registry-derived |
 | [@maizzle/cli](../records/node-js-javascript-maizzle-cli-a7a13457.md) | 2.0.0 | 2024-12-16T17:59:24.900Z | registry-derived |
 | [@marp-team/marp-cli](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) | 4.5.1 | 2026-09-06T00:35:32.795Z | registry-derived |
@@ -430,7 +430,7 @@ Records: `2460`
 | [@react-native/community-cli-plugin](../records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) | 0.87.1 | 2026-08-26T12:56:28.576Z | registry-derived |
 | [@redocly/cli-otel](../records/node-js-javascript-redocly-cli-otel-1a9a1737.md) | 0.3.6 | 2026-08-26T17:01:17.930Z | registry-derived |
 | [@reflag/cli](../records/node-js-javascript-reflag-cli-d57e61f7.md) | 1.0.4 | 2025-10-29T11:05:21.020Z | registry-derived |
-| [@rspack/cli](../records/node-js-javascript-rspack-cli-8e6b6307.md) | 2.2.3 | 2026-09-08T08:45:31.242Z | registry-derived |
+| [@rspack/cli](../records/node-js-javascript-rspack-cli-8e6b6307.md) | 2.2.4 | 2026-09-14T12:17:53.872Z | registry-derived |
 | [@salesforce/cli](../records/node-js-javascript-salesforce-cli-b9219aa7.md) | 2.150.6 | 2026-08-26T02:48:00.491Z | registry-derived |
 | [@sanity/cli](../records/node-js-javascript-sanity-cli-257446f0.md) | 8.11.0 | 2026-09-11T20:12:53.868Z | registry-derived |
 | [@sanity/cli-core](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) | 3.7.0 | 2026-09-10T15:58:18.717Z | registry-derived |

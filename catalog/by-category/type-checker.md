@@ -316,7 +316,7 @@ Records: `319`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-14T11:20:33Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-14T12:19:10Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -509,7 +509,7 @@ Records: `319`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mikro-orm/mikro-orm | partial | 2026-09-14T01:40:11Z | [open](../records/databases-mikro-orm-mikro-orm-988d6c85.md) |
-| prisma/orm | partial | 2026-09-14T10:30:07Z | [open](../records/databases-prisma-orm-d7875b44.md) |
+| prisma/orm | partial | 2026-09-14T12:22:31Z | [open](../records/databases-prisma-orm-d7875b44.md) |
 | rehacktive/caffeine | partial | 2022-11-30T16:19:55Z | [open](../records/databases-rehacktive-caffeine-7ba154b8.md) |
 | sequelize/sequelize | partial | 2026-09-14T05:18:29Z | [open](../records/databases-sequelize-sequelize-980d8352.md) |
 | strapi/strapi | partial | 2026-09-11T20:51:12Z | [open](../records/databases-strapi-strapi-16f55c01.md) |
