@@ -1,6 +1,6 @@
 # Library
 
-Records: `6161`
+Records: `6162`
 
 ## Navigation
 
@@ -17,7 +17,7 @@ Records: `6161`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6161)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6162)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -4610,7 +4610,7 @@ Records: `6161`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-13T12:09:59Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-14T01:45:41Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5453,7 +5453,7 @@ Records: `6161`
 | bmachek/lrc-immich-plugin | partial | 2026-09-13T06:30:37Z | [open](../records/photography-bmachek-lrc-immich-plugin-1ff1bb8b.md) |
 | brutella/hkcam | partial | 2024-07-01T20:37:02Z | [open](../records/photography-brutella-hkcam-863fb8c7.md) |
 | cadik/TMS | partial | 2026-06-01T11:50:00Z | [open](../records/photography-cadik-tms-33b35c97.md) |
-| Carrottor/WWPlayer | partial | 2026-09-08T12:13:15Z | [open](../records/photography-carrottor-wwplayer-d12266b7.md) |
+| Carrottor/WWPlayer | partial | 2026-09-12T11:02:04Z | [open](../records/photography-carrottor-wwplayer-d12266b7.md) |
 | cdcseacave/TinyEXIF | partial | 2026-08-23T08:51:46Z | [open](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
 | colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
@@ -5492,7 +5492,7 @@ Records: `6161`
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
 | motioneye-project/motioneye | partial | 2026-09-11T18:44:15Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
 | mustakshif/Asri | partial | 2026-09-09T05:02:59Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
-| natural-harmonia-gropius/hdr-toys | partial | 2026-09-04T16:30:47Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
+| natural-harmonia-gropius/hdr-toys | partial | 2026-09-13T14:27:03Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
 | opendatacam/opendatacam | partial | 2026-04-23T01:52:02Z | [open](../records/photography-opendatacam-opendatacam-2d3b3502.md) |
 | Panzerschrek/Square-Wheel | partial | 2026-02-26T19:24:22Z | [open](../records/photography-panzerschrek-square-wheel-e8747134.md) |
@@ -5519,6 +5519,7 @@ Records: `6161`
 | WangShuo1143368701/WSLiveDemo | partial | 2022-04-04T06:24:43Z | [open](../records/photography-wangshuo1143368701-wslivedemo-b17eb18b.md) |
 | yanzhenjie/Album | partial | 2022-08-25T21:09:56Z | [open](../records/photography-yanzhenjie-album-0ebba730.md) |
 | yomotsu/camera-controls | partial | 2026-09-09T01:18:26Z | [open](../records/photography-yomotsu-camera-controls-9e58a3b6.md) |
+| ZHINFINITY/Mpv-infinity | partial | 2026-09-14T00:21:14Z | [open](../records/photography-zhinfinity-mpv-infinity-6f354b19.md) |
 
 ## Microscopy
 
@@ -5736,7 +5737,7 @@ Records: `6161`
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-13T21:38:50Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-14T00:23:14Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | unknown | github_latest_release_missing | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
@@ -5818,7 +5819,7 @@ Records: `6161`
 | wheaney/magnetometer-calibrate | partial | 2024-11-18T18:58:52Z | [open](../records/electromagnetoscopes-wheaney-magnetometer-calibrate-301aea75.md) |
 | wiedehopf/readsb | partial | 2026-08-22T14:44:23Z | [open](../records/electromagnetoscopes-wiedehopf-readsb-9832c612.md) |
 | wodowiesel/PiFunk | partial | 2026-09-03T20:29:19Z | [open](../records/electromagnetoscopes-wodowiesel-pifunk-91f28ad9.md) |
-| x-extends/vxe-table | partial | 2026-09-13T15:27:41Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
+| x-extends/vxe-table | partial | 2026-09-14T01:53:34Z | [open](../records/electromagnetoscopes-x-extends-vxe-table-514497aa.md) |
 | xaelsouth/rtl-wmbus | partial | 2026-05-31T04:54:41Z | [open](../records/electromagnetoscopes-xaelsouth-rtl-wmbus-c5bb74ea.md) |
 | Xinyuan-LilyGO/LilyGo-LoRa-Series | partial | 2026-08-28T02:48:29Z | [open](../records/electromagnetoscopes-xinyuan-lilygo-lilygo-lora-series-77327c59.md) |
 | y20k/transistor | partial | 2024-02-20T21:00:23Z | [open](../records/electromagnetoscopes-y20k-transistor-f153afb0.md) |
@@ -5986,7 +5987,7 @@ Records: `6161`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-14T00:13:48Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-14T01:39:54Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

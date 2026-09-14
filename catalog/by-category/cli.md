@@ -17,7 +17,7 @@ Records: `603`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -342,7 +342,7 @@ Records: `603`
 | @sanity/cli | 8.11.0 | 2026-09-11T20:12:53.868Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
 | @sanity/cli-core | 3.7.0 | 2026-09-10T15:58:18.717Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
 | @sap/appfront-cli | 1.16.1 | 2026-08-09T07:20:40.079Z | [open](../records/node-js-javascript-sap-appfront-cli-0314fdf9.md) |
-| @sazabi/cli | 1.9.0 | 2026-09-12T03:55:49.949Z | [open](../records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| @sazabi/cli | 1.10.0 | 2026-09-14T01:36:27.899Z | [open](../records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | @sentry/cli-darwin | 3.7.0 | 2026-08-28T09:23:05.442Z | [open](../records/node-js-javascript-sentry-cli-darwin-f7f0b0cc.md) |
 | @sentry/cli-linux-arm | 3.7.0 | 2026-08-28T09:27:09.858Z | [open](../records/node-js-javascript-sentry-cli-linux-arm-5ed1afae.md) |
 | @sentry/cli-linux-arm64 | 3.7.0 | 2026-08-28T10:06:16.152Z | [open](../records/node-js-javascript-sentry-cli-linux-arm64-280f8dcb.md) |
@@ -550,10 +550,10 @@ Records: `603`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-14T01:10:51Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-14T02:18:33Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-14T01:05:36Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-14T02:21:22Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -660,7 +660,7 @@ Records: `603`
 | hpjansson/chafa | partial | 2026-09-06T19:42:49Z | [open](../records/photography-hpjansson-chafa-f9ebbba8.md) |
 | oaklensart/fixxer | unknown | github_search_does_not_include_release_date | [open](../records/photography-oaklensart-fixxer-6396ddfb.md) |
 | photo-cli/photo-cli | unknown | github_search_does_not_include_release_date | [open](../records/photography-photo-cli-photo-cli-ebb0e161.md) |
-| quietvoid/dovi_tool | partial | 2026-09-09T23:54:24Z | [open](../records/photography-quietvoid-dovi-tool-171962f7.md) |
+| quietvoid/dovi_tool | partial | 2026-09-13T17:26:53Z | [open](../records/photography-quietvoid-dovi-tool-171962f7.md) |
 | quietvoid/hdr10plus_tool | partial | 2026-04-27T13:17:12Z | [open](../records/photography-quietvoid-hdr10plus-tool-0b668188.md) |
 | rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | TheZoraiz/ascii-image-converter | partial | 2024-04-14T19:34:21Z | [open](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
@@ -688,7 +688,7 @@ Records: `603`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bjarneo/cliamp | partial | 2026-09-13T21:14:00Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| bjarneo/cliamp | partial | 2026-09-14T01:43:26Z | [open](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
 | dpnkrpl/radio-active | partial | 2026-06-30T15:34:15Z | [open](../records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
 | geo-tp/ESP32-Bit-Pirate | partial | 2026-09-12T17:40:17Z | [open](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
 | ha7ilm/csdr | partial | 2024-02-06T12:13:28Z | [open](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |

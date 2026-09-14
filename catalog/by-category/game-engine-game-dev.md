@@ -17,7 +17,7 @@ Records: `378`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · **[Game Engine Game Dev (378)](game-engine-game-dev.md)** · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -464,7 +464,7 @@ Records: `378`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CleasbyCode/jdvrif | partial | 2026-09-07T20:35:27Z | [open](../records/photography-cleasbycode-jdvrif-e7dd7897.md) |
-| clshortfuse/renodx | partial | 2026-09-12T01:42:15Z | [open](../records/photography-clshortfuse-renodx-127b6f8d.md) |
+| clshortfuse/renodx | partial | 2026-09-14T01:48:59Z | [open](../records/photography-clshortfuse-renodx-127b6f8d.md) |
 | Ershany/Arcane-Engine | partial | 2026-08-14T16:57:39Z | [open](../records/photography-ershany-arcane-engine-77807fd7.md) |
 | HerrZatacke/2bit-pxlr-studio | unknown | github_search_does_not_include_release_date | [open](../records/photography-herrzatacke-2bit-pxlr-studio-c3ca0627.md) |
 | xavier150/Blender-For-UnrealEngine-Addons | partial | 2026-09-02T14:07:05Z | [open](../records/photography-xavier150-blender-for-unrealengine-addons-cb8cc817.md) |

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T01:22:10+00:00`
+Generated: `2026-09-14T02:23:19+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1725)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6161)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6162)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (559)](by-category/logging-observability.md) · [Machine Learning (870)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1244)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -29,12 +29,13 @@ Generated: `2026-09-14T01:22:10+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 10960 |
-| Unknown stable release | 18277 |
+| Unknown stable release | 18278 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.10.0 | 2026-09-14T01:36:27.899Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | sdl3-bindgen-sys | Haskell | Library | 0.0.0.3 | 2026-09-14T00:23:51Z | [open](records/haskell-sdl3-bindgen-sys-2e14785a.md) |
 | typed-peg | Haskell | Library | 0.4.0.0 | 2026-09-14T00:21:58Z | [open](records/haskell-typed-peg-d0f69182.md) |
 | tinyvec | Rust | Ide Editor Integration | 1.13.3 | 2026-09-13T23:30:12.904680Z | [open](records/rust-tinyvec-a3ec787a.md) |
@@ -171,7 +172,6 @@ Generated: `2026-09-14T01:22:10+00:00`
 | langchain-hs-core | Haskell | Machine Learning | 0.0.5.0 | 2026-09-12T13:13:40Z | [open](records/haskell-langchain-hs-core-ea420901.md) |
 | slang | Dart | Serialization | 4.19.2 | 2026-09-12T11:44:14.783497Z | [open](records/dart-slang-f760648f.md) |
 | mockcat | Haskell | Assertion Mocking | 1.5.0.0 | 2026-09-12T04:56:46Z | [open](records/haskell-mockcat-fdb03bd1.md) |
-| @sazabi/cli | Node.js/JavaScript | Cli | 1.9.0 | 2026-09-12T03:55:49.949Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | fuyu-gpio | Haskell | Library | 0.1.1.0 | 2026-09-12T03:17:42Z | [open](records/haskell-fuyu-gpio-5e0b1b37.md) |
 | cxx | Rust | Interop Bindings | 1.0.202 | 2026-09-12T02:20:55.503835Z | [open](records/rust-cxx-8005ea19.md) |
 | cxxbridge-macro | Rust | Machine Learning | 1.0.202 | 2026-09-12T02:20:50.466085Z | [open](records/rust-cxxbridge-macro-af60e779.md) |
@@ -290,7 +290,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10661 |
+| gh_search_reports_activity_not_release_version | 10662 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

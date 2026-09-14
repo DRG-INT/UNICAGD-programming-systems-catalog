@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-14T01:22:10+00:00`
+Generated: `2026-09-14T02:23:19+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -15,7 +15,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1725)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6161)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6162)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (559)](by-category/logging-observability.md) · [Machine Learning (870)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1244)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -66,7 +66,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 | Effects | 785 | 1 | [Effects](by-language/effects.md) |
 | Audio | 481 | 0 | [Audio](by-language/audio.md) |
 | Video | 471 | 0 | [Video](by-language/video.md) |
-| Photography | 599 | 0 | [Photography](by-language/photography.md) |
+| Photography | 600 | 0 | [Photography](by-language/photography.md) |
 | Microscopy | 194 | 0 | [Microscopy](by-language/microscopy.md) |
 | Telescopes | 272 | 0 | [Telescopes](by-language/telescopes.md) |
 | Radars | 365 | 0 | [Radars](by-language/radars.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 | Jit Vm | 67 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
 | Language Specification | 1473 | [language_specification](by-category/language-specification.md) |
-| Library | 6161 | [library](by-category/library.md) |
+| Library | 6162 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 52 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 350 | [linter](by-category/linter.md) |
@@ -203,7 +203,7 @@ Generated: `2026-09-14T01:22:10+00:00`
 | Effects | 1 | 784 |
 | Audio | 0 | 481 |
 | Video | 0 | 471 |
-| Photography | 0 | 599 |
+| Photography | 0 | 600 |
 | Microscopy | 0 | 194 |
 | Telescopes | 0 | 272 |
 | Radars | 0 | 365 |

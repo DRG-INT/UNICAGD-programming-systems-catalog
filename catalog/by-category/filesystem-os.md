@@ -17,7 +17,7 @@ Records: `1725`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · **[Filesystem Os (1725)](filesystem-os.md)** · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -603,7 +603,7 @@ Records: `1725`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-13T23:51:41Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-14T02:15:08Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1317,7 +1317,7 @@ Records: `1725`
 | aiff22/PyNET | partial | 2025-08-23T13:20:25Z | [open](../records/photography-aiff22-pynet-0fb4cb17.md) |
 | aiff22/PyNET-Bokeh | unknown | github_search_does_not_include_release_date | [open](../records/photography-aiff22-pynet-bokeh-519da98d.md) |
 | aiff22/PyNET-PyTorch | partial | 2025-08-23T12:56:55Z | [open](../records/photography-aiff22-pynet-pytorch-8da331a9.md) |
-| AlkaidLab/foundation-sunshine | partial | 2026-09-11T09:32:52Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
+| AlkaidLab/foundation-sunshine | partial | 2026-09-13T07:01:42Z | [open](../records/photography-alkaidlab-foundation-sunshine-96ec5220.md) |
 | Apparence-io/CamerAwesome | partial | 2026-04-08T20:22:58Z | [open](../records/photography-apparence-io-camerawesome-6dfa91a5.md) |
 | ashesbloom/LocalLens | partial | 2026-09-13T14:23:16Z | [open](../records/photography-ashesbloom-locallens-fde40cf9.md) |
 | aslost/pixtale | partial | 2026-09-01T14:07:49Z | [open](../records/photography-aslost-pixtale-df702412.md) |

@@ -17,7 +17,7 @@ Records: `451`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
 **[Image Audio Dsp (451)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6161)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1094)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -485,9 +485,9 @@ Records: `451`
 | PyWavelets/pywt | partial | 2026-09-09T20:17:07Z | [open](../records/photography-pywavelets-pywt-f5bf7c96.md) |
 | ray075hl/singleLDR2HDR | partial | 2025-01-07T02:22:51Z | [open](../records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
 | RayXie29/Shading_Correction | partial | 2019-03-18T09:42:41Z | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
-| roboflow/supervision | partial | 2026-09-11T14:28:12Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
+| roboflow/supervision | partial | 2026-09-14T00:04:44Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
 | scikit-image/scikit-image | partial | 2026-09-09T12:25:56Z | [open](../records/photography-scikit-image-scikit-image-e1dba1e6.md) |
-| shimat/opencvsharp | partial | 2026-09-13T01:59:19Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
+| shimat/opencvsharp | partial | 2026-09-14T01:03:34Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
 | sightmachine/SimpleCV | partial | 2024-12-20T19:39:00Z | [open](../records/photography-sightmachine-simplecv-b798cfb7.md) |
 | silvia-odwyer/photon | partial | 2026-09-12T10:40:41Z | [open](../records/photography-silvia-odwyer-photon-c3114191.md) |
 | SonyResearch/raw_image_denoising | partial | 2025-06-18T13:35:08Z | [open](../records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |
