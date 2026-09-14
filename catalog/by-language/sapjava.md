@@ -340,7 +340,7 @@ Records: `312`
 | [com.sap.cloud.yaas.service-sdk:service-sdk-logging](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-26d96d5e.md) | 4.17.1 | 2017-10-26T05:29:50+00:00 | registry-derived |
 | [com.sap.cloud.yaas.service-sdk:service-sdk-logging-filters](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-filters-cf3a376b.md) | 4.17.1 | 2017-10-26T05:29:50+00:00 | registry-derived |
 | [logalitech/cap-skills](../records/sapjava-logalitech-cap-skills-4147e508.md) | partial | 2026-08-15T09:07:37Z | registry-derived |
-| [SAP/cf-java-logging-support](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) | partial | 2026-09-14T01:13:26Z | registry-derived |
+| [SAP/cf-java-logging-support](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) | partial | 2026-09-14T15:40:09Z | registry-derived |
 | [SAP/cloud-metricswatcher](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) | partial | 2026-05-27T14:12:12Z | registry-derived |
 | [sapanablog/Medical-ERP-CAP](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) | partial | 2026-07-12T14:42:34Z | registry-derived |
 | [soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) | partial | 2023-02-04T14:56:07Z | registry-derived |

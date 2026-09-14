@@ -219,14 +219,14 @@ Records: `421`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [0xC0000054/pdn-ddsfiletype-plus](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) | partial | 2026-03-22T23:48:30Z | registry-derived |
+| [0xC0000054/pdn-ddsfiletype-plus](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) | partial | 2026-09-14T11:54:33Z | registry-derived |
 | [aMarCruz/react-native-text-size](../records/assets-amarcruz-react-native-text-size-989d2e6b.md) | partial | 2024-07-17T10:20:57Z | registry-derived |
 | [assimp/assimp](../records/assets-assimp-assimp-e26f9fa8.md) | partial | 2026-09-09T22:26:21Z | registry-derived |
 | [BlackFoundryCom/InriaFonts](../records/assets-blackfoundrycom-inriafonts-1005f303.md) | partial | 2021-12-08T05:49:01Z | registry-derived |
 | [dogoncouch/LogESP](../records/assets-dogoncouch-logesp-487d8edc.md) | partial | 2023-08-24T20:13:12Z | registry-derived |
 | [elasota/ConvectionKernels](../records/assets-elasota-convectionkernels-1bd72eb9.md) | partial | 2022-06-23T03:15:07Z | registry-derived |
 | [fcamarlinghi/expresso](../records/assets-fcamarlinghi-expresso-80b908f5.md) | partial | 2025-10-04T13:44:15Z | registry-derived |
-| [fernandotonon/QtMeshEditor](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) | partial | 2026-09-14T06:47:02Z | registry-derived |
+| [fernandotonon/QtMeshEditor](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) | partial | 2026-09-14T17:06:12Z | registry-derived |
 | [iZePlayzYT/SuperMarioEclipse-TexturePacks](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) | partial | 2026-06-26T22:41:38Z | registry-derived |
 | [johanmattssonm/birdfont](../records/assets-johanmattssonm-birdfont-f317dbe1.md) | partial | 2025-11-23T19:49:15Z | registry-derived |
 | [jtomori/batch_textures_convert](../records/assets-jtomori-batch-textures-convert-0307606c.md) | partial | 2022-01-05T20:08:33Z | registry-derived |

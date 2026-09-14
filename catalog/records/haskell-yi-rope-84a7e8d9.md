@@ -32,8 +32,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | hackage_top_downloads_page_does_not_include_release_date |
-| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
+| stable | known | 0.11 | 2018-06-06T20:58:47Z | [https://hackage.haskell.org/package/yi-rope](https://hackage.haskell.org/package/yi-rope) |  |
+| candidate | partial | 0.11 |  | [https://hackage.haskell.org/package/yi-rope](https://hackage.haskell.org/package/yi-rope) | hackage_candidate_date_missing |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `hackage_top_downloads_page_does_not_include_release_date`.
-- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/package/yi-rope` at `2026-09-14T17:21:42+00:00`.
+- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
 
 ## Provenance
 

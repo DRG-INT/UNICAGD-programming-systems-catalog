@@ -93,7 +93,7 @@ Records: `785`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [meshula/awesome-voxel](../records/effects-meshula-awesome-voxel-97b20071.md) | partial | 2025-04-30T04:36:12Z | registry-derived |
+| [meshula/awesome-voxel](../records/effects-meshula-awesome-voxel-97b20071.md) | partial | 2026-09-14T16:58:03Z | registry-derived |
 | [UnityCommunity/UnityLibrary](../records/effects-unitycommunity-unitylibrary-9e95ac38.md) | partial | 2026-09-05T14:50:21Z | registry-derived |
 | [vfxpro99/usd-resources](../records/effects-vfxpro99-usd-resources-79b30e0b.md) | partial | 2024-12-05T17:52:31Z | registry-derived |
 
@@ -493,7 +493,7 @@ Records: `785`
 | [kdrag0n/fxdsp](../records/effects-kdrag0n-fxdsp-ed8a2cc5.md) | partial | 2023-08-21T09:34:31Z | registry-derived |
 | [keijiro/Rcam](../records/effects-keijiro-rcam-674b64d9.md) | partial | 2019-07-11T14:02:58Z | registry-derived |
 | [keijiro/VideoPlayerEffects](../records/effects-keijiro-videoplayereffects-46875021.md) | partial | 2017-03-25T05:42:21Z | registry-derived |
-| [Kelpekk/Juicee](../records/effects-kelpekk-juicee-a29c0cec.md) | partial | 2026-08-29T13:49:13Z | registry-derived |
+| [Kelpekk/Juicee](../records/effects-kelpekk-juicee-a29c0cec.md) | partial | 2026-09-14T16:56:15Z | registry-derived |
 | [lincollincol/AudioTool](../records/effects-lincollincol-audiotool-5994abcc.md) | partial | 2021-03-26T16:59:45Z | registry-derived |
 | [mert-dev-acc/ThermalVisionPostProcessingShader](../records/effects-mert-dev-acc-thermalvisionpostprocessingshader-994cb08a.md) | partial | 2019-08-31T10:18:03Z | registry-derived |
 | [Michael-A-Kuykendall/auxide-dsp](../records/effects-michael-a-kuykendall-auxide-dsp-26b24af4.md) | partial | 2026-08-30T14:57:10Z | registry-derived |

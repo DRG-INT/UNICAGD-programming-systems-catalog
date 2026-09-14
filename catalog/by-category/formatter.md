@@ -548,7 +548,7 @@ Records: `673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T16:21:31Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T17:10:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -611,14 +611,14 @@ Records: `673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 0xC0000054/pdn-ddsfiletype-plus | partial | 2026-03-22T23:48:30Z | [open](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) |
+| 0xC0000054/pdn-ddsfiletype-plus | partial | 2026-09-14T11:54:33Z | [open](../records/assets-0xc0000054-pdn-ddsfiletype-plus-8da0f368.md) |
 | aMarCruz/react-native-text-size | partial | 2024-07-17T10:20:57Z | [open](../records/assets-amarcruz-react-native-text-size-989d2e6b.md) |
 | assimp/assimp | partial | 2026-09-09T22:26:21Z | [open](../records/assets-assimp-assimp-e26f9fa8.md) |
 | BlackFoundryCom/InriaFonts | partial | 2021-12-08T05:49:01Z | [open](../records/assets-blackfoundrycom-inriafonts-1005f303.md) |
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
 | elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
 | fcamarlinghi/expresso | partial | 2025-10-04T13:44:15Z | [open](../records/assets-fcamarlinghi-expresso-80b908f5.md) |
-| fernandotonon/QtMeshEditor | partial | 2026-09-14T06:47:02Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
+| fernandotonon/QtMeshEditor | partial | 2026-09-14T17:06:12Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
 | iZePlayzYT/SuperMarioEclipse-TexturePacks | partial | 2026-06-26T22:41:38Z | [open](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | jtomori/batch_textures_convert | partial | 2022-01-05T20:08:33Z | [open](../records/assets-jtomori-batch-textures-convert-0307606c.md) |

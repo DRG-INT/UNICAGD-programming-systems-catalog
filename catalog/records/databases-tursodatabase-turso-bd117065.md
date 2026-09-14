@@ -33,7 +33,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-14T11:23:01Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-14T15:22:32Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ selection, diagnostics behavior, target support, ABI expectations, and build rep
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -575,7 +575,7 @@ Records: `657`
 | [arda-guler/Kozmoworks](../records/space-maps-arda-guler-kozmoworks-da5d973a.md) | partial | 2023-11-10T11:46:42Z | registry-derived |
 | [Askaniy/LPA-RadioSkyMapper](../records/space-maps-askaniy-lpa-radioskymapper-29d5349e.md) | partial | 2026-09-07T10:54:30Z | registry-derived |
 | [AstroAure/Astronomy-observations](../records/space-maps-astroaure-astronomy-observations-cc742c6e.md) | partial | 2025-11-19T07:37:53Z | registry-derived |
-| [astropy-learn/astropy-tutorials](../records/space-maps-astropy-learn-astropy-tutorials-275724b5.md) | partial | 2026-09-07T16:51:31Z | registry-derived |
+| [astropy-learn/astropy-tutorials](../records/space-maps-astropy-learn-astropy-tutorials-275724b5.md) | partial | 2026-09-14T16:51:46Z | registry-derived |
 | [astropy/astroquery](../records/space-maps-astropy-astroquery-b186d616.md) | partial | 2026-09-04T03:39:09Z | registry-derived |
 | [astropy/photutils](../records/space-maps-astropy-photutils-f03aef0e.md) | partial | 2026-09-11T01:50:21Z | registry-derived |
 | [astrorigin/pyswisseph](../records/space-maps-astrorigin-pyswisseph-af6f961a.md) | partial | 2026-04-01T08:19:24Z | registry-derived |
@@ -662,7 +662,7 @@ Records: `657`
 | [omarreis/vsop2013](../records/space-maps-omarreis-vsop2013-bf6eea6b.md) | partial | 2023-09-14T13:28:29Z | registry-derived |
 | [onekiloparsec/SwiftAA](../records/space-maps-onekiloparsec-swiftaa-c029890e.md) | partial | 2026-05-31T09:03:53Z | registry-derived |
 | [parvezsiddique4/night-sky-viz](../records/space-maps-parvezsiddique4-night-sky-viz-68590fe4.md) | partial | 2026-07-02T18:19:49Z | registry-derived |
-| [PlasmaPy/PlasmaPy](../records/space-maps-plasmapy-plasmapy-38af8e3b.md) | partial | 2026-09-08T13:09:49Z | registry-derived |
+| [PlasmaPy/PlasmaPy](../records/space-maps-plasmapy-plasmapy-38af8e3b.md) | partial | 2026-09-14T17:03:27Z | registry-derived |
 | [polatory/polatory](../records/space-maps-polatory-polatory-c8cfead9.md) | partial | 2026-09-03T17:12:57Z | registry-derived |
 | [poliastro/poliastro](../records/space-maps-poliastro-poliastro-d7649ab9.md) | partial | 2023-10-14T15:30:47Z | registry-derived |
 | [ppp-one/astra](../records/space-maps-ppp-one-astra-9c6eaad7.md) | partial | 2026-09-14T14:51:32Z | registry-derived |
@@ -692,7 +692,7 @@ Records: `657`
 | [spacetelescope/webbpsf](../records/space-maps-spacetelescope-webbpsf-5be07f40.md) | partial | 2025-12-02T16:51:26Z | registry-derived |
 | [SpiceSharp/SpiceSharpParser](../records/space-maps-spicesharp-spicesharpparser-20f4c337.md) | partial | 2026-08-01T17:44:33Z | registry-derived |
 | [Starlink/starlink](../records/space-maps-starlink-starlink-7f05c3ed.md) | partial | 2026-08-12T00:17:22Z | registry-derived |
-| [Stellarium/stellarium](../records/space-maps-stellarium-stellarium-9881eb0a.md) | partial | 2026-09-14T16:12:40Z | registry-derived |
+| [Stellarium/stellarium](../records/space-maps-stellarium-stellarium-9881eb0a.md) | partial | 2026-09-14T16:40:25Z | registry-derived |
 | [steveberardi/starplot](../records/space-maps-steveberardi-starplot-f953a72c.md) | partial | 2026-09-13T15:41:28Z | registry-derived |
 | [StingraySoftware/stingray](../records/space-maps-stingraysoftware-stingray-96dfde34.md) | partial | 2026-09-13T09:13:13Z | registry-derived |
 | [sunpy/sunpy](../records/space-maps-sunpy-sunpy-8e44c814.md) | partial | 2026-09-14T14:26:16Z | registry-derived |
@@ -782,7 +782,7 @@ Records: `657`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [astropy/astropy](../records/space-maps-astropy-astropy-ff2da165.md) | partial | 2026-09-14T15:01:25Z | registry-derived |
+| [astropy/astropy](../records/space-maps-astropy-astropy-ff2da165.md) | partial | 2026-09-14T17:04:19Z | registry-derived |
 
 ### Static Analyzer
 

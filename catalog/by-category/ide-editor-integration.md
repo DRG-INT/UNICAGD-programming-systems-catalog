@@ -695,7 +695,7 @@ Records: `1523`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T16:19:55Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T16:43:28Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-14T12:55:58Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-14T15:10:58Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
@@ -843,7 +843,7 @@ Records: `1523`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-14T14:02:26Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-14T16:35:42Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-06T20:59:29Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -858,7 +858,7 @@ Records: `1523`
 | mesa/mesa | partial | 2026-09-14T14:13:25Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-13T01:53:27Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-14T12:25:21Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-14T17:17:34Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-11T09:23:20Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -977,7 +977,7 @@ Records: `1523`
 | kdrag0n/fxdsp | partial | 2023-08-21T09:34:31Z | [open](../records/effects-kdrag0n-fxdsp-ed8a2cc5.md) |
 | keijiro/Rcam | partial | 2019-07-11T14:02:58Z | [open](../records/effects-keijiro-rcam-674b64d9.md) |
 | keijiro/VideoPlayerEffects | partial | 2017-03-25T05:42:21Z | [open](../records/effects-keijiro-videoplayereffects-46875021.md) |
-| Kelpekk/Juicee | partial | 2026-08-29T13:49:13Z | [open](../records/effects-kelpekk-juicee-a29c0cec.md) |
+| Kelpekk/Juicee | partial | 2026-09-14T16:56:15Z | [open](../records/effects-kelpekk-juicee-a29c0cec.md) |
 | lincollincol/AudioTool | partial | 2021-03-26T16:59:45Z | [open](../records/effects-lincollincol-audiotool-5994abcc.md) |
 | mert-dev-acc/ThermalVisionPostProcessingShader | partial | 2019-08-31T10:18:03Z | [open](../records/effects-mert-dev-acc-thermalvisionpostprocessingshader-994cb08a.md) |
 | Michael-A-Kuykendall/auxide-dsp | partial | 2026-08-30T14:57:10Z | [open](../records/effects-michael-a-kuykendall-auxide-dsp-26b24af4.md) |
@@ -1723,7 +1723,7 @@ Records: `1523`
 | Sentry | 8.58.4 | 2026-07-14 16:24:57 UTC | [open](../records/cocoa-sentry-5755fd31.md) |
 | SwiftyOAuth | v0.3 | 2016-05-26T16:17:39Z | [open](../records/cocoa-swiftyoauth-e67a0934.md) |
 | textmate/textmate | partial | 2024-05-18T11:00:21Z | [open](../records/cocoa-textmate-textmate-91b26640.md) |
-| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-08T14:45:20Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
+| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-14T14:12:50Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | yahoo/AppDevKit | partial | 2024-12-13T10:04:16Z | [open](../records/cocoa-yahoo-appdevkit-086034f0.md) |
 | Yalantis/Pull-to-Refresh.Rentals-iOS | partial | 2018-06-16T09:20:03Z | [open](../records/cocoa-yalantis-pull-to-refresh-rentals-ios-c4b7308d.md) |
 | Yalantis/Side-Menu.iOS | partial | 2020-04-13T06:45:38Z | [open](../records/cocoa-yalantis-side-menu-ios-60a08b2a.md) |

@@ -205,7 +205,7 @@ Records: `126`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| meshula/awesome-voxel | partial | 2025-04-30T04:36:12Z | [open](../records/effects-meshula-awesome-voxel-97b20071.md) |
+| meshula/awesome-voxel | partial | 2026-09-14T16:58:03Z | [open](../records/effects-meshula-awesome-voxel-97b20071.md) |
 | UnityCommunity/UnityLibrary | partial | 2026-09-05T14:50:21Z | [open](../records/effects-unitycommunity-unitylibrary-9e95ac38.md) |
 | vfxpro99/usd-resources | partial | 2024-12-05T17:52:31Z | [open](../records/effects-vfxpro99-usd-resources-79b30e0b.md) |
 
