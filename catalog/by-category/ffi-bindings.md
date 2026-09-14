@@ -1,6 +1,6 @@
 # Ffi Bindings
 
-Records: `489`
+Records: `490`
 
 ## Navigation
 
@@ -14,10 +14,10 @@ Records: `489`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · **[Ffi Bindings (489)](ffi-bindings.md)** · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · **[Ffi Bindings (490)](ffi-bindings.md)** · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -229,7 +229,7 @@ Records: `489`
 | @blocksuite/data-view | 0.22.4 | 2025-07-01T05:43:33.867Z | [open](../records/node-js-javascript-blocksuite-data-view-d981610e.md) |
 | @browserstack/mcp-server | 1.3.3 | 2026-09-11T12:45:23.423Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | @canva/cli | 2.12.0 | 2026-09-09T06:03:22.292Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
-| @datadog/openfeature-node-server | 2.2.0 | 2026-08-21T16:37:22.615Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
+| @datadog/openfeature-node-server | 2.3.0 | 2026-09-14T16:55:15.680Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @larksuite/cli | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](../records/node-js-javascript-larksuite-cli-442a55c5.md) |
 | @notionhq/notion-mcp-server | 2.5.1 | 2026-07-25T16:20:34.018Z | [open](../records/node-js-javascript-notionhq-notion-mcp-server-f7b2be7e.md) |
 | @payloadcms/db-d1-sqlite | 3.89.0 | 2026-09-10T14:50:21.356Z | [open](../records/node-js-javascript-payloadcms-db-d1-sqlite-f0725d60.md) |
@@ -243,6 +243,7 @@ Records: `489`
 | react-server-dom-webpack | 19.3.0 | 2026-09-09T17:16:56.253Z | [open](../records/node-js-javascript-react-server-dom-webpack-0488aaab.md) |
 | resend-cli | 2.19.1 | 2026-09-08T12:42:08.434Z | [open](../records/node-js-javascript-resend-cli-6d949c1a.md) |
 | tdl | 8.1.0 | 2026-03-10T20:26:46.308Z | [open](../records/node-js-javascript-tdl-e51f0d0f.md) |
+| unicode-case-folding | 1.1.1 | 2025-10-01T18:38:32.834Z | [open](../records/node-js-javascript-unicode-case-folding-515a532a.md) |
 
 ## Lua family
 

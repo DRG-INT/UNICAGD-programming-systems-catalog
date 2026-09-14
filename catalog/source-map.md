@@ -10,10 +10,10 @@
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (489)](by-category/ffi-bindings.md) · [Filesystem Os (1732)](by-category/filesystem-os.md) · [Formatter (673)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1523)](by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (490)](by-category/ffi-bindings.md) · [Filesystem Os (1732)](by-category/filesystem-os.md) · [Formatter (673)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6176)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6177)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (594)](by-category/logging-observability.md) · [Machine Learning (871)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1096)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1247)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
@@ -18317,6 +18317,7 @@
 | `go_module_index-fed5c5de68a96e` | github.com/tangerg/scope/core | [open](records/go-github-com-tangerg-scope-core-c39c292b.md) |
 | `go_module_index-ff1e655008b853` | github.com/vitorpamplona/amethyst | [open](records/go-github-com-vitorpamplona-amethyst-7831885b.md) |
 | `go_module_index-fffde2b2775629` | github.com/quantus-network/qp-poseidon | [open](records/go-github-com-quantus-network-qp-poseidon-339ddff6.md) |
+| `hackage_recent-00e9302c89c536` | shibuya-pgmq-adapter | [open](records/haskell-shibuya-pgmq-adapter-ced33a49.md) |
 | `hackage_recent-0154ef14481072` | shikumi-okf | [open](records/haskell-shikumi-okf-4d36d608.md) |
 | `hackage_recent-0218c2df29decf` | keiro-dsl | [open](records/haskell-keiro-dsl-4c318e4c.md) |
 | `hackage_recent-02ddd1d9509596` | fuyu-gpio-direct | [open](records/haskell-fuyu-gpio-direct-75719919.md) |
@@ -24500,6 +24501,7 @@
 | `npm_registry-02aa689179e508` | ionic-logging-service | [open](records/node-js-javascript-ionic-logging-service-6338e5a6.md) |
 | `npm_registry-02bc7a3e0be71a` | lusca | [open](records/node-js-javascript-lusca-c190fdc0.md) |
 | `npm_registry-02d07296fb577e` | @turbo/linux-arm64 | [open](records/node-js-javascript-turbo-linux-arm64-35013446.md) |
+| `npm_registry-02f8b251769480` | unicode-case-folding | [open](records/node-js-javascript-unicode-case-folding-515a532a.md) |
 | `npm_registry-02f98b3816cfa8` | jest-enzyme | [open](records/node-js-javascript-jest-enzyme-2e9860c3.md) |
 | `npm_registry-02fd4ca75e9db7` | @zenstackhq/cli | [open](records/node-js-javascript-zenstackhq-cli-0b6ca1af.md) |
 | `npm_registry-0301225c6bd0ff` | @swimlane/prettier-config-swimlane | [open](records/node-js-javascript-swimlane-prettier-config-swimlane-f5a32f8d.md) |
@@ -24700,6 +24702,7 @@
 | `npm_registry-1555b7e637f8a9` | @percy/selenium-webdriver | [open](records/node-js-javascript-percy-selenium-webdriver-9f80bd32.md) |
 | `npm_registry-1569bb14da7d18` | @typescript/typescript-linux-riscv64 | [open](records/node-js-typescript-typescript-typescript-linux-riscv64-9be1d4ae.md) |
 | `npm_registry-1575810f8579f7` | @vue/test-utils | [open](records/node-js-javascript-vue-test-utils-aa8d0a01.md) |
+| `npm_registry-15790247cd1212` | @spreeloop/database | [open](records/node-js-javascript-spreeloop-database-b42f0495.md) |
 | `npm_registry-15be0632fd662b` | @comunica/bus-http | [open](records/node-js-javascript-comunica-bus-http-0c46ef4a.md) |
 | `npm_registry-15d2b4d3b91f34` | prettier-plugin-astro | [open](records/node-js-javascript-prettier-plugin-astro-961f4f7a.md) |
 | `npm_registry-15e15ed64a65f6` | eslint-plugin-no-null | [open](records/node-js-javascript-eslint-plugin-no-null-300cc718.md) |

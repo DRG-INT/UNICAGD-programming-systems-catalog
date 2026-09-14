@@ -14,10 +14,10 @@ Records: `365`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (489)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1523)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6176)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1247)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -32,7 +32,7 @@ Records: `365`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [earthaccess-dev/earthaccess](../records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) | partial | 2026-09-05T17:57:03Z | registry-derived |
+| [earthaccess-dev/earthaccess](../records/radars-earthaccess-dev-earthaccess-b40ecdd1.md) | partial | 2026-09-09T18:21:36Z | registry-derived |
 | [ktuukkan/marine-api](../records/radars-ktuukkan-marine-api-c4837662.md) | partial | 2026-09-13T16:23:47Z | registry-derived |
 | [MapIV/eagleye](../records/radars-mapiv-eagleye-c0a50797.md) | partial | 2026-04-06T07:21:54Z | registry-derived |
 | [wgcban/ddpm-cd](../records/radars-wgcban-ddpm-cd-d1dbc669.md) | partial | 2024-12-08T18:49:35Z | registry-derived |
@@ -113,7 +113,7 @@ Records: `365`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [30hours/blah2](../records/radars-30hours-blah2-4acda32e.md) | partial | 2026-02-21T00:29:08Z | registry-derived |
-| [e-sensing/sits](../records/radars-e-sensing-sits-cf345a58.md) | partial | 2026-08-31T09:55:57Z | registry-derived |
+| [e-sensing/sits](../records/radars-e-sensing-sits-cf345a58.md) | partial | 2026-09-11T21:42:56Z | registry-derived |
 | [ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2](../records/radars-ibaigorordo-awr1642-read-data-python-mmwave-sdk-2-50ad63c6.md) | partial | 2021-04-18T13:36:40Z | registry-derived |
 | [ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-](../records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) | partial | 2022-01-19T14:01:53Z | registry-derived |
 | [InSARdev/S1orbits](../records/radars-insardev-s1orbits-58fd1e55.md) | partial | 2026-09-11T08:55:57Z | registry-derived |
@@ -125,7 +125,7 @@ Records: `365`
 | [Unsigned-Long/iKalibr](../records/radars-unsigned-long-ikalibr-cc58fd6a.md) | partial | 2026-01-18T09:50:57Z | registry-derived |
 | [Unsigned-Long/River](../records/radars-unsigned-long-river-2a595389.md) | partial | 2024-11-21T03:23:46Z | registry-derived |
 | [wangxiao5791509/MultiModal_BigModels_Survey](../records/radars-wangxiao5791509-multimodal-bigmodels-survey-409b52f5.md) | partial | 2025-07-18T02:06:47Z | registry-derived |
-| [wenhwu/awesome-remote-sensing-change-detection](../records/radars-wenhwu-awesome-remote-sensing-change-detection-71aced55.md) | partial | 2026-04-16T14:44:49Z | registry-derived |
+| [wenhwu/awesome-remote-sensing-change-detection](../records/radars-wenhwu-awesome-remote-sensing-change-detection-71aced55.md) | partial | 2026-09-09T08:17:49Z | registry-derived |
 
 ### Embedded Hardware
 
@@ -179,24 +179,24 @@ Records: `365`
 | [johntruckenbrodt/pyroSAR](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) | partial | 2026-09-03T12:48:24Z | registry-derived |
 | [KonstantinosF/Flood-Detection---Satellite-Images](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) | partial | 2022-09-26T11:23:18Z | registry-derived |
 | [manankharwar/fusioncore](../records/radars-manankharwar-fusioncore-f8110512.md) | partial | 2026-09-11T05:56:36Z | registry-derived |
-| [martibosch/detectree](../records/radars-martibosch-detectree-bb8afefd.md) | partial | 2026-08-31T22:32:24Z | registry-derived |
+| [martibosch/detectree](../records/radars-martibosch-detectree-bb8afefd.md) | partial | 2026-09-07T22:25:31Z | registry-derived |
 | [MathieuRita/SAR_denoising](../records/radars-mathieurita-sar-denoising-5b417749.md) | partial | 2022-06-22T01:48:31Z | registry-derived |
-| [microsoft/farmvibes-ai](../records/radars-microsoft-farmvibes-ai-15e332ef.md) | partial | 2026-08-27T00:14:55Z | registry-derived |
+| [microsoft/farmvibes-ai](../records/radars-microsoft-farmvibes-ai-15e332ef.md) | partial | 2026-09-09T20:42:28Z | registry-derived |
 | [NASA-IMPACT/hls-foundation-os](../records/radars-nasa-impact-hls-foundation-os-8fd47411.md) | partial | 2025-07-18T06:38:40Z | registry-derived |
 | [opengeos/Awesome-GEE](../records/radars-opengeos-awesome-gee-8d02e5fc.md) | partial | 2026-08-31T12:47:01Z | registry-derived |
-| [opengeos/geoai](../records/radars-opengeos-geoai-78a0e297.md) | partial | 2026-09-04T23:24:08Z | registry-derived |
+| [opengeos/geoai](../records/radars-opengeos-geoai-78a0e297.md) | partial | 2026-09-14T03:05:23Z | registry-derived |
 | [opengeos/lidar](../records/radars-opengeos-lidar-6b6b3ab4.md) | partial | 2026-05-25T20:31:17Z | registry-derived |
 | [opengeos/whitebox-python](../records/radars-opengeos-whitebox-python-275d36ba.md) | partial | 2026-01-31T18:22:47Z | registry-derived |
 | [opengeos/WhiteboxTools-ArcGIS](../records/radars-opengeos-whiteboxtools-arcgis-3cf11321.md) | partial | 2025-08-12T19:12:04Z | registry-derived |
 | [Orion-AI-Lab/KuroSiwo](../records/radars-orion-ai-lab-kurosiwo-16670f6a.md) | partial | 2026-07-16T11:37:33Z | registry-derived |
-| [OSGeo/grass](../records/radars-osgeo-grass-e9c99a14.md) | partial | 2026-09-06T18:51:36Z | registry-derived |
-| [pyRiemann/pyRiemann](../records/radars-pyriemann-pyriemann-36c3e03c.md) | partial | 2026-09-04T10:17:10Z | registry-derived |
+| [OSGeo/grass](../records/radars-osgeo-grass-e9c99a14.md) | partial | 2026-09-12T19:29:02Z | registry-derived |
+| [pyRiemann/pyRiemann](../records/radars-pyriemann-pyriemann-36c3e03c.md) | partial | 2026-09-14T11:42:20Z | registry-derived |
 | [rsasaki0109/kalman_filter_localization_ros2](../records/radars-rsasaki0109-kalman-filter-localization-ros2-5b753d68.md) | partial | 2026-08-07T23:19:36Z | registry-derived |
-| [sacridini/Awesome-Geospatial](../records/radars-sacridini-awesome-geospatial-1adf4d45.md) | partial | 2026-09-03T09:03:19Z | registry-derived |
+| [sacridini/Awesome-Geospatial](../records/radars-sacridini-awesome-geospatial-1adf4d45.md) | partial | 2026-09-11T09:04:07Z | registry-derived |
 | [scottyhq/dinosar](../records/radars-scottyhq-dinosar-de57e4f1.md) | partial | 2024-05-14T20:16:06Z | registry-derived |
 | [sertit/eoreader](../records/radars-sertit-eoreader-14dc547c.md) | partial | 2026-09-09T10:38:10Z | registry-derived |
 | [tier4/nebula](../records/radars-tier4-nebula-3760d802.md) | partial | 2026-09-14T12:25:03Z | registry-derived |
-| [torchgeo/torchgeo](../records/radars-torchgeo-torchgeo-60e49b15.md) | partial | 2026-09-06T17:59:58Z | registry-derived |
+| [torchgeo/torchgeo](../records/radars-torchgeo-torchgeo-60e49b15.md) | partial | 2026-09-09T10:28:02Z | registry-derived |
 
 ### Formatter
 
@@ -205,7 +205,7 @@ Records: `365`
 | [AndrewPlayer3/sentinel1_decode](../records/radars-andrewplayer3-sentinel1-decode-3aff839a.md) | partial | 2026-01-21T20:13:20Z | registry-derived |
 | [fred9076/OPFA_matlab](../records/radars-fred9076-opfa-matlab-f0318603.md) | partial | 2023-10-26T06:50:48Z | registry-derived |
 | [nicespoon/retro-adsb-radar](../records/radars-nicespoon-retro-adsb-radar-fe5109d7.md) | partial | 2026-07-24T10:18:06Z | registry-derived |
-| [OSGeo/gdal](../records/radars-osgeo-gdal-f77226f8.md) | partial | 2026-09-06T23:27:24Z | registry-derived |
+| [OSGeo/gdal](../records/radars-osgeo-gdal-f77226f8.md) | partial | 2026-09-14T15:49:32Z | registry-derived |
 | [Ttl/torchbp](../records/radars-ttl-torchbp-2fa85796.md) | partial | 2026-09-14T06:23:53Z | registry-derived |
 
 ### Framework
@@ -264,7 +264,7 @@ Records: `365`
 | [nasir6/py_cfar](../records/radars-nasir6-py-cfar-fb389018.md) | partial | 2019-07-18T14:49:15Z | registry-derived |
 | [odhondt/ndsar](../records/radars-odhondt-ndsar-356519ee.md) | partial | 2019-06-05T08:22:21Z | registry-derived |
 | [satellite-image-deep-learning/datasets](../records/radars-satellite-image-deep-learning-datasets-b67c3f93.md) | partial | 2026-09-04T10:51:43Z | registry-derived |
-| [satellite-image-deep-learning/techniques](../records/radars-satellite-image-deep-learning-techniques-e7ca1db3.md) | partial | 2026-09-04T10:40:00Z | registry-derived |
+| [satellite-image-deep-learning/techniques](../records/radars-satellite-image-deep-learning-techniques-e7ca1db3.md) | partial | 2026-09-12T13:08:35Z | registry-derived |
 | [sentinelsat/sentinelsat](../records/radars-sentinelsat-sentinelsat-6e539b3f.md) | partial | 2024-10-02T09:22:49Z | registry-derived |
 | [spectralpython/spectral](../records/radars-spectralpython-spectral-64510eeb.md) | partial | 2026-09-04T16:45:13Z | registry-derived |
 | [sty16/ship-detection](../records/radars-sty16-ship-detection-e84b08e7.md) | partial | 2020-03-10T13:25:57Z | registry-derived |
@@ -314,8 +314,8 @@ Records: `365`
 | [aresys-srl/sct](../records/radars-aresys-srl-sct-ec34e249.md) | partial | 2026-09-01T12:23:13Z | registry-derived |
 | [benzenemo/TightlyCoupledINSGNSS](../records/radars-benzenemo-tightlycoupledinsgnss-400a89e0.md) | partial | 2018-12-14T11:22:31Z | registry-derived |
 | [bopen/xarray-sentinel](../records/radars-bopen-xarray-sentinel-d49585c9.md) | partial | 2026-09-10T20:56:02Z | registry-derived |
-| [CNES/cars](../records/radars-cnes-cars-235016dd.md) | partial | 2026-09-04T15:57:30Z | registry-derived |
-| [CS-SI/eodag](../records/radars-cs-si-eodag-7dfc17d1.md) | partial | 2026-09-06T09:58:39Z | registry-derived |
+| [CNES/cars](../records/radars-cnes-cars-235016dd.md) | partial | 2026-09-10T20:43:09Z | registry-derived |
+| [CS-SI/eodag](../records/radars-cs-si-eodag-7dfc17d1.md) | partial | 2026-09-14T13:50:27Z | registry-derived |
 | [csete/gpredict](../records/radars-csete-gpredict-f8c8985f.md) | partial | 2026-08-16T15:12:21Z | registry-derived |
 | [denkywu/InSAR-Simulation-and-Studies](../records/radars-denkywu-insar-simulation-and-studies-c6ce617f.md) | partial | 2020-09-03T03:51:40Z | registry-derived |
 | [denkywu/Simulation-of-SAR-Imaging-Algorithm](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) | partial | 2020-09-03T03:54:58Z | registry-derived |
@@ -414,7 +414,7 @@ Records: `365`
 | [Orion-AI-Lab/Hephaestus](../records/radars-orion-ai-lab-hephaestus-45dcd512.md) | partial | 2023-07-03T13:31:50Z | registry-derived |
 | [PatrickTUM/UnCRtainTS](../records/radars-patricktum-uncrtaints-12eddccc.md) | partial | 2023-12-26T20:19:21Z | registry-derived |
 | [r-lidar/lidR](../records/radars-r-lidar-lidr-e7818d24.md) | partial | 2026-09-04T13:47:56Z | registry-derived |
-| [samapriya/awesome-gee-community-datasets](../records/radars-samapriya-awesome-gee-community-datasets-0a0153c4.md) | partial | 2026-09-06T15:57:44Z | registry-derived |
+| [samapriya/awesome-gee-community-datasets](../records/radars-samapriya-awesome-gee-community-datasets-0a0153c4.md) | partial | 2026-09-14T18:19:20Z | registry-derived |
 | [SJTU-Thinklab-Det/DOTA-DOAI](../records/radars-sjtu-thinklab-det-dota-doai-9649ff2b.md) | partial | 2023-03-08T11:47:55Z | registry-derived |
 | [ultralytics/xview-yolov3](../records/radars-ultralytics-xview-yolov3-eb5d01f2.md) | partial | 2026-08-28T10:56:50Z | registry-derived |
 | [url-kaist/outlier-robust-radar-odometry](../records/radars-url-kaist-outlier-robust-radar-odometry-78b80fba.md) | partial | 2025-03-27T22:25:07Z | registry-derived |
@@ -511,7 +511,7 @@ Records: `365`
 | [chadi0x/TheBigBrother](../records/radars-chadi0x-thebigbrother-17499a23.md) | partial | 2026-08-13T16:37:37Z | registry-derived |
 | [cryotools/osaris](../records/radars-cryotools-osaris-52c31f3c.md) | partial | 2020-01-21T13:06:07Z | registry-derived |
 | [egagli/sar_snowmelt_timing](../records/radars-egagli-sar-snowmelt-timing-61862ecf.md) | partial | 2026-08-14T19:33:26Z | registry-derived |
-| [gee-community/geemap](../records/radars-gee-community-geemap-83890093.md) | partial | 2026-09-04T17:39:42Z | registry-derived |
+| [gee-community/geemap](../records/radars-gee-community-geemap-83890093.md) | partial | 2026-09-11T18:10:30Z | registry-derived |
 | [GeoRetina/chat2geo](../records/radars-georetina-chat2geo-606c922b.md) | partial | 2026-06-09T18:33:38Z | registry-derived |
 | [GeoscienceAustralia/CoRAL](../records/radars-geoscienceaustralia-coral-144f7907.md) | partial | 2020-12-24T03:22:40Z | registry-derived |
 | [GeoscienceAustralia/dea-notebooks](../records/radars-geoscienceaustralia-dea-notebooks-86a9662a.md) | partial | 2026-09-04T00:38:16Z | registry-derived |
@@ -521,8 +521,8 @@ Records: `365`
 | [jblindsay/whitebox-tools](../records/radars-jblindsay-whitebox-tools-77f56bf4.md) | partial | 2026-05-26T15:31:03Z | registry-derived |
 | [jman4162/electromagnetics-work-samples](../records/radars-jman4162-electromagnetics-work-samples-7c8547bc.md) | partial | 2024-04-26T00:44:46Z | registry-derived |
 | [Kalit31/Land-Cover-Analysis](../records/radars-kalit31-land-cover-analysis-bac816f9.md) | partial | 2024-12-22T20:04:07Z | registry-derived |
-| [obss/sahi](../records/radars-obss-sahi-d8e8698f.md) | partial | 2026-09-03T20:25:05Z | registry-derived |
-| [opengeos/geospatial](../records/radars-opengeos-geospatial-8722d3e7.md) | partial | 2026-09-02T16:50:18Z | registry-derived |
+| [obss/sahi](../records/radars-obss-sahi-d8e8698f.md) | partial | 2026-09-10T06:24:12Z | registry-derived |
+| [opengeos/geospatial](../records/radars-opengeos-geospatial-8722d3e7.md) | partial | 2026-09-14T16:03:48Z | registry-derived |
 | [opengeos/python-geospatial](../records/radars-opengeos-python-geospatial-cb0e27e8.md) | partial | 2024-07-04T11:31:10Z | registry-derived |
 | [rodralez/NaveGo](../records/radars-rodralez-navego-1fdaa06b.md) | partial | 2024-02-24T15:09:52Z | registry-derived |
 | [schwankner/esa-snap-with-python](../records/radars-schwankner-esa-snap-with-python-0d55bdc5.md) | partial | 2020-03-14T14:50:49Z | registry-derived |
@@ -564,8 +564,8 @@ Records: `365`
 | [GeoscienceAustralia/ginan](../records/radars-geoscienceaustralia-ginan-02776f5a.md) | partial | 2026-08-24T01:32:17Z | registry-derived |
 | [jldz9/InSARHub](../records/radars-jldz9-insarhub-fdef62b9.md) | partial | 2026-09-13T23:45:57Z | registry-derived |
 | [olliestephenson/dpm-rnn-public](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) | partial | 2021-07-30T20:55:47Z | registry-derived |
-| [opendatacube/datacube-core](../records/radars-opendatacube-datacube-core-d382000b.md) | partial | 2026-09-05T08:18:24Z | registry-derived |
-| [orfeotoolbox/OTB](../records/radars-orfeotoolbox-otb-5833013c.md) | partial | 2026-09-03T13:06:34Z | registry-derived |
+| [opendatacube/datacube-core](../records/radars-opendatacube-datacube-core-d382000b.md) | partial | 2026-09-14T17:14:46Z | registry-derived |
+| [orfeotoolbox/OTB](../records/radars-orfeotoolbox-otb-5833013c.md) | partial | 2026-09-11T14:41:07Z | registry-derived |
 | [palubad/S1-BAP](../records/radars-palubad-s1-bap-de381645.md) | partial | 2024-08-05T14:57:40Z | registry-derived |
 | [sargraph/sargraph.github.io](../records/radars-sargraph-sargraph-github-io-db66a524.md) | partial | 2023-04-08T23:50:36Z | registry-derived |
 | [semuconsulting/PyGPSClient](../records/radars-semuconsulting-pygpsclient-03a614eb.md) | partial | 2026-09-11T07:58:57Z | registry-derived |

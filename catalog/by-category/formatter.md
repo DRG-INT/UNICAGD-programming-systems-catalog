@@ -14,10 +14,10 @@ Records: `673`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · **[Formatter (673)](formatter.md)**
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · **[Formatter (673)](formatter.md)**
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -170,8 +170,8 @@ Records: `673`
 | @doist/prettier-config | 4.0.1 | 2025-11-13T18:47:07.005Z | [open](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
 | @excalidraw/prettier-config | 1.0.2 | 2021-02-25T14:12:02.335Z | [open](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) |
 | @exodus/prettier | 1.0.0 | 2023-09-12T15:23:38.560Z | [open](../records/node-js-javascript-exodus-prettier-04dd5e42.md) |
-| @formatjs/cli | 6.16.27 | 2026-09-12T16:06:59.122Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
-| @formatjs/cli-lib | 10.0.3 | 2026-09-12T16:07:45.027Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @formatjs/cli | 6.16.28 | 2026-09-14T16:41:57.882Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | 10.0.4 | 2026-09-14T16:40:39.296Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @forsakringskassan/prettier-config | 3.7.8 | 2026-07-25T01:10:43.405Z | [open](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | @fsouza/prettierd | 0.29.0 | 2026-07-26T03:59:25.309Z | [open](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) |
 | @ganintegrity/prettier-config | 2.2.1 | 2026-06-08T07:17:05.224Z | [open](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
@@ -548,7 +548,7 @@ Records: `673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T17:10:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T18:23:03Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -795,7 +795,7 @@ Records: `673`
 | AndrewPlayer3/sentinel1_decode | partial | 2026-01-21T20:13:20Z | [open](../records/radars-andrewplayer3-sentinel1-decode-3aff839a.md) |
 | fred9076/OPFA_matlab | partial | 2023-10-26T06:50:48Z | [open](../records/radars-fred9076-opfa-matlab-f0318603.md) |
 | nicespoon/retro-adsb-radar | partial | 2026-07-24T10:18:06Z | [open](../records/radars-nicespoon-retro-adsb-radar-fe5109d7.md) |
-| OSGeo/gdal | partial | 2026-09-06T23:27:24Z | [open](../records/radars-osgeo-gdal-f77226f8.md) |
+| OSGeo/gdal | partial | 2026-09-14T15:49:32Z | [open](../records/radars-osgeo-gdal-f77226f8.md) |
 | Ttl/torchbp | partial | 2026-09-14T06:23:53Z | [open](../records/radars-ttl-torchbp-2fa85796.md) |
 
 ## SatCom Satellites
@@ -931,5 +931,5 @@ Records: `673`
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
 | gitlab-org/cves | partial | 2026-09-14T13:22:20.421Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | guided-explorations/aws/cloudformation/cloudformation-deploy | partial | 2026-07-14T13:33:11.462Z | [open](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
-| libosinfo/osinfo-db | partial | 2026-09-13T06:05:15.465Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
+| libosinfo/osinfo-db | partial | 2026-09-14T17:19:04.495Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
 | Screwtapello/isa65xx | partial | 2025-04-08T08:23:48.640Z | [open](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |

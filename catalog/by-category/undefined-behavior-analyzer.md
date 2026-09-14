@@ -14,10 +14,10 @@ Records: `1673`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -127,28 +127,28 @@ Records: `1673`
 | @arethetypeswrong/cli | 0.18.5 | 2026-07-09T22:24:30.256Z | [open](../records/node-js-javascript-arethetypeswrong-cli-ef4de260.md) |
 | @backstage/cli-module-github | 0.1.4 | 2026-07-14T11:53:11.891Z | [open](../records/node-js-javascript-backstage-cli-module-github-929a0021.md) |
 | @camunda/task-testing | 6.0.1 | 2026-08-20T10:00:32.916Z | [open](../records/node-js-javascript-camunda-task-testing-da18aa2b.md) |
-| @cubejs-backend/athena-driver | 1.7.37 | 2026-09-10T18:16:24.712Z | [open](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
-| @cubejs-backend/bigquery-driver | 1.7.37 | 2026-09-10T18:15:52.680Z | [open](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
-| @cubejs-backend/clickhouse-driver | 1.7.37 | 2026-09-10T18:16:24.630Z | [open](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
-| @cubejs-backend/databricks-jdbc-driver | 1.7.37 | 2026-09-10T18:14:07.545Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
+| @cubejs-backend/athena-driver | 1.7.38 | 2026-09-14T17:35:51.728Z | [open](../records/node-js-javascript-cubejs-backend-athena-driver-6bacd80a.md) |
+| @cubejs-backend/bigquery-driver | 1.7.38 | 2026-09-14T17:36:21.478Z | [open](../records/node-js-javascript-cubejs-backend-bigquery-driver-5b2b13fc.md) |
+| @cubejs-backend/clickhouse-driver | 1.7.38 | 2026-09-14T17:34:59.983Z | [open](../records/node-js-javascript-cubejs-backend-clickhouse-driver-4d0c7732.md) |
+| @cubejs-backend/databricks-jdbc-driver | 1.7.38 | 2026-09-14T17:42:05.116Z | [open](../records/node-js-javascript-cubejs-backend-databricks-jdbc-driver-75fcf91d.md) |
 | @cubejs-backend/druid-driver | 1.7.37 | 2026-09-10T18:14:07.337Z | [open](../records/node-js-javascript-cubejs-backend-druid-driver-4b43d84c.md) |
-| @cubejs-backend/duckdb-driver | 1.7.37 | 2026-09-10T18:14:18.746Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
+| @cubejs-backend/duckdb-driver | 1.7.38 | 2026-09-14T17:33:47.626Z | [open](../records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
 | @cubejs-backend/hive-driver | 1.7.35 | 2026-09-07T15:14:35.168Z | [open](../records/node-js-javascript-cubejs-backend-hive-driver-465861fe.md) |
-| @cubejs-backend/jdbc-driver | 1.7.37 | 2026-09-10T18:16:24.262Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
+| @cubejs-backend/jdbc-driver | 1.7.38 | 2026-09-14T17:34:32.876Z | [open](../records/node-js-javascript-cubejs-backend-jdbc-driver-04d976e1.md) |
 | @cubejs-backend/ksql-driver | 1.7.37 | 2026-09-10T18:14:07.338Z | [open](../records/node-js-javascript-cubejs-backend-ksql-driver-8e496938.md) |
 | @cubejs-backend/materialize-driver | 1.7.37 | 2026-09-10T18:14:26.636Z | [open](../records/node-js-javascript-cubejs-backend-materialize-driver-bd47599a.md) |
 | @cubejs-backend/mssql-driver | 1.7.37 | 2026-09-10T18:15:58.047Z | [open](../records/node-js-javascript-cubejs-backend-mssql-driver-74d7c0f0.md) |
-| @cubejs-backend/mysql-driver | 1.7.37 | 2026-09-10T18:15:16.252Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
+| @cubejs-backend/mysql-driver | 1.7.38 | 2026-09-14T17:35:54.590Z | [open](../records/node-js-javascript-cubejs-backend-mysql-driver-bf05660d.md) |
 | @cubejs-backend/oracle-driver | 1.7.37 | 2026-09-10T18:13:49.982Z | [open](../records/node-js-javascript-cubejs-backend-oracle-driver-67860979.md) |
 | @cubejs-backend/pinot-driver | 1.7.36 | 2026-09-09T11:46:05.187Z | [open](../records/node-js-javascript-cubejs-backend-pinot-driver-7a93e106.md) |
-| @cubejs-backend/postgres-driver | 1.7.37 | 2026-09-10T18:14:19.570Z | [open](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
-| @cubejs-backend/prestodb-driver | 1.7.37 | 2026-09-10T18:13:52.171Z | [open](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
-| @cubejs-backend/redshift-driver | 1.7.37 | 2026-09-10T18:18:36.792Z | [open](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
-| @cubejs-backend/server | 1.7.37 | 2026-09-10T18:14:23.222Z | [open](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
-| @cubejs-backend/snowflake-driver | 1.7.37 | 2026-09-10T18:14:48.004Z | [open](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
-| @cubejs-backend/sqlite-driver | 1.7.37 | 2026-09-10T18:15:30.539Z | [open](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
-| @cubejs-backend/testing-shared | 1.7.37 | 2026-09-10T18:14:11.372Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
-| @cubejs-backend/vertica-driver | 1.7.37 | 2026-09-10T18:14:22.593Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
+| @cubejs-backend/postgres-driver | 1.7.38 | 2026-09-14T17:33:48.813Z | [open](../records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
+| @cubejs-backend/prestodb-driver | 1.7.38 | 2026-09-14T17:37:30.884Z | [open](../records/node-js-javascript-cubejs-backend-prestodb-driver-e59afba0.md) |
+| @cubejs-backend/redshift-driver | 1.7.38 | 2026-09-14T17:35:10.847Z | [open](../records/node-js-javascript-cubejs-backend-redshift-driver-5cb17bc0.md) |
+| @cubejs-backend/server | 1.7.38 | 2026-09-14T17:33:51.676Z | [open](../records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
+| @cubejs-backend/snowflake-driver | 1.7.38 | 2026-09-14T17:36:01.372Z | [open](../records/node-js-javascript-cubejs-backend-snowflake-driver-8161f651.md) |
+| @cubejs-backend/sqlite-driver | 1.7.38 | 2026-09-14T17:37:33.155Z | [open](../records/node-js-javascript-cubejs-backend-sqlite-driver-1689cd48.md) |
+| @cubejs-backend/testing-shared | 1.7.38 | 2026-09-14T17:35:16.813Z | [open](../records/node-js-javascript-cubejs-backend-testing-shared-ac633cbb.md) |
+| @cubejs-backend/vertica-driver | 1.7.38 | 2026-09-14T17:40:18.399Z | [open](../records/node-js-javascript-cubejs-backend-vertica-driver-55bdb4b8.md) |
 | @feature-hub/server-request | 3.9.0 | 2026-07-01T12:35:23.733Z | [open](../records/node-js-javascript-feature-hub-server-request-69cc8dc3.md) |
 | @github/copilot-linux-x64 | 1.0.83 | 2026-09-04T15:43:28.366Z | [open](../records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) |
 | @hapi/subtext | 8.1.3 | 2026-05-06T10:24:45.862Z | [open](../records/node-js-javascript-hapi-subtext-e2e3527c.md) |
@@ -1554,8 +1554,8 @@ Records: `1673`
 | GeoscienceAustralia/ginan | partial | 2026-08-24T01:32:17Z | [open](../records/radars-geoscienceaustralia-ginan-02776f5a.md) |
 | jldz9/InSARHub | partial | 2026-09-13T23:45:57Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
 | olliestephenson/dpm-rnn-public | partial | 2021-07-30T20:55:47Z | [open](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
-| opendatacube/datacube-core | partial | 2026-09-05T08:18:24Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
-| orfeotoolbox/OTB | partial | 2026-09-03T13:06:34Z | [open](../records/radars-orfeotoolbox-otb-5833013c.md) |
+| opendatacube/datacube-core | partial | 2026-09-14T17:14:46Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
+| orfeotoolbox/OTB | partial | 2026-09-11T14:41:07Z | [open](../records/radars-orfeotoolbox-otb-5833013c.md) |
 | palubad/S1-BAP | partial | 2024-08-05T14:57:40Z | [open](../records/radars-palubad-s1-bap-de381645.md) |
 | sargraph/sargraph.github.io | partial | 2023-04-08T23:50:36Z | [open](../records/radars-sargraph-sargraph-github-io-db66a524.md) |
 | semuconsulting/PyGPSClient | partial | 2026-09-11T07:58:57Z | [open](../records/radars-semuconsulting-pygpsclient-03a614eb.md) |
@@ -1567,7 +1567,7 @@ Records: `1673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | partial | 2026-09-07T09:11:53Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-14T18:22:39Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-14T06:23:13Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
@@ -1592,7 +1592,7 @@ Records: `1673`
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
 | echristhuraj/CubeSatDetumblingSimulator | partial | 2023-01-18T10:41:00Z | [open](../records/electromagnetoscopes-echristhuraj-cubesatdetumblingsimulator-bb34a534.md) |
-| f4exb/sdrangel | partial | 2026-09-14T10:46:21Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-14T16:30:54Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-14T06:23:13Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
@@ -1655,10 +1655,10 @@ Records: `1673`
 | erikdarlingdata/DarlingData | partial | 2026-09-12T21:02:43Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
 | fossaryhq/catalog | partial | 2026-09-12T02:24:58Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
-| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-14T07:32:57Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
+| imsai-sh/awesome-deepseek-harness-plugins | partial | 2026-09-14T15:38:06Z | [open](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) |
 | italia/.github | partial | 2026-09-14T08:43:19Z | [open](../records/catalogs-italia-github-0b346e57.md) |
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-12T07:29:56Z | [open](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) |
-| llnl/llnl.github.io | partial | 2026-09-13T16:07:00Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
+| llnl/llnl.github.io | partial | 2026-09-14T18:17:45Z | [open](../records/catalogs-llnl-llnl-github-io-afb77a91.md) |
 | mbahArip/next-gdrive-index | partial | 2026-01-15T23:56:25Z | [open](../records/catalogs-mbaharip-next-gdrive-index-78a05087.md) |
 | nasa/code-nasa-gov | partial | 2024-09-19T20:00:44Z | [open](../records/catalogs-nasa-code-nasa-gov-bf1d1580.md) |
 | pumpzera/github-achievements-catalog | partial | 2026-04-05T21:51:58Z | [open](../records/catalogs-pumpzera-github-achievements-catalog-4fee72cc.md) |
@@ -1675,7 +1675,7 @@ Records: `1673`
 | ayushi7rawat/Ultimate-Python-Resource-Hub | partial | 2022-12-13T11:16:50Z | [open](../records/magazines-ayushi7rawat-ultimate-python-resource-hub-7be0a988.md) |
 | bahdotsh/blogr | partial | 2026-06-08T09:11:47Z | [open](../records/magazines-bahdotsh-blogr-a26c09e7.md) |
 | bindthegap/bindthegap.github.io | partial | 2021-01-11T13:58:50Z | [open](../records/magazines-bindthegap-bindthegap-github-io-fd1d4194.md) |
-| brycewang-stanford/Awesome-Journal-Skills | partial | 2026-08-26T22:18:49Z | [open](../records/magazines-brycewang-stanford-awesome-journal-skills-ea63d997.md) |
+| brycewang-stanford/Awesome-Journal-Skills | partial | 2026-09-14T16:24:20Z | [open](../records/magazines-brycewang-stanford-awesome-journal-skills-ea63d997.md) |
 | daryllxd/lifelong-learning | unknown | github_search_does_not_include_release_date | [open](../records/magazines-daryllxd-lifelong-learning-9f4c2b9f.md) |
 | dcodesdev/LetterSpace | partial | 2026-01-26T16:34:46Z | [open](../records/magazines-dcodesdev-letterspace-64787355.md) |
 | FRNT-dev/FRNT | partial | 2022-04-21T15:15:58Z | [open](../records/magazines-frnt-dev-frnt-b937225f.md) |
@@ -1912,7 +1912,7 @@ Records: `1673`
 | gitlab-org/caproni | partial | 2026-09-14T15:40:21.886Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T15:28:16.410Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T16:40:30.218Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |

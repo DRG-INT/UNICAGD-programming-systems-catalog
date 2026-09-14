@@ -14,10 +14,10 @@ Records: `327`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (489)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1523)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6176)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1247)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -380,7 +380,7 @@ Records: `327`
 | [ANG13T/SatIntel](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) | partial | 2024-03-15T16:29:23Z | registry-derived |
 | [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-10T06:59:17Z | registry-derived |
 | [sam210723/COMS-1](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) | partial | 2019-08-03T07:17:39Z | registry-derived |
-| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-14T14:19:14Z | registry-derived |
+| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-14T14:54:42Z | registry-derived |
 
 ### Machine Learning
 
@@ -515,7 +515,7 @@ Records: `327`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-07T09:11:53Z | registry-derived |
+| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-14T18:22:39Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
 | [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-09T10:55:53Z | registry-derived |
 | [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-14T06:23:13Z | registry-derived |

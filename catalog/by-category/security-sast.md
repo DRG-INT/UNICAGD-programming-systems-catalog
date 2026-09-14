@@ -14,10 +14,10 @@ Records: `341`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
@@ -408,7 +408,7 @@ Records: `341`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| atg-testing/demo-webui-auditing | partial | 2026-07-31T17:58:33Z | [open](../records/repertoare-catalogs-atg-testing-demo-webui-auditing-9930b626.md) |
+| atg-testing/demo-webui-auditing | partial | 2026-09-14T18:10:37Z | [open](../records/repertoare-catalogs-atg-testing-demo-webui-auditing-9930b626.md) |
 | commerce-agentic/agentic-commerce-tools | partial | 2026-05-10T23:31:54Z | [open](../records/repertoare-catalogs-commerce-agentic-agentic-commerce-tools-a3e081f4.md) |
 | earbona23/entra-privilege-auditor | partial | 2026-09-03T15:27:14Z | [open](../records/repertoare-catalogs-earbona23-entra-privilege-auditor-08c52285.md) |
 | thinkchainai/vulnerability-intelligence-mcp | partial | 2026-04-08T10:34:10Z | [open](../records/repertoare-catalogs-thinkchainai-vulnerability-intelligence-mcp-73826286.md) |
@@ -418,7 +418,7 @@ Records: `341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | GoogleCloudPlatform/bigquery-data-lineage | partial | 2024-06-03T01:17:51Z | [open](../records/catalogs-googlecloudplatform-bigquery-data-lineage-32b670fd.md) |
-| lakekeeper/lakekeeper | partial | 2026-09-14T12:22:08Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
+| lakekeeper/lakekeeper | partial | 2026-09-14T17:13:21Z | [open](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) |
 | OpenSSF Scorecard | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/catalogs-openssf-scorecard-808ecb37.md) |
 
 ## Magazines
@@ -524,7 +524,7 @@ Records: `341`
 | icecap-project/icecap | partial | 2023-05-31T22:14:11.391Z | [open](../records/repository-workplaces-icecap-project-icecap-186fdf2b.md) |
 | jongwons.choi/spring-boot-security-lecture | partial | 2021-10-06T10:49:45.185Z | [open](../records/repository-workplaces-jongwons-choi-spring-boot-security-lecture-e0ab9f25.md) |
 | juliedavila/software-factory-security-framework | partial | 2026-06-26T12:09:46.986Z | [open](../records/repository-workplaces-juliedavila-software-factory-security-framework-4ce32b0d.md) |
-| openid/conformance-suite | partial | 2026-09-14T15:59:50.950Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
+| openid/conformance-suite | partial | 2026-09-14T18:22:24.136Z | [open](../records/repository-workplaces-openid-conformance-suite-34afbe2d.md) |
 | opensecuritytraining/arch1001_x86-64_asm_code_for_class | partial | 2025-09-14T17:56:20.635Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-code-for-class-940e9a45.md) |
 | opensecuritytraining/arch1001_x86-64_asm_slides_and_subtitles | partial | 2026-05-20T19:17:22.900Z | [open](../records/repository-workplaces-opensecuritytraining-arch1001-x86-64-asm-slides-and-subtitles-01052120.md) |
 | opensecuritytraining/vulns1001_c_implementation_vulns_slides_and_subtitles | partial | 2026-05-01T03:26:59.225Z | [open](../records/repository-workplaces-opensecuritytraining-vulns1001-c-implementation-vulns-slides-and-subtitles-6ddf88cb.md) |

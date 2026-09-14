@@ -14,10 +14,10 @@ Records: `2183`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (489)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1523)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6176)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1247)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
@@ -282,7 +282,7 @@ Records: `2183`
 | [cranelift-codegen-shared](../records/rust-cranelift-codegen-shared-08f5a977.md) | 0.135.1 | 2026-08-24T19:57:54.241620Z | crates_io |
 | [napi-derive-backend](../records/rust-napi-derive-backend-b5113b72.md) | 6.1.2 | 2026-08-10T01:25:52.394338Z | crates_io |
 | [phf_codegen](../records/rust-phf-codegen-4db9e5a5.md) | 0.14.0 | 2026-06-21T00:38:01.280165Z | registry-derived |
-| [string_cache_codegen](../records/rust-string-cache-codegen-53d8cbc0.md) | 0.11.1 | 2026-08-25T07:38:21.304440Z | registry-derived |
+| [string_cache_codegen](../records/rust-string-cache-codegen-53d8cbc0.md) | 0.11.2 | 2026-09-14T16:33:40.622431Z | registry-derived |
 
 ### Community Reference
 
@@ -420,7 +420,7 @@ Records: `2183`
 | [actix-tls](../records/rust-actix-tls-4ede0a77.md) | 3.5.0 | 2025-11-10T06:50:39.269267Z | crates_io |
 | [aes-gcm](../records/rust-aes-gcm-13ed5a6a.md) | 0.11.1 | 2026-08-21T20:55:56.614710Z | registry-derived |
 | [aes-gcm-siv](../records/rust-aes-gcm-siv-a8da08fc.md) | 0.12.1 | 2026-08-21T20:59:03.046842Z | crates_io |
-| [argon2](../records/rust-argon2-c3cc4d9c.md) | 0.6.0 | 2026-08-27T16:54:18.571817Z | crates_io |
+| [argon2](../records/rust-argon2-c3cc4d9c.md) | 0.6.0 | 2026-08-27T16:54:18.571817Z | registry-derived |
 | [as-slice](../records/rust-as-slice-5a5094e5.md) | 0.2.1 | 2021-03-25T15:44:11.216011Z | crates_io |
 | [aws-lc-fips-sys](../records/rust-aws-lc-fips-sys-f719e86d.md) | 0.14.1 | 2026-08-07T20:31:08.292641Z | crates_io |
 | [aws-lc-rs](../records/rust-aws-lc-rs-d5b53a9b.md) | 1.18.1 | 2026-09-01T20:08:57.927841Z | registry-derived |
@@ -1118,7 +1118,7 @@ Records: `2183`
 | [ulid](../records/rust-ulid-7b3209dc.md) | 3.0.0 | 2026-07-16T02:01:57.632953Z | crates_io |
 | [unic-ucd-ident](../records/rust-unic-ucd-ident-6232ac2f.md) | 0.9.0 | 2019-03-03T05:11:39.054438Z | crates_io |
 | [v_frame](../records/rust-v-frame-8318e7dd.md) | 0.7.0 | 2026-06-20T19:55:49.979294Z | crates_io |
-| [wide](../records/rust-wide-98636ec6.md) | 1.7.0 | 2026-08-27T16:29:07.258913Z | registry-derived |
+| [wide](../records/rust-wide-98636ec6.md) | 1.7.1 | 2026-09-14T17:06:02.853323Z | registry-derived |
 | [widestring](../records/rust-widestring-53ab06c0.md) | 1.2.1 | 2025-10-09T01:35:09.994302Z | registry-derived |
 
 ### Image Audio Dsp
