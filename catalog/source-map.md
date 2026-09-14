@@ -5,8 +5,8 @@
 ## Category Index
 
 [Api Abi Checker (238)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1042)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (27)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1043)](by-category/build-system.md) · [Cli (603)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (255)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
@@ -15,12 +15,12 @@
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6162)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (559)](by-category/logging-observability.md) · [Machine Learning (870)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1094)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1095)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1244)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (682)](by-category/static-analyzer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (683)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (653)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (318)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1667)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1668)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1555,6 +1555,7 @@
 | `cran_packages_by_date-58fc7904411cb9` | RClickhouse | [open](records/r-rclickhouse-447484bd.md) |
 | `cran_packages_by_date-59074bcf1405b1` | dexisensitivity | [open](records/r-dexisensitivity-75615f88.md) |
 | `cran_packages_by_date-5955cb97e9428d` | pdglasso | [open](records/r-pdglasso-82577b3e.md) |
+| `cran_packages_by_date-596d4674d23b96` | bnviewer | [open](records/r-bnviewer-ce3ec8e3.md) |
 | `cran_packages_by_date-5975010b09b3c0` | EBASS | [open](records/r-ebass-c4bc4c3b.md) |
 | `cran_packages_by_date-59838a2cbb7533` | eClosure | [open](records/r-eclosure-6c42b83a.md) |
 | `cran_packages_by_date-599ba0ee152687` | sixtyfour | [open](records/r-sixtyfour-6f2b80b4.md) |
@@ -2567,6 +2568,7 @@
 | `cran_packages_by_date-d5597c25b5440c` | proteus | [open](records/r-proteus-23e276d5.md) |
 | `cran_packages_by_date-d5630745cb51ef` | stt.api | [open](records/r-stt-api-1a5481b0.md) |
 | `cran_packages_by_date-d5ae1602bc3493` | lstar | [open](records/r-lstar-1d648436.md) |
+| `cran_packages_by_date-d5c148e1bd5bc2` | india | [open](records/r-india-df700ec1.md) |
 | `cran_packages_by_date-d5d70b77a849df` | tidyposterior | [open](records/r-tidyposterior-19a88e56.md) |
 | `cran_packages_by_date-d5da00fde50926` | qrcm | [open](records/r-qrcm-e75ffc3d.md) |
 | `cran_packages_by_date-d5e23fb91746bb` | MethScope | [open](records/r-methscope-205598b3.md) |
@@ -2928,6 +2930,7 @@
 | `cran_packages_by_date-fedc83ff59fc1b` | xega | [open](records/r-xega-697ad728.md) |
 | `cran_packages_by_date-fedf56264a1cbb` | NonCompart | [open](records/r-noncompart-05f622a3.md) |
 | `cran_packages_by_date-ff09cf13dae99c` | simBKMRdata | [open](records/r-simbkmrdata-1568d701.md) |
+| `cran_packages_by_date-ff197069d94d53` | pandemonium | [open](records/r-pandemonium-10d62e79.md) |
 | `cran_packages_by_date-ff1d1a75fadeb7` | RobustArithmetic | [open](records/r-robustarithmetic-e332ccbf.md) |
 | `cran_packages_by_date-ff2cc1c72e968a` | PBD | [open](records/r-pbd-b73000ed.md) |
 | `cran_packages_by_date-ff32a202410578` | actigraph.sleepr | [open](records/r-actigraph-sleepr-a093e40d.md) |
@@ -28182,6 +28185,7 @@
 | `pub_dev-366619f0d616b1` | phone_numbers_parser | [open](records/dart-phone-numbers-parser-b6b27fe8.md) |
 | `pub_dev-3669fa0b350e52` | relic | [open](records/dart-relic-b80c75b5.md) |
 | `pub_dev-367be197599ade` | google_mlkit_face_detection | [open](records/dart-google-mlkit-face-detection-bc17bd6d.md) |
+| `pub_dev-3704f2f03873b0` | rubber | [open](records/dart-rubber-3a82e312.md) |
 | `pub_dev-373c16c465e6b7` | date_format | [open](records/dart-date-format-63d05f25.md) |
 | `pub_dev-377285f82e8edb` | octo_image | [open](records/dart-octo-image-6a0d9ae2.md) |
 | `pub_dev-37fdb7dc79a0da` | flex_seed_scheme | [open](records/dart-flex-seed-scheme-73abd8ce.md) |
@@ -28745,6 +28749,7 @@
 | `pub_dev-f27384731c9be7` | pigeon | [open](records/dart-pigeon-1863b3b2.md) |
 | `pub_dev-f278e3b3ba41a0` | persistent_bottom_nav_bar_v2 | [open](records/dart-persistent-bottom-nav-bar-v2-af0b0087.md) |
 | `pub_dev-f2b47f45d2e56c` | flutter_soloud | [open](records/dart-flutter-soloud-5770bd43.md) |
+| `pub_dev-f32b39a203170d` | stac | [open](records/dart-stac-c2769aac.md) |
 | `pub_dev-f3f07b50ce2f0d` | vector_graphics | [open](records/dart-vector-graphics-b771da5b.md) |
 | `pub_dev-f4fd5e60b18e0f` | geolocator | [open](records/dart-geolocator-5f09b742.md) |
 | `pub_dev-f52f42aa3151b9` | infinite_carousel | [open](records/dart-infinite-carousel-fae7c921.md) |

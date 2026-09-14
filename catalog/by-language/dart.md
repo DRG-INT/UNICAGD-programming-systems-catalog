@@ -1,6 +1,6 @@
 # Dart
 
-Records: `769`
+Records: `771`
 
 ## Navigation
 
@@ -9,8 +9,8 @@ Records: `769`
 ## Category Index
 
 [Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1042)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (27)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1043)](../by-category/build-system.md) · [Cli (603)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
@@ -19,12 +19,12 @@ Records: `769`
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1094)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (682)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (683)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (653)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1667)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1668)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -124,6 +124,7 @@ Records: `769`
 | [settings_ui](../records/dart-settings-ui-79e1c954.md) | 3.0.1 | 2026-04-10T13:17:08.409515Z | registry-derived |
 | [shelf_router_generator](../records/dart-shelf-router-generator-67af5531.md) | 1.1.5 | 2026-06-25T12:49:35.319962Z | registry-derived |
 | [source_gen](../records/dart-source-gen-b8cdc44c.md) | 4.3.0 | 2026-08-19T18:31:41.506676Z | registry-derived |
+| [stac](../records/dart-stac-c2769aac.md) | 1.6.0 | 2026-09-13T06:03:35.771576Z | registry-derived |
 | [stomp_dart_client](../records/dart-stomp-dart-client-031129cf.md) | 3.0.1 | 2025-10-30T12:27:48.442160Z | registry-derived |
 | [supabase](../records/dart-supabase-71cdb3aa.md) | 2.16.1 | 2026-08-14T15:46:30.001690Z | registry-derived |
 | [supabase_flutter](../records/dart-supabase-flutter-7645000e.md) | 2.17.2 | 2026-08-14T15:49:49.614845Z | registry-derived |
@@ -498,7 +499,7 @@ Records: `769`
 | [slider_button](../records/dart-slider-button-a7a54c4d.md) | 3.1.0 | 2026-01-28T13:19:21.814740Z | registry-derived |
 | [spider](../records/dart-spider-7496c995.md) | 4.2.3 | 2025-10-08T19:08:25.537907Z | registry-derived |
 | [split_view](../records/dart-split-view-81535742.md) | 3.2.2 | 2026-02-16T15:09:21.065428Z | registry-derived |
-| [sqlite3](../records/dart-sqlite3-cf60b60a.md) | 3.5.2 | 2026-08-19T21:57:37.453986Z | registry-derived |
+| [sqlite3](../records/dart-sqlite3-cf60b60a.md) | 3.6.0 | 2026-09-13T15:23:36.726502Z | registry-derived |
 | [state_notifier](../records/dart-state-notifier-b2b0cfaf.md) | 1.0.0 | 2023-08-16T08:43:47.501227Z | registry-derived |
 | [syncfusion_flutter_calendar](../records/dart-syncfusion-flutter-calendar-66492223.md) | 34.2.7 | 2026-09-08T05:06:50.392885Z | registry-derived |
 | [syncfusion_flutter_gauges](../records/dart-syncfusion-flutter-gauges-b33b7a95.md) | 34.2.7 | 2026-09-08T05:03:39.573198Z | registry-derived |
@@ -995,6 +996,7 @@ Records: `769`
 | [pub_semver](../records/dart-pub-semver-311cc40d.md) | 2.2.1 | 2026-08-28T20:42:44.331700Z | registry-derived |
 | [pub_updater](../records/dart-pub-updater-eeee5445.md) | 0.6.0 | 2026-08-10T12:08:52.057791Z | registry-derived |
 | [purchases_flutter](../records/dart-purchases-flutter-f414c649.md) | 10.11.0 | 2026-09-03T05:14:22.526121Z | registry-derived |
+| [rubber](../records/dart-rubber-3a82e312.md) | 2.1.0 | 2026-09-13T19:27:19.528299Z | registry-derived |
 | [sanitize_html](../records/dart-sanitize-html-f669c89d.md) | 2.2.0 | 2026-07-07T07:22:53.369966Z | registry-derived |
 | [timelines_plus](../records/dart-timelines-plus-cb88566a.md) | 2.0.1 | 2026-08-08T10:53:08.430443Z | registry-derived |
 | [youtube_player_flutter](../records/dart-youtube-player-flutter-84549174.md) | 10.0.1 | 2026-05-30T19:55:50.265482Z | registry-derived |
@@ -1046,7 +1048,7 @@ Records: `769`
 | [navigation_history_observer](../records/dart-navigation-history-observer-07230379.md) | 1.1.1 | 2024-04-17T08:27:30.593848Z | registry-derived |
 | [neat_periodic_task](../records/dart-neat-periodic-task-de71793c.md) | 2.0.1 | 2023-04-28T11:10:11.705986Z | registry-derived |
 | [powersync](../records/dart-powersync-6dce0081.md) | 2.4.0 | 2026-09-02T19:18:31.615548Z | registry-derived |
-| [scrollview_observer](../records/dart-scrollview-observer-6ede0195.md) | 1.27.1 | 2026-08-22T08:47:37.282864Z | registry-derived |
+| [scrollview_observer](../records/dart-scrollview-observer-6ede0195.md) | 1.27.2 | 2026-09-13T16:20:47.124072Z | registry-derived |
 | [serverpod](../records/dart-serverpod-0a3f0ad3.md) | 3.4.13 | 2026-08-28T02:02:39.222494Z | registry-derived |
 | [shelf](../records/dart-shelf-418952dd.md) | 1.4.2 | 2024-06-21T17:47:04.083038Z | registry-derived |
 | [shelf_router](../records/dart-shelf-router-963492ce.md) | 1.1.4 | 2023-05-03T19:25:10.348546Z | registry-derived |
