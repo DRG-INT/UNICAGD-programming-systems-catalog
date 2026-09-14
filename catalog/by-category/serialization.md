@@ -368,7 +368,7 @@ Records: `409`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| chai2010/advanced-go-programming-book | unknown | not_a_go_module_path | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
+| chai2010/advanced-go-programming-book | partial | 2025-10-07T01:08:59Z | [open](../records/go-chai2010-advanced-go-programming-book-44a19e49.md) |
 
 ## Starlark
 
@@ -381,7 +381,7 @@ Records: `409`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-14T17:06:04Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-14T20:28:33Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs

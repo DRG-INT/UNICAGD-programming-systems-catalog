@@ -420,8 +420,8 @@ Records: `1673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| bluenviron/mediamtx | partial | 2026-09-14T17:04:36Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
@@ -1511,7 +1511,7 @@ Records: `1673`
 | vaaaaanquish/Awesome-Rust-MachineLearning | partial | 2023-09-25T15:36:33Z | [open](../records/photography-vaaaaanquish-awesome-rust-machinelearning-6899c714.md) |
 | wang-bin/fvp | partial | 2026-08-27T02:44:40Z | [open](../records/photography-wang-bin-fvp-ce06fab9.md) |
 | waschinski/photo-stream | unknown | github_search_does_not_include_release_date | [open](../records/photography-waschinski-photo-stream-50ae7f11.md) |
-| waynezhang/foto | partial | 2026-08-25T04:34:34Z | [open](../records/photography-waynezhang-foto-20b11b55.md) |
+| waynezhang/foto | partial | 2026-09-14T19:24:02Z | [open](../records/photography-waynezhang-foto-20b11b55.md) |
 | ZHINFINITY/Mpv-infinity | partial | 2026-09-12T02:11:41Z | [open](../records/photography-zhinfinity-mpv-infinity-50ba490d.md) |
 
 ## Microscopy
@@ -1521,7 +1521,7 @@ Records: `1673`
 | chanzuckerberg/napari-hub | partial | 2026-03-06T00:55:27Z | [open](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) |
 | czbiohub-sf/iohub | partial | 2026-09-14T17:21:48Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
 | imagingbook/imagingbook-public | partial | 2026-03-12T18:03:59Z | [open](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
-| JaneliaSciComp/fileglancer | partial | 2026-09-11T12:52:08Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
+| JaneliaSciComp/fileglancer | partial | 2026-09-14T20:06:26Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | mbalatsko/opencv-rolling-ball | partial | 2022-06-21T21:15:02Z | [open](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
 | Mmasoud1/HistoJS | partial | 2024-02-29T14:38:53Z | [open](../records/microscopy-mmasoud1-histojs-cfc6aaff.md) |
 | MWod/DeepHistReg | partial | 2025-04-04T15:16:42Z | [open](../records/microscopy-mwod-deephistreg-fe9489ee.md) |
@@ -1567,16 +1567,16 @@ Records: `1673`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | partial | 2026-09-14T18:22:39Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-14T20:43:02Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-14T06:23:13Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-14T20:52:34Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
 | kismetwireless/kismet | partial | 2026-09-01T15:36:57Z | [open](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) |
 | KubOS-Preservation-Group/ccsds-spacepacket | partial | 2022-06-13T23:22:58Z | [open](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) |
 | libcsp/libcsp | partial | 2026-09-09T06:32:56Z | [open](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) |
 | Mejiro-McQueen/Bifrost | partial | 2023-10-18T00:26:27Z | [open](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) |
 | opensatellite/KS-1Q | partial | 2022-06-21T17:25:16Z | [open](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) |
-| raceintospace/raceintospace | partial | 2026-09-08T15:34:37Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
+| raceintospace/raceintospace | partial | 2026-09-14T20:42:11Z | [open](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) |
 | RedhawkSDR/redhawk | partial | 2023-05-12T19:01:24Z | [open](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) |
 | sam210723/orbcomm-rx | partial | 2019-12-23T06:01:41Z | [open](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) |
 | thebaldgeek/thebaldgeek.github.io | partial | 2025-10-25T19:14:36Z | [open](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) |
@@ -1595,9 +1595,9 @@ Records: `1673`
 | f4exb/sdrangel | partial | 2026-09-14T18:52:42Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
-| jvde-github/AIS-catcher | partial | 2026-09-14T06:23:13Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
+| jvde-github/AIS-catcher | partial | 2026-09-14T20:52:34Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
 | kismetwireless/kismet | partial | 2026-09-13T02:19:52Z | [open](../records/electromagnetoscopes-kismetwireless-kismet-abff54d8.md) |
-| LargeModGames/spotatui | partial | 2026-09-13T17:42:35Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
+| LargeModGames/spotatui | partial | 2026-09-14T21:10:07Z | [open](../records/electromagnetoscopes-largemodgames-spotatui-27906be2.md) |
 | mmalekzadeh/dana | partial | 2021-10-25T10:36:43Z | [open](../records/electromagnetoscopes-mmalekzadeh-dana-38994177.md) |
 | Moosync/Moosync-electron | partial | 2025-03-06T13:43:37Z | [open](../records/electromagnetoscopes-moosync-moosync-electron-6b29db05.md) |
 | rahulhaque/compass-react-native | partial | 2024-11-22T13:58:56Z | [open](../records/electromagnetoscopes-rahulhaque-compass-react-native-7e739ae1.md) |

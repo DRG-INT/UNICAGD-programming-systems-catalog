@@ -348,7 +348,7 @@ Records: `239`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | mapbox/mapbox-sdk-py | partial | 2022-08-01T22:32:00Z | [open](../records/satcom-satellites-mapbox-mapbox-sdk-py-6c7f9062.md) |
-| theforeman/foreman-ansible-modules | partial | 2026-09-11T12:32:52Z | [open](../records/satcom-satellites-theforeman-foreman-ansible-modules-59a0b7ce.md) |
+| theforeman/foreman-ansible-modules | partial | 2026-09-14T19:43:24Z | [open](../records/satcom-satellites-theforeman-foreman-ansible-modules-59a0b7ce.md) |
 
 ## Electromagnetoscopes
 

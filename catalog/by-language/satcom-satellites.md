@@ -33,7 +33,7 @@ Records: `327`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [mapbox/mapbox-sdk-py](../records/satcom-satellites-mapbox-mapbox-sdk-py-6c7f9062.md) | partial | 2022-08-01T22:32:00Z | registry-derived |
-| [theforeman/foreman-ansible-modules](../records/satcom-satellites-theforeman-foreman-ansible-modules-59a0b7ce.md) | partial | 2026-09-11T12:32:52Z | registry-derived |
+| [theforeman/foreman-ansible-modules](../records/satcom-satellites-theforeman-foreman-ansible-modules-59a0b7ce.md) | partial | 2026-09-14T19:43:24Z | registry-derived |
 
 ### Benchmarking
 
@@ -359,7 +359,7 @@ Records: `327`
 | [robamu-org/tmtccmd](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) | partial | 2026-01-14T11:22:06Z | registry-derived |
 | [robintw/Py6S](../records/satcom-satellites-robintw-py6s-607064f7.md) | partial | 2025-10-22T23:09:34Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-14T18:33:55Z | registry-derived |
+| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-14T20:15:56Z | registry-derived |
 | [satnogs/gr-satnogs](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) | partial | 2018-12-17T14:53:47Z | registry-derived |
 | [TLeconte/acarsdec](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
 | [trishmapow/rf-jam-replay](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) | partial | 2019-06-10T22:09:28Z | registry-derived |
@@ -515,16 +515,16 @@ Records: `327`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-14T18:22:39Z | registry-derived |
+| [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-14T20:43:02Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
 | [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-09T10:55:53Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-14T06:23:13Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-14T20:52:34Z | registry-derived |
 | [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
 | [KubOS-Preservation-Group/ccsds-spacepacket](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) | partial | 2022-06-13T23:22:58Z | registry-derived |
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-09T06:32:56Z | registry-derived |
 | [Mejiro-McQueen/Bifrost](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) | partial | 2023-10-18T00:26:27Z | registry-derived |
 | [opensatellite/KS-1Q](../records/satcom-satellites-opensatellite-ks-1q-6171a46e.md) | partial | 2022-06-21T17:25:16Z | registry-derived |
-| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-08T15:34:37Z | registry-derived |
+| [raceintospace/raceintospace](../records/satcom-satellites-raceintospace-raceintospace-aabc64c6.md) | partial | 2026-09-14T20:42:11Z | registry-derived |
 | [RedhawkSDR/redhawk](../records/satcom-satellites-redhawksdr-redhawk-579f9599.md) | partial | 2023-05-12T19:01:24Z | registry-derived |
 | [sam210723/orbcomm-rx](../records/satcom-satellites-sam210723-orbcomm-rx-ccf42f9d.md) | partial | 2019-12-23T06:01:41Z | registry-derived |
 | [thebaldgeek/thebaldgeek.github.io](../records/satcom-satellites-thebaldgeek-thebaldgeek-github-io-2494b7a4.md) | partial | 2025-10-25T19:14:36Z | registry-derived |

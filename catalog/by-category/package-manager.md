@@ -461,7 +461,7 @@ Records: `450`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | lgrcia/prose | partial | 2025-07-10T00:31:54Z | [open](../records/telescopes-lgrcia-prose-f417f514.md) |
-| spacetelescope/jwst | partial | 2026-09-14T14:21:46Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
+| spacetelescope/jwst | partial | 2026-09-14T19:47:25Z | [open](../records/telescopes-spacetelescope-jwst-e1b99f64.md) |
 
 ## Radars
 
