@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `496`
+Records: `497`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `496`
 ## Category Index
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6171)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Embedded Hardware (69)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1730)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1522)](ide-editor-integration.md)
+[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6174)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1246)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1671)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · **[Web Framework (496)](web-framework.md)**
+[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · **[Web Framework (497)](web-framework.md)**
 
 ## C++23
 
@@ -222,7 +222,7 @@ Records: `496`
 | @react-router/serve | 8.3.1 | 2026-08-28T14:44:47.025Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
 | @rebasepro/server | 0.21.0 | 2026-09-14T09:35:47.038Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 | @remotion/studio-server | 4.0.524 | 2026-09-12T13:28:15.584Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
-| @restatedev/restate-server | 1.7.9 | 2026-09-04T21:08:28.114Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
+| @restatedev/restate-server | 1.7.10 | 2026-09-14T13:28:22.239Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
 | @sap-ux/fiori-mcp-server | 1.12.5 | 2026-09-11T21:16:50.150Z | [open](../records/node-js-javascript-sap-ux-fiori-mcp-server-8a2a94b2.md) |
 | @sentry-internal/server-utils | 10.57.0 | 2026-06-09T09:44:28.459Z | [open](../records/node-js-javascript-sentry-internal-server-utils-a01f24ba.md) |
@@ -292,7 +292,7 @@ Records: `496`
 | nise | 6.1.5 | 2026-04-11T16:53:28.589Z | [open](../records/node-js-javascript-nise-77cc8dea.md) |
 | node-git-server | 1.0.0 | 2022-07-11T06:10:12.631Z | [open](../records/node-js-javascript-node-git-server-66706502.md) |
 | node-media-server | 4.4.3 | 2026-09-10T09:35:27.534Z | [open](../records/node-js-javascript-node-media-server-61ce0684.md) |
-| node-opcua-server | 2.183.1 | 2026-09-11T08:05:43.583Z | [open](../records/node-js-javascript-node-opcua-server-32472434.md) |
+| node-opcua-server | 2.184.0 | 2026-09-14T12:53:49.696Z | [open](../records/node-js-javascript-node-opcua-server-32472434.md) |
 | parse-server | 9.10.0 | 2026-07-13T01:05:33.110Z | [open](../records/node-js-javascript-parse-server-ccf3124b.md) |
 | pglite-server | 0.1.5 | 2026-02-07T15:42:23.150Z | [open](../records/node-js-javascript-pglite-server-99d33674.md) |
 | pushstate-server | 3.1.0 | 2019-02-12T15:15:42.853Z | [open](../records/node-js-javascript-pushstate-server-e4f6f274.md) |
@@ -402,7 +402,7 @@ Records: `496`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -437,6 +437,7 @@ Records: `496`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| fabiocaccamo/django-admin-interface | partial | 2026-09-02T10:31:57Z | [open](../records/icons-and-logos-fabiocaccamo-django-admin-interface-930ddd64.md) |
 | huihut/Facemoji | partial | 2019-02-24T07:49:45Z | [open](../records/icons-and-logos-huihut-facemoji-8734aadb.md) |
 
 ## Font Briefcase
@@ -568,7 +569,7 @@ Records: `496`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-14T09:51:05Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-14T11:09:57Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-09-13T20:09:25Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 

@@ -9,22 +9,22 @@ Records: `287`
 ## Category Index
 
 [Api Abi Checker (239)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1044)](../by-category/build-system.md) · [Cli (606)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1046)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (181)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1729)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1519)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6171)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (561)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
+[Embedded Hardware (69)](../by-category/embedded-hardware.md) · [Ffi Bindings (489)](../by-category/ffi-bindings.md) · [Filesystem Os (1730)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1522)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6174)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1245)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
-[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1246)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (145)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (409)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (654)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1671)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1673)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (497)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -32,58 +32,58 @@ Records: `287`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AaronJackson/vrn](../records/matlab-aaronjackson-vrn-36ac2340.md) | partial | 2022-07-26T00:06:01Z | registry-derived |
-| [acerbilab/bads](../records/matlab-acerbilab-bads-bf0e61b1.md) | partial | 2025-12-05T17:27:15Z | registry-derived |
-| [acerbilab/vbmc](../records/matlab-acerbilab-vbmc-a3ee0038.md) | partial | 2023-05-03T11:17:08Z | registry-derived |
-| [adnanmunawar/matlab-rrt-variants](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) | partial | 2020-03-30T22:33:37Z | registry-derived |
-| [ai-winter/matlab_motion_planning](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) | partial | 2025-04-03T09:05:56Z | registry-derived |
+| [AaronJackson/vrn](../records/matlab-aaronjackson-vrn-36ac2340.md) | unknown | github_latest_release_missing | registry-derived |
+| [acerbilab/bads](../records/matlab-acerbilab-bads-bf0e61b1.md) | unknown | github_latest_release_missing | registry-derived |
+| [acerbilab/vbmc](../records/matlab-acerbilab-vbmc-a3ee0038.md) | unknown | github_latest_release_missing | registry-derived |
+| [adnanmunawar/matlab-rrt-variants](../records/matlab-adnanmunawar-matlab-rrt-variants-21140151.md) | unknown | github_latest_release_missing | registry-derived |
+| [ai-winter/matlab_motion_planning](../records/matlab-ai-winter-matlab-motion-planning-d5486b2c.md) | unknown | github_latest_release_missing | registry-derived |
 | [AlanRace/SpectralAnalysis](../records/matlab-alanrace-spectralanalysis-f38df761.md) | partial | 2020-08-25T06:53:03Z | registry-derived |
-| [albanie/convnet-burden](../records/matlab-albanie-convnet-burden-4d5bb07a.md) | partial | 2019-01-17T11:15:00Z | registry-derived |
-| [alecjacobson/gptoolbox](../records/matlab-alecjacobson-gptoolbox-ad516582.md) | partial | 2026-09-08T20:05:48Z | registry-derived |
+| [albanie/convnet-burden](../records/matlab-albanie-convnet-burden-4d5bb07a.md) | unknown | github_latest_release_missing | registry-derived |
+| [alecjacobson/gptoolbox](../records/matlab-alecjacobson-gptoolbox-ad516582.md) | unknown | github_latest_release_missing | registry-derived |
 | [alexanderlerch/ACA-Code](../records/matlab-alexanderlerch-aca-code-8bf7ff2b.md) | partial | 2025-11-25T20:34:03Z | registry-derived |
-| [AlfredXiangWu/face_verification_experiment](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) | partial | 2017-02-10T09:19:33Z | registry-derived |
+| [AlfredXiangWu/face_verification_experiment](../records/matlab-alfredxiangwu-face-verification-experiment-5bc415b2.md) | unknown | github_latest_release_missing | registry-derived |
 | [alinionutpopa/dmhs](../records/matlab-alinionutpopa-dmhs-02f06925.md) | partial | 2018-01-12T14:46:54Z | registry-derived |
-| [AlterWL/Battery_SOC_Estimation](../records/matlab-alterwl-battery-soc-estimation-f6de4864.md) | partial | 2024-04-12T05:21:24Z | registry-derived |
-| [altmany/export_fig](../records/matlab-altmany-export-fig-03c1144c.md) | partial | 2026-08-14T10:42:00Z | registry-derived |
-| [andrewssobral/lrslibrary](../records/matlab-andrewssobral-lrslibrary-51e8c5ff.md) | partial | 2025-11-22T15:13:28Z | registry-derived |
-| [anilbas/3DMMasSTN](../records/matlab-anilbas-3dmmasstn-e4f6319a.md) | partial | 2018-04-15T13:53:28Z | registry-derived |
+| [AlterWL/Battery_SOC_Estimation](../records/matlab-alterwl-battery-soc-estimation-f6de4864.md) | unknown | github_latest_release_missing | registry-derived |
+| [altmany/export_fig](../records/matlab-altmany-export-fig-03c1144c.md) | unknown | github_latest_release_missing | registry-derived |
+| [andrewssobral/lrslibrary](../records/matlab-andrewssobral-lrslibrary-51e8c5ff.md) | unknown | github_latest_release_missing | registry-derived |
+| [anilbas/3DMMasSTN](../records/matlab-anilbas-3dmmasstn-e4f6319a.md) | unknown | github_latest_release_missing | registry-derived |
 | [Ashleshk/Machine-Learning-Stanford-Andrew-Ng](../records/matlab-ashleshk-machine-learning-stanford-andrew-ng-6c9e75b4.md) | partial | 2020-05-29T09:04:22Z | registry-derived |
-| [atinesh/Coursera-Machine-Learning-Stanford](../records/matlab-atinesh-coursera-machine-learning-stanford-a3a13c5f.md) | partial | 2026-06-06T09:33:45Z | registry-derived |
-| [AtsushiSakai/MATLABRobotics](../records/matlab-atsushisakai-matlabrobotics-cab1482c.md) | partial | 2018-11-10T23:36:18Z | registry-derived |
-| [Ayatans/Machine-Learning-homework](../records/matlab-ayatans-machine-learning-homework-1bc0f670.md) | partial | 2020-04-28T02:45:57Z | registry-derived |
+| [atinesh/Coursera-Machine-Learning-Stanford](../records/matlab-atinesh-coursera-machine-learning-stanford-a3a13c5f.md) | unknown | github_latest_release_missing | registry-derived |
+| [AtsushiSakai/MATLABRobotics](../records/matlab-atsushisakai-matlabrobotics-cab1482c.md) | unknown | github_latest_release_missing | registry-derived |
+| [Ayatans/Machine-Learning-homework](../records/matlab-ayatans-machine-learning-homework-1bc0f670.md) | unknown | github_latest_release_missing | registry-derived |
 | [ayrna/orca](../records/matlab-ayrna-orca-3c3bbfa2.md) | partial | 2021-01-29T09:45:18Z | registry-derived |
 | [baidut/BIMEF](../records/matlab-baidut-bimef-148fd500.md) | partial | 2019-03-16T15:23:45Z | registry-derived |
 | [baidut/OpenCE](../records/matlab-baidut-opence-da08b629.md) | partial | 2018-06-28T09:14:34Z | registry-derived |
-| [banterle/HDR_Toolbox](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) | partial | 2026-09-11T13:10:36Z | registry-derived |
-| [bcmi/Image-Harmonization-Dataset-iHarmony4](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) | partial | 2026-08-20T08:31:02Z | registry-derived |
-| [benfulcher/hctsa](../records/matlab-benfulcher-hctsa-738269ba.md) | partial | 2026-09-13T23:08:29Z | registry-derived |
+| [banterle/HDR_Toolbox](../records/matlab-banterle-hdr-toolbox-ce0c6ca0.md) | unknown | github_latest_release_missing | registry-derived |
+| [bcmi/Image-Harmonization-Dataset-iHarmony4](../records/matlab-bcmi-image-harmonization-dataset-iharmony4-c3d10552.md) | unknown | github_latest_release_missing | registry-derived |
+| [benfulcher/hctsa](../records/matlab-benfulcher-hctsa-738269ba.md) | unknown | github_latest_release_missing | registry-derived |
 | [bertinetto/cfnet](../records/matlab-bertinetto-cfnet-658a3dfe.md) | partial | 2018-05-31T13:59:08Z | registry-derived |
-| [bertinetto/siamese-fc](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) | partial | 2019-05-16T10:10:53Z | registry-derived |
+| [bertinetto/siamese-fc](../records/matlab-bertinetto-siamese-fc-9cb2a67f.md) | unknown | github_latest_release_missing | registry-derived |
 | [bertinetto/staple](../records/matlab-bertinetto-staple-d5a45a59.md) | partial | 2017-04-25T16:36:08Z | registry-derived |
-| [BIMK/PlatEMO](../records/matlab-bimk-platemo-b623ff0a.md) | partial | 2026-07-19T11:24:07Z | registry-derived |
-| [Bobholamovic/ChangeDetectionToolbox](../records/matlab-bobholamovic-changedetectiontoolbox-62a06817.md) | partial | 2021-02-24T11:02:46Z | registry-derived |
-| [Borye/machine-learning-coursera-1](../records/matlab-borye-machine-learning-coursera-1-3560aed1.md) | partial | 2019-07-28T13:49:39Z | registry-derived |
-| [brainstorm-tools/brainstorm3](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) | partial | 2026-09-10T16:11:36Z | registry-derived |
+| [BIMK/PlatEMO](../records/matlab-bimk-platemo-b623ff0a.md) | unknown | github_latest_release_missing | registry-derived |
+| [Bobholamovic/ChangeDetectionToolbox](../records/matlab-bobholamovic-changedetectiontoolbox-62a06817.md) | unknown | github_latest_release_missing | registry-derived |
+| [Borye/machine-learning-coursera-1](../records/matlab-borye-machine-learning-coursera-1-3560aed1.md) | unknown | github_latest_release_missing | registry-derived |
+| [brainstorm-tools/brainstorm3](../records/matlab-brainstorm-tools-brainstorm3-8639963d.md) | unknown | github_latest_release_missing | registry-derived |
 | [braph-software/BRAPH-2](../records/matlab-braph-software-braph-2-7160692d.md) | partial | 2026-07-01T10:07:00Z | registry-derived |
-| [brendenlake/BPL](../records/matlab-brendenlake-bpl-909abb72.md) | partial | 2015-12-28T20:48:56Z | registry-derived |
-| [brendenlake/omniglot](../records/matlab-brendenlake-omniglot-d8bafdf7.md) | partial | 2023-02-01T21:28:32Z | registry-derived |
+| [brendenlake/BPL](../records/matlab-brendenlake-bpl-909abb72.md) | unknown | github_latest_release_missing | registry-derived |
+| [brendenlake/omniglot](../records/matlab-brendenlake-omniglot-d8bafdf7.md) | unknown | github_latest_release_missing | registry-derived |
 | [brianwade1/actor_critic_quadcopter](../records/matlab-brianwade1-actor-critic-quadcopter-293cfd51.md) | partial | 2022-03-15T03:18:18Z | registry-derived |
 | [caiotavares/spectrum-sensing](../records/matlab-caiotavares-spectrum-sensing-56be35eb.md) | partial | 2024-01-05T01:06:26Z | registry-derived |
-| [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | partial | 2022-05-27T10:01:26Z | registry-derived |
-| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | partial | 2026-09-13T18:18:26Z | registry-derived |
-| [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | partial | 2026-09-07T14:34:12Z | registry-derived |
+| [callmekeyboardman/Machine-Learning-Andrew-Ng](../records/matlab-callmekeyboardman-machine-learning-andrew-ng-b8bd679f.md) | unknown | github_latest_release_missing | registry-derived |
+| [canlab/CanlabCore](../records/matlab-canlab-canlabcore-cf8d4a67.md) | unknown | github_latest_release_missing | registry-derived |
+| [CERN/TIGRE](../records/matlab-cern-tigre-7c6bed86.md) | unknown | github_latest_release_missing | registry-derived |
 | [Charleswyt/audio_steganalysis_ml](../records/matlab-charleswyt-audio-steganalysis-ml-b1f72059.md) | partial | 2019-09-02T02:14:46Z | registry-derived |
-| [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | partial | 2026-06-23T16:12:49Z | registry-derived |
-| [chenjoya/Vehicle_Detection_Recognition](../records/matlab-chenjoya-vehicle-detection-recognition-89663468.md) | partial | 2022-06-06T09:31:11Z | registry-derived |
-| [clarkzinzow/Nonlinear-Optimization-Algorithms](../records/matlab-clarkzinzow-nonlinear-optimization-algorithms-56515550.md) | partial | 2020-11-13T00:21:44Z | registry-derived |
+| [chebfun/chebfun](../records/matlab-chebfun-chebfun-4915fd94.md) | unknown | github_latest_release_missing | registry-derived |
+| [chenjoya/Vehicle_Detection_Recognition](../records/matlab-chenjoya-vehicle-detection-recognition-89663468.md) | unknown | github_latest_release_missing | registry-derived |
+| [clarkzinzow/Nonlinear-Optimization-Algorithms](../records/matlab-clarkzinzow-nonlinear-optimization-algorithms-56515550.md) | unknown | github_latest_release_missing | registry-derived |
 | [CodeByPinar/Earthquake_Prediction_Analysis_Project](../records/matlab-codebypinar-earthquake-prediction-analysis-project-c9d8a598.md) | partial | 2024-03-28T16:32:29Z | registry-derived |
 | [Critical-Infrastructure-Systems-Lab/Multi-objective-feature-selection](../records/matlab-critical-infrastructure-systems-lab-multi-objective-feature-selection-a35e51f8.md) | partial | 2023-05-19T12:51:27Z | registry-derived |
-| [cs-chan/Exclusively-Dark-Image-Dataset](../records/matlab-cs-chan-exclusively-dark-image-dataset-f960e563.md) | partial | 2026-02-13T06:52:27Z | registry-derived |
-| [cs-chan/Total-Text-Dataset](../records/matlab-cs-chan-total-text-dataset-1d6512f1.md) | partial | 2026-08-06T06:16:29Z | registry-derived |
-| [cszn/DnCNN](../records/matlab-cszn-dncnn-bd37bbd1.md) | partial | 2021-10-09T22:04:36Z | registry-derived |
-| [cszn/FFDNet](../records/matlab-cszn-ffdnet-d593a20d.md) | partial | 2021-10-09T22:05:04Z | registry-derived |
-| [cszn/IRCNN](../records/matlab-cszn-ircnn-5ce92007.md) | partial | 2021-10-09T22:03:58Z | registry-derived |
-| [cszn/SRMD](../records/matlab-cszn-srmd-1e37a165.md) | partial | 2021-10-09T22:05:35Z | registry-derived |
+| [cs-chan/Exclusively-Dark-Image-Dataset](../records/matlab-cs-chan-exclusively-dark-image-dataset-f960e563.md) | unknown | github_latest_release_missing | registry-derived |
+| [cs-chan/Total-Text-Dataset](../records/matlab-cs-chan-total-text-dataset-1d6512f1.md) | unknown | github_latest_release_missing | registry-derived |
+| [cszn/DnCNN](../records/matlab-cszn-dncnn-bd37bbd1.md) | unknown | github_latest_release_missing | registry-derived |
+| [cszn/FFDNet](../records/matlab-cszn-ffdnet-d593a20d.md) | unknown | github_latest_release_missing | registry-derived |
+| [cszn/IRCNN](../records/matlab-cszn-ircnn-5ce92007.md) | unknown | github_latest_release_missing | registry-derived |
+| [cszn/SRMD](../records/matlab-cszn-srmd-1e37a165.md) | unknown | github_latest_release_missing | registry-derived |
 | [cybergalactic/MSS](../records/matlab-cybergalactic-mss-a9aab0e3.md) | partial | 2026-09-07T16:43:18Z | registry-derived |
 | [cycleuser/Stanford-CS-229](../records/matlab-cycleuser-stanford-cs-229-ac92424c.md) | partial | 2022-03-01T05:11:19Z | registry-derived |
 | [daijifeng001/R-FCN](../records/matlab-daijifeng001-r-fcn-0144dda6.md) | partial | 2017-05-05T15:50:59Z | registry-derived |

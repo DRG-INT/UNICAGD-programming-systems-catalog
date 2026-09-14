@@ -1,6 +1,6 @@
 # SatCom Satellites
 
-Records: `326`
+Records: `327`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `326`
 ## Category Index
 
 [Api Abi Checker (239)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1044)](../by-category/build-system.md) · [Cli (606)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1046)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (181)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1729)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1519)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6171)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (561)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
+[Embedded Hardware (69)](../by-category/embedded-hardware.md) · [Ffi Bindings (489)](../by-category/ffi-bindings.md) · [Filesystem Os (1730)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1522)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6174)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1245)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
-[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1246)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (145)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (409)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (654)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1671)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1673)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (497)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -129,6 +129,7 @@ Records: `326`
 | --- | --- | --- | --- |
 | [bitglue/gr-radioteletype](../records/satcom-satellites-bitglue-gr-radioteletype-8621d6d5.md) | partial | 2023-02-23T13:48:33Z | registry-derived |
 | [open-sdr/openwifi-hw](../records/satcom-satellites-open-sdr-openwifi-hw-b39d70cb.md) | partial | 2025-09-23T06:57:55Z | registry-derived |
+| [pytroll/pyspectral](../records/satcom-satellites-pytroll-pyspectral-93516e0f.md) | partial | 2026-09-09T17:23:40Z | registry-derived |
 
 ### Ffi Bindings
 
@@ -358,7 +359,7 @@ Records: `326`
 | [robamu-org/tmtccmd](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) | partial | 2026-01-14T11:22:06Z | registry-derived |
 | [robintw/Py6S](../records/satcom-satellites-robintw-py6s-607064f7.md) | partial | 2025-10-22T23:09:34Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-13T20:46:10Z | registry-derived |
+| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-14T12:00:00Z | registry-derived |
 | [satnogs/gr-satnogs](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) | partial | 2018-12-17T14:53:47Z | registry-derived |
 | [TLeconte/acarsdec](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
 | [trishmapow/rf-jam-replay](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) | partial | 2019-06-10T22:09:28Z | registry-derived |
@@ -379,7 +380,7 @@ Records: `326`
 | [ANG13T/SatIntel](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) | partial | 2024-03-15T16:29:23Z | registry-derived |
 | [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-10T06:59:17Z | registry-derived |
 | [sam210723/COMS-1](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) | partial | 2019-08-03T07:17:39Z | registry-derived |
-| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-13T16:36:06Z | registry-derived |
+| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-14T14:19:14Z | registry-derived |
 
 ### Machine Learning
 
@@ -391,7 +392,7 @@ Records: `326`
 | [maia-sdr/maia-sdr](../records/satcom-satellites-maia-sdr-maia-sdr-69bb3f0a.md) | partial | 2026-04-27T10:38:39Z | registry-derived |
 | [Soul-AILab/SoulX-Transcriber](../records/satcom-satellites-soul-ailab-soulx-transcriber-80b73c2b.md) | partial | 2026-06-22T04:21:40Z | registry-derived |
 | [SysSec-KAIST/LTESniffer](../records/satcom-satellites-syssec-kaist-ltesniffer-4e2fb4dd.md) | partial | 2024-10-23T16:48:32Z | registry-derived |
-| [thkruz/SignalRange](../records/satcom-satellites-thkruz-signalrange-37edb7c7.md) | partial | 2026-09-12T13:09:17Z | registry-derived |
+| [thkruz/SignalRange](../records/satcom-satellites-thkruz-signalrange-37edb7c7.md) | partial | 2026-09-14T11:04:49Z | registry-derived |
 
 ### Math Numeric Scientific
 
@@ -517,7 +518,7 @@ Records: `326`
 | [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-07T09:11:53Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
 | [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-09T10:55:53Z | registry-derived |
-| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-13T22:47:32Z | registry-derived |
+| [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-14T06:23:13Z | registry-derived |
 | [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
 | [KubOS-Preservation-Group/ccsds-spacepacket](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) | partial | 2022-06-13T23:22:58Z | registry-derived |
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-09T06:32:56Z | registry-derived |

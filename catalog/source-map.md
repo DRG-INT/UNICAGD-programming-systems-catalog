@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (239)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1044)](by-category/build-system.md) · [Cli (606)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](by-category/community-reference.md) · [Compiler (180)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
+[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](by-category/community-reference.md) · [Compiler (181)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (255)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1729)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1519)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6171)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (561)](by-category/logging-observability.md) · [Machine Learning (871)](by-category/machine-learning.md)
+[Embedded Hardware (69)](by-category/embedded-hardware.md) · [Ffi Bindings (489)](by-category/ffi-bindings.md) · [Filesystem Os (1730)](by-category/filesystem-os.md) · [Formatter (673)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1522)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6174)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (594)](by-category/logging-observability.md) · [Machine Learning (871)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1096)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1245)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
-[Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (408)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (686)](by-category/static-analyzer.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1246)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Profiler (99)](by-category/profiler.md) · [Project Scaffolding (145)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (409)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (686)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (654)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1671)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (496)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1673)](by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](by-category/utility-library.md) · [Visualization Gui (651)](by-category/visualization-gui.md) · [Web Framework (497)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -10765,6 +10765,7 @@
 | `github_search_icons_and_logos-026883a25b96e6` | github/gemoji | [open](records/icons-and-logos-github-gemoji-51179120.md) |
 | `github_search_icons_and_logos-027b7795f79bd3` | smhmd/teenyicons | [open](records/icons-and-logos-smhmd-teenyicons-c4c445b3.md) |
 | `github_search_icons_and_logos-02a4ad11c7f882` | antonreshetov/vue-unicons | [open](records/icons-and-logos-antonreshetov-vue-unicons-95eb620c.md) |
+| `github_search_icons_and_logos-030005dc776ed3` | teonite/t-shirts | [open](records/icons-and-logos-teonite-t-shirts-92527675.md) |
 | `github_search_icons_and_logos-03876390a0d07f` | jantimon/iconfont-webpack-plugin | [open](records/icons-and-logos-jantimon-iconfont-webpack-plugin-beaac1ec.md) |
 | `github_search_icons_and_logos-03c45ed4da6a0c` | tandpfun/skill-icons | [open](records/icons-and-logos-tandpfun-skill-icons-f2d47a09.md) |
 | `github_search_icons_and_logos-03fd459fce2462` | mikolajdobrucki/ikonate | [open](records/icons-and-logos-mikolajdobrucki-ikonate-57e5a939.md) |
@@ -10780,6 +10781,8 @@
 | `github_search_icons_and_logos-079cd7154e807b` | xushier/HD-Icons | [open](records/icons-and-logos-xushier-hd-icons-57564239.md) |
 | `github_search_icons_and_logos-0829bb84e82363` | finnhvman/matter | [open](records/icons-and-logos-finnhvman-matter-b3085f89.md) |
 | `github_search_icons_and_logos-08aa259f2c806b` | vmware-archive/clarity | [open](records/icons-and-logos-vmware-archive-clarity-2951887d.md) |
+| `github_search_icons_and_logos-0a07d1bfd3b2da` | detain/svg-logos | [open](records/icons-and-logos-detain-svg-logos-999d8d63.md) |
+| `github_search_icons_and_logos-0adfe11e936dbd` | jackrex/FakeWeChatLoc | [open](records/icons-and-logos-jackrex-fakewechatloc-908e5812.md) |
 | `github_search_icons_and_logos-0bec201889e0bb` | eza-community/eza | [open](records/icons-and-logos-eza-community-eza-e2b7ed48.md) |
 | `github_search_icons_and_logos-0c779928d9cb22` | vuesion/vuesion | [open](records/icons-and-logos-vuesion-vuesion-8b5e27c2.md) |
 | `github_search_icons_and_logos-0d9e8159a3f193` | mathiasbynens/emoji-regex | [open](records/icons-and-logos-mathiasbynens-emoji-regex-0782f4ca.md) |
@@ -10793,7 +10796,9 @@
 | `github_search_icons_and_logos-110b1c55b32102` | frinyvonnick/gitmoji-changelog | [open](records/icons-and-logos-frinyvonnick-gitmoji-changelog-3c54e45b.md) |
 | `github_search_icons_and_logos-1136d464347e95` | lobehub/lobe-ui | [open](records/icons-and-logos-lobehub-lobe-ui-17b1fef9.md) |
 | `github_search_icons_and_logos-11e440cca2bdb8` | arco-design/arco-design-vue | [open](records/icons-and-logos-arco-design-arco-design-vue-bcf35951.md) |
+| `github_search_icons_and_logos-11f86960bcaa9c` | wernerturing/multi-delogo | [open](records/icons-and-logos-wernerturing-multi-delogo-a93f7ba1.md) |
 | `github_search_icons_and_logos-1336186c09f1f2` | MariaLetta/free-gophers-pack | [open](records/icons-and-logos-marialetta-free-gophers-pack-cea4a8c4.md) |
+| `github_search_icons_and_logos-143d488a497cce` | NetLogo/NetLogo | [open](records/icons-and-logos-netlogo-netlogo-c6704b2b.md) |
 | `github_search_icons_and_logos-1585b44fc46745` | google/material-design-icons | [open](records/icons-and-logos-google-material-design-icons-eed01932.md) |
 | `github_search_icons_and_logos-158958fba3732a` | alcor/emoji-supply | [open](records/icons-and-logos-alcor-emoji-supply-b106f094.md) |
 | `github_search_icons_and_logos-1611e387679552` | jpswalsh/academicons | [open](records/icons-and-logos-jpswalsh-academicons-b7f321a8.md) |
@@ -10802,6 +10807,7 @@
 | `github_search_icons_and_logos-1835bae1635e66` | system-ui/theme-ui | [open](records/icons-and-logos-system-ui-theme-ui-e3e0e428.md) |
 | `github_search_icons_and_logos-18b81a234d059d` | itgalaxy/favicons | [open](records/icons-and-logos-itgalaxy-favicons-49cbe759.md) |
 | `github_search_icons_and_logos-1a677c5d55457b` | djaiss/mapsicon | [open](records/icons-and-logos-djaiss-mapsicon-e770a469.md) |
+| `github_search_icons_and_logos-1aeb54a9dd829d` | inexorabletash/jslogo | [open](records/icons-and-logos-inexorabletash-jslogo-dfa09a58.md) |
 | `github_search_icons_and_logos-1ba83a5ce05d20` | hani-momanii/SuperNova-Emoji | [open](records/icons-and-logos-hani-momanii-supernova-emoji-75ea3c27.md) |
 | `github_search_icons_and_logos-1baecdde9665d1` | home-assistant/Iconic | [open](records/icons-and-logos-home-assistant-iconic-27c71576.md) |
 | `github_search_icons_and_logos-1c09ac6ee2fa78` | sdras/vue-sample-svg-icons | [open](records/icons-and-logos-sdras-vue-sample-svg-icons-a7b726d2.md) |
@@ -10818,6 +10824,7 @@
 | `github_search_icons_and_logos-20a2a15270b53a` | LineiconsHQ/Lineicons | [open](records/icons-and-logos-lineiconshq-lineicons-ef7a4910.md) |
 | `github_search_icons_and_logos-20a7cffe106ebd` | vanniktech/Emoji | [open](records/icons-and-logos-vanniktech-emoji-056f9cfa.md) |
 | `github_search_icons_and_logos-20d76207e78998` | muan/emoji-minesweeper | [open](records/icons-and-logos-muan-emoji-minesweeper-de749417.md) |
+| `github_search_icons_and_logos-20eddb99ec4e79` | taksssss/iptv-tool | [open](records/icons-and-logos-taksssss-iptv-tool-93823a46.md) |
 | `github_search_icons_and_logos-2309d9725725ae` | twitter/twemoji | [open](records/icons-and-logos-twitter-twemoji-63cd61bd.md) |
 | `github_search_icons_and_logos-24536da54d8825` | ritz078/embed-js | [open](records/icons-and-logos-ritz078-embed-js-cccdc1d7.md) |
 | `github_search_icons_and_logos-2469caef763fdd` | lokesh-coder/pretty-checkbox | [open](records/icons-and-logos-lokesh-coder-pretty-checkbox-04ef0b92.md) |
@@ -10835,6 +10842,11 @@
 | `github_search_icons_and_logos-2c3bfefe230456` | oupala/apaxy | [open](records/icons-and-logos-oupala-apaxy-0068b6ce.md) |
 | `github_search_icons_and_logos-2c93bdfd48a010` | Siumauricio/rippleui | [open](records/icons-and-logos-siumauricio-rippleui-5356c2d1.md) |
 | `github_search_icons_and_logos-2cb947f434fb32` | danklammer/bytesize-icons | [open](records/icons-and-logos-danklammer-bytesize-icons-eca141f3.md) |
+| `github_search_icons_and_logos-2d739985daebe6` | notlmn/awesome-icons | [open](records/icons-and-logos-notlmn-awesome-icons-05625106.md) |
+| `github_search_icons_and_logos-2e2cad09765190` | airyland/logo.surf | [open](records/icons-and-logos-airyland-logo-surf-033b5482.md) |
+| `github_search_icons_and_logos-2e35cd1ab3c2ba` | shinshin86/oh-my-logo | [open](records/icons-and-logos-shinshin86-oh-my-logo-659c706f.md) |
+| `github_search_icons_and_logos-2e4f17bf0715bd` | collidingScopes/liquid-logo | [open](records/icons-and-logos-collidingscopes-liquid-logo-640d0d9a.md) |
+| `github_search_icons_and_logos-3111d1ec5d3c4c` | xushier/HD-Icons-docker | [open](records/icons-and-logos-xushier-hd-icons-docker-938b1c47.md) |
 | `github_search_icons_and_logos-31e47d1c464d4c` | keremciu/sketch-iconfont | [open](records/icons-and-logos-keremciu-sketch-iconfont-96a1e86b.md) |
 | `github_search_icons_and_logos-31ebe80ac043a1` | dqev/reicon | [open](records/icons-and-logos-dqev-reicon-063c9707.md) |
 | `github_search_icons_and_logos-3242a492b8e2ca` | GnuriaN/format-README | [open](records/icons-and-logos-gnurian-format-readme-175ee10b.md) |
@@ -10846,7 +10858,11 @@
 | `github_search_icons_and_logos-36947ab1758357` | bitjaru/styleseed | [open](records/icons-and-logos-bitjaru-styleseed-3a1c17bb.md) |
 | `github_search_icons_and_logos-36da0130c78a96` | astrit/css.gg | [open](records/icons-and-logos-astrit-css-gg-6f8b4df7.md) |
 | `github_search_icons_and_logos-3717d000128705` | rafaelfgx/Architecture | [open](records/icons-and-logos-rafaelfgx-architecture-8d1b9d69.md) |
+| `github_search_icons_and_logos-38ab5ab97fe391` | simple-icons/simple-icons-font | [open](records/icons-and-logos-simple-icons-simple-icons-font-0caddb33.md) |
 | `github_search_icons_and_logos-39421b1e13d479` | hfg-gmuend/openmoji | [open](records/icons-and-logos-hfg-gmuend-openmoji-10bd4a3b.md) |
+| `github_search_icons_and_logos-3a4527e298e921` | bestony/logoly | [open](records/icons-and-logos-bestony-logoly-229bfec8.md) |
+| `github_search_icons_and_logos-3b545b9bbb8c7d` | zegond/logos-per-banks | [open](records/icons-and-logos-zegond-logos-per-banks-7265b857.md) |
+| `github_search_icons_and_logos-3c2f8ab8bd82a6` | weijunext/image-url-converter | [open](records/icons-and-logos-weijunext-image-url-converter-e32289f6.md) |
 | `github_search_icons_and_logos-3c88b80d746cf4` | PapirusDevelopmentTeam/papirus-icon-theme | [open](records/icons-and-logos-papirusdevelopmentteam-papirus-icon-theme-a25fb107.md) |
 | `github_search_icons_and_logos-3ce73225e29e09` | kenangundogan/fontisto | [open](records/icons-and-logos-kenangundogan-fontisto-765bfc36.md) |
 | `github_search_icons_and_logos-3d3f6bf060030e` | joeattardi/picmo | [open](records/icons-and-logos-joeattardi-picmo-b6c7fc9a.md) |
@@ -10854,6 +10870,7 @@
 | `github_search_icons_and_logos-3db2541101b6da` | joielechong/MaterialFancyButtons | [open](records/icons-and-logos-joielechong-materialfancybuttons-569be03a.md) |
 | `github_search_icons_and_logos-3dcfda7d3c5dec` | codewithMUHILAN/Lightswind-UI-Library | [open](records/icons-and-logos-codewithmuhilan-lightswind-ui-library-4a37e872.md) |
 | `github_search_icons_and_logos-3e240b9f2d7bdf` | gonzalezreal/textual | [open](records/icons-and-logos-gonzalezreal-textual-41905d5d.md) |
+| `github_search_icons_and_logos-40676fbc17b244` | fabiocaccamo/django-admin-interface | [open](records/icons-and-logos-fabiocaccamo-django-admin-interface-930ddd64.md) |
 | `github_search_icons_and_logos-40d8c2a3a80a4c` | needim/wdt-emoji-bundle | [open](records/icons-and-logos-needim-wdt-emoji-bundle-46db9860.md) |
 | `github_search_icons_and_logos-41e3c80d056c1c` | EvanZhouDev/open-genmoji | [open](records/icons-and-logos-evanzhoudev-open-genmoji-41e0e632.md) |
 | `github_search_icons_and_logos-424d45e750f18f` | hwding/android-art | [open](records/icons-and-logos-hwding-android-art-63ae01bd.md) |
@@ -10870,8 +10887,10 @@
 | `github_search_icons_and_logos-46de5d7ee5dd83` | react95-io/React95 | [open](records/icons-and-logos-react95-io-react95-5104e6c7.md) |
 | `github_search_icons_and_logos-47274f8e326232` | carbon-design-system/carbon-icons-svelte | [open](records/icons-and-logos-carbon-design-system-carbon-icons-svelte-13769533.md) |
 | `github_search_icons_and_logos-47dc5eb04dd7c4` | chakra-ui/ark | [open](records/icons-and-logos-chakra-ui-ark-56b444c2.md) |
+| `github_search_icons_and_logos-48182c4ba0d3a0` | bablubambal/All_logo_and_pictures | [open](records/icons-and-logos-bablubambal-all-logo-and-pictures-0ce2c4c5.md) |
 | `github_search_icons_and_logos-4866b44d7b3fa6` | Textualize/rich | [open](records/icons-and-logos-textualize-rich-f462c6fd.md) |
 | `github_search_icons_and_logos-4924bfada28ccc` | symbl-cc/symbl-data | [open](records/icons-and-logos-symbl-cc-symbl-data-e8cb08e3.md) |
+| `github_search_icons_and_logos-492a6266a9f539` | carlosbaraza/web-assembly-logo | [open](records/icons-and-logos-carlosbaraza-web-assembly-logo-6da7bb1c.md) |
 | `github_search_icons_and_logos-4a2e76ead7290d` | rebassjs/rebass | [open](records/icons-and-logos-rebassjs-rebass-64744ea0.md) |
 | `github_search_icons_and_logos-4a57e8d6dd4175` | carloscuesta/gitmoji-cli | [open](records/icons-and-logos-carloscuesta-gitmoji-cli-dda7cec9.md) |
 | `github_search_icons_and_logos-4a6ca47ac6ff41` | file-icons/atom | [open](records/icons-and-logos-file-icons-atom-db3f7eaf.md) |
@@ -10879,12 +10898,14 @@
 | `github_search_icons_and_logos-4b2817087759dc` | TailGrids/tailgrids | [open](records/icons-and-logos-tailgrids-tailgrids-1fd26321.md) |
 | `github_search_icons_and_logos-4e484b9005cf48` | slashsbin/styleguide-git-commit-message | [open](records/icons-and-logos-slashsbin-styleguide-git-commit-message-0dd277ae.md) |
 | `github_search_icons_and_logos-4fd20f4103a46e` | untitleduico/react | [open](records/icons-and-logos-untitleduico-react-63351629.md) |
+| `github_search_icons_and_logos-510e161babb0bf` | icons-pack/react-simple-icons | [open](records/icons-and-logos-icons-pack-react-simple-icons-af859e69.md) |
 | `github_search_icons_and_logos-516057dea3fc72` | arco-design/arco-design | [open](records/icons-and-logos-arco-design-arco-design-3a6616b6.md) |
 | `github_search_icons_and_logos-51ef130ab0be1d` | ikatyang/emoji-cheat-sheet | [open](records/icons-and-logos-ikatyang-emoji-cheat-sheet-975e104a.md) |
 | `github_search_icons_and_logos-53e8493f4611bc` | erikthedeveloper/code-review-emoji-guide | [open](records/icons-and-logos-erikthedeveloper-code-review-emoji-guide-1757086c.md) |
 | `github_search_icons_and_logos-54eedf8a815892` | DouyinFE/semi-design | [open](records/icons-and-logos-douyinfe-semi-design-449c64ec.md) |
 | `github_search_icons_and_logos-54f1f12dcb1de9` | LayoutFarm/Typography | [open](records/icons-and-logos-layoutfarm-typography-13ecd9f3.md) |
 | `github_search_icons_and_logos-550ca6e9144ebb` | Manavarya09/design-extract | [open](records/icons-and-logos-manavarya09-design-extract-aecd9162.md) |
+| `github_search_icons_and_logos-559933a340ae69` | faviator/faviator | [open](records/icons-and-logos-faviator-faviator-5ab5f5c1.md) |
 | `github_search_icons_and_logos-56996b7a3d29e1` | mapbox/maki | [open](records/icons-and-logos-mapbox-maki-2f53a4f8.md) |
 | `github_search_icons_and_logos-57c93ab372f146` | edent/SuperTinyIcons | [open](records/icons-and-logos-edent-supertinyicons-cfc386d5.md) |
 | `github_search_icons_and_logos-57d9356744f439` | 07akioni/xicons | [open](records/icons-and-logos-07akioni-xicons-221cec3b.md) |
@@ -10892,6 +10913,7 @@
 | `github_search_icons_and_logos-58d29652dc7bf3` | mikepenz/Android-Iconics | [open](records/icons-and-logos-mikepenz-android-iconics-39351410.md) |
 | `github_search_icons_and_logos-58f3cdce732a74` | FortAwesome/angular-fontawesome | [open](records/icons-and-logos-fortawesome-angular-fontawesome-003129e3.md) |
 | `github_search_icons_and_logos-59588b5858f3d2` | Jonno12345/TileIconifier | [open](records/icons-and-logos-jonno12345-tileiconifier-ae74705b.md) |
+| `github_search_icons_and_logos-5a01d2aad5298f` | creecros/simple_logo_gen | [open](records/icons-and-logos-creecros-simple-logo-gen-3545eb15.md) |
 | `github_search_icons_and_logos-5a4bb5822088a8` | kreativekorp/bitsnpicas | [open](records/icons-and-logos-kreativekorp-bitsnpicas-3f6dde93.md) |
 | `github_search_icons_and_logos-5ae2de8f41194e` | anyascii/anyascii | [open](records/icons-and-logos-anyascii-anyascii-0dd29280.md) |
 | `github_search_icons_and_logos-5ae364cb6747ee` | praveenjuge/mynaui-icons | [open](records/icons-and-logos-praveenjuge-mynaui-icons-452d1b8d.md) |
@@ -10899,6 +10921,7 @@
 | `github_search_icons_and_logos-5ca1411a17ebb1` | muan/emoji | [open](records/icons-and-logos-muan-emoji-f47cf10b.md) |
 | `github_search_icons_and_logos-5d53bdbc5078b7` | Appllama/appllama-skills | [open](records/icons-and-logos-appllama-appllama-skills-8d1e93b9.md) |
 | `github_search_icons_and_logos-5d6416122ce56f` | coltongriffith/fluenticons | [open](records/icons-and-logos-coltongriffith-fluenticons-513207a3.md) |
+| `github_search_icons_and_logos-5dfb66617c8477` | wojteklu/logo | [open](records/icons-and-logos-wojteklu-logo-022c15a4.md) |
 | `github_search_icons_and_logos-5e6ee83be27742` | Shinmera/promptfont | [open](records/icons-and-logos-shinmera-promptfont-e3c184c0.md) |
 | `github_search_icons_and_logos-5fe6245500bd3c` | zanwei/design-dna | [open](records/icons-and-logos-zanwei-design-dna-52086874.md) |
 | `github_search_icons_and_logos-5ff5d72e879c5f` | coreui/coreui-icons | [open](records/icons-and-logos-coreui-coreui-icons-28580f6f.md) |
@@ -10908,6 +10931,7 @@
 | `github_search_icons_and_logos-62d7a43e62e968` | jdan/98.css | [open](records/icons-and-logos-jdan-98-css-d0074850.md) |
 | `github_search_icons_and_logos-6435b39adadc0a` | neutraltone/awesome-stock-resources | [open](records/icons-and-logos-neutraltone-awesome-stock-resources-80ddf47e.md) |
 | `github_search_icons_and_logos-64a4e7fcee2da3` | elrumordelaluz/svgson | [open](records/icons-and-logos-elrumordelaluz-svgson-e98eeaa1.md) |
+| `github_search_icons_and_logos-6508f768bf08cb` | webmaxru/progressive-web-apps-logo | [open](records/icons-and-logos-webmaxru-progressive-web-apps-logo-bd682f73.md) |
 | `github_search_icons_and_logos-65254f0c8ca8e9` | get-icon/geticon | [open](records/icons-and-logos-get-icon-geticon-9e91d024.md) |
 | `github_search_icons_and_logos-65a49a40e96342` | lsd-rs/lsd | [open](records/icons-and-logos-lsd-rs-lsd-3c28652f.md) |
 | `github_search_icons_and_logos-65fd1bd2e703a7` | sumup-oss/circuit-ui | [open](records/icons-and-logos-sumup-oss-circuit-ui-f0c59b3a.md) |
@@ -10930,9 +10954,12 @@
 | `github_search_icons_and_logos-724ac6ff58d508` | saadeghi/daisyui | [open](records/icons-and-logos-saadeghi-daisyui-b8a88485.md) |
 | `github_search_icons_and_logos-7293ab2849a028` | material-components/material-web | [open](records/icons-and-logos-material-components-material-web-c4a93083.md) |
 | `github_search_icons_and_logos-729ceb50a6840b` | MahApps/MahApps.Metro.IconPacks | [open](records/icons-and-logos-mahapps-mahapps-metro-iconpacks-77bc6d09.md) |
+| `github_search_icons_and_logos-72beb0dacbaa1b` | cdnjs/brand | [open](records/icons-and-logos-cdnjs-brand-59505948.md) |
 | `github_search_icons_and_logos-7388bdf3a4a3e3` | chakra-ui/chakra-ui | [open](records/icons-and-logos-chakra-ui-chakra-ui-a12b9808.md) |
 | `github_search_icons_and_logos-755350d42251fc` | axadrn/shadcn-templ | [open](records/icons-and-logos-axadrn-shadcn-templ-2c91ea6a.md) |
+| `github_search_icons_and_logos-766f396346d566` | Zer0CoolX/guacamole-customize-loginscreen-extension | [open](records/icons-and-logos-zer0coolx-guacamole-customize-loginscreen-extension-bc0baf89.md) |
 | `github_search_icons_and_logos-767c3fc9eae4c5` | guillermolg00/morphicons | [open](records/icons-and-logos-guillermolg00-morphicons-5fd787d6.md) |
+| `github_search_icons_and_logos-76e012d8e81b7e` | lfai/lfai-landscape | [open](records/icons-and-logos-lfai-lfai-landscape-5abb8a2d.md) |
 | `github_search_icons_and_logos-77c78b9d752164` | milesj/emojibase | [open](records/icons-and-logos-milesj-emojibase-1028b6d1.md) |
 | `github_search_icons_and_logos-782af724fd4517` | bergside/typeui | [open](records/icons-and-logos-bergside-typeui-4cbb1df3.md) |
 | `github_search_icons_and_logos-785ac204264673` | Remix-Design/RemixIcon | [open](records/icons-and-logos-remix-design-remixicon-3854f441.md) |
@@ -10955,8 +10982,10 @@
 | `github_search_icons_and_logos-8067d688319c10` | microsoft/fluentui-emoji | [open](records/icons-and-logos-microsoft-fluentui-emoji-5ce89490.md) |
 | `github_search_icons_and_logos-8167324b1c52bd` | primer/css | [open](records/icons-and-logos-primer-css-784ae164.md) |
 | `github_search_icons_and_logos-82338478396276` | mingcute-design/mingcute-icons | [open](records/icons-and-logos-mingcute-design-mingcute-icons-fddbfa52.md) |
+| `github_search_icons_and_logos-826323054e5bf7` | creecros/Customizer | [open](records/icons-and-logos-creecros-customizer-51908625.md) |
 | `github_search_icons_and_logos-829d8e26288a6e` | phosphor-icons/web | [open](records/icons-and-logos-phosphor-icons-web-c31bc029.md) |
 | `github_search_icons_and_logos-831d8933e564c7` | hadley/emo | [open](records/icons-and-logos-hadley-emo-eb3e5371.md) |
+| `github_search_icons_and_logos-850e7d58f72299` | valohai/ml-logos | [open](records/icons-and-logos-valohai-ml-logos-a41cd561.md) |
 | `github_search_icons_and_logos-85b5e80e689733` | snwh/paper-icon-theme | [open](records/icons-and-logos-snwh-paper-icon-theme-7cfebed0.md) |
 | `github_search_icons_and_logos-865342ee73bf4b` | phosphor-icons/react | [open](records/icons-and-logos-phosphor-icons-react-45a6e7f0.md) |
 | `github_search_icons_and_logos-8670857c2d5c93` | elrumo/macOS_Big_Sur_icons_replacements | [open](records/icons-and-logos-elrumo-macos-big-sur-icons-replacements-2eb50ab4.md) |
@@ -10972,12 +11001,15 @@
 | `github_search_icons_and_logos-898b597e08a667` | seek-oss/braid-design-system | [open](records/icons-and-logos-seek-oss-braid-design-system-c8d5bffc.md) |
 | `github_search_icons_and_logos-89af72395d728b` | jpanther/congo | [open](records/icons-and-logos-jpanther-congo-934cbb54.md) |
 | `github_search_icons_and_logos-89c820197aa84f` | ryanoasis/vim-devicons | [open](records/icons-and-logos-ryanoasis-vim-devicons-45d95ff5.md) |
+| `github_search_icons_and_logos-8a360ce590bb2b` | ugurozpinar/Logo | [open](records/icons-and-logos-ugurozpinar-logo-100316e2.md) |
 | `github_search_icons_and_logos-8b30ffd6cb6ab5` | icons8/flat-color-icons | [open](records/icons-and-logos-icons8-flat-color-icons-d2be0e20.md) |
 | `github_search_icons_and_logos-8b7b3af09cfab4` | radix-ui/icons | [open](records/icons-and-logos-radix-ui-icons-0effa0f7.md) |
 | `github_search_icons_and_logos-8cc682dd738611` | YuheshPandian/ICONIC | [open](records/icons-and-logos-yuheshpandian-iconic-ee62a82e.md) |
 | `github_search_icons_and_logos-8d294786536df4` | youneslaaroussi/ui-buttons | [open](records/icons-and-logos-youneslaaroussi-ui-buttons-8b4ad7dc.md) |
+| `github_search_icons_and_logos-8d31e4f6fa4db4` | paulilaaso/bit | [open](records/icons-and-logos-paulilaaso-bit-3e32a3ac.md) |
 | `github_search_icons_and_logos-8dc41223538f6f` | keeferrourke/capitaine-cursors | [open](records/icons-and-logos-keeferrourke-capitaine-cursors-ce28caa6.md) |
 | `github_search_icons_and_logos-8de2a981bd2a06` | uiwjs/icons | [open](records/icons-and-logos-uiwjs-icons-3a71f772.md) |
+| `github_search_icons_and_logos-8f82f5f8e8a5cc` | VectorLogoZone/logosearch | [open](records/icons-and-logos-vectorlogozone-logosearch-8e40ba37.md) |
 | `github_search_icons_and_logos-8ff1d08bb00711` | kobaltedev/kobalte | [open](records/icons-and-logos-kobaltedev-kobalte-48044762.md) |
 | `github_search_icons_and_logos-903121e332fa80` | seiyria/gameicons-font | [open](records/icons-and-logos-seiyria-gameicons-font-9f2f24cd.md) |
 | `github_search_icons_and_logos-9050d86afad006` | icons8/titanic | [open](records/icons-and-logos-icons8-titanic-c29b5c23.md) |
@@ -10989,6 +11021,7 @@
 | `github_search_icons_and_logos-9454970ba4d07e` | omnidan/node-emoji | [open](records/icons-and-logos-omnidan-node-emoji-c15117fb.md) |
 | `github_search_icons_and_logos-955a11e9d497d0` | beercss/beercss | [open](records/icons-and-logos-beercss-beercss-788b7a9f.md) |
 | `github_search_icons_and_logos-95f0251d516189` | pluwen/awesome-iconjar | [open](records/icons-and-logos-pluwen-awesome-iconjar-9acec16e.md) |
+| `github_search_icons_and_logos-9601251fd0a45a` | fabriziosalmi/brandkit | [open](records/icons-and-logos-fabriziosalmi-brandkit-e4ea2ac1.md) |
 | `github_search_icons_and_logos-963fa959cf1840` | muan/unicode-emoji-json | [open](records/icons-and-logos-muan-unicode-emoji-json-7291ae74.md) |
 | `github_search_icons_and_logos-96e8aa08065207` | Jolg42/awesome-typography | [open](records/icons-and-logos-jolg42-awesome-typography-ab363d01.md) |
 | `github_search_icons_and_logos-97011bc808e79a` | mui/base-ui | [open](records/icons-and-logos-mui-base-ui-46ccd7f6.md) |
@@ -10996,16 +11029,24 @@
 | `github_search_icons_and_logos-99495031e3e0f6` | refscn/rplibs | [open](records/icons-and-logos-refscn-rplibs-67dc94f4.md) |
 | `github_search_icons_and_logos-9977f8ab64ea24` | gztchan/awesome-design | [open](records/icons-and-logos-gztchan-awesome-design-4cf00e9a.md) |
 | `github_search_icons_and_logos-99bcf2a325ca57` | VoltAgent/awesome-design-md | [open](records/icons-and-logos-voltagent-awesome-design-md-1f5fe972.md) |
+| `github_search_icons_and_logos-9a5fcf3e71ed03` | laughedelic/fish_logo | [open](records/icons-and-logos-laughedelic-fish-logo-2d150dbc.md) |
 | `github_search_icons_and_logos-9aa44adde6a998` | pinterest/gestalt | [open](records/icons-and-logos-pinterest-gestalt-5bfdf1fe.md) |
 | `github_search_icons_and_logos-9aad512936f3ba` | styled-icons/styled-icons | [open](records/icons-and-logos-styled-icons-styled-icons-636beac6.md) |
+| `github_search_icons_and_logos-9ab407c3914de9` | simple-icons/simple-icons | [open](records/icons-and-logos-simple-icons-simple-icons-775fc44b.md) |
 | `github_search_icons_and_logos-9ad89c3e18fa20` | ant-design/ant-design-icons | [open](records/icons-and-logos-ant-design-ant-design-icons-d9dcf350.md) |
 | `github_search_icons_and_logos-9b57e9ab4335d5` | mono-company/mono-icons | [open](records/icons-and-logos-mono-company-mono-icons-9254b5a3.md) |
+| `github_search_icons_and_logos-9bcce57f0d0a9e` | GuangchuangYu/hexSticker | [open](records/icons-and-logos-guangchuangyu-hexsticker-0d05f8d9.md) |
+| `github_search_icons_and_logos-9e46e90a323b2f` | remko/waforth | [open](records/icons-and-logos-remko-waforth-81089df8.md) |
+| `github_search_icons_and_logos-9e613770a94759` | PythonTurtle/PythonTurtle | [open](records/icons-and-logos-pythonturtle-pythonturtle-53ceab09.md) |
 | `github_search_icons_and_logos-9e719fa55c28d5` | 13rac1/emojione-color-font | [open](records/icons-and-logos-13rac1-emojione-color-font-161dcd40.md) |
 | `github_search_icons_and_logos-9fb3b31015ae24` | aws-amplify/amplify-ui | [open](records/icons-and-logos-aws-amplify-amplify-ui-f1965bd4.md) |
+| `github_search_icons_and_logos-a162e16f6b9728` | enjeck/libre-logos | [open](records/icons-and-logos-enjeck-libre-logos-4c2f5dfb.md) |
 | `github_search_icons_and_logos-a1765b5b56f039` | getActivity/EmojiPackage | [open](records/icons-and-logos-getactivity-emojipackage-204bde27.md) |
 | `github_search_icons_and_logos-a1d9555f83762b` | arielsalminen/vue-design-system | [open](records/icons-and-logos-arielsalminen-vue-design-system-fd1ed51f.md) |
 | `github_search_icons_and_logos-a201e46f68feae` | Angelmmiguel/svgi | [open](records/icons-and-logos-angelmmiguel-svgi-0963a593.md) |
 | `github_search_icons_and_logos-a463647fd08924` | rickstaa/github-emoji-picker | [open](records/icons-and-logos-rickstaa-github-emoji-picker-f84142f9.md) |
+| `github_search_icons_and_logos-a4f6a4cf8f59ca` | epidrome/cover-card | [open](records/icons-and-logos-epidrome-cover-card-9d583bc4.md) |
+| `github_search_icons_and_logos-a538af11a5b8d2` | abhay-ramesh/Wordmark | [open](records/icons-and-logos-abhay-ramesh-wordmark-a45e5c78.md) |
 | `github_search_icons_and_logos-a61001dd65cecf` | TheWidlarzGroup/rn-emoji-keyboard | [open](records/icons-and-logos-thewidlarzgroup-rn-emoji-keyboard-1a83ef2e.md) |
 | `github_search_icons_and_logos-a61d79ea15f1af` | izyumkin/MCEmojiPicker | [open](records/icons-and-logos-izyumkin-mcemojipicker-759f01c0.md) |
 | `github_search_icons_and_logos-a63c3ee25ee4fa` | xsalazar/emoji-kitchen | [open](records/icons-and-logos-xsalazar-emoji-kitchen-b9a3478f.md) |
@@ -11035,14 +11076,17 @@
 | `github_search_icons_and_logos-b13357ab6c7ba5` | skeletonlabs/skeleton | [open](records/icons-and-logos-skeletonlabs-skeleton-a4916c16.md) |
 | `github_search_icons_and_logos-b2ca1c4a6a88cf` | tagliala/vectoriconsroundup | [open](records/icons-and-logos-tagliala-vectoriconsroundup-a9c13c8e.md) |
 | `github_search_icons_and_logos-b336b54432a871` | Zhengqbbb/cz-git | [open](records/icons-and-logos-zhengqbbb-cz-git-cbfe9aeb.md) |
+| `github_search_icons_and_logos-b3934540976dfa` | note286/xdulogo | [open](records/icons-and-logos-note286-xdulogo-29fb8789.md) |
 | `github_search_icons_and_logos-b3f7cf1b7cfc9d` | Nieobie/game-icon-pack | [open](records/icons-and-logos-nieobie-game-icon-pack-603bee7d.md) |
 | `github_search_icons_and_logos-b4c226a5e3d17a` | Trendyol/baklava | [open](records/icons-and-logos-trendyol-baklava-d44d7b34.md) |
 | `github_search_icons_and_logos-b627f1fdd478c3` | FortAwesome/Font-Awesome | [open](records/icons-and-logos-fortawesome-font-awesome-eb4f1426.md) |
+| `github_search_icons_and_logos-b658084a6b66ff` | chnzzh/lenovo-logo-changer | [open](records/icons-and-logos-chnzzh-lenovo-logo-changer-34836b7a.md) |
 | `github_search_icons_and_logos-b6c8cba1680bd3` | ruedap/alfred-font-awesome-workflow | [open](records/icons-and-logos-ruedap-alfred-font-awesome-workflow-53dec65c.md) |
 | `github_search_icons_and_logos-b710556ae7ede4` | zagum/Android-SwitchIcon | [open](records/icons-and-logos-zagum-android-switchicon-d088bbbe.md) |
 | `github_search_icons_and_logos-b750cb39ad26c6` | enescakir/emoji | [open](records/icons-and-logos-enescakir-emoji-594df724.md) |
 | `github_search_icons_and_logos-b75b4eb00b583a` | maoschanz/emoji-selector-for-gnome | [open](records/icons-and-logos-maoschanz-emoji-selector-for-gnome-f3647b28.md) |
 | `github_search_icons_and_logos-b84acbaac32e04` | sakofchit/system.css | [open](records/icons-and-logos-sakofchit-system-css-af4bec09.md) |
+| `github_search_icons_and_logos-b90654b5e5d23e` | cncf/landscape | [open](records/icons-and-logos-cncf-landscape-1e21349d.md) |
 | `github_search_icons_and_logos-baa45e31a30827` | sturobson/Awesome-Design-Tokens | [open](records/icons-and-logos-sturobson-awesome-design-tokens-0298ade9.md) |
 | `github_search_icons_and_logos-bc0661cee54024` | ravenq/markdown-it-vue | [open](records/icons-and-logos-ravenq-markdown-it-vue-0c829c02.md) |
 | `github_search_icons_and_logos-bc5cc54b497a46` | tindy2013/subconverter | [open](records/icons-and-logos-tindy2013-subconverter-54daa3fe.md) |
@@ -11058,10 +11102,13 @@
 | `github_search_icons_and_logos-c3a974e8482ce6` | liveblocks/frimousse | [open](records/icons-and-logos-liveblocks-frimousse-7f6556c1.md) |
 | `github_search_icons_and_logos-c43d6f1529ff76` | nvim-tree/nvim-web-devicons | [open](records/icons-and-logos-nvim-tree-nvim-web-devicons-6083b38a.md) |
 | `github_search_icons_and_logos-c4b05015896a5d` | file-icons/DevOpicons | [open](records/icons-and-logos-file-icons-devopicons-440730b6.md) |
+| `github_search_icons_and_logos-c4c37f5e1dcad6` | rladies/starter-kit | [open](records/icons-and-logos-rladies-starter-kit-96e24921.md) |
 | `github_search_icons_and_logos-c53c264c98104b` | spatie/emoji | [open](records/icons-and-logos-spatie-emoji-aa0d8090.md) |
+| `github_search_icons_and_logos-c55364ab339216` | odb/official-bash-logo | [open](records/icons-and-logos-odb-official-bash-logo-a259b01e.md) |
 | `github_search_icons_and_logos-c5ce9c14de3b6d` | twitter/twitter-text | [open](records/icons-and-logos-twitter-twitter-text-d5e9a728.md) |
 | `github_search_icons_and_logos-c5d428efaa02c0` | CarGuo/GSYRickText | [open](records/icons-and-logos-carguo-gsyricktext-5bae5568.md) |
 | `github_search_icons_and_logos-c60ceda81da8e5` | efremidze/Animoji | [open](records/icons-and-logos-efremidze-animoji-8a4557a5.md) |
+| `github_search_icons_and_logos-c921cedea6ffa9` | amastaneh/IranianBankLogos | [open](records/icons-and-logos-amastaneh-iranianbanklogos-c2dd3ccb.md) |
 | `github_search_icons_and_logos-c92367f99e5179` | bergside/awesome-design-skills | [open](records/icons-and-logos-bergside-awesome-design-skills-1172f515.md) |
 | `github_search_icons_and_logos-c972edb7405445` | tabler/tabler-icons | [open](records/icons-and-logos-tabler-tabler-icons-18e4dc06.md) |
 | `github_search_icons_and_logos-ca9b9b6a1a7f9c` | muan/emojilib | [open](records/icons-and-logos-muan-emojilib-99a2d5a3.md) |
@@ -11075,7 +11122,9 @@
 | `github_search_icons_and_logos-cf727f72841ca1` | contour-terminal/contour | [open](records/icons-and-logos-contour-terminal-contour-04de9ca8.md) |
 | `github_search_icons_and_logos-cf742513b23e3f` | thedevelobear/react-rewards | [open](records/icons-and-logos-thedevelobear-react-rewards-9b1fa855.md) |
 | `github_search_icons_and_logos-d0112254054318` | magicpatterns/catalog | [open](records/icons-and-logos-magicpatterns-catalog-62876da5.md) |
+| `github_search_icons_and_logos-d10d4baf4cd29b` | simple-icons/simple-icons-pdf | [open](records/icons-and-logos-simple-icons-simple-icons-pdf-7af92255.md) |
 | `github_search_icons_and_logos-d1737890a7d53a` | peaceiris/emoji-ime-dictionary | [open](records/icons-and-logos-peaceiris-emoji-ime-dictionary-1f9c5412.md) |
+| `github_search_icons_and_logos-d261326fe483a7` | cncf/landscapeapp | [open](records/icons-and-logos-cncf-landscapeapp-28217136.md) |
 | `github_search_icons_and_logos-d346b10f30a4bb` | icons8/line-awesome | [open](records/icons-and-logos-icons8-line-awesome-d3b0128e.md) |
 | `github_search_icons_and_logos-d34f1e8d730ef3` | vue-styleguidist/vue-styleguidist | [open](records/icons-and-logos-vue-styleguidist-vue-styleguidist-817efb1f.md) |
 | `github_search_icons_and_logos-d4f13e8fb79c87` | JohnWong/IconFont | [open](records/icons-and-logos-johnwong-iconfont-3cf5a074.md) |
@@ -11085,8 +11134,10 @@
 | `github_search_icons_and_logos-d6cf38c5d8d64e` | rohitg00/awesome-claude-design | [open](records/icons-and-logos-rohitg00-awesome-claude-design-c8feb316.md) |
 | `github_search_icons_and_logos-d70fad4cc7ae07` | coding2233/TextInlineSprite | [open](records/icons-and-logos-coding2233-textinlinesprite-c4983095.md) |
 | `github_search_icons_and_logos-d77548f4dc5b65` | lucide-icons/lucide | [open](records/icons-and-logos-lucide-icons-lucide-d5375c95.md) |
+| `github_search_icons_and_logos-d7a03335d90ef7` | x64Bits/solid-icons | [open](records/icons-and-logos-x64bits-solid-icons-dd429cd5.md) |
 | `github_search_icons_and_logos-d81928038fa0a4` | missive/emoji-mart | [open](records/icons-and-logos-missive-emoji-mart-2951ab0c.md) |
 | `github_search_icons_and_logos-d8493db28876d0` | simplelineicons/simplelineicons.github.io | [open](records/icons-and-logos-simplelineicons-simplelineicons-github-io-f89e24aa.md) |
+| `github_search_icons_and_logos-d9212cd9678d0d` | HerbLuo/qr-code-with-logo | [open](records/icons-and-logos-herbluo-qr-code-with-logo-99b5e471.md) |
 | `github_search_icons_and_logos-d9ca1f74c4b6db` | React95/React95 | [open](records/icons-and-logos-react95-react95-ff8c497a.md) |
 | `github_search_icons_and_logos-dad73d59b1e5d0` | driesvints/blade-icons | [open](records/icons-and-logos-driesvints-blade-icons-b76c64f5.md) |
 | `github_search_icons_and_logos-dc102755769a7a` | feathericons/react-feather | [open](records/icons-and-logos-feathericons-react-feather-33a7056b.md) |
@@ -11100,12 +11151,15 @@
 | `github_search_icons_and_logos-e1ec58d8384e1a` | thomaspark/glyphsearch | [open](records/icons-and-logos-thomaspark-glyphsearch-2a16da87.md) |
 | `github_search_icons_and_logos-e27348c880e456` | lobehub/lobe-icons | [open](records/icons-and-logos-lobehub-lobe-icons-d80b53d8.md) |
 | `github_search_icons_and_logos-e3a7039d10ce18` | vorillaz/devicons | [open](records/icons-and-logos-vorillaz-devicons-65e30795.md) |
+| `github_search_icons_and_logos-e40f1761a7f8f8` | tjuse/tju-vis | [open](records/icons-and-logos-tjuse-tju-vis-3ff53921.md) |
 | `github_search_icons_and_logos-e445a65738655e` | devblackops/Terminal-Icons | [open](records/icons-and-logos-devblackops-terminal-icons-848008fc.md) |
 | `github_search_icons_and_logos-e4722d5f5daa92` | lukasoppermann/design-tokens | [open](records/icons-and-logos-lukasoppermann-design-tokens-3e78d848.md) |
+| `github_search_icons_and_logos-e4dcdf96edc602` | drangjchen/IPTV | [open](records/icons-and-logos-drangjchen-iptv-facb08f8.md) |
 | `github_search_icons_and_logos-e4efbe141bd6e4` | KeyboardKit/KeyboardKit | [open](records/icons-and-logos-keyboardkit-keyboardkit-60dbf694.md) |
 | `github_search_icons_and_logos-e516fa186f4d2c` | Owl-Listener/designer-skills | [open](records/icons-and-logos-owl-listener-designer-skills-bb5cdafe.md) |
 | `github_search_icons_and_logos-e5c918ad4c4031` | akshat46/FlyingFox | [open](records/icons-and-logos-akshat46-flyingfox-583ec768.md) |
 | `github_search_icons_and_logos-e609547172a27f` | unovue/reka-ui | [open](records/icons-and-logos-unovue-reka-ui-f9389abd.md) |
+| `github_search_icons_and_logos-e8d46e83e66d12` | CCSH/IPTV | [open](records/icons-and-logos-ccsh-iptv-b50f789a.md) |
 | `github_search_icons_and_logos-e9a2437a9198d6` | pvdlg/conventional-commit-types | [open](records/icons-and-logos-pvdlg-conventional-commit-types-b82a0a26.md) |
 | `github_search_icons_and_logos-ea4f41101d351d` | VernonVan/PPStickerKeyboard | [open](records/icons-and-logos-vernonvan-ppstickerkeyboard-833601ce.md) |
 | `github_search_icons_and_logos-ea5258a32c1a9b` | opensource-socialnetwork/opensource-socialnetwork | [open](records/icons-and-logos-opensource-socialnetwork-opensource-socialnetwork-3942fcc0.md) |
@@ -11113,6 +11167,7 @@
 | `github_search_icons_and_logos-eccf11c0f09524` | alibaba-fusion/next | [open](records/icons-and-logos-alibaba-fusion-next-8aec3d00.md) |
 | `github_search_icons_and_logos-ecede62d767cdc` | basscss/basscss | [open](records/icons-and-logos-basscss-basscss-f63e156e.md) |
 | `github_search_icons_and_logos-ed120fb5c6260d` | xuxueli/xxl-tool | [open](records/icons-and-logos-xuxueli-xxl-tool-22febccf.md) |
+| `github_search_icons_and_logos-f024bda5f11d94` | erangeles/techstack | [open](records/icons-and-logos-erangeles-techstack-cb8746ef.md) |
 | `github_search_icons_and_logos-f0336d53ec1786` | ccforward/rubik | [open](records/icons-and-logos-ccforward-rubik-12fb7f5d.md) |
 | `github_search_icons_and_logos-f2c98d38717d13` | iconfu/svg-inject | [open](records/icons-and-logos-iconfu-svg-inject-d4296b60.md) |
 | `github_search_icons_and_logos-f4cdc6e977b87f` | vkarampinis/awesome-icons | [open](records/icons-and-logos-vkarampinis-awesome-icons-b93811ff.md) |
@@ -11120,6 +11175,8 @@
 | `github_search_icons_and_logos-f589657167bacb` | react-icons/react-icons | [open](records/icons-and-logos-react-icons-react-icons-a0c37fa7.md) |
 | `github_search_icons_and_logos-f598069f553662` | isaced/ISEmojiView | [open](records/icons-and-logos-isaced-isemojiview-4ffe4a66.md) |
 | `github_search_icons_and_logos-f5e67f27e57bae` | geist-org/geist-ui | [open](records/icons-and-logos-geist-org-geist-ui-aec8eb9c.md) |
+| `github_search_icons_and_logos-f5ea14277494aa` | bchanx/logos-in-pure-css | [open](records/icons-and-logos-bchanx-logos-in-pure-css-1803520c.md) |
+| `github_search_icons_and_logos-f664461db5d863` | storybookjs/brand | [open](records/icons-and-logos-storybookjs-brand-9b8da03c.md) |
 | `github_search_icons_and_logos-f70abe3b48035f` | burhanrashid52/PhotoEditor | [open](records/icons-and-logos-burhanrashid52-photoeditor-7ea96ffb.md) |
 | `github_search_icons_and_logos-f8ba4cd6a4ba3d` | studio1902/statamic-peak | [open](records/icons-and-logos-studio1902-statamic-peak-9976aca5.md) |
 | `github_search_icons_and_logos-f90114d8192b10` | bytedance/IconPark | [open](records/icons-and-logos-bytedance-iconpark-2aa04b96.md) |
@@ -11739,6 +11796,7 @@
 | `github_search_maps-6ccefe4799824d` | giswqs/earthengine-py-notebooks | [open](records/maps-giswqs-earthengine-py-notebooks-ddfabcd8.md) |
 | `github_search_maps-6cf603a1fa0858` | w3reality/three-geo | [open](records/maps-w3reality-three-geo-ccdac8ff.md) |
 | `github_search_maps-6cf82e53706d65` | CesiumGS/cesium-unreal | [open](records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
+| `github_search_maps-6d24f92c3ea8ea` | itsmichaeldiego/google-map-react | [open](records/maps-itsmichaeldiego-google-map-react-68062853.md) |
 | `github_search_maps-6dd1736e5d428c` | r-spatial/mapview | [open](records/maps-r-spatial-mapview-10b63596.md) |
 | `github_search_maps-6deb184e7d6cdc` | makina-maps/makina-maps | [open](records/maps-makina-maps-makina-maps-21522b48.md) |
 | `github_search_maps-6e73e88dcd4489` | pysheds/pysheds | [open](records/maps-pysheds-pysheds-2b095809.md) |
@@ -14159,6 +14217,7 @@
 | `github_search_repertoare_catalogs-6cfe853e804964` | JamesGlare/Holo_gen_models | [open](records/repertoare-catalogs-jamesglare-holo-gen-models-b9f8f500.md) |
 | `github_search_repertoare_catalogs-6e6c03078e3405` | vladkrakhmalev/Songix-Beta | [open](records/repertoare-catalogs-vladkrakhmalev-songix-beta-462862bc.md) |
 | `github_search_repertoare_catalogs-71349669c6faf1` | monirulHaque/myentertainmenthub | [open](records/repertoare-catalogs-monirulhaque-myentertainmenthub-d3d3b041.md) |
+| `github_search_repertoare_catalogs-715371471d9843` | sametsavgaman/suricata-rules-catalog | [open](records/repertoare-catalogs-sametsavgaman-suricata-rules-catalog-9ff5e4c5.md) |
 | `github_search_repertoare_catalogs-72a309fcbd5a0d` | agilesdesign/repertoire | [open](records/repertoare-catalogs-agilesdesign-repertoire-165a2ebc.md) |
 | `github_search_repertoare_catalogs-73ad7b76915b8a` | natarizkie2/kurema | [open](records/repertoare-catalogs-natarizkie2-kurema-58d503dc.md) |
 | `github_search_repertoare_catalogs-7550856da7c909` | topshopifydev/ShopSpy | [open](records/repertoare-catalogs-topshopifydev-shopspy-3bf18474.md) |
@@ -14678,6 +14737,7 @@
 | `github_search_satcom_satellites-cc11187bc97d21` | lofaldli/gr-ccsds | [open](records/satcom-satellites-lofaldli-gr-ccsds-39725eca.md) |
 | `github_search_satcom_satellites-cdb6639f183f01` | ghostop14/gr-lfast | [open](records/satcom-satellites-ghostop14-gr-lfast-87ce6af8.md) |
 | `github_search_satcom_satellites-cee0e1d0c21fc2` | mendhak/gpslogger | [open](records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
+| `github_search_satcom_satellites-d08187398aae62` | pytroll/pyspectral | [open](records/satcom-satellites-pytroll-pyspectral-93516e0f.md) |
 | `github_search_satcom_satellites-d2c220c8bf0891` | mapbox/mapbox-cli-py | [open](records/satcom-satellites-mapbox-mapbox-cli-py-aa4771ac.md) |
 | `github_search_satcom_satellites-d3008fd083d7eb` | gyaresu/sdr | [open](records/satcom-satellites-gyaresu-sdr-c64ce8a6.md) |
 | `github_search_satcom_satellites-d3f23476f2bd0a` | ExoSpaceLabs/CCSDSPack | [open](records/satcom-satellites-exospacelabs-ccsdspack-0508282a.md) |
