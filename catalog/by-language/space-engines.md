@@ -32,7 +32,7 @@ Records: `160`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-13T13:29:49Z | registry-derived |
+| [ansys/pystk](../records/space-engines-ansys-pystk-98082b8f.md) | partial | 2026-09-14T04:06:38Z | registry-derived |
 
 ### Benchmarking
 
@@ -192,7 +192,7 @@ Records: `160`
 | [LoicViennois/KSP-DeltaV-Planner](../records/space-engines-loicviennois-ksp-deltav-planner-2a9f4275.md) | partial | 2026-09-13T17:33:26Z | registry-derived |
 | [nmisyats/KSP-MGA-Planner](../records/space-engines-nmisyats-ksp-mga-planner-5c02c9bb.md) | partial | 2026-06-08T16:41:24Z | registry-derived |
 | [podgorskiy/KeplerOrbits](../records/space-engines-podgorskiy-keplerorbits-bce5842d.md) | partial | 2023-04-02T23:28:28Z | registry-derived |
-| [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-09-14T03:18:44Z | registry-derived |
+| [RocketPy-Team/RocketPy](../records/space-engines-rocketpy-team-rocketpy-dc6ba7fb.md) | partial | 2026-09-14T03:24:00Z | registry-derived |
 | [usuaero/PyProp](../records/space-engines-usuaero-pyprop-cf41d1df.md) | partial | 2021-06-21T16:46:34Z | registry-derived |
 | [wedesoft/sfsim](../records/space-engines-wedesoft-sfsim-99e126c8.md) | partial | 2026-09-13T23:56:33Z | registry-derived |
 
@@ -252,10 +252,10 @@ Records: `160`
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | partial | 2026-09-10T16:42:10Z | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-14T02:37:44Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-14T04:10:16Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | partial | 2026-08-07T13:57:29Z | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
-| [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-11T22:01:45Z | registry-derived |
+| [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-14T04:15:45Z | registry-derived |
 | [gberrante/map_3d](../records/space-engines-gberrante-map-3d-291724c2.md) | partial | 2026-09-04T06:50:37Z | registry-derived |
 | [gunvirranu/perturb](../records/space-engines-gunvirranu-perturb-e116c98e.md) | partial | 2025-02-19T11:46:24Z | registry-derived |
 | [helgee/Astrodynamics.jl](../records/space-engines-helgee-astrodynamics-jl-8635d55e.md) | partial | 2024-02-26T11:44:11Z | registry-derived |
@@ -360,7 +360,7 @@ Records: `160`
 | [arasgungore/rocket-flight-simulator](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [davidcalhoun/tle.js](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) | partial | 2026-07-21T22:01:04Z | registry-derived |
 | [ep2lab/dimagno](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) | partial | 2024-10-21T08:59:37Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-14T03:07:10Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-14T03:37:59Z | registry-derived |
 
 ### Web Framework
 

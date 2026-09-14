@@ -1245,7 +1245,7 @@ Records: `1095`
 | deislabs/wasi-experimental-http | partial | 2023-03-14T17:13:55Z | [open](../records/webassembly-deislabs-wasi-experimental-http-bee04041.md) |
 | dispatchrun/net | partial | 2024-12-11T23:36:01Z | [open](../records/webassembly-dispatchrun-net-ea550bf8.md) |
 | evgeny-nadymov/telegram-react | partial | 2025-02-23T05:45:20Z | [open](../records/webassembly-evgeny-nadymov-telegram-react-7bf2bf4e.md) |
-| joreilly/PeopleInSpace | partial | 2026-09-12T17:49:06Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
+| joreilly/PeopleInSpace | partial | 2026-09-13T17:38:41Z | [open](../records/webassembly-joreilly-peopleinspace-b99b8c35.md) |
 | near/nearcore | partial | 2026-09-11T09:34:33Z | [open](../records/webassembly-near-nearcore-94125d0d.md) |
 | WebAssembly/WASI | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-webassembly-wasi-e42b23bc.md) |
 | WebAssembly/wasi-http | partial | 2025-11-25T22:56:11Z | [open](../records/webassembly-webassembly-wasi-http-ad3f0d17.md) |
@@ -1312,7 +1312,7 @@ Records: `1095`
 | aerospike/aerospike-client-rust | partial | 2026-09-13T01:36:29Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-11T13:03:32Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-13T11:52:24Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-14T04:09:08Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |

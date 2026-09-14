@@ -145,7 +145,7 @@ Records: `99`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| langfuse/langfuse | partial | 2026-09-14T03:03:11Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
+| langfuse/langfuse | partial | 2026-09-14T03:36:01Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
 
 ## Computer Graphics Software
 
@@ -250,7 +250,7 @@ Records: `99`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| deepflowio/deepflow | partial | 2026-09-11T01:59:08Z | [open](../records/webassembly-deepflowio-deepflow-68e659d6.md) |
+| deepflowio/deepflow | partial | 2026-09-14T01:25:44Z | [open](../records/webassembly-deepflowio-deepflow-68e659d6.md) |
 | mtharrison/wasm-raytracer | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mtharrison-wasm-raytracer-f02716a0.md) |
 | tracel-ai/burn | partial | 2026-09-11T20:05:34Z | [open](../records/webassembly-tracel-ai-burn-490f11d2.md) |
 

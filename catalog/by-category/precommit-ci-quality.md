@@ -492,7 +492,7 @@ Records: `327`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ArthurSonzogni/Diagon | partial | 2025-05-16T09:50:58Z | [open](../records/webassembly-arthursonzogni-diagon-5fb2401c.md) |
-| MudBlazor/MudBlazor | partial | 2026-09-12T01:42:57Z | [open](../records/webassembly-mudblazor-mudblazor-37a650f6.md) |
+| MudBlazor/MudBlazor | partial | 2026-09-14T04:07:55Z | [open](../records/webassembly-mudblazor-mudblazor-37a650f6.md) |
 | wasm-bindgen/wasm-bindgen | partial | 2026-09-12T00:46:19Z | [open](../records/webassembly-wasm-bindgen-wasm-bindgen-bc554e09.md) |
 
 ## SAPJava

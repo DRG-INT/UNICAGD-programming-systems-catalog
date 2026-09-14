@@ -62,7 +62,7 @@ Records: `312`
 | [njgarg22/bookstore-products](../records/sapjava-njgarg22-bookstore-products-daaef4ff.md) | partial | 2020-10-17T19:47:24Z | registry-derived |
 | [SAP-samples/ams-samples-java](../records/sapjava-sap-samples-ams-samples-java-fd68629e.md) | partial | 2026-09-07T12:25:38Z | registry-derived |
 | [SAP-samples/cap-sflight](../records/sapjava-sap-samples-cap-sflight-49ffa5d9.md) | partial | 2026-08-19T13:06:57Z | registry-derived |
-| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-11T16:14:29Z | registry-derived |
+| [SAP/ai-sdk-java](../records/sapjava-sap-ai-sdk-java-e59084a9.md) | partial | 2026-09-14T02:40:32Z | registry-derived |
 | [SAP/cloud-sdk-java](../records/sapjava-sap-cloud-sdk-java-694206d3.md) | partial | 2026-09-11T20:34:22Z | registry-derived |
 | [THSRakesh/Employee-App](../records/sapjava-thsrakesh-employee-app-401aae99.md) | partial | 2026-01-22T12:48:14Z | registry-derived |
 
@@ -115,7 +115,7 @@ Records: `312`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [SAP/ai-sdk](../records/sapjava-sap-ai-sdk-e8b4294c.md) | partial | 2026-09-13T21:33:33Z | registry-derived |
-| [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-13T17:13:27Z | registry-derived |
+| [SAP/cloud-sdk](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) | partial | 2026-09-14T01:56:47Z | registry-derived |
 | [souzamarcelo9/sap-contas-apagar-worker](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) | partial | 2026-06-11T22:33:27Z | registry-derived |
 
 ### Filesystem Os

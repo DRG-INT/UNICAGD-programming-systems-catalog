@@ -135,7 +135,7 @@ Records: `349`
 | [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-11T20:34:54Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-12T13:09:21Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
-| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-09T16:54:10Z | registry-derived |
+| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-14T03:30:42Z | registry-derived |
 
 ### Filesystem Os
 
@@ -528,7 +528,7 @@ Records: `349`
 | [KelvinJin/AnimatedCollectionViewLayout](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) | partial | 2020-09-20T07:09:55Z | registry-derived |
 | [macmade/GitHubUpdates](../records/cocoa-macmade-githubupdates-e05a7458.md) | partial | 2026-07-17T07:37:29Z | registry-derived |
 | [subethaedit/SubEthaEdit](../records/cocoa-subethaedit-subethaedit-a17dc346.md) | partial | 2025-11-09T15:30:33Z | registry-derived |
-| [tbxark/TKRubberIndicator](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) | partial | 2024-08-21T09:11:19Z | registry-derived |
+| [tbxark/TKRubberIndicator](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) | partial | 2026-09-14T03:24:01Z | registry-derived |
 | [XCDYouTubeKit](../records/cocoa-xcdyoutubekit-06b9c2a1.md) | 2.15.2 | 2020-12-08T20:28:58Z | registry-derived |
 
 ### Visualization Gui

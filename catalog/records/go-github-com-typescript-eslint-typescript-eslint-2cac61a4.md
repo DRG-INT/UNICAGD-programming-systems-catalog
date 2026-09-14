@@ -39,9 +39,9 @@ as part of static feedback, style policy, defect prevention, and local/CI qualit
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | MIT; MIT License; https://api.github.com/licenses/mit; GNU Lesser General Public License v2.1; https://api.github.com/licenses/lgpl-2.1; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

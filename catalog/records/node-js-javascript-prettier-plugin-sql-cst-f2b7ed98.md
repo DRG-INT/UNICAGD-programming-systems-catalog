@@ -41,9 +41,9 @@ of low-noise code review, style consistency, and automation-friendly editing.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | Other; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

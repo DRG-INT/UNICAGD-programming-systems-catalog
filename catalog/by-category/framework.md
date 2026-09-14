@@ -167,7 +167,7 @@ Records: `64`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| DioxusLabs/dioxus | partial | 2026-09-12T19:19:47Z | [open](../records/webassembly-dioxuslabs-dioxus-b778fe0f.md) |
+| DioxusLabs/dioxus | partial | 2026-09-13T17:35:05Z | [open](../records/webassembly-dioxuslabs-dioxus-b778fe0f.md) |
 | seed-rs/seed | partial | 2025-01-11T09:42:45Z | [open](../records/webassembly-seed-rs-seed-42f38c62.md) |
 
 ## SAPJava

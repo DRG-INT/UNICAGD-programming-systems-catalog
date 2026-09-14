@@ -454,7 +454,7 @@ Records: `341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | carverauto/serviceradar | partial | 2026-09-01T13:30:54Z | [open](../records/webassembly-carverauto-serviceradar-c01081ce.md) |
-| nearai/ironclaw | partial | 2026-09-10T19:18:18Z | [open](../records/webassembly-nearai-ironclaw-b0ee1475.md) |
+| nearai/ironclaw | partial | 2026-09-13T20:35:00Z | [open](../records/webassembly-nearai-ironclaw-b0ee1475.md) |
 | sola-st/wasm-binary-security | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-sola-st-wasm-binary-security-9e8b7e09.md) |
 
 ## SAPJava
@@ -491,7 +491,7 @@ Records: `341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amark/gun | partial | 2026-08-01T11:38:47Z | [open](../records/databases-amark-gun-b5e89507.md) |
-| apache/shardingsphere | partial | 2026-09-13T17:05:06Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
+| apache/shardingsphere | partial | 2026-09-14T04:02:12Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 | cookieY/Yearning | partial | 2026-08-24T11:46:31Z | [open](../records/databases-cookiey-yearning-30a7b49e.md) |
 | IoT-Technology/IoT-Technical-Guide | partial | 2023-09-05T12:28:00Z | [open](../records/databases-iot-technology-iot-technical-guide-4f9cb27e.md) |

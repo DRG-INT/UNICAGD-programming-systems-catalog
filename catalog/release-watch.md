@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T03:24:39+00:00`
+Generated: `2026-09-14T04:24:04+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -35,6 +35,7 @@ Generated: `2026-09-14T03:24:39+00:00`
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.8 | 2026-09-14T04:14:24.818Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.10.0 | 2026-09-14T01:36:27.899Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | sdl3-bindgen-sys | Haskell | Library | 0.0.0.3 | 2026-09-14T00:23:51Z | [open](records/haskell-sdl3-bindgen-sys-2e14785a.md) |
 | typed-peg | Haskell | Library | 0.4.0.0 | 2026-09-14T00:21:58Z | [open](records/haskell-typed-peg-d0f69182.md) |
@@ -89,7 +90,6 @@ Generated: `2026-09-14T03:24:39+00:00`
 | actix-server | Rust | Networking Http | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](records/rust-actix-server-e5a4daec.md) |
 | @graphql-codegen/testing | Node.js/JavaScript | Testing Framework | 5.0.2 | 2026-09-13T09:02:55.303Z | [open](records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
 | hasquant | Haskell | Library | 0.7.0.0 | 2026-09-13T08:28:57Z | [open](records/haskell-hasquant-609f2342.md) |
-| @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.7 | 2026-09-13T08:25:31.578Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | typescript-native-bridge | Node.js/TypeScript | Build System | 6.0.3-bridge.17.tsgo.7.0.2 | 2026-09-13T08:02:25.982Z | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
 | Agda | Haskell | Library | 2.8.0.2 | 2026-09-13T07:57:35Z | [open](records/haskell-agda-2052f829.md) |
 | liquid_glass_widgets | Dart | Filesystem Os | 1.5.0 | 2026-09-13T07:36:08.529640Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |

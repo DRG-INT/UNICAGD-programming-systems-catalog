@@ -317,7 +317,7 @@ Records: `656`
 | [clanker-lover/spicebridge](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) | partial | 2026-04-06T23:32:53Z | registry-derived |
 | [electron-lang/electron](../records/space-maps-electron-lang-electron-98fd3718.md) | partial | 2018-08-20T19:02:31Z | registry-derived |
 | [gnudatalanguage/gdl](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
-| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-13T23:06:18Z | registry-derived |
+| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-14T04:20:39Z | registry-derived |
 | [Jack-Hayes/planetquery](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) | partial | 2025-10-15T05:47:38Z | registry-derived |
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |
@@ -684,7 +684,7 @@ Records: `656`
 | [saurvs/astro-rust](../records/space-maps-saurvs-astro-rust-b959f43f.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
 | [sczesla/PyAstronomy](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) | partial | 2026-06-27T22:26:51Z | registry-derived |
 | [sherpa/sherpa](../records/space-maps-sherpa-sherpa-9f2278ff.md) | partial | 2026-09-09T12:51:23Z | registry-derived |
-| [skyportal/skyportal](../records/space-maps-skyportal-skyportal-0f6b084a.md) | partial | 2026-09-13T04:23:13Z | registry-derived |
+| [skyportal/skyportal](../records/space-maps-skyportal-skyportal-0f6b084a.md) | partial | 2026-09-14T04:11:56Z | registry-derived |
 | [skypyproject/skypy](../records/space-maps-skypyproject-skypy-17100f66.md) | partial | 2026-06-22T19:20:21Z | registry-derived |
 | [smmariquit/atlas-of-my-skies](../records/space-maps-smmariquit-atlas-of-my-skies-ee81d2fb.md) | partial | 2026-09-07T02:46:29Z | registry-derived |
 | [spacetelescope/poppy](../records/space-maps-spacetelescope-poppy-ae2bd07f.md) | partial | 2026-08-26T14:23:04Z | registry-derived |
@@ -889,7 +889,7 @@ Records: `656`
 | [inbalpaz/CLANS](../records/space-maps-inbalpaz-clans-88d3b06d.md) | partial | 2024-12-05T14:27:09Z | registry-derived |
 | [jeffreymorganio/d3-space-filler-explorer](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) | partial | 2020-08-14T18:14:55Z | registry-derived |
 | [JohnEdChristensen/WebbCompare](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) | partial | 2024-03-01T22:17:38Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) | partial | 2026-09-14T03:07:10Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) | partial | 2026-09-14T03:37:59Z | registry-derived |
 | [KDE/filelight](../records/space-maps-kde-filelight-548ef1de.md) | partial | 2026-09-06T02:30:31Z | registry-derived |
 | [kevincon/utilityknife](../records/space-maps-kevincon-utilityknife-0060e5b5.md) | partial | 2023-05-02T03:56:38Z | registry-derived |
 | [kitanokitsune/gEDA-WIN](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) | partial | 2018-07-31T13:51:54Z | registry-derived |

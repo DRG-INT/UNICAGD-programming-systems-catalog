@@ -281,7 +281,7 @@ Records: `116`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SAP/ai-sdk | partial | 2026-09-13T21:33:33Z | [open](../records/sapjava-sap-ai-sdk-e8b4294c.md) |
-| SAP/cloud-sdk | partial | 2026-09-13T17:13:27Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
+| SAP/cloud-sdk | partial | 2026-09-14T01:56:47Z | [open](../records/sapjava-sap-cloud-sdk-dd66ae4d.md) |
 | souzamarcelo9/sap-contas-apagar-worker | partial | 2026-06-11T22:33:27Z | [open](../records/sapjava-souzamarcelo9-sap-contas-apagar-worker-e8774582.md) |
 
 ## Swift

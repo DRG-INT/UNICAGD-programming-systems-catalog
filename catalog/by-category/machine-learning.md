@@ -519,7 +519,7 @@ Records: `870`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-09-12T02:51:21Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-14T03:04:46Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-14T03:50:54Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-13T10:08:13Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -532,11 +532,11 @@ Records: `870`
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-13T06:25:16Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-14T03:20:13Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-14T04:15:58Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-14T03:04:12Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
-| open-webui/open-webui | partial | 2026-09-14T01:37:51Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
+| open-webui/open-webui | partial | 2026-09-14T03:34:36Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-14T00:24:18Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-14T02:42:39Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-14T04:07:05Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -546,7 +546,7 @@ Records: `870`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-14T03:22:20Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-14T04:17:34Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-13T21:24:39Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -700,7 +700,7 @@ Records: `870`
 | ngageoint/hootenanny | partial | 2026-09-08T19:02:28Z | [open](../records/maps-ngageoint-hootenanny-ef5b4528.md) |
 | openeventdata/mordecai | partial | 2021-09-17T11:54:38Z | [open](../records/maps-openeventdata-mordecai-3aa9fc97.md) |
 | openstreetmap/openstreetmap-website | partial | 2026-09-13T17:40:24Z | [open](../records/maps-openstreetmap-openstreetmap-website-e9c62754.md) |
-| samapriya/awesome-gee-community-datasets | partial | 2026-09-13T16:48:11Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
+| samapriya/awesome-gee-community-datasets | partial | 2026-09-14T02:21:47Z | [open](../records/maps-samapriya-awesome-gee-community-datasets-00fadfab.md) |
 | sylvainjule/kirby-locator | partial | 2025-08-06T23:10:42Z | [open](../records/maps-sylvainjule-kirby-locator-ad754d9e.md) |
 | w3reality/three-geo | unknown | github_search_does_not_include_release_date | [open](../records/maps-w3reality-three-geo-ccdac8ff.md) |
 
@@ -1027,12 +1027,12 @@ Records: `870`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 6over3/zeroperl | partial | 2026-04-13T23:55:21Z | [open](../records/webassembly-6over3-zeroperl-3159856c.md) |
-| AvaloniaUI/Avalonia | partial | 2026-09-12T06:38:04Z | [open](../records/webassembly-avaloniaui-avalonia-9d4e002e.md) |
-| container2wasm/container2wasm | partial | 2026-09-09T02:33:00Z | [open](../records/webassembly-container2wasm-container2wasm-e88db7f4.md) |
+| AvaloniaUI/Avalonia | partial | 2026-09-14T03:56:46Z | [open](../records/webassembly-avaloniaui-avalonia-9d4e002e.md) |
+| container2wasm/container2wasm | partial | 2026-09-14T02:32:48Z | [open](../records/webassembly-container2wasm-container2wasm-e88db7f4.md) |
 | containerd/runwasi | partial | 2026-09-14T00:31:16Z | [open](../records/webassembly-containerd-runwasi-89bfe7e6.md) |
 | Emscripten/HTML Integration Tips (2017) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-emscripten-html-integration-tips-2017-6038eda8.md) |
 | gxchain/gxb-core | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-gxchain-gxb-core-f1f189c6.md) |
-| kane50613/takumi | partial | 2026-09-12T18:29:14Z | [open](../records/webassembly-kane50613-takumi-e34f28cb.md) |
+| kane50613/takumi | partial | 2026-09-13T19:59:43Z | [open](../records/webassembly-kane50613-takumi-e34f28cb.md) |
 | Megabit/Blazorise | partial | 2026-09-11T08:44:25Z | [open](../records/webassembly-megabit-blazorise-7828a636.md) |
 | multivactech/MultiVAC | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-multivactech-multivac-259ed6fc.md) |
 | shanlusun/blockchain | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-shanlusun-blockchain-88bfe92c.md) |

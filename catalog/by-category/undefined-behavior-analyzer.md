@@ -1768,7 +1768,7 @@ Records: `1668`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | artichoke/artichoke | partial | 2025-11-03T02:43:08Z | [open](../records/webassembly-artichoke-artichoke-7b7d01c0.md) |
-| cncf/landscape | partial | 2026-09-11T22:59:05Z | [open](../records/webassembly-cncf-landscape-9846f9fa.md) |
+| cncf/landscape | partial | 2026-09-13T13:12:39Z | [open](../records/webassembly-cncf-landscape-9846f9fa.md) |
 | deislabs/containerd-wasm-shims | partial | 2024-06-21T22:44:04Z | [open](../records/webassembly-deislabs-containerd-wasm-shims-81ef9764.md) |
 | GitHub | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-github-2fedb258.md) |
 | johnthagen/min-sized-rust | partial | 2025-10-03T10:20:49Z | [open](../records/webassembly-johnthagen-min-sized-rust-99ad1257.md) |
@@ -1776,7 +1776,7 @@ Records: `1668`
 | meshery/meshery | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-meshery-meshery-7b46f863.md) |
 | radzenhq/radzen-blazor | partial | 2026-09-12T08:28:22Z | [open](../records/webassembly-radzenhq-radzen-blazor-9ec846fe.md) |
 | rollup/rollup-plugin-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rollup-rollup-plugin-wasm-0bbe45cd.md) |
-| ruby/ruby.wasm | partial | 2026-09-13T01:29:58Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
+| ruby/ruby.wasm | partial | 2026-09-14T01:24:30Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
 | taubyte/tau | partial | 2026-08-16T20:19:56Z | [open](../records/webassembly-taubyte-tau-7d97265b.md) |
 | therecipe/qt | partial | 2024-03-04T15:58:37Z | [open](../records/webassembly-therecipe-qt-fd9f7ce6.md) |
 
@@ -1832,7 +1832,7 @@ Records: `1668`
 | KelvinJin/AnimatedCollectionViewLayout | partial | 2020-09-20T07:09:55Z | [open](../records/cocoa-kelvinjin-animatedcollectionviewlayout-427b1c8f.md) |
 | macmade/GitHubUpdates | partial | 2026-07-17T07:37:29Z | [open](../records/cocoa-macmade-githubupdates-e05a7458.md) |
 | subethaedit/SubEthaEdit | partial | 2025-11-09T15:30:33Z | [open](../records/cocoa-subethaedit-subethaedit-a17dc346.md) |
-| tbxark/TKRubberIndicator | partial | 2024-08-21T09:11:19Z | [open](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) |
+| tbxark/TKRubberIndicator | partial | 2026-09-14T03:24:01Z | [open](../records/cocoa-tbxark-tkrubberindicator-51feff82.md) |
 | XCDYouTubeKit | 2.15.2 | 2020-12-08T20:28:58Z | [open](../records/cocoa-xcdyoutubekit-06b9c2a1.md) |
 
 ## Databases

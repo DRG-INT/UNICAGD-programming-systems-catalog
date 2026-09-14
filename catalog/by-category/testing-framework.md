@@ -883,7 +883,7 @@ Records: `653`
 | benbjohnson/litestream | partial | 2026-09-11T13:53:53Z | [open](../records/databases-benbjohnson-litestream-d7da8b84.md) |
 | datopian/r2-bucket-uploader | partial | 2025-04-19T05:32:39Z | [open](../records/databases-datopian-r2-bucket-uploader-a0c1456a.md) |
 | dominikhei/Local-Data-LakeHouse | partial | 2023-09-02T20:04:35Z | [open](../records/databases-dominikhei-local-data-lakehouse-4f8f71d9.md) |
-| invertase/react-native-firebase | partial | 2026-09-11T14:40:53Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
+| invertase/react-native-firebase | partial | 2026-09-14T03:45:35Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
 | netdata/netdata | partial | 2026-09-14T00:24:49Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |

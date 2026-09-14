@@ -442,7 +442,7 @@ Records: `983`
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/maps-mevdschee-php-crud-api-00034805.md) |
 | osm2pgsql-dev/osm2pgsql | partial | 2026-09-10T21:09:53Z | [open](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) |
 | PostGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-postgis-05acffcb.md) |
-| postgis/postgis | partial | 2026-09-11T09:40:25Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
+| postgis/postgis | partial | 2026-09-14T01:39:28Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
 | RediSearch/RediSearch | partial | 2026-09-13T22:23:25Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
 | thanglequoc/vietnamese-provinces-database | partial | 2026-09-13T08:41:30Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | unknown | github_search_does_not_include_release_date | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) |
@@ -753,7 +753,7 @@ Records: `983`
 | gluesql/gluesql | partial | 2026-09-06T13:20:52Z | [open](../records/webassembly-gluesql-gluesql-a50e8231.md) |
 | kuzudb/kuzu | partial | 2025-10-10T15:34:00Z | [open](../records/webassembly-kuzudb-kuzu-82a50b44.md) |
 | liam-hq/liam | partial | 2026-09-13T21:18:46Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
-| obi1kenobi/trustfall | partial | 2026-09-12T04:42:47Z | [open](../records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
+| obi1kenobi/trustfall | partial | 2026-09-14T03:53:42Z | [open](../records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
 | sql-js/sql.js | partial | 2026-08-14T18:15:39Z | [open](../records/webassembly-sql-js-sql-js-33b2be89.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/webassembly-tursodatabase-libsql-4c64b1cc.md) |
 
@@ -834,7 +834,7 @@ Records: `983`
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
 | citusdata/citus | partial | 2026-09-11T22:58:48Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
-| clockworklabs/SpacetimeDB | partial | 2026-09-14T01:19:32Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| clockworklabs/SpacetimeDB | partial | 2026-09-14T04:14:00Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
 | Cloudflare R2 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-r2-ad4ae9ea.md) |
 | CockroachDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cockroachdb-edd34bb8.md) |
@@ -1096,7 +1096,7 @@ Records: `983`
 | surrealdb/surrealdb | partial | 2026-09-07T09:08:38Z | [open](../records/databases-surrealdb-surrealdb-9ffe9792.md) |
 | symisc/unqlite | partial | 2026-09-05T07:32:26Z | [open](../records/databases-symisc-unqlite-1ec3a767.md) |
 | tatut/specql | partial | 2024-09-20T10:19:35Z | [open](../records/databases-tatut-specql-c2efa1a7.md) |
-| teableio/teable | partial | 2026-09-14T01:10:05Z | [open](../records/databases-teableio-teable-de9860e1.md) |
+| teableio/teable | partial | 2026-09-14T04:05:04Z | [open](../records/databases-teableio-teable-de9860e1.md) |
 | Tencent/wcdb | partial | 2026-04-10T11:50:30Z | [open](../records/databases-tencent-wcdb-5041db9d.md) |
 | tensorchord/pgvecto.rs | partial | 2025-02-26T14:11:43Z | [open](../records/databases-tensorchord-pgvecto-rs-b33836fc.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/databases-the-vibe-company-quivr-58a307c7.md) |

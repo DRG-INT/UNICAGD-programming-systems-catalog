@@ -316,7 +316,7 @@ Records: `183`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aliasvault/aliasvault | partial | 2026-09-12T16:48:38Z | [open](../records/webassembly-aliasvault-aliasvault-b78c4235.md) |
+| aliasvault/aliasvault | partial | 2026-09-13T20:35:50Z | [open](../records/webassembly-aliasvault-aliasvault-b78c4235.md) |
 | jungomi/xxhash-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-jungomi-xxhash-wasm-8e6c0c5e.md) |
 
 ## Swift

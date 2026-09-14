@@ -179,8 +179,8 @@ Records: `67`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| copy/v86 | partial | 2026-09-03T02:09:41Z | [open](../records/webassembly-copy-v86-c7d092c3.md) |
-| mlua-rs/mlua | partial | 2026-09-07T21:34:38Z | [open](../records/webassembly-mlua-rs-mlua-a4a5b409.md) |
+| copy/v86 | partial | 2026-09-14T00:15:13Z | [open](../records/webassembly-copy-v86-c7d092c3.md) |
+| mlua-rs/mlua | partial | 2026-09-13T23:33:42Z | [open](../records/webassembly-mlua-rs-mlua-a4a5b409.md) |
 
 ## Swift
 

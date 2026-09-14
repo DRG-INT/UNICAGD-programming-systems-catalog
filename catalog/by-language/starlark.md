@@ -85,7 +85,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ethpandaops/ethereum-package](../records/starlark-ethpandaops-ethereum-package-9da742d9.md) | partial | 2026-09-08T13:41:00Z | registry-derived |
+| [ethpandaops/ethereum-package](../records/starlark-ethpandaops-ethereum-package-9da742d9.md) | partial | 2026-09-14T03:24:15Z | registry-derived |
 
 ### Interpreter Runtime
 
