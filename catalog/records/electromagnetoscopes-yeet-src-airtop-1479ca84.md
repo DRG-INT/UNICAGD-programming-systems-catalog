@@ -1,0 +1,103 @@
+# yeet-src/airtop
+
+## Navigation
+
+[Catalog index](../index.md) · [Language: Electromagnetoscopes](../by-language/electromagnetoscopes.md) · [Category: Cli](../by-category/cli.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
+
+<!-- robots.txt: compliant -->
+<!-- canonical: https://github.com/yeet-src/airtop -->
+<!-- crawl-delay: 10 -->
+
+## Identity
+
+| Field | Value |
+| --- | --- |
+| Language branch | Electromagnetoscopes |
+| Category | Cli |
+| Source type | registry_expansion |
+| Verification | registry-derived |
+| Canonical URL | [https://github.com/yeet-src/airtop](https://github.com/yeet-src/airtop) |
+| Source record ids | github_search_electromagnetoscopes-2b9a72c83e44a9 |
+
+## System Engineer Summary
+
+htop for the airwaves — a live 802.11 (Wi-Fi) RF dashboard in your terminal
+
+## Operational Role
+
+For a systems engineer, yeet-src/airtop belongs in the Electromagnetoscopes inventory as part of
+ecosystem capability mapping, dependency review, release awareness, and operational fit assessment.
+
+## Release Intelligence
+
+| Channel | Status | Version | Date | Source | Reason |
+| --- | --- | --- | --- | --- | --- |
+| stable | partial |  | 2026-08-31T16:53:20Z | gh search repos topic:rf stars:>50 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
+
+## License And Use Alert
+
+| Field | Value |
+| --- | --- |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+
+## Engineering Notes
+
+- Treat category as `cli` unless a later verified source gives a better classification.
+- Keep provenance attached when merging duplicate identities; source evidence is not disposable.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
+
+## Provenance
+
+<details>
+<summary><strong>Provenance Details</strong> (click to expand)</summary>
+
+| Kind | Status | Date | Detail |
+| --- | --- | --- | --- |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:rf stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+
+</details>
+
+## Evidence
+
+<details open>
+<summary><strong>Evidence Records</strong> (click to collapse)</summary>
+
+Evidence records merged into this identity: `1`.
+
+- `github_search_electromagnetoscopes-2b9a72c83e44a9` from `github_search_electromagnetoscopes` as `registry_expansion`
+
+</details>
+
+## Related Records
+
+| Name | Category | Page |
+| --- | --- | --- |
+| bjarneo/cliamp | Cli | [open](electromagnetoscopes-bjarneo-cliamp-fe896688.md) |
+| dpnkrpl/radio-active | Cli | [open](electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) |
+| geo-tp/ESP32-Bit-Pirate | Cli | [open](electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) |
+| ha7ilm/csdr | Cli | [open](electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) |
+| jafrado/magdec | Cli | [open](electromagnetoscopes-jafrado-magdec-863f75e9.md) |
+
+## Category Index
+
+[Api Abi Checker (238)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Benchmarking (210)](../by-category/benchmarking.md) · [Build System (1044)](../by-category/build-system.md) · **[Cli (604)](../by-category/cli.md)** · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (126)](../by-category/community-reference.md) · [Compiler (180)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
+[Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1729)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1519)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6165)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (561)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (408)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (683)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (653)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (318)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1670)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (107)](../by-category/utility-library.md) · [Visualization Gui (651)](../by-category/visualization-gui.md) · [Web Framework (496)](../by-category/web-framework.md)

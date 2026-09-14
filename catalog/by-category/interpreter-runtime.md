@@ -9,22 +9,22 @@ Records: `290`
 ## Category Index
 
 [Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1043)](build-system.md) · [Cli (603)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (604)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
+[Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · **[Interpreter Runtime (290)](interpreter-runtime.md)** · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6165)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (683)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (653)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1668)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Undefined Behavior Analyzer (1670)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -191,7 +191,7 @@ Records: `290`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| asdf-vm/asdf | partial | 2026-09-03T13:48:57Z | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
+| asdf-vm/asdf | unknown | not_a_go_module_path | [open](../records/go-asdf-vm-asdf-7c8e1c48.md) |
 | github.com/btc-vision/btc-runtime | v1.10.6 | 2026-08-30T12:53:01.50741Z | [open](../records/go-github-com-btc-vision-btc-runtime-5ca52916.md) |
 | github.com/btc-vision/op-vm | v0.3.8 | 2026-08-30T16:32:47.097658Z | [open](../records/go-github-com-btc-vision-op-vm-0f62577b.md) |
 | github.com/esotericsoftware/spine-runtimes | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-esotericsoftware-spine-runtimes-c9525803.md) |
@@ -269,7 +269,7 @@ Records: `290`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Relintai/texture_packer | partial | 2023-05-28T05:14:13Z | [open](../records/assets-relintai-texture-packer-35690114.md) |
-| SOF3/include-flate | partial | 2026-09-08T05:12:22Z | [open](../records/assets-sof3-include-flate-7e9f140c.md) |
+| SOF3/include-flate | partial | 2026-09-14T02:45:08Z | [open](../records/assets-sof3-include-flate-7e9f140c.md) |
 | vypdev/stringcare-android | partial | 2026-03-19T23:07:41Z | [open](../records/assets-vypdev-stringcare-android-addbb923.md) |
 
 ## Maps
@@ -430,7 +430,7 @@ Records: `290`
 | google/highway | partial | 2026-09-11T18:56:42Z | [open](../records/webassembly-google-highway-0f405ea0.md) |
 | hemashushu/practice-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-hemashushu-practice-wasm-af9b64ef.md) |
 | kanaka/mal | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kanaka-mal-bd74d373.md) |
-| konsoletyper/teavm | partial | 2026-09-11T17:59:22Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
+| konsoletyper/teavm | partial | 2026-09-13T16:51:49Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
 | leaningtech/webvm | partial | 2026-08-27T13:53:21Z | [open](../records/webassembly-leaningtech-webvm-e3518757.md) |
 | libraries/pywasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-libraries-pywasm-371c9f97.md) |
 | lifthrasiir/wah | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lifthrasiir-wah-6064c64b.md) |
@@ -448,10 +448,10 @@ Records: `290`
 | Samsung/walrus | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-samsung-walrus-1892cda8.md) |
 | unoplatform/uno | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-unoplatform-uno-9db0f4f0.md) |
 | wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wamr-webassembly-micro-runtime-wamr-is-an-aot-jit-interpreter-focusing-on-small-footprint-358da7f6.md) |
-| wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-10T23:31:49Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
+| wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-14T05:31:19Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
 | wasm3/wasm3 | partial | 2026-09-14T00:19:47Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
-| WasmEdge/WasmEdge | partial | 2026-09-14T02:09:40Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
+| WasmEdge/WasmEdge | partial | 2026-09-14T04:39:52Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmerio/wasmer-go | partial | 2025-02-01T18:39:34Z | [open](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |
 | wasmerio/wasmer-python | partial | 2023-09-17T14:48:07Z | [open](../records/webassembly-wasmerio-wasmer-python-5f08abff.md) |
