@@ -12,19 +12,19 @@ Records: `141`
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · **[Configuration (141)](configuration.md)** · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (69)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1730)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1522)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6174)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1246)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
+[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C++23
 
@@ -139,7 +139,7 @@ Records: `141`
 | --- | --- | --- | --- |
 | app_settings | 9.0.0 | 2026-08-16T23:32:09.389664Z | [open](../records/dart-app-settings-349b8e3c.md) |
 | csv | 8.0.0 | 2026-03-19T07:43:20.342449Z | [open](../records/dart-csv-ced97579.md) |
-| firebase_remote_config | 6.6.0 | 2026-08-24T13:41:26.512958Z | [open](../records/dart-firebase-remote-config-e1fb45c5.md) |
+| firebase_remote_config | 6.7.0 | 2026-09-14T13:33:18.441709Z | [open](../records/dart-firebase-remote-config-e1fb45c5.md) |
 | flutter_dotenv | 6.0.1 | 2026-04-21T02:20:23.599772Z | [open](../records/dart-flutter-dotenv-532a6d01.md) |
 | open_settings_plus | 0.5.1 | 2026-09-01T03:06:00.905698Z | [open](../records/dart-open-settings-plus-4bea84df.md) |
 | super_text_layout | 0.1.22 | 2026-09-09T20:27:39.773991Z | [open](../records/dart-super-text-layout-7230b32d.md) |

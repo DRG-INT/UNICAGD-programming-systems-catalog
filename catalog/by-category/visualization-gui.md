@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `651`
+Records: `652`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `651`
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (69)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1730)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1522)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6174)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1246)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · **[Visualization Gui (651)](visualization-gui.md)** · [Web Framework (497)](web-framework.md)
+[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (652)](visualization-gui.md)** · [Web Framework (497)](web-framework.md)
 
 ## C++23
 
@@ -153,6 +153,7 @@ Records: `651`
 | AntClassify | 0.2.3 | 2026-09-03 19:50:02 UTC | [open](../records/r-antclassify-2aaaab03.md) |
 | autograph | 1.2.3 | 2026-09-09 05:20:30 UTC | [open](../records/r-autograph-5a30a6ee.md) |
 | autoplotly | 0.1.7 | 2026-08-22 15:10:52 UTC | [open](../records/r-autoplotly-172c221d.md) |
+| AutoViz | 1.0.0 | 2026-09-14 14:50:02 UTC | [open](../records/r-autoviz-8e304d97.md) |
 | baseballr | 2.0.0 | 2026-08-26 21:50:02 UTC | [open](../records/r-baseballr-cc568f06.md) |
 | bayesplot | 1.16.0 | 2026-08-25 07:00:09 UTC | [open](../records/r-bayesplot-dfac9320.md) |
 | biopalette | 0.2.2 | 2026-09-02 12:10:02 UTC | [open](../records/r-biopalette-b123d8b5.md) |
@@ -312,10 +313,10 @@ Records: `651`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -639,10 +640,10 @@ Records: `651`
 | dwhinham/mt32-pi | partial | 2025-02-04T22:46:21Z | [open](../records/audio-dwhinham-mt32-pi-7a87163b.md) |
 | jatinchowdhury18/Bad-Circuit-Modelling | partial | 2020-12-08T20:46:46Z | [open](../records/audio-jatinchowdhury18-bad-circuit-modelling-c65762b2.md) |
 | jatinchowdhury18/KlonCentaur | partial | 2021-09-30T04:26:33Z | [open](../records/audio-jatinchowdhury18-kloncentaur-2ceba457.md) |
-| Lake1059/FFmpegFreeUI | partial | 2026-09-13T13:25:38Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
+| Lake1059/FFmpegFreeUI | partial | 2026-09-14T13:54:07Z | [open](../records/audio-lake1059-ffmpegfreeui-be2fb128.md) |
 | monomadic/dd-core | partial | 2019-01-14T07:21:52Z | [open](../records/audio-monomadic-dd-core-a1124514.md) |
 | pierreguillot/Camomile | partial | 2024-02-26T10:06:47Z | [open](../records/audio-pierreguillot-camomile-eeeac032.md) |
-| pschatzmann/arduino-audio-tools | partial | 2026-09-14T12:35:42Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
+| pschatzmann/arduino-audio-tools | partial | 2026-09-14T13:43:28Z | [open](../records/audio-pschatzmann-arduino-audio-tools-c537729a.md) |
 | QVbDev/quantumVerb | partial | 2018-04-11T17:24:17Z | [open](../records/audio-qvbdev-quantumverb-59e9d065.md) |
 | rsadsb/adsb_deku | partial | 2026-01-04T16:18:33Z | [open](../records/audio-rsadsb-adsb-deku-8c9a3700.md) |
 | sp-nitech/SPTK | partial | 2026-08-25T13:37:51Z | [open](../records/audio-sp-nitech-sptk-7cf4cfee.md) |

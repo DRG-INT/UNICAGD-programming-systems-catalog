@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1730`
+Records: `1732`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `1730`
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (69)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · **[Filesystem Os (1730)](filesystem-os.md)** · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1522)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (489)](ffi-bindings.md) · **[Filesystem Os (1732)](filesystem-os.md)** · [Formatter (673)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1523)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6174)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6176)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1246)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
+[Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C++23
 
@@ -412,6 +412,7 @@ Records: `1730`
 | inferencer | 0.2.0 | 2026-08-04 06:50:02 UTC | [open](../records/r-inferencer-3ab0fbbc.md) |
 | jiebaRS | 0.3.0 | 2026-08-26 11:40:02 UTC | [open](../records/r-jiebars-c83af6de.md) |
 | knitr | 1.52 | 2026-09-06 19:10:02 UTC | [open](../records/r-knitr-697ca8de.md) |
+| koopman.dmd | 0.2.2 | 2026-09-14 15:20:02 UTC | [open](../records/r-koopman-dmd-2348369f.md) |
 | lavinteract | 0.5.3 | 2026-08-21 05:42:24 UTC | [open](../records/r-lavinteract-b13e459b.md) |
 | linkagg | 0.1.0 | 2026-09-09 12:00:02 UTC | [open](../records/r-linkagg-4f07504a.md) |
 | mboost | 2.9-14 | 2026-09-06 19:00:02 UTC | [open](../records/r-mboost-b0990d76.md) |
@@ -454,6 +455,7 @@ Records: `1730`
 | ulrb | 0.1.9 | 2026-08-21 05:40:10 UTC | [open](../records/r-ulrb-23cef998.md) |
 | VizModules | 0.4.0 | 2026-08-28 20:50:02 UTC | [open](../records/r-vizmodules-ca136fd6.md) |
 | vprint | 1.4 | 2026-09-08 17:00:02 UTC | [open](../records/r-vprint-67ae89ef.md) |
+| xplaineff | 0.1.0 | 2026-09-14 15:00:02 UTC | [open](../records/r-xplaineff-17a7d7bc.md) |
 | xpose.xtras | 0.2.2 | 2026-09-01 10:10:03 UTC | [open](../records/r-xpose-xtras-bb40722d.md) |
 
 ## Haskell
@@ -533,7 +535,7 @@ Records: `1730`
 | decimal | 3.2.6 | 2026-07-28T20:45:05.599035Z | [open](../records/dart-decimal-702c7499.md) |
 | file_picker | 13.0.0 | 2026-09-14T07:35:07.990144Z | [open](../records/dart-file-picker-09b00b4c.md) |
 | file_saver | 0.4.0 | 2026-05-10T19:05:12.021646Z | [open](../records/dart-file-saver-af793c1e.md) |
-| firebase_messaging | 16.6.0 | 2026-08-24T13:41:52.500498Z | [open](../records/dart-firebase-messaging-eb0d3a3d.md) |
+| firebase_messaging | 16.7.0 | 2026-09-14T13:33:28.283613Z | [open](../records/dart-firebase-messaging-eb0d3a3d.md) |
 | fluentui_system_icons | 1.1.273 | 2025-01-31T19:35:58.322881Z | [open](../records/dart-fluentui-system-icons-f520bb45.md) |
 | flutter_background_geolocation | 5.7.0 | 2026-09-04T15:37:35.482183Z | [open](../records/dart-flutter-background-geolocation-688e364d.md) |
 | flutter_gemma | 1.7.2 | 2026-09-06T06:54:53.445318Z | [open](../records/dart-flutter-gemma-9a6dbd9b.md) |
@@ -597,13 +599,13 @@ Records: `1730`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | partial | 2026-09-10T17:17:50Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
-| koss-null/FuncFrog | unknown | not_a_go_module_path | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
+| m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | partial | 2026-09-14T16:13:35Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -625,7 +627,7 @@ Records: `1730`
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-14T03:35:49Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-14T15:54:49Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1017,14 +1019,14 @@ Records: `1730`
 | demul/extrinsic2pyramid | partial | 2025-02-17T06:43:36Z | [open](../records/space-maps-demul-extrinsic2pyramid-3922b529.md) |
 | dixieflatline76/Spice | partial | 2026-08-18T20:25:46Z | [open](../records/space-maps-dixieflatline76-spice-800b944f.md) |
 | fernandoviton/hohmann-atlas | partial | 2026-04-11T18:44:33Z | [open](../records/space-maps-fernandoviton-hohmann-atlas-5bb11ceb.md) |
-| hannorein/rebound | partial | 2026-09-11T22:28:11Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
+| hannorein/rebound | partial | 2026-09-14T14:09:07Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
 | idsc-frazzoli/owl | partial | 2021-02-24T07:21:29Z | [open](../records/space-maps-idsc-frazzoli-owl-02449d38.md) |
 | Jacob-creator-2/Solar-system | partial | 2026-01-21T21:31:37Z | [open](../records/space-maps-jacob-creator-2-solar-system-83809dec.md) |
 | JoeyDelp/JoSIM | partial | 2025-12-19T09:06:38Z | [open](../records/space-maps-joeydelp-josim-e0fd6fb1.md) |
 | JosePabloTec/NASA-SOJOURNER-Mapping-Motion-Planning | partial | 2026-01-25T08:40:35Z | [open](../records/space-maps-josepablotec-nasa-sojourner-mapping-motion-planning-c360a632.md) |
 | JouleCai/geospacelab | partial | 2026-06-30T07:28:01Z | [open](../records/space-maps-joulecai-geospacelab-4066a81a.md) |
 | kensyo-lab/my-physics-script | partial | 2026-03-14T04:42:27Z | [open](../records/space-maps-kensyo-lab-my-physics-script-eaa0acca.md) |
-| kpobrien/JosephsonCircuits.jl | partial | 2026-09-13T12:10:32Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
+| kpobrien/JosephsonCircuits.jl | partial | 2026-09-14T14:50:00Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
 | kumarprabhakaransaravanakumar-wq/terra-prospect | partial | 2026-06-15T01:37:13Z | [open](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) |
 | mtickle/space-game | partial | 2026-08-21T10:36:59Z | [open](../records/space-maps-mtickle-space-game-790526f7.md) |
 | natashabatalha/picaso | partial | 2026-08-28T23:55:30Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |
@@ -1253,7 +1255,7 @@ Records: `1730`
 | DropSnorz/OwlPlug | partial | 2026-09-07T21:10:05Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
-| HEnquist/camilladsp | partial | 2026-09-07T14:50:04Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
+| HEnquist/camilladsp | partial | 2026-09-14T16:15:57Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-13T09:54:45Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
