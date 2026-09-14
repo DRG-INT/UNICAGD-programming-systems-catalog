@@ -145,7 +145,7 @@ Records: `99`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| langfuse/langfuse | partial | 2026-09-14T08:18:57Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
+| langfuse/langfuse | partial | 2026-09-14T09:20:42Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
 
 ## Computer Graphics Software
 

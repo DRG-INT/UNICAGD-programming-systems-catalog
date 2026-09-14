@@ -552,10 +552,10 @@ Records: `606`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-14T07:54:23Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-14T09:05:53Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-14T08:20:38Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-14T09:21:45Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -667,7 +667,7 @@ Records: `606`
 | rawnly/splash-cli | partial | 2026-05-23T21:42:43Z | [open](../records/photography-rawnly-splash-cli-1dd2a2b8.md) |
 | TheZoraiz/ascii-image-converter | partial | 2024-04-14T19:34:21Z | [open](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) |
 | wszqkzqk/live-photo-conv | partial | 2026-09-04T08:38:55Z | [open](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) |
-| yurijmikhalevich/rclip | partial | 2026-09-14T05:49:03Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
+| yurijmikhalevich/rclip | partial | 2026-09-14T08:32:06Z | [open](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) |
 
 ## Radars
 

@@ -639,7 +639,7 @@ Records: `1245`
 | GopeedLab/gopeed | partial | 2026-09-14T02:13:12Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-14T06:53:02Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
-| kovidgoyal/kitty | partial | 2026-09-14T03:51:53Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
+| kovidgoyal/kitty | partial | 2026-09-14T08:54:00Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
 | praetorian-inc/nerva | partial | 2026-09-11T15:33:24Z | [open](../records/go-praetorian-inc-nerva-a2849190.md) |
 | zincsearch/zincsearch | partial | 2026-09-14T03:36:03Z | [open](../records/go-zincsearch-zincsearch-189bf366.md) |
 
@@ -668,7 +668,7 @@ Records: `1245`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-13T17:43:09Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-14T08:16:04Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-14T08:41:12Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-14T08:12:08Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -1052,7 +1052,7 @@ Records: `1245`
 | avaneev/r8brain-free-src | partial | 2026-09-02T17:58:46Z | [open](../records/audio-avaneev-r8brain-free-src-df39a53a.md) |
 | calebzulawski/fourier | partial | 2023-04-28T21:48:36Z | [open](../records/audio-calebzulawski-fourier-0106a099.md) |
 | crmne/fastpotify | partial | 2026-09-14T06:23:47Z | [open](../records/audio-crmne-fastpotify-5b7c4014.md) |
-| crmne/spotifast | partial | 2026-09-14T07:07:57Z | [open](../records/audio-crmne-spotifast-a5140e34.md) |
+| crmne/spotifast | partial | 2026-09-14T08:51:37Z | [open](../records/audio-crmne-spotifast-a5140e34.md) |
 | FoxNoseTech/diarize | partial | 2026-05-06T10:03:41Z | [open](../records/audio-foxnosetech-diarize-711eaff7.md) |
 | Gencaster/gencaster | partial | 2024-05-27T15:06:55Z | [open](../records/audio-gencaster-gencaster-2edf7a6e.md) |
 | huggingface/distil-whisper | partial | 2025-01-08T10:09:47Z | [open](../records/audio-huggingface-distil-whisper-4612ba97.md) |
@@ -1128,7 +1128,7 @@ Records: `1245`
 | adrn/gala | partial | 2026-09-08T12:47:47Z | [open](../records/telescopes-adrn-gala-6a3e8fbd.md) |
 | AllskyTeam/allsky | partial | 2026-09-14T00:38:52Z | [open](../records/telescopes-allskyteam-allsky-a37843a6.md) |
 | amusecode/amuse | partial | 2026-07-15T15:48:16Z | [open](../records/telescopes-amusecode-amuse-e9459e7a.md) |
-| art-den/astra_lite | partial | 2026-09-14T03:44:45Z | [open](../records/telescopes-art-den-astra-lite-8f947ea9.md) |
+| art-den/astra_lite | partial | 2026-09-14T08:29:54Z | [open](../records/telescopes-art-den-astra-lite-8f947ea9.md) |
 | astrolabsoftware/spark-fits | partial | 2023-04-12T06:06:50Z | [open](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-09-07T16:51:31Z | [open](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) |
 | astropy/astroquery | partial | 2026-09-04T03:39:09Z | [open](../records/telescopes-astropy-astroquery-218a1107.md) |
@@ -1174,7 +1174,7 @@ Records: `1245`
 | eta077/astro-rs | partial | 2026-06-22T06:22:11Z | [open](../records/telescopes-eta077-astro-rs-95d1a561.md) |
 | exoplanet-dev/exoplanet | partial | 2026-08-31T20:24:22Z | [open](../records/telescopes-exoplanet-dev-exoplanet-37c8d025.md) |
 | Finalfantasykid/AstraStack | partial | 2026-02-01T19:58:45Z | [open](../records/telescopes-finalfantasykid-astrastack-66fe0f8a.md) |
-| gammapy/gammapy | partial | 2026-09-10T21:42:50Z | [open](../records/telescopes-gammapy-gammapy-7129fa62.md) |
+| gammapy/gammapy | partial | 2026-09-14T06:51:37Z | [open](../records/telescopes-gammapy-gammapy-7129fa62.md) |
 | giancarloerra/APD | partial | 2026-08-21T10:59:15Z | [open](../records/telescopes-giancarloerra-apd-cb3a761d.md) |
 | GuLinux/AstroPhoto-Plus | partial | 2022-07-20T03:28:42Z | [open](../records/telescopes-gulinux-astrophoto-plus-89ed315b.md) |
 | gwastro/PyCBC-Tutorials | partial | 2026-09-04T10:15:35Z | [open](../records/telescopes-gwastro-pycbc-tutorials-a79b24b2.md) |

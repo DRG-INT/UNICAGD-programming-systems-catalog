@@ -39,9 +39,9 @@ code review, style consistency, and automation-friendly editing.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Other |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

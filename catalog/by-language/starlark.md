@@ -38,7 +38,7 @@ Records: `69`
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-14T00:31:19Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
-| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-13T23:07:16Z | registry-derived |
+| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-14T09:22:12Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-11T17:13:45Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-13T19:39:24Z | registry-derived |
@@ -48,11 +48,11 @@ Records: `69`
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
 | [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-10T16:38:19Z | registry-derived |
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
-| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-12T13:23:56Z | registry-derived |
+| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-14T08:43:15Z | registry-derived |
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
 | [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-13T20:02:53Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |
-| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-14T01:14:44Z | registry-derived |
+| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-14T08:58:12Z | registry-derived |
 | [jin/awesome-bazel](../records/starlark-jin-awesome-bazel-fd38a6d9.md) | partial | 2024-11-13T07:46:30Z | registry-derived |
 | [line/rules_apple_line](../records/starlark-line-rules-apple-line-d48892df.md) | partial | 2023-03-20T22:34:01Z | registry-derived |
 | [maxmcd/bramble](../records/starlark-maxmcd-bramble-bcb99fb7.md) | partial | 2023-03-29T14:47:53Z | registry-derived |

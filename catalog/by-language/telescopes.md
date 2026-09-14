@@ -33,7 +33,7 @@ Records: `272`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [avarakin/AstroPiMaker4](../records/telescopes-avarakin-astropimaker4-f79e5cbf.md) | partial | 2023-05-07T02:00:10Z | registry-derived |
-| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-09T08:40:35Z | registry-derived |
+| [OpenSpace/OpenSpace](../records/telescopes-openspace-openspace-9cf8076b.md) | partial | 2026-09-14T09:21:36Z | registry-derived |
 | [p7ayfu77/astro-csbdeep](../records/telescopes-p7ayfu77-astro-csbdeep-eff55526.md) | partial | 2024-09-28T21:28:25Z | registry-derived |
 | [Shatur/neovim-cmake](../records/telescopes-shatur-neovim-cmake-ad8d2155.md) | partial | 2022-09-10T14:58:46Z | registry-derived |
 
@@ -185,7 +185,7 @@ Records: `272`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-14T05:37:11Z | registry-derived |
+| [ad-si/Woxi](../records/telescopes-ad-si-woxi-8a8c02e7.md) | partial | 2026-09-14T08:48:24Z | registry-derived |
 | [Avimitin/nvim](../records/telescopes-avimitin-nvim-96de9a1e.md) | partial | 2026-07-28T05:10:02Z | registry-derived |
 | [gnudatalanguage/gdl](../records/telescopes-gnudatalanguage-gdl-37cda6a5.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
 | [indigo-astronomy/indigo](../records/telescopes-indigo-astronomy-indigo-31817c1e.md) | partial | 2026-09-09T18:43:09Z | registry-derived |
@@ -234,7 +234,7 @@ Records: `272`
 | [adrn/gala](../records/telescopes-adrn-gala-6a3e8fbd.md) | partial | 2026-09-08T12:47:47Z | registry-derived |
 | [AllskyTeam/allsky](../records/telescopes-allskyteam-allsky-a37843a6.md) | partial | 2026-09-14T00:38:52Z | registry-derived |
 | [amusecode/amuse](../records/telescopes-amusecode-amuse-e9459e7a.md) | partial | 2026-07-15T15:48:16Z | registry-derived |
-| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-14T03:44:45Z | registry-derived |
+| [art-den/astra_lite](../records/telescopes-art-den-astra-lite-8f947ea9.md) | partial | 2026-09-14T08:29:54Z | registry-derived |
 | [astrolabsoftware/spark-fits](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) | partial | 2023-04-12T06:06:50Z | registry-derived |
 | [astropy-learn/astropy-tutorials](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) | partial | 2026-09-07T16:51:31Z | registry-derived |
 | [astropy/astroquery](../records/telescopes-astropy-astroquery-218a1107.md) | partial | 2026-09-04T03:39:09Z | registry-derived |
@@ -280,7 +280,7 @@ Records: `272`
 | [eta077/astro-rs](../records/telescopes-eta077-astro-rs-95d1a561.md) | partial | 2026-06-22T06:22:11Z | registry-derived |
 | [exoplanet-dev/exoplanet](../records/telescopes-exoplanet-dev-exoplanet-37c8d025.md) | partial | 2026-08-31T20:24:22Z | registry-derived |
 | [Finalfantasykid/AstraStack](../records/telescopes-finalfantasykid-astrastack-66fe0f8a.md) | partial | 2026-02-01T19:58:45Z | registry-derived |
-| [gammapy/gammapy](../records/telescopes-gammapy-gammapy-7129fa62.md) | partial | 2026-09-10T21:42:50Z | registry-derived |
+| [gammapy/gammapy](../records/telescopes-gammapy-gammapy-7129fa62.md) | partial | 2026-09-14T06:51:37Z | registry-derived |
 | [giancarloerra/APD](../records/telescopes-giancarloerra-apd-cb3a761d.md) | partial | 2026-08-21T10:59:15Z | registry-derived |
 | [GuLinux/AstroPhoto-Plus](../records/telescopes-gulinux-astrophoto-plus-89ed315b.md) | partial | 2022-07-20T03:28:42Z | registry-derived |
 | [gwastro/PyCBC-Tutorials](../records/telescopes-gwastro-pycbc-tutorials-a79b24b2.md) | partial | 2026-09-04T10:15:35Z | registry-derived |

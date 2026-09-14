@@ -39,9 +39,9 @@ scheduling, I/O throughput, cancellation, and latency management.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | GPL (>= 3); Apache-2.0; https://www.nuget.org/packages/Serilog.Settings.Configuration/10.0.1/license |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

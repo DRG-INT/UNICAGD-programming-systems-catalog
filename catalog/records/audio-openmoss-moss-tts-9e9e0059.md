@@ -40,9 +40,9 @@ metrics, auditability, tracing, and incident response.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""}; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

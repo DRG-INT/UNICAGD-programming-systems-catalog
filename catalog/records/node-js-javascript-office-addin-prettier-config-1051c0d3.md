@@ -40,7 +40,7 @@ part of low-noise code review, style consistency, and automation-friendly editin
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Eclipse Public License 2.0; https://api.github.com/licenses/epl-2.0 |
+| Evidence | GPL (>= 3) |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

@@ -79,7 +79,7 @@ Records: `600`
 | [rawnly/splash-cli](../records/photography-rawnly-splash-cli-1dd2a2b8.md) | partial | 2026-05-23T21:42:43Z | registry-derived |
 | [TheZoraiz/ascii-image-converter](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) | partial | 2024-04-14T19:34:21Z | registry-derived |
 | [wszqkzqk/live-photo-conv](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) | partial | 2026-09-04T08:38:55Z | registry-derived |
-| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-14T05:49:03Z | registry-derived |
+| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-14T08:32:06Z | registry-derived |
 
 ### Community Reference
 

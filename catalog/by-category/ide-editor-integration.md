@@ -695,10 +695,10 @@ Records: `1519`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T07:59:31Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T05:05:16Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T09:04:56Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T06:54:35Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-14T06:22:16Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T09:17:57Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-14T09:14:02Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-14T08:05:34Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -987,7 +987,7 @@ Records: `1519`
 | shamadee/web-dsp | partial | 2017-06-05T05:36:36Z | [open](../records/effects-shamadee-web-dsp-a3bd15e7.md) |
 | sideeffects/SideFXLabs | partial | 2026-09-14T04:01:23Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
 | Souloist/audio-effects | partial | 2016-04-13T03:06:04Z | [open](../records/effects-souloist-audio-effects-d98c525b.md) |
-| supriya-project/supriya | partial | 2026-09-10T21:51:20Z | [open](../records/effects-supriya-project-supriya-d075f962.md) |
+| supriya-project/supriya | partial | 2026-09-14T02:26:57Z | [open](../records/effects-supriya-project-supriya-d075f962.md) |
 | taco-group/SparkVSR | partial | 2026-08-03T04:15:33Z | [open](../records/effects-taco-group-sparkvsr-646d164d.md) |
 | timschneeb/RootlessJamesDSP | partial | 2026-08-31T04:26:24Z | [open](../records/effects-timschneeb-rootlessjamesdsp-1af2e0d4.md) |
 | Visko-Platform/VEFX-Bench | partial | 2026-05-16T13:47:37Z | [open](../records/effects-visko-platform-vefx-bench-45e16f5e.md) |
@@ -1001,7 +1001,7 @@ Records: `1519`
 | --- | --- | --- | --- |
 | 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/audio-777arc-pysdr-e43c1cf4.md) |
 | alyssaxuu/motionity | partial | 2022-09-12T02:06:50Z | [open](../records/audio-alyssaxuu-motionity-3c2fb703.md) |
-| audacity/audacity | partial | 2026-09-11T10:10:07Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
+| audacity/audacity | partial | 2026-09-14T09:14:31Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
 | bitgapp/eqMac | partial | 2026-09-13T16:50:02Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
@@ -1106,7 +1106,7 @@ Records: `1519`
 | ianramzy/decentralized-video-chat | partial | 2020-11-21T01:54:51Z | [open](../records/video-ianramzy-decentralized-video-chat-738bde44.md) |
 | iawia002/lux | partial | 2026-03-29T18:18:56Z | [open](../records/video-iawia002-lux-e7456e22.md) |
 | Ichunjo/vardefunc | partial | 2026-09-10T23:14:18Z | [open](../records/video-ichunjo-vardefunc-35151cce.md) |
-| iina/iina | partial | 2026-09-14T08:03:10Z | [open](../records/video-iina-iina-8432935b.md) |
+| iina/iina | partial | 2026-09-14T08:30:20Z | [open](../records/video-iina-iina-8432935b.md) |
 | imputnet/cobalt | partial | 2026-04-06T11:59:56Z | [open](../records/video-imputnet-cobalt-e93bf65d.md) |
 | insidegui/WWDC | partial | 2026-06-17T20:11:54Z | [open](../records/video-insidegui-wwdc-29ce13c6.md) |
 | intel/libva | partial | 2026-07-31T09:06:23Z | [open](../records/video-intel-libva-f6047e5d.md) |
@@ -1188,7 +1188,7 @@ Records: `1519`
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
 | rezoo/movis | partial | 2024-05-25T14:57:04Z | [open](../records/video-rezoo-movis-44b6ab9b.md) |
-| roboflow/supervision | partial | 2026-09-14T06:53:02Z | [open](../records/video-roboflow-supervision-d2860bef.md) |
+| roboflow/supervision | partial | 2026-09-14T09:21:06Z | [open](../records/video-roboflow-supervision-d2860bef.md) |
 | ruanjx/VideoLab | partial | 2022-10-31T11:48:35Z | [open](../records/video-ruanjx-videolab-b746cf80.md) |
 | s60sc/ESP32-CAM_MJPEG2SD | partial | 2026-08-29T01:04:03Z | [open](../records/video-s60sc-esp32-cam-mjpeg2sd-8d8f86e0.md) |
 | sachinchoolur/lightGallery | partial | 2026-09-11T07:40:03Z | [open](../records/video-sachinchoolur-lightgallery-231948f3.md) |

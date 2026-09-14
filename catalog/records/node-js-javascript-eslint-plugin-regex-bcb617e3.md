@@ -39,9 +39,9 @@ static feedback, style policy, defect prevention, and local/CI quality gates.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Mixed license review |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

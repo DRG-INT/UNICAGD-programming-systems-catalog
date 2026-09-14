@@ -514,7 +514,7 @@ Records: `871`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
-| bojieli/ai-agent-book | partial | 2026-09-14T06:37:01Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
+| bojieli/ai-agent-book | partial | 2026-09-14T09:11:47Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
 | browser-use/browser-use | partial | 2026-09-13T20:04:16Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
@@ -524,20 +524,20 @@ Records: `871`
 | HKUDS/Vibe-Trading | partial | 2026-09-13T10:08:13Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-14T07:16:36Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-14T08:34:46Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-14T07:48:29Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | partial | 2026-09-14T08:19:34Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| langchain-ai/langchain | partial | 2026-09-14T08:34:31Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-14T06:30:10Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-11T01:01:33Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-14T07:51:01Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| NousResearch/hermes-agent | partial | 2026-09-14T09:22:02Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
 | onyx-dot-app/onyx | partial | 2026-09-14T06:42:48Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-14T03:34:36Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-14T00:24:18Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-14T08:22:23Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-14T09:02:31Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-11T18:09:01Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -547,7 +547,7 @@ Records: `871`
 | TauricResearch/TradingAgents | partial | 2026-09-07T22:51:54Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-14T08:21:02Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-14T09:16:22Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-13T21:24:39Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -757,7 +757,7 @@ Records: `871`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | abnormalbrain/bevy_particle_systems | partial | 2024-12-02T02:42:13Z | [open](../records/effects-abnormalbrain-bevy-particle-systems-1d9d59bd.md) |
-| afterimage-lab/Rainform | partial | 2026-08-24T01:09:34Z | [open](../records/effects-afterimage-lab-rainform-39857d48.md) |
+| afterimage-lab/Rainform | partial | 2026-09-14T01:09:23Z | [open](../records/effects-afterimage-lab-rainform-39857d48.md) |
 | ampactor-labs/sonido | partial | 2026-07-31T01:13:57Z | [open](../records/effects-ampactor-labs-sonido-bed68043.md) |
 | bazz1tv/snestracker | partial | 2022-05-02T00:44:18Z | [open](../records/effects-bazz1tv-snestracker-e6975267.md) |
 | city41/particle.js | partial | 2017-06-03T19:12:52Z | [open](../records/effects-city41-particle-js-e976a724.md) |
@@ -778,7 +778,7 @@ Records: `871`
 | neilmendoza/ofxGpuParticles | partial | 2023-08-18T17:02:35Z | [open](../records/effects-neilmendoza-ofxgpuparticles-01f540be.md) |
 | Papproni/stm_audio_board_v3_dsp_board | partial | 2024-04-28T21:16:38Z | [open](../records/effects-papproni-stm-audio-board-v3-dsp-board-30c9848d.md) |
 | rajajain08/particles_flutter | partial | 2026-08-29T08:55:42Z | [open](../records/effects-rajajain08-particles-flutter-2925862d.md) |
-| rern/rAudio | partial | 2026-09-13T04:49:39Z | [open](../records/effects-rern-raudio-0853e696.md) |
+| rern/rAudio | partial | 2026-09-14T06:02:57Z | [open](../records/effects-rern-raudio-0853e696.md) |
 | rumlenordstroem/audio-effects | partial | 2023-05-20T13:22:42Z | [open](../records/effects-rumlenordstroem-audio-effects-637861a4.md) |
 | vfxai/vfx-datasets | partial | 2018-08-20T03:59:12Z | [open](../records/effects-vfxai-vfx-datasets-59e85e2e.md) |
 | ybouane/liquidglass | partial | 2026-09-06T19:24:34Z | [open](../records/effects-ybouane-liquidglass-a6dc3202.md) |
@@ -795,7 +795,7 @@ Records: `871`
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
 | GuitarML/FunBox | partial | 2026-07-10T15:59:36Z | [open](../records/audio-guitarml-funbox-6cee70c5.md) |
 | haoheliu/voicefixer_main | partial | 2024-01-13T00:38:35Z | [open](../records/audio-haoheliu-voicefixer-main-daefc20f.md) |
-| huggingface/transformers | partial | 2026-09-14T08:10:19Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| huggingface/transformers | partial | 2026-09-14T09:15:45Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | partial | 2025-06-29T02:06:27Z | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | partial | 2026-04-13T22:04:14Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | jefflai108/pytorch-kaldi-neural-speaker-embeddings | partial | 2020-01-27T22:29:25Z | [open](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) |

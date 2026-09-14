@@ -143,7 +143,7 @@ Records: `210`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-14T07:39:35Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-14T09:13:35Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Computer Graphics Software
 

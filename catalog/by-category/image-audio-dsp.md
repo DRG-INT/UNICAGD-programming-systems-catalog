@@ -282,8 +282,8 @@ Records: `451`
 | SuomiKP31/JUCE_VST3_Mixer | partial | 2025-03-17T22:48:38Z | [open](../records/effects-suomikp31-juce-vst3-mixer-7284b1f7.md) |
 | SuperKogito/pydiogment | partial | 2023-07-06T21:48:22Z | [open](../records/effects-superkogito-pydiogment-ee1478f0.md) |
 | SuperKogito/spafe | partial | 2025-03-20T16:16:12Z | [open](../records/effects-superkogito-spafe-ee3f7bf4.md) |
-| SynthstromAudible/DelugeFirmware | partial | 2026-09-13T17:52:34Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
-| thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
+| SynthstromAudible/DelugeFirmware | partial | 2026-09-14T01:06:59Z | [open](../records/effects-synthstromaudible-delugefirmware-0ce74020.md) |
+| thesofproject/sof | partial | 2026-09-14T09:13:50Z | [open](../records/effects-thesofproject-sof-2250f8c2.md) |
 | tholman/image-nodes | partial | 2017-11-23T05:02:10Z | [open](../records/effects-tholman-image-nodes-87dfe942.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/effects-tiagolr-ripplerx-f333e2b5.md) |
 | xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/effects-xdsopl-robot36-6c1d230b.md) |
@@ -405,7 +405,7 @@ Records: `451`
 | surge-synthesizer/surge | partial | 2026-09-13T17:23:19Z | [open](../records/audio-surge-synthesizer-surge-87b5aeea.md) |
 | swasun/VQ-VAE-Speech | partial | 2019-08-13T08:18:37Z | [open](../records/audio-swasun-vq-vae-speech-68327a4e.md) |
 | SynthstromAudible/DelugeFirmware | partial | 2026-09-14T01:06:59Z | [open](../records/audio-synthstromaudible-delugefirmware-4c834ea8.md) |
-| thesofproject/sof | partial | 2026-09-10T16:18:07Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
+| thesofproject/sof | partial | 2026-09-14T09:13:50Z | [open](../records/audio-thesofproject-sof-05fedbf2.md) |
 | tiagolr/ripplerx | partial | 2026-08-13T12:36:29Z | [open](../records/audio-tiagolr-ripplerx-36b38906.md) |
 | unevens/Curvessor | partial | 2026-05-27T04:30:13Z | [open](../records/audio-unevens-curvessor-1be4a246.md) |
 | unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |

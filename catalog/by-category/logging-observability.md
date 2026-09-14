@@ -365,7 +365,7 @@ Records: `561`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-11T17:47:49Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-14T09:19:16Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 

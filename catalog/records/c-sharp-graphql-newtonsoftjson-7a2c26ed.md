@@ -40,7 +40,7 @@ formats, persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/GraphQL.NewtonsoftJson/8.8.5/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Creative Commons Attribution Share Alike 4.0 International; https://api.github.com/licenses/cc-by-sa-4.0 |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
