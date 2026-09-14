@@ -15,7 +15,7 @@ Records: `327`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1525)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
@@ -359,7 +359,7 @@ Records: `327`
 | [robamu-org/tmtccmd](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) | partial | 2026-01-14T11:22:06Z | registry-derived |
 | [robintw/Py6S](../records/satcom-satellites-robintw-py6s-607064f7.md) | partial | 2025-10-22T23:09:34Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-14T12:00:00Z | registry-derived |
+| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-14T18:33:55Z | registry-derived |
 | [satnogs/gr-satnogs](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) | partial | 2018-12-17T14:53:47Z | registry-derived |
 | [TLeconte/acarsdec](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
 | [trishmapow/rf-jam-replay](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) | partial | 2019-06-10T22:09:28Z | registry-derived |

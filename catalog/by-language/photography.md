@@ -15,7 +15,7 @@ Records: `600`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1525)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
@@ -52,7 +52,7 @@ Records: `600`
 | [evanoberholster/imagemeta](../records/photography-evanoberholster-imagemeta-c9cdf7ac.md) | partial | 2026-09-13T20:43:54Z | registry-derived |
 | [lovell/sharp](../records/photography-lovell-sharp-2ca40e3a.md) | partial | 2026-09-13T18:58:12Z | registry-derived |
 | [margelo/react-native-fast-tflite](../records/photography-margelo-react-native-fast-tflite-26269249.md) | partial | 2026-08-28T20:49:05Z | registry-derived |
-| [margelo/react-native-vision-camera](../records/photography-margelo-react-native-vision-camera-77b61cb8.md) | partial | 2026-09-10T15:44:23Z | registry-derived |
+| [margelo/react-native-vision-camera](../records/photography-margelo-react-native-vision-camera-77b61cb8.md) | partial | 2026-09-14T11:25:30Z | registry-derived |
 | [teslamotors/react-native-camera-kit](../records/photography-teslamotors-react-native-camera-kit-22df3292.md) | partial | 2026-08-03T22:12:29Z | registry-derived |
 
 ### Build System
@@ -79,7 +79,7 @@ Records: `600`
 | [rawnly/splash-cli](../records/photography-rawnly-splash-cli-1dd2a2b8.md) | partial | 2026-05-23T21:42:43Z | registry-derived |
 | [TheZoraiz/ascii-image-converter](../records/photography-thezoraiz-ascii-image-converter-b3f9e40a.md) | partial | 2024-04-14T19:34:21Z | registry-derived |
 | [wszqkzqk/live-photo-conv](../records/photography-wszqkzqk-live-photo-conv-27ae8acd.md) | partial | 2026-09-04T08:38:55Z | registry-derived |
-| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-14T08:32:06Z | registry-derived |
+| [yurijmikhalevich/rclip](../records/photography-yurijmikhalevich-rclip-b2be5c3a.md) | partial | 2026-09-14T11:43:04Z | registry-derived |
 
 ### Community Reference
 
@@ -183,7 +183,7 @@ Records: `600`
 | [aslost/pixtale](../records/photography-aslost-pixtale-df702412.md) | partial | 2026-09-01T14:07:49Z | registry-derived |
 | [Awalz/SwiftyCam](../records/photography-awalz-swiftycam-8b6b12a3.md) | partial | 2022-02-04T10:24:45Z | registry-derived |
 | [awxkee/avif.swift](../records/photography-awxkee-avif-swift-72b07b3d.md) | partial | 2026-04-29T10:30:31Z | registry-derived |
-| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-13T21:52:02Z | registry-derived |
+| [Bitpainter75/FerrumPix](../records/photography-bitpainter75-ferrumpix-cd4d3242.md) | partial | 2026-09-14T16:30:51Z | registry-derived |
 | [carina-studio/PixelViewer](../records/photography-carina-studio-pixelviewer-70d11532.md) | partial | 2026-09-11T13:20:57Z | registry-derived |
 | [carlospuenteg/File-Injector](../records/photography-carlospuenteg-file-injector-2533177f.md) | partial | 2022-11-18T00:20:21Z | registry-derived |
 | [carlospuenteg/Photomosaic-Creator](../records/photography-carlospuenteg-photomosaic-creator-b57e7ad4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
@@ -200,7 +200,7 @@ Records: `600`
 | [GEEKiDoS/bitblt-hdr](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) | partial | 2026-05-14T04:13:50Z | registry-derived |
 | [gergelysanta/PhotoMiner](../records/photography-gergelysanta-photominer-7d3deb74.md) | partial | 2025-02-09T13:08:04Z | registry-derived |
 | [HaishinKit/HaishinKit.swift](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) | partial | 2026-09-13T00:02:43Z | registry-derived |
-| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-09-13T09:20:40Z | registry-derived |
+| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-09-14T15:36:18Z | registry-derived |
 | [hulk66/timeline](../records/photography-hulk66-timeline-edac6d56.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [indulgeIn/YBImageBrowser](../records/photography-indulgein-ybimagebrowser-e5a55591.md) | partial | 2023-11-24T10:57:58Z | registry-derived |
 | [jdisho/Papr](../records/photography-jdisho-papr-d97d54b2.md) | partial | 2020-09-17T16:39:35Z | registry-derived |
@@ -214,7 +214,7 @@ Records: `600`
 | [Neko3000/Monotone](../records/photography-neko3000-monotone-6bff49ae.md) | partial | 2022-09-25T08:34:38Z | registry-derived |
 | [niklasr22/BrightIntosh](../records/photography-niklasr22-brightintosh-a739a56f.md) | partial | 2026-09-05T16:22:09Z | registry-derived |
 | [open-product-data/digital-cameras](../records/photography-open-product-data-digital-cameras-6d723530.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-14T08:16:48Z | registry-derived |
+| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-14T19:11:45Z | registry-derived |
 | [PicPeak/picpeak](../records/photography-picpeak-picpeak-d6957174.md) | partial | 2026-09-07T18:11:01Z | registry-derived |
 | [pmndrs/postprocessing](../records/photography-pmndrs-postprocessing-70a67349.md) | partial | 2026-09-12T20:14:21Z | registry-derived |
 | [Po-Hsun-Su/pytorch-ssim](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) | partial | 2024-02-22T09:28:51Z | registry-derived |
@@ -236,7 +236,7 @@ Records: `600`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-13T20:59:02Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-14T16:10:05Z | registry-derived |
 | [ZSDM-HDR/Zero-Shot-Diffusion-HDR](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) | partial | 2025-08-25T07:36:28Z | registry-derived |
 
 ### Formatter
@@ -246,9 +246,9 @@ Records: `600`
 | [AcademySoftwareFoundation/OpenImageIO](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) | partial | 2026-09-13T05:27:31Z | registry-derived |
 | [AlenVelocity/wa-sticker-formatter](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) | partial | 2026-08-10T19:22:06Z | registry-derived |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-13T22:43:35Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-14T19:21:12Z | registry-derived |
 | [blakeblackshear/frigate-hass-integration](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) | partial | 2026-09-04T06:33:23Z | registry-derived |
-| [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-13T07:03:30Z | registry-derived |
+| [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-14T16:04:12Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
 | [exiftool/exiftool](../records/photography-exiftool-exiftool-c6310d37.md) | partial | 2026-05-27T16:45:01Z | registry-derived |
 | [fabian7593/MagicalCamera](../records/photography-fabian7593-magicalcamera-94d156a4.md) | partial | 2019-02-27T05:46:19Z | registry-derived |
@@ -259,7 +259,7 @@ Records: `600`
 | [ImageMagick/ImageMagick](../records/photography-imagemagick-imagemagick-21d650e1.md) | partial | 2026-09-14T00:06:05Z | registry-derived |
 | [jark006/JarkViewer](../records/photography-jark006-jarkviewer-384c10ce.md) | partial | 2026-06-30T18:46:05Z | registry-derived |
 | [jmathai/elodie](../records/photography-jmathai-elodie-960b91b7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [karimz1/imgcompress](../records/photography-karimz1-imgcompress-ec2fa997.md) | partial | 2026-09-13T19:50:24Z | registry-derived |
+| [karimz1/imgcompress](../records/photography-karimz1-imgcompress-ec2fa997.md) | partial | 2026-09-14T09:30:47Z | registry-derived |
 | [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-14T02:48:47Z | registry-derived |
 | [mdouchement/hdr](../records/photography-mdouchement-hdr-30201254.md) | partial | 2023-02-04T12:19:10Z | registry-derived |
 | [mz2/Carpaccio](../records/photography-mz2-carpaccio-47bb21ca.md) | partial | 2023-06-10T06:49:52Z | registry-derived |
@@ -337,7 +337,7 @@ Records: `600`
 | [panpf/sketch](../records/photography-panpf-sketch-813812e6.md) | partial | 2026-08-08T08:33:06Z | registry-derived |
 | [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-09-13T19:00:44Z | registry-derived |
 | [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-14T08:16:21Z | registry-derived |
+| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-14T19:20:34Z | registry-derived |
 | [piemonte/PBJVision](../records/photography-piemonte-pbjvision-040d75d4.md) | partial | 2021-03-03T06:14:45Z | registry-derived |
 | [pokeheadroom/RENDER96-HD-TEXTURE-PACK](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [qinjintian/qq-zone](../records/photography-qinjintian-qq-zone-4ca751a3.md) | partial | 2026-09-04T15:35:31Z | registry-derived |
@@ -374,7 +374,7 @@ Records: `600`
 | [aydinnyunus/exifLooter](../records/photography-aydinnyunus-exiflooter-d4ad4d7f.md) | partial | 2026-01-16T16:34:17Z | registry-derived |
 | [banterle/HDR_Toolbox](../records/photography-banterle-hdr-toolbox-7502cc31.md) | partial | 2026-09-11T13:10:36Z | registry-derived |
 | [BinomialLLC/basis_universal](../records/photography-binomialllc-basis-universal-7a53e558.md) | partial | 2026-09-01T04:08:12Z | registry-derived |
-| [BradenM/pydngconverter](../records/photography-bradenm-pydngconverter-8248d4d8.md) | partial | 2026-09-10T21:59:20Z | registry-derived |
+| [BradenM/pydngconverter](../records/photography-bradenm-pydngconverter-8248d4d8.md) | partial | 2026-09-14T18:10:32Z | registry-derived |
 | [Breakthrough/PySceneDetect](../records/photography-breakthrough-pyscenedetect-282c005c.md) | partial | 2026-09-12T01:59:08Z | registry-derived |
 | [C4NU/Paddie](../records/photography-c4nu-paddie-df004a86.md) | partial | 2026-09-07T04:14:18Z | registry-derived |
 | [catalyst-team/catalyst](../records/photography-catalyst-team-catalyst-b551d064.md) | partial | 2026-07-08T21:40:01Z | registry-derived |
@@ -489,7 +489,7 @@ Records: `600`
 | [cdcseacave/TinyEXIF](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) | partial | 2026-08-23T08:51:46Z | registry-derived |
 | [CJT2325/CameraView](../records/photography-cjt2325-cameraview-689639ed.md) | partial | 2019-06-18T13:42:24Z | registry-derived |
 | [colorjs/color-space](../records/photography-colorjs-color-space-61c0254c.md) | partial | 2026-08-21T14:16:27Z | registry-derived |
-| [commons-app/apps-android-commons](../records/photography-commons-app-apps-android-commons-ce212c3e.md) | partial | 2026-09-13T13:57:03Z | registry-derived |
+| [commons-app/apps-android-commons](../records/photography-commons-app-apps-android-commons-ce212c3e.md) | partial | 2026-09-14T12:00:37Z | registry-derived |
 | [crazycodeboy/TakePhoto](../records/photography-crazycodeboy-takephoto-a3e04a78.md) | partial | 2019-08-26T09:42:27Z | registry-derived |
 | [dearDreamWeb/camera-watermark](../records/photography-deardreamweb-camera-watermark-f0af2ad8.md) | partial | 2026-04-20T14:12:10Z | registry-derived |
 | [dorukkumkumoglu/optocamzero](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) | partial | 2026-08-16T08:16:43Z | registry-derived |
@@ -522,7 +522,7 @@ Records: `600`
 | [McNopper/EGL](../records/photography-mcnopper-egl-83a16f1c.md) | partial | 2026-08-01T18:15:48Z | registry-derived |
 | [meetqy/rao-pics](../records/photography-meetqy-rao-pics-057514e9.md) | partial | 2026-09-12T16:49:34Z | registry-derived |
 | [meiu/meiupic](../records/photography-meiu-meiupic-d61ca921.md) | partial | 2021-07-07T16:28:33Z | registry-derived |
-| [motioneye-project/motioneye](../records/photography-motioneye-project-motioneye-6759b14c.md) | partial | 2026-09-11T18:44:15Z | registry-derived |
+| [motioneye-project/motioneye](../records/photography-motioneye-project-motioneye-6759b14c.md) | partial | 2026-09-14T19:01:50Z | registry-derived |
 | [mustakshif/Asri](../records/photography-mustakshif-asri-d6fbc7e4.md) | partial | 2026-09-09T05:02:59Z | registry-derived |
 | [natural-harmonia-gropius/hdr-toys](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) | partial | 2026-09-13T14:27:03Z | registry-derived |
 | [NextLevel/NextLevel](../records/photography-nextlevel-nextlevel-f32b041f.md) | partial | 2026-06-08T04:57:05Z | registry-derived |
@@ -566,7 +566,7 @@ Records: `600`
 | [amd/mini-isp](../records/photography-amd-mini-isp-b6f8adc0.md) | partial | 2026-09-01T17:19:59Z | registry-derived |
 | [doom40k/photography-blog](../records/photography-doom40k-photography-blog-347adc8b.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [fakeyanss/Hexo-Album](../records/photography-fakeyanss-hexo-album-ca3a05d2.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [sambecker/exif-photo-blog](../records/photography-sambecker-exif-photo-blog-fea309fc.md) | partial | 2026-09-14T03:48:51Z | registry-derived |
+| [sambecker/exif-photo-blog](../records/photography-sambecker-exif-photo-blog-fea309fc.md) | partial | 2026-09-14T14:33:57Z | registry-derived |
 
 ### Machine Learning
 
@@ -576,7 +576,7 @@ Records: `600`
 | [afichet/openexr-viewer](../records/photography-afichet-openexr-viewer-4d7b742b.md) | partial | 2023-12-11T13:18:47Z | registry-derived |
 | [aiff22/PyNET-Bokeh](../records/photography-aiff22-pynet-bokeh-16cbc735.md) | partial | 2025-08-23T13:03:09Z | registry-derived |
 | [amusi/AI-Job-Notes](../records/photography-amusi-ai-job-notes-6f93e231.md) | partial | 2025-06-05T05:50:01Z | registry-derived |
-| [BestImageViewer/geeqie](../records/photography-bestimageviewer-geeqie-eed65f97.md) | partial | 2026-09-13T16:51:46Z | registry-derived |
+| [BestImageViewer/geeqie](../records/photography-bestimageviewer-geeqie-eed65f97.md) | partial | 2026-09-14T12:39:15Z | registry-derived |
 | [bhouston/hdrify](../records/photography-bhouston-hdrify-3fccdb03.md) | partial | 2026-07-09T16:04:29Z | registry-derived |
 | [coobird/thumbnailator](../records/photography-coobird-thumbnailator-dc6338d1.md) | partial | 2026-02-17T17:48:42Z | registry-derived |
 | [ermig1979/Simd](../records/photography-ermig1979-simd-8387acfa.md) | partial | 2026-09-11T16:39:30Z | registry-derived |
@@ -654,10 +654,10 @@ Records: `600`
 | [cshum/imagor](../records/photography-cshum-imagor-a7d7da1b.md) | partial | 2026-09-12T17:25:02Z | registry-derived |
 | [dmpop/pellicola](../records/photography-dmpop-pellicola-756cb6c8.md) | partial | 2025-05-27T11:09:48Z | registry-derived |
 | [h2non/imaginary](../records/photography-h2non-imaginary-36b02b58.md) | partial | 2025-11-08T19:49:48Z | registry-derived |
-| [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-14T02:23:44Z | registry-derived |
+| [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-14T18:38:32Z | registry-derived |
 | [iib0011/omni-tools](../records/photography-iib0011-omni-tools-25e339f6.md) | partial | 2026-08-17T19:00:25Z | registry-derived |
 | [imgproxy/imgproxy](../records/photography-imgproxy-imgproxy-fffb72aa.md) | partial | 2026-09-12T19:38:26Z | registry-derived |
-| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-11T08:50:55Z | registry-derived |
+| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-14T16:13:40Z | registry-derived |
 | [kydecker/astro-photo-grid](../records/photography-kydecker-astro-photo-grid-8e515209.md) | partial | 2026-08-11T01:32:56Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |
@@ -675,7 +675,7 @@ Records: `600`
 | [boltgolt/howdy](../records/photography-boltgolt-howdy-772dcbb3.md) | partial | 2025-07-29T10:07:27Z | registry-derived |
 | [deric/DaVinciResolve-metadata](../records/photography-deric-davinciresolve-metadata-8a13e074.md) | partial | 2025-10-13T08:04:47Z | registry-derived |
 | [marcinz606/NegPy](../records/photography-marcinz606-negpy-13e4113f.md) | partial | 2026-09-14T07:26:33Z | registry-derived |
-| [ramokz/phantom-camera](../records/photography-ramokz-phantom-camera-07b158cf.md) | partial | 2026-09-07T17:15:42Z | registry-derived |
+| [ramokz/phantom-camera](../records/photography-ramokz-phantom-camera-07b158cf.md) | partial | 2026-09-14T17:59:37Z | registry-derived |
 | [showmewebcam/showmewebcam](../records/photography-showmewebcam-showmewebcam-cd9dcd31.md) | partial | 2024-08-14T16:42:44Z | registry-derived |
 | [SpecialKO/SpecialK](../records/photography-specialko-specialk-d14b8655.md) | partial | 2026-09-09T03:41:20Z | registry-derived |
 | [terkelg/exifer](../records/photography-terkelg-exifer-00205149.md) | partial | 2020-01-08T14:43:26Z | registry-derived |

@@ -15,7 +15,7 @@ Records: `210`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
@@ -143,7 +143,7 @@ Records: `210`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| milvus-io/milvus | partial | 2026-09-14T17:57:36Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
+| milvus-io/milvus | partial | 2026-09-14T19:01:34Z | [open](../records/aim-s-milvus-io-milvus-54ee327d.md) |
 
 ## Computer Graphics Software
 
@@ -265,7 +265,7 @@ Records: `210`
 | evanoberholster/imagemeta | partial | 2026-09-13T20:43:54Z | [open](../records/photography-evanoberholster-imagemeta-c9cdf7ac.md) |
 | lovell/sharp | partial | 2026-09-13T18:58:12Z | [open](../records/photography-lovell-sharp-2ca40e3a.md) |
 | margelo/react-native-fast-tflite | partial | 2026-08-28T20:49:05Z | [open](../records/photography-margelo-react-native-fast-tflite-26269249.md) |
-| margelo/react-native-vision-camera | partial | 2026-09-10T15:44:23Z | [open](../records/photography-margelo-react-native-vision-camera-77b61cb8.md) |
+| margelo/react-native-vision-camera | partial | 2026-09-14T11:25:30Z | [open](../records/photography-margelo-react-native-vision-camera-77b61cb8.md) |
 | teslamotors/react-native-camera-kit | partial | 2026-08-03T22:12:29Z | [open](../records/photography-teslamotors-react-native-camera-kit-22df3292.md) |
 
 ## Microscopy

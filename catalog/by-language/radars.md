@@ -15,7 +15,7 @@ Records: `365`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (256)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (490)](../by-category/ffi-bindings.md) · [Filesystem Os (1732)](../by-category/filesystem-os.md) · [Formatter (673)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1525)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
@@ -118,7 +118,7 @@ Records: `365`
 | [ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3-](../records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) | partial | 2022-01-19T14:01:53Z | registry-derived |
 | [InSARdev/S1orbits](../records/radars-insardev-s1orbits-58fd1e55.md) | partial | 2026-09-11T08:55:57Z | registry-derived |
 | [insarlab/MintPy](../records/radars-insarlab-mintpy-762351b7.md) | partial | 2026-09-01T08:55:46Z | registry-derived |
-| [isce-framework/sweets](../records/radars-isce-framework-sweets-db6cf485.md) | partial | 2026-09-07T19:03:52Z | registry-derived |
+| [isce-framework/sweets](../records/radars-isce-framework-sweets-db6cf485.md) | partial | 2026-09-14T19:05:29Z | registry-derived |
 | [leggedrobotics/graph_msf](../records/radars-leggedrobotics-graph-msf-bd37606b.md) | partial | 2023-07-04T15:33:32Z | registry-derived |
 | [mrzamaniiii/Time-Domain-Back-Projection-Method](../records/radars-mrzamaniiii-time-domain-back-projection-method-df06b65d.md) | partial | 2026-04-10T08:24:37Z | registry-derived |
 | [Tkwer/RadarStream](../records/radars-tkwer-radarstream-6d38b9c9.md) | partial | 2026-09-03T18:03:30Z | registry-derived |
@@ -234,7 +234,7 @@ Records: `365`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-14T12:49:24Z | registry-derived |
+| [ashuttl/linecast](../records/radars-ashuttl-linecast-afb4bdb7.md) | partial | 2026-09-14T18:01:52Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [bellingcat/umbra-open-data-tracker](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) | partial | 2026-08-03T14:44:41Z | registry-derived |
 | [bgin/RF-EMT](../records/radars-bgin-rf-emt-6d16aa00.md) | partial | 2026-09-11T11:01:43Z | registry-derived |
@@ -275,7 +275,7 @@ Records: `365`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [isce-framework/snaphu-py](../records/radars-isce-framework-snaphu-py-9df19c3a.md) | partial | 2026-09-07T19:03:29Z | registry-derived |
+| [isce-framework/snaphu-py](../records/radars-isce-framework-snaphu-py-9df19c3a.md) | partial | 2026-09-14T19:04:20Z | registry-derived |
 | [vacationtracker/generic-webhook-to-eventbridge](../records/radars-vacationtracker-generic-webhook-to-eventbridge-a8b08cb6.md) | partial | 2023-06-01T17:43:23Z | registry-derived |
 
 ### Interpreter Runtime
@@ -351,7 +351,7 @@ Records: `365`
 | [Nouuu/Albion-Online-OpenRadar](../records/radars-nouuu-albion-online-openradar-04ea3acd.md) | partial | 2026-09-12T13:39:33Z | registry-derived |
 | [ntnu-arl/lidar_degeneracy_datasets](../records/radars-ntnu-arl-lidar-degeneracy-datasets-f90e3fc8.md) | partial | 2026-02-03T12:49:37Z | registry-derived |
 | [odhondt/eo_tools](../records/radars-odhondt-eo-tools-bf024141.md) | partial | 2026-09-08T10:11:18Z | registry-derived |
-| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-13T12:13:34Z | registry-derived |
+| [open-flight/openflight](../records/radars-open-flight-openflight-76c154cb.md) | partial | 2026-09-14T19:03:30Z | registry-derived |
 | [opencpn-radar-pi/radar_pi](../records/radars-opencpn-radar-pi-radar-pi-bfe54946.md) | partial | 2026-08-04T01:35:42Z | registry-derived |
 | [openradar/xradar](../records/radars-openradar-xradar-fcfe7f38.md) | partial | 2026-09-01T10:30:01Z | registry-derived |
 | [PatrickTUM/SEN12MS-CR-TS](../records/radars-patricktum-sen12ms-cr-ts-b82b98a6.md) | partial | 2024-01-23T17:51:20Z | registry-derived |

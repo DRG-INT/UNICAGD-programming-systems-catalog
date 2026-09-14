@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-14T18:25:57+00:00`
+Generated: `2026-09-14T19:22:08+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -21,7 +21,7 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Cryptography (183)](catalog/by-category/cryptography.md) · [Data Science (41)](catalog/by-category/data-science.md) · [Database Datastore (983)](catalog/by-category/database-datastore.md) · [Datetime (256)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (46)](catalog/by-category/debugger.md) · [Dependency Manager (110)](catalog/by-category/dependency-manager.md) · [Documentation (116)](catalog/by-category/documentation.md)
 [Embedded Hardware (70)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (490)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1732)](catalog/by-category/filesystem-os.md) · [Formatter (673)](catalog/by-category/formatter.md)
-[Framework (64)](catalog/by-category/framework.md) · [Fuzzer (67)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1524)](catalog/by-category/ide-editor-integration.md)
+[Framework (64)](catalog/by-category/framework.md) · [Fuzzer (67)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1525)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (291)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
 [Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1474)](catalog/by-category/language-specification.md) · [Library (6177)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (53)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (594)](catalog/by-category/logging-observability.md) · [Machine Learning (871)](catalog/by-category/machine-learning.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29352 |
+| Canonical identity pages | 29353 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 10998 |
-| Unknown stable release fields | 18354 |
-| Fetch errors recorded | 999 |
+| Unknown stable release fields | 18355 |
+| Fetch errors recorded | 1000 |
 | Target identity count | 24000 |
 
 ## Language Scope

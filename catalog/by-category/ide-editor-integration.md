@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1524`
+Records: `1525`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `1524`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1524)](ide-editor-integration.md)**
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1525)](ide-editor-integration.md)**
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
@@ -696,12 +696,12 @@ Records: `1524`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T16:43:28Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T18:56:20Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-14T12:55:58Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-14T18:11:25Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-14T18:04:47Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
-| upstash/context7 | partial | 2026-09-14T14:51:05Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
+| upstash/context7 | partial | 2026-09-14T18:33:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
 
 ## Computer Graphics Software
@@ -1300,7 +1300,7 @@ Records: `1524`
 | panpf/sketch | partial | 2026-08-08T08:33:06Z | [open](../records/photography-panpf-sketch-813812e6.md) |
 | PhotoFlare/photoflare | partial | 2026-09-13T19:00:44Z | [open](../records/photography-photoflare-photoflare-54d4deb9.md) |
 | photostructure/exiftool-vendored.js | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
-| PicPeak/picpeak | partial | 2026-09-14T08:16:21Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
+| PicPeak/picpeak | partial | 2026-09-14T19:20:34Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
 | piemonte/PBJVision | partial | 2021-03-03T06:14:45Z | [open](../records/photography-piemonte-pbjvision-040d75d4.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | unknown | github_search_does_not_include_release_date | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) |
 | qinjintian/qq-zone | partial | 2026-09-04T15:35:31Z | [open](../records/photography-qinjintian-qq-zone-4ca751a3.md) |
@@ -1347,6 +1347,7 @@ Records: `1524`
 | Allaman/emoji.nvim | partial | 2026-06-18T22:19:06Z | [open](../records/telescopes-allaman-emoji-nvim-992780a5.md) |
 | AlphaTechnolog/pywal.nvim | partial | 2022-11-03T20:32:20Z | [open](../records/telescopes-alphatechnolog-pywal-nvim-15fcecb4.md) |
 | archie-judd/telescope-words.nvim | partial | 2025-08-06T01:31:33Z | [open](../records/telescopes-archie-judd-telescope-words-nvim-225d2743.md) |
+| ashuttl/linecast | partial | 2026-09-14T18:01:52Z | [open](../records/telescopes-ashuttl-linecast-b8b9a5f5.md) |
 | axkirillov/easypick.nvim | partial | 2026-08-06T11:48:43Z | [open](../records/telescopes-axkirillov-easypick-nvim-8c09cea0.md) |
 | benfowler/telescope-luasnip.nvim | partial | 2024-12-14T04:26:31Z | [open](../records/telescopes-benfowler-telescope-luasnip-nvim-10f15a0d.md) |
 | cljoly/telescope-repo.nvim | partial | 2026-05-25T20:01:36Z | [open](../records/telescopes-cljoly-telescope-repo-nvim-9d2cb15e.md) |
@@ -1358,7 +1359,7 @@ Records: `1524`
 | davvid/telescope-git-grep.nvim | partial | 2025-12-09T06:32:22Z | [open](../records/telescopes-davvid-telescope-git-grep-nvim-293ec16a.md) |
 | dividebysandwich/LightningView | partial | 2026-09-09T16:54:11Z | [open](../records/telescopes-dividebysandwich-lightningview-0f2e3357.md) |
 | eckon/treesitter-current-functions | partial | 2023-08-23T18:56:37Z | [open](../records/telescopes-eckon-treesitter-current-functions-5a7e459d.md) |
-| ellisonleao/neovimfiles | partial | 2026-08-26T13:23:26Z | [open](../records/telescopes-ellisonleao-neovimfiles-a38f6921.md) |
+| ellisonleao/neovimfiles | partial | 2026-09-14T16:46:54Z | [open](../records/telescopes-ellisonleao-neovimfiles-a38f6921.md) |
 | guilhermec-costa/code-telescope | partial | 2026-05-31T17:35:41Z | [open](../records/telescopes-guilhermec-costa-code-telescope-939f113e.md) |
 | GustavoKatel/telescope-asynctasks.nvim | partial | 2022-04-09T19:59:25Z | [open](../records/telescopes-gustavokatel-telescope-asynctasks-nvim-ad6e6fbf.md) |
 | haxybaxy/search-preview | partial | 2026-09-13T05:31:33Z | [open](../records/telescopes-haxybaxy-search-preview-99f16a30.md) |
@@ -1406,7 +1407,7 @@ Records: `1524`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashuttl/linecast | partial | 2026-09-14T12:49:24Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
+| ashuttl/linecast | partial | 2026-09-14T18:01:52Z | [open](../records/radars-ashuttl-linecast-afb4bdb7.md) |
 | bellingcat/sar-interference-tracker | partial | 2022-02-23T13:57:03Z | [open](../records/radars-bellingcat-sar-interference-tracker-8efa36c7.md) |
 | bellingcat/umbra-open-data-tracker | partial | 2026-08-03T14:44:41Z | [open](../records/radars-bellingcat-umbra-open-data-tracker-b56dce91.md) |
 | bgin/RF-EMT | partial | 2026-09-11T11:01:43Z | [open](../records/radars-bgin-rf-emt-6d16aa00.md) |
@@ -1574,7 +1575,7 @@ Records: `1524`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-08T20:13:05Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-13T01:11:26Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-14T18:54:09Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

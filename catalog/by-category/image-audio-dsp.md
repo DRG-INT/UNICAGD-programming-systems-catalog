@@ -15,7 +15,7 @@ Records: `451`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 **[Image Audio Dsp (451)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
@@ -438,7 +438,7 @@ Records: `451`
 | aydinnyunus/exifLooter | partial | 2026-01-16T16:34:17Z | [open](../records/photography-aydinnyunus-exiflooter-d4ad4d7f.md) |
 | banterle/HDR_Toolbox | partial | 2026-09-11T13:10:36Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BinomialLLC/basis_universal | partial | 2026-09-01T04:08:12Z | [open](../records/photography-binomialllc-basis-universal-7a53e558.md) |
-| BradenM/pydngconverter | partial | 2026-09-10T21:59:20Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
+| BradenM/pydngconverter | partial | 2026-09-14T18:10:32Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
 | Breakthrough/PySceneDetect | partial | 2026-09-12T01:59:08Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | C4NU/Paddie | partial | 2026-09-07T04:14:18Z | [open](../records/photography-c4nu-paddie-df004a86.md) |
 | catalyst-team/catalyst | partial | 2026-07-08T21:40:01Z | [open](../records/photography-catalyst-team-catalyst-b551d064.md) |

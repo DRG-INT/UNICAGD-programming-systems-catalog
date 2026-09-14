@@ -15,7 +15,7 @@ Records: `256`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · **[Datetime (256)](datetime.md)**
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
@@ -362,7 +362,7 @@ Records: `256`
 | ibaiGorordo/AWR1843-Read-Data-Python-MMWAVE-SDK-3- | partial | 2022-01-19T14:01:53Z | [open](../records/radars-ibaigorordo-awr1843-read-data-python-mmwave-sdk-3-62fb498c.md) |
 | InSARdev/S1orbits | partial | 2026-09-11T08:55:57Z | [open](../records/radars-insardev-s1orbits-58fd1e55.md) |
 | insarlab/MintPy | partial | 2026-09-01T08:55:46Z | [open](../records/radars-insarlab-mintpy-762351b7.md) |
-| isce-framework/sweets | partial | 2026-09-07T19:03:52Z | [open](../records/radars-isce-framework-sweets-db6cf485.md) |
+| isce-framework/sweets | partial | 2026-09-14T19:05:29Z | [open](../records/radars-isce-framework-sweets-db6cf485.md) |
 | leggedrobotics/graph_msf | partial | 2023-07-04T15:33:32Z | [open](../records/radars-leggedrobotics-graph-msf-bd37606b.md) |
 | mrzamaniiii/Time-Domain-Back-Projection-Method | partial | 2026-04-10T08:24:37Z | [open](../records/radars-mrzamaniiii-time-domain-back-projection-method-df06b65d.md) |
 | Tkwer/RadarStream | partial | 2026-09-03T18:03:30Z | [open](../records/radars-tkwer-radarstream-6d38b9c9.md) |

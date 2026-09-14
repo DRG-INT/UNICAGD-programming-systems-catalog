@@ -15,7 +15,7 @@ Records: `1673`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (490)](ffi-bindings.md) · [Filesystem Os (1732)](filesystem-os.md) · [Formatter (673)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1524)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
@@ -1519,7 +1519,7 @@ Records: `1673`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | chanzuckerberg/napari-hub | partial | 2026-03-06T00:55:27Z | [open](../records/microscopy-chanzuckerberg-napari-hub-082ae11f.md) |
-| czbiohub-sf/iohub | partial | 2026-09-12T00:10:47Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
+| czbiohub-sf/iohub | partial | 2026-09-14T17:21:48Z | [open](../records/microscopy-czbiohub-sf-iohub-5a760ae0.md) |
 | imagingbook/imagingbook-public | partial | 2026-03-12T18:03:59Z | [open](../records/microscopy-imagingbook-imagingbook-public-35b63f87.md) |
 | JaneliaSciComp/fileglancer | partial | 2026-09-11T12:52:08Z | [open](../records/microscopy-janeliascicomp-fileglancer-a4aeb3db.md) |
 | mbalatsko/opencv-rolling-ball | partial | 2022-06-21T21:15:02Z | [open](../records/microscopy-mbalatsko-opencv-rolling-ball-64eeb75a.md) |
@@ -1592,7 +1592,7 @@ Records: `1673`
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/electromagnetoscopes-cjcliffe-cubicsdr-4d39607b.md) |
 | dabana/TEM_dash | partial | 2018-09-25T11:40:19Z | [open](../records/electromagnetoscopes-dabana-tem-dash-d58d5144.md) |
 | echristhuraj/CubeSatDetumblingSimulator | partial | 2023-01-18T10:41:00Z | [open](../records/electromagnetoscopes-echristhuraj-cubesatdetumblingsimulator-bb34a534.md) |
-| f4exb/sdrangel | partial | 2026-09-14T16:30:54Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
+| f4exb/sdrangel | partial | 2026-09-14T18:52:42Z | [open](../records/electromagnetoscopes-f4exb-sdrangel-2939271b.md) |
 | GeoBrain-Project/GeoBrain | partial | 2026-08-20T08:37:35Z | [open](../records/electromagnetoscopes-geobrain-project-geobrain-aeb85431.md) |
 | greatscottgadgets/ubertooth | partial | 2026-03-19T15:58:24Z | [open](../records/electromagnetoscopes-greatscottgadgets-ubertooth-28bac228.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-14T06:23:13Z | [open](../records/electromagnetoscopes-jvde-github-ais-catcher-3c8e2641.md) |
