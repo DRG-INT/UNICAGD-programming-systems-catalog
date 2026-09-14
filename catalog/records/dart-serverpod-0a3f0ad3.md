@@ -32,22 +32,22 @@ middleware policy, service structure, and deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.4.13 | 2026-08-28T02:02:39.222494Z | [https://pub.dev/api/packages/serverpod](https://pub.dev/api/packages/serverpod) |  |
-| preview | known | 4.0.0-rc.1 | 2026-08-28T03:14:21.958678Z | [https://pub.dev/api/packages/serverpod](https://pub.dev/api/packages/serverpod) |  |
+| stable | known | 4.0.0 | 2026-09-14T17:02:49.875017Z | [https://pub.dev/api/packages/serverpod](https://pub.dev/api/packages/serverpod) |  |
+| preview | known | 4.0.0-rc.2 | 2026-09-04T23:55:19.997174Z | [https://pub.dev/api/packages/serverpod](https://pub.dev/api/packages/serverpod) |  |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/serverpod` at `2026-09-02T00:28:55+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/serverpod` at `2026-09-14T23:18:05+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -57,7 +57,7 @@ middleware policy, service structure, and deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| pub_dev_completion_and_package_api | registry-derived | 2026-09-03 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-03", "status": "registry-derived"}` |
+| pub_dev_completion_and_package_api | registry-derived | 2026-09-14 | `{"kind": "pub_dev_completion_and_package_api", "retrieved": "2026-09-14", "status": "registry-derived"}` |
 
 </details>
 
@@ -98,7 +98,7 @@ Evidence records merged into this identity: `1`.
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6181)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (595)](../by-category/logging-observability.md) · [Machine Learning (872)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1097)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1248)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (145)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (409)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)

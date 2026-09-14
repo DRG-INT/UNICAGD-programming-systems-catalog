@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T22:23:06+00:00`
+Generated: `2026-09-14T23:19:26+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -17,7 +17,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6181)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (595)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1096)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1097)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1248)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (145)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (409)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (686)](by-category/static-analyzer.md)
@@ -29,7 +29,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 11012 |
-| Unknown stable release | 18357 |
+| Unknown stable release | 18358 |
 
 ## Newest Known Stable Metadata
 
@@ -41,6 +41,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 | chewie | Dart | Ide Editor Integration | 1.17.1 | 2026-09-14T21:23:52.740841Z | [open](records/dart-chewie-3ede5409.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.211.4 | 2026-09-14T20:51:43.052Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | ghc-typenats-bits | Haskell | Library | 0.1.0 | 2026-09-14T20:34:28Z | [open](records/haskell-ghc-typenats-bits-be1f1b7d.md) |
+| volume_controller | Dart | Library | 3.7.0 | 2026-09-14T19:45:27.891739Z | [open](records/dart-volume-controller-22f56c30.md) |
 | @logtape/testing | Node.js/JavaScript | Testing Framework | 2.2.8 | 2026-09-14T19:43:02.716Z | [open](records/node-js-javascript-logtape-testing-a3711ff5.md) |
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1132.0 | 2026-09-14T19:39:36.449Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.73.3 | 2026-09-14T19:36:21.009Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
@@ -48,6 +49,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.184.2 | 2026-09-14T19:21:56.169Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.184.2 | 2026-09-14T19:20:35.744Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | phino | Haskell | Library | 0.0.132 | 2026-09-14T19:15:57Z | [open](records/haskell-phino-0ffa79f2.md) |
+| speech_to_text | Dart | Filesystem Os | 7.5.0 | 2026-09-14T19:14:48.036781Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | node-red-contrib-oracledb-mod | Node.js/JavaScript | Database Datastore | 1.0.0 | 2026-09-14T18:41:31.786Z | [open](records/node-js-javascript-node-red-contrib-oracledb-mod-945fa78d.md) |
 | clap_complete | Rust | Cli | 4.6.10 | 2026-09-14T18:40:30.821537Z | [open](records/rust-clap-complete-57361877.md) |
 | clap | Rust | Parser Lexer Ast | 4.6.7 | 2026-09-14T18:40:28.474794Z | [open](records/rust-clap-7674fdaa.md) |
@@ -76,7 +78,9 @@ Generated: `2026-09-14T22:23:06+00:00`
 | @cubejs-backend/server | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.38 | 2026-09-14T17:33:51.676Z | [open](records/node-js-javascript-cubejs-backend-server-9616a19e.md) |
 | @cubejs-backend/postgres-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.38 | 2026-09-14T17:33:48.813Z | [open](records/node-js-javascript-cubejs-backend-postgres-driver-10c33dff.md) |
 | @cubejs-backend/duckdb-driver | Node.js/JavaScript | Undefined Behavior Analyzer | 1.7.38 | 2026-09-14T17:33:47.626Z | [open](records/node-js-javascript-cubejs-backend-duckdb-driver-01487aa6.md) |
+| scrollview_observer | Dart | Web Framework | 1.27.3 | 2026-09-14T17:06:14.311223Z | [open](records/dart-scrollview-observer-6ede0195.md) |
 | wide | Rust | Ide Editor Integration | 1.7.1 | 2026-09-14T17:06:02.853323Z | [open](records/rust-wide-98636ec6.md) |
+| serverpod | Dart | Web Framework | 4.0.0 | 2026-09-14T17:02:49.875017Z | [open](records/dart-serverpod-0a3f0ad3.md) |
 | @botpress/cli | Node.js/JavaScript | Cli | 7.1.4 | 2026-09-14T16:57:22.750Z | [open](records/node-js-javascript-botpress-cli-669f749d.md) |
 | @datadog/openfeature-node-server | Node.js/JavaScript | Ffi Bindings | 2.3.0 | 2026-09-14T16:55:15.680Z | [open](records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.28 | 2026-09-14T16:41:57.882Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
@@ -223,7 +227,6 @@ Generated: `2026-09-14T22:23:06+00:00`
 | hOpenPGP | Haskell | Library | 3.7.2 | 2026-09-13T18:04:23Z | [open](records/haskell-hopenpgp-dbd93565.md) |
 | archive | Dart | Formatter | 4.3.0 | 2026-09-13T17:42:33.821730Z | [open](records/dart-archive-707387f9.md) |
 | dhscanner-kbapi | Haskell | Static Analyzer | 1.0.7 | 2026-09-13T16:58:38Z | [open](records/haskell-dhscanner-kbapi-560b5666.md) |
-| scrollview_observer | Dart | Web Framework | 1.27.2 | 2026-09-13T16:20:47.124072Z | [open](records/dart-scrollview-observer-6ede0195.md) |
 | okf-cli | Haskell | Cli | 0.9.0.0 | 2026-09-13T15:37:30Z | [open](records/haskell-okf-cli-6db274d3.md) |
 | okf-core | Haskell | Library | 0.9.0.0 | 2026-09-13T15:28:53Z | [open](records/haskell-okf-core-e6ee8554.md) |
 | alice | Dart | Debugger | 1.2.0 | 2026-09-13T15:28:14.031304Z | [open](records/dart-alice-97eb81d3.md) |
@@ -282,9 +285,6 @@ Generated: `2026-09-14T22:23:06+00:00`
 | cystiSim | R | Library | 0.2.1 | 2026-09-13 20:00:02 UTC | [open](records/r-cystisim-0af0aa29.md) |
 | compIndexBuilder | R | Build System | 2.1.0 | 2026-09-13 18:40:02 UTC | [open](records/r-compindexbuilder-dd8a292d.md) |
 | dexisensitivity | R | Static Analyzer | 1.0.4 | 2026-09-13 17:30:02 UTC | [open](records/r-dexisensitivity-75615f88.md) |
-| stbl | R | Api Abi Checker | 0.5.0 | 2026-09-13 16:20:02 UTC | [open](records/r-stbl-be0c4636.md) |
-| calibrator | R | Library | 1.2-9 | 2026-09-13 15:40:02 UTC | [open](records/r-calibrator-39e05c33.md) |
-| historicalborrowlong | R | Library | 0.1.1 | 2026-09-13 15:30:02 UTC | [open](records/r-historicalborrowlong-9ea56226.md) |
 
 ## Unknown Reasons
 
@@ -294,7 +294,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
-| packagist_package_metadata_missing | 620 |
+| packagist_package_metadata_missing | 621 |
 | github_search_does_not_include_release_date | 437 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
@@ -314,6 +314,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| speech_to_text | Dart | preview | 7.6.0-beta.1 | 2026-09-14T20:26:09.794166Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | flutter_appauth | Dart | preview | 13.0.0-dev.1 | 2026-09-13T08:04:49.302492Z | [open](records/dart-flutter-appauth-5be855e9.md) |
 | flutter_rust_bridge | Dart | preview | 2.14.0-beta.2 | 2026-09-12T01:28:35.247741Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | widgetbook | Dart | preview | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [open](records/dart-widgetbook-2f3d1f04.md) |
@@ -323,6 +324,7 @@ Generated: `2026-09-14T22:23:06+00:00`
 | sembast | Dart | preview | 3.8.10-2 | 2026-09-10T14:14:06.868652Z | [open](records/dart-sembast-fa8ed2b5.md) |
 | sentry_dio | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:34.679741Z | [open](records/dart-sentry-dio-7067a5da.md) |
 | sentry | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:24.015188Z | [open](records/dart-sentry-27c4653e.md) |
+| serverpod | Dart | preview | 4.0.0-rc.2 | 2026-09-04T23:55:19.997174Z | [open](records/dart-serverpod-0a3f0ad3.md) |
 | flutter_map | Dart | preview | 8.4.0-dev.1 | 2026-09-02T23:07:22.562609Z | [open](records/dart-flutter-map-642872b5.md) |
 | tostore | Dart | preview | 3.5.0-test | 2026-09-01T14:43:28.859741Z | [open](records/dart-tostore-c0c539b3.md) |
 | postgrest | Dart | preview | 3.0.0-dev.2 | 2026-09-01T13:45:33.744514Z | [open](records/dart-postgrest-159001a6.md) |
@@ -562,5 +564,3 @@ Generated: `2026-09-14T22:23:06+00:00`
 | github.com/dolibarr/dolibarr | Go | module-preview | v0.0.0-20260830124551-1fb3916df1e1 | 2026-08-30T12:53:21.153338Z | [open](records/go-github-com-dolibarr-dolibarr-277b9d63.md) |
 | github.com/kbukum/gokit/connect/testutil | Go | module-preview | v0.3.0-alpha.1 | 2026-08-30T12:53:18.97987Z | [open](records/go-github-com-kbukum-gokit-connect-testutil-b056f270.md) |
 | github.com/Kmyk/competitive-programming-library | Go | module-preview | v0.0.0-20210829211041-77efa23a69f0 | 2026-08-30T12:53:14.382907Z | [open](records/go-github-com-kmyk-competitive-programming-library-f0b3cfab.md) |
-| github.com/annetutil/gnetcli/examples/netsshsetup | Go | module-preview | v0.0.0-20260829190234-6028097800a8 | 2026-08-30T12:53:00.171757Z | [open](records/go-github-com-annetutil-gnetcli-examples-netsshsetup-fa901aba.md) |
-| github.com/vibrantgio/workbench | Go | module-preview | v0.0.0-20260830112549-a3e36b4de823 | 2026-08-30T12:52:55.908471Z | [open](records/go-github-com-vibrantgio-workbench-38e97b77.md) |

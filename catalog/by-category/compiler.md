@@ -19,7 +19,7 @@ Records: `181`
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6181)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1097)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1248)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
@@ -254,7 +254,7 @@ Records: `181`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ClementTsang/rustcc | partial | 2025-06-04T05:05:13Z | [open](../records/assembly-clementtsang-rustcc-81a87799.md) |
-| compiler-explorer/compiler-explorer | partial | 2026-09-14T15:31:33Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
+| compiler-explorer/compiler-explorer | partial | 2026-09-14T23:14:47Z | [open](../records/assembly-compiler-explorer-compiler-explorer-99f6d9ce.md) |
 | DQNEO/minigo | partial | 2021-02-16T16:05:25Z | [open](../records/assembly-dqneo-minigo-2d87e4eb.md) |
 | emproof-com/nyxstone | partial | 2026-06-05T16:43:08Z | [open](../records/assembly-emproof-com-nyxstone-2e6c50f8.md) |
 | Fedjmike/mini-c | partial | 2022-04-15T08:24:14Z | [open](../records/assembly-fedjmike-mini-c-295a2fc0.md) |
@@ -306,7 +306,7 @@ Records: `181`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| tobymao/sqlglot | partial | 2026-09-12T11:01:28Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
+| tobymao/sqlglot | partial | 2026-09-14T14:13:42Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
 | tursodatabase/turso | partial | 2026-09-14T15:22:32Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
 
 ## Repository Workplaces
@@ -326,13 +326,13 @@ Records: `181`
 | Gitea: matoka/etaCompiler | partial | 2026-06-25T03:01:55Z | [open](../records/repository-workplaces-gitea-matoka-etacompiler-7a21e0c6.md) |
 | Gitea: pablaofficeal/PGT-compilers | partial | 2026-05-11T17:54:54Z | [open](../records/repository-workplaces-gitea-pablaofficeal-pgt-compilers-8084127d.md) |
 | Gitea: Poera/arm-none-eabi-gcc-action | partial | 2024-11-07T04:11:07Z | [open](../records/repository-workplaces-gitea-poera-arm-none-eabi-gcc-action-a30d50ca.md) |
-| Gitea: shastriii/compiler-lab | partial | 2026-09-07T04:07:11Z | [open](../records/repository-workplaces-gitea-shastriii-compiler-lab-f0e50492.md) |
+| Gitea: shastriii/compiler-lab | partial | 2026-09-14T05:26:22Z | [open](../records/repository-workplaces-gitea-shastriii-compiler-lab-f0e50492.md) |
 | Gitea: vercel/next.js | partial | 2026-02-18T13:46:43Z | [open](../records/repository-workplaces-gitea-vercel-next-js-d9788e8f.md) |
 | Gitea: victor-infosec/Hikari-LLVM15 | partial | 2023-06-25T03:01:20Z | [open](../records/repository-workplaces-gitea-victor-infosec-hikari-llvm15-2319fd6c.md) |
 | Gitea: yueyue5201314/jadx | partial | 2024-01-29T18:14:09Z | [open](../records/repository-workplaces-gitea-yueyue5201314-jadx-4298d1a3.md) |
 | lock3/clang | partial | 2020-07-10T21:06:33.530Z | [open](../records/repository-workplaces-lock3-clang-c4e5749d.md) |
 | piyush-kurur/compilers | partial | 2026-04-06T08:37:15.222Z | [open](../records/repository-workplaces-piyush-kurur-compilers-f7578472.md) |
 | Rich-Harris/buble | partial | 2023-03-27T15:48:56.639Z | [open](../records/repository-workplaces-rich-harris-buble-a19a38f7.md) |
-| styx-lang/styx | partial | 2026-09-06T20:35:55.417Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
+| styx-lang/styx | partial | 2026-09-13T16:15:54.638Z | [open](../records/repository-workplaces-styx-lang-styx-2a4ad5fc.md) |
 | weinholt/loko | partial | 2026-07-17T07:40:51.089Z | [open](../records/repository-workplaces-weinholt-loko-35847122.md) |
 | znixian/luajit-decompiler | partial | 2022-12-25T19:35:29.899Z | [open](../records/repository-workplaces-znixian-luajit-decompiler-0609facc.md) |
