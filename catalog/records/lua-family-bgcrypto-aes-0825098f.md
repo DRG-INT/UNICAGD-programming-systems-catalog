@@ -41,9 +41,9 @@ integrity, authentication, and key-management risk.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Other permissive |
+| Evidence | European Union Public License 1.2; https://api.github.com/licenses/eupl-1.2; ISC License; https://api.github.com/licenses/isc |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

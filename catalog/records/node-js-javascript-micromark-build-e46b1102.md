@@ -39,9 +39,9 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; The Unlicense; https://api.github.com/licenses/unlicense; Other; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

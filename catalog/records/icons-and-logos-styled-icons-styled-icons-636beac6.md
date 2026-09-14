@@ -40,9 +40,9 @@ of model pipelines, numerical runtime constraints, and data/deployment interface
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GPL-3 \| file LICENSE |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

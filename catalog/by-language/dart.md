@@ -319,7 +319,7 @@ Records: `771`
 | [flutter_tilt](../records/dart-flutter-tilt-aed1989b.md) | 4.1.0 | 2026-07-29T13:24:38.863077Z | registry-derived |
 | [flutter_tts](../records/dart-flutter-tts-c525b76d.md) | 4.2.5 | 2026-01-05T17:54:55.367504Z | registry-derived |
 | [flutter_udid](../records/dart-flutter-udid-80c330fc.md) | 4.1.6 | 2026-07-14T09:56:51.543948Z | registry-derived |
-| [flutter_webrtc](../records/dart-flutter-webrtc-afeba3f1.md) | 1.6.2+hotfix.1 | 2026-09-08T14:19:11.632856Z | registry-derived |
+| [flutter_webrtc](../records/dart-flutter-webrtc-afeba3f1.md) | 1.6.2+hotfix.2 | 2026-09-14T11:37:11.249287Z | registry-derived |
 | [fresh](../records/dart-fresh-033ad62f.md) | 0.6.1 | 2026-02-26T19:22:14.357553Z | registry-derived |
 | [google_maps_flutter](../records/dart-google-maps-flutter-7474cf08.md) | 2.18.0 | 2026-07-23T15:22:15.302126Z | registry-derived |
 | [health](../records/dart-health-09eb0719.md) | 13.3.2 | 2026-08-14T13:04:10.425286Z | registry-derived |
@@ -487,7 +487,7 @@ Records: `771`
 | [photo_view](../records/dart-photo-view-57a30e6c.md) | 0.15.0 | 2024-04-17T21:10:06.324115Z | registry-derived |
 | [postgrest](../records/dart-postgrest-159001a6.md) | 2.9.1 | 2026-08-05T08:47:45.204815Z | registry-derived |
 | [pro_image_editor](../records/dart-pro-image-editor-ca6b5a34.md) | 14.2.0 | 2026-09-11T15:16:00.483557Z | registry-derived |
-| [pro_video_editor](../records/dart-pro-video-editor-f2637419.md) | 2.12.0 | 2026-09-10T09:34:36.293796Z | registry-derived |
+| [pro_video_editor](../records/dart-pro-video-editor-f2637419.md) | 2.13.0 | 2026-09-14T10:23:00.504653Z | registry-derived |
 | [profanity_filter](../records/dart-profanity-filter-9c55e3a5.md) | 2.0.0 | 2021-06-29T16:50:08.536195Z | registry-derived |
 | [saver_gallery](../records/dart-saver-gallery-bfdf1959.md) | 5.1.0 | 2026-05-29T08:05:20.881418Z | registry-derived |
 | [scroll_pos](../records/dart-scroll-pos-a1e2742a.md) | 0.5.0 | 2023-10-19T09:36:37.355391Z | registry-derived |

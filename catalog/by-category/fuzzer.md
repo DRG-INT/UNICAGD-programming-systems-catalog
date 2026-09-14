@@ -158,7 +158,7 @@ Records: `67`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Belphemur/SoundSwitch | partial | 2026-09-12T16:36:40Z | [open](../records/audio-belphemur-soundswitch-43ca702e.md) |
+| Belphemur/SoundSwitch | partial | 2026-09-14T11:24:47Z | [open](../records/audio-belphemur-soundswitch-43ca702e.md) |
 
 ## SatCom Satellites
 

@@ -543,7 +543,7 @@ Records: `1729`
 | flutter_tilt | 4.1.0 | 2026-07-29T13:24:38.863077Z | [open](../records/dart-flutter-tilt-aed1989b.md) |
 | flutter_tts | 4.2.5 | 2026-01-05T17:54:55.367504Z | [open](../records/dart-flutter-tts-c525b76d.md) |
 | flutter_udid | 4.1.6 | 2026-07-14T09:56:51.543948Z | [open](../records/dart-flutter-udid-80c330fc.md) |
-| flutter_webrtc | 1.6.2+hotfix.1 | 2026-09-08T14:19:11.632856Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
+| flutter_webrtc | 1.6.2+hotfix.2 | 2026-09-14T11:37:11.249287Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
 | fresh | 0.6.1 | 2026-02-26T19:22:14.357553Z | [open](../records/dart-fresh-033ad62f.md) |
 | google_maps_flutter | 2.18.0 | 2026-07-23T15:22:15.302126Z | [open](../records/dart-google-maps-flutter-7474cf08.md) |
 | health | 13.3.2 | 2026-08-14T13:04:10.425286Z | [open](../records/dart-health-09eb0719.md) |
@@ -603,7 +603,7 @@ Records: `1729`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-14T12:25:13Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-14T13:09:14Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 

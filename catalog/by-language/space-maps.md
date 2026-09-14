@@ -317,7 +317,7 @@ Records: `656`
 | [clanker-lover/spicebridge](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) | partial | 2026-04-06T23:32:53Z | registry-derived |
 | [electron-lang/electron](../records/space-maps-electron-lang-electron-98fd3718.md) | partial | 2018-08-20T19:02:31Z | registry-derived |
 | [gnudatalanguage/gdl](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
-| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-14T04:20:39Z | registry-derived |
+| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-14T13:05:11Z | registry-derived |
 | [Jack-Hayes/planetquery](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) | partial | 2025-10-15T05:47:38Z | registry-derived |
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |
@@ -597,7 +597,7 @@ Records: `656`
 | [commenthol/astronomia](../records/space-maps-commenthol-astronomia-226c6abd.md) | partial | 2025-08-30T08:12:39Z | registry-derived |
 | [cosmonium/cosmonium](../records/space-maps-cosmonium-cosmonium-df2f2e69.md) | partial | 2026-09-11T16:19:49Z | registry-derived |
 | [crismunoz303/cosmos-observatory](../records/space-maps-crismunoz303-cosmos-observatory-34b24108.md) | partial | 2026-09-08T23:34:00Z | registry-derived |
-| [danieljprice/phantom](../records/space-maps-danieljprice-phantom-726925e7.md) | partial | 2026-09-12T01:25:50Z | registry-derived |
+| [danieljprice/phantom](../records/space-maps-danieljprice-phantom-726925e7.md) | partial | 2026-09-14T13:21:49Z | registry-derived |
 | [dcunited001/astrology-map](../records/space-maps-dcunited001-astrology-map-1c432d7c.md) | partial | 2023-01-04T08:16:06Z | registry-derived |
 | [dEskoG/rDUINOScope](../records/space-maps-deskog-rduinoscope-01775dc3.md) | partial | 2020-06-23T12:05:59Z | registry-derived |
 | [dfm/celerite](../records/space-maps-dfm-celerite-b3cf4ae5.md) | partial | 2026-06-22T01:52:22Z | registry-derived |
@@ -633,7 +633,7 @@ Records: `656`
 | [jarogumulec/perseidy](../records/space-maps-jarogumulec-perseidy-606b759b.md) | partial | 2026-08-12T07:13:34Z | registry-derived |
 | [jasonsturges/lunarphase-js](../records/space-maps-jasonsturges-lunarphase-js-e8551ded.md) | partial | 2024-03-01T22:53:58Z | registry-derived |
 | [jeff-regier/Celeste.jl](../records/space-maps-jeff-regier-celeste-jl-2c4a4fe5.md) | partial | 2021-09-18T08:20:37Z | registry-derived |
-| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-14T02:39:59Z | registry-derived |
+| [jobovy/galpy](../records/space-maps-jobovy-galpy-3ddf61a7.md) | partial | 2026-09-14T13:14:36Z | registry-derived |
 | [JuliaAstro/SPICE.jl](../records/space-maps-juliaastro-spice-jl-78081df8.md) | partial | 2026-06-24T14:09:40Z | registry-derived |
 | [jyotisham/jyotisha](../records/space-maps-jyotisham-jyotisha-889f81ce.md) | partial | 2026-09-13T16:35:58Z | registry-derived |
 | [kaitlyndlee/AstroWebMaps](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) | partial | 2019-10-11T17:52:05Z | registry-derived |
@@ -680,7 +680,7 @@ Records: `656`
 | [robertobastone/MOCHA](../records/space-maps-robertobastone-mocha-a557cbc2.md) | partial | 2021-04-18T16:00:09Z | registry-derived |
 | [roe-dl/weewx-skymap-almanac](../records/space-maps-roe-dl-weewx-skymap-almanac-57e37b7b.md) | partial | 2026-08-24T06:45:03Z | registry-derived |
 | [sanderblue/solar-system-threejs](../records/space-maps-sanderblue-solar-system-threejs-de57e602.md) | partial | 2022-12-07T17:32:03Z | registry-derived |
-| [SAOImageDS9/SAOImageDS9](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) | partial | 2026-09-11T16:38:46Z | registry-derived |
+| [SAOImageDS9/SAOImageDS9](../records/space-maps-saoimageds9-saoimageds9-ed0b1fd7.md) | partial | 2026-09-14T13:21:03Z | registry-derived |
 | [saurvs/astro-rust](../records/space-maps-saurvs-astro-rust-b959f43f.md) | partial | 2019-10-20T01:17:04Z | registry-derived |
 | [sczesla/PyAstronomy](../records/space-maps-sczesla-pyastronomy-b77e4fb4.md) | partial | 2026-06-27T22:26:51Z | registry-derived |
 | [sherpa/sherpa](../records/space-maps-sherpa-sherpa-9f2278ff.md) | partial | 2026-09-09T12:51:23Z | registry-derived |
@@ -694,7 +694,7 @@ Records: `656`
 | [Stellarium/stellarium](../records/space-maps-stellarium-stellarium-9881eb0a.md) | partial | 2026-09-14T10:49:26Z | registry-derived |
 | [steveberardi/starplot](../records/space-maps-steveberardi-starplot-f953a72c.md) | partial | 2026-09-13T15:41:28Z | registry-derived |
 | [StingraySoftware/stingray](../records/space-maps-stingraysoftware-stingray-96dfde34.md) | partial | 2026-09-13T09:13:13Z | registry-derived |
-| [sunpy/sunpy](../records/space-maps-sunpy-sunpy-8e44c814.md) | partial | 2026-09-11T18:20:10Z | registry-derived |
+| [sunpy/sunpy](../records/space-maps-sunpy-sunpy-8e44c814.md) | partial | 2026-09-14T13:14:08Z | registry-derived |
 | [tbonnardel/rigel](../records/space-maps-tbonnardel-rigel-9d53d779.md) | partial | 2020-10-06T17:00:48Z | registry-derived |
 | [theoknock/JABPlanetaryHourClockKitComplication](../records/space-maps-theoknock-jabplanetaryhourclockkitcomplication-ec1d659b.md) | partial | 2020-08-14T15:52:06Z | registry-derived |
 | [thisrares/astronomy-tools](../records/space-maps-thisrares-astronomy-tools-b3f511cc.md) | partial | 2026-08-15T15:13:34Z | registry-derived |
@@ -724,7 +724,7 @@ Records: `656`
 | [Iraeis/circe](../records/space-maps-iraeis-circe-f13ef4ad.md) | partial | 2024-06-21T07:46:33Z | registry-derived |
 | [js1019/NormalModes](../records/space-maps-js1019-normalmodes-10cca106.md) | partial | 2023-01-01T21:53:54Z | registry-derived |
 | [MarkWieczorek/ctplanet](../records/space-maps-markwieczorek-ctplanet-5a02ee6d.md) | partial | 2026-08-18T21:05:10Z | registry-derived |
-| [maxmahlke/rocks](../records/space-maps-maxmahlke-rocks-873f5e31.md) | partial | 2026-09-10T11:08:22Z | registry-derived |
+| [maxmahlke/rocks](../records/space-maps-maxmahlke-rocks-873f5e31.md) | partial | 2026-09-14T12:54:02Z | registry-derived |
 | [Rishav-k/Steriographic-Projection](../records/space-maps-rishav-k-steriographic-projection-1254199a.md) | partial | 2023-04-06T10:14:55Z | registry-derived |
 | [Swanson-Hysell/2019_Tunnunik](../records/space-maps-swanson-hysell-2019-tunnunik-bb4f3dd1.md) | partial | 2019-02-04T16:57:11Z | registry-derived |
 | [VirtualPlanetaryLaboratory/vplanet](../records/space-maps-virtualplanetarylaboratory-vplanet-bbbd7433.md) | partial | 2026-09-10T22:50:33Z | registry-derived |

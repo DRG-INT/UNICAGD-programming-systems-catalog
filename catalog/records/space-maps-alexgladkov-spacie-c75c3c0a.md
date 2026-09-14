@@ -41,7 +41,7 @@ discovery, security review, undefined-state detection, and regression prevention
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT; MIT License; https://api.github.com/licenses/mit; Other |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit; Other |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

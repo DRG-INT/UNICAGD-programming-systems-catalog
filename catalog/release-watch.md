@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T12:30:12+00:00`
+Generated: `2026-09-14T13:25:15+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,19 +28,21 @@ Generated: `2026-09-14T12:30:12+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10998 |
-| Unknown stable release | 18281 |
+| Known stable release | 10988 |
+| Unknown stable release | 18291 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
 | @rspack/cli | Node.js/JavaScript | Cli | 2.2.4 | 2026-09-14T12:17:53.872Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| flutter_webrtc | Dart | Filesystem Os | 1.6.2+hotfix.2 | 2026-09-14T11:37:11.249287Z | [open](records/dart-flutter-webrtc-afeba3f1.md) |
 | async-compression | Rust | Async Runtime | 0.4.47 | 2026-09-14T11:16:15.623576Z | [open](records/rust-async-compression-1943c86c.md) |
 | compression-codecs | Rust | Compression | 0.4.42 | 2026-09-14T11:16:11.274506Z | [open](records/rust-compression-codecs-b842972a.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.206.2 | 2026-09-14T11:11:05.552Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | sydtest-persistent-postgresql | Haskell | Testing Framework | 0.5.1.0 | 2026-09-14T10:40:12Z | [open](records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
 | ai_barcode_scanner | Dart | Static Analyzer | 8.2.0 | 2026-09-14T10:28:25.187774Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
+| pro_video_editor | Dart | Ide Editor Integration | 2.13.0 | 2026-09-14T10:23:00.504653Z | [open](records/dart-pro-video-editor-f2637419.md) |
 | quinn | Rust | Visualization Gui | 0.11.12 | 2026-09-14T10:08:47.662258Z | [open](records/rust-quinn-3ef01818.md) |
 | quinn-proto | Rust | Visualization Gui | 0.11.18 | 2026-09-14T10:08:32.833754Z | [open](records/rust-quinn-proto-34fe4d50.md) |
 | encapsule | Haskell | Library | 0.5 | 2026-09-14T10:00:37Z | [open](records/haskell-encapsule-a315f436.md) |
@@ -283,8 +285,6 @@ Generated: `2026-09-14T12:30:12+00:00`
 | strategyr | R | Precommit Ci Quality | 0.1.7.1 | 2026-09-12 13:30:02 UTC | [open](records/r-strategyr-bb3e2ca7.md) |
 | FocusGroup | R | Machine Learning | 0.5.2 | 2026-09-12 13:20:14 UTC | [open](records/r-focusgroup-2a1262ea.md) |
 | LLMRpanel | R | Benchmarking | 0.6.1 | 2026-09-12 13:20:08 UTC | [open](records/r-llmrpanel-659aa10b.md) |
-| MobilityDataPT | R | Library | 1.0 | 2026-09-12 13:20:02 UTC | [open](records/r-mobilitydatapt-927be74e.md) |
-| actisensorlog | R | Logging Observability | 0.2.0 | 2026-09-12 13:10:16 UTC | [open](records/r-actisensorlog-39c7fd58.md) |
 
 ## Unknown Reasons
 
@@ -304,6 +304,7 @@ Generated: `2026-09-14T12:30:12+00:00`
 | github_latest_release_missing | 172 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
+| hackage_top_downloads_page_does_not_include_release_date | 10 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

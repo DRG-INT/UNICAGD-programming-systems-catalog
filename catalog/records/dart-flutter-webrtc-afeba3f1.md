@@ -32,22 +32,22 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.6.2+hotfix.1 | 2026-09-08T14:19:11.632856Z | [https://pub.dev/api/packages/flutter_webrtc](https://pub.dev/api/packages/flutter_webrtc) |  |
+| stable | known | 1.6.2+hotfix.2 | 2026-09-14T11:37:11.249287Z | [https://pub.dev/api/packages/flutter_webrtc](https://pub.dev/api/packages/flutter_webrtc) |  |
 | preview | known | 0.9.48-hotfix.1 | 2024-02-05T10:27:12.812792Z | [https://pub.dev/api/packages/flutter_webrtc](https://pub.dev/api/packages/flutter_webrtc) |  |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
 - Treat category as `filesystem_os` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_webrtc` at `2026-09-08T14:22:53+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_webrtc` at `2026-09-14T13:22:58+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance

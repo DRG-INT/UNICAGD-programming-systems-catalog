@@ -651,7 +651,7 @@ Records: `785`
 | [antoinefournier/XParticle](../records/effects-antoinefournier-xparticle-83465150.md) | partial | 2015-01-11T21:29:04Z | registry-derived |
 | [aTool-org/canvas-nest-for-wp](../records/effects-atool-org-canvas-nest-for-wp-256e5c1c.md) | partial | 2019-08-14T12:12:34Z | registry-derived |
 | [BoyBaykiller/Newtonian-Particle-Simulator](../records/effects-boybaykiller-newtonian-particle-simulator-20622350.md) | partial | 2024-12-20T03:42:26Z | registry-derived |
-| [CGRU/cgru](../records/effects-cgru-cgru-8bbfaaf5.md) | partial | 2026-09-09T11:22:34Z | registry-derived |
+| [CGRU/cgru](../records/effects-cgru-cgru-8bbfaaf5.md) | partial | 2026-09-14T11:52:38Z | registry-derived |
 | [cgwire/kitsu](../records/effects-cgwire-kitsu-2e008acc.md) | partial | 2026-09-12T15:44:49Z | registry-derived |
 | [csdjk/LearnUnityShader](../records/effects-csdjk-learnunityshader-524b804a.md) | partial | 2025-06-10T02:51:21Z | registry-derived |
 | [curly-brace/godot_force_shield_shader](../records/effects-curly-brace-godot-force-shield-shader-79c0ff60.md) | partial | 2017-09-23T07:17:03Z | registry-derived |
@@ -673,7 +673,7 @@ Records: `785`
 | [fand/vfx-js](../records/effects-fand-vfx-js-267d1f85.md) | partial | 2026-09-10T20:58:02Z | registry-derived |
 | [fearofcode/bateman](../records/effects-fearofcode-bateman-03c24113.md) | partial | 2014-05-12T03:19:06Z | registry-derived |
 | [FlexMonkey/ParticleCam](../records/effects-flexmonkey-particlecam-751034c0.md) | partial | 2019-02-15T15:49:32Z | registry-derived |
-| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-14T00:50:03Z | registry-derived |
+| [fuddlesworth/PlasmaZones](../records/effects-fuddlesworth-plasmazones-25db8a0f.md) | partial | 2026-09-14T11:02:04Z | registry-derived |
 | [GabrielSCabrera/nBody](../records/effects-gabrielscabrera-nbody-387acb4c.md) | partial | 2024-03-31T14:11:02Z | registry-derived |
 | [GarrettGunnell/Iterated-Function-Systems](../records/effects-garrettgunnell-iterated-function-systems-ae1c6e05.md) | partial | 2024-11-30T14:42:06Z | registry-derived |
 | [ggarra13/mrv2](../records/effects-ggarra13-mrv2-5b1bc07b.md) | partial | 2026-09-14T00:39:30Z | registry-derived |

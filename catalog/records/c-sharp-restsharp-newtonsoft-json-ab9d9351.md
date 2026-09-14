@@ -40,7 +40,7 @@ formats, persistence, interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; https://github.com/adamfisher/RestSharp.Serializers.Newtonsoft.Json/blob/master/LICENSE |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit; https://github.com/adamfisher/RestSharp.Serializers.Newtonsoft.Json/blob/master/LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
