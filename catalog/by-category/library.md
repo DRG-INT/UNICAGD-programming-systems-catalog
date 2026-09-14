@@ -1,6 +1,6 @@
 # Library
 
-Records: `6165`
+Records: `6168`
 
 ## Navigation
 
@@ -8,8 +8,8 @@ Records: `6165`
 
 ## Category Index
 
-[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (604)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
@@ -17,14 +17,14 @@ Records: `6165`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6165)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6168)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (683)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (653)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1670)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1671)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -2591,6 +2591,7 @@ Records: `6165`
 | cochranSize | 0.1.0 | 2026-08-08 12:30:07 UTC | [open](../records/r-cochransize-e5bc40a4.md) |
 | CodeCarbonR | 0.1.0 | 2026-09-05 13:50:20 UTC | [open](../records/r-codecarbonr-6a50e7ea.md) |
 | CohortUtilisation | 0.6.1 | 2026-08-30 09:00:02 UTC | [open](../records/r-cohortutilisation-efa31db3.md) |
+| combinat | 0.0-9 | 2026-09-14 08:00:02 UTC | [open](../records/r-combinat-b5b74f62.md) |
 | competitiontoolbox | 0.7.4 | 2026-08-26 22:50:02 UTC | [open](../records/r-competitiontoolbox-319a586f.md) |
 | comtrade | 0.1.1 | 2026-09-09 13:00:08 UTC | [open](../records/r-comtrade-b55b8339.md) |
 | connected | 1.2 | 2026-09-01 13:40:02 UTC | [open](../records/r-connected-d6a3028b.md) |
@@ -2735,7 +2736,7 @@ Records: `6165`
 | gtsummary | 2.6.1 | 2026-09-04 05:10:20 UTC | [open](../records/r-gtsummary-74b0ca38.md) |
 | gwrf | 0.1.1 | 2026-08-24 14:50:08 UTC | [open](../records/r-gwrf-d432983d.md) |
 | harness | 0.2.0 | 2026-08-24 16:30:09 UTC | [open](../records/r-harness-46815bd7.md) |
-| HDElliptical | 0.1.2 | 2026-09-09 16:30:14 UTC | [open](../records/r-hdelliptical-39878582.md) |
+| HDElliptical | 0.1.3 | 2026-09-14 07:10:25 UTC | [open](../records/r-hdelliptical-39878582.md) |
 | hdf5lib | 2.2.0.0 | 2026-09-10 00:20:02 UTC | [open](../records/r-hdf5lib-086bb900.md) |
 | hdMTD | 0.1.5 | 2026-09-09 15:40:02 UTC | [open](../records/r-hdmtd-add879a7.md) |
 | healthatlas | 0.2.3 | 2026-08-21 05:42:58 UTC | [open](../records/r-healthatlas-937ad959.md) |
@@ -2830,7 +2831,7 @@ Records: `6165`
 | maq | 0.6.1 | 2026-08-04 13:10:17 UTC | [open](../records/r-maq-b64e2c22.md) |
 | marp | 0.1.1 | 2026-08-21 08:10:08 UTC | [open](../records/r-marp-443a786e.md) |
 | MatchAlign | 0.1.2 | 2026-09-12 15:00:12 UTC | [open](../records/r-matchalign-b1f0648e.md) |
-| matSPACE | 0.1.0 | 2026-09-12 13:40:09 UTC | [open](../records/r-matspace-a07a9512.md) |
+| matSPACE | 0.2.1 | 2026-09-14 07:00:08 UTC | [open](../records/r-matspace-a07a9512.md) |
 | mcauchyd | 1.3.6 | 2026-08-25 10:30:02 UTC | [open](../records/r-mcauchyd-cc0a78ba.md) |
 | mcmcr | 0.7.0 | 2026-08-30 10:30:02 UTC | [open](../records/r-mcmcr-cc22b27e.md) |
 | mcstatsim | 0.5.1 | 2026-08-22 01:00:07 UTC | [open](../records/r-mcstatsim-df86e980.md) |
@@ -2859,6 +2860,7 @@ Records: `6165`
 | MobilityDataPT | 1.0 | 2026-09-12 13:20:02 UTC | [open](../records/r-mobilitydatapt-927be74e.md) |
 | ModalCens | 0.2.0 | 2026-08-21 17:50:02 UTC | [open](../records/r-modalcens-97f99983.md) |
 | modeldata | 1.6.0 | 2026-08-21 11:10:02 UTC | [open](../records/r-modeldata-549c0f9a.md) |
+| modeltuning | 0.1.4 | 2026-09-14 06:50:08 UTC | [open](../records/r-modeltuning-357db524.md) |
 | moderndive | 0.8.0 | 2026-08-04 22:50:08 UTC | [open](../records/r-moderndive-51f4cbaa.md) |
 | ModToppLeone | 0.1.0 | 2026-08-09 08:40:18 UTC | [open](../records/r-modtoppleone-0ad7b6bc.md) |
 | morphErr | 1.0.0 | 2026-08-30 09:10:13 UTC | [open](../records/r-morpherr-9f9dffcd.md) |
@@ -3164,6 +3166,7 @@ Records: `6165`
 | WFC | 2.0.1 | 2026-08-06 13:50:06 UTC | [open](../records/r-wfc-1f35ee0c.md) |
 | whatifbandit | 1.0.3 | 2026-08-24 07:30:02 UTC | [open](../records/r-whatifbandit-7a6c93e7.md) |
 | wikiTools | 1.2.26 | 2026-08-22 15:20:08 UTC | [open](../records/r-wikitools-b28729d6.md) |
+| windfarmGA | 5.0.0 | 2026-09-14 06:40:02 UTC | [open](../records/r-windfarmga-30e19f81.md) |
 | winfapReader | 0.1-7.1 | 2026-08-31 19:30:02 UTC | [open](../records/r-winfapreader-110a38d2.md) |
 | wishartinference | 0.1.0 | 2026-09-03 12:10:02 UTC | [open](../records/r-wishartinference-e7a4ff96.md) |
 | wishmom | 1.2.0 | 2026-09-09 14:10:01 UTC | [open](../records/r-wishmom-d3b247b9.md) |
@@ -3978,7 +3981,7 @@ Records: `6165`
 | pgmq-core | 0.6.0.0 | 2026-09-10T19:39:05Z | [open](../records/haskell-pgmq-core-34d8e251.md) |
 | pgmq-effectful | 0.6.0.0 | 2026-09-10T19:39:28Z | [open](../records/haskell-pgmq-effectful-762abfb0.md) |
 | pgmq-migration | 0.6.0.0 | 2026-09-10T19:39:21Z | [open](../records/haskell-pgmq-migration-ed203ec5.md) |
-| phino | 0.0.128 | 2026-09-11T18:33:45Z | [open](../records/haskell-phino-0ffa79f2.md) |
+| phino | 0.0.129 | 2026-09-14T08:14:05Z | [open](../records/haskell-phino-0ffa79f2.md) |
 | pinboard | 0.10.3.0 | 2022-05-07T23:32:56Z | [open](../records/haskell-pinboard-08e346f1.md) |
 | pinch | 0.5.2.0 | 2024-07-09T02:44:30Z | [open](../records/haskell-pinch-801ed692.md) |
 | plugins | 1.6.2.1 | 2022-03-27T15:40:09Z | [open](../records/haskell-plugins-1103fc5c.md) |
@@ -4363,12 +4366,12 @@ Records: `6165`
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
 | yi-rope | 0.11 | 2018-06-06T20:58:47Z | [open](../records/haskell-yi-rope-84a7e8d9.md) |
-| yst | 0.7.2 | 2023-02-04T19:31:44Z | [open](../records/haskell-yst-e5c97f24.md) |
+| yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
-| zeolite-lang | 0.24.1.0 | 2024-01-08T01:25:04Z | [open](../records/haskell-zeolite-lang-121149cb.md) |
+| zeolite-lang | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeolite-lang-121149cb.md) |
 | zeromq4-haskell | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zeromq4-haskell-8f1953e2.md) |
-| zlib | 0.7.1.1 | 2025-09-06T12:21:07Z | [open](../records/haskell-zlib-2a0db053.md) |
+| zlib | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zlib-2a0db053.md) |
 | zoom-cache | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoom-cache-f1ef611e.md) |
 | zoovisitor | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-zoovisitor-25533034.md) |
 
@@ -4574,7 +4577,7 @@ Records: `6165`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4598,7 +4601,7 @@ Records: `6165`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-14T05:32:08Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4612,7 +4615,7 @@ Records: `6165`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-14T04:07:52Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 

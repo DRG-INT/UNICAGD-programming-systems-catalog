@@ -8,8 +8,8 @@ Records: `487`
 
 ## Category Index
 
-[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (604)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
@@ -17,14 +17,14 @@ Records: `487`
 [Embedded Hardware (68)](embedded-hardware.md) · **[Ffi Bindings (487)](ffi-bindings.md)** · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6165)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6168)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (683)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (653)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1670)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1671)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C++23
 
@@ -228,7 +228,7 @@ Records: `487`
 | @blocksuite/affine-block-database | 0.22.4 | 2025-07-01T05:43:11.761Z | [open](../records/node-js-javascript-blocksuite-affine-block-database-c0168ec8.md) |
 | @blocksuite/data-view | 0.22.4 | 2025-07-01T05:43:33.867Z | [open](../records/node-js-javascript-blocksuite-data-view-d981610e.md) |
 | @browserstack/mcp-server | 1.3.3 | 2026-09-11T12:45:23.423Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
-| @canva/cli | 2.11.0 | 2026-09-01T23:13:10.264Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
+| @canva/cli | 2.12.0 | 2026-09-09T06:03:22.292Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
 | @datadog/openfeature-node-server | 2.2.0 | 2026-08-21T16:37:22.615Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @larksuite/cli | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](../records/node-js-javascript-larksuite-cli-442a55c5.md) |
 | @notionhq/notion-mcp-server | 2.5.1 | 2026-07-25T16:20:34.018Z | [open](../records/node-js-javascript-notionhq-notion-mcp-server-f7b2be7e.md) |
@@ -404,13 +404,13 @@ Records: `487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | unknown | not_a_go_module_path | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | partial | 2026-09-14T08:10:14Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| hiyouga/LlamaFactory | partial | 2026-09-09T13:12:56Z | [open](../records/aim-s-hiyouga-llamafactory-ad4fa468.md) |
+| hiyouga/LlamaFactory | partial | 2026-09-14T08:09:48Z | [open](../records/aim-s-hiyouga-llamafactory-ad4fa468.md) |
 | iOfficeAI/AionUi | partial | 2026-09-09T07:57:01Z | [open](../records/aim-s-iofficeai-aionui-ae4168e1.md) |
 
 ## Computer Graphics Software

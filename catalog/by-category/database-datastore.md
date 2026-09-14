@@ -8,8 +8,8 @@ Records: `983`
 
 ## Category Index
 
-[Api Abi Checker (238)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (604)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Benchmarking (210)](benchmarking.md) · [Build System (1044)](build-system.md) · [Cli (606)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (180)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · **[Database Datastore (983)](database-datastore.md)** · [Datetime (255)](datetime.md)
@@ -17,14 +17,14 @@ Records: `983`
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1729)](filesystem-os.md) · [Formatter (671)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1519)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6165)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6168)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (561)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1245)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (683)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (653)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (318)](type-checker.md)
-[Undefined Behavior Analyzer (1670)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (408)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1671)](undefined-behavior-analyzer.md) · [Utility Library (107)](utility-library.md) · [Visualization Gui (651)](visualization-gui.md) · [Web Framework (496)](web-framework.md)
 
 ## C99
 
@@ -159,7 +159,7 @@ Records: `983`
 | @mojaloop/central-services-database | 10.7.0 | 2021-05-13T10:30:08.748Z | [open](../records/node-js-javascript-mojaloop-central-services-database-c3b30361.md) |
 | @molecule/api-database | 1.0.1 | 2026-08-04T02:40:01.172Z | [open](../records/node-js-javascript-molecule-api-database-979879ec.md) |
 | @mongodb-js/compass-database | 3.19.1 | 2023-11-08T12:54:49.882Z | [open](../records/node-js-javascript-mongodb-js-compass-database-9655011a.md) |
-| @nauth-toolkit/storage-database | 0.7.5 | 2026-09-13T05:53:34.179Z | [open](../records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) |
+| @nauth-toolkit/storage-database | 0.8.0 | 2026-09-14T07:24:30.208Z | [open](../records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) |
 | @neo4j/introspector | 5.0.1 | 2025-10-31T12:54:15.805Z | [open](../records/node-js-javascript-neo4j-introspector-6e9626fd.md) |
 | @netlify/database-dev | 1.0.1 | 2026-08-27T19:42:31.086Z | [open](../records/node-js-javascript-netlify-database-dev-9fc07d35.md) |
 | @netlify/database-proxy | 0.2.1 | 2026-08-27T19:42:26.549Z | [open](../records/node-js-javascript-netlify-database-proxy-924b0aac.md) |
@@ -316,7 +316,7 @@ Records: `983`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| adbcdrivermanager | 0.24.0-2 | 2026-08-23 07:40:02 UTC | [open](../records/r-adbcdrivermanager-43c75ca4.md) |
+| adbcdrivermanager | 0.24.0-3 | 2026-09-14 07:10:19 UTC | [open](../records/r-adbcdrivermanager-43c75ca4.md) |
 | autodb | 3.3.1 | 2026-08-21 13:40:33 UTC | [open](../records/r-autodb-5e6d39a0.md) |
 | awdb | 0.1.5 | 2026-09-13 23:20:24 UTC | [open](../records/r-awdb-7e4076b0.md) |
 | DBmaps | 0.1.1 | 2026-08-31 16:40:02 UTC | [open](../records/r-dbmaps-09f1ce62.md) |
@@ -397,7 +397,7 @@ Records: `983`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | partial | 2026-09-11T08:43:16Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
