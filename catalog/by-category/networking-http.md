@@ -18,12 +18,12 @@ Records: `1096`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1096)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (655)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
 [Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
@@ -251,7 +251,7 @@ Records: `1096`
 | @algolia/requester-node-http | 5.59.0 | 2026-09-09T15:30:32.285Z | [open](../records/node-js-javascript-algolia-requester-node-http-0ff5a2d6.md) |
 | @atproto/xrpc-server | 0.12.7 | 2026-08-26T18:21:02.176Z | [open](../records/node-js-javascript-atproto-xrpc-server-eb024318.md) |
 | @aws-amplify/graphql-http-transformer | 3.0.23 | 2026-07-13T21:18:20.438Z | [open](../records/node-js-javascript-aws-amplify-graphql-http-transformer-8ede633f.md) |
-| @aws-sdk/client-database-migration-service | 3.1131.0 | 2026-09-11T18:55:20.865Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
+| @aws-sdk/client-database-migration-service | 3.1132.0 | 2026-09-14T19:39:36.449Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | @azure/core-http-compat | 2.5.0 | 2026-07-13T21:38:57.674Z | [open](../records/node-js-javascript-azure-core-http-compat-82cb36ba.md) |
 | @cedarjs/api-server | 6.0.2 | 2026-09-07T21:12:55.441Z | [open](../records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
 | @cloudflare/util-http | 2.0.19 | 2026-06-30T12:53:46.901Z | [open](../records/node-js-javascript-cloudflare-util-http-2d4a7ac2.md) |
@@ -793,8 +793,8 @@ Records: `1096`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-14T14:32:23Z | [open](../records/go-redis-go-redis-fe715a04.md) |
 | spicetify/cli | partial | 2026-09-14T17:58:53Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |

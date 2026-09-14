@@ -18,12 +18,12 @@ Records: `450`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (450)](package-manager.md)** · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (654)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Templating (2)](templating.md) · [Testing Framework (655)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
 [Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
@@ -373,7 +373,7 @@ Records: `450`
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
 | NeelPatra/Micro-Cap-12-Archive | partial | 2026-01-11T06:50:17Z | [open](../records/space-maps-neelpatra-micro-cap-12-archive-cb3664f9.md) |
 | Snowflake-Labs/sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog | partial | 2025-06-09T17:11:17Z | [open](../records/space-maps-snowflake-labs-sfguide-getting-started-with-snowpipe-streaming-apache-iceberg-snowflake-open-catalog-300e96a6.md) |
-| spacetelescope/jwst | partial | 2026-09-14T14:21:46Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
+| spacetelescope/jwst | partial | 2026-09-14T19:47:25Z | [open](../records/space-maps-spacetelescope-jwst-eb2c4c25.md) |
 | Tanguy9862/Space-App | partial | 2025-01-29T02:36:15Z | [open](../records/space-maps-tanguy9862-space-app-ab1cd9d8.md) |
 
 ## Effects
@@ -499,7 +499,7 @@ Records: `450`
 | 89luca89/lilipod | partial | 2026-02-13T14:56:47Z | [open](../records/catalogs-89luca89-lilipod-04b83b9a.md) |
 | Aetherinox/pause-windows-updates | partial | 2025-10-27T17:52:56Z | [open](../records/catalogs-aetherinox-pause-windows-updates-950b61a1.md) |
 | agentclientprotocol/registry | partial | 2026-09-14T15:46:10Z | [open](../records/catalogs-agentclientprotocol-registry-7431edbd.md) |
-| agentic-community/mcp-gateway-registry | partial | 2026-09-14T16:28:56Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
+| agentic-community/mcp-gateway-registry | partial | 2026-09-14T20:02:30Z | [open](../records/catalogs-agentic-community-mcp-gateway-registry-642bbde2.md) |
 | agentregistry-dev/agentregistry | partial | 2026-09-14T16:50:39Z | [open](../records/catalogs-agentregistry-dev-agentregistry-33204e4a.md) |
 | ancel1x/Ancels-Performance-Batch | partial | 2026-04-03T17:54:00Z | [open](../records/catalogs-ancel1x-ancels-performance-batch-c6cc4451.md) |
 | andrey-pohilko/registry-cli | partial | 2025-08-21T07:46:50Z | [open](../records/catalogs-andrey-pohilko-registry-cli-f5eec2cd.md) |
@@ -509,7 +509,7 @@ Records: `450`
 | carvel-dev/imgpkg | partial | 2026-09-03T12:29:51Z | [open](../records/catalogs-carvel-dev-imgpkg-3458fef2.md) |
 | cjee21/Check-UEFISecureBootVariables | partial | 2026-09-02T09:04:25Z | [open](../records/catalogs-cjee21-check-uefisecurebootvariables-8ec8a26c.md) |
 | cloudflare/serverless-registry | partial | 2026-09-11T01:13:31Z | [open](../records/catalogs-cloudflare-serverless-registry-7e15c0d4.md) |
-| cmintey/wishlist | partial | 2026-09-14T04:01:16Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
+| cmintey/wishlist | partial | 2026-09-14T19:29:32Z | [open](../records/catalogs-cmintey-wishlist-8f5a4a92.md) |
 | cnpm/cnpmcore | partial | 2026-09-14T16:36:21Z | [open](../records/catalogs-cnpm-cnpmcore-7672c148.md) |
 | cnpm/cnpmjs.org | partial | 2024-06-01T19:41:29Z | [open](../records/catalogs-cnpm-cnpmjs-org-47ae554f.md) |
 | containrrr/watchtower | partial | 2025-12-17T14:44:11Z | [open](../records/catalogs-containrrr-watchtower-abb7042e.md) |
@@ -543,7 +543,7 @@ Records: `450`
 | JKornev/hidden | partial | 2022-07-13T21:48:44Z | [open](../records/catalogs-jkornev-hidden-0347576b.md) |
 | joelpurra/xmouse-controls | partial | 2023-04-25T11:46:20Z | [open](../records/catalogs-joelpurra-xmouse-controls-f324bac1.md) |
 | Joxit/docker-registry-ui | partial | 2026-08-10T15:10:57Z | [open](../records/catalogs-joxit-docker-registry-ui-1ea6c602.md) |
-| jsr-io/jsr | partial | 2026-09-14T18:05:02Z | [open](../records/catalogs-jsr-io-jsr-33bcda67.md) |
+| jsr-io/jsr | partial | 2026-09-14T18:25:33Z | [open](../records/catalogs-jsr-io-jsr-33bcda67.md) |
 | jsrepojs/jsrepo | partial | 2026-07-10T20:29:36Z | [open](../records/catalogs-jsrepojs-jsrepo-28e0de4e.md) |
 | kellnr/kellnr | partial | 2026-09-12T08:41:34Z | [open](../records/catalogs-kellnr-kellnr-92856605.md) |
 | KevvTheGoat/Kevin-Service-Registry | partial | 2026-01-10T23:43:20Z | [open](../records/catalogs-kevvthegoat-kevin-service-registry-5ca3fe0b.md) |
@@ -564,7 +564,7 @@ Records: `450`
 | Observal/Observal | partial | 2026-09-14T09:02:49Z | [open](../records/catalogs-observal-observal-b4833836.md) |
 | open-services/open-registry | partial | 2022-05-26T22:36:15Z | [open](../records/catalogs-open-services-open-registry-c7dd1e7f.md) |
 | openupm/openupm | partial | 2026-09-14T16:37:25Z | [open](../records/catalogs-openupm-openupm-b86041d5.md) |
-| oras-project/oras | partial | 2026-09-14T03:42:46Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
+| oras-project/oras | partial | 2026-09-14T18:47:56Z | [open](../records/catalogs-oras-project-oras-63269fb9.md) |
 | oras-project/oras-go | partial | 2026-09-11T22:36:52Z | [open](../records/catalogs-oras-project-oras-go-5d7d0c28.md) |
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
@@ -575,7 +575,7 @@ Records: `450`
 | regclient/regclient | partial | 2026-09-09T21:12:36Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |
 | replicatedhq/ttl.sh | partial | 2026-09-08T16:18:08Z | [open](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) |
 | riferrei/srclient | partial | 2025-10-30T23:49:01Z | [open](../records/catalogs-riferrei-srclient-a30143ad.md) |
-| rtvkiz/minimal | partial | 2026-09-14T14:26:47Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
+| rtvkiz/minimal | partial | 2026-09-14T19:26:36Z | [open](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) |
 | salasaurusrex/context_menu | partial | 2024-09-14T17:11:04Z | [open](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) |
 | SatyamVyas04/sensory-ui | partial | 2026-09-12T10:07:21Z | [open](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) |
 | scarf-sh/gateway | partial | 2026-06-13T16:09:48Z | [open](../records/catalogs-scarf-sh-gateway-74aad772.md) |
@@ -682,6 +682,6 @@ Records: `450`
 | OpenTAP/opentap | partial | 2022-03-07T13:22:54.219Z | [open](../records/repository-workplaces-opentap-opentap-6d917c43.md) |
 | portmod/portmod | partial | 2026-04-13T02:00:36.213Z | [open](../records/repository-workplaces-portmod-portmod-a38f55d6.md) |
 | re-volt/rvgl-launcher | partial | 2026-09-12T23:11:02.744Z | [open](../records/repository-workplaces-re-volt-rvgl-launcher-79fbfb0a.md) |
-| WeSuckLess/Reactor | partial | 2026-09-13T19:32:04.147Z | [open](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) |
+| WeSuckLess/Reactor | partial | 2026-09-14T18:47:54.061Z | [open](../records/repository-workplaces-wesuckless-reactor-d2157f72.md) |
 | xavki/become-devops-s01 | partial | 2026-06-21T11:06:52.357Z | [open](../records/repository-workplaces-xavki-become-devops-s01-8ce087b3.md) |
 | xavki/tutorials-helm | partial | 2026-06-21T11:07:03.332Z | [open](../records/repository-workplaces-xavki-tutorials-helm-ba7d404c.md) |

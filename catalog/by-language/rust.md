@@ -18,12 +18,12 @@ Records: `2183`
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1525)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6177)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (594)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
+[Lint Rule Pack (53)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (595)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1096)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1247)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (145)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (409)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (686)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (654)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (655)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1673)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (652)](../by-category/visualization-gui.md) · [Web Framework (497)](../by-category/web-framework.md)
 
 ## Categories
@@ -190,7 +190,7 @@ Records: `2183`
 | [build_const](../records/rust-build-const-0aeeb00d.md) | 0.2.2 | 2021-04-20T02:31:13.785806Z | crates_io |
 | [cargo-make](../records/rust-cargo-make-dcab0faa.md) | unknown | not_checked | unverified_seed |
 | [chrono-tz-build](../records/rust-chrono-tz-build-0484d9ba.md) | 0.5.0 | 2025-07-11T19:04:50.787755Z | registry-derived |
-| [clap_builder](../records/rust-clap-builder-81592afe.md) | 4.6.6 | 2026-08-06T14:03:23.670959Z | registry-derived |
+| [clap_builder](../records/rust-clap-builder-81592afe.md) | 4.6.7 | 2026-09-14T18:40:26.377504Z | registry-derived |
 | [cmake](../records/rust-cmake-cc6b32da.md) | 0.1.58 | 2026-03-26T17:58:29.356302Z | registry-derived |
 | [comfy-table](../records/rust-comfy-table-948f920b.md) | 8.0.0 | 2026-08-05T01:05:28.283438Z | registry-derived |
 | [cranelift-frontend](../records/rust-cranelift-frontend-eba8e294.md) | 0.135.1 | 2026-08-24T19:58:15.313921Z | crates_io |
@@ -249,7 +249,7 @@ Records: `2183`
 | [arboard](../records/rust-arboard-38a301f5.md) | 3.6.1 | 2025-08-23T20:19:03.127566Z | crates_io |
 | [ascii-canvas](../records/rust-ascii-canvas-c7a03404.md) | 4.0.0 | 2024-09-30T16:34:10.453811Z | registry-derived |
 | [Clap](../records/rust-clap-0bd402a9.md) | unknown | not_checked | catalog_seed |
-| [clap_complete](../records/rust-clap-complete-57361877.md) | 4.6.9 | 2026-08-06T13:28:20.621576Z | registry-derived |
+| [clap_complete](../records/rust-clap-complete-57361877.md) | 4.6.10 | 2026-09-14T18:40:30.821537Z | registry-derived |
 | [colored](../records/rust-colored-10ab0e14.md) | 3.1.1 | 2026-01-16T16:13:51.893178Z | registry-derived |
 | [console](../records/rust-console-9d3db335.md) | 0.16.6 | 2026-09-10T07:42:27.489839Z | unverified_seed |
 | [crossterm](../records/rust-crossterm-c2a7ccaf.md) | 0.29.0 | 2025-04-05T15:21:48.500601Z | registry-derived |
@@ -1352,7 +1352,7 @@ Records: `2183`
 | [cached_proc_macro_types](../records/rust-cached-proc-macro-types-a8a6120d.md) | 3.0.0 | 2026-08-23T12:13:52.176610Z | crates_io |
 | [cesu8](../records/rust-cesu8-b5965b14.md) | 1.1.0 | 2016-05-15T12:20:41.086989Z | registry-derived |
 | [cfb](../records/rust-cfb-96afdc98.md) | 0.14.0 | 2026-02-13T21:58:34.416379Z | registry-derived |
-| [clap_derive](../records/rust-clap-derive-a8ad74c5.md) | 4.6.4 | 2026-07-21T21:59:21.295220Z | registry-derived |
+| [clap_derive](../records/rust-clap-derive-a8ad74c5.md) | 4.6.7 | 2026-09-14T18:40:23.971462Z | registry-derived |
 | [color_quant](../records/rust-color-quant-1241b1f1.md) | 2.0.0 | 2026-05-09T21:31:46.943812Z | registry-derived |
 | [const_fn](../records/rust-const-fn-57babf98.md) | 0.4.12 | 2026-03-03T15:35:19.938934Z | registry-derived |
 | [convert_case](../records/rust-convert-case-ccf259aa.md) | 0.12.0 | 2026-08-27T10:11:15.495987Z | registry-derived |
@@ -2072,8 +2072,8 @@ Records: `2183`
 | [cexpr](../records/rust-cexpr-df9772d4.md) | 0.6.0 | 2021-10-11T09:31:52.220209Z | registry-derived |
 | [cfg-expr](../records/rust-cfg-expr-031ef443.md) | 0.20.9 | 2026-08-22T08:55:06.181998Z | registry-derived |
 | [chumsky](../records/rust-chumsky-722d098d.md) | 0.13.0 | 2026-05-06T07:32:21.225789Z | crates_io |
-| [clap](../records/rust-clap-7674fdaa.md) | 4.6.6 | 2026-08-06T14:03:25.998957Z | registry-derived |
-| [clap_lex](../records/rust-clap-lex-8e5d887f.md) | 1.1.0 | 2026-03-12T19:10:37.648756Z | registry-derived |
+| [clap](../records/rust-clap-7674fdaa.md) | 4.6.7 | 2026-09-14T18:40:28.474794Z | registry-derived |
+| [clap_lex](../records/rust-clap-lex-8e5d887f.md) | 1.1.1 | 2026-09-14T18:40:24.781280Z | registry-derived |
 | [combine](../records/rust-combine-11931046.md) | 4.6.8 | 2026-08-25T15:36:05.728682Z | registry-derived |
 | [const-hex](../records/rust-const-hex-693a3c7d.md) | 1.19.1 | 2026-05-23T18:32:18.853034Z | registry-derived |
 | [crc32fast](../records/rust-crc32fast-9238ccb6.md) | 1.5.2 | 2026-09-12T18:41:46.923561Z | registry-derived |

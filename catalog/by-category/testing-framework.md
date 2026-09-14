@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `654`
+Records: `655`
 
 ## Navigation
 
@@ -18,12 +18,12 @@ Records: `654`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1525)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6177)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (594)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
+[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1096)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1247)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (654)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Templating (2)](templating.md) · **[Testing Framework (655)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
 [Undefined Behavior Analyzer (1673)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (652)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
@@ -186,7 +186,7 @@ Records: `654`
 | @khanacademy/wonder-stuff-testing | 4.0.3 | 2025-12-01T22:29:18.939Z | [open](../records/node-js-javascript-khanacademy-wonder-stuff-testing-c588117e.md) |
 | @leaflink/dom-testing-utils | 5.3.2 | 2026-05-29T14:03:41.830Z | [open](../records/node-js-javascript-leaflink-dom-testing-utils-1cdf420f.md) |
 | @lit-labs/testing | 0.2.8 | 2025-12-23T22:03:28.332Z | [open](../records/node-js-javascript-lit-labs-testing-d60ae5c5.md) |
-| @logtape/testing | 2.3.4 | 2026-09-09T06:23:07.981Z | [open](../records/node-js-javascript-logtape-testing-a3711ff5.md) |
+| @logtape/testing | 2.2.8 | 2026-09-14T19:43:02.716Z | [open](../records/node-js-javascript-logtape-testing-a3711ff5.md) |
 | @luigi-project/testing-utilities | 2.31.0 | 2026-06-12T10:18:43.023Z | [open](../records/node-js-javascript-luigi-project-testing-utilities-f1c63dd6.md) |
 | @lushly-dev/afd-testing | 1.0.0 | 2026-03-16T04:04:52.955Z | [open](../records/node-js-javascript-lushly-dev-afd-testing-bf2d2077.md) |
 | @marko/testing-library | 6.4.2 | 2026-07-07T15:53:42.136Z | [open](../records/node-js-javascript-marko-testing-library-f9120b0a.md) |
@@ -337,7 +337,7 @@ Records: `654`
 | neon-testing | 3.0.1 | 2026-08-14T19:19:26.164Z | [open](../records/node-js-javascript-neon-testing-03fdcc58.md) |
 | ngx-translate-testing | 7.0.0 | 2023-06-10T12:32:20.605Z | [open](../records/node-js-javascript-ngx-translate-testing-45664b62.md) |
 | node-mocks-http | 1.18.1 | 2026-07-16T21:25:09.103Z | [open](../records/node-js-javascript-node-mocks-http-5a34d793.md) |
-| node-opcua-address-space-for-conformance-testing | 2.184.1 | 2026-09-14T17:10:43.668Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
+| node-opcua-address-space-for-conformance-testing | 2.184.2 | 2026-09-14T19:20:35.744Z | [open](../records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | oauth2-mock-server | 9.1.0 | 2026-06-30T09:59:08.498Z | [open](../records/node-js-javascript-oauth2-mock-server-20f3c489.md) |
 | oauth2-server | 3.1.1 | 2020-07-14T18:27:11.508Z | [open](../records/node-js-javascript-oauth2-server-6670efea.md) |
 | ospec | 4.2.1 | 2024-09-02T16:24:31.235Z | [open](../records/node-js-javascript-ospec-f0172c41.md) |
@@ -490,6 +490,7 @@ Records: `654`
 | rmsfact | 0.0.4 | 2026-09-11 14:30:02 UTC | [open](../records/r-rmsfact-61bcaa97.md) |
 | robust2sls | 0.2.4 | 2026-08-20 13:40:02 UTC | [open](../records/r-robust2sls-542f6ca3.md) |
 | rquest | 1.1.0 | 2026-08-28 07:00:32 UTC | [open](../records/r-rquest-6ab7845d.md) |
+| rSSP | 0.1.0 | 2026-09-14 20:00:02 UTC | [open](../records/r-rssp-04e9bdef.md) |
 | rt.test | 1.26.9 | 2026-09-14 06:50:02 UTC | [open](../records/r-rt-test-33bf85b9.md) |
 | SeqExpMatch | 0.1.1 | 2026-08-19 11:20:11 UTC | [open](../records/r-seqexpmatch-740b60ae.md) |
 | SetTest | 0.3.1 | 2026-08-24 18:30:09 UTC | [open](../records/r-settest-cba5b74b.md) |
@@ -571,7 +572,7 @@ Records: `654`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
 | quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
 | vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
