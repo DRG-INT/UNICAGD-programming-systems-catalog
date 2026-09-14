@@ -15,10 +15,10 @@ Records: `1244`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · **[Parser Lexer Ast (1244)](parser-lexer-ast.md)** · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -668,7 +668,7 @@ Records: `1244`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AstrBotDevs/AstrBot | partial | 2026-09-13T17:43:09Z | [open](../records/aim-s-astrbotdevs-astrbot-e6fbf943.md) |
-| HKUDS/LightRAG | partial | 2026-09-14T04:17:03Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
+| HKUDS/LightRAG | partial | 2026-09-14T05:15:32Z | [open](../records/aim-s-hkuds-lightrag-8991527b.md) |
 | labring/FastGPT | partial | 2026-09-14T03:15:55Z | [open](../records/aim-s-labring-fastgpt-678e4e69.md) |
 
 ## Computer Graphics Software
@@ -780,7 +780,7 @@ Records: `1244`
 | bassmaster187/TeslaLogger | partial | 2026-08-19T21:29:16Z | [open](../records/maps-bassmaster187-teslalogger-4659bf28.md) |
 | corteva/rioxarray | partial | 2026-07-27T19:37:03Z | [open](../records/maps-corteva-rioxarray-6b4083d8.md) |
 | cyang-kth/fmm | partial | 2024-07-09T03:32:58Z | [open](../records/maps-cyang-kth-fmm-087626bb.md) |
-| developmentseed/lonboard | partial | 2026-09-07T04:56:22Z | [open](../records/maps-developmentseed-lonboard-09924856.md) |
+| developmentseed/lonboard | partial | 2026-09-14T04:53:07Z | [open](../records/maps-developmentseed-lonboard-09924856.md) |
 | fabiocaccamo/FCCurrentLocationGeocoder | partial | 2022-12-13T18:02:34Z | [open](../records/maps-fabiocaccamo-fccurrentlocationgeocoder-5749fb13.md) |
 | fabiocaccamo/FCIPAddressGeocoder | partial | 2022-12-13T18:02:59Z | [open](../records/maps-fabiocaccamo-fcipaddressgeocoder-9d6ac7ae.md) |
 | fasthttp/router | partial | 2025-01-01T23:00:11Z | [open](../records/maps-fasthttp-router-087f4a67.md) |
@@ -850,7 +850,7 @@ Records: `1244`
 | Thomas-Loudis/georb | partial | 2026-07-24T12:36:11Z | [open](../records/space-engines-thomas-loudis-georb-83c767a6.md) |
 | tudat-team/tudatpy | partial | 2026-09-14T00:41:13Z | [open](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) |
 | ut-astria/orbdetpy | partial | 2023-07-05T20:53:31Z | [open](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) |
-| ut-issl/s2e-core | partial | 2026-09-11T23:40:59Z | [open](../records/space-engines-ut-issl-s2e-core-7effcd69.md) |
+| ut-issl/s2e-core | partial | 2026-09-14T04:38:41Z | [open](../records/space-engines-ut-issl-s2e-core-7effcd69.md) |
 
 ## Space Shuttles
 
@@ -868,7 +868,7 @@ Records: `1244`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xCoto/Virgo | partial | 2023-07-23T20:21:30Z | [open](../records/space-maps-0xcoto-virgo-032ae2e8.md) |
-| aaronwmorris/indi-allsky | partial | 2026-09-14T03:06:28Z | [open](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) |
+| aaronwmorris/indi-allsky | partial | 2026-09-14T04:42:05Z | [open](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) |
 | abbyazari/data_vis_statistics_geosciences | partial | 2020-08-29T02:59:43Z | [open](../records/space-maps-abbyazari-data-vis-statistics-geosciences-7687caa4.md) |
 | adarshiniraju/Interactive-Stargazer-Sky-Map | partial | 2026-05-25T19:34:47Z | [open](../records/space-maps-adarshiniraju-interactive-stargazer-sky-map-afb025f4.md) |
 | adrn/gala | partial | 2026-09-08T12:47:47Z | [open](../records/space-maps-adrn-gala-39adb199.md) |

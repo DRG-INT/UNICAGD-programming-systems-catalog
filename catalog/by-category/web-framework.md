@@ -15,10 +15,10 @@ Records: `496`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -653,7 +653,7 @@ Records: `496`
 | dbgate/dbgate | partial | 2026-09-09T10:14:48Z | [open](../records/databases-dbgate-dbgate-67fc8232.md) |
 | doableware/djongo | partial | 2026-09-04T11:30:10Z | [open](../records/databases-doableware-djongo-55b89aa7.md) |
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
-| DotNetNext/SqlSugar | partial | 2026-09-08T05:58:01Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
+| DotNetNext/SqlSugar | partial | 2026-09-13T06:47:46Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
 | googleapis/mcp-toolbox | partial | 2026-09-11T20:16:55Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
@@ -668,7 +668,7 @@ Records: `496`
 | rpbouman/huey | partial | 2026-09-08T22:44:01Z | [open](../records/databases-rpbouman-huey-d6a66223.md) |
 | scality/cloudserver | partial | 2026-09-12T17:09:37Z | [open](../records/databases-scality-cloudserver-0f3f3768.md) |
 | SeekStorm/SeekStorm | partial | 2026-09-09T07:33:11Z | [open](../records/databases-seekstorm-seekstorm-a592c97e.md) |
-| TabularisDB/tabularis | partial | 2026-09-11T15:27:06Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
+| TabularisDB/tabularis | partial | 2026-09-12T07:49:50Z | [open](../records/databases-tabularisdb-tabularis-3c1fcb7e.md) |
 | tcgoetz/GarminDB | partial | 2026-09-11T20:27:25Z | [open](../records/databases-tcgoetz-garmindb-9cf19139.md) |
 | versity/versitygw | partial | 2026-09-12T00:09:48Z | [open](../records/databases-versity-versitygw-b1f49ebe.md) |
 | xo/dbtpl | partial | 2026-09-08T01:42:41Z | [open](../records/databases-xo-dbtpl-4a8added.md) |

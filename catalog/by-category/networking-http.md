@@ -15,10 +15,10 @@ Records: `1095`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1095)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -816,7 +816,7 @@ Records: `1095`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-14T03:17:05Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-14T05:18:07Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1324,7 +1324,7 @@ Records: `1095`
 | deuxfleurs-org/garage | partial | 2026-09-12T14:14:16Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
 | geldata/gel-elixir | partial | 2026-02-20T22:42:45Z | [open](../records/databases-geldata-gel-elixir-a46bd8bb.md) |
 | go-xorm/xorm | partial | 2020-04-03T01:12:12Z | [open](../records/databases-go-xorm-xorm-28a3d567.md) |
-| HeidiSQL/HeidiSQL | partial | 2026-09-10T16:18:48Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
+| HeidiSQL/HeidiSQL | partial | 2026-09-12T13:45:22Z | [open](../records/databases-heidisql-heidisql-4a1c094d.md) |
 | HTTP-RPC/Kilo | partial | 2026-09-06T21:05:32Z | [open](../records/databases-http-rpc-kilo-1640999c.md) |
 | hyparam/icebird | partial | 2026-09-06T00:31:08Z | [open](../records/databases-hyparam-icebird-b87f30a3.md) |
 | influxdb-rs/influxdb-rust | partial | 2026-03-02T05:09:46Z | [open](../records/databases-influxdb-rs-influxdb-rust-13102dc6.md) |
@@ -1335,7 +1335,7 @@ Records: `1095`
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |
 | nosqlclient/nosqlclient | partial | 2023-08-15T07:45:24Z | [open](../records/databases-nosqlclient-nosqlclient-090af045.md) |
 | only-cliches/Nano-SQL | partial | 2026-02-17T11:36:12Z | [open](../records/databases-only-cliches-nano-sql-2e385bb5.md) |
-| OtterMind/Chat2DB | partial | 2026-09-14T03:17:05Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
+| OtterMind/Chat2DB | partial | 2026-09-14T05:18:07Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-09-11T07:09:02Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
@@ -1346,8 +1346,8 @@ Records: `1095`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-11T18:16:05Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-14T02:06:25Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
-| TableProApp/TablePro | partial | 2026-09-12T05:01:58Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
+| t8y2/dbx | partial | 2026-09-14T04:41:02Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| TableProApp/TablePro | partial | 2026-09-13T23:56:02Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |
 

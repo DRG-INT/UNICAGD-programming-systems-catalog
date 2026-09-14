@@ -1,6 +1,6 @@
 # R
 
-Records: `2139`
+Records: `2142`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `2139`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6164)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (560)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -624,6 +624,7 @@ Records: `2139`
 | [tidypredict](../records/r-tidypredict-b2a5b382.md) | 1.2.1 | 2026-09-09 19:00:02 UTC | registry-derived |
 | [TmCalculator](../records/r-tmcalculator-551285f1.md) | 1.0.9 | 2026-08-28 14:10:02 UTC | registry-derived |
 | [TopDom](../records/r-topdom-d08fdaa9.md) | 0.10.2 | 2026-08-31 15:40:31 UTC | registry-derived |
+| [topolow](../records/r-topolow-2dec263d.md) | 2.1.0 | 2026-09-14 04:50:02 UTC | registry-derived |
 | [VIM](../records/r-vim-b680c936.md) | 7.3.1 | 2026-09-11 07:50:02 UTC | registry-derived |
 | [vimixr](../records/r-vimixr-f8799ed6.md) | 0.1.3 | 2026-09-09 09:30:08 UTC | registry-derived |
 | [VizTest](../records/r-viztest-bc784135.md) | 0.8 | 2026-08-28 08:10:19 UTC | registry-derived |
@@ -1471,6 +1472,7 @@ Records: `2139`
 | [invasible](../records/r-invasible-30a29f8a.md) | 0.1.1 | 2026-08-05 08:20:12 UTC | registry-derived |
 | [iop](../records/r-iop-424a648e.md) | 0.1.0 | 2026-09-03 11:50:24 UTC | registry-derived |
 | [IsoplotR](../records/r-isoplotr-18067a6b.md) | 7.0 | 2026-08-21 06:00:32 UTC | registry-derived |
+| [lcpm](../records/r-lcpm-6d9913a7.md) | 0.1.2 | 2026-09-14 04:50:11 UTC | registry-derived |
 | [LeLogicielR](../records/r-lelogicielr-c901e2f4.md) | 1.2.3 | 2026-08-23 10:50:02 UTC | registry-derived |
 | [lnmCluster](../records/r-lnmcluster-f200fba5.md) | 1.0.0 | 2026-08-28 13:00:02 UTC | registry-derived |
 | [logger](../records/r-logger-6bd2e0a0.md) | 0.4.3 | 2026-08-24 16:20:18 UTC | registry-derived |
@@ -1545,6 +1547,7 @@ Records: `2139`
 | [gamlss.dist](../records/r-gamlss-dist-a0c1ac66.md) | 6.1-11 | 2026-09-10 09:00:02 UTC | registry-derived |
 | [GammaFrailtySPC](../records/r-gammafrailtyspc-8c770bfb.md) | 0.1.0 | 2026-08-08 13:50:16 UTC | registry-derived |
 | [gbif.range](../records/r-gbif-range-527eaf4d.md) | 1.9.2 | 2026-09-03 12:00:09 UTC | registry-derived |
+| [ggincerta](../records/r-ggincerta-b2b1de47.md) | 0.2.1 | 2026-09-14 05:00:02 UTC | registry-derived |
 | [ggmlR](../records/r-ggmlr-865a44e8.md) | 0.8.4 | 2026-08-21 12:40:21 UTC | registry-derived |
 | [ggstatsplot](../records/r-ggstatsplot-72e096df.md) | 1.1.1 | 2026-08-25 05:20:37 UTC | registry-derived |
 | [ggtaichi](../records/r-ggtaichi-c4ea8b76.md) | 0.2.0 | 2026-08-24 17:40:02 UTC | registry-derived |

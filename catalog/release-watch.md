@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T04:24:04+00:00`
+Generated: `2026-09-14T05:23:11+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -13,10 +13,10 @@ Generated: `2026-09-14T04:24:04+00:00`
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (40)](by-category/data-science.md) · [Database Datastore (983)](by-category/database-datastore.md) · [Datetime (255)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
 [Embedded Hardware (68)](by-category/embedded-hardware.md) · [Ffi Bindings (487)](by-category/ffi-bindings.md) · [Filesystem Os (1725)](by-category/filesystem-os.md) · [Formatter (671)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (66)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (290)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6162)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (559)](by-category/logging-observability.md) · [Machine Learning (870)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1473)](by-category/language-specification.md) · [Library (6164)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (52)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (560)](by-category/logging-observability.md) · [Machine Learning (871)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1095)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1244)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (143)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -28,17 +28,22 @@ Generated: `2026-09-14T04:24:04+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 10965 |
-| Unknown stable release | 18278 |
+| Known stable release | 10971 |
+| Unknown stable release | 18277 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
 | @lvce-editor/server | Node.js/JavaScript | Ide Editor Integration | 0.115.8 | 2026-09-14T04:14:24.818Z | [open](records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| effectful-poolboy | Haskell | Library | 0.1.0.1 | 2026-09-14T03:37:08Z | [open](records/haskell-effectful-poolboy-6ed25c45.md) |
+| poolboy | Haskell | Library | 0.5.0.1 | 2026-09-14T03:36:44Z | [open](records/haskell-poolboy-51c9df75.md) |
 | @sazabi/cli | Node.js/JavaScript | Cli | 1.10.0 | 2026-09-14T01:36:27.899Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
 | sdl3-bindgen-sys | Haskell | Library | 0.0.0.3 | 2026-09-14T00:23:51Z | [open](records/haskell-sdl3-bindgen-sys-2e14785a.md) |
 | typed-peg | Haskell | Library | 0.4.0.0 | 2026-09-14T00:21:58Z | [open](records/haskell-typed-peg-d0f69182.md) |
+| ggincerta | R | Machine Learning | 0.2.1 | 2026-09-14 05:00:02 UTC | [open](records/r-ggincerta-b2b1de47.md) |
+| lcpm | R | Logging Observability | 0.1.2 | 2026-09-14 04:50:11 UTC | [open](records/r-lcpm-6d9913a7.md) |
+| topolow | R | Ide Editor Integration | 2.1.0 | 2026-09-14 04:50:02 UTC | [open](records/r-topolow-2dec263d.md) |
 | bnviewer | R | Networking Http | 0.1.7 | 2026-09-14 02:50:23 UTC | [open](records/r-bnviewer-ce3ec8e3.md) |
 | india | R | Compiler Diagnostics | 0.1-5 | 2026-09-14 02:50:17 UTC | [open](records/r-india-df700ec1.md) |
 | pandemonium | R | Static Analyzer | 1.0.2 | 2026-09-14 02:50:09 UTC | [open](records/r-pandemonium-10d62e79.md) |
@@ -280,11 +285,6 @@ Generated: `2026-09-14T04:24:04+00:00`
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1131.0 | 2026-09-11T18:55:20.865Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | symbol | Haskell | Library | 0.3.0 | 2026-09-11T18:37:27Z | [open](records/haskell-symbol-1a2e84c0.md) |
 | phino | Haskell | Library | 0.0.128 | 2026-09-11T18:33:45Z | [open](records/haskell-phino-0ffa79f2.md) |
-| @tryghost/http-stream | Node.js/JavaScript | Ide Editor Integration | 2.3.15 | 2026-09-11T18:03:10.793Z | [open](records/node-js-javascript-tryghost-http-stream-8222db0c.md) |
-| @tryghost/server | Node.js/JavaScript | Package Manager | 3.1.15 | 2026-09-11T18:03:02.370Z | [open](records/node-js-javascript-tryghost-server-914387f6.md) |
-| @tryghost/database-info | Node.js/JavaScript | Formatter | 2.3.14 | 2026-09-11T18:02:41.056Z | [open](records/node-js-javascript-tryghost-database-info-d1eda67d.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.203.0 | 2026-09-11T17:20:53.926Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
-| zitejs | Node.js/JavaScript | Build System | 0.9.117 | 2026-09-11T16:59:09.671Z | [open](records/node-js-javascript-zitejs-38340f7a.md) |
 
 ## Unknown Reasons
 
@@ -304,7 +304,7 @@ Generated: `2026-09-14T04:24:04+00:00`
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 11 |
+| hackage_top_downloads_page_does_not_include_release_date | 10 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

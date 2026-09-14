@@ -15,10 +15,10 @@ Records: `671`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · **[Formatter (671)](formatter.md)**
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -548,7 +548,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-14T03:37:21Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T05:12:35Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -927,7 +927,7 @@ Records: `671`
 | alasca.cloud/tarook/tarook | partial | 2026-09-11T15:01:47.218Z | [open](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) |
 | CircuitSwan/hacker-con-birds-of-a-feather | partial | 2026-05-30T16:12:06.527Z | [open](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) |
 | Gitea: deathrashed/Icons | partial | 2026-01-25T12:18:00Z | [open](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) |
-| gitlab-org/cves | partial | 2026-09-13T18:26:40.577Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
+| gitlab-org/cves | partial | 2026-09-14T05:07:50.512Z | [open](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) |
 | guided-explorations/aws/cloudformation/cloudformation-deploy | partial | 2026-07-14T13:33:11.462Z | [open](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) |
 | libosinfo/osinfo-db | partial | 2026-09-13T06:05:15.465Z | [open](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) |
 | Screwtapello/isa65xx | partial | 2025-04-08T08:23:48.640Z | [open](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) |

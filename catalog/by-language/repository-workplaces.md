@@ -15,10 +15,10 @@ Records: `529`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6164)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (560)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -191,7 +191,7 @@ Records: `529`
 | [Gitea: WeLovePaperAPI/documentation](../records/repository-workplaces-gitea-welovepaperapi-documentation-89d69f6a.md) | partial | 2026-03-24T21:40:52Z | registry-derived |
 | [GitHub Repository Search API](../records/repository-workplaces-github-repository-search-api-a6eddd2a.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
 | [GitLab Projects API](../records/repository-workplaces-gitlab-projects-api-d576550a.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
-| [gitlab-org/rust/knowledge-graph](../records/repository-workplaces-gitlab-org-rust-knowledge-graph-33cf57d8.md) | partial | 2026-09-09T23:49:38.814Z | registry-derived |
+| [gitlab-org/rust/knowledge-graph](../records/repository-workplaces-gitlab-org-rust-knowledge-graph-33cf57d8.md) | partial | 2026-09-14T03:50:14.099Z | registry-derived |
 | [Go Dev Source Guide](../records/repository-workplaces-go-dev-source-guide-91115b4b.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
 | [PHP Git Access](../records/repository-workplaces-php-git-access-a76d1614.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
 | [Python Developer Guide](../records/repository-workplaces-python-developer-guide-eb490df4.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
@@ -226,7 +226,7 @@ Records: `529`
 | [alasca.cloud/tarook/tarook](../records/repository-workplaces-alasca-cloud-tarook-tarook-a7045027.md) | partial | 2026-09-11T15:01:47.218Z | registry-derived |
 | [CircuitSwan/hacker-con-birds-of-a-feather](../records/repository-workplaces-circuitswan-hacker-con-birds-of-a-feather-c3c74363.md) | partial | 2026-05-30T16:12:06.527Z | registry-derived |
 | [Gitea: deathrashed/Icons](../records/repository-workplaces-gitea-deathrashed-icons-f8903c51.md) | partial | 2026-01-25T12:18:00Z | registry-derived |
-| [gitlab-org/cves](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) | partial | 2026-09-13T18:26:40.577Z | registry-derived |
+| [gitlab-org/cves](../records/repository-workplaces-gitlab-org-cves-82f80fbe.md) | partial | 2026-09-14T05:07:50.512Z | registry-derived |
 | [guided-explorations/aws/cloudformation/cloudformation-deploy](../records/repository-workplaces-guided-explorations-aws-cloudformation-cloudformation-deploy-2aca98f3.md) | partial | 2026-07-14T13:33:11.462Z | registry-derived |
 | [libosinfo/osinfo-db](../records/repository-workplaces-libosinfo-osinfo-db-c5e44ee6.md) | partial | 2026-09-13T06:05:15.465Z | registry-derived |
 | [Screwtapello/isa65xx](../records/repository-workplaces-screwtapello-isa65xx-d8b56520.md) | partial | 2025-04-08T08:23:48.640Z | registry-derived |
@@ -325,7 +325,7 @@ Records: `529`
 | [Gitea: wa-lang/wa](../records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) | partial | 2025-07-29T01:12:55Z | registry-derived |
 | [Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language](../records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) | partial | 2026-08-08T19:37:36Z | registry-derived |
 | [Gitea: ziven/Fun-ASR](../records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) | partial | 2026-02-09T00:00:36Z | registry-derived |
-| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-14T02:06:57.617Z | registry-derived |
+| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-14T03:21:46.351Z | registry-derived |
 | [jD91mZM2/nix-lsp](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) | partial | 2022-08-04T13:36:44.721Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
 | [Reference-Standard-M/rsm](../records/repository-workplaces-reference-standard-m-rsm-bb68fa26.md) | partial | 2026-07-06T08:39:50.139Z | registry-derived |
@@ -634,7 +634,7 @@ Records: `529`
 | [Gitea: corricca/elibrary-publication-analyzer](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) | partial | 2026-01-29T19:57:29Z | registry-derived |
 | [Gitea: ImageProcessing-ElectronicPublications/imthreshold](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) | partial | 2023-10-26T10:52:14Z | registry-derived |
 | [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-14T00:12:27.154Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-14T03:06:42.042Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-14T05:07:48.483Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-09-12T02:13:28.191Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
 | [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-13T08:04:18.809Z | registry-derived |
@@ -680,7 +680,7 @@ Records: `529`
 | [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-13T14:00:41.577Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-09-11T09:16:55.886Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
-| [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-14T03:08:38.603Z | registry-derived |
+| [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-14T04:29:44.830Z | registry-derived |
 | [gitlab-org/kubernetes-gitlab-demo](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) | partial | 2026-01-07T10:09:42.404Z | registry-derived |
 | [glitchtip/glitchtip-helm-chart](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) | partial | 2026-08-01T00:27:07.881Z | registry-derived |
 | [just.insane/kubernetes](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) | partial | 2019-12-24T04:31:25.427Z | registry-derived |

@@ -1,6 +1,6 @@
 # Library
 
-Records: `6162`
+Records: `6164`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `6162`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6162)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · **[Library (6164)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -3492,6 +3492,7 @@ Records: `6162`
 | dyre | 0.9.2 | 2023-05-18T08:54:40Z | [open](../records/haskell-dyre-8fdf98d3.md) |
 | edge | 0.9.1.1 | 2016-09-05T19:13:24Z | [open](../records/haskell-edge-16b56910.md) |
 | effectful-core | 2.7.1.2 | 2026-09-10T19:09:18Z | [open](../records/haskell-effectful-core-7289fcb1.md) |
+| effectful-poolboy | 0.1.0.1 | 2026-09-14T03:37:08Z | [open](../records/haskell-effectful-poolboy-6ed25c45.md) |
 | egison | 5.1.0 | 2026-07-20T10:15:28Z | [open](../records/haskell-egison-9c36bb21.md) |
 | eigen | 3.3.7.0 | 2018-12-11T20:02:00Z | [open](../records/haskell-eigen-41de740f.md) |
 | either | 5.0.3 | 2025-06-17T11:53:15Z | [open](../records/haskell-either-b932102e.md) |
@@ -3990,6 +3991,7 @@ Records: `6162`
 | polysemy-conc | 0.15.0.0 | 2026-04-29T11:50:17Z | [open](../records/haskell-polysemy-conc-7bbd3a8c.md) |
 | polysemy-plugin | 0.4.5.3 | 2025-03-06T01:57:40Z | [open](../records/haskell-polysemy-plugin-9da872e6.md) |
 | pontarius-xmpp | 0.5.7.2 | 2025-02-08T00:11:06Z | [open](../records/haskell-pontarius-xmpp-5a5fc4ed.md) |
+| poolboy | 0.5.0.1 | 2026-09-14T03:36:44Z | [open](../records/haskell-poolboy-51c9df75.md) |
 | potoki | 2.1.4.1 | 2019-01-24T14:41:36Z | [open](../records/haskell-potoki-46cbb511.md) |
 | potoki-core | 2.3.4.1 | 2019-01-24T14:30:09Z | [open](../records/haskell-potoki-core-455ab868.md) |
 | ppad-aead | 0.3.6 | 2026-09-06T14:47:43Z | [open](../records/haskell-ppad-aead-dc2d6455.md) |
@@ -4360,7 +4362,7 @@ Records: `6162`
 | yesod-platform | 1.2.13.3 | 2014-08-25T13:53:51Z | [open](../records/haskell-yesod-platform-cc0166b2.md) |
 | yesod-static | 1.6.1.3 | 2026-06-16T20:33:50Z | [open](../records/haskell-yesod-static-f6ffdea6.md) |
 | yi | 0.19.3 | 2024-11-01T13:06:18Z | [open](../records/haskell-yi-3b78b64a.md) |
-| yi-rope | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yi-rope-84a7e8d9.md) |
+| yi-rope | 0.11 | 2018-06-06T20:58:47Z | [open](../records/haskell-yi-rope-84a7e8d9.md) |
 | yst | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yst-e5c97f24.md) |
 | Z-Data | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-data-ad2a6ebb.md) |
 | Z-IO | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-z-io-e37841a7.md) |
@@ -4596,7 +4598,7 @@ Records: `6162`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-14T00:02:32Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-14T05:16:19Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5987,7 +5989,7 @@ Records: `6162`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-14T03:45:49Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-14T05:11:45Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

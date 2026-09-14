@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1760`
+Records: `1762`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `1760`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6164)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (560)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -710,6 +710,7 @@ Records: `1760`
 | [dyre](../records/haskell-dyre-8fdf98d3.md) | 0.9.2 | 2023-05-18T08:54:40Z | registry-derived |
 | [edge](../records/haskell-edge-16b56910.md) | 0.9.1.1 | 2016-09-05T19:13:24Z | registry-derived |
 | [effectful-core](../records/haskell-effectful-core-7289fcb1.md) | 2.7.1.2 | 2026-09-10T19:09:18Z | registry-derived |
+| [effectful-poolboy](../records/haskell-effectful-poolboy-6ed25c45.md) | 0.1.0.1 | 2026-09-14T03:37:08Z | registry-derived |
 | [egison](../records/haskell-egison-9c36bb21.md) | 5.1.0 | 2026-07-20T10:15:28Z | registry-derived |
 | [eigen](../records/haskell-eigen-41de740f.md) | 3.3.7.0 | 2018-12-11T20:02:00Z | registry-derived |
 | [either](../records/haskell-either-b932102e.md) | 5.0.3 | 2025-06-17T11:53:15Z | registry-derived |
@@ -1208,6 +1209,7 @@ Records: `1760`
 | [polysemy-conc](../records/haskell-polysemy-conc-7bbd3a8c.md) | 0.15.0.0 | 2026-04-29T11:50:17Z | registry-derived |
 | [polysemy-plugin](../records/haskell-polysemy-plugin-9da872e6.md) | 0.4.5.3 | 2025-03-06T01:57:40Z | registry-derived |
 | [pontarius-xmpp](../records/haskell-pontarius-xmpp-5a5fc4ed.md) | 0.5.7.2 | 2025-02-08T00:11:06Z | registry-derived |
+| [poolboy](../records/haskell-poolboy-51c9df75.md) | 0.5.0.1 | 2026-09-14T03:36:44Z | registry-derived |
 | [potoki](../records/haskell-potoki-46cbb511.md) | 2.1.4.1 | 2019-01-24T14:41:36Z | registry-derived |
 | [potoki-core](../records/haskell-potoki-core-455ab868.md) | 2.3.4.1 | 2019-01-24T14:30:09Z | registry-derived |
 | [ppad-aead](../records/haskell-ppad-aead-dc2d6455.md) | 0.3.6 | 2026-09-06T14:47:43Z | registry-derived |
@@ -1578,7 +1580,7 @@ Records: `1760`
 | [yesod-platform](../records/haskell-yesod-platform-cc0166b2.md) | 1.2.13.3 | 2014-08-25T13:53:51Z | registry-derived |
 | [yesod-static](../records/haskell-yesod-static-f6ffdea6.md) | 1.6.1.3 | 2026-06-16T20:33:50Z | registry-derived |
 | [yi](../records/haskell-yi-3b78b64a.md) | 0.19.3 | 2024-11-01T13:06:18Z | registry-derived |
-| [yi-rope](../records/haskell-yi-rope-84a7e8d9.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
+| [yi-rope](../records/haskell-yi-rope-84a7e8d9.md) | 0.11 | 2018-06-06T20:58:47Z | registry-derived |
 | [yst](../records/haskell-yst-e5c97f24.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-Data](../records/haskell-z-data-ad2a6ebb.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |
 | [Z-IO](../records/haskell-z-io-e37841a7.md) | unknown | hackage_top_downloads_page_does_not_include_release_date | registry-derived |

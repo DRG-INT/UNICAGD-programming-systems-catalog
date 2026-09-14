@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1516`
+Records: `1517`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `1516`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1516)](ide-editor-integration.md)**
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1517)](ide-editor-integration.md)**
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -523,6 +523,7 @@ Records: `1516`
 | tidypredict | 1.2.1 | 2026-09-09 19:00:02 UTC | [open](../records/r-tidypredict-b2a5b382.md) |
 | TmCalculator | 1.0.9 | 2026-08-28 14:10:02 UTC | [open](../records/r-tmcalculator-551285f1.md) |
 | TopDom | 0.10.2 | 2026-08-31 15:40:31 UTC | [open](../records/r-topdom-d08fdaa9.md) |
+| topolow | 2.1.0 | 2026-09-14 04:50:02 UTC | [open](../records/r-topolow-2dec263d.md) |
 | VIM | 7.3.1 | 2026-09-11 07:50:02 UTC | [open](../records/r-vim-b680c936.md) |
 | vimixr | 0.1.3 | 2026-09-09 09:30:08 UTC | [open](../records/r-vimixr-f8799ed6.md) |
 | VizTest | 0.8 | 2026-08-28 08:10:19 UTC | [open](../records/r-viztest-bc784135.md) |
@@ -694,9 +695,9 @@ Records: `1516`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T02:10:22Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-14T02:26:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-14T05:05:16Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T01:57:56Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-14T04:26:18Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-14T03:13:31Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-14T04:07:21Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-11T11:52:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |

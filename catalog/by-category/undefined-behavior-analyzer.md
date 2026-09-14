@@ -15,10 +15,10 @@ Records: `1668`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -1174,7 +1174,7 @@ Records: `1668`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-14T03:10:41Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-14T04:26:12Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1907,7 +1907,7 @@ Records: `1668`
 | gitlab-org/caproni | partial | 2026-09-13T14:00:41.577Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T03:08:38.603Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-14T04:29:44.830Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |

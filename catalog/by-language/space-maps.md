@@ -15,10 +15,10 @@ Records: `656`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6164)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (560)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -155,7 +155,7 @@ Records: `656`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-13T22:07:03Z | registry-derived |
+| [mars-sim/mars-sim](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) | partial | 2026-09-14T04:35:43Z | registry-derived |
 | [novas0x2a/celestia](../records/space-maps-novas0x2a-celestia-65bc6a55.md) | partial | 2016-10-13T03:31:16Z | registry-derived |
 | [Spooffit/star_wars](../records/space-maps-spooffit-star-wars-0cdbb857.md) | partial | 2023-07-18T15:29:02Z | registry-derived |
 
@@ -309,7 +309,7 @@ Records: `656`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [a7bdev/falak](../records/space-maps-a7bdev-falak-0cc64905.md) | partial | 2026-07-31T15:43:49Z | registry-derived |
-| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-14T01:42:32Z | registry-derived |
+| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-14T04:40:11Z | registry-derived |
 | [arcsecond-io/standard-stars-catalogues](../records/space-maps-arcsecond-io-standard-stars-catalogues-92d84e53.md) | partial | 2025-06-02T11:14:25Z | registry-derived |
 | [BASI-LABS/parseltongue](../records/space-maps-basi-labs-parseltongue-04dae62d.md) | partial | 2025-01-11T23:48:20Z | registry-derived |
 | [biosshot/easyeda-copilot](../records/space-maps-biosshot-easyeda-copilot-429a5f5a.md) | partial | 2026-09-12T16:22:22Z | registry-derived |
@@ -561,7 +561,7 @@ Records: `656`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xCoto/Virgo](../records/space-maps-0xcoto-virgo-032ae2e8.md) | partial | 2023-07-23T20:21:30Z | registry-derived |
-| [aaronwmorris/indi-allsky](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) | partial | 2026-09-14T03:06:28Z | registry-derived |
+| [aaronwmorris/indi-allsky](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) | partial | 2026-09-14T04:42:05Z | registry-derived |
 | [abbyazari/data_vis_statistics_geosciences](../records/space-maps-abbyazari-data-vis-statistics-geosciences-7687caa4.md) | partial | 2020-08-29T02:59:43Z | registry-derived |
 | [adarshiniraju/Interactive-Stargazer-Sky-Map](../records/space-maps-adarshiniraju-interactive-stargazer-sky-map-afb025f4.md) | partial | 2026-05-25T19:34:47Z | registry-derived |
 | [adrn/gala](../records/space-maps-adrn-gala-39adb199.md) | partial | 2026-09-08T12:47:47Z | registry-derived |

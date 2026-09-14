@@ -15,10 +15,10 @@ Records: `487`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · **[Ffi Bindings (487)](ffi-bindings.md)** · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (559)](logging-observability.md) · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (560)](logging-observability.md) · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -488,7 +488,7 @@ Records: `487`
 | --- | --- | --- | --- |
 | crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
-| geoserver/geoserver | partial | 2026-09-11T09:14:20Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
+| geoserver/geoserver | partial | 2026-09-14T03:25:01Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
 | geotools/geotools | partial | 2026-09-14T03:30:51Z | [open](../records/maps-geotools-geotools-a7928212.md) |
 | mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
@@ -510,7 +510,7 @@ Records: `487`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mars-sim/mars-sim | partial | 2026-09-13T22:07:03Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
+| mars-sim/mars-sim | partial | 2026-09-14T04:35:43Z | [open](../records/space-maps-mars-sim-mars-sim-54bf76f4.md) |
 | novas0x2a/celestia | partial | 2016-10-13T03:31:16Z | [open](../records/space-maps-novas0x2a-celestia-65bc6a55.md) |
 | Spooffit/star_wars | partial | 2023-07-18T15:29:02Z | [open](../records/space-maps-spooffit-star-wars-0cdbb857.md) |
 
@@ -721,7 +721,7 @@ Records: `487`
 | oracle/docker-images | partial | 2026-09-10T11:04:26Z | [open](../records/databases-oracle-docker-images-69ec5f43.md) |
 | parthsarthi03/raptor | partial | 2024-09-03T08:34:31Z | [open](../records/databases-parthsarthi03-raptor-aabfb858.md) |
 | pixelsdb/pixels | partial | 2026-09-08T06:06:29Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
-| rusqlite/rusqlite | partial | 2026-09-06T07:01:19Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
+| rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-14T03:55:28Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |

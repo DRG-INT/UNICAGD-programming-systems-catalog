@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-14T04:24:04+00:00`
+Generated: `2026-09-14T05:23:11+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -21,10 +21,10 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Cryptography (183)](catalog/by-category/cryptography.md) · [Data Science (40)](catalog/by-category/data-science.md) · [Database Datastore (983)](catalog/by-category/database-datastore.md) · [Datetime (255)](catalog/by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](catalog/by-category/dead-code-dependency-analysis.md) · [Debugger (46)](catalog/by-category/debugger.md) · [Dependency Manager (110)](catalog/by-category/dependency-manager.md) · [Documentation (116)](catalog/by-category/documentation.md)
 [Embedded Hardware (68)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (487)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1725)](catalog/by-category/filesystem-os.md) · [Formatter (671)](catalog/by-category/formatter.md)
-[Framework (64)](catalog/by-category/framework.md) · [Fuzzer (66)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](catalog/by-category/ide-editor-integration.md)
+[Framework (64)](catalog/by-category/framework.md) · [Fuzzer (66)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (290)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
-[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1473)](catalog/by-category/language-specification.md) · [Library (6162)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (52)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (559)](catalog/by-category/logging-observability.md) · [Machine Learning (870)](catalog/by-category/machine-learning.md)
+[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1473)](catalog/by-category/language-specification.md) · [Library (6164)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Lint Rule Pack (52)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (560)](catalog/by-category/logging-observability.md) · [Machine Learning (871)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1095)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (450)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1244)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (99)](catalog/by-category/profiler.md) · [Project Scaffolding (143)](catalog/by-category/project-scaffolding.md) · [Registry Repository (135)](catalog/by-category/registry-repository.md) · [Sanitizer (17)](catalog/by-category/sanitizer.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29243 |
+| Canonical identity pages | 29248 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 10965 |
-| Unknown stable release fields | 18278 |
-| Fetch errors recorded | 976 |
+| Known stable release fields | 10971 |
+| Unknown stable release fields | 18277 |
+| Fetch errors recorded | 995 |
 | Target identity count | 24000 |
 
 ## Language Scope

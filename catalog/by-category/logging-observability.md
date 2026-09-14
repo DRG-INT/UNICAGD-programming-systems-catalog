@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `559`
+Records: `560`
 
 ## Navigation
 
@@ -15,10 +15,10 @@ Records: `559`
 [Cryptography (183)](cryptography.md) · [Data Science (40)](data-science.md) · [Database Datastore (983)](database-datastore.md) · [Datetime (255)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (68)](embedded-hardware.md) · [Ffi Bindings (487)](ffi-bindings.md) · [Filesystem Os (1725)](filesystem-os.md) · [Formatter (671)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1516)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (66)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1517)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (290)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6162)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (559)](logging-observability.md)** · [Machine Learning (870)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1473)](language-specification.md) · [Library (6164)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (52)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (560)](logging-observability.md)** · [Machine Learning (871)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1095)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1244)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (143)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -272,6 +272,7 @@ Records: `559`
 | invasible | 0.1.1 | 2026-08-05 08:20:12 UTC | [open](../records/r-invasible-30a29f8a.md) |
 | iop | 0.1.0 | 2026-09-03 11:50:24 UTC | [open](../records/r-iop-424a648e.md) |
 | IsoplotR | 7.0 | 2026-08-21 06:00:32 UTC | [open](../records/r-isoplotr-18067a6b.md) |
+| lcpm | 0.1.2 | 2026-09-14 04:50:11 UTC | [open](../records/r-lcpm-6d9913a7.md) |
 | LeLogicielR | 1.2.3 | 2026-08-23 10:50:02 UTC | [open](../records/r-lelogicielr-c901e2f4.md) |
 | lnmCluster | 1.0.0 | 2026-08-28 13:00:02 UTC | [open](../records/r-lnmcluster-f200fba5.md) |
 | logger | 0.4.3 | 2026-08-24 16:20:18 UTC | [open](../records/r-logger-6bd2e0a0.md) |

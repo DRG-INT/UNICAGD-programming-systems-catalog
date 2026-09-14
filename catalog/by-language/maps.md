@@ -15,10 +15,10 @@ Records: `620`
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (40)](../by-category/data-science.md) · [Database Datastore (983)](../by-category/database-datastore.md) · [Datetime (255)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (68)](../by-category/embedded-hardware.md) · [Ffi Bindings (487)](../by-category/ffi-bindings.md) · [Filesystem Os (1725)](../by-category/filesystem-os.md) · [Formatter (671)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1516)](../by-category/ide-editor-integration.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (66)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1517)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (290)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6162)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (559)](../by-category/logging-observability.md) · [Machine Learning (870)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1473)](../by-category/language-specification.md) · [Library (6164)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (52)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (560)](../by-category/logging-observability.md) · [Machine Learning (871)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (104)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1095)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (450)](../by-category/package-manager.md) · [Parser Lexer Ast (1244)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (143)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -177,7 +177,7 @@ Records: `620`
 | --- | --- | --- | --- |
 | [crazycapivara/h3-r](../records/maps-crazycapivara-h3-r-7a69cf02.md) | partial | 2022-08-08T08:04:12Z | registry-derived |
 | [Gaia3D/mago-3d-tiler](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [geoserver/geoserver](../records/maps-geoserver-geoserver-be5dd005.md) | partial | 2026-09-11T09:14:20Z | registry-derived |
+| [geoserver/geoserver](../records/maps-geoserver-geoserver-be5dd005.md) | partial | 2026-09-14T03:25:01Z | registry-derived |
 | [geotools/geotools](../records/maps-geotools-geotools-a7928212.md) | partial | 2026-09-14T03:30:51Z | registry-derived |
 | [mvexel/overpass-api-python-wrapper](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) | partial | 2026-01-08T03:59:25Z | registry-derived |
 | [naturalatlas/node-gdal](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) | partial | 2024-09-03T21:32:11Z | registry-derived |
@@ -646,7 +646,7 @@ Records: `620`
 | [bassmaster187/TeslaLogger](../records/maps-bassmaster187-teslalogger-4659bf28.md) | partial | 2026-08-19T21:29:16Z | registry-derived |
 | [corteva/rioxarray](../records/maps-corteva-rioxarray-6b4083d8.md) | partial | 2026-07-27T19:37:03Z | registry-derived |
 | [cyang-kth/fmm](../records/maps-cyang-kth-fmm-087626bb.md) | partial | 2024-07-09T03:32:58Z | registry-derived |
-| [developmentseed/lonboard](../records/maps-developmentseed-lonboard-09924856.md) | partial | 2026-09-07T04:56:22Z | registry-derived |
+| [developmentseed/lonboard](../records/maps-developmentseed-lonboard-09924856.md) | partial | 2026-09-14T04:53:07Z | registry-derived |
 | [fabiocaccamo/FCCurrentLocationGeocoder](../records/maps-fabiocaccamo-fccurrentlocationgeocoder-5749fb13.md) | partial | 2022-12-13T18:02:34Z | registry-derived |
 | [fabiocaccamo/FCIPAddressGeocoder](../records/maps-fabiocaccamo-fcipaddressgeocoder-9d6ac7ae.md) | partial | 2022-12-13T18:02:59Z | registry-derived |
 | [fasthttp/router](../records/maps-fasthttp-router-087f4a67.md) | partial | 2025-01-01T23:00:11Z | registry-derived |
