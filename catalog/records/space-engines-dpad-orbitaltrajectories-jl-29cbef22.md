@@ -42,7 +42,7 @@ of defect discovery, security review, undefined-state detection, and regression 
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | {"key": "", "name": "", "url": ""}; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
@@ -59,7 +59,7 @@ of defect discovery, security review, undefined-state detection, and regression 
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:spaceflight stars:>20", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:spaceflight stars:>20", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

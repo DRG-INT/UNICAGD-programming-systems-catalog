@@ -472,7 +472,7 @@ Records: `496`
 | freerouting/freerouting | partial | 2026-09-12T12:25:26Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-09T16:20:18Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-13T15:01:39Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-13T22:45:05Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
 | katanemo/plano | partial | 2026-08-19T19:29:08Z | [open](../records/maps-katanemo-plano-886a078b.md) |

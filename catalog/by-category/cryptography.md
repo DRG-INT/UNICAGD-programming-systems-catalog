@@ -223,7 +223,7 @@ Records: `183`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-13T22:38:29Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-14T01:17:59Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 

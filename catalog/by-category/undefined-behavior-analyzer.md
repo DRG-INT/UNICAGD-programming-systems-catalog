@@ -1775,7 +1775,7 @@ Records: `1667`
 | meshery/meshery | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-meshery-meshery-7b46f863.md) |
 | radzenhq/radzen-blazor | partial | 2026-09-12T08:28:22Z | [open](../records/webassembly-radzenhq-radzen-blazor-9ec846fe.md) |
 | rollup/rollup-plugin-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-rollup-rollup-plugin-wasm-0bbe45cd.md) |
-| ruby/ruby.wasm | partial | 2026-09-12T01:15:56Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
+| ruby/ruby.wasm | partial | 2026-09-13T01:29:58Z | [open](../records/webassembly-ruby-ruby-wasm-2e017805.md) |
 | taubyte/tau | partial | 2026-08-16T20:19:56Z | [open](../records/webassembly-taubyte-tau-7d97265b.md) |
 | therecipe/qt | partial | 2024-03-04T15:58:37Z | [open](../records/webassembly-therecipe-qt-fd9f7ce6.md) |
 
@@ -1849,7 +1849,7 @@ Records: `1667`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-13T19:16:07Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-13T23:55:16Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
 | dolthub/dolt | partial | 2026-09-12T09:43:31Z | [open](../records/databases-dolthub-dolt-702548e2.md) |

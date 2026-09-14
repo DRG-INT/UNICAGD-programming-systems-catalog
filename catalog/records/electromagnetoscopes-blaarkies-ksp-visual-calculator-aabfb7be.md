@@ -40,9 +40,9 @@ inventory as part of model pipelines, numerical runtime constraints, and data/de
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; Other |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

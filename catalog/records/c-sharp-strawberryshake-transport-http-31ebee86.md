@@ -40,7 +40,7 @@ service communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/StrawberryShake.Transport.Http/16.6.2/license |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | Other; Unlicense; https://www.nuget.org/packages/Json.Net/1.0.33/license |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit; Unlicense; https://www.nuget.org/packages/Json.Net/1.0.33/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

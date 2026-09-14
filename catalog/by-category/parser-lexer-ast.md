@@ -793,7 +793,7 @@ Records: `1244`
 | maddevsio/ariadna | partial | 2020-06-19T11:45:47Z | [open](../records/maps-maddevsio-ariadna-6b23941a.md) |
 | mapbox/supercluster | partial | 2026-09-03T08:35:00Z | [open](../records/maps-mapbox-supercluster-20551b86.md) |
 | maplibre/flutter-maplibre-gl | partial | 2026-09-11T07:23:33Z | [open](../records/maps-maplibre-flutter-maplibre-gl-8bd7f64b.md) |
-| maplibre/martin | partial | 2026-09-11T15:25:18Z | [open](../records/maps-maplibre-martin-cbc4e95e.md) |
+| maplibre/martin | partial | 2026-09-13T15:57:48Z | [open](../records/maps-maplibre-martin-cbc4e95e.md) |
 | matplotlib/basemap | partial | 2026-05-04T11:17:03Z | [open](../records/maps-matplotlib-basemap-6bf2476d.md) |
 | metosin/reitit | partial | 2026-09-08T05:39:13Z | [open](../records/maps-metosin-reitit-3a6bffb1.md) |
 | mkeller3/FastVector | partial | 2022-07-08T21:06:36Z | [open](../records/maps-mkeller3-fastvector-40abd912.md) |
@@ -827,7 +827,7 @@ Records: `1244`
 | CS-SI/Orekit | partial | 2026-09-10T16:42:10Z | [open](../records/space-engines-cs-si-orekit-fd0e471c.md) |
 | deflorio/SpOCK | partial | 2026-04-17T08:49:07Z | [open](../records/space-engines-deflorio-spock-3f3262df.md) |
 | DJBen/Graviton | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-djben-graviton-cc868ebf.md) |
-| duncaneddy/brahe | partial | 2026-09-13T07:35:37Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
+| duncaneddy/brahe | partial | 2026-09-14T00:46:33Z | [open](../records/space-engines-duncaneddy-brahe-7ee764e2.md) |
 | esa/dSGP4 | partial | 2026-08-07T13:57:29Z | [open](../records/space-engines-esa-dsgp4-8c05d97f.md) |
 | esa/pykep | partial | 2026-09-11T09:54:29Z | [open](../records/space-engines-esa-pykep-de004d6c.md) |
 | GalacticDynamics/galax | partial | 2026-09-11T22:01:45Z | [open](../records/space-engines-galacticdynamics-galax-d1c9094c.md) |
@@ -848,7 +848,7 @@ Records: `1244`
 | tamaskis/planet3D-MATLAB | partial | 2023-05-21T01:19:09Z | [open](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) |
 | TheWand3rer/Universe | partial | 2026-06-03T18:28:06Z | [open](../records/space-engines-thewand3rer-universe-b6822711.md) |
 | Thomas-Loudis/georb | partial | 2026-07-24T12:36:11Z | [open](../records/space-engines-thomas-loudis-georb-83c767a6.md) |
-| tudat-team/tudatpy | partial | 2026-09-13T14:27:53Z | [open](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) |
+| tudat-team/tudatpy | partial | 2026-09-14T00:41:13Z | [open](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) |
 | ut-astria/orbdetpy | partial | 2023-07-05T20:53:31Z | [open](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) |
 | ut-issl/s2e-core | partial | 2026-09-11T23:40:59Z | [open](../records/space-engines-ut-issl-s2e-core-7effcd69.md) |
 
@@ -873,7 +873,7 @@ Records: `1244`
 | adarshiniraju/Interactive-Stargazer-Sky-Map | partial | 2026-05-25T19:34:47Z | [open](../records/space-maps-adarshiniraju-interactive-stargazer-sky-map-afb025f4.md) |
 | adrn/gala | partial | 2026-09-08T12:47:47Z | [open](../records/space-maps-adrn-gala-39adb199.md) |
 | Alex-Broughton/sky-mapper | partial | 2023-07-03T18:18:49Z | [open](../records/space-maps-alex-broughton-sky-mapper-55636494.md) |
-| AllskyTeam/allsky | partial | 2026-08-31T20:50:25Z | [open](../records/space-maps-allskyteam-allsky-81002f5d.md) |
+| AllskyTeam/allsky | partial | 2026-09-14T00:38:52Z | [open](../records/space-maps-allskyteam-allsky-81002f5d.md) |
 | ameya-tries-coding/Night-Sky-Visibility-AI | partial | 2026-05-02T16:39:34Z | [open](../records/space-maps-ameya-tries-coding-night-sky-visibility-ai-35b0be4d.md) |
 | amozdan/mwdmlut | partial | 2026-08-19T18:51:35Z | [open](../records/space-maps-amozdan-mwdmlut-05761067.md) |
 | amusecode/amuse | partial | 2026-07-15T15:48:16Z | [open](../records/space-maps-amusecode-amuse-93ebdbaf.md) |
@@ -945,7 +945,7 @@ Records: `1244`
 | jyotisham/jyotisha | partial | 2026-09-13T16:35:58Z | [open](../records/space-maps-jyotisham-jyotisha-889f81ce.md) |
 | kaitlyndlee/AstroWebMaps | partial | 2019-10-11T17:52:05Z | [open](../records/space-maps-kaitlyndlee-astrowebmaps-1c6718c8.md) |
 | kbrault/stardome | partial | 2026-08-01T09:36:28Z | [open](../records/space-maps-kbrault-stardome-23bdfa43.md) |
-| kylecorry31/Trail-Sense | partial | 2026-09-13T19:33:35Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
+| kylecorry31/Trail-Sense | partial | 2026-09-13T23:10:31Z | [open](../records/space-maps-kylecorry31-trail-sense-b3901335.md) |
 | lenstronomy/lenstronomy | partial | 2026-09-07T00:13:35Z | [open](../records/space-maps-lenstronomy-lenstronomy-9b7bddbc.md) |
 | lunohodov/awesome-astrophotography | partial | 2026-06-11T04:43:54Z | [open](../records/space-maps-lunohodov-awesome-astrophotography-1545bec0.md) |
 | makalin/skypin | partial | 2025-10-06T15:02:00Z | [open](../records/space-maps-makalin-skypin-ecae670c.md) |
@@ -1495,7 +1495,7 @@ Records: `1244`
 | OpenAtomFoundation/pikiwidb | partial | 2026-09-09T08:40:51Z | [open](../records/databases-openatomfoundation-pikiwidb-007b1f05.md) |
 | orientechnologies/orientdb | partial | 2026-09-11T21:52:02Z | [open](../records/databases-orientechnologies-orientdb-583f5aed.md) |
 | pilgr/Paper | partial | 2023-01-06T22:00:05Z | [open](../records/databases-pilgr-paper-4bec3683.md) |
-| pingcap/tidb | partial | 2026-09-13T21:36:32Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
+| pingcap/tidb | partial | 2026-09-14T01:13:14Z | [open](../records/databases-pingcap-tidb-56d438be.md) |
 | rgcsekaraa/brows3 | partial | 2026-09-11T17:39:20Z | [open](../records/databases-rgcsekaraa-brows3-6d622d3b.md) |
 | san089/Udacity-Data-Engineering-Projects | partial | 2022-08-26T00:09:15Z | [open](../records/databases-san089-udacity-data-engineering-projects-6731f6dc.md) |
 | scylladb/scylladb | partial | 2026-09-13T21:52:28Z | [open](../records/databases-scylladb-scylladb-5677bf8d.md) |

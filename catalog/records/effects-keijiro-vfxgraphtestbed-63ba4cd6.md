@@ -40,7 +40,7 @@ unit/integration validation, regression protection, and release confidence.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ unit/integration validation, regression protection, and release confidence.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:vfx stars:>50", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:vfx stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

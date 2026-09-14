@@ -548,7 +548,7 @@ Records: `671`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-13T23:17:50Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-14T01:17:20Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -695,7 +695,7 @@ Records: `671`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-13T05:27:31Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
-| AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-12T17:34:08Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
+| AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-13T22:22:42Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | AmitDigga/threejs-galaxy-shader | partial | 2026-03-27T08:08:16Z | [open](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) |
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |
 | Frikallo/SonicSynth | partial | 2023-05-19T05:38:57Z | [open](../records/effects-frikallo-sonicsynth-5f25bf87.md) |

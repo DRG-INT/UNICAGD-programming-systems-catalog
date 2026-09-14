@@ -459,7 +459,7 @@ Records: `290`
 | wazero/wazero | partial | 2026-09-08T08:35:16Z | [open](../records/webassembly-wazero-wazero-e01a87a9.md) |
 | WEREMSOFT/spine-raylib-runtimes | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-weremsoft-spine-raylib-runtimes-10c81a49.md) |
 | yamt/toywasm | partial | 2026-08-01T12:01:04Z | [open](../records/webassembly-yamt-toywasm-6f3ac5c3.md) |
-| zwasm/zwasm | partial | 2026-09-12T14:21:36Z | [open](../records/webassembly-zwasm-zwasm-63408ac4.md) |
+| zwasm/zwasm | partial | 2026-09-13T22:36:15Z | [open](../records/webassembly-zwasm-zwasm-63408ac4.md) |
 
 ## SAPJava
 

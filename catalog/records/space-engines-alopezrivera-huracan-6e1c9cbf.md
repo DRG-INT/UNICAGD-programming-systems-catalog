@@ -41,7 +41,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | Creative Commons Attribution 4.0 International; https://api.github.com/licenses/cc-by-4.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:propulsion stars:>10", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:propulsion stars:>10", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

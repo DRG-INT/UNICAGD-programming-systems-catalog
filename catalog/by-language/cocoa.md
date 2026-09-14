@@ -296,7 +296,7 @@ Records: `349`
 | [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | partial | 2024-03-21T10:45:04Z | registry-derived |
 | [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | partial | 2022-03-07T10:01:30Z | registry-derived |
 | [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | partial | 2026-07-27T00:05:17Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-13T07:11:21Z | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-14T00:08:21Z | registry-derived |
 | [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | partial | 2023-01-09T00:03:46Z | registry-derived |
 | [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | partial | 2016-09-29T04:08:55Z | registry-derived |
 | [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | partial | 2023-04-21T10:20:47Z | registry-derived |

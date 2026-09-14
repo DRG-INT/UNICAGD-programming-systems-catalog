@@ -33,8 +33,8 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | not_a_maven_coordinate |
-| preview/nightly | unknown |  |  | unknown | not_a_maven_coordinate |
+| stable | partial |  | 2026-09-14T01:13:26Z | gh search repos org:SAP Java | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -48,8 +48,8 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 - Treat category as `logging_observability` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `not_a_maven_coordinate`.
-- Preview/nightly metadata is unknown because `not_a_maven_coordinate`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 
@@ -58,7 +58,7 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-13 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "org:SAP Java", "retrieved": "2026-09-13", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "org:SAP Java", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
 
 </details>
 

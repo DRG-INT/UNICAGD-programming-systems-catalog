@@ -39,9 +39,9 @@ persistence, interoperability, and compatibility boundaries.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; MIT; https://www.nuget.org/packages/Chr.Avro.Json/10.13.1/license |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | {"key": "", "name": "", "url": ""}; MIT; https://www.nuget.org/packages/Chr.Avro.Json/10.13.1/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

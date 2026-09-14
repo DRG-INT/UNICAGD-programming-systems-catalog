@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-14T00:31:09+00:00`
+Generated: `2026-09-14T01:22:10+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -290,7 +290,7 @@ Generated: `2026-09-14T00:31:09+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10659 |
+| gh_search_reports_activity_not_release_version | 10661 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -308,7 +308,6 @@ Generated: `2026-09-14T00:31:09+00:00`
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
-| not_a_maven_coordinate | 2 |
 | source_returned_no_release | 2 |
 
 ## Preview And Nightly Signals

@@ -36,7 +36,7 @@ Records: `69`
 | [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-13T06:56:04Z | registry-derived |
 | [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T15:05:50Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-09T01:10:28Z | registry-derived |
+| [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-14T00:31:19Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
 | [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-13T23:07:16Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-11T17:13:45Z | registry-derived |
@@ -52,7 +52,7 @@ Records: `69`
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
 | [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-13T20:02:53Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |
-| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-13T17:54:55Z | registry-derived |
+| [facebookincubator/reindeer](../records/starlark-facebookincubator-reindeer-e957d783.md) | partial | 2026-09-14T01:14:44Z | registry-derived |
 | [jin/awesome-bazel](../records/starlark-jin-awesome-bazel-fd38a6d9.md) | partial | 2024-11-13T07:46:30Z | registry-derived |
 | [line/rules_apple_line](../records/starlark-line-rules-apple-line-d48892df.md) | partial | 2023-03-20T22:34:01Z | registry-derived |
 | [maxmcd/bramble](../records/starlark-maxmcd-bramble-bcb99fb7.md) | partial | 2023-03-29T14:47:53Z | registry-derived |
@@ -64,7 +64,7 @@ Records: `69`
 | [stackb/rules_proto](../records/starlark-stackb-rules-proto-b9dcde4f.md) | partial | 2026-09-08T20:02:39Z | registry-derived |
 | [tidbyt/pixlet](../records/starlark-tidbyt-pixlet-876fea90.md) | partial | 2026-09-10T21:45:00Z | registry-derived |
 | [tweag/rules_haskell](../records/starlark-tweag-rules-haskell-f813b994.md) | partial | 2026-09-11T03:57:40Z | registry-derived |
-| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-10T09:41:03Z | registry-derived |
+| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-14T01:09:12Z | registry-derived |
 | [typedb/bazel-distribution](../records/starlark-typedb-bazel-distribution-95f6acb1.md) | partial | 2026-09-01T14:54:08Z | registry-derived |
 | [u-root/gobusybox](../records/starlark-u-root-gobusybox-136cf407.md) | partial | 2026-06-22T15:14:39Z | registry-derived |
 

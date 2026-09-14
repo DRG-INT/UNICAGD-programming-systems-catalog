@@ -723,7 +723,7 @@ Records: `487`
 | pixelsdb/pixels | partial | 2026-09-08T06:06:29Z | [open](../records/databases-pixelsdb-pixels-36b88ea6.md) |
 | rusqlite/rusqlite | partial | 2026-09-06T07:01:19Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
-| sqlitebrowser/sqlitebrowser | partial | 2026-09-13T05:13:25Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
+| sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
 | trinodb/trino | partial | 2026-09-12T12:54:57Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
