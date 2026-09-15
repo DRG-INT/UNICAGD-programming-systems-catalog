@@ -24,7 +24,7 @@ Records: `350`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -429,7 +429,7 @@ Records: `350`
 | github.com/terraform-linters/tflint-ruleset-aws/tools/release | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-terraform-linters-tflint-ruleset-aws-tools-release-64e4e03b.md) |
 | github.com/Typescript-eslint/typescript-eslint | v4.31.2+incompatible | 2026-08-30T15:29:43.379649Z | [open](../records/go-github-com-typescript-eslint-typescript-eslint-2cac61a4.md) |
 | github.com/z-shell/zsh-lint | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-z-shell-zsh-lint-ddf99579.md) |
-| golangci/golangci-lint | partial | 2026-09-13T11:23:56Z | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
+| golangci/golangci-lint | unknown | not_a_go_module_path | [open](../records/go-golangci-golangci-lint-4b8a8820.md) |
 
 ## Physics Engines
 

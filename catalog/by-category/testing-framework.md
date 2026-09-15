@@ -24,7 +24,7 @@ Records: `657`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (657)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -574,10 +574,10 @@ Records: `657`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CorentinGS/chess | partial | 2026-08-17T09:40:38Z | [open](../records/go-corentings-chess-b4035143.md) |
-| Ebazhanov/linkedin-skill-assessments-quizzes | partial | 2026-08-29T17:24:40Z | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
+| Ebazhanov/linkedin-skill-assessments-quizzes | unknown | not_a_go_module_path | [open](../records/go-ebazhanov-linkedin-skill-assessments-quizzes-05557abd.md) |
 | gitee.com/mirrors_testem/testem | v3.10.1+incompatible | 2026-08-30T10:08:47.58159Z | [open](../records/go-gitee-com-mirrors-testem-testem-1b4facf3.md) |
-| quii/learn-go-with-tests | partial | 2026-08-26T12:41:47Z | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
-| vxcontrol/pentagi | partial | 2026-09-10T05:45:01Z | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
+| quii/learn-go-with-tests | unknown | not_a_go_module_path | [open](../records/go-quii-learn-go-with-tests-f9d484c4.md) |
+| vxcontrol/pentagi | unknown | not_a_go_module_path | [open](../records/go-vxcontrol-pentagi-a8d06839.md) |
 
 ## Basilisk
 
@@ -727,7 +727,7 @@ Records: `657`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| abduznik/instrumation | partial | 2026-09-14T05:23:16Z | [open](../records/electromagnetoscopes-abduznik-instrumation-46ef2281.md) |
+| abduznik/instrumation | partial | 2026-09-15T07:13:51Z | [open](../records/electromagnetoscopes-abduznik-instrumation-46ef2281.md) |
 | aradfarahani/awesome-geophysics | partial | 2026-08-02T03:32:39Z | [open](../records/electromagnetoscopes-aradfarahani-awesome-geophysics-faed83f7.md) |
 | ErniW/Arduino-IMU-and-AHRS-tests | partial | 2025-11-10T12:10:07Z | [open](../records/electromagnetoscopes-erniw-arduino-imu-and-ahrs-tests-6026cf9d.md) |
 | IoT-PTv/IoT-PT-v1 | partial | 2025-08-25T04:45:30Z | [open](../records/electromagnetoscopes-iot-ptv-iot-pt-v1-052c2efe.md) |

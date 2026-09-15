@@ -24,7 +24,7 @@ Records: `342`
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -204,7 +204,7 @@ Records: `342`
 | [TryGhost/Edition](../records/magazines-tryghost-edition-30f487ea.md) | partial | 2026-09-11T23:57:22Z | registry-derived |
 | [TryGhost/Journal](../records/magazines-tryghost-journal-0be492cf.md) | partial | 2026-09-11T23:57:17Z | registry-derived |
 | [TryGhost/London](../records/magazines-tryghost-london-63cc3483.md) | partial | 2026-09-14T20:54:46Z | registry-derived |
-| [TryGhost/Massively](../records/magazines-tryghost-massively-26c36497.md) | partial | 2026-09-14T20:49:11Z | registry-derived |
+| [TryGhost/Massively](../records/magazines-tryghost-massively-26c36497.md) | partial | 2026-09-15T10:24:57Z | registry-derived |
 | [TryGhost/Source](../records/magazines-tryghost-source-8e1152fe.md) | partial | 2026-09-15T04:03:02Z | registry-derived |
 | [TryGhost/Themes](../records/magazines-tryghost-themes-8b8724da.md) | partial | 2026-09-11T23:56:33Z | registry-derived |
 | [unkn0w/disposable-email-domain-list](../records/magazines-unkn0w-disposable-email-domain-list-54a50054.md) | partial | 2026-07-27T07:07:18Z | registry-derived |
@@ -244,7 +244,7 @@ Records: `342`
 | [mmarquezs/libgen-python-api](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) | partial | 2022-05-18T15:15:49Z | registry-derived |
 | [Notifuse/notifuse](../records/magazines-notifuse-notifuse-f68915ee.md) | partial | 2026-09-08T15:29:46Z | registry-derived |
 | [pajoma/vscode-journal](../records/magazines-pajoma-vscode-journal-fd5206d8.md) | partial | 2026-08-20T20:30:19Z | registry-derived |
-| [TryGhost/Editorial](../records/magazines-tryghost-editorial-947481f0.md) | partial | 2026-09-14T20:40:10Z | registry-derived |
+| [TryGhost/Editorial](../records/magazines-tryghost-editorial-947481f0.md) | partial | 2026-09-15T10:26:04Z | registry-derived |
 | [uzih05/journal](../records/magazines-uzih05-journal-00e04855.md) | partial | 2026-02-09T09:03:55Z | registry-derived |
 | [yanliudesign/mono-color-skill](../records/magazines-yanliudesign-mono-color-skill-382cd12d.md) | partial | 2026-09-02T18:49:42Z | registry-derived |
 

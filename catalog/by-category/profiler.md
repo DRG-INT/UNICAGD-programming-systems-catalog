@@ -24,7 +24,7 @@ Records: `99`
 **[Profiler (99)](profiler.md)** · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -139,13 +139,13 @@ Records: `99`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | k8s.io/kops/tools/otel/traceserver | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-k8s-io-kops-tools-otel-traceserver-e25f5fec.md) |
-| pranshuparmar/witr | partial | 2026-08-15T22:55:12Z | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
+| pranshuparmar/witr | unknown | not_a_go_module_path | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| langfuse/langfuse | partial | 2026-09-15T10:19:59Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
+| langfuse/langfuse | partial | 2026-09-15T11:19:45Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
 
 ## Computer Graphics Software
 

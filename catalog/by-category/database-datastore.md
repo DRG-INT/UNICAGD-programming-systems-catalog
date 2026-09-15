@@ -24,7 +24,7 @@ Records: `986`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -400,7 +400,7 @@ Records: `986`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| gofr-dev/gofr | partial | 2026-09-15T10:02:15Z | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
+| gofr-dev/gofr | unknown | not_a_go_module_path | [open](../records/go-gofr-dev-gofr-9cdbe495.md) |
 
 ## "aim's"
 
@@ -446,7 +446,7 @@ Records: `986`
 | osm2pgsql-dev/osm2pgsql | partial | 2026-09-10T21:09:53Z | [open](../records/maps-osm2pgsql-dev-osm2pgsql-14071fed.md) |
 | PostGIS | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/maps-postgis-05acffcb.md) |
 | postgis/postgis | partial | 2026-09-14T10:39:34Z | [open](../records/maps-postgis-postgis-d54a38ad.md) |
-| RediSearch/RediSearch | partial | 2026-09-15T09:30:26Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
+| RediSearch/RediSearch | partial | 2026-09-15T11:19:32Z | [open](../records/maps-redisearch-redisearch-ce79bff1.md) |
 | thanglequoc/vietnamese-provinces-database | partial | 2026-09-13T08:41:30Z | [open](../records/maps-thanglequoc-vietnamese-provinces-database-b10d0772.md) |
 | yunwei37/ZJU-CS-GIS-ClassNotes | unknown | github_search_does_not_include_release_date | [open](../records/maps-yunwei37-zju-cs-gis-classnotes-4f0c1b38.md) |
 
@@ -516,7 +516,7 @@ Records: `986`
 | ens-lgil/PGS_Catalog_deprecated | partial | 2025-11-18T16:51:23Z | [open](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) |
 | Federico-Aguirre/Veterinaria_Laravel | partial | 2026-09-08T04:58:25Z | [open](../records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) |
 | hwasun-zip/Catalog-Triage | partial | 2026-08-31T15:03:01Z | [open](../records/repertoare-catalogs-hwasun-zip-catalog-triage-f9629850.md) |
-| PGScatalog/PGS_Catalog | partial | 2026-09-03T15:07:53Z | [open](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
+| PGScatalog/PGS_Catalog | partial | 2026-09-15T10:52:30Z | [open](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) |
 
 ## Catalogs
 

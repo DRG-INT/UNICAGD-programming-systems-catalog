@@ -24,7 +24,7 @@ Records: `17`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · **[Sanitizer (17)](sanitizer.md)**
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -53,7 +53,7 @@ Records: `17`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | github.com/vaultsandbox/client-python | v0.5.1 | 2026-08-30T10:09:57.314153Z | [open](../records/go-github-com-vaultsandbox-client-python-3e86109b.md) |
-| mattermost-community/focalboard | partial | 2026-05-18T16:05:00Z | [open](../records/go-mattermost-community-focalboard-3d60a2cd.md) |
+| mattermost-community/focalboard | unknown | not_a_go_module_path | [open](../records/go-mattermost-community-focalboard-3d60a2cd.md) |
 
 ## Font Briefcase
 

@@ -24,7 +24,7 @@ Records: `676`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -539,7 +539,7 @@ Records: `676`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-14T14:52:35Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -551,7 +551,7 @@ Records: `676`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T10:15:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T11:13:45Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -631,7 +631,7 @@ Records: `676`
 | oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-15T09:09:37Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-15T09:36:03Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 | wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |

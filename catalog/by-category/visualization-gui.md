@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `655`
+Records: `656`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `655`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (655)](visualization-gui.md)** · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (656)](visualization-gui.md)** · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -316,10 +316,10 @@ Records: `655`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -500,7 +500,7 @@ Records: `655`
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-09-08T00:06:11Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
 | Shelf-nu/shelf.nu | partial | 2026-09-15T08:45:03Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
-| skfolio/skfolio | partial | 2026-09-14T14:22:48Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
+| skfolio/skfolio | partial | 2026-09-15T10:41:19Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
 ## Maps
@@ -764,6 +764,7 @@ Records: `655`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | antoninadert/Radio-Garden-Client | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-antoninadert-radio-garden-client-ca058555.md) |
+| biasnil/World_Radio | partial | 2026-09-15T11:08:07Z | [open](../records/radio-garden-speciality-biasnil-world-radio-5f256535.md) |
 | BttrDrgn/radio.garten | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-bttrdrgn-radio-garten-7f0c130c.md) |
 | chermenin/radio.G | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-chermenin-radio-g-360dc3fc.md) |
 | Radio Garden Web App | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/radio-garden-speciality-radio-garden-web-app-5918e0b0.md) |

@@ -79,6 +79,7 @@ Evidence records merged into this identity: `1`.
 | Name | Category | Page |
 | --- | --- | --- |
 | antoninadert/Radio-Garden-Client | Visualization Gui | [open](radio-garden-speciality-antoninadert-radio-garden-client-ca058555.md) |
+| biasnil/World_Radio | Visualization Gui | [open](radio-garden-speciality-biasnil-world-radio-5f256535.md) |
 | chermenin/radio.G | Visualization Gui | [open](radio-garden-speciality-chermenin-radio-g-360dc3fc.md) |
 | Radio Garden Web App | Visualization Gui | [open](radio-garden-speciality-radio-garden-web-app-5918e0b0.md) |
 
@@ -100,4 +101,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · **[Visualization Gui (655)](../by-category/visualization-gui.md)** · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · **[Visualization Gui (656)](../by-category/visualization-gui.md)** · [Web Framework (502)](../by-category/web-framework.md)

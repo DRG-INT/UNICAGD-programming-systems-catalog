@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-15T10:25:06+00:00`
+Generated: `2026-09-15T11:22:29+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -22,19 +22,20 @@ Generated: `2026-09-15T10:25:06+00:00`
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (655)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (656)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
 | Known stable release | 11079 |
-| Unknown stable release | 18372 |
+| Unknown stable release | 18373 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| phino | Haskell | Library | 0.0.133 | 2026-09-15T10:24:37Z | [open](records/haskell-phino-0ffa79f2.md) |
 | @lightdash/cli | Node.js/JavaScript | Cli | 2.212.2 | 2026-09-15T10:11:45.467Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.28.0 | 2026-09-15T10:08:12.103Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
 | node-opcua-server | Node.js/JavaScript | Web Framework | 2.184.3 | 2026-09-15T09:58:05.535Z | [open](records/node-js-javascript-node-opcua-server-32472434.md) |
@@ -145,7 +146,6 @@ Generated: `2026-09-15T10:25:06+00:00`
 | @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1132.0 | 2026-09-14T19:39:36.449Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | i18next-cli | Node.js/JavaScript | Benchmarking | 1.73.3 | 2026-09-14T19:36:21.009Z | [open](records/node-js-javascript-i18next-cli-729ce142.md) |
 | testing-conventions | Node.js/TypeScript | Type Checker | 0.0.120 | 2026-09-14T19:34:40.143Z | [open](records/node-js-typescript-testing-conventions-a7bae5cf.md) |
-| phino | Haskell | Library | 0.0.132 | 2026-09-14T19:15:57Z | [open](records/haskell-phino-0ffa79f2.md) |
 | speech_to_text | Dart | Filesystem Os | 7.5.0 | 2026-09-14T19:14:48.036781Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | node-red-contrib-oracledb-mod | Node.js/JavaScript | Database Datastore | 1.0.0 | 2026-09-14T18:41:31.786Z | [open](records/node-js-javascript-node-red-contrib-oracledb-mod-945fa78d.md) |
 | clap_complete | Rust | Cli | 4.6.10 | 2026-09-14T18:40:30.821537Z | [open](records/rust-clap-complete-57361877.md) |
@@ -290,7 +290,7 @@ Generated: `2026-09-15T10:25:06+00:00`
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10778 |
+| gh_search_reports_activity_not_release_version | 10519 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -298,13 +298,13 @@ Generated: `2026-09-15T10:25:06+00:00`
 | github_search_does_not_include_release_date | 437 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
+| github_latest_release_missing | 283 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 197 |
-| github_latest_release_missing | 172 |
+| not_a_go_module_path | 171 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| not_a_go_module_path | 22 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |

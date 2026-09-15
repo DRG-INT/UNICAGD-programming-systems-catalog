@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-15T10:25:06+00:00`
+Generated: `2026-09-15T11:22:29+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -30,19 +30,19 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Profiler (99)](catalog/by-category/profiler.md) · [Project Scaffolding (146)](catalog/by-category/project-scaffolding.md) · [Registry Repository (135)](catalog/by-category/registry-repository.md) · [Sanitizer (17)](catalog/by-category/sanitizer.md)
 [Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (410)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (688)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (657)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (319)](catalog/by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](catalog/by-category/utility-library.md) · [Visualization Gui (655)](catalog/by-category/visualization-gui.md) · [Web Framework (502)](catalog/by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](catalog/by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](catalog/by-category/utility-library.md) · [Visualization Gui (656)](catalog/by-category/visualization-gui.md) · [Web Framework (502)](catalog/by-category/web-framework.md)
 
 ## Corpus Shape
 
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29451 |
+| Canonical identity pages | 29452 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
 | Known stable release fields | 11079 |
-| Unknown stable release fields | 18372 |
-| Fetch errors recorded | 1022 |
+| Unknown stable release fields | 18373 |
+| Fetch errors recorded | 1528 |
 | Target identity count | 24000 |
 
 ## Language Scope

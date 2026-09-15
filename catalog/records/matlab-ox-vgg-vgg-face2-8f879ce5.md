@@ -34,8 +34,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2020-02-18T15:30:05Z | gh search repos language:MATLAB stars:>100 | gh_search_reports_activity_not_release_version |
-| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
+| stable | unknown |  |  | unknown | github_latest_release_missing |
+| preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
 
 ## License And Use Alert
 
@@ -49,8 +49,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
-- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
+- Stable release is unknown because `github_latest_release_missing`.
+- Preview/nightly metadata is unknown because `github_prerelease_missing`.
 
 ## Provenance
 
@@ -105,4 +105,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)

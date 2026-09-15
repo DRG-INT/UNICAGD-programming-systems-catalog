@@ -33,7 +33,7 @@ and operational fit assessment.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2018-04-27T17:12:30.554Z | [https://gitlab.com/api/v4/projects?search=devops&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=devops&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
+| stable | partial |  | 2018-04-27T17:12:30.554Z | [https://gitlab.com/api/v4/projects?search=kubernetes&order_by=star_count&sort=desc&simple=true&per_page=100](https://gitlab.com/api/v4/projects?search=kubernetes&order_by=star_count&sort=desc&simple=true&per_page=100) | gitlab_projects_api_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gitlab_projects_api_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -58,7 +58,7 @@ and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "devops", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "kubernetes", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
 
 </details>
 
@@ -104,4 +104,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-**[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md)** · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+**[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md)** · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)

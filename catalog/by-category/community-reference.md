@@ -24,7 +24,7 @@ Records: `126`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C23
 
@@ -120,7 +120,7 @@ Records: `126`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| practical-tutorials/project-based-learning | partial | 2026-09-14T07:10:04Z | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
+| practical-tutorials/project-based-learning | unknown | not_a_go_module_path | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
 
 ## nix
 

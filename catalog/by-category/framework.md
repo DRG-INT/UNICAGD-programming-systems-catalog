@@ -24,7 +24,7 @@ Records: `64`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -74,8 +74,8 @@ Records: `64`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | dobyte/due | partial | 2026-09-14T13:10:48Z | [open](../records/go-dobyte-due-642c6a6f.md) |
-| gocolly/colly | partial | 2026-09-02T13:21:46Z | [open](../records/go-gocolly-colly-fa679a27.md) |
-| micro/go-micro | partial | 2026-09-11T06:17:05Z | [open](../records/go-micro-go-micro-af542d9e.md) |
+| gocolly/colly | unknown | not_a_go_module_path | [open](../records/go-gocolly-colly-fa679a27.md) |
+| micro/go-micro | unknown | not_a_go_module_path | [open](../records/go-micro-go-micro-af542d9e.md) |
 | Mindinventory/Golang-Project-Structure | partial | 2023-04-25T07:04:11Z | [open](../records/go-mindinventory-golang-project-structure-c6e24a0b.md) |
 
 ## Basilisk

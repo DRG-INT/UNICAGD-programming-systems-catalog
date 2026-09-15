@@ -24,7 +24,7 @@ Records: `193`
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -111,7 +111,7 @@ Records: `193`
 | [ens-lgil/PGS_Catalog_deprecated](../records/repertoare-catalogs-ens-lgil-pgs-catalog-deprecated-88d51e98.md) | partial | 2025-11-18T16:51:23Z | registry-derived |
 | [Federico-Aguirre/Veterinaria_Laravel](../records/repertoare-catalogs-federico-aguirre-veterinaria-laravel-0ef91b6e.md) | partial | 2026-09-08T04:58:25Z | registry-derived |
 | [hwasun-zip/Catalog-Triage](../records/repertoare-catalogs-hwasun-zip-catalog-triage-f9629850.md) | partial | 2026-08-31T15:03:01Z | registry-derived |
-| [PGScatalog/PGS_Catalog](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) | partial | 2026-09-03T15:07:53Z | registry-derived |
+| [PGScatalog/PGS_Catalog](../records/repertoare-catalogs-pgscatalog-pgs-catalog-ee188ec5.md) | partial | 2026-09-15T10:52:30Z | registry-derived |
 
 ### Dependency Manager
 
@@ -160,7 +160,7 @@ Records: `193`
 | --- | --- | --- | --- |
 | [abhiramAjay/Self-Healing-Repertoire-Engine](../records/repertoare-catalogs-abhiramajay-self-healing-repertoire-engine-afff2269.md) | partial | 2026-02-05T07:43:18Z | registry-derived |
 | [gastroph/Rock-Band-DLC---Leaderboards-App-for-Android](../records/repertoare-catalogs-gastroph-rock-band-dlc-leaderboards-app-for-android-35abaa1b.md) | partial | 2010-04-16T20:13:37Z | registry-derived |
-| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-14T17:52:09Z | registry-derived |
+| [heylabs-co/dev-tools-portal](../records/repertoare-catalogs-heylabs-co-dev-tools-portal-7c271bc4.md) | partial | 2026-09-15T11:20:39Z | registry-derived |
 | [jasondentler/wild-catalog](../records/repertoare-catalogs-jasondentler-wild-catalog-f314f00b.md) | partial | 2026-07-05T03:54:55Z | registry-derived |
 | [pesnik/flask-repertoire](../records/repertoare-catalogs-pesnik-flask-repertoire-569c53ed.md) | partial | 2025-03-13T21:08:48Z | registry-derived |
 | [pesnik/gin-repertoire](../records/repertoare-catalogs-pesnik-gin-repertoire-59474943.md) | partial | 2025-03-13T23:17:07Z | registry-derived |
@@ -229,7 +229,7 @@ Records: `193`
 | [adityacodes30/catalog-scoring-ondc](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) | partial | 2024-06-23T17:33:29Z | registry-derived |
 | [AdityaLad2004/Catalog-Score](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) | partial | 2024-02-10T18:28:30Z | registry-derived |
 | [alphaparkinc/genpark-catalog-enrichment-skill](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) | partial | 2026-07-10T05:51:52Z | registry-derived |
-| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-14T20:14:42Z | registry-derived |
+| [Arnon-hs/open-source](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) | partial | 2026-09-15T11:08:31Z | registry-derived |
 | [CHagarty/scorecard-catalogue](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) | partial | 2025-07-11T00:33:16Z | registry-derived |
 | [Chistera-Scoring/services-catalog](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) | partial | 2023-11-27T10:50:20Z | registry-derived |
 | [Eswaraiahsapram/scorecard-catalog](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) | partial | 2025-09-02T05:54:30Z | registry-derived |
@@ -280,7 +280,7 @@ Records: `193`
 | [DanielHaggstrom/Genomics](../records/repertoare-catalogs-danielhaggstrom-genomics-9d0627e3.md) | partial | 2026-04-06T15:34:32Z | registry-derived |
 | [giorkala/pgs_calculation_workflow](../records/repertoare-catalogs-giorkala-pgs-calculation-workflow-d8e45882.md) | partial | 2026-03-19T19:37:13Z | registry-derived |
 | [iamtechnoana/product-matching-system](../records/repertoare-catalogs-iamtechnoana-product-matching-system-3b78cbd2.md) | partial | 2026-04-02T17:35:43Z | registry-derived |
-| [nirholas/lyra-registry](../records/repertoare-catalogs-nirholas-lyra-registry-0fb2fc51.md) | partial | 2026-09-14T05:49:55Z | registry-derived |
+| [nirholas/lyra-registry](../records/repertoare-catalogs-nirholas-lyra-registry-0fb2fc51.md) | partial | 2026-09-15T08:00:02Z | registry-derived |
 | [PGScatalog/pgsc_calc](../records/repertoare-catalogs-pgscatalog-pgsc-calc-0cbf3293.md) | partial | 2026-06-03T11:48:46Z | registry-derived |
 
 ### Parser Lexer Ast
@@ -349,7 +349,7 @@ Records: `193`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Agam3108/Catalogue-Scanning-App](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) | partial | 2024-03-23T09:53:13Z | registry-derived |
-| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-12T22:00:49Z | registry-derived |
+| [glitchwerks/claude-wayfinder](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) | partial | 2026-09-15T01:08:09Z | registry-derived |
 | [HusseinBakri/PythonFinancialRepertoire](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) | partial | 2020-02-23T11:17:53Z | registry-derived |
 | [jayesh265/classifying_songs_based_on_audio_data](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) | partial | 2020-03-17T05:32:14Z | registry-derived |
 | [johnvteixido/etherlens](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) | partial | 2026-06-12T21:21:22Z | registry-derived |

@@ -24,7 +24,7 @@ Records: `291`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -431,7 +431,7 @@ Records: `291`
 | google/highway | partial | 2026-09-11T18:56:42Z | [open](../records/webassembly-google-highway-0f405ea0.md) |
 | hemashushu/practice-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-hemashushu-practice-wasm-af9b64ef.md) |
 | kanaka/mal | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-kanaka-mal-bd74d373.md) |
-| konsoletyper/teavm | partial | 2026-09-13T16:51:49Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
+| konsoletyper/teavm | partial | 2026-09-14T17:18:01Z | [open](../records/webassembly-konsoletyper-teavm-1a634858.md) |
 | leaningtech/webvm | partial | 2026-08-27T13:53:21Z | [open](../records/webassembly-leaningtech-webvm-e3518757.md) |
 | libraries/pywasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-libraries-pywasm-371c9f97.md) |
 | lifthrasiir/wah | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-lifthrasiir-wah-6064c64b.md) |
@@ -451,7 +451,7 @@ Records: `291`
 | wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wamr-webassembly-micro-runtime-wamr-is-an-aot-jit-interpreter-focusing-on-small-footprint-358da7f6.md) |
 | wasm-micro-runtime/wasm-micro-runtime | partial | 2026-09-14T05:31:19Z | [open](../records/webassembly-wasm-micro-runtime-wasm-micro-runtime-0baaf623.md) |
 | wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa) | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasm3-the-fastest-webassembly-interpreter-x86-x64-arm-mips-xtensa-05225f2f.md) |
-| wasm3/wasm3 | partial | 2026-09-14T20:29:55Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
+| wasm3/wasm3 | partial | 2026-09-15T10:56:49Z | [open](../records/webassembly-wasm3-wasm3-d6e345d2.md) |
 | WasmEdge/WasmEdge | partial | 2026-09-15T06:52:25Z | [open](../records/webassembly-wasmedge-wasmedge-e72c64d1.md) |
 | Wasmer - Standalone JIT WebAssembly Runtime | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-wasmer-standalone-jit-webassembly-runtime-c5c74d5d.md) |
 | wasmerio/wasmer-go | partial | 2025-02-01T18:39:34Z | [open](../records/webassembly-wasmerio-wasmer-go-1b8dc593.md) |

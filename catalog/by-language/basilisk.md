@@ -24,7 +24,7 @@ Records: `37`
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -115,7 +115,7 @@ Records: `37`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | partial | 2023-06-28T06:42:25Z | registry-derived |
-| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-14T22:49:55Z | registry-derived |
+| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-15T11:12:54Z | registry-derived |
 | [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-09-02T17:52:11Z | registry-derived |
 | [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
 | [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |

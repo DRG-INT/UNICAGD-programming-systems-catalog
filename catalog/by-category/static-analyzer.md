@@ -24,7 +24,7 @@ Records: `688`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (688)](static-analyzer.md)**
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -771,7 +771,7 @@ Records: `688`
 | LunaeMons/SDRPlusPlus_CommunityEdition | partial | 2025-09-08T18:44:29Z | [open](../records/electromagnetoscopes-lunaemons-sdrplusplus-communityedition-a9ba0716.md) |
 | markjay4k/Audio-Spectrum-Analyzer-in-Python | partial | 2024-07-14T21:56:42Z | [open](../records/electromagnetoscopes-markjay4k-audio-spectrum-analyzer-in-python-f916783d.md) |
 | Maschine2501/NR1-UI | partial | 2024-01-25T15:32:59Z | [open](../records/electromagnetoscopes-maschine2501-nr1-ui-0ac970e6.md) |
-| MattCheramie/GopherTrunk | partial | 2026-09-13T20:29:27Z | [open](../records/electromagnetoscopes-mattcheramie-gophertrunk-5b37e2a7.md) |
+| MattCheramie/GopherTrunk | partial | 2026-09-15T06:44:45Z | [open](../records/electromagnetoscopes-mattcheramie-gophertrunk-5b37e2a7.md) |
 | maximtrp/spectrumLED | partial | 2020-10-17T19:13:04Z | [open](../records/electromagnetoscopes-maximtrp-spectrumled-1a53b179.md) |
 | mclim9/rssd | partial | 2024-07-08T04:03:48Z | [open](../records/electromagnetoscopes-mclim9-rssd-88a857e7.md) |
 | mebrown47/CUDA_spectrum | partial | 2026-05-04T01:52:13Z | [open](../records/electromagnetoscopes-mebrown47-cuda-spectrum-240ee354.md) |
@@ -831,7 +831,7 @@ Records: `688`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Agam3108/Catalogue-Scanning-App | partial | 2024-03-23T09:53:13Z | [open](../records/repertoare-catalogs-agam3108-catalogue-scanning-app-ae967b87.md) |
-| glitchwerks/claude-wayfinder | partial | 2026-09-12T22:00:49Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
+| glitchwerks/claude-wayfinder | partial | 2026-09-15T01:08:09Z | [open](../records/repertoare-catalogs-glitchwerks-claude-wayfinder-f0e59761.md) |
 | HusseinBakri/PythonFinancialRepertoire | partial | 2020-02-23T11:17:53Z | [open](../records/repertoare-catalogs-husseinbakri-pythonfinancialrepertoire-47b61516.md) |
 | jayesh265/classifying_songs_based_on_audio_data | partial | 2020-03-17T05:32:14Z | [open](../records/repertoare-catalogs-jayesh265-classifying-songs-based-on-audio-data-c26a05ff.md) |
 | johnvteixido/etherlens | partial | 2026-06-12T21:21:22Z | [open](../records/repertoare-catalogs-johnvteixido-etherlens-c7b3a681.md) |

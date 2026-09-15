@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T10:25:06+00:00`
+Generated: `2026-09-15T11:22:29+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -22,7 +22,7 @@ Generated: `2026-09-15T10:25:06+00:00`
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (655)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (656)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
 
 ## Languages
 
@@ -72,7 +72,7 @@ Generated: `2026-09-15T10:25:06+00:00`
 | Radars | 365 | 0 | [Radars](by-language/radars.md) |
 | SatCom Satellites | 327 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 510 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
-| Radio Garden Speciality | 130 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
+| Radio Garden Speciality | 131 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
 | Repertoare Catalogs | 193 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
 | Catalogs | 285 | 0 | [Catalogs](by-language/catalogs.md) |
 | Magazines | 342 | 0 | [Magazines](by-language/magazines.md) |
@@ -158,7 +158,7 @@ Generated: `2026-09-15T10:25:06+00:00`
 | Type Checker | 319 | [type_checker](by-category/type-checker.md) |
 | Undefined Behavior Analyzer | 1678 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 108 | [utility_library](by-category/utility-library.md) |
-| Visualization Gui | 655 | [visualization_gui](by-category/visualization-gui.md) |
+| Visualization Gui | 656 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 502 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
@@ -209,7 +209,7 @@ Generated: `2026-09-15T10:25:06+00:00`
 | Radars | 0 | 365 |
 | SatCom Satellites | 0 | 327 |
 | Electromagnetoscopes | 0 | 510 |
-| Radio Garden Speciality | 0 | 130 |
+| Radio Garden Speciality | 0 | 131 |
 | Repertoare Catalogs | 0 | 193 |
 | Catalogs | 0 | 285 |
 | Magazines | 0 | 342 |

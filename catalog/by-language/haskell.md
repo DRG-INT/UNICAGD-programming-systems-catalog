@@ -24,7 +24,7 @@ Records: `1785`
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -1210,7 +1210,7 @@ Records: `1785`
 | [pgmq-core](../records/haskell-pgmq-core-34d8e251.md) | 0.6.0.0 | 2026-09-10T19:39:05Z | registry-derived |
 | [pgmq-effectful](../records/haskell-pgmq-effectful-762abfb0.md) | 0.6.0.0 | 2026-09-10T19:39:28Z | registry-derived |
 | [pgmq-migration](../records/haskell-pgmq-migration-ed203ec5.md) | 0.6.0.0 | 2026-09-10T19:39:21Z | registry-derived |
-| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.132 | 2026-09-14T19:15:57Z | registry-derived |
+| [phino](../records/haskell-phino-0ffa79f2.md) | 0.0.133 | 2026-09-15T10:24:37Z | registry-derived |
 | [pinboard](../records/haskell-pinboard-08e346f1.md) | 0.10.3.0 | 2022-05-07T23:32:56Z | registry-derived |
 | [pinch](../records/haskell-pinch-801ed692.md) | 0.5.2.0 | 2024-07-09T02:44:30Z | registry-derived |
 | [plugins](../records/haskell-plugins-1103fc5c.md) | 1.6.2.1 | 2022-03-27T15:40:09Z | registry-derived |

@@ -24,7 +24,7 @@ Records: `327`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -269,7 +269,7 @@ Records: `327`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
-| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
+| tmrts/go-patterns | unknown | not_a_go_module_path | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 

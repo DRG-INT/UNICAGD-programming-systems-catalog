@@ -24,7 +24,7 @@ Records: `40`
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## Julia
 
@@ -79,7 +79,7 @@ Records: `40`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| emirpasic/gods | partial | 2025-03-12T00:01:29Z | [open](../records/go-emirpasic-gods-83b03cfe.md) |
+| emirpasic/gods | unknown | not_a_go_module_path | [open](../records/go-emirpasic-gods-83b03cfe.md) |
 
 ## Transmission Protocols
 

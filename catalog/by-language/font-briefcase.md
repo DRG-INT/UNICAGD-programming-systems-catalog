@@ -24,7 +24,7 @@ Records: `272`
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (655)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -253,7 +253,7 @@ Records: `272`
 | [Happyesss/assignme](../records/font-briefcase-happyesss-assignme-58c3230f.md) | partial | 2025-07-02T21:07:56Z | registry-derived |
 | [hckiang/font-new-heterodox-mono](../records/font-briefcase-hckiang-font-new-heterodox-mono-27da0bc9.md) | partial | 2024-01-12T13:33:18Z | registry-derived |
 | [hypernewbie/VEFontCache](../records/font-briefcase-hypernewbie-vefontcache-305bec56.md) | partial | 2026-05-28T07:42:18Z | registry-derived |
-| [IBM/plex](../records/font-briefcase-ibm-plex-5afb693e.md) | partial | 2026-09-09T16:01:00Z | registry-derived |
+| [IBM/plex](../records/font-briefcase-ibm-plex-5afb693e.md) | partial | 2026-09-14T17:24:05Z | registry-derived |
 | [IdreesInc/Miracode](../records/font-briefcase-idreesinc-miracode-1fe45254.md) | partial | 2025-08-05T21:13:43Z | registry-derived |
 | [ilikerobots/polyicon](../records/font-briefcase-ilikerobots-polyicon-c90f638b.md) | partial | 2022-12-06T03:03:00Z | registry-derived |
 | [ivodolenc/aspekta](../records/font-briefcase-ivodolenc-aspekta-914a7883.md) | partial | 2025-05-09T11:00:55Z | registry-derived |
