@@ -14,7 +14,7 @@ Records: `600`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6233)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -246,7 +246,7 @@ Records: `600`
 | [AcademySoftwareFoundation/OpenImageIO](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) | partial | 2026-09-13T05:27:31Z | registry-derived |
 | [AlenVelocity/wa-sticker-formatter](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) | partial | 2026-08-10T19:22:06Z | registry-derived |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-15T17:03:23Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-15T17:58:44Z | registry-derived |
 | [blakeblackshear/frigate-hass-integration](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) | partial | 2026-09-04T06:33:23Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-15T12:15:23Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
@@ -520,7 +520,7 @@ Records: `600`
 | [LuckSiege/PictureSelector](../records/photography-lucksiege-pictureselector-42cc3cef.md) | partial | 2024-05-11T03:14:44Z | registry-derived |
 | [lyckantropen/moonlight_hdr_launcher](../records/photography-lyckantropen-moonlight-hdr-launcher-a7997341.md) | partial | 2024-06-29T10:42:48Z | registry-derived |
 | [McNopper/EGL](../records/photography-mcnopper-egl-83a16f1c.md) | partial | 2026-08-01T18:15:48Z | registry-derived |
-| [meetqy/rao-pics](../records/photography-meetqy-rao-pics-057514e9.md) | partial | 2026-09-12T16:49:34Z | registry-derived |
+| [meetqy/rao-pics](../records/photography-meetqy-rao-pics-057514e9.md) | partial | 2026-09-15T17:40:42Z | registry-derived |
 | [meiu/meiupic](../records/photography-meiu-meiupic-d61ca921.md) | partial | 2021-07-07T16:28:33Z | registry-derived |
 | [motioneye-project/motioneye](../records/photography-motioneye-project-motioneye-6759b14c.md) | partial | 2026-09-14T23:58:38Z | registry-derived |
 | [mustakshif/Asri](../records/photography-mustakshif-asri-d6fbc7e4.md) | partial | 2026-09-09T05:02:59Z | registry-derived |
@@ -654,7 +654,7 @@ Records: `600`
 | [cshum/imagor](../records/photography-cshum-imagor-a7d7da1b.md) | partial | 2026-09-12T17:25:02Z | registry-derived |
 | [dmpop/pellicola](../records/photography-dmpop-pellicola-756cb6c8.md) | partial | 2025-05-27T11:09:48Z | registry-derived |
 | [h2non/imaginary](../records/photography-h2non-imaginary-36b02b58.md) | partial | 2025-11-08T19:49:48Z | registry-derived |
-| [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-15T17:19:03Z | registry-derived |
+| [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-15T17:40:51Z | registry-derived |
 | [iib0011/omni-tools](../records/photography-iib0011-omni-tools-25e339f6.md) | partial | 2026-08-17T19:00:25Z | registry-derived |
 | [imgproxy/imgproxy](../records/photography-imgproxy-imgproxy-fffb72aa.md) | partial | 2026-09-12T19:38:26Z | registry-derived |
 | [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-15T13:32:53Z | registry-derived |

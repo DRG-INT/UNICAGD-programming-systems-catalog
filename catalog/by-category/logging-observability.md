@@ -14,7 +14,7 @@ Records: `600`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -633,7 +633,7 @@ Records: `600`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| afermg/cp_measure | partial | 2026-09-03T00:31:00Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
+| afermg/cp_measure | partial | 2026-09-15T19:04:38Z | [open](../records/microscopy-afermg-cp-measure-ee9fd0ec.md) |
 | BiologyTools/BioImager | partial | 2026-06-19T10:01:50Z | [open](../records/microscopy-biologytools-bioimager-62b82291.md) |
 | Dana-Farber-AIOS/pathml | partial | 2026-08-14T02:49:27Z | [open](../records/microscopy-dana-farber-aios-pathml-b56cd566.md) |
 | flika-org/flika | partial | 2026-03-04T16:01:04Z | [open](../records/microscopy-flika-org-flika-fc3890a5.md) |

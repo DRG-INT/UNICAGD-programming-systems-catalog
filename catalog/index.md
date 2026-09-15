@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T18:24:09+00:00`
+Generated: `2026-09-15T19:20:07+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -12,7 +12,7 @@ Generated: `2026-09-15T18:24:09+00:00`
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1737)](by-category/filesystem-os.md) · [Formatter (678)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (678)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6233)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -63,7 +63,7 @@ Generated: `2026-09-15T18:24:09+00:00`
 | Space Engines | 160 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 81 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 659 | 0 | [Space Maps](by-language/space-maps.md) |
-| Effects | 785 | 1 | [Effects](by-language/effects.md) |
+| Effects | 786 | 1 | [Effects](by-language/effects.md) |
 | Audio | 483 | 0 | [Audio](by-language/audio.md) |
 | Video | 472 | 0 | [Video](by-language/video.md) |
 | Photography | 600 | 0 | [Photography](by-language/photography.md) |
@@ -118,7 +118,7 @@ Generated: `2026-09-15T18:24:09+00:00`
 | Documentation | 116 | [documentation](by-category/documentation.md) |
 | Embedded Hardware | 70 | [embedded_hardware](by-category/embedded-hardware.md) |
 | Ffi Bindings | 492 | [ffi_bindings](by-category/ffi-bindings.md) |
-| Filesystem Os | 1737 | [filesystem_os](by-category/filesystem-os.md) |
+| Filesystem Os | 1738 | [filesystem_os](by-category/filesystem-os.md) |
 | Formatter | 678 | [formatter](by-category/formatter.md) |
 | Framework | 64 | [framework](by-category/framework.md) |
 | Fuzzer | 68 | [fuzzer](by-category/fuzzer.md) |
@@ -200,7 +200,7 @@ Generated: `2026-09-15T18:24:09+00:00`
 | Space Engines | 0 | 160 |
 | Space Shuttles | 0 | 81 |
 | Space Maps | 0 | 659 |
-| Effects | 1 | 784 |
+| Effects | 1 | 785 |
 | Audio | 0 | 483 |
 | Video | 0 | 472 |
 | Photography | 0 | 600 |
