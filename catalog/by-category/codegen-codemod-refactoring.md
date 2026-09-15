@@ -24,7 +24,7 @@ Records: `23`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -44,7 +44,7 @@ Records: `23`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aws-smithy-types | 1.7.0 | 2026-09-14T22:22:23.734430Z | [open](../records/rust-aws-smithy-types-0b48826d.md) |
+| aws-smithy-types | 1.6.3 | 2026-09-14T22:22:23.734430Z | [open](../records/rust-aws-smithy-types-0b48826d.md) |
 | cranelift-codegen | 0.135.1 | 2026-08-24T19:58:03.457027Z | [open](../records/rust-cranelift-codegen-302a3878.md) |
 | cranelift-codegen-meta | 0.135.1 | 2026-08-24T19:57:57.109443Z | [open](../records/rust-cranelift-codegen-meta-d42c17e1.md) |
 | cranelift-codegen-shared | 0.135.1 | 2026-08-24T19:57:54.241620Z | [open](../records/rust-cranelift-codegen-shared-08f5a977.md) |

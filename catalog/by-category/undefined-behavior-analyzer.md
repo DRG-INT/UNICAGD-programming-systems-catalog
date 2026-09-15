@@ -24,7 +24,7 @@ Records: `1678`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-**[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+**[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -1456,7 +1456,7 @@ Records: `1678`
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-15T18:21:00Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-15T19:51:39Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-14T19:07:30Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1468,7 +1468,7 @@ Records: `1678`
 | modelscope/FunClip | partial | 2026-09-10T12:36:13Z | [open](../records/video-modelscope-funclip-7124bb3f.md) |
 | MrS0m30n3/youtube-dl-gui | partial | 2022-12-06T17:12:44Z | [open](../records/video-mrs0m30n3-youtube-dl-gui-b78c733b.md) |
 | namidaco/namida | partial | 2026-09-15T01:00:07Z | [open](../records/video-namidaco-namida-7a28ae53.md) |
-| OpenShot/libopenshot | partial | 2026-09-15T18:18:24Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
+| OpenShot/libopenshot | partial | 2026-09-15T20:19:42Z | [open](../records/video-openshot-libopenshot-313927ae.md) |
 | OvenMediaLabs/OvenMediaEngine | partial | 2026-09-07T08:57:02Z | [open](../records/video-ovenmedialabs-ovenmediaengine-48a1af34.md) |
 | patrikhuber/4dface | partial | 2018-12-10T15:49:06Z | [open](../records/video-patrikhuber-4dface-650983e0.md) |
 | RayVentura/ShortGPT | partial | 2025-02-10T19:33:18Z | [open](../records/video-rayventura-shortgpt-d64f25d3.md) |
@@ -1557,7 +1557,7 @@ Records: `1678`
 | dan11003/CFEAR_Radarodometry_code_public | partial | 2024-10-17T19:30:06Z | [open](../records/radars-dan11003-cfear-radarodometry-code-public-11fea8df.md) |
 | ESA-PhiLab/sarpyx | partial | 2026-08-18T09:41:18Z | [open](../records/radars-esa-philab-sarpyx-22bdc04c.md) |
 | GeoscienceAustralia/ginan | partial | 2026-08-24T01:32:17Z | [open](../records/radars-geoscienceaustralia-ginan-02776f5a.md) |
-| jldz9/InSARHub | partial | 2026-09-13T23:45:57Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
+| jldz9/InSARHub | partial | 2026-09-15T20:00:45Z | [open](../records/radars-jldz9-insarhub-fdef62b9.md) |
 | olliestephenson/dpm-rnn-public | partial | 2021-07-30T20:55:47Z | [open](../records/radars-olliestephenson-dpm-rnn-public-af4e7b49.md) |
 | opendatacube/datacube-core | partial | 2026-09-14T17:14:46Z | [open](../records/radars-opendatacube-datacube-core-d382000b.md) |
 | orfeotoolbox/OTB | partial | 2026-09-11T14:41:07Z | [open](../records/radars-orfeotoolbox-otb-5833013c.md) |
@@ -1895,7 +1895,7 @@ Records: `1678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ananace/charts | partial | 2026-09-12T14:55:10.533Z | [open](../records/repository-workplaces-ananace-charts-e6b30b05.md) |
+| ananace/charts | partial | 2026-09-15T19:25:43.120Z | [open](../records/repository-workplaces-ananace-charts-e6b30b05.md) |
 | bdowney/ansible-demo | partial | 2024-07-24T10:07:47.956Z | [open](../records/repository-workplaces-bdowney-ansible-demo-8ddaacae.md) |
 | castlecraft/erpnext_kubernetes | partial | 2021-10-03T22:08:14.620Z | [open](../records/repository-workplaces-castlecraft-erpnext-kubernetes-f8edadde.md) |
 | cloud-versity/rancher-k3s-first-steps | partial | 2023-01-16T15:40:21.810Z | [open](../records/repository-workplaces-cloud-versity-rancher-k3s-first-steps-c86f160c.md) |
@@ -1917,7 +1917,7 @@ Records: `1678`
 | gitlab-org/caproni | partial | 2026-09-14T16:46:27.747Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-15T17:43:14.889Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-15T19:19:06.963Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |
@@ -1942,4 +1942,4 @@ Records: `1678`
 | xavki/tutorials-kubernetes-v2 | partial | 2026-06-21T11:05:47.441Z | [open](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) |
 | xavki/tutorials-terraform | partial | 2026-06-21T11:06:39.325Z | [open](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) |
 | xavki/vagrant-stacks-library | partial | 2026-06-21T11:06:12.528Z | [open](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) |
-| yaook/operator | partial | 2026-09-15T15:27:41.629Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |
+| yaook/operator | partial | 2026-09-15T20:04:32.300Z | [open](../records/repository-workplaces-yaook-operator-aa452dcd.md) |

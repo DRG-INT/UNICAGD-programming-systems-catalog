@@ -24,7 +24,7 @@ Records: `394`
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -484,7 +484,7 @@ Records: `394`
 | [ts-md5](../records/node-js-typescript-ts-md5-49b9e4d9.md) | 2.0.1 | 2025-07-02T03:40:42.951Z | npm_registry |
 | [ts-pattern](../records/node-js-typescript-ts-pattern-ba33c433.md) | 5.9.0 | 2025-10-26T13:58:13.666Z | registry-derived |
 | [ts-pnp](../records/node-js-typescript-ts-pnp-2b5ce55c.md) | 1.2.0 | 2020-03-26T17:46:02.172Z | registry-derived |
-| [tslog](../records/node-js-typescript-tslog-595d00a5.md) | 5.1.0 | 2026-07-16T22:14:58.457Z | registry-derived |
+| [tslog](../records/node-js-typescript-tslog-595d00a5.md) | 5.2.0 | 2026-09-11T11:35:44.242Z | registry-derived |
 | [type-fest](../records/node-js-typescript-type-fest-05e5048b.md) | 5.9.0 | 2026-08-30T23:58:44.656Z | registry-derived |
 | [type-testing](../records/node-js-typescript-type-testing-4fa65126.md) | 0.2.0 | 2023-10-30T19:38:39.979Z | registry-derived |
 | [typed-rest-client](../records/node-js-typescript-typed-rest-client-f0090a5f.md) | 3.1.2 | 2026-09-10T11:11:50.763Z | registry-derived |

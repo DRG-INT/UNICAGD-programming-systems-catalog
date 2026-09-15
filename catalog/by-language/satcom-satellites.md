@@ -24,7 +24,7 @@ Records: `327`
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -146,7 +146,7 @@ Records: `327`
 | [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-15T03:32:02Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [antonjan/gnuradio-grc-examples](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) | partial | 2022-09-02T07:17:09Z | registry-derived |
-| [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-15T14:20:51Z | registry-derived |
+| [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-15T20:20:50Z | registry-derived |
 | [chrieke/awesome-geospatial-companies](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) | partial | 2026-07-09T02:14:59Z | registry-derived |
 | [EttusResearch/uhd](../records/satcom-satellites-ettusresearch-uhd-fe8ed911.md) | partial | 2026-09-08T09:39:03Z | registry-derived |
 | [ExoSpaceLabs/CCSDSPack](../records/satcom-satellites-exospacelabs-ccsdspack-0508282a.md) | partial | 2026-08-31T11:30:37Z | registry-derived |
@@ -221,7 +221,7 @@ Records: `327`
 | [bellingcat/sar-interference-tracker](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [cbassa/stvid](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) | partial | 2026-06-14T12:26:58Z | registry-derived |
 | [CScorza/GEOINTInvestigation](../records/satcom-satellites-cscorza-geointinvestigation-97ccfead.md) | partial | 2025-08-08T09:23:42Z | registry-derived |
-| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-13T07:24:55Z | registry-derived |
+| [dividebysandwich/sdroxide](../records/satcom-satellites-dividebysandwich-sdroxide-b0d1a434.md) | partial | 2026-09-15T08:49:02Z | registry-derived |
 | [JonaNorman/HDRSample](../records/satcom-satellites-jonanorman-hdrsample-b3b07c40.md) | partial | 2024-08-01T09:01:08Z | registry-derived |
 | [jx9527/FHSS-Hopping-Estimation](../records/satcom-satellites-jx9527-fhss-hopping-estimation-df3390c6.md) | partial | 2022-06-27T02:51:40Z | registry-derived |
 | [MarcinWachowiak/gr-aoa](../records/satcom-satellites-marcinwachowiak-gr-aoa-f666d650.md) | partial | 2022-03-19T19:25:05Z | registry-derived |
@@ -359,7 +359,7 @@ Records: `327`
 | [robamu-org/tmtccmd](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) | partial | 2026-01-14T11:22:06Z | registry-derived |
 | [robintw/Py6S](../records/satcom-satellites-robintw-py6s-607064f7.md) | partial | 2025-10-22T23:09:34Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-15T06:03:24Z | registry-derived |
+| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-15T19:18:59Z | registry-derived |
 | [satnogs/gr-satnogs](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) | partial | 2018-12-17T14:53:47Z | registry-derived |
 | [TLeconte/acarsdec](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
 | [trishmapow/rf-jam-replay](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) | partial | 2019-06-10T22:09:28Z | registry-derived |
@@ -378,9 +378,9 @@ Records: `327`
 | [analogdevicesinc/gr-iio](../records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) | partial | 2023-06-30T09:08:01Z | registry-derived |
 | [analogdevicesinc/plutosdr-fw](../records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) | partial | 2026-08-13T21:21:29Z | registry-derived |
 | [ANG13T/SatIntel](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) | partial | 2024-03-15T16:29:23Z | registry-derived |
-| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-10T06:59:17Z | registry-derived |
+| [mendhak/gpslogger](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) | partial | 2026-09-15T17:52:26Z | registry-derived |
 | [sam210723/COMS-1](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) | partial | 2019-08-03T07:17:39Z | registry-derived |
-| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-15T11:54:22Z | registry-derived |
+| [sgoudelis/ground-station](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) | partial | 2026-09-15T16:59:39Z | registry-derived |
 
 ### Machine Learning
 

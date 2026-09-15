@@ -24,7 +24,7 @@ Records: `146`
 [Profiler (102)](profiler.md) · **[Project Scaffolding (146)](project-scaffolding.md)** · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -281,7 +281,7 @@ Records: `146`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | andrechristikan/ack-nestjs-boilerplate-kafka | partial | 2023-07-19T10:53:33Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
-| cobusgreyling/loop-engineering | partial | 2026-09-15T08:33:02Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
+| cobusgreyling/loop-engineering | partial | 2026-09-15T19:55:02Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
 
 ## PHP
 

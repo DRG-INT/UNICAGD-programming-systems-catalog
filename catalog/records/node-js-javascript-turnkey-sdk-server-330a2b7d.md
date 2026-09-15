@@ -34,7 +34,7 @@ request routing, middleware policy, service structure, and deployment surface.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 8.4.0 | 2026-09-04T15:40:30.545Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 8.5.0 | 2026-09-15T19:25:00.459Z | [https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
@@ -49,7 +49,7 @@ request routing, middleware policy, service structure, and deployment surface.
 
 - Treat category as `web_framework` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-04T16:20:31+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=server&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-15T20:19:34+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance
@@ -80,12 +80,12 @@ Evidence records merged into this identity: `1`.
 | --- | --- | --- |
 | @11ty/eleventy-dev-server | Web Framework | [open](node-js-javascript-11ty-eleventy-dev-server-0ff6d30a.md) |
 | @accounter/server | Web Framework | [open](node-js-javascript-accounter-server-29485588.md) |
+| @aikidosec/mcp | Web Framework | [open](node-js-javascript-aikidosec-mcp-adb304c8.md) |
 | @allurereport/plugin-server-reload | Web Framework | [open](node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
 | @allurereport/static-server | Web Framework | [open](node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | Web Framework | [open](node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
 | @apify/actors-mcp-server | Web Framework | [open](node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @apollo/server | Web Framework | [open](node-js-javascript-apollo-server-46e17e33.md) |
-| @apollo/server-gateway-interface | Web Framework | [open](node-js-javascript-apollo-server-gateway-interface-242837fc.md) |
 
 ## Category Index
 
@@ -105,4 +105,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · **[Web Framework (504)](../by-category/web-framework.md)**
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · **[Web Framework (505)](../by-category/web-framework.md)**

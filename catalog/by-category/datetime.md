@@ -24,7 +24,7 @@ Records: `258`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -319,7 +319,7 @@ Records: `258`
 | hanifabd/voice-activity-detection-vad-realtime | partial | 2025-08-18T12:44:25Z | [open](../records/audio-hanifabd-voice-activity-detection-vad-realtime-a0168f13.md) |
 | monadgroup/axiom | partial | 2019-09-27T03:38:57Z | [open](../records/audio-monadgroup-axiom-6c13a95f.md) |
 | neodsp/neort | partial | 2025-06-19T06:42:32Z | [open](../records/audio-neodsp-neort-24efdd30.md) |
-| nyrahealth/CrisperWhisper | partial | 2026-08-23T13:18:11Z | [open](../records/audio-nyrahealth-crisperwhisper-b827d51a.md) |
+| nyrahealth/CrisperWhisper | partial | 2026-09-14T12:26:57Z | [open](../records/audio-nyrahealth-crisperwhisper-b827d51a.md) |
 | riffusion/riffusion-hobby | partial | 2024-07-22T18:09:39Z | [open](../records/audio-riffusion-riffusion-hobby-681e1d1f.md) |
 | tabahi/bournemouth-forced-aligner | partial | 2026-06-07T00:51:20Z | [open](../records/audio-tabahi-bournemouth-forced-aligner-ecab2937.md) |
 | tucktuckg00se/INTERSECT | partial | 2026-07-25T09:05:24Z | [open](../records/audio-tucktuckg00se-intersect-af03101a.md) |

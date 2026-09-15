@@ -21,8 +21,8 @@
 
 ## System Engineer Summary
 
-Alice is an HTTP Inspector tool which helps debugging http requests. It catches and stores http
-requests and responses, which can be viewed via simple UI.
+An advanced HTTP inspector for Flutter that logs network requests and responses, providing a rich
+native UI for seamless API debugging.
 
 ## Operational Role
 
@@ -33,7 +33,7 @@ inspection, breakpoints, and production-adjacent diagnosis.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 1.4.0 | 2026-09-15T10:21:19.665413Z | [https://pub.dev/api/packages/alice](https://pub.dev/api/packages/alice) |  |
+| stable | known | 1.5.0 | 2026-09-15T20:12:01.734783Z | [https://pub.dev/api/packages/alice](https://pub.dev/api/packages/alice) |  |
 | preview | known | 1.0.0-dev.12 | 2024-09-29T14:15:39.989936Z | [https://pub.dev/api/packages/alice](https://pub.dev/api/packages/alice) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ inspection, breakpoints, and production-adjacent diagnosis.
 
 - Treat category as `debugger` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/alice` at `2026-09-15T12:24:56+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/alice` at `2026-09-15T20:19:48+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -91,4 +91,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)

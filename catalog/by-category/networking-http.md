@@ -24,7 +24,7 @@ Records: `1109`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C99
 
@@ -83,9 +83,9 @@ Records: `1109`
 | actix-server | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](../records/rust-actix-server-e5a4daec.md) |
 | attohttpc | 0.31.0 | 2026-05-25T03:09:33.175942Z | [open](../records/rust-attohttpc-ed4c6017.md) |
 | aws-http | 0.60.6 | 2024-08-09T19:35:18.677687Z | [open](../records/rust-aws-http-8b04a69b.md) |
-| aws-sigv4 | 1.5.2 | 2026-09-14T23:52:57.563524Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
+| aws-sigv4 | 1.5.1 | 2026-09-14T23:52:57.563524Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
 | aws-smithy-http | 0.64.0 | 2026-07-07T18:17:21.128942Z | [open](../records/rust-aws-smithy-http-1b0c4b7a.md) |
-| aws-smithy-http-client | 1.4.1 | 2026-09-14T22:25:53.687430Z | [open](../records/rust-aws-smithy-http-client-f416ca39.md) |
+| aws-smithy-http-client | 1.4.0 | 2026-09-14T22:25:53.687430Z | [open](../records/rust-aws-smithy-http-client-f416ca39.md) |
 | axum | 0.8.9 | 2026-04-14T07:55:20.258398Z | [open](../records/rust-axum-0b78744a.md) |
 | cadence | 1.8.0 | 2026-04-11T14:19:42.734244Z | [open](../records/rust-cadence-aabc0df1.md) |
 | calloop-wayland-source | 0.4.1 | 2025-09-06T13:16:16.065219Z | [open](../records/rust-calloop-wayland-source-8d73ae17.md) |
@@ -251,7 +251,7 @@ Records: `1109`
 | @algolia/requester-node-http | 5.59.0 | 2026-09-09T15:30:32.285Z | [open](../records/node-js-javascript-algolia-requester-node-http-0ff5a2d6.md) |
 | @atproto/xrpc-server | 0.12.7 | 2026-08-26T18:21:02.176Z | [open](../records/node-js-javascript-atproto-xrpc-server-eb024318.md) |
 | @aws-amplify/graphql-http-transformer | 3.0.23 | 2026-07-13T21:18:20.438Z | [open](../records/node-js-javascript-aws-amplify-graphql-http-transformer-8ede633f.md) |
-| @aws-sdk/client-database-migration-service | 3.1132.0 | 2026-09-14T19:39:36.449Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
+| @aws-sdk/client-database-migration-service | 3.1133.0 | 2026-09-15T19:02:35.669Z | [open](../records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
 | @azure/core-http-compat | 2.5.0 | 2026-07-13T21:38:57.674Z | [open](../records/node-js-javascript-azure-core-http-compat-82cb36ba.md) |
 | @cedarjs/api-server | 6.0.2 | 2026-09-07T21:12:55.441Z | [open](../records/node-js-javascript-cedarjs-api-server-0ec0ed14.md) |
 | @cloudflare/util-http | 2.0.19 | 2026-06-30T12:53:46.901Z | [open](../records/node-js-javascript-cloudflare-util-http-2d4a7ac2.md) |
@@ -339,8 +339,8 @@ Records: `1109`
 | @tmcp/transport-http | 0.9.0 | 2026-08-14T12:55:32.461Z | [open](../records/node-js-javascript-tmcp-transport-http-2f7c157d.md) |
 | @toruslabs/http-helpers | 9.0.0 | 2026-01-27T05:41:47.174Z | [open](../records/node-js-javascript-toruslabs-http-helpers-be5d6dcf.md) |
 | @tradle/react-native-http | 2.0.1 | 2018-06-03T14:33:13.344Z | [open](../records/node-js-javascript-tradle-react-native-http-58f291cc.md) |
-| @turnkey/api-key-stamper | 0.6.14 | 2026-09-04T15:40:15.196Z | [open](../records/node-js-javascript-turnkey-api-key-stamper-062c02bd.md) |
-| @turnkey/http | 6.4.0 | 2026-09-04T15:35:56.500Z | [open](../records/node-js-javascript-turnkey-http-e6ce6813.md) |
+| @turnkey/api-key-stamper | 0.6.15 | 2026-09-15T19:20:17.750Z | [open](../records/node-js-javascript-turnkey-api-key-stamper-062c02bd.md) |
+| @turnkey/http | 6.5.0 | 2026-09-15T19:19:17.605Z | [open](../records/node-js-javascript-turnkey-http-e6ce6813.md) |
 | @turnkey/webauthn-stamper | 0.6.0 | 2025-09-10T15:22:32.798Z | [open](../records/node-js-javascript-turnkey-webauthn-stamper-5e47fd7c.md) |
 | @tygra/http-terminator | 2.0.0 | 2025-10-27T14:54:50.000Z | [open](../records/node-js-javascript-tygra-http-terminator-8dcce8d5.md) |
 | @utcp/http | 1.1.13 | 2026-09-09T16:15:56.180Z | [open](../records/node-js-javascript-utcp-http-7e9336bd.md) |
@@ -442,11 +442,11 @@ Records: `1109`
 | node-loggly-bulk | 4.0.2 | 2024-08-14T13:35:42.160Z | [open](../records/node-js-javascript-node-loggly-bulk-d4af5ebe.md) |
 | nodemailer-fetch | 2.1.0 | 2016-10-08T22:04:13.734Z | [open](../records/node-js-javascript-nodemailer-fetch-dbd4324a.md) |
 | ocache | 0.3.0 | 2026-08-18T15:03:00.536Z | [open](../records/node-js-javascript-ocache-52cbc8bb.md) |
-| oci-database | 2.140.1 | 2026-09-01T18:40:16.874Z | [open](../records/node-js-javascript-oci-database-cacbd435.md) |
-| oci-databasemanagement | 2.140.1 | 2026-09-01T18:36:52.755Z | [open](../records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) |
-| oci-databasemigration | 2.140.1 | 2026-09-01T18:36:40.831Z | [open](../records/node-js-javascript-oci-databasemigration-75576e9b.md) |
-| oci-databasetools | 2.140.1 | 2026-09-01T18:33:52.479Z | [open](../records/node-js-javascript-oci-databasetools-e0fdb2b7.md) |
-| oci-distributeddatabase | 2.140.1 | 2026-09-01T18:39:31.660Z | [open](../records/node-js-javascript-oci-distributeddatabase-15271789.md) |
+| oci-database | 2.140.2 | 2026-09-15T19:43:00.011Z | [open](../records/node-js-javascript-oci-database-cacbd435.md) |
+| oci-databasemanagement | 2.140.2 | 2026-09-15T19:41:30.089Z | [open](../records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) |
+| oci-databasemigration | 2.140.2 | 2026-09-15T19:41:23.395Z | [open](../records/node-js-javascript-oci-databasemigration-75576e9b.md) |
+| oci-databasetools | 2.140.2 | 2026-09-15T19:45:20.466Z | [open](../records/node-js-javascript-oci-databasetools-e0fdb2b7.md) |
+| oci-distributeddatabase | 2.141.0 | 2026-09-15T19:42:23.975Z | [open](../records/node-js-javascript-oci-distributeddatabase-15271789.md) |
 | oci-globallydistributeddatabase | 2.124.0 | 2026-01-27T17:59:44.286Z | [open](../records/node-js-javascript-oci-globallydistributeddatabase-bfdb3ade.md) |
 | oci-logging | 2.140.0 | 2026-08-25T15:06:09.604Z | [open](../records/node-js-javascript-oci-logging-82dcb398.md) |
 | original-url | 1.2.3 | 2019-04-14T08:14:30.398Z | [open](../records/node-js-javascript-original-url-cffbd3bd.md) |

@@ -24,7 +24,7 @@ Records: `341`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 **[Security Sast (341)](security-sast.md)** · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## Julia
 
@@ -38,7 +38,7 @@ Records: `341`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| aws-sdk-sts | 1.115.0 | 2026-09-14T23:54:22.664287Z | [open](../records/rust-aws-sdk-sts-4cfb0f29.md) |
+| aws-sdk-sts | 1.114.0 | 2026-09-14T23:54:22.664287Z | [open](../records/rust-aws-sdk-sts-4cfb0f29.md) |
 | cargo-audit | unknown | not_checked | [open](../records/rust-cargo-audit-c60e4666.md) |
 | cargo-geiger | unknown | not_checked | [open](../records/rust-cargo-geiger-32a45576.md) |
 | cargo-semver-checks | unknown | not_checked | [open](../records/rust-cargo-semver-checks-8d894f1c.md) |
@@ -302,7 +302,7 @@ Records: `341`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| affaan-m/ECC | partial | 2026-09-15T19:03:17Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
+| affaan-m/ECC | partial | 2026-09-15T19:33:00Z | [open](../records/aim-s-affaan-m-ecc-7e36794e.md) |
 
 ## Doctrines
 
@@ -531,7 +531,7 @@ Records: `341`
 | palmapps/jwt-spring-security-demo | partial | 2019-02-23T10:05:23.454Z | [open](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) |
 | peachtech/peach-fuzzer-community | partial | 2021-03-30T17:59:40.973Z | [open](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) |
 | prism-break/prism-break | partial | 2026-09-09T18:50:23.501Z | [open](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) |
-| rawsec/rawsec-cybersecurity-list | partial | 2026-09-13T08:56:45.581Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
+| rawsec/rawsec-cybersecurity-list | partial | 2026-09-15T18:51:15.709Z | [open](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) |
 | riot.ai/NoteRiot | partial | 2024-03-25T22:54:03.551Z | [open](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) |
 | Shinobi-Systems/ShinobiCE | partial | 2026-03-16T12:22:45.336Z | [open](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) |
 | spritely/goblins | partial | 2025-03-11T20:30:35.821Z | [open](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) |

@@ -77,13 +77,13 @@ Evidence records merged into this identity: `1`.
 | Name | Category | Page |
 | --- | --- | --- |
 | @11ty/eleventy-dev-server | Web Framework | [open](node-js-javascript-11ty-eleventy-dev-server-0ff6d30a.md) |
+| @aikidosec/mcp | Web Framework | [open](node-js-javascript-aikidosec-mcp-adb304c8.md) |
 | @allurereport/plugin-server-reload | Web Framework | [open](node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
 | @allurereport/static-server | Web Framework | [open](node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | Web Framework | [open](node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
 | @apify/actors-mcp-server | Web Framework | [open](node-js-javascript-apify-actors-mcp-server-ac83acb1.md) |
 | @apollo/server | Web Framework | [open](node-js-javascript-apollo-server-46e17e33.md) |
 | @apollo/server-gateway-interface | Web Framework | [open](node-js-javascript-apollo-server-gateway-interface-242837fc.md) |
-| @apollo/server-plugin-response-cache | Web Framework | [open](node-js-javascript-apollo-server-plugin-response-cache-af5e58f9.md) |
 
 ## Category Index
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · **[Web Framework (504)](../by-category/web-framework.md)**
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · **[Web Framework (505)](../by-category/web-framework.md)**

@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-15T19:20:07+00:00`
+Generated: `2026-09-15T20:22:38+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -22,21 +22,39 @@ Generated: `2026-09-15T19:20:07+00:00`
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (696)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (659)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (321)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (504)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (505)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11141 |
+| Known stable release | 11142 |
 | Unknown stable release | 18386 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| alice | Dart | Debugger | 1.5.0 | 2026-09-15T20:12:01.734783Z | [open](records/dart-alice-97eb81d3.md) |
+| equatable | Dart | Ide Editor Integration | 3.0.0 | 2026-09-15T20:11:31.188136Z | [open](records/dart-equatable-a8232e72.md) |
+| fast-check | Node.js/JavaScript | Testing Framework | 4.10.1 | 2026-09-15T20:00:57.862Z | [open](records/node-js-javascript-fast-check-359bc465.md) |
+| oci-databasetools | Node.js/JavaScript | Networking Http | 2.140.2 | 2026-09-15T19:45:20.466Z | [open](records/node-js-javascript-oci-databasetools-e0fdb2b7.md) |
+| oci-database | Node.js/JavaScript | Networking Http | 2.140.2 | 2026-09-15T19:43:00.011Z | [open](records/node-js-javascript-oci-database-cacbd435.md) |
+| oci-distributeddatabase | Node.js/JavaScript | Networking Http | 2.141.0 | 2026-09-15T19:42:23.975Z | [open](records/node-js-javascript-oci-distributeddatabase-15271789.md) |
+| oci-databasemanagement | Node.js/JavaScript | Networking Http | 2.140.2 | 2026-09-15T19:41:30.089Z | [open](records/node-js-javascript-oci-databasemanagement-d3d2cf4c.md) |
+| oci-databasemigration | Node.js/JavaScript | Networking Http | 2.140.2 | 2026-09-15T19:41:23.395Z | [open](records/node-js-javascript-oci-databasemigration-75576e9b.md) |
+| @turnkey/sdk-server | Node.js/JavaScript | Web Framework | 8.5.0 | 2026-09-15T19:25:00.459Z | [open](records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
+| @turnkey/api-key-stamper | Node.js/JavaScript | Networking Http | 0.6.15 | 2026-09-15T19:20:17.750Z | [open](records/node-js-javascript-turnkey-api-key-stamper-062c02bd.md) |
+| @turnkey/http | Node.js/JavaScript | Networking Http | 6.5.0 | 2026-09-15T19:19:17.605Z | [open](records/node-js-javascript-turnkey-http-e6ce6813.md) |
+| @currents/mcp | Node.js/JavaScript | Web Framework | 2.5.0 | 2026-09-15T19:08:19.116Z | [open](records/node-js-javascript-currents-mcp-da022c62.md) |
+| flutter_soloud | Dart | Machine Learning | 5.1.1 | 2026-09-15T19:05:36.537937Z | [open](records/dart-flutter-soloud-5770bd43.md) |
+| @aws-sdk/client-database-migration-service | Node.js/JavaScript | Networking Http | 3.1133.0 | 2026-09-15T19:02:35.669Z | [open](records/node-js-javascript-aws-sdk-client-database-migration-service-058f4424.md) |
+| @sazabi/cli | Node.js/JavaScript | Cli | 1.11.0 | 2026-09-15T18:52:21.582Z | [open](records/node-js-javascript-sazabi-cli-62177a0a.md) |
+| @tachybase/plugin-database-clean | Node.js/JavaScript | Database Datastore | 1.6.58 | 2026-09-15T18:48:24.098Z | [open](records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
+| @lightdash/cli | Node.js/JavaScript | Cli | 2.226.2 | 2026-09-15T18:48:02.009Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.15-5 | 2026-09-15T18:45:17.573Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
+| eventsource-parser | Node.js/JavaScript | Parser Lexer Ast | 4.1.1 | 2026-09-15T18:30:29.195Z | [open](records/node-js-javascript-eventsource-parser-3589ee33.md) |
 | @sa11y/matcher | Node.js/JavaScript | Testing Framework | 8.1.0 | 2026-09-15T18:15:19.435Z | [open](records/node-js-javascript-sa11y-matcher-2c7aadca.md) |
-| @lightdash/cli | Node.js/JavaScript | Cli | 2.226.1 | 2026-09-15T18:06:35.518Z | [open](records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | intercom_flutter | Dart | Ide Editor Integration | 9.6.28 | 2026-09-15T17:59:35.736976Z | [open](records/dart-intercom-flutter-c88af118.md) |
 | zwirn | Haskell | Library | 0.2.3.1 | 2026-09-15T17:56:20Z | [open](records/haskell-zwirn-636aef50.md) |
 | chromatic | Node.js/JavaScript | Testing Framework | 18.9.0 | 2026-09-15T17:41:42.886Z | [open](records/node-js-javascript-chromatic-d4979463.md) |
@@ -75,7 +93,6 @@ Generated: `2026-09-15T19:20:07+00:00`
 | @react-router/serve | Node.js/JavaScript | Web Framework | 8.4.0 | 2026-09-15T15:23:22.143Z | [open](records/node-js-javascript-react-router-serve-fcd29568.md) |
 | object_store | Rust | Machine Learning | 0.14.2 | 2026-09-15T15:15:46.622836Z | [open](records/rust-object-store-cd8fea69.md) |
 | @napi-rs/cli | Node.js/JavaScript | Cli | 3.10.0 | 2026-09-15T15:02:12.855Z | [open](records/node-js-javascript-napi-rs-cli-3160c98d.md) |
-| @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.15-2 | 2026-09-15T14:53:11.531Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | hydra | Haskell | Library | 0.17.7 | 2026-09-15T14:50:56Z | [open](records/haskell-hydra-fcfa2c83.md) |
 | hydra-ext | Haskell | Library | 0.17.7 | 2026-09-15T14:50:56Z | [open](records/haskell-hydra-ext-5b88866b.md) |
 | hydra-pg | Haskell | Library | 0.17.7 | 2026-09-15T14:50:55Z | [open](records/haskell-hydra-pg-c4ede89a.md) |
@@ -90,7 +107,6 @@ Generated: `2026-09-15T19:20:07+00:00`
 | hydra-build | Haskell | Build System | 0.17.7 | 2026-09-15T14:50:50Z | [open](records/haskell-hydra-build-2105e920.md) |
 | hydra-kernel | Haskell | Library | 0.17.7 | 2026-09-15T14:50:50Z | [open](records/haskell-hydra-kernel-ba82de20.md) |
 | @cap-js/sqlite | Node.js/JavaScript | Database Datastore | 3.1.1 | 2026-09-15T14:44:56.804Z | [open](records/node-js-javascript-cap-js-sqlite-e799c5a7.md) |
-| flutter_soloud | Dart | Machine Learning | 5.1.0 | 2026-09-15T14:44:55.797663Z | [open](records/dart-flutter-soloud-5770bd43.md) |
 | @sanity/runtime-cli | Node.js/JavaScript | Interpreter Runtime | 17.13.0 | 2026-09-15T14:43:18.493Z | [open](records/node-js-javascript-sanity-runtime-cli-727107f0.md) |
 | @cap-js/hana | Node.js/JavaScript | Database Datastore | 3.1.1 | 2026-09-15T14:43:04.749Z | [open](records/node-js-javascript-cap-js-hana-7a64b585.md) |
 | @genesislcap/foundation-testing | Node.js/JavaScript | Testing Framework | 15.32.0 | 2026-09-15T14:42:47.382Z | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
@@ -133,7 +149,6 @@ Generated: `2026-09-15T19:20:07+00:00`
 | node-opcua-address-space-for-conformance-testing | Node.js/JavaScript | Testing Framework | 2.184.4 | 2026-09-15T12:53:33.112Z | [open](records/node-js-javascript-node-opcua-address-space-for-conformance-testing-e25f7a6d.md) |
 | @redocly/respect-core | Node.js/JavaScript | Testing Framework | 2.53.2 | 2026-09-15T12:50:14.681Z | [open](records/node-js-javascript-redocly-respect-core-7f77cb1b.md) |
 | @redocly/openapi-core | Node.js/JavaScript | Undefined Behavior Analyzer | 2.53.2 | 2026-09-15T12:49:40.386Z | [open](records/node-js-javascript-redocly-openapi-core-1c72c325.md) |
-| @tachybase/plugin-database-clean | Node.js/JavaScript | Database Datastore | 1.6.57 | 2026-09-15T12:47:24.856Z | [open](records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.525 | 2026-09-15T12:46:32.259Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | yamlscript | Haskell | Serialization | 0.3.0.0 | 2026-09-15T12:43:09Z | [open](records/haskell-yamlscript-f3f0625d.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.5 | 2026-09-15T12:27:46.123Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
@@ -146,7 +161,6 @@ Generated: `2026-09-15T19:20:07+00:00`
 | @redocly/mock-server | Node.js/JavaScript | Assertion Mocking | 0.11.0 | 2026-09-15T10:56:22.450Z | [open](records/node-js-javascript-redocly-mock-server-e03ee3f4.md) |
 | @use-voltra/android-server | Node.js/JavaScript | Web Framework | 2.3.0 | 2026-09-15T10:53:47.858Z | [open](records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | phino | Haskell | Library | 0.0.133 | 2026-09-15T10:24:37Z | [open](records/haskell-phino-0ffa79f2.md) |
-| alice | Dart | Debugger | 1.4.0 | 2026-09-15T10:21:19.665413Z | [open](records/dart-alice-97eb81d3.md) |
 | weeder | Haskell | Library | 2.11.0 | 2026-09-15T09:55:33Z | [open](records/haskell-weeder-bfff0433.md) |
 | tricorder | Haskell | Library | 0.3.0.0 | 2026-09-15T09:54:33Z | [open](records/haskell-tricorder-354456ad.md) |
 | @alwaysmeticulous/cli | Node.js/JavaScript | Cli | 2.341.1 | 2026-09-15T09:52:48.673Z | [open](records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
@@ -271,20 +285,6 @@ Generated: `2026-09-15T19:20:07+00:00`
 | neotoma2 | R | Database Datastore | 1.1.0 | 2026-09-15 01:00:02 UTC | [open](records/r-neotoma2-bceb3ebe.md) |
 | autoCovariateSelection | R | Filesystem Os | 1.0.1 | 2026-09-15 00:30:08 UTC | [open](records/r-autocovariateselection-c436e771.md) |
 | medicare | R | Undefined Behavior Analyzer | 0.3.0 | 2026-09-15 00:30:02 UTC | [open](records/r-medicare-21d57351.md) |
-| badp | R | Library | 0.7.0 | 2026-09-15 00:20:08 UTC | [open](records/r-badp-d37d1be2.md) |
-| ria.test | R | Testing Framework | 0.3.0 | 2026-09-15 00:20:02 UTC | [open](records/r-ria-test-856b009b.md) |
-| aws-sdk-sts | Rust | Security Sast | 1.115.0 | 2026-09-14T23:54:22.664287Z | [open](records/rust-aws-sdk-sts-4cfb0f29.md) |
-| aws-sdk-ssooidc | Rust | Library | 1.112.0 | 2026-09-14T23:54:17.654380Z | [open](records/rust-aws-sdk-ssooidc-05591401.md) |
-| aws-sdk-sso | Rust | Library | 1.110.0 | 2026-09-14T23:54:12.914600Z | [open](records/rust-aws-sdk-sso-1ed360a6.md) |
-| aws-runtime | Rust | Interpreter Runtime | 1.9.2 | 2026-09-14T23:53:32.759426Z | [open](records/rust-aws-runtime-ac213e01.md) |
-| aws-sigv4 | Rust | Networking Http | 1.5.2 | 2026-09-14T23:52:57.563524Z | [open](records/rust-aws-sigv4-3f7fb63e.md) |
-| @rushstack/heft-typescript-plugin | Node.js/TypeScript | Type Checker | 1.3.22 | 2026-09-14T23:50:56.844Z | [open](records/node-js-typescript-rushstack-heft-typescript-plugin-5f2052bd.md) |
-| html5ever | Rust | Benchmarking | 0.40.1 | 2026-09-14T22:43:12.364843Z | [open](records/rust-html5ever-ab44a0ee.md) |
-| mintlify | Node.js/JavaScript | Cli | 4.2.893 | 2026-09-14T22:34:30.339Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
-| @mintlify/cli | Node.js/JavaScript | Cli | 4.0.1496 | 2026-09-14T22:34:26.661Z | [open](records/node-js-javascript-mintlify-cli-64dbc59b.md) |
-| mint | Node.js/JavaScript | Cli | 4.2.893 | 2026-09-14T22:33:34.059Z | [open](records/node-js-javascript-mint-4de26fe3.md) |
-| aws-smithy-runtime | Rust | Interpreter Runtime | 1.14.1 | 2026-09-14T22:26:34.577158Z | [open](records/rust-aws-smithy-runtime-e27d173f.md) |
-| aws-smithy-query | Rust | Logging Observability | 0.63.0 | 2026-09-14T22:26:00.999452Z | [open](records/rust-aws-smithy-query-b6654ee8.md) |
 
 ## Unknown Reasons
 

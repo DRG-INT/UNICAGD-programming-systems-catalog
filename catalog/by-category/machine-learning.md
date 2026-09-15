@@ -24,7 +24,7 @@ Records: `880`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -471,7 +471,7 @@ Records: `880`
 | floating | 6.0.0 | 2025-02-14T19:30:57.061512Z | [open](../records/dart-floating-77544969.md) |
 | flutter_chat_types | 3.6.2 | 2023-07-09T18:21:42.738589Z | [open](../records/dart-flutter-chat-types-ec6976cf.md) |
 | flutter_email_sender | 10.0.1 | 2026-06-15T11:45:20.454046Z | [open](../records/dart-flutter-email-sender-6c7e45e3.md) |
-| flutter_soloud | 5.1.0 | 2026-09-15T14:44:55.797663Z | [open](../records/dart-flutter-soloud-5770bd43.md) |
+| flutter_soloud | 5.1.1 | 2026-09-15T19:05:36.537937Z | [open](../records/dart-flutter-soloud-5770bd43.md) |
 | flutter_svg | 2.3.0 | 2026-05-08T22:33:36.973597Z | [open](../records/dart-flutter-svg-da91afe8.md) |
 | flutter_widget_from_html_core | 0.17.4 | 2026-09-08T16:43:16.329121Z | [open](../records/dart-flutter-widget-from-html-core-326a4f17.md) |
 | formz | 0.8.1 | 2026-08-10T12:12:09.731229Z | [open](../records/dart-formz-bfd87f06.md) |
@@ -525,7 +525,7 @@ Records: `880`
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
 | datawhalechina/self-llm | partial | 2026-09-12T02:51:21Z | [open](../records/aim-s-datawhalechina-self-llm-f636cd5d.md) |
-| firecrawl/firecrawl | partial | 2026-09-15T18:32:15Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
+| firecrawl/firecrawl | partial | 2026-09-15T19:59:57Z | [open](../records/aim-s-firecrawl-firecrawl-e23e3125.md) |
 | HKUDS/Vibe-Trading | partial | 2026-09-14T17:30:34Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
@@ -534,12 +534,12 @@ Records: `880`
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-15T17:02:54Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | partial | 2026-09-15T18:54:36Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| langchain-ai/langchain | partial | 2026-09-15T20:04:05Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-15T06:24:56Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-15T01:59:13Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-15T19:18:25Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-15T19:17:36Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-15T20:16:54Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-15T20:18:19Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-14T21:57:14Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-15T04:57:10Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-15T15:15:48Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -552,7 +552,7 @@ Records: `880`
 | TauricResearch/TradingAgents | partial | 2026-09-15T01:33:49Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-15T19:04:30Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-15T20:16:12Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-15T09:32:00Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -823,7 +823,7 @@ Records: `880`
 | seaniezhao/torch_npss | partial | 2021-12-27T03:37:29Z | [open](../records/audio-seaniezhao-torch-npss-bcd03657.md) |
 | shangeth/wavencoder | partial | 2021-06-06T12:32:20Z | [open](../records/audio-shangeth-wavencoder-b50d9b2d.md) |
 | Sharad24/Neural-Voice-Cloning-with-Few-Samples | partial | 2021-02-23T10:11:25Z | [open](../records/audio-sharad24-neural-voice-cloning-with-few-samples-781d1118.md) |
-| snakers4/silero-vad | partial | 2026-08-24T06:47:25Z | [open](../records/audio-snakers4-silero-vad-5552d692.md) |
+| snakers4/silero-vad | partial | 2026-09-15T07:07:20Z | [open](../records/audio-snakers4-silero-vad-5552d692.md) |
 | speechbrain/speechbrain | partial | 2026-08-27T13:48:19Z | [open](../records/audio-speechbrain-speechbrain-b2f2f03a.md) |
 | surikov/webaudiofont | partial | 2026-09-04T13:16:57Z | [open](../records/audio-surikov-webaudiofont-0d5c1d6f.md) |
 | zya/granular | partial | 2021-08-16T13:36:16Z | [open](../records/audio-zya-granular-4578072c.md) |

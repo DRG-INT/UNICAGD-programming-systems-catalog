@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `504`
+Records: `505`
 
 ## Navigation
 
@@ -24,7 +24,7 @@ Records: `504`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (504)](web-framework.md)**
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (505)](web-framework.md)**
 
 ## C++23
 
@@ -154,6 +154,7 @@ Records: `504`
 | --- | --- | --- | --- |
 | @11ty/eleventy-dev-server | 2.0.8 | 2025-03-19T17:12:20.716Z | [open](../records/node-js-javascript-11ty-eleventy-dev-server-0ff6d30a.md) |
 | @accounter/server | 0.1.0 | 2026-06-24T16:57:18.613Z | [open](../records/node-js-javascript-accounter-server-29485588.md) |
+| @aikidosec/mcp | 1.0.23 | 2026-09-10T15:24:58.874Z | [open](../records/node-js-javascript-aikidosec-mcp-adb304c8.md) |
 | @allurereport/plugin-server-reload | 3.17.0 | 2026-09-09T12:42:46.354Z | [open](../records/node-js-javascript-allurereport-plugin-server-reload-1962a71d.md) |
 | @allurereport/static-server | 3.17.0 | 2026-09-09T12:42:57.069Z | [open](../records/node-js-javascript-allurereport-static-server-f7666757.md) |
 | @amplitude/experiment-node-server | 1.13.6 | 2026-05-08T03:59:36.082Z | [open](../records/node-js-javascript-amplitude-experiment-node-server-fbcf3912.md) |
@@ -170,7 +171,7 @@ Records: `504`
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.25.2 | 2026-09-15T03:25:49.202Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
 | @contentful/mcp-server | 1.19.1 | 2026-09-14T15:30:37.589Z | [open](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) |
-| @currents/mcp | 2.4.2 | 2026-08-16T09:54:54.234Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
+| @currents/mcp | 2.5.0 | 2026-09-15T19:08:19.116Z | [open](../records/node-js-javascript-currents-mcp-da022c62.md) |
 | @data-elements/database | 0.3.6 | 2026-08-22T04:54:10.956Z | [open](../records/node-js-javascript-data-elements-database-84055e3f.md) |
 | @devcycle/nodejs-server-sdk | 1.55.9 | 2026-08-07T19:09:44.442Z | [open](../records/node-js-javascript-devcycle-nodejs-server-sdk-6fb5776e.md) |
 | @dialetica/server | 0.1.0 | 2026-05-12T02:26:08.818Z | [open](../records/node-js-javascript-dialetica-server-c21323ac.md) |
@@ -247,7 +248,7 @@ Records: `504`
 | @transcend-io/mcp-server-preferences | 0.7.14 | 2026-09-13T06:14:22.586Z | [open](../records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
 | @transcend-io/mcp-server-workflows | 1.0.10 | 2026-09-13T06:13:31.784Z | [open](../records/node-js-javascript-transcend-io-mcp-server-workflows-3cd420bd.md) |
 | @trpc/server | 11.18.0 | 2026-06-17T22:48:25.078Z | [open](../records/node-js-javascript-trpc-server-02b69ad5.md) |
-| @turnkey/sdk-server | 8.4.0 | 2026-09-04T15:40:30.545Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
+| @turnkey/sdk-server | 8.5.0 | 2026-09-15T19:25:00.459Z | [open](../records/node-js-javascript-turnkey-sdk-server-330a2b7d.md) |
 | @ui5/mcp-server | 0.2.20 | 2026-09-10T12:51:14.362Z | [open](../records/node-js-javascript-ui5-mcp-server-ed5f5678.md) |
 | @ui5/server | 4.0.16 | 2026-09-03T12:48:08.508Z | [open](../records/node-js-javascript-ui5-server-bf90217b.md) |
 | @umijs/server | 4.7.17 | 2026-09-11T08:03:03.325Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
@@ -685,7 +686,7 @@ Records: `504`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| cznic/sqlite | partial | 2026-09-15T14:35:25.741Z | [open](../records/repository-workplaces-cznic-sqlite-e2eb3927.md) |
+| cznic/sqlite | partial | 2026-09-15T19:29:46.137Z | [open](../records/repository-workplaces-cznic-sqlite-e2eb3927.md) |
 | Gitea: 0b1tadmin/1-12-2_server | partial | 2025-06-14T00:38:06Z | [open](../records/repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) |
 | Gitea: adityapoonia/chaddserver | partial | 2023-10-21T13:44:55Z | [open](../records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) |
 | Gitea: AndreyWorker312/chat-server | partial | 2025-04-21T16:11:23Z | [open](../records/repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) |

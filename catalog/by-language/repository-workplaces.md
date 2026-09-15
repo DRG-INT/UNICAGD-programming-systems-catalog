@@ -24,7 +24,7 @@ Records: `530`
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -149,7 +149,7 @@ Records: `530`
 | [Gitea: ziying/database](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) | partial | 2026-06-03T05:06:54Z | registry-derived |
 | [gitlab-org/advisories-community](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) | partial | 2026-09-13T14:30:59.549Z | registry-derived |
 | [gitlab-org/analytics-section/siphon](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) | partial | 2026-09-14T10:49:30.792Z | registry-derived |
-| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-15T17:00:51.428Z | registry-derived |
+| [kara.moe/karaokebase](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) | partial | 2026-09-15T19:05:08.516Z | registry-derived |
 | [postgres-ai/custom-images](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) | partial | 2026-08-31T12:45:54.446Z | registry-derived |
 | [ProfaneDB/ProfaneDB](../records/repository-workplaces-profanedb-profanedb-135545c0.md) | partial | 2021-08-10T13:32:11.702Z | registry-derived |
 | [radiobrowser/radio-database](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) | partial | 2026-09-14T17:26:51.985Z | registry-derived |
@@ -169,7 +169,7 @@ Records: `530`
 | --- | --- | --- | --- |
 | [Gitea: RiceField-Plugins/LibraryDependencies](../records/repository-workplaces-gitea-ricefield-plugins-librarydependencies-4aaea462.md) | partial | 2022-06-09T18:49:38Z | registry-derived |
 | [gitlab-org/security-products/dependency-scanning](../records/repository-workplaces-gitlab-org-security-products-dependency-scanning-3f274c86.md) | partial | 2026-01-07T10:21:59.705Z | registry-derived |
-| [gitlab-org/security-products/gemnasium-db](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) | partial | 2026-09-15T12:33:43.717Z | registry-derived |
+| [gitlab-org/security-products/gemnasium-db](../records/repository-workplaces-gitlab-org-security-products-gemnasium-db-646d6d68.md) | partial | 2026-09-15T19:49:31.696Z | registry-derived |
 | [gitlab-org/security-products/security-report-schemas](../records/repository-workplaces-gitlab-org-security-products-security-report-schemas-1a7d4b38.md) | partial | 2026-09-02T12:31:27.706Z | registry-derived |
 
 ### Documentation
@@ -274,7 +274,7 @@ Records: `530`
 | [cespedes/ltrace](../records/repository-workplaces-cespedes-ltrace-7df92cd8.md) | partial | 2026-09-11T09:55:04.386Z | registry-derived |
 | [cznic/libc](../records/repository-workplaces-cznic-libc-3b834450.md) | partial | 2026-09-15T16:20:24.724Z | registry-derived |
 | [DerLinkshaender/csv2xlsx](../records/repository-workplaces-derlinkshaender-csv2xlsx-bd2e77a2.md) | partial | 2023-01-23T21:54:27.769Z | registry-derived |
-| [freedesktop-sdk/freedesktop-sdk](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) | partial | 2026-09-15T15:04:22.109Z | registry-derived |
+| [freedesktop-sdk/freedesktop-sdk](../records/repository-workplaces-freedesktop-sdk-freedesktop-sdk-d7a3f323.md) | partial | 2026-09-15T18:51:39.175Z | registry-derived |
 | [Gitea: Befaci03/collab-vm-1.2-server-bettetweak](../records/repository-workplaces-gitea-befaci03-collab-vm-1-2-server-bettetweak-82605f6b.md) | partial | 2025-04-20T12:00:39Z | registry-derived |
 | [Gitea: cvmuser1000/collab-vm-1.2-server-bettetweak-better](../records/repository-workplaces-gitea-cvmuser1000-collab-vm-1-2-server-bettetweak-better-40a2c6fe.md) | partial | 2025-04-19T11:00:56Z | registry-derived |
 | [Gitea: Gala_Group/GalaRuntime](../records/repository-workplaces-gitea-gala-group-galaruntime-c30c90ab.md) | partial | 2023-09-03T18:22:16Z | registry-derived |
@@ -325,9 +325,9 @@ Records: `530`
 | [Gitea: wa-lang/wa](../records/repository-workplaces-gitea-wa-lang-wa-c1d6dd94.md) | partial | 2025-07-29T01:12:55Z | registry-derived |
 | [Gitea: WorldofScreenEntertainment/HTML-HyperText-Markup-Language](../records/repository-workplaces-gitea-worldofscreenentertainment-html-hypertext-markup-language-817a19c5.md) | partial | 2026-08-08T19:37:36Z | registry-derived |
 | [Gitea: ziven/Fun-ASR](../records/repository-workplaces-gitea-ziven-fun-asr-2454a99a.md) | partial | 2026-02-09T00:00:36Z | registry-derived |
-| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-15T17:54:38.861Z | registry-derived |
+| [gitlab-org/editor-extensions/gitlab-lsp](../records/repository-workplaces-gitlab-org-editor-extensions-gitlab-lsp-3ca66d5c.md) | partial | 2026-09-15T20:04:27.822Z | registry-derived |
 | [jD91mZM2/nix-lsp](../records/repository-workplaces-jd91mzm2-nix-lsp-871a9f7e.md) | partial | 2022-08-04T13:36:44.721Z | registry-derived |
-| [openid/conformance-suite](../records/repository-workplaces-openid-conformance-suite-55c1de18.md) | partial | 2026-09-15T16:28:01.594Z | registry-derived |
+| [openid/conformance-suite](../records/repository-workplaces-openid-conformance-suite-55c1de18.md) | partial | 2026-09-15T18:37:35.166Z | registry-derived |
 | [Polly-lang/Polly](../records/repository-workplaces-polly-lang-polly-4337e87f.md) | partial | 2018-04-23T08:44:56.058Z | registry-derived |
 | [Reference-Standard-M/rsm](../records/repository-workplaces-reference-standard-m-rsm-bb68fa26.md) | partial | 2026-07-06T08:39:50.139Z | registry-derived |
 | [SiLA2/sila_csharp](../records/repository-workplaces-sila2-sila-csharp-d6b0c07b.md) | partial | 2026-09-14T07:10:39.335Z | registry-derived |
@@ -609,7 +609,7 @@ Records: `530`
 | [palmapps/jwt-spring-security-demo](../records/repository-workplaces-palmapps-jwt-spring-security-demo-674caee6.md) | partial | 2019-02-23T10:05:23.454Z | registry-derived |
 | [peachtech/peach-fuzzer-community](../records/repository-workplaces-peachtech-peach-fuzzer-community-e1ee7aba.md) | partial | 2021-03-30T17:59:40.973Z | registry-derived |
 | [prism-break/prism-break](../records/repository-workplaces-prism-break-prism-break-503c05ff.md) | partial | 2026-09-09T18:50:23.501Z | registry-derived |
-| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-13T08:56:45.581Z | registry-derived |
+| [rawsec/rawsec-cybersecurity-list](../records/repository-workplaces-rawsec-rawsec-cybersecurity-list-00ece097.md) | partial | 2026-09-15T18:51:15.709Z | registry-derived |
 | [riot.ai/NoteRiot](../records/repository-workplaces-riot-ai-noteriot-9fadeb02.md) | partial | 2024-03-25T22:54:03.551Z | registry-derived |
 | [Shinobi-Systems/ShinobiCE](../records/repository-workplaces-shinobi-systems-shinobice-52eaee8b.md) | partial | 2026-03-16T12:22:45.336Z | registry-derived |
 | [spritely/goblins](../records/repository-workplaces-spritely-goblins-f5ed6a86.md) | partial | 2025-03-11T20:30:35.821Z | registry-derived |
@@ -634,8 +634,8 @@ Records: `530`
 | [Gitea: awdscan/awdscanserver](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) | partial | 2025-10-06T13:47:16Z | registry-derived |
 | [Gitea: corricca/elibrary-publication-analyzer](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) | partial | 2026-01-29T19:57:29Z | registry-derived |
 | [Gitea: ImageProcessing-ElectronicPublications/imthreshold](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) | partial | 2023-10-26T10:52:14Z | registry-derived |
-| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-15T18:11:51.393Z | registry-derived |
-| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-15T18:17:15.199Z | registry-derived |
+| [gitlab-org/cluster-integration/gitlab-agent](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) | partial | 2026-09-15T19:11:58.502Z | registry-derived |
+| [gitlab-org/gitlab](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) | partial | 2026-09-15T20:17:45.422Z | registry-derived |
 | [gitlab-org/security-products/analyzers/container-scanning](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) | partial | 2026-09-14T12:08:38.367Z | registry-derived |
 | [gitlab-security-oss/cis/gitlabcis](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) | partial | 2026-09-01T20:35:39.553Z | registry-derived |
 | [hgraca/app-mapper](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) | partial | 2026-09-14T08:05:00.503Z | registry-derived |
@@ -659,7 +659,7 @@ Records: `530`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ananace/charts](../records/repository-workplaces-ananace-charts-e6b30b05.md) | partial | 2026-09-12T14:55:10.533Z | registry-derived |
+| [ananace/charts](../records/repository-workplaces-ananace-charts-e6b30b05.md) | partial | 2026-09-15T19:25:43.120Z | registry-derived |
 | [bdowney/ansible-demo](../records/repository-workplaces-bdowney-ansible-demo-8ddaacae.md) | partial | 2024-07-24T10:07:47.956Z | registry-derived |
 | [castlecraft/erpnext_kubernetes](../records/repository-workplaces-castlecraft-erpnext-kubernetes-f8edadde.md) | partial | 2021-10-03T22:08:14.620Z | registry-derived |
 | [cloud-versity/rancher-k3s-first-steps](../records/repository-workplaces-cloud-versity-rancher-k3s-first-steps-c86f160c.md) | partial | 2023-01-16T15:40:21.810Z | registry-derived |
@@ -681,7 +681,7 @@ Records: `530`
 | [gitlab-org/caproni](../records/repository-workplaces-gitlab-org-caproni-40271619.md) | partial | 2026-09-14T16:46:27.747Z | registry-derived |
 | [gitlab-org/charts/gitlab-agent](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) | partial | 2026-09-11T09:16:55.886Z | registry-derived |
 | [gitlab-org/ci-cd/gitlab-runner-pod-cleanup](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) | partial | 2026-05-15T07:38:19.652Z | registry-derived |
-| [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-15T17:43:14.889Z | registry-derived |
+| [gitlab-org/cloud-native/gitlab-operator](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) | partial | 2026-09-15T19:19:06.963Z | registry-derived |
 | [gitlab-org/kubernetes-gitlab-demo](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) | partial | 2026-01-07T10:09:42.404Z | registry-derived |
 | [glitchtip/glitchtip-helm-chart](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) | partial | 2026-08-01T00:27:07.881Z | registry-derived |
 | [just.insane/kubernetes](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) | partial | 2019-12-24T04:31:25.427Z | registry-derived |
@@ -706,7 +706,7 @@ Records: `530`
 | [xavki/tutorials-kubernetes-v2](../records/repository-workplaces-xavki-tutorials-kubernetes-v2-f5262aef.md) | partial | 2026-06-21T11:05:47.441Z | registry-derived |
 | [xavki/tutorials-terraform](../records/repository-workplaces-xavki-tutorials-terraform-293992cc.md) | partial | 2026-06-21T11:06:39.325Z | registry-derived |
 | [xavki/vagrant-stacks-library](../records/repository-workplaces-xavki-vagrant-stacks-library-9b9d6de1.md) | partial | 2026-06-21T11:06:12.528Z | registry-derived |
-| [yaook/operator](../records/repository-workplaces-yaook-operator-aa452dcd.md) | partial | 2026-09-15T15:27:41.629Z | registry-derived |
+| [yaook/operator](../records/repository-workplaces-yaook-operator-aa452dcd.md) | partial | 2026-09-15T20:04:32.300Z | registry-derived |
 
 ### Utility Library
 
@@ -728,7 +728,7 @@ Records: `530`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [cznic/sqlite](../records/repository-workplaces-cznic-sqlite-e2eb3927.md) | partial | 2026-09-15T14:35:25.741Z | registry-derived |
+| [cznic/sqlite](../records/repository-workplaces-cznic-sqlite-e2eb3927.md) | partial | 2026-09-15T19:29:46.137Z | registry-derived |
 | [Gitea: 0b1tadmin/1-12-2_server](../records/repository-workplaces-gitea-0b1tadmin-1-12-2-server-e2800008.md) | partial | 2025-06-14T00:38:06Z | registry-derived |
 | [Gitea: adityapoonia/chaddserver](../records/repository-workplaces-gitea-adityapoonia-chaddserver-08e4e01b.md) | partial | 2023-10-21T13:44:55Z | registry-derived |
 | [Gitea: AndreyWorker312/chat-server](../records/repository-workplaces-gitea-andreyworker312-chat-server-e85b70ea.md) | partial | 2025-04-21T16:11:23Z | registry-derived |

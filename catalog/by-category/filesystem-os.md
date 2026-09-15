@@ -24,7 +24,7 @@ Records: `1738`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C++23
 
@@ -608,7 +608,7 @@ Records: `1738`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T18:45:28Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T20:17:42Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -630,7 +630,7 @@ Records: `1738`
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-15T12:51:09Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-15T18:15:39Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-15T20:13:31Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1255,7 +1255,7 @@ Records: `1738`
 | bartolsthoorn/NVDSP | partial | 2017-06-05T09:19:32Z | [open](../records/audio-bartolsthoorn-nvdsp-0a2b1682.md) |
 | calf-studio-gear/calf | partial | 2026-09-07T15:22:35Z | [open](../records/audio-calf-studio-gear-calf-089316e7.md) |
 | ceva-ip/DPDFNet | partial | 2026-09-09T11:34:38Z | [open](../records/audio-ceva-ip-dpdfnet-64adc0ae.md) |
-| christofmuc/KnobKraft-orm | partial | 2026-09-13T13:33:57Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
+| christofmuc/KnobKraft-orm | partial | 2026-09-15T08:49:28Z | [open](../records/audio-christofmuc-knobkraft-orm-c5ee3da6.md) |
 | Conceptual-Machines/magda-core | partial | 2026-09-15T07:03:45Z | [open](../records/audio-conceptual-machines-magda-core-daf4c398.md) |
 | ddiakopoulos/MoogLadders | partial | 2026-06-13T18:35:36Z | [open](../records/audio-ddiakopoulos-moogladders-03832924.md) |
 | DropSnorz/OwlPlug | partial | 2026-09-14T21:44:49Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
@@ -1448,7 +1448,7 @@ Records: `1738`
 | pymontecarlo/pymontecarlo | partial | 2022-01-16T17:02:44Z | [open](../records/microscopy-pymontecarlo-pymontecarlo-376c3fcd.md) |
 | PytorchConnectomics/pytorch_connectomics | partial | 2026-09-09T06:47:18Z | [open](../records/microscopy-pytorchconnectomics-pytorch-connectomics-6aa6d39f.md) |
 | raacampbell/openstage | partial | 2021-04-17T17:24:46Z | [open](../records/microscopy-raacampbell-openstage-800e84a5.md) |
-| rapidsai/cucim | partial | 2026-09-15T18:26:06Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
+| rapidsai/cucim | partial | 2026-09-15T19:43:54Z | [open](../records/microscopy-rapidsai-cucim-6fd9f972.md) |
 | royerlab/cytoself | partial | 2025-08-05T18:46:40Z | [open](../records/microscopy-royerlab-cytoself-b2dff824.md) |
 | rwb27/openflexure_microscope | partial | 2019-04-30T15:12:38Z | [open](../records/microscopy-rwb27-openflexure-microscope-9f4f36b7.md) |
 | scalableminds/webknossos | partial | 2026-09-15T18:43:17Z | [open](../records/microscopy-scalableminds-webknossos-1ecff3e9.md) |
@@ -1490,7 +1490,7 @@ Records: `1738`
 | eduayme/RescueApp | partial | 2026-04-14T01:20:23Z | [open](../records/radars-eduayme-rescueapp-8a5fc109.md) |
 | Field-Robotics-Japan/UnitySensors | partial | 2026-05-05T06:03:19Z | [open](../records/radars-field-robotics-japan-unitysensors-5d4db334.md) |
 | geospace-code/georinex | partial | 2026-05-27T13:28:15Z | [open](../records/radars-geospace-code-georinex-2503e6c8.md) |
-| graphieros/vue-data-ui | partial | 2026-09-14T20:38:19Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
+| graphieros/vue-data-ui | partial | 2026-09-15T15:59:10Z | [open](../records/radars-graphieros-vue-data-ui-37b47478.md) |
 | GREAT-WHU/GREAT-PVT | partial | 2026-08-12T08:49:30Z | [open](../records/radars-great-whu-great-pvt-c867732f.md) |
 | johntruckenbrodt/pyroSAR | partial | 2026-09-03T12:48:24Z | [open](../records/radars-johntruckenbrodt-pyrosar-83ed39f7.md) |
 | KonstantinosF/Flood-Detection---Satellite-Images | partial | 2022-09-26T11:23:18Z | [open](../records/radars-konstantinosf-flood-detection-satellite-images-a2d32a13.md) |
@@ -1521,7 +1521,7 @@ Records: `1738`
 | ainfosec/FISSURE | partial | 2026-09-15T03:32:02Z | [open](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) |
 | AlexandreRouma/SDRPlusPlus | partial | 2026-07-05T00:37:31Z | [open](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) |
 | antonjan/gnuradio-grc-examples | partial | 2022-09-02T07:17:09Z | [open](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) |
-| aweeri/TLEscope | partial | 2026-09-15T14:20:51Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
+| aweeri/TLEscope | partial | 2026-09-15T20:20:50Z | [open](../records/satcom-satellites-aweeri-tlescope-9706f874.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/satcom-satellites-chrieke-awesome-geospatial-companies-81e3bd71.md) |
 | EttusResearch/uhd | partial | 2026-09-08T09:39:03Z | [open](../records/satcom-satellites-ettusresearch-uhd-fe8ed911.md) |
 | ExoSpaceLabs/CCSDSPack | partial | 2026-08-31T11:30:37Z | [open](../records/satcom-satellites-exospacelabs-ccsdspack-0508282a.md) |

@@ -32,22 +32,22 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 5.1.0 | 2026-07-16T22:14:58.457Z | [https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
+| stable | known | 5.2.0 | 2026-09-11T11:35:44.242Z | [https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20](https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20) |  |
 | preview/nightly | unknown |  |  | unknown | npm_search_does_not_include_dist_tags |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | MIT |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
 - Treat category as `type_checker` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-08T20:19:40+00:00`.
+- Latest stable metadata was observed from `https://registry.npmjs.org/-/v1/search?text=typescript&size=250&quality=0.35&popularity=0.45&maintenance=0.20` at `2026-09-15T20:19:36+00:00`.
 - Preview/nightly metadata is unknown because `npm_search_does_not_include_dist_tags`.
 
 ## Provenance
@@ -57,7 +57,7 @@ contracts, migration safety, editor feedback, and large-codebase maintainability
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| npm_registry_search | registry-derived | 2026-09-08 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-08", "status": "registry-derived"}` |
+| npm_registry_search | registry-derived | 2026-09-15 | `{"kind": "npm_registry_search", "query": "typescript", "retrieved": "2026-09-15", "status": "registry-derived"}` |
 
 </details>
 
@@ -103,4 +103,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · **[Type Checker (321)](../by-category/type-checker.md)**
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)

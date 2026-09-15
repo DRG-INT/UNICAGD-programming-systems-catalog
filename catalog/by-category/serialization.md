@@ -24,7 +24,7 @@ Records: `410`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · **[Serialization (410)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C99
 
@@ -71,7 +71,7 @@ Records: `410`
 | ark-serialize | 0.6.0 | 2026-04-26T19:41:59.025452Z | [open](../records/rust-ark-serialize-ac27303d.md) |
 | ark-serialize-derive | 0.6.0 | 2026-04-26T19:28:06.002622Z | [open](../records/rust-ark-serialize-derive-482765a8.md) |
 | avif-serialize | 0.8.9 | 2026-05-07T10:14:04.400169Z | [open](../records/rust-avif-serialize-a997b5d4.md) |
-| aws-smithy-xml | 0.63.0 | 2026-09-14T22:25:19.736080Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
+| aws-smithy-xml | 0.62.0 | 2026-09-14T22:25:19.736080Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
 | bincode | unknown | not_checked | [open](../records/rust-bincode-fd4a5141.md) |
 | borsh | 1.8.1 | 2026-08-26T20:58:11.161301Z | [open](../records/rust-borsh-7d427bae.md) |
 | borsh-derive | 1.8.1 | 2026-08-26T20:58:07.118903Z | [open](../records/rust-borsh-derive-dc36be21.md) |

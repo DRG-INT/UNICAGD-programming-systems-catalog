@@ -24,7 +24,7 @@ Records: `321`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · **[Type Checker (321)](type-checker.md)**
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## Python
 
@@ -245,7 +245,7 @@ Records: `321`
 | ts-md5 | 2.0.1 | 2025-07-02T03:40:42.951Z | [open](../records/node-js-typescript-ts-md5-49b9e4d9.md) |
 | ts-pattern | 5.9.0 | 2025-10-26T13:58:13.666Z | [open](../records/node-js-typescript-ts-pattern-ba33c433.md) |
 | ts-pnp | 1.2.0 | 2020-03-26T17:46:02.172Z | [open](../records/node-js-typescript-ts-pnp-2b5ce55c.md) |
-| tslog | 5.1.0 | 2026-07-16T22:14:58.457Z | [open](../records/node-js-typescript-tslog-595d00a5.md) |
+| tslog | 5.2.0 | 2026-09-11T11:35:44.242Z | [open](../records/node-js-typescript-tslog-595d00a5.md) |
 | type-fest | 5.9.0 | 2026-08-30T23:58:44.656Z | [open](../records/node-js-typescript-type-fest-05e5048b.md) |
 | type-testing | 0.2.0 | 2023-10-30T19:38:39.979Z | [open](../records/node-js-typescript-type-testing-4fa65126.md) |
 | typed-rest-client | 3.1.2 | 2026-09-10T11:11:50.763Z | [open](../records/node-js-typescript-typed-rest-client-f0090a5f.md) |
@@ -318,7 +318,7 @@ Records: `321`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-15T19:16:16Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-15T20:17:26Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 

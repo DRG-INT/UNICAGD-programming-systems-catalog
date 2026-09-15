@@ -24,7 +24,7 @@ Records: `987`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C99
 
@@ -194,7 +194,7 @@ Records: `987`
 | @strapi/database | 5.53.0 | 2026-09-09T12:48:59.414Z | [open](../records/node-js-javascript-strapi-database-c0f9aa77.md) |
 | @supabase/realtime-js | 2.116.0 | 2026-09-07T16:30:14.946Z | [open](../records/node-js-javascript-supabase-realtime-js-a426c046.md) |
 | @synor/database-postgresql | 0.5.2 | 2021-03-05T07:14:43.605Z | [open](../records/node-js-javascript-synor-database-postgresql-694d4795.md) |
-| @tachybase/plugin-database-clean | 1.6.57 | 2026-09-15T12:47:24.856Z | [open](../records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
+| @tachybase/plugin-database-clean | 1.6.58 | 2026-09-15T18:48:24.098Z | [open](../records/node-js-javascript-tachybase-plugin-database-clean-7f837f2b.md) |
 | @take-out/database | 0.7.15 | 2026-08-26T23:25:54.666Z | [open](../records/node-js-javascript-take-out-database-a2d9407a.md) |
 | @tezos-dappetizer/database | 2.17.0 | 2024-06-20T02:44:42.244Z | [open](../records/node-js-javascript-tezos-dappetizer-database-7b188470.md) |
 | @toeverything/y-indexeddb | 0.10.0-canary.9 | 2023-11-01T14:05:58.152Z | [open](../records/node-js-javascript-toeverything-y-indexeddb-11bf957b.md) |
@@ -1190,7 +1190,7 @@ Records: `987`
 | Gitea: ziying/database | partial | 2026-06-03T05:06:54Z | [open](../records/repository-workplaces-gitea-ziying-database-e5dcf680.md) |
 | gitlab-org/advisories-community | partial | 2026-09-13T14:30:59.549Z | [open](../records/repository-workplaces-gitlab-org-advisories-community-621603ca.md) |
 | gitlab-org/analytics-section/siphon | partial | 2026-09-14T10:49:30.792Z | [open](../records/repository-workplaces-gitlab-org-analytics-section-siphon-6ac6dc22.md) |
-| kara.moe/karaokebase | partial | 2026-09-15T17:00:51.428Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
+| kara.moe/karaokebase | partial | 2026-09-15T19:05:08.516Z | [open](../records/repository-workplaces-kara-moe-karaokebase-267a238d.md) |
 | postgres-ai/custom-images | partial | 2026-08-31T12:45:54.446Z | [open](../records/repository-workplaces-postgres-ai-custom-images-45d426ed.md) |
 | ProfaneDB/ProfaneDB | partial | 2021-08-10T13:32:11.702Z | [open](../records/repository-workplaces-profanedb-profanedb-135545c0.md) |
 | radiobrowser/radio-database | partial | 2026-09-14T17:26:51.985Z | [open](../records/repository-workplaces-radiobrowser-radio-database-bfa28291.md) |

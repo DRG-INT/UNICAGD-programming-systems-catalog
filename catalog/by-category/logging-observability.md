@@ -24,7 +24,7 @@ Records: `600`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C99
 
@@ -69,9 +69,9 @@ Records: `600`
 | --- | --- | --- | --- |
 | android_logger | 0.15.1 | 2025-06-29T18:20:22.643726Z | [open](../records/rust-android-logger-4234548c.md) |
 | arrow-schema | 60.0.0 | 2026-09-15T15:29:51.009401Z | [open](../records/rust-arrow-schema-3690b891.md) |
-| aws-smithy-eventstream | 0.61.3 | 2026-09-14T22:23:33.426155Z | [open](../records/rust-aws-smithy-eventstream-e8e6d761.md) |
+| aws-smithy-eventstream | 0.61.2 | 2026-09-14T22:23:33.426155Z | [open](../records/rust-aws-smithy-eventstream-e8e6d761.md) |
 | aws-smithy-observability | 0.3.0 | 2026-07-07T18:16:48.256708Z | [open](../records/rust-aws-smithy-observability-7204d6c5.md) |
-| aws-smithy-query | 0.63.0 | 2026-09-14T22:26:00.999452Z | [open](../records/rust-aws-smithy-query-b6654ee8.md) |
+| aws-smithy-query | 0.62.0 | 2026-09-14T22:26:00.999452Z | [open](../records/rust-aws-smithy-query-b6654ee8.md) |
 | console_error_panic_hook | 0.1.7 | 2021-10-11T17:01:02.936833Z | [open](../records/rust-console-error-panic-hook-a9ab6b4d.md) |
 | console_log | 1.1.0 | 2026-07-15T05:30:41.225105Z | [open](../records/rust-console-log-715f7bc2.md) |
 | dialoguer | 0.12.0 | 2025-08-23T15:37:51.581957Z | [open](../records/rust-dialoguer-3213388c.md) |
@@ -658,9 +658,9 @@ Records: `600`
 | analogdevicesinc/gr-iio | partial | 2023-06-30T09:08:01Z | [open](../records/satcom-satellites-analogdevicesinc-gr-iio-e7f28c5e.md) |
 | analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/satcom-satellites-analogdevicesinc-plutosdr-fw-a29d6db0.md) |
 | ANG13T/SatIntel | partial | 2024-03-15T16:29:23Z | [open](../records/satcom-satellites-ang13t-satintel-b65eedb1.md) |
-| mendhak/gpslogger | partial | 2026-09-10T06:59:17Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
+| mendhak/gpslogger | partial | 2026-09-15T17:52:26Z | [open](../records/satcom-satellites-mendhak-gpslogger-84bde361.md) |
 | sam210723/COMS-1 | partial | 2019-08-03T07:17:39Z | [open](../records/satcom-satellites-sam210723-coms-1-fe0ec3b6.md) |
-| sgoudelis/ground-station | partial | 2026-09-15T11:54:22Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
+| sgoudelis/ground-station | partial | 2026-09-15T16:59:39Z | [open](../records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
 
 ## Electromagnetoscopes
 

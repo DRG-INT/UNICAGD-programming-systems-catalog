@@ -33,7 +33,7 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 5.1.0 | 2026-09-15T14:44:55.797663Z | [https://pub.dev/api/packages/flutter_soloud](https://pub.dev/api/packages/flutter_soloud) |  |
+| stable | known | 5.1.1 | 2026-09-15T19:05:36.537937Z | [https://pub.dev/api/packages/flutter_soloud](https://pub.dev/api/packages/flutter_soloud) |  |
 | preview | known | 5.0.0-pre.3 | 2026-08-30T14:17:37.322123Z | [https://pub.dev/api/packages/flutter_soloud](https://pub.dev/api/packages/flutter_soloud) |  |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ numerical runtime constraints, and data/deployment interfaces.
 
 - Treat category as `machine_learning` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_soloud` at `2026-09-15T16:20:36+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_soloud` at `2026-09-15T20:19:47+00:00`.
 - Preview/nightly metadata is present through channel `preview`.
 
 ## Provenance
@@ -104,4 +104,4 @@ Evidence records merged into this identity: `1`.
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (504)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)

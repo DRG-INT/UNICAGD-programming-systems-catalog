@@ -24,7 +24,7 @@ Records: `1253`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
 
 ## C99
 
@@ -128,7 +128,7 @@ Records: `1253`
 | ast_node | 7.0.0 | 2026-08-14T13:08:23.520297Z | [open](../records/rust-ast-node-354a9722.md) |
 | async-broadcast | 0.7.2 | 2024-12-23T21:10:23.927278Z | [open](../records/rust-async-broadcast-e1698add.md) |
 | async-graphql-parser | 7.2.1 | 2026-04-21T22:44:45.262609Z | [open](../records/rust-async-graphql-parser-620b7874.md) |
-| aws-smithy-json | 0.64.0 | 2026-09-14T22:25:16.460370Z | [open](../records/rust-aws-smithy-json-8f47a94f.md) |
+| aws-smithy-json | 0.63.0 | 2026-09-14T22:25:16.460370Z | [open](../records/rust-aws-smithy-json-8f47a94f.md) |
 | az | 1.3.0 | 2026-01-19T18:34:25.355248Z | [open](../records/rust-az-80560e53.md) |
 | bitpacking | 0.9.3 | 2026-01-08T14:11:00.446528Z | [open](../records/rust-bitpacking-a9b02164.md) |
 | bumpalo | 3.20.3 | 2026-05-22T14:59:11.132139Z | [open](../records/rust-bumpalo-8e9c1932.md) |
@@ -341,7 +341,7 @@ Records: `1253`
 | dsn-parser | 1.0.3 | 2020-04-23T11:22:25.214Z | [open](../records/node-js-javascript-dsn-parser-36d98f75.md) |
 | Espree | unknown | not_checked | [open](../records/node-js-javascript-espree-42adda73.md) |
 | Esprima | unknown | not_checked | [open](../records/node-js-javascript-esprima-32f99d7e.md) |
-| eventsource-parser | 4.1.0 | 2026-08-20T19:27:45.782Z | [open](../records/node-js-javascript-eventsource-parser-3589ee33.md) |
+| eventsource-parser | 4.1.1 | 2026-09-15T18:30:29.195Z | [open](../records/node-js-javascript-eventsource-parser-3589ee33.md) |
 | fast-content-type-parse | 4.0.0 | 2026-09-01T09:26:39.899Z | [open](../records/node-js-javascript-fast-content-type-parse-043784a2.md) |
 | find-my-way | 9.9.0 | 2026-08-21T19:58:42.373Z | [open](../records/node-js-javascript-find-my-way-8a4652e9.md) |
 | ftp-response-parser | 1.0.1 | 2014-09-30T10:33:43.540Z | [open](../records/node-js-javascript-ftp-response-parser-792753fb.md) |
@@ -1131,7 +1131,7 @@ Records: `1253`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 0xCoto/Virgo | partial | 2023-07-23T20:21:30Z | [open](../records/telescopes-0xcoto-virgo-8f75760a.md) |
-| aaronwmorris/indi-allsky | partial | 2026-09-15T18:15:20Z | [open](../records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) |
+| aaronwmorris/indi-allsky | partial | 2026-09-15T20:04:33Z | [open](../records/telescopes-aaronwmorris-indi-allsky-aa5014e3.md) |
 | adrn/gala | partial | 2026-09-08T12:47:47Z | [open](../records/telescopes-adrn-gala-6a3e8fbd.md) |
 | AllskyTeam/allsky | partial | 2026-09-14T00:38:52Z | [open](../records/telescopes-allskyteam-allsky-a37843a6.md) |
 | amusecode/amuse | partial | 2026-07-15T15:48:16Z | [open](../records/telescopes-amusecode-amuse-e9459e7a.md) |
@@ -1139,7 +1139,7 @@ Records: `1253`
 | astrolabsoftware/spark-fits | partial | 2023-04-12T06:06:50Z | [open](../records/telescopes-astrolabsoftware-spark-fits-2f90fa6e.md) |
 | astropy-learn/astropy-tutorials | partial | 2026-09-14T16:51:46Z | [open](../records/telescopes-astropy-learn-astropy-tutorials-c1f9e6d9.md) |
 | astropy/astroquery | partial | 2026-09-04T03:39:09Z | [open](../records/telescopes-astropy-astroquery-218a1107.md) |
-| astropy/photutils | partial | 2026-09-15T19:01:23Z | [open](../records/telescopes-astropy-photutils-5b2bafdc.md) |
+| astropy/photutils | partial | 2026-09-15T19:58:11Z | [open](../records/telescopes-astropy-photutils-5b2bafdc.md) |
 | astrorigin/pyswisseph | partial | 2026-04-01T08:19:24Z | [open](../records/telescopes-astrorigin-pyswisseph-f5236430.md) |
 | ATTron/astroz | partial | 2026-04-23T04:38:36Z | [open](../records/telescopes-attron-astroz-fcd297f0.md) |
 | BenJuan26/OpenSkyStacker | partial | 2021-03-01T01:56:17Z | [open](../records/telescopes-benjuan26-openskystacker-f95f560a.md) |

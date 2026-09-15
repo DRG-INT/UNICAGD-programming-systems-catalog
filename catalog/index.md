@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T19:20:07+00:00`
+Generated: `2026-09-15T20:22:38+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -22,7 +22,7 @@ Generated: `2026-09-15T19:20:07+00:00`
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (696)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (659)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (321)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (504)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (505)](by-category/web-framework.md)
 
 ## Languages
 
@@ -34,7 +34,7 @@ Generated: `2026-09-15T19:20:07+00:00`
 | Julia | 2174 | 0 | [Julia](by-language/julia.md) |
 | Rust | 2183 | 2105 | [Rust](by-language/rust.md) |
 | Python | 664 | 516 | [Python](by-language/python.md) |
-| Node.js/JavaScript | 2469 | 2392 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
+| Node.js/JavaScript | 2470 | 2393 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 394 | 354 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 2257 | 2257 | [R](by-language/r.md) |
@@ -159,7 +159,7 @@ Generated: `2026-09-15T19:20:07+00:00`
 | Undefined Behavior Analyzer | 1678 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 108 | [utility_library](by-category/utility-library.md) |
 | Visualization Gui | 658 | [visualization_gui](by-category/visualization-gui.md) |
-| Web Framework | 504 | [web_framework](by-category/web-framework.md) |
+| Web Framework | 505 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
 
@@ -171,7 +171,7 @@ Generated: `2026-09-15T19:20:07+00:00`
 | Julia | 0 | 2174 |
 | Rust | 2105 | 78 |
 | Python | 516 | 148 |
-| Node.js/JavaScript | 2392 | 77 |
+| Node.js/JavaScript | 2393 | 77 |
 | Node.js/TypeScript | 354 | 40 |
 | Lua family | 0 | 1937 |
 | R | 2257 | 0 |
