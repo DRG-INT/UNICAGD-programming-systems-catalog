@@ -1,6 +1,6 @@
 # Dart
 
-Records: `771`
+Records: `774`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `771`
 ## Category Index
 
 [Api Abi Checker (241)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1052)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1052)](../by-category/build-system.md) · [Cli (609)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
@@ -17,14 +17,14 @@ Records: `771`
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6233)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (351)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (880)](../by-category/machine-learning.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1109)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1253)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (329)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1254)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (505)](../by-category/web-framework.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (699)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (660)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (506)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -902,6 +902,7 @@ Records: `771`
 | [infinite_carousel](../records/dart-infinite-carousel-fae7c921.md) | 1.1.1 | 2024-02-16T23:27:48.143487Z | registry-derived |
 | [restart_app](../records/dart-restart-app-3ced8d2c.md) | 1.9.1 | 2026-08-15T18:50:36.368226Z | registry-derived |
 | [sign_in_button](../records/dart-sign-in-button-f2011f46.md) | 5.0.0 | 2026-05-18T15:35:22.222767Z | registry-derived |
+| [simple_circular_progress_bar](../records/dart-simple-circular-progress-bar-f4842aa8.md) | 1.0.2 | 2022-07-06T12:58:21.282102Z | registry-derived |
 | [super_sliver_list](../records/dart-super-sliver-list-c69de4d6.md) | 0.4.1 | 2024-03-26T12:29:13.005500Z | registry-derived |
 
 ### Profiler
@@ -916,8 +917,8 @@ Records: `771`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [mason](../records/dart-mason-0b698eae.md) | 0.1.2 | 2025-11-25T17:05:45.227333Z | registry-derived |
-| [mason_cli](../records/dart-mason-cli-a49cc7e6.md) | 0.1.3 | 2025-11-08T23:50:04.455804Z | registry-derived |
+| [mason](../records/dart-mason-0b698eae.md) | 0.1.3 | 2026-09-15T21:21:03.062713Z | registry-derived |
+| [mason_cli](../records/dart-mason-cli-a49cc7e6.md) | 0.1.4 | 2026-09-15T21:29:03.842018Z | registry-derived |
 
 ### Registry Repository
 
@@ -959,6 +960,7 @@ Records: `771`
 | [cunning_document_scanner](../records/dart-cunning-document-scanner-b98260f4.md) | 3.0.3 | 2026-09-13T09:37:06.931442Z | registry-derived |
 | [flutter_zxing](../records/dart-flutter-zxing-a58545cd.md) | 3.0.1 | 2026-09-02T15:25:47.933010Z | registry-derived |
 | [mobile_scanner](../records/dart-mobile-scanner-cd355124.md) | 7.4.2 | 2026-09-14T07:04:45.019383Z | registry-derived |
+| [qr_code_scanner_plus](../records/dart-qr-code-scanner-plus-c3e9b0ca.md) | 2.3.0 | 2026-09-15T10:55:55.095601Z | registry-derived |
 | [string_scanner](../records/dart-string-scanner-05017d50.md) | 1.4.1 | 2024-12-17T10:00:43.322120Z | registry-derived |
 
 ### Testing Framework
@@ -970,6 +972,7 @@ Records: `771`
 | [fpdart](../records/dart-fpdart-7f9efbc7.md) | 1.2.0 | 2025-10-29T11:51:54.287015Z | registry-derived |
 | [network_image_mock](../records/dart-network-image-mock-24c76058.md) | 2.1.1 | 2022-06-28T07:41:35.318689Z | registry-derived |
 | [patrol](../records/dart-patrol-393eae62.md) | 4.10.0 | 2026-09-15T09:46:06.327800Z | registry-derived |
+| [patrol_cli](../records/dart-patrol-cli-d6121f5b.md) | 4.8.0 | 2026-09-15T10:05:25.714141Z | registry-derived |
 | [sqflite_common_ffi](../records/dart-sqflite-common-ffi-53b37f78.md) | 2.4.3 | 2026-09-10T14:21:11.329855Z | registry-derived |
 | [test](../records/dart-test-85687c3f.md) | 1.32.0 | 2026-09-02T23:48:34.762194Z | registry-derived |
 

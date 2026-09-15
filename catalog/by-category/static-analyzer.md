@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `696`
+Records: `699`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `696`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `696`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (696)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (699)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (506)](web-framework.md)
 
 ## C99
 
@@ -171,6 +171,7 @@ Records: `696`
 | bgms | 0.2.0.0 | 2026-08-04 03:00:02 UTC | [open](../records/r-bgms-a3d241eb.md) |
 | bibliometrix | 5.5.0 | 2026-08-29 12:40:02 UTC | [open](../records/r-bibliometrix-954d7b97.md) |
 | biocharkitgui | 0.3.1 | 2026-08-19 12:20:07 UTC | [open](../records/r-biocharkitgui-9fb5edd5.md) |
+| BioGSP | 1.0.1 | 2026-09-15 22:10:19 UTC | [open](../records/r-biogsp-989b9c1d.md) |
 | BKMutate | 0.1.0 | 2026-08-08 12:10:07 UTC | [open](../records/r-bkmutate-8d00279f.md) |
 | BKQualit | 0.1.1 | 2026-08-08 13:20:02 UTC | [open](../records/r-bkqualit-7610bf7f.md) |
 | blavaan | 0.6-1 | 2026-08-22 23:20:30 UTC | [open](../records/r-blavaan-0254027b.md) |
@@ -349,6 +350,7 @@ Records: `696`
 | rtpcr | 2.1.9 | 2026-08-21 07:00:02 UTC | [open](../records/r-rtpcr-9ae72338.md) |
 | rvisual | 0.1.1 | 2026-09-09 16:50:02 UTC | [open](../records/r-rvisual-911d8ce5.md) |
 | rwavelet | 0.4.2 | 2026-08-28 17:10:02 UTC | [open](../records/r-rwavelet-92b10cd9.md) |
+| SATS | 1.0.11 | 2026-09-15 21:40:08 UTC | [open](../records/r-sats-a9bcf296.md) |
 | scanr | 0.1.1 | 2026-08-21 08:10:02 UTC | [open](../records/r-scanr-79510d20.md) |
 | SelectionTools | 26.3 | 2026-09-15 10:40:21 UTC | [open](../records/r-selectiontools-7e83a741.md) |
 | seminrExtras | 1.0.3 | 2026-08-19 22:50:03 UTC | [open](../records/r-seminrextras-63b965db.md) |
@@ -395,7 +397,7 @@ Records: `696`
 | tvbounds | 0.1.1 | 2026-09-10 14:20:02 UTC | [open](../records/r-tvbounds-557682c4.md) |
 | TwoTimeScales | 1.3.1 | 2026-09-09 11:50:02 UTC | [open](../records/r-twotimescales-0e24b50b.md) |
 | unvs.med | 1.1.2 | 2026-08-23 06:30:02 UTC | [open](../records/r-unvs-med-ba7be0ce.md) |
-| varmapack | 0.1.1 | 2026-09-12 07:10:03 UTC | [open](../records/r-varmapack-68225906.md) |
+| varmapack | 0.1.2 | 2026-09-15 22:10:02 UTC | [open](../records/r-varmapack-68225906.md) |
 | vazul | 1.2.0 | 2026-09-04 11:00:02 UTC | [open](../records/r-vazul-d5d0cc4e.md) |
 | viewpoly | 1.0.3 | 2026-09-02 15:20:02 UTC | [open](../records/r-viewpoly-6cd65365.md) |
 | vismeteor | 3.1.0 | 2026-09-12 17:20:02 UTC | [open](../records/r-vismeteor-74c576e1.md) |
@@ -445,6 +447,7 @@ Records: `696`
 | cunning_document_scanner | 3.0.3 | 2026-09-13T09:37:06.931442Z | [open](../records/dart-cunning-document-scanner-b98260f4.md) |
 | flutter_zxing | 3.0.1 | 2026-09-02T15:25:47.933010Z | [open](../records/dart-flutter-zxing-a58545cd.md) |
 | mobile_scanner | 7.4.2 | 2026-09-14T07:04:45.019383Z | [open](../records/dart-mobile-scanner-cd355124.md) |
+| qr_code_scanner_plus | 2.3.0 | 2026-09-15T10:55:55.095601Z | [open](../records/dart-qr-code-scanner-plus-c3e9b0ca.md) |
 | string_scanner | 1.4.1 | 2024-12-17T10:00:43.322120Z | [open](../records/dart-string-scanner-05017d50.md) |
 
 ## Go
@@ -458,7 +461,7 @@ Records: `696`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-15T21:02:50Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-15T21:45:46Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -931,12 +934,12 @@ Records: `696`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-15T19:11:58.502Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-15T20:17:45.422Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-15T20:56:53.999Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-15T22:17:55.084Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-14T12:08:38.367Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
-| hgraca/app-mapper | partial | 2026-09-14T08:05:00.503Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
-| internet-cleanup-foundation/web-security-map | partial | 2026-09-14T19:58:22.289Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
+| hgraca/app-mapper | partial | 2026-09-15T08:07:01.873Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |
+| internet-cleanup-foundation/web-security-map | partial | 2026-09-15T15:17:57.416Z | [open](../records/repository-workplaces-internet-cleanup-foundation-web-security-map-8627947d.md) |
 | mopsa/mopsa-analyzer | partial | 2026-08-23T14:57:22.050Z | [open](../records/repository-workplaces-mopsa-mopsa-analyzer-9740e96e.md) |
 | ngalog-gitlab/openapi_security_scanner | partial | 2021-04-13T23:16:32.701Z | [open](../records/repository-workplaces-ngalog-gitlab-openapi-security-scanner-30036c82.md) |
 | projectofst/el-sw/opensource/software10e | partial | 2022-09-01T19:49:17.081Z | [open](../records/repository-workplaces-projectofst-el-sw-opensource-software10e-dd1c6b07.md) |

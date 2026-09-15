@@ -1,6 +1,6 @@
 # Cli
 
-Records: `608`
+Records: `609`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `608`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · **[Cli (608)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · **[Cli (609)](cli.md)** · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `608`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (699)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (506)](web-framework.md)
 
 ## C++23
 
@@ -290,6 +290,7 @@ Records: `608`
 | @devcontainers/cli | 0.89.0 | 2026-08-31T07:50:41.687Z | [open](../records/node-js-javascript-devcontainers-cli-6df3ec6d.md) |
 | @devcycle/cli | 6.3.2 | 2026-04-28T19:32:47.623Z | [open](../records/node-js-javascript-devcycle-cli-ece13be6.md) |
 | @devvit/cli | 0.14.3 | 2026-09-08T19:03:13.422Z | [open](../records/node-js-javascript-devvit-cli-be160bd1.md) |
+| @elevenlabs/cli | 1.2.0 | 2026-09-07T11:25:30.258Z | [open](../records/node-js-javascript-elevenlabs-cli-b6df6c6d.md) |
 | @env0/cli | 1.0.25 | 2026-04-20T08:58:03.712Z | [open](../records/node-js-javascript-env0-cli-f8ec1602.md) |
 | @expo/cli | 57.0.25 | 2026-09-15T16:00:25.386Z | [open](../records/node-js-javascript-expo-cli-22f34048.md) |
 | @expo/image-utils | 0.11.5 | 2026-08-24T07:53:15.617Z | [open](../records/node-js-javascript-expo-image-utils-6fd48f78.md) |
@@ -299,8 +300,8 @@ Records: `608`
 | @fragment-dev/cli | 2026.9.15-5 | 2026-09-15T18:45:17.573Z | [open](../records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | @gjsify/cli | 0.51.1 | 2026-09-12T16:41:26.191Z | [open](../records/node-js-javascript-gjsify-cli-93fdc27b.md) |
 | @gltf-transform/cli | 4.5.0 | 2026-09-01T00:43:18.551Z | [open](../records/node-js-javascript-gltf-transform-cli-56392446.md) |
-| @google/gemini-cli | 0.59.0 | 2026-09-08T21:19:17.301Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
-| @google/gemini-cli-core | 0.59.0 | 2026-09-08T21:13:36.100Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
+| @google/gemini-cli | 0.60.0 | 2026-09-15T20:36:40.030Z | [open](../records/node-js-javascript-google-gemini-cli-c3ee3b5d.md) |
+| @google/gemini-cli-core | 0.60.0 | 2026-09-15T20:29:59.301Z | [open](../records/node-js-javascript-google-gemini-cli-core-7db4739b.md) |
 | @googleworkspace/cli | 0.22.5 | 2026-03-31T18:53:36.509Z | [open](../records/node-js-javascript-googleworkspace-cli-61e43374.md) |
 | @gql.tada/cli-utils | 1.9.3 | 2026-07-25T14:36:46.564Z | [open](../records/node-js-javascript-gql-tada-cli-utils-5273b9c0.md) |
 | @graphql-hive/cli | 0.63.2 | 2026-09-10T15:50:45.249Z | [open](../records/node-js-javascript-graphql-hive-cli-d8cf3b01.md) |
@@ -552,10 +553,10 @@ Records: `608`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-15T18:35:08Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-15T21:29:46Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-15T21:16:15Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-15T22:19:53Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -809,7 +810,7 @@ Records: `608`
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
 | ClickHouse/ClickHouse | partial | 2026-09-15T21:17:47Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
-| ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
+| ClickHouse/clickhouse-odbc | partial | 2026-09-15T19:28:21Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |
 | housepower/ClickHouse-Native-JDBC | partial | 2025-06-22T09:22:59Z | [open](../records/databases-housepower-clickhouse-native-jdbc-8cec0869.md) |

@@ -9,7 +9,7 @@ Records: `321`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `321`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · **[Type Checker (321)](type-checker.md)**
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (505)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (699)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · **[Type Checker (321)](type-checker.md)**
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (506)](web-framework.md)
 
 ## Python
 
@@ -149,7 +149,7 @@ Records: `321`
 | @types/lodash | 4.17.25 | 2026-08-01T03:45:21.615Z | [open](../records/node-js-typescript-types-lodash-2fdbea40.md) |
 | @types/mdast | 4.0.4 | 2024-05-14T07:35:37.616Z | [open](../records/node-js-typescript-types-mdast-ec074f5c.md) |
 | @types/ms | 2.1.0 | 2025-01-16T21:02:46.181Z | [open](../records/node-js-typescript-types-ms-4a9c12e9.md) |
-| @types/node | 26.6.0 | 2026-09-15T16:41:20.590Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
+| @types/node | 22.20.3 | 2026-09-15T20:36:23.991Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
 | @types/oauth2-server | 3.0.18 | 2024-09-25T09:08:28.455Z | [open](../records/node-js-typescript-types-oauth2-server-b283557e.md) |
 | @types/passport-http | 0.3.11 | 2023-11-07T12:41:50.203Z | [open](../records/node-js-typescript-types-passport-http-3fa13cd9.md) |
 | @types/passport-http-bearer | 1.0.42 | 2025-09-23T23:32:05.943Z | [open](../records/node-js-typescript-types-passport-http-bearer-c89659f5.md) |
@@ -216,7 +216,7 @@ Records: `321`
 | md5-typescript | 1.0.5 | 2018-03-03T21:58:24.332Z | [open](../records/node-js-typescript-md5-typescript-3633f93c.md) |
 | micromark-util-types | 2.0.2 | 2025-02-27T13:55:27.982Z | [open](../records/node-js-typescript-micromark-util-types-8da1b855.md) |
 | nexus-rpc | 0.0.3 | 2026-08-21T16:35:16.060Z | [open](../records/node-js-typescript-nexus-rpc-8f3a0a84.md) |
-| openai | 7.12.1 | 2026-09-09T01:28:59.753Z | [open](../records/node-js-typescript-openai-c47e8332.md) |
+| openai | 7.15.0 | 2026-09-10T19:46:30.991Z | [open](../records/node-js-typescript-openai-c47e8332.md) |
 | openapi-typescript | 7.13.0 | 2026-02-11T16:02:25.378Z | [open](../records/node-js-typescript-openapi-typescript-ae833e82.md) |
 | openapi-typescript-fetch | 2.2.1 | 2025-06-26T02:27:27.256Z | [open](../records/node-js-typescript-openapi-typescript-fetch-82e29fd9.md) |
 | openapi-typescript-helpers | 0.1.0 | 2026-02-11T16:02:17.105Z | [open](../records/node-js-typescript-openapi-typescript-helpers-2b830c8e.md) |
@@ -318,7 +318,7 @@ Records: `321`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-15T21:17:16Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-15T22:10:40Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 

@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `505`
+Records: `506`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `505`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `505`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6237)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (505)](web-framework.md)**
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (699)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (506)](web-framework.md)**
 
 ## C++23
 
@@ -256,7 +256,7 @@ Records: `505`
 | @upstash/context7-mcp | 4.1.1 | 2026-09-14T14:52:39.435Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
 | @use-voltra/android-server | 2.3.0 | 2026-09-15T10:53:47.858Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
-| @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
+| @use-voltra/server | 2.3.0 | 2026-09-15T10:53:52.474Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | @vercel/cosmosdb-server | 1.0.1 | 2026-03-09T18:28:03.744Z | [open](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) |
 | @vitejs/plugin-react-swc | 4.3.3 | 2026-07-30T10:25:03.233Z | [open](../records/node-js-javascript-vitejs-plugin-react-swc-4e221f53.md) |
 | @vitejs/plugin-rsc | 0.5.34 | 2026-08-07T07:38:06.175Z | [open](../records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) |
@@ -655,6 +655,7 @@ Records: `505`
 | altairbow/django-db-connection-pool | partial | 2025-05-05T03:44:39Z | [open](../records/databases-altairbow-django-db-connection-pool-7cfa1326.md) |
 | apache/doris-mcp-server | partial | 2026-09-08T21:33:03Z | [open](../records/databases-apache-doris-mcp-server-111c3250.md) |
 | apecloud/myduckserver | partial | 2026-09-12T21:36:00Z | [open](../records/databases-apecloud-myduckserver-58eb334b.md) |
+| atomikos/transactions-essentials | partial | 2026-07-18T15:31:35Z | [open](../records/databases-atomikos-transactions-essentials-768d3463.md) |
 | aws-solutions-library-samples/data-lakes-on-aws | partial | 2026-09-04T16:16:53Z | [open](../records/databases-aws-solutions-library-samples-data-lakes-on-aws-a6898912.md) |
 | boilingdata/boilstream | partial | 2026-07-03T11:38:01Z | [open](../records/databases-boilingdata-boilstream-8489b4c0.md) |
 | borisdj/EFCore.BulkExtensions | partial | 2026-08-14T12:25:19Z | [open](../records/databases-borisdj-efcore-bulkextensions-221ede9a.md) |
