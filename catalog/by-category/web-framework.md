@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `498`
+Records: `502`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `498`
 ## Category Index
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1734)](filesystem-os.md) · [Formatter (674)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6202)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (596)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1098)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1249)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1677)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · **[Web Framework (498)](web-framework.md)**
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · **[Web Framework (502)](web-framework.md)**
 
 ## C++23
 
@@ -467,15 +467,18 @@ Records: `498`
 | cablate/mcp-google-map | partial | 2026-09-11T14:13:47Z | [open](../records/maps-cablate-mcp-google-map-31eb1d92.md) |
 | consbio/mbtileserver | partial | 2025-05-21T15:32:25Z | [open](../records/maps-consbio-mbtileserver-d40256c2.md) |
 | corteva/djangorestframework-mvt | partial | 2026-08-31T19:53:34Z | [open](../records/maps-corteva-djangorestframework-mvt-cc913f1c.md) |
+| csells/go_router | partial | 2022-02-25T00:38:31Z | [open](../records/maps-csells-go-router-71bea4d9.md) |
 | dannyvankooten/AltoRouter | partial | 2025-01-11T19:21:45Z | [open](../records/maps-dannyvankooten-altorouter-a35314f2.md) |
 | developmentseed/timvt | partial | 2026-04-01T23:26:10Z | [open](../records/maps-developmentseed-timvt-45af3e5c.md) |
 | devork/grava | partial | 2021-08-26T14:29:33Z | [open](../records/maps-devork-grava-4d37461a.md) |
 | encodeous/nylon | partial | 2026-09-05T16:43:07Z | [open](../records/maps-encodeous-nylon-c6f9f346.md) |
-| freerouting/freerouting | partial | 2026-09-12T12:25:26Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
+| freerouting/freerouting | partial | 2026-09-14T16:36:16Z | [open](../records/maps-freerouting-freerouting-1dba680a.md) |
+| freshOS/Router-deprecated | partial | 2021-10-21T06:56:49Z | [open](../records/maps-freshos-router-deprecated-98c91bb7.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-09T16:20:18Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
 | graphhopper/graphhopper | partial | 2026-09-14T17:06:04Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
+| Jaguar-dart/jaguar | partial | 2024-09-08T23:00:41Z | [open](../records/maps-jaguar-dart-jaguar-97ef1911.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
 | katanemo/plano | partial | 2026-08-19T19:29:08Z | [open](../records/maps-katanemo-plano-886a078b.md) |
 | kriasoft/universal-router | partial | 2026-01-20T02:40:42Z | [open](../records/maps-kriasoft-universal-router-192e8665.md) |
@@ -484,6 +487,7 @@ Records: `498`
 | neo4j-contrib/spatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-neo4j-contrib-spatial-1f247f57.md) |
 | openwisp/django-rest-framework-gis | partial | 2026-09-09T21:12:25Z | [open](../records/maps-openwisp-django-rest-framework-gis-9e3f8a0e.md) |
 | pedronauck/micro-router | partial | 2022-12-07T09:40:24Z | [open](../records/maps-pedronauck-micro-router-a9e29513.md) |
+| pointfreeco/swift-url-routing | partial | 2026-08-28T20:20:59Z | [open](../records/maps-pointfreeco-swift-url-routing-59f0552b.md) |
 | rinigus/osmscout-server | partial | 2026-08-26T19:22:25Z | [open](../records/maps-rinigus-osmscout-server-54cd76d6.md) |
 | router5/router5 | partial | 2023-01-07T05:57:10Z | [open](../records/maps-router5-router5-1528f116.md) |
 | rurseekatze/node-tileserver | partial | 2019-01-07T20:07:59Z | [open](../records/maps-rurseekatze-node-tileserver-78ce5139.md) |

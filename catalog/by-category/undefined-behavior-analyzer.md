@@ -1,6 +1,6 @@
 # Undefined Behavior Analyzer
 
-Records: `1677`
+Records: `1678`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1677`
 ## Category Index
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1734)](filesystem-os.md) · [Formatter (674)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6202)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (596)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1098)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1249)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-**[Undefined Behavior Analyzer (1677)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (498)](web-framework.md)
+**[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -1306,7 +1306,7 @@ Records: `1677`
 | cjdelisle/cjdns | partial | 2026-07-09T19:50:40Z | [open](../records/maps-cjdelisle-cjdns-4711da4a.md) |
 | corteva/geocube | unknown | github_search_does_not_include_release_date | [open](../records/maps-corteva-geocube-9d52da57.md) |
 | dtpstat/dtp-stat-archive | partial | 2025-07-13T10:29:14Z | [open](../records/maps-dtpstat-dtp-stat-archive-9e471ed5.md) |
-| enix/kube-image-keeper | partial | 2026-09-11T16:42:28Z | [open](../records/maps-enix-kube-image-keeper-4bf7a4cc.md) |
+| enix/kube-image-keeper | partial | 2026-09-14T11:37:44Z | [open](../records/maps-enix-kube-image-keeper-4bf7a4cc.md) |
 | FlorianBruniaux/starmapper | partial | 2026-09-01T13:03:36Z | [open](../records/maps-florianbruniaux-starmapper-f54a32ac.md) |
 | geomoose/gm3 | partial | 2026-09-10T08:40:05Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
 | graphhopper/map-matching | partial | 2020-12-02T07:52:10Z | [open](../records/maps-graphhopper-map-matching-f46cc2bd.md) |
@@ -1321,6 +1321,7 @@ Records: `1677`
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
 | opendatacube/datacube-core | partial | 2026-09-14T20:09:14Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
+| routingpy/routingpy | partial | 2026-09-01T21:44:57Z | [open](../records/maps-routingpy-routingpy-48967e3c.md) |
 | rspatial/terra | partial | 2026-09-14T09:03:32Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
 | SimonBrazell/privacy-redirect | partial | 2023-09-05T18:05:25Z | [open](../records/maps-simonbrazell-privacy-redirect-1c6619a0.md) |
 | t-rex-tileserver/t-rex | partial | 2024-09-24T14:17:05Z | [open](../records/maps-t-rex-tileserver-t-rex-530f84b0.md) |
@@ -1364,7 +1365,7 @@ Records: `1677`
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-01T11:28:25Z | [open](../records/space-maps-leenkcool-blue-whale-harness-c45019bb.md) |
 | leoheck/sublime-spice | partial | 2020-01-21T17:34:46Z | [open](../records/space-maps-leoheck-sublime-spice-f7ab45e4.md) |
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
-| MESAHub/mesa | partial | 2026-09-14T20:50:59Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
+| MESAHub/mesa | partial | 2026-09-15T02:35:02Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
 | rhannequin/astronoby | partial | 2026-09-13T20:52:45Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
@@ -1423,7 +1424,7 @@ Records: `1677`
 | Audio-WestlakeU/FullSubNet | partial | 2023-08-19T07:01:09Z | [open](../records/audio-audio-westlakeu-fullsubnet-8d1a3912.md) |
 | benjojo/dubstep-data | partial | 2018-05-21T18:07:11Z | [open](../records/audio-benjojo-dubstep-data-f9938261.md) |
 | BillyDM/awesome-audio-dsp | partial | 2026-08-20T03:10:10Z | [open](../records/audio-billydm-awesome-audio-dsp-9de4f1f5.md) |
-| cmajor-lang/cmajor | partial | 2026-09-12T18:13:36Z | [open](../records/audio-cmajor-lang-cmajor-af97db28.md) |
+| cmajor-lang/cmajor | partial | 2026-09-14T20:13:42Z | [open](../records/audio-cmajor-lang-cmajor-af97db28.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/audio-cookpete-react-player-8f26c2ab.md) |
 | doublesymmetry/react-native-track-player | partial | 2026-07-31T14:13:12Z | [open](../records/audio-doublesymmetry-react-native-track-player-d7f6ed50.md) |
 | gionanide/Speech_Signal_Processing_and_Classification | partial | 2023-03-03T22:25:31Z | [open](../records/audio-gionanide-speech-signal-processing-and-classification-693ef0eb.md) |

@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (239)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1048)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (986)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
+[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (986)](by-category/database-datastore.md) · [Datetime (257)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1734)](by-category/filesystem-os.md) · [Formatter (674)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1526)](by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1735)](by-category/filesystem-os.md) · [Formatter (675)](by-category/formatter.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6202)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (596)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1098)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1249)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
-[Profiler (99)](by-category/profiler.md) · [Project Scaffolding (145)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6205)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1250)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1677)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (498)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -849,6 +849,7 @@
 | `cran_packages_by_date-047c8acbcbb679` | IntervalCensoredMultistateR2 | [open](records/r-intervalcensoredmultistater2-1efef583.md) |
 | `cran_packages_by_date-04850bd56bace5` | armadillo4r | [open](records/r-armadillo4r-e2218e57.md) |
 | `cran_packages_by_date-0499e49637fbd0` | EWAScaller | [open](records/r-ewascaller-60601916.md) |
+| `cran_packages_by_date-04c17b327ce89d` | SteadyStateBVAR | [open](records/r-steadystatebvar-600de187.md) |
 | `cran_packages_by_date-04dda8ed902ed6` | RuHere | [open](records/r-ruhere-6fcd2fc0.md) |
 | `cran_packages_by_date-04e682c39296e8` | GrangerRKHS | [open](records/r-grangerrkhs-20c08857.md) |
 | `cran_packages_by_date-050f776682fa98` | elixir | [open](records/r-elixir-e9ae1d00.md) |
@@ -961,6 +962,7 @@
 | `cran_packages_by_date-1247659c9398eb` | FastHamming | [open](records/r-fasthamming-62ce73e7.md) |
 | `cran_packages_by_date-12a1dd47d4f589` | mxcc | [open](records/r-mxcc-e2782e69.md) |
 | `cran_packages_by_date-12f0294438e05c` | SeuratExplorer | [open](records/r-seuratexplorer-6311b262.md) |
+| `cran_packages_by_date-130b188f120a4f` | cumulcalib | [open](records/r-cumulcalib-967420a1.md) |
 | `cran_packages_by_date-130bcd609eaa5c` | mitools | [open](records/r-mitools-b0bd6208.md) |
 | `cran_packages_by_date-131430054c1ce9` | cansim | [open](records/r-cansim-9b8d09cf.md) |
 | `cran_packages_by_date-1357b5d306eae9` | datacaged | [open](records/r-datacaged-0983a23e.md) |
@@ -1122,6 +1124,7 @@
 | `cran_packages_by_date-24ae830c395e3a` | wishmom | [open](records/r-wishmom-d3b247b9.md) |
 | `cran_packages_by_date-24bafb96f69fd5` | arcgisutils | [open](records/r-arcgisutils-9c834bfb.md) |
 | `cran_packages_by_date-24c24ca0f66b77` | ggalttext | [open](records/r-ggalttext-f7b926ad.md) |
+| `cran_packages_by_date-24cb8bb5719052` | formatters | [open](records/r-formatters-e8d5ca00.md) |
 | `cran_packages_by_date-24e3aff9189be9` | xegaMigration | [open](records/r-xegamigration-92fa8ca9.md) |
 | `cran_packages_by_date-24f8a159a3cc15` | GeoModels | [open](records/r-geomodels-37c8b1f6.md) |
 | `cran_packages_by_date-24fdc8495ff607` | countSTAR | [open](records/r-countstar-46511233.md) |
@@ -2843,6 +2846,7 @@
 | `cran_packages_by_date-eecbd19b07c81e` | lapop | [open](records/r-lapop-2f3004d2.md) |
 | `cran_packages_by_date-eefe429541eb22` | GDILM.SEIRS | [open](records/r-gdilm-seirs-f71deae9.md) |
 | `cran_packages_by_date-ef026438a35d0c` | EmpiricalDynamics | [open](records/r-empiricaldynamics-7b4496a1.md) |
+| `cran_packages_by_date-ef233a6354718c` | logr | [open](records/r-logr-6dca9be3.md) |
 | `cran_packages_by_date-ef37f92e934b08` | rollama | [open](records/r-rollama-28c14d6c.md) |
 | `cran_packages_by_date-ef8f7311eef0e8` | healthiar | [open](records/r-healthiar-08b8fbd7.md) |
 | `cran_packages_by_date-efd05ff32bc747` | brulee | [open](records/r-brulee-b0699596.md) |
@@ -11572,11 +11576,13 @@
 | `github_search_maps-02296dab4c6fbe` | jcubic/wayne | [open](records/maps-jcubic-wayne-706674a0.md) |
 | `github_search_maps-023938fd01f086` | PimpinPumpkin/Vela | [open](records/maps-pimpinpumpkin-vela-18046f7a.md) |
 | `github_search_maps-023af4bdafb156` | atlasr-org/atlasr | [open](records/maps-atlasr-org-atlasr-8221ab2a.md) |
+| `github_search_maps-02bf4d9002eb5b` | mehrdadn/SOTA-Py | [open](records/maps-mehrdadn-sota-py-f9fd1e99.md) |
 | `github_search_maps-03217a726ca0db` | googlemaps/js-samples | [open](records/maps-googlemaps-js-samples-069a80da.md) |
 | `github_search_maps-03e6f1f5f0d088` | aourednik/historical-basemaps | [open](records/maps-aourednik-historical-basemaps-c396c4ac.md) |
 | `github_search_maps-040fe2ee1d09dd` | mvexel/overpass-api-python-wrapper | [open](records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | `github_search_maps-047c3a6ac99e13` | STRML/react-router-component | [open](records/maps-strml-react-router-component-18a9df51.md) |
 | `github_search_maps-0489d9b8db1b1c` | appbaseio/reactivemaps | [open](records/maps-appbaseio-reactivemaps-b4b5d16a.md) |
+| `github_search_maps-051103bacde214` | Jaguar-dart/jaguar | [open](records/maps-jaguar-dart-jaguar-97ef1911.md) |
 | `github_search_maps-05c0747d3f1e7b` | smeijer/leaflet-geosearch | [open](records/maps-smeijer-leaflet-geosearch-77987e2f.md) |
 | `github_search_maps-06172309bddcc5` | JamesLMilner/terra-draw | [open](records/maps-jameslmilner-terra-draw-de5cfbbe.md) |
 | `github_search_maps-06c6d5e98fe690` | tangrams/tangram-es | [open](records/maps-tangrams-tangram-es-20d7a957.md) |
@@ -11597,6 +11603,7 @@
 | `github_search_maps-0d1166ec115c9a` | AdevintaSpain/Leku | [open](records/maps-adevintaspain-leku-fdbb0997.md) |
 | `github_search_maps-0d92cfa5dcfc30` | sacridini/Awesome-Geospatial | [open](records/maps-sacridini-awesome-geospatial-1d655569.md) |
 | `github_search_maps-0db3666b4c6459` | makinacorpus/django-leaflet | [open](records/maps-makinacorpus-django-leaflet-632dcded.md) |
+| `github_search_maps-0db7f3d3de595a` | Brain-WP/Cortex | [open](records/maps-brain-wp-cortex-f0ce5da2.md) |
 | `github_search_maps-0dc8bb93b94c4f` | amcharts/amcharts4 | [open](records/maps-amcharts-amcharts4-76de220f.md) |
 | `github_search_maps-0de5189e168bfa` | geolonia/normalize-japanese-addresses | [open](records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | `github_search_maps-0ee4cdfb66c98f` | Loyalsoldier/geoip | [open](records/maps-loyalsoldier-geoip-2bef8369.md) |
@@ -11628,6 +11635,7 @@
 | `github_search_maps-18b3db5f1f7f68` | Toblerity/Fiona | [open](records/maps-toblerity-fiona-f99f05a8.md) |
 | `github_search_maps-19462d065d44ba` | Loyalsoldier/surge-rules | [open](records/maps-loyalsoldier-surge-rules-7d51c30a.md) |
 | `github_search_maps-1953d8d921e6a5` | symfony/routing | [open](records/maps-symfony-routing-586aa24f.md) |
+| `github_search_maps-1963d90dda9284` | ocochard/graphpath | [open](records/maps-ocochard-graphpath-06e2e740.md) |
 | `github_search_maps-197ac1b5b38792` | maximn/google-maps | [open](records/maps-maximn-google-maps-cb0af817.md) |
 | `github_search_maps-19c6b604ab5662` | osmcode/pyosmium | [open](records/maps-osmcode-pyosmium-236a85f5.md) |
 | `github_search_maps-1a73ea6eabdbdf` | kraina-ai/quackosm | [open](records/maps-kraina-ai-quackosm-235b8910.md) |
@@ -11672,6 +11680,7 @@
 | `github_search_maps-286b304b6d7be6` | katanemo/plano | [open](records/maps-katanemo-plano-886a078b.md) |
 | `github_search_maps-2876c12d996e85` | awesome-spectral-indices/awesome-spectral-indices | [open](records/maps-awesome-spectral-indices-awesome-spectral-indices-cbfc90d0.md) |
 | `github_search_maps-28d115ca1c01ad` | flopp/go-staticmaps | [open](records/maps-flopp-go-staticmaps-8d384bfe.md) |
+| `github_search_maps-29561d7bd71bd0` | pysal/spopt | [open](records/maps-pysal-spopt-3c59ef26.md) |
 | `github_search_maps-2969b8f106de67` | go-spatial/tegola | [open](records/maps-go-spatial-tegola-0b6db6ab.md) |
 | `github_search_maps-2a21077b40750a` | Oslandia/postile | [open](records/maps-oslandia-postile-16901045.md) |
 | `github_search_maps-2a7c9735f9756b` | kunifujiwara/VoxCity | [open](records/maps-kunifujiwara-voxcity-9690a86c.md) |
@@ -11681,6 +11690,7 @@
 | `github_search_maps-2ae652e6d4d99d` | cyang-kth/fmm | [open](records/maps-cyang-kth-fmm-087626bb.md) |
 | `github_search_maps-2aed98ecef71e5` | marceloprates/prettymaps | [open](records/maps-marceloprates-prettymaps-e0130cc1.md) |
 | `github_search_maps-2b1bd0c17b63bf` | graphhopper/graphhopper | [open](records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| `github_search_maps-2b4b5e78704090` | felangel/flow_builder | [open](records/maps-felangel-flow-builder-9533e336.md) |
 | `github_search_maps-2b7b1599facfd6` | antvis/L7 | [open](records/maps-antvis-l7-6780853b.md) |
 | `github_search_maps-2bf9a48861f14e` | reearth/reearth-visualizer | [open](records/maps-reearth-reearth-visualizer-6966a648.md) |
 | `github_search_maps-2d7af93f8755d9` | umap-project/umap | [open](records/maps-umap-project-umap-78ce8545.md) |
@@ -11777,6 +11787,7 @@
 | `github_search_maps-556495834f0a9a` | jvillarejo/spyme | [open](records/maps-jvillarejo-spyme-13d048c0.md) |
 | `github_search_maps-55d620bdbc0505` | bryceco/GoMap | [open](records/maps-bryceco-gomap-1140769c.md) |
 | `github_search_maps-55f3afbfbc7114` | b-g/tilehut | [open](records/maps-b-g-tilehut-3bfb5ef3.md) |
+| `github_search_maps-563bc3b742ee38` | freshOS/Router-deprecated | [open](records/maps-freshos-router-deprecated-98c91bb7.md) |
 | `github_search_maps-576a42221ea595` | GeoRetina/chat2geo | [open](records/maps-georetina-chat2geo-de4bfd06.md) |
 | `github_search_maps-57d2ea32f5050a` | codezero-be/laravel-localized-routes | [open](records/maps-codezero-be-laravel-localized-routes-62cd131a.md) |
 | `github_search_maps-57d3496dae7d5a` | twpayne/go-geom | [open](records/maps-twpayne-go-geom-0868b72a.md) |
@@ -11785,12 +11796,14 @@
 | `github_search_maps-592aefd4e486f3` | neo4j-contrib/spatial | [open](records/maps-neo4j-contrib-spatial-54e2a2d3.md) |
 | `github_search_maps-5a0e5c5ec7f76f` | marsgis/mars3d | [open](records/maps-marsgis-mars3d-3412d0d0.md) |
 | `github_search_maps-5a4af7ca6f4ec9` | sacridini/Awesome-Geospatial | [open](records/maps-sacridini-awesome-geospatial-f07fd742.md) |
+| `github_search_maps-5a4bb59dde74e8` | libremesh/lime-packages | [open](records/maps-libremesh-lime-packages-9781cd64.md) |
 | `github_search_maps-5aac1d737c1705` | dannyvankooten/AltoRouter | [open](records/maps-dannyvankooten-altorouter-a35314f2.md) |
 | `github_search_maps-5af30b266c7863` | FriendsOfSymfony/FOSJsRoutingBundle | [open](records/maps-friendsofsymfony-fosjsroutingbundle-c830f8bd.md) |
 | `github_search_maps-5b6b6484c45245` | openglobus/openglobus | [open](records/maps-openglobus-openglobus-566e8f9b.md) |
 | `github_search_maps-5ba2aeda33bbc9` | crazycapivara/h3-r | [open](records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | `github_search_maps-5bd2cddd2b5d74` | versatiles-org/versatiles-rs | [open](records/maps-versatiles-org-versatiles-rs-67e0a69c.md) |
 | `github_search_maps-5ca4f5a1882fa1` | pelias/api | [open](records/maps-pelias-api-6b9020ab.md) |
+| `github_search_maps-5de6055c1843b8` | CreateThrive/react-firebase-admin | [open](records/maps-createthrive-react-firebase-admin-fa090f1f.md) |
 | `github_search_maps-5e25e98df2ed40` | Orlandster/geo-on-fire | [open](records/maps-orlandster-geo-on-fire-55ca1eba.md) |
 | `github_search_maps-5e43a3e2718e50` | visgl/deck.gl | [open](records/maps-visgl-deck-gl-53e12f71.md) |
 | `github_search_maps-5e869bb8742960` | tilezen/vector-datasource | [open](records/maps-tilezen-vector-datasource-e16a7621.md) |
@@ -11822,6 +11835,8 @@
 | `github_search_maps-67e62aa76fb435` | streetcomplete/StreetComplete | [open](records/maps-streetcomplete-streetcomplete-9d170e33.md) |
 | `github_search_maps-67f86a225380e2` | mapbox/robosat | [open](records/maps-mapbox-robosat-2533d47e.md) |
 | `github_search_maps-68315f084a950f` | NICEXAI/leaflet_zh | [open](records/maps-nicexai-leaflet-zh-ce87f8c8.md) |
+| `github_search_maps-6856e2a28b7d0c` | pointfreeco/swift-url-routing | [open](records/maps-pointfreeco-swift-url-routing-59f0552b.md) |
+| `github_search_maps-689ae926eef9da` | ipverse/country-ip-blocks | [open](records/maps-ipverse-country-ip-blocks-ef00e53f.md) |
 | `github_search_maps-69e5beec20de5e` | c2g-dev/city2graph | [open](records/maps-c2g-dev-city2graph-75122023.md) |
 | `github_search_maps-6a78065ca78622` | tidwall/tile38 | [open](records/maps-tidwall-tile38-18e4fb35.md) |
 | `github_search_maps-6a930ad4acc78a` | hyperknot/openfreemap-styles | [open](records/maps-hyperknot-openfreemap-styles-7cf55b52.md) |
@@ -11847,6 +11862,7 @@
 | `github_search_maps-7058f1468d1a34` | xeokit/xeokit-sdk | [open](records/maps-xeokit-xeokit-sdk-9e627e27.md) |
 | `github_search_maps-70710402a9eace` | jingjing2222/react-native-nitro-geolocation | [open](records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | `github_search_maps-70d68893cfa3bc` | geosolutions-it/MapStore2 | [open](records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
+| `github_search_maps-71135afeee6a4d` | Zaid-Ajaj/the-elmish-book | [open](records/maps-zaid-ajaj-the-elmish-book-1d6167a3.md) |
 | `github_search_maps-71b1f00279c1f6` | reinterpretcat/utymap | [open](records/maps-reinterpretcat-utymap-26781f3b.md) |
 | `github_search_maps-71c578a1d25d8f` | OSGeo/grass | [open](records/maps-osgeo-grass-36e87adb.md) |
 | `github_search_maps-721acc20093578` | dhconnelly/rtreego | [open](records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
@@ -11908,6 +11924,7 @@
 | `github_search_maps-8c4bcd541c228e` | stepankuzmin/tilelive-postgis | [open](records/maps-stepankuzmin-tilelive-postgis-326f9d25.md) |
 | `github_search_maps-8cc14ad311facb` | developmentseed/timvt | [open](records/maps-developmentseed-timvt-45af3e5c.md) |
 | `github_search_maps-8ce0c83ee319fd` | angular-ui/ui-router | [open](records/maps-angular-ui-ui-router-206fd635.md) |
+| `github_search_maps-8d10cf0a1bfdd2` | Project-OSRM/osrm-frontend | [open](records/maps-project-osrm-osrm-frontend-5d9960d7.md) |
 | `github_search_maps-8e3c78fee286d2` | pnorman/tilekiln | [open](records/maps-pnorman-tilekiln-e42fb8c0.md) |
 | `github_search_maps-8eabdb805b7d73` | gregrickaby/local-weather | [open](records/maps-gregrickaby-local-weather-b2d8bd7d.md) |
 | `github_search_maps-8fa32723e56fe2` | Leaflet/Leaflet.VectorGrid | [open](records/maps-leaflet-leaflet-vectorgrid-fc95009b.md) |
@@ -11925,6 +11942,7 @@
 | `github_search_maps-972b7d0d62a076` | e-sensing/sits | [open](records/maps-e-sensing-sits-4d30513a.md) |
 | `github_search_maps-974a3d3b0dad71` | maptalks/maptalks.three | [open](records/maps-maptalks-maptalks-three-d324811b.md) |
 | `github_search_maps-97acb2f2266c6f` | codingsince1985/geo-golang | [open](records/maps-codingsince1985-geo-golang-c71d4405.md) |
+| `github_search_maps-9806f0f21bd346` | zalando/riptide | [open](records/maps-zalando-riptide-51241a0e.md) |
 | `github_search_maps-9868cb4412907c` | f5/unovis | [open](records/maps-f5-unovis-6e8a6849.md) |
 | `github_search_maps-98c648343433c2` | opengeos/streamlit-geospatial | [open](records/maps-opengeos-streamlit-geospatial-4c1a29ad.md) |
 | `github_search_maps-99063f2735f773` | opengeos/geoai | [open](records/maps-opengeos-geoai-b3d3977d.md) |
@@ -11961,6 +11979,7 @@
 | `github_search_maps-a3da7f3fd79b76` | The-Osint-Toolbox/Geolocation-OSINT | [open](records/maps-the-osint-toolbox-geolocation-osint-50da3900.md) |
 | `github_search_maps-a413fabf571e9d` | opengeos/Awesome-GEE | [open](records/maps-opengeos-awesome-gee-588f3052.md) |
 | `github_search_maps-a4634521f4b6a6` | gmazoyer/looking-glass | [open](records/maps-gmazoyer-looking-glass-3c738182.md) |
+| `github_search_maps-a48d47e87f49c9` | csells/go_router | [open](records/maps-csells-go-router-71bea4d9.md) |
 | `github_search_maps-a5b4e145415ef8` | encodeous/nylon | [open](records/maps-encodeous-nylon-c6f9f346.md) |
 | `github_search_maps-a80c71d718689b` | neo4j-contrib/spatial | [open](records/maps-neo4j-contrib-spatial-1f247f57.md) |
 | `github_search_maps-a8782db520184d` | TradeMe/MapMe | [open](records/maps-trademe-mapme-ac2b1874.md) |
@@ -11980,6 +11999,7 @@
 | `github_search_maps-aef9d3beb606c0` | plant99/felicette | [open](records/maps-plant99-felicette-60be9d6d.md) |
 | `github_search_maps-af180a62f5af56` | wellyshen/use-places-autocomplete | [open](records/maps-wellyshen-use-places-autocomplete-1234eb65.md) |
 | `github_search_maps-afcdb4f0771680` | Freika/dawarich | [open](records/maps-freika-dawarich-ee63e709.md) |
+| `github_search_maps-b0fec78bb38ae0` | ropensci/stplanr | [open](records/maps-ropensci-stplanr-f5258b37.md) |
 | `github_search_maps-b1f18b25c2d581` | Leaflet/Leaflet | [open](records/maps-leaflet-leaflet-98e4aefd.md) |
 | `github_search_maps-b20109c80b9bba` | kriasoft/universal-router | [open](records/maps-kriasoft-universal-router-192e8665.md) |
 | `github_search_maps-b21de0f58ef140` | nejckorasa/instagram-analyzer | [open](records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
@@ -12008,6 +12028,7 @@
 | `github_search_maps-bd7393a2b5fcc1` | openvenues/lieu | [open](records/maps-openvenues-lieu-1d7de22f.md) |
 | `github_search_maps-bdad122e9f5980` | MapServer/MapServer | [open](records/maps-mapserver-mapserver-100bdea0.md) |
 | `github_search_maps-bdb0c0681bd06d` | stefanocudini/leaflet-search | [open](records/maps-stefanocudini-leaflet-search-4701fbde.md) |
+| `github_search_maps-bdce9118a42c97` | Community-VyProjects/VyManager | [open](records/maps-community-vyprojects-vymanager-9b2061e4.md) |
 | `github_search_maps-bdeacedbf2397e` | opengeos/geospatial | [open](records/maps-opengeos-geospatial-b11a2e45.md) |
 | `github_search_maps-be064d7bff6c39` | alexbosworth/balanceofsatoshis | [open](records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) |
 | `github_search_maps-be6064725df72a` | mapbox/mapbox-gl-native | [open](records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
@@ -12041,6 +12062,7 @@
 | `github_search_maps-cd58b05897e879` | earthaccess-dev/earthaccess | [open](records/maps-earthaccess-dev-earthaccess-9eaebdbc.md) |
 | `github_search_maps-cd80908033e87f` | GenericMappingTools/pygmt | [open](records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | `github_search_maps-ced5c32042a25c` | ajnisbet/opentopodata | [open](records/maps-ajnisbet-opentopodata-c059790e.md) |
+| `github_search_maps-cf24a15fd6aeb6` | AlmirKadric-Published/docker-tuntap-osx | [open](records/maps-almirkadric-published-docker-tuntap-osx-9c76b328.md) |
 | `github_search_maps-cf6bbd63f9b77a` | plant99/felicette | [open](records/maps-plant99-felicette-255df365.md) |
 | `github_search_maps-cf844fd7132bc8` | zbycz/osmapp | [open](records/maps-zbycz-osmapp-b154b83c.md) |
 | `github_search_maps-cf99739e52e43c` | BigBodyCobain/Shadowbroker | [open](records/maps-bigbodycobain-shadowbroker-535b05ca.md) |
@@ -12061,6 +12083,7 @@
 | `github_search_maps-d4b85af08c6438` | nickurt/laravel-postcodeapi | [open](records/maps-nickurt-laravel-postcodeapi-068a50fa.md) |
 | `github_search_maps-d51a479e7c92ab` | peering-manager/peering-manager | [open](records/maps-peering-manager-peering-manager-c6df99fc.md) |
 | `github_search_maps-d52506364ffc3d` | twpayne/go-geom | [open](records/maps-twpayne-go-geom-2497b8a5.md) |
+| `github_search_maps-d54924dcb8b39b` | routingpy/routingpy | [open](records/maps-routingpy-routingpy-48967e3c.md) |
 | `github_search_maps-d590628e5a4f57` | SharpMap/SharpMap | [open](records/maps-sharpmap-sharpmap-0d7d79eb.md) |
 | `github_search_maps-d5d5259b0d647c` | samapriya/awesome-gee-community-datasets | [open](records/maps-samapriya-awesome-gee-community-datasets-3c684094.md) |
 | `github_search_maps-d6005a08e6feb2` | uber/h3-js | [open](records/maps-uber-h3-js-8f70e2d6.md) |
@@ -12087,6 +12110,7 @@
 | `github_search_maps-dc1a928e22d070` | TanStack/router | [open](records/maps-tanstack-router-73e029ca.md) |
 | `github_search_maps-dc4d7ea24b7342` | joeldev/JLRoutes | [open](records/maps-joeldev-jlroutes-cbfb85d7.md) |
 | `github_search_maps-dcd9107e66de8d` | opengeospatial/geoparquet | [open](records/maps-opengeospatial-geoparquet-135cad2a.md) |
+| `github_search_maps-dcda65730450e8` | Sedlacek-Solutions/SwiftUI-Navigation | [open](records/maps-sedlacek-solutions-swiftui-navigation-ee5e8b00.md) |
 | `github_search_maps-dd22ac24e3e6f6` | SuperMap/iClient-JavaScript | [open](records/maps-supermap-iclient-javascript-599d0b5a.md) |
 | `github_search_maps-dd3c14f2961d3b` | developmentseed/lonboard | [open](records/maps-developmentseed-lonboard-09924856.md) |
 | `github_search_maps-de92882bc09723` | radarlabs/radar-sdk-android | [open](records/maps-radarlabs-radar-sdk-android-43886732.md) |
@@ -12120,6 +12144,7 @@
 | `github_search_maps-ed2a7defdf9721` | cablate/mcp-google-map | [open](records/maps-cablate-mcp-google-map-31eb1d92.md) |
 | `github_search_maps-ed7d019a72999a` | openaddresses/openaddresses | [open](records/maps-openaddresses-openaddresses-2339fe96.md) |
 | `github_search_maps-eda9b099dc4f6d` | fleaflet/flutter_map | [open](records/maps-fleaflet-flutter-map-860f9704.md) |
+| `github_search_maps-edc0cb58a41b69` | gamemann/xdp-proxy | [open](records/maps-gamemann-xdp-proxy-b98f232a.md) |
 | `github_search_maps-ef13b230230ecd` | doganoo/PHPAlgorithms | [open](records/maps-doganoo-phpalgorithms-8d4e8cc7.md) |
 | `github_search_maps-ef32a7323c378e` | keplergl/kepler.gl | [open](records/maps-keplergl-kepler-gl-672b222c.md) |
 | `github_search_maps-ef7954dde7b931` | eurostat/eurostat-map | [open](records/maps-eurostat-eurostat-map-3607c2dc.md) |
@@ -12132,6 +12157,7 @@
 | `github_search_maps-f0f39f10644661` | Toblerity/Fiona | [open](records/maps-toblerity-fiona-9a13b596.md) |
 | `github_search_maps-f19702bc627dc7` | Qwant/qwantmaps | [open](records/maps-qwant-qwantmaps-426cd52c.md) |
 | `github_search_maps-f2b4704cf02aeb` | maptalks/maptalks.js | [open](records/maps-maptalks-maptalks-js-2641e64a.md) |
+| `github_search_maps-f2eac00b8cebfb` | drandyhaas/KiCadRoutingTools | [open](records/maps-drandyhaas-kicadroutingtools-ead0a3d5.md) |
 | `github_search_maps-f3111345b28c0a` | cesiumlab/XbsjEarthUI | [open](records/maps-cesiumlab-xbsjearthui-ebc31770.md) |
 | `github_search_maps-f321d9099bd79a` | OpenRailwayMap/OpenRailwayMap | [open](records/maps-openrailwaymap-openrailwaymap-522f6759.md) |
 | `github_search_maps-f326b95ebff548` | henrythasler/cloud-tileserver | [open](records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
@@ -12171,6 +12197,7 @@
 | `github_search_maps-fe03d4ffdbdcd3` | pbugnion/gmaps | [open](records/maps-pbugnion-gmaps-b73c9aec.md) |
 | `github_search_maps-fe90037f5e9716` | maplibre/martin | [open](records/maps-maplibre-martin-cbc4e95e.md) |
 | `github_search_maps-fe998da3f354f6` | bugra9/gdal3.js | [open](records/maps-bugra9-gdal3-js-e7b39271.md) |
+| `github_search_maps-ff3d05a2d2c3a0` | routerify/routerify | [open](records/maps-routerify-routerify-b458c548.md) |
 | `github_search_maps-ffbf9fe9e644b5` | ivaylokenov/AspNet.Mvc.TypedRouting | [open](records/maps-ivaylokenov-aspnet-mvc-typedrouting-edc6294c.md) |
 | `github_search_matlab-0106cef26ad2c1` | caiotavares/spectrum-sensing | [open](records/matlab-caiotavares-spectrum-sensing-56be35eb.md) |
 | `github_search_matlab-0544b3eda09c67` | CodeByPinar/Earthquake_Prediction_Analysis_Project | [open](records/matlab-codebypinar-earthquake-prediction-analysis-project-c9d8a598.md) |

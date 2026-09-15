@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `596`
+Records: `598`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `596`
 ## Category Index
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1734)](filesystem-os.md) · [Formatter (674)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6202)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (596)](logging-observability.md)** · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1098)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1249)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · **[Logging Observability (598)](logging-observability.md)** · [Machine Learning (875)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1677)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (498)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -277,6 +277,7 @@ Records: `596`
 | lnmCluster | 1.0.0 | 2026-08-28 13:00:02 UTC | [open](../records/r-lnmcluster-f200fba5.md) |
 | logger | 0.4.3 | 2026-08-24 16:20:18 UTC | [open](../records/r-logger-6bd2e0a0.md) |
 | LogicForest | 2.1.5 | 2026-08-28 20:00:14 UTC | [open](../records/r-logicforest-d95cf8d4.md) |
+| logr | 1.4.0 | 2026-09-15 03:00:02 UTC | [open](../records/r-logr-6dca9be3.md) |
 | logtree | 0.2.0 | 2026-09-01 10:30:10 UTC | [open](../records/r-logtree-c8fc4dc5.md) |
 | MBHdesign | 2.3.22 | 2026-09-11 07:00:28 UTC | [open](../records/r-mbhdesign-fa941706.md) |
 | meteoland | 2.2.8 | 2026-09-02 14:30:02 UTC | [open](../records/r-meteoland-5fc12977.md) |
@@ -287,7 +288,7 @@ Records: `596`
 | p2oncology | 0.1.1 | 2026-09-14 19:50:02 UTC | [open](../records/r-p2oncology-9cdb0ed1.md) |
 | pharmr | 2.2.0 | 2026-08-31 18:30:02 UTC | [open](../records/r-pharmr-6d27372d.md) |
 | phenology | 2026.8.24 | 2026-08-24 13:40:02 UTC | [open](../records/r-phenology-0dac6e83.md) |
-| photobiology | 0.14.2 | 2026-03-15 06:10:19 UTC | [open](../records/r-photobiology-0c637127.md) |
+| photobiology | 0.14.3 | 2026-09-15 02:20:02 UTC | [open](../records/r-photobiology-0c637127.md) |
 | picante | 1.8.4 | 2026-08-23 15:50:08 UTC | [open](../records/r-picante-ff1e011a.md) |
 | PLNmodels | 1.3.1 | 2026-08-29 10:10:02 UTC | [open](../records/r-plnmodels-f9189e8a.md) |
 | PNC | 0.2.0 | 2026-08-29 10:40:02 UTC | [open](../records/r-pnc-bb3998ca.md) |
@@ -491,8 +492,9 @@ Records: `596`
 | opengeos/geospatial-data-catalogs | partial | 2026-09-14T04:56:41Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
 | samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
+| Sedlacek-Solutions/SwiftUI-Navigation | partial | 2025-11-12T02:51:00Z | [open](../records/maps-sedlacek-solutions-swiftui-navigation-ee5e8b00.md) |
 | teslamate-org/teslamate | partial | 2026-09-12T00:41:11Z | [open](../records/maps-teslamate-org-teslamate-4ad3999f.md) |
-| verilog-to-routing/vtr-verilog-to-routing | partial | 2026-09-12T16:14:25Z | [open](../records/maps-verilog-to-routing-vtr-verilog-to-routing-52ef505e.md) |
+| verilog-to-routing/vtr-verilog-to-routing | partial | 2026-09-14T22:41:29Z | [open](../records/maps-verilog-to-routing-vtr-verilog-to-routing-52ef505e.md) |
 
 ## Space Engines
 

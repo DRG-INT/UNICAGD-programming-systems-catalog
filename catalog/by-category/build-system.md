@@ -1,6 +1,6 @@
 # Build System
 
-Records: `1046`
+Records: `1048`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `1046`
 ## Category Index
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · **[Build System (1046)](build-system.md)** · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · **[Build System (1048)](build-system.md)** · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1734)](filesystem-os.md) · [Formatter (674)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6202)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (596)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1098)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1249)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1677)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (498)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -639,7 +639,7 @@ Records: `1046`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | adobe/rules_gitops | partial | 2026-09-09T13:13:25Z | [open](../records/starlark-adobe-rules-gitops-09140ed0.md) |
-| aspect-build/rules_js | partial | 2026-09-15T00:19:50Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
+| aspect-build/rules_js | partial | 2026-09-15T03:20:33Z | [open](../records/starlark-aspect-build-rules-js-fd75b379.md) |
 | aspect-build/rules_py | partial | 2026-09-11T15:05:50Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-14T00:31:19Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
@@ -666,7 +666,7 @@ Records: `1046`
 | mvukov/rules_ros2 | partial | 2026-09-10T23:25:11Z | [open](../records/starlark-mvukov-rules-ros2-c77a04e7.md) |
 | pubref/rules_kotlin | partial | 2018-06-03T18:25:58Z | [open](../records/starlark-pubref-rules-kotlin-0034e649.md) |
 | pubref/rules_protobuf | partial | 2023-07-28T17:49:54Z | [open](../records/starlark-pubref-rules-protobuf-8dcd4cee.md) |
-| rules-proto-grpc/rules_proto_grpc | partial | 2026-09-13T04:14:15Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
+| rules-proto-grpc/rules_proto_grpc | partial | 2026-09-15T02:35:50Z | [open](../records/starlark-rules-proto-grpc-rules-proto-grpc-990904d1.md) |
 | stackb/rules_proto | partial | 2026-09-08T20:02:39Z | [open](../records/starlark-stackb-rules-proto-b9dcde4f.md) |
 | tidbyt/pixlet | partial | 2026-09-10T21:45:00Z | [open](../records/starlark-tidbyt-pixlet-876fea90.md) |
 | tweag/rules_haskell | partial | 2026-09-11T03:57:40Z | [open](../records/starlark-tweag-rules-haskell-f813b994.md) |
@@ -687,14 +687,14 @@ Records: `1046`
 | agentscope-ai/agentscope | partial | 2026-09-15T02:20:22Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
 | ComposioHQ/composio | partial | 2026-09-15T01:01:17Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-15T00:58:54Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-15T03:13:23Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T22:03:31Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-14T14:34:56Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-14T19:45:22Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
-| langgenius/dify | partial | 2026-09-14T13:20:49Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
+| langgenius/dify | partial | 2026-09-15T03:20:12Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-15T02:14:15Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-15T03:22:58Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-13T23:59:36Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-15T00:18:40Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -845,6 +845,7 @@ Records: `1046`
 | emicklei/go-restful | partial | 2026-09-07T19:54:57Z | [open](../records/maps-emicklei-go-restful-1944b345.md) |
 | evansiroky/timezone-boundary-builder | partial | 2026-07-11T06:36:04Z | [open](../records/maps-evansiroky-timezone-boundary-builder-78c4b912.md) |
 | falcoframework/Falco | partial | 2026-07-27T10:24:53Z | [open](../records/maps-falcoframework-falco-2b86ca7d.md) |
+| felangel/flow_builder | partial | 2024-11-27T20:02:20Z | [open](../records/maps-felangel-flow-builder-9533e336.md) |
 | geolens-io/geolens | partial | 2026-09-14T08:12:58Z | [open](../records/maps-geolens-io-geolens-61c62e7d.md) |
 | karimnaaji/vectiler | partial | 2024-05-20T15:31:54Z | [open](../records/maps-karimnaaji-vectiler-a1a37ef4.md) |
 | kochis/webgl-map | partial | 2024-01-07T20:28:18Z | [open](../records/maps-kochis-webgl-map-925667c4.md) |
@@ -862,6 +863,7 @@ Records: `1046`
 | stefanocudini/leaflet-layerJSON | partial | 2023-08-11T10:14:23Z | [open](../records/maps-stefanocudini-leaflet-layerjson-1c3bc2fa.md) |
 | systemed/tilemaker | partial | 2026-09-04T07:46:50Z | [open](../records/maps-systemed-tilemaker-1ee83e8e.md) |
 | xeokit/xeokit-sdk | unknown | github_search_does_not_include_release_date | [open](../records/maps-xeokit-xeokit-sdk-9e627e27.md) |
+| Zaid-Ajaj/the-elmish-book | partial | 2024-06-28T23:29:48Z | [open](../records/maps-zaid-ajaj-the-elmish-book-1d6167a3.md) |
 | zbycz/osmapp | partial | 2026-08-27T10:51:12Z | [open](../records/maps-zbycz-osmapp-b154b83c.md) |
 
 ## Space Engines
@@ -909,7 +911,7 @@ Records: `1046`
 | --- | --- | --- | --- |
 | AuburnSounds/Dplug | partial | 2026-09-11T07:56:08Z | [open](../records/effects-auburnsounds-dplug-3c33ea8b.md) |
 | c8r/iso | partial | 2018-06-03T18:44:56Z | [open](../records/effects-c8r-iso-4a2333dd.md) |
-| ChrisBuilds/terminaltexteffects | partial | 2026-09-15T02:12:58Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
+| ChrisBuilds/terminaltexteffects | partial | 2026-09-15T02:26:44Z | [open](../records/effects-chrisbuilds-terminaltexteffects-f3febb67.md) |
 | CuarzoSoftware/Louvre | partial | 2026-09-12T16:41:12Z | [open](../records/effects-cuarzosoftware-louvre-8e4b81d1.md) |
 | DatanoiseTV/PicoADK-Hardware | partial | 2024-01-05T12:00:10Z | [open](../records/effects-datanoisetv-picoadk-hardware-020ed462.md) |
 | james34602/JamesDSPManager | partial | 2025-06-18T14:08:35Z | [open](../records/effects-james34602-jamesdspmanager-b977897f.md) |
