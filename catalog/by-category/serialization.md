@@ -1,6 +1,6 @@
 # Serialization
 
-Records: `409`
+Records: `410`
 
 ## Navigation
 
@@ -10,21 +10,21 @@ Records: `409`
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (984)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (985)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1733)](filesystem-os.md) · [Formatter (674)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6181)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6199)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1097)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1098)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1248)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · **[Serialization (409)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (656)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1674)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (653)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
+[Security Sast (341)](security-sast.md) · **[Serialization (410)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1676)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
 
@@ -71,7 +71,7 @@ Records: `409`
 | ark-serialize | 0.6.0 | 2026-04-26T19:41:59.025452Z | [open](../records/rust-ark-serialize-ac27303d.md) |
 | ark-serialize-derive | 0.6.0 | 2026-04-26T19:28:06.002622Z | [open](../records/rust-ark-serialize-derive-482765a8.md) |
 | avif-serialize | 0.8.9 | 2026-05-07T10:14:04.400169Z | [open](../records/rust-avif-serialize-a997b5d4.md) |
-| aws-smithy-xml | 0.62.0 | 2026-07-14T17:39:32.220040Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
+| aws-smithy-xml | 0.63.0 | 2026-09-14T22:25:19.736080Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
 | bincode | unknown | not_checked | [open](../records/rust-bincode-fd4a5141.md) |
 | borsh | 1.8.1 | 2026-08-26T20:58:11.161301Z | [open](../records/rust-borsh-7d427bae.md) |
 | borsh-derive | 1.8.1 | 2026-08-26T20:58:07.118903Z | [open](../records/rust-borsh-derive-dc36be21.md) |
@@ -256,6 +256,7 @@ Records: `409`
 | --- | --- | --- | --- |
 | data-object-yaml | 0.3.4.2 | 2012-01-31T22:00:42Z | [open](../records/haskell-data-object-yaml-cba0e157.md) |
 | dhall-json | 1.7.12 | 2023-04-19T03:10:46Z | [open](../records/haskell-dhall-json-d0352d72.md) |
+| dhall-yaml | 1.2.12 | 2023-04-19T03:11:15Z | [open](../records/haskell-dhall-yaml-46c3008c.md) |
 | geojson | 4.1.3 | 2026-01-16T10:05:21Z | [open](../records/haskell-geojson-5c5d094c.md) |
 | HaXml | 1.25.14 | 2024-12-12T12:36:15Z | [open](../records/haskell-haxml-8e99a984.md) |
 | hjsonpointer | 1.5.0 | 2018-09-30T18:32:26Z | [open](../records/haskell-hjsonpointer-e806cabf.md) |

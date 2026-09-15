@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1097`
+Records: `1098`
 
 ## Navigation
 
@@ -10,21 +10,21 @@ Records: `1097`
 
 [Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (210)](benchmarking.md) · [Build System (1046)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (181)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (984)](database-datastore.md) · [Datetime (256)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (985)](database-datastore.md) · [Datetime (256)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1733)](filesystem-os.md) · [Formatter (674)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1526)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6181)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6199)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (53)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (595)](logging-observability.md) · [Machine Learning (872)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (104)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1097)](networking-http.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1098)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (450)](package-manager.md) · [Parser Lexer Ast (1248)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (145)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (409)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (686)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (656)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1674)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (653)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1676)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (497)](web-framework.md)
 
 ## C99
 
@@ -83,9 +83,9 @@ Records: `1097`
 | actix-server | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](../records/rust-actix-server-e5a4daec.md) |
 | attohttpc | 0.31.0 | 2026-05-25T03:09:33.175942Z | [open](../records/rust-attohttpc-ed4c6017.md) |
 | aws-http | 0.60.6 | 2024-08-09T19:35:18.677687Z | [open](../records/rust-aws-http-8b04a69b.md) |
-| aws-sigv4 | 1.5.1 | 2026-07-08T19:08:55.193683Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
+| aws-sigv4 | 1.5.2 | 2026-09-14T23:52:57.563524Z | [open](../records/rust-aws-sigv4-3f7fb63e.md) |
 | aws-smithy-http | 0.64.0 | 2026-07-07T18:17:21.128942Z | [open](../records/rust-aws-smithy-http-1b0c4b7a.md) |
-| aws-smithy-http-client | 1.4.0 | 2026-08-19T17:12:45.873703Z | [open](../records/rust-aws-smithy-http-client-f416ca39.md) |
+| aws-smithy-http-client | 1.4.1 | 2026-09-14T22:25:53.687430Z | [open](../records/rust-aws-smithy-http-client-f416ca39.md) |
 | axum | 0.8.9 | 2026-04-14T07:55:20.258398Z | [open](../records/rust-axum-0b78744a.md) |
 | cadence | 1.8.0 | 2026-04-11T14:19:42.734244Z | [open](../records/rust-cadence-aabc0df1.md) |
 | calloop-wayland-source | 0.4.1 | 2025-09-06T13:16:16.065219Z | [open](../records/rust-calloop-wayland-source-8d73ae17.md) |
@@ -688,6 +688,7 @@ Records: `1097`
 | http-enumerator | 0.7.3.3 | 2012-04-22T07:19:17Z | [open](../records/haskell-http-enumerator-14d5c94e.md) |
 | http-media | 0.8.1.1 | 2023-09-10T07:00:50Z | [open](../records/haskell-http-media-6ba6216c.md) |
 | http-reverse-proxy | 0.6.2.0 | 2025-08-11T10:32:22Z | [open](../records/haskell-http-reverse-proxy-de9c60e2.md) |
+| http-streams | 0.8.9.9 | 2023-10-20T05:39:49Z | [open](../records/haskell-http-streams-179cd9b4.md) |
 | http-types | 0.12.6 | 2026-08-13T12:48:46Z | [open](../records/haskell-http-types-d94a6f6d.md) |
 | http2 | 5.4.4 | 2026-09-01T10:51:27Z | [open](../records/haskell-http2-1c1cc60d.md) |
 | http2-client | 0.10.0.2 | 2024-05-01T18:34:43Z | [open](../records/haskell-http2-client-0455174f.md) |
@@ -796,7 +797,7 @@ Records: `1097`
 | g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
 | go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
 | redis/go-redis | partial | 2026-09-14T22:40:19Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-14T17:58:53Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| spicetify/cli | partial | 2026-09-15T00:23:31Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
 | teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
 | xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
@@ -1314,7 +1315,7 @@ Records: `1097`
 | aerospike/aerospike-client-rust | partial | 2026-09-13T01:36:29Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-11T13:03:32Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-14T22:49:14Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-14T23:48:07Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-11T22:30:35Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
