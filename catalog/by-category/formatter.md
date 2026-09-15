@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `677`
+Records: `678`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `677`
 
 ## Category Index
 
-[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (677)](formatter.md)**
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (678)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6222)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -170,8 +170,8 @@ Records: `677`
 | @doist/prettier-config | 4.0.1 | 2025-11-13T18:47:07.005Z | [open](../records/node-js-javascript-doist-prettier-config-45f71ae8.md) |
 | @excalidraw/prettier-config | 1.0.2 | 2021-02-25T14:12:02.335Z | [open](../records/node-js-javascript-excalidraw-prettier-config-c8b3ce2e.md) |
 | @exodus/prettier | 1.0.0 | 2023-09-12T15:23:38.560Z | [open](../records/node-js-javascript-exodus-prettier-04dd5e42.md) |
-| @formatjs/cli | 6.16.28 | 2026-09-14T16:41:57.882Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
-| @formatjs/cli-lib | 10.0.4 | 2026-09-14T16:40:39.296Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| @formatjs/cli | 6.16.29 | 2026-09-15T12:25:41.081Z | [open](../records/node-js-javascript-formatjs-cli-5afa24d0.md) |
+| @formatjs/cli-lib | 10.0.5 | 2026-09-15T12:27:46.123Z | [open](../records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
 | @forsakringskassan/prettier-config | 3.7.8 | 2026-07-25T01:10:43.405Z | [open](../records/node-js-javascript-forsakringskassan-prettier-config-fd4fa15b.md) |
 | @fsouza/prettierd | 0.29.0 | 2026-07-26T03:59:25.309Z | [open](../records/node-js-javascript-fsouza-prettierd-e36c93c2.md) |
 | @ganintegrity/prettier-config | 2.2.1 | 2026-06-08T07:17:05.224Z | [open](../records/node-js-javascript-ganintegrity-prettier-config-5beefee3.md) |
@@ -413,6 +413,7 @@ Records: `677`
 | EBASS | 0.1.2 | 2026-09-04 12:00:37 UTC | [open](../records/r-ebass-c4bc4c3b.md) |
 | edf | 1.0.1 | 2026-08-31 14:50:02 UTC | [open](../records/r-edf-9fec92c6.md) |
 | eiIT | 0.0.2-1 | 2026-08-22 16:00:12 UTC | [open](../records/r-eiit-fe794b8d.md) |
+| Entropic.Scree | 1.0.1 | 2026-09-15 14:00:02 UTC | [open](../records/r-entropic-scree-fd7846bc.md) |
 | formatters | 0.5.13 | 2026-09-15 03:20:02 UTC | [open](../records/r-formatters-e8d5ca00.md) |
 | freesurferformats | 1.0.2 | 2026-09-08 09:50:02 UTC | [open](../records/r-freesurferformats-7c2d139c.md) |
 | gettz | 0.0.6 | 2026-08-25 12:40:26 UTC | [open](../records/r-gettz-01edb472.md) |
@@ -540,7 +541,7 @@ Records: `677`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | partial | 2026-09-14T14:52:35Z | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -552,7 +553,7 @@ Records: `677`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T13:14:43Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T14:12:02Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -632,7 +633,7 @@ Records: `677`
 | oblivioncth/Stexatlaser | partial | 2026-08-26T18:53:52Z | [open](../records/assets-oblivioncth-stexatlaser-40b7ab31.md) |
 | Qftm/Information_Collection_Handbook | partial | 2023-03-08T14:10:29Z | [open](../records/assets-qftm-information-collection-handbook-97112bf4.md) |
 | SawyerRensel/Transmogrifier | partial | 2026-07-16T00:26:47Z | [open](../records/assets-sawyerrensel-transmogrifier-c1c40840.md) |
-| sourcentis/mercator | partial | 2026-09-15T09:36:03Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
+| sourcentis/mercator | partial | 2026-09-15T13:58:10Z | [open](../records/assets-sourcentis-mercator-b6bbd504.md) |
 | ToxSam/os3a-gallery | partial | 2026-02-10T16:33:02Z | [open](../records/assets-toxsam-os3a-gallery-cbfb47dc.md) |
 | trufont/trufont | partial | 2025-12-02T16:43:50Z | [open](../records/assets-trufont-trufont-b3154008.md) |
 | wangyz1999/3d-emoji-assets-generator | partial | 2026-03-30T16:28:15Z | [open](../records/assets-wangyz1999-3d-emoji-assets-generator-b46f9205.md) |

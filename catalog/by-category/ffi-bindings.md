@@ -8,23 +8,23 @@ Records: `492`
 
 ## Category Index
 
-[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · **[Ffi Bindings (492)](ffi-bindings.md)** · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · **[Ffi Bindings (492)](ffi-bindings.md)** · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6222)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -227,7 +227,7 @@ Records: `492`
 | @axiomhq/logging | 0.4.0 | 2026-08-04T10:18:22.560Z | [open](../records/node-js-javascript-axiomhq-logging-1a778042.md) |
 | @blocksuite/affine-block-database | 0.22.4 | 2025-07-01T05:43:11.761Z | [open](../records/node-js-javascript-blocksuite-affine-block-database-c0168ec8.md) |
 | @blocksuite/data-view | 0.22.4 | 2025-07-01T05:43:33.867Z | [open](../records/node-js-javascript-blocksuite-data-view-d981610e.md) |
-| @browserstack/mcp-server | 1.3.3 | 2026-09-11T12:45:23.423Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
+| @browserstack/mcp-server | 1.3.4 | 2026-09-15T13:04:42.903Z | [open](../records/node-js-javascript-browserstack-mcp-server-28ee02d1.md) |
 | @canva/cli | 2.12.0 | 2026-09-09T06:03:22.292Z | [open](../records/node-js-javascript-canva-cli-7d868b38.md) |
 | @datadog/openfeature-node-server | 2.3.0 | 2026-09-14T16:55:15.680Z | [open](../records/node-js-javascript-datadog-openfeature-node-server-86bf2f8d.md) |
 | @larksuite/cli | 1.0.95 | 2026-09-11T04:15:56.244Z | [open](../records/node-js-javascript-larksuite-cli-442a55c5.md) |
@@ -407,7 +407,7 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | partial | 2026-09-14T08:10:14Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | unknown | not_a_go_module_path | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 
@@ -621,7 +621,7 @@ Records: `492`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Arkanic/rtljs | partial | 2024-09-21T02:20:41Z | [open](../records/electromagnetoscopes-arkanic-rtljs-1bff2dba.md) |
-| ElmerCSC/elmerfem | partial | 2026-09-14T14:24:01Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
+| ElmerCSC/elmerfem | partial | 2026-09-15T14:17:04Z | [open](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) |
 | hbldh/pymetawear | partial | 2023-05-30T14:04:42Z | [open](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) |
 | youxch/Inverse-design-of-patch-antennas | partial | 2024-10-10T07:04:39Z | [open](../records/electromagnetoscopes-youxch-inverse-design-of-patch-antennas-3ea13c86.md) |
 
@@ -656,12 +656,12 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ashvardanian/NumKong | partial | 2026-09-13T16:22:08Z | [open](../records/assembly-ashvardanian-numkong-bff1efd3.md) |
+| ashvardanian/NumKong | partial | 2026-09-15T13:46:41Z | [open](../records/assembly-ashvardanian-numkong-bff1efd3.md) |
 | awaescher/Fusion | partial | 2022-09-01T06:28:12Z | [open](../records/assembly-awaescher-fusion-614ef7c1.md) |
 | cheng-alvin/jas | partial | 2026-04-23T12:31:32Z | [open](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
 | encounter/objdiff | partial | 2026-08-29T22:14:27Z | [open](../records/assembly-encounter-objdiff-533f7383.md) |
 | hugsy/bochscpu-python | partial | 2025-08-10T17:01:32Z | [open](../records/assembly-hugsy-bochscpu-python-bba92484.md) |
-| KolibriOS/kolibrios | partial | 2026-09-15T11:04:59Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
+| KolibriOS/kolibrios | partial | 2026-09-15T13:49:35Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language
 

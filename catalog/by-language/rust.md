@@ -8,23 +8,23 @@ Records: `2183`
 
 ## Category Index
 
-[Api Abi Checker (240)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
+[Api Abi Checker (241)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
 [Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1049)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (677)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1528)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6218)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (880)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1105)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6222)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (351)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (880)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1107)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1253)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (329)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (695)](../by-category/static-analyzer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (658)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (503)](../by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (657)](../by-category/visualization-gui.md) · [Web Framework (503)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -1935,7 +1935,7 @@ Records: `2183`
 | [heapless](../records/rust-heapless-3caa434c.md) | 0.9.3 | 2026-04-30T21:21:52.310678Z | registry-derived |
 | [inlinable_string](../records/rust-inlinable-string-8d568dee.md) | 0.1.15 | 2022-01-04T08:46:15.989765Z | crates_io |
 | [libloading](../records/rust-libloading-e1e72512.md) | 0.9.0 | 2025-11-05T23:15:12.937093Z | registry-derived |
-| [libz-rs-sys](../records/rust-libz-rs-sys-28783b94.md) | 0.6.7 | 2026-08-03T13:07:22.877274Z | registry-derived |
+| [libz-rs-sys](../records/rust-libz-rs-sys-28783b94.md) | 0.6.8 | 2026-09-15T13:10:03.060802Z | registry-derived |
 | [malloc_buf](../records/rust-malloc-buf-d81856c2.md) | 1.0.0 | 2017-02-20T05:43:29.488400Z | crates_io |
 | [memmap](../records/rust-memmap-7771cc34.md) | 0.7.0 | 2018-09-20T05:11:46.005513Z | crates_io |
 | [memmap2](../records/rust-memmap2-947cf063.md) | 0.9.11 | 2026-06-22T16:04:03.992829Z | registry-derived |
@@ -1947,7 +1947,7 @@ Records: `2183`
 | [string-interner](../records/rust-string-interner-7b10eed1.md) | 0.20.0 | 2026-04-30T17:46:44.620449Z | crates_io |
 | [tar](../records/rust-tar-d446cbd0.md) | 0.4.46 | 2026-05-18T19:12:11.033813Z | registry-derived |
 | [xz2](../records/rust-xz2-05dec6d1.md) | 0.1.7 | 2022-06-06T17:07:19.438302Z | registry-derived |
-| [zlib-rs](../records/rust-zlib-rs-b0c4f719.md) | 0.6.7 | 2026-08-03T13:07:20.445034Z | registry-derived |
+| [zlib-rs](../records/rust-zlib-rs-b0c4f719.md) | 0.6.8 | 2026-09-15T13:10:00.283903Z | registry-derived |
 
 ### Message Broker
 
@@ -2075,7 +2075,7 @@ Records: `2183`
 | [clap](../records/rust-clap-7674fdaa.md) | 4.6.7 | 2026-09-14T18:40:28.474794Z | registry-derived |
 | [clap_lex](../records/rust-clap-lex-8e5d887f.md) | 1.1.1 | 2026-09-14T18:40:24.781280Z | registry-derived |
 | [combine](../records/rust-combine-11931046.md) | 4.6.8 | 2026-08-25T15:36:05.728682Z | registry-derived |
-| [const-hex](../records/rust-const-hex-693a3c7d.md) | 1.19.1 | 2026-05-23T18:32:18.853034Z | registry-derived |
+| [const-hex](../records/rust-const-hex-693a3c7d.md) | 1.19.2 | 2026-09-15T14:20:40.304599Z | registry-derived |
 | [crc32fast](../records/rust-crc32fast-9238ccb6.md) | 1.5.2 | 2026-09-12T18:41:46.923561Z | registry-derived |
 | [cron](../records/rust-cron-58d524dd.md) | 0.17.0 | 2026-06-18T07:39:48.316778Z | crates_io |
 | [csscolorparser](../records/rust-csscolorparser-899fb00c.md) | 0.8.4 | 2026-08-24T08:51:07.295416Z | crates_io |

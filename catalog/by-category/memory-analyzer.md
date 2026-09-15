@@ -8,23 +8,23 @@ Records: `106`
 
 ## Category Index
 
-[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · **[Memory Analyzer (106)](memory-analyzer.md)** · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6222)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · **[Memory Analyzer (106)](memory-analyzer.md)** · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -55,7 +55,7 @@ Records: `106`
 | heapless | 0.9.3 | 2026-04-30T21:21:52.310678Z | [open](../records/rust-heapless-3caa434c.md) |
 | inlinable_string | 0.1.15 | 2022-01-04T08:46:15.989765Z | [open](../records/rust-inlinable-string-8d568dee.md) |
 | libloading | 0.9.0 | 2025-11-05T23:15:12.937093Z | [open](../records/rust-libloading-e1e72512.md) |
-| libz-rs-sys | 0.6.7 | 2026-08-03T13:07:22.877274Z | [open](../records/rust-libz-rs-sys-28783b94.md) |
+| libz-rs-sys | 0.6.8 | 2026-09-15T13:10:03.060802Z | [open](../records/rust-libz-rs-sys-28783b94.md) |
 | malloc_buf | 1.0.0 | 2017-02-20T05:43:29.488400Z | [open](../records/rust-malloc-buf-d81856c2.md) |
 | memmap | 0.7.0 | 2018-09-20T05:11:46.005513Z | [open](../records/rust-memmap-7771cc34.md) |
 | memmap2 | 0.9.11 | 2026-06-22T16:04:03.992829Z | [open](../records/rust-memmap2-947cf063.md) |
@@ -67,7 +67,7 @@ Records: `106`
 | string-interner | 0.20.0 | 2026-04-30T17:46:44.620449Z | [open](../records/rust-string-interner-7b10eed1.md) |
 | tar | 0.4.46 | 2026-05-18T19:12:11.033813Z | [open](../records/rust-tar-d446cbd0.md) |
 | xz2 | 0.1.7 | 2022-06-06T17:07:19.438302Z | [open](../records/rust-xz2-05dec6d1.md) |
-| zlib-rs | 0.6.7 | 2026-08-03T13:07:20.445034Z | [open](../records/rust-zlib-rs-b0c4f719.md) |
+| zlib-rs | 0.6.8 | 2026-09-15T13:10:00.283903Z | [open](../records/rust-zlib-rs-b0c4f719.md) |
 
 ## Python
 
@@ -134,10 +134,10 @@ Records: `106`
 | --- | --- | --- | --- |
 | asgeirtj/system_prompts_leaks | partial | 2026-09-13T19:18:51Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
 | gitleaks/gitleaks | partial | 2026-09-09T04:18:49Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
-| mem0ai/mem0 | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
+| mem0ai/mem0 | partial | 2026-09-15T14:12:41Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-15T08:16:34Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-15T13:20:55Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-15T13:21:06Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-15T14:04:10Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-15T10:17:31Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Physics Engines
@@ -190,7 +190,7 @@ Records: `106`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | baotonglu/dash | partial | 2024-04-16T11:31:59Z | [open](../records/catalogs-baotonglu-dash-cf3f420e.md) |
-| FgForrest/evitaDB | partial | 2026-09-15T09:49:18Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
+| FgForrest/evitaDB | partial | 2026-09-15T13:40:41Z | [open](../records/catalogs-fgforrest-evitadb-0b44527c.md) |
 | ggrandes/kvstore | partial | 2025-08-27T19:31:26Z | [open](../records/catalogs-ggrandes-kvstore-6580d57c.md) |
 | go-ego/riot | partial | 2020-10-13T13:31:05Z | [open](../records/catalogs-go-ego-riot-e4bf73d9.md) |
 | thustorage/Sherman | partial | 2024-10-05T02:40:11Z | [open](../records/catalogs-thustorage-sherman-1b85d616.md) |

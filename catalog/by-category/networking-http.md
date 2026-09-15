@@ -1,6 +1,6 @@
 # Networking Http
 
-Records: `1105`
+Records: `1107`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `1105`
 
 ## Category Index
 
-[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1105)](networking-http.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6222)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · **[Networking Http (1107)](networking-http.md)**
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -426,7 +426,7 @@ Records: `1105`
 | loggly | 1.1.1 | 2016-09-29T16:32:25.584Z | [open](../records/node-js-javascript-loggly-f69b4b1d.md) |
 | many-level | 2.0.0 | 2022-07-02T13:23:27.903Z | [open](../records/node-js-javascript-many-level-40ba6309.md) |
 | matchmediaquery | 0.4.2 | 2023-08-20T16:59:20.791Z | [open](../records/node-js-javascript-matchmediaquery-2e82ef21.md) |
-| matrix-js-sdk | 42.3.0 | 2026-09-01T14:10:07.996Z | [open](../records/node-js-javascript-matrix-js-sdk-95218c67.md) |
+| matrix-js-sdk | 42.4.0 | 2026-09-15T13:31:24.070Z | [open](../records/node-js-javascript-matrix-js-sdk-95218c67.md) |
 | matter-server | 1.4.0 | 2026-08-07T08:52:35.642Z | [open](../records/node-js-javascript-matter-server-239f0299.md) |
 | methods | 1.1.2 | 2016-01-18T02:53:56.364Z | [open](../records/node-js-javascript-methods-3568f6db.md) |
 | mimic-response | 4.0.0 | 2021-08-11T14:32:51.305Z | [open](../records/node-js-javascript-mimic-response-f670bb0c.md) |
@@ -615,6 +615,7 @@ Records: `1105`
 | AIGENIE | 2.1.2 | 2026-09-08 13:50:09 UTC | [open](../records/r-aigenie-ec28de5c.md) |
 | bbk | 0.13.0 | 2026-08-28 13:30:16 UTC | [open](../records/r-bbk-04eaa929.md) |
 | BBNI | 0.2.2 | 2026-08-19 19:20:12 UTC | [open](../records/r-bbni-df3b78d7.md) |
+| bioclients | 0.1.1 | 2026-09-15 13:00:08 UTC | [open](../records/r-bioclients-282c6a0e.md) |
 | biohttp | 0.1.2 | 2026-09-03 11:50:41 UTC | [open](../records/r-biohttp-77935237.md) |
 | bnviewer | 0.1.7 | 2026-09-14 02:50:23 UTC | [open](../records/r-bnviewer-ce3ec8e3.md) |
 | cloudosR | 0.2.4 | 2026-08-28 09:00:02 UTC | [open](../records/r-cloudosr-247b423e.md) |
@@ -639,6 +640,7 @@ Records: `1105`
 | mx.api | 0.3.1 | 2026-09-11 02:50:02 UTC | [open](../records/r-mx-api-3f4c2efe.md) |
 | mx.client | 0.2.1 | 2026-09-11 16:50:02 UTC | [open](../records/r-mx-client-9357f9db.md) |
 | MXM | 1.5.8 | 2026-09-01 14:00:15 UTC | [open](../records/r-mxm-5bdeadc6.md) |
+| netDFI | 1.2.0 | 2026-09-15 13:20:08 UTC | [open](../records/r-netdfi-180de4c4.md) |
 | nethist | 1.0.0 | 2026-09-02 11:30:02 UTC | [open](../records/r-nethist-8de2de7b.md) |
 | NetInt | 1.0.2 | 2026-09-09 16:20:09 UTC | [open](../records/r-netint-9643428b.md) |
 | netrics | 1.0.3 | 2026-09-09 18:20:09 UTC | [open](../records/r-netrics-fe87a087.md) |
@@ -796,13 +798,13 @@ Records: `1105`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ChimeraCoder/anaconda | partial | 2024-01-28T15:07:20Z | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
-| g3n/engine | partial | 2026-08-01T16:23:05Z | [open](../records/go-g3n-engine-0b367039.md) |
-| go-resty/resty | partial | 2026-09-07T01:30:26Z | [open](../records/go-go-resty-resty-9cfada1b.md) |
-| redis/go-redis | partial | 2026-09-15T12:30:30Z | [open](../records/go-redis-go-redis-fe715a04.md) |
-| spicetify/cli | partial | 2026-09-15T12:12:00Z | [open](../records/go-spicetify-cli-b8e26c00.md) |
-| teler-sh/teler-waf | partial | 2025-03-18T01:40:27Z | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
-| xiaolincoder/CS-Base | partial | 2024-11-27T06:32:13Z | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
+| ChimeraCoder/anaconda | unknown | not_a_go_module_path | [open](../records/go-chimeracoder-anaconda-6a61e747.md) |
+| g3n/engine | unknown | not_a_go_module_path | [open](../records/go-g3n-engine-0b367039.md) |
+| go-resty/resty | unknown | not_a_go_module_path | [open](../records/go-go-resty-resty-9cfada1b.md) |
+| redis/go-redis | unknown | not_a_go_module_path | [open](../records/go-redis-go-redis-fe715a04.md) |
+| spicetify/cli | unknown | not_a_go_module_path | [open](../records/go-spicetify-cli-b8e26c00.md) |
+| teler-sh/teler-waf | unknown | not_a_go_module_path | [open](../records/go-teler-sh-teler-waf-ad277b8c.md) |
+| xiaolincoder/CS-Base | unknown | not_a_go_module_path | [open](../records/go-xiaolincoder-cs-base-74618079.md) |
 | yincongcyincong/mcp-client-go | partial | 2025-09-09T09:54:40Z | [open](../records/go-yincongcyincong-mcp-client-go-551e8f66.md) |
 
 ## Basilisk
@@ -820,7 +822,7 @@ Records: `1105`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-15T12:48:47Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-15T13:31:16Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
