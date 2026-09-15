@@ -14,12 +14,12 @@ Records: `349`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (986)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (675)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (676)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6207)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6209)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (878)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1103)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
@@ -59,7 +59,7 @@ Records: `349`
 | [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
 | [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
-| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-15T09:21:17Z | registry-derived |
+| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-15T10:21:07Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
 | [xmartlabs/Eureka](../records/cocoa-xmartlabs-eureka-e10ee14d.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
@@ -132,10 +132,10 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T09:22:31Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T10:12:13Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-14T22:07:35Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
-| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T09:16:31Z | registry-derived |
+| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T09:34:06Z | registry-derived |
 
 ### Filesystem Os
 

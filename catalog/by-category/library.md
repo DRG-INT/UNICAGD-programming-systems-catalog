@@ -1,6 +1,6 @@
 # Library
 
-Records: `6207`
+Records: `6209`
 
 ## Navigation
 
@@ -14,12 +14,12 @@ Records: `6207`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · **[Library (6207)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · **[Library (6209)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -2743,6 +2743,7 @@ Records: `6207`
 | Guerry | 1.8.5 | 2026-09-14 21:20:18 UTC | [open](../records/r-guerry-b039de02.md) |
 | gwrf | 0.1.1 | 2026-08-24 14:50:08 UTC | [open](../records/r-gwrf-d432983d.md) |
 | harness | 0.2.0 | 2026-08-24 16:30:09 UTC | [open](../records/r-harness-46815bd7.md) |
+| hassediagrams | 3.0 | 2026-09-15 09:20:09 UTC | [open](../records/r-hassediagrams-a9ace1f2.md) |
 | HDElliptical | 0.1.3 | 2026-09-14 07:10:25 UTC | [open](../records/r-hdelliptical-39878582.md) |
 | hdf5lib | 2.2.0.0 | 2026-09-10 00:20:02 UTC | [open](../records/r-hdf5lib-086bb900.md) |
 | hdMTD | 0.1.5 | 2026-09-09 15:40:02 UTC | [open](../records/r-hdmtd-add879a7.md) |
@@ -2796,7 +2797,7 @@ Records: `6207`
 | K4Guru | 0.1.0 | 2026-09-03 13:10:03 UTC | [open](../records/r-k4guru-5a67bf20.md) |
 | K4Rumah | 0.1.0 | 2026-08-08 12:30:23 UTC | [open](../records/r-k4rumah-f3ddf53d.md) |
 | K4Siswa | 0.1.0 | 2026-08-08 12:50:16 UTC | [open](../records/r-k4siswa-e3d668ea.md) |
-| kde1d | 1.2.0 | 2026-09-10 11:40:02 UTC | [open](../records/r-kde1d-5bbb5799.md) |
+| kde1d | 1.2.2 | 2026-09-15 09:50:02 UTC | [open](../records/r-kde1d-5bbb5799.md) |
 | Keng | 2026.9.0 | 2026-09-01 11:40:23 UTC | [open](../records/r-keng-3c943f29.md) |
 | KernSmooth | 2.23-27 | 2026-08-12 06:40:09 UTC | [open](../records/r-kernsmooth-6a63d4ae.md) |
 | klassR | 1.0.7 | 2026-08-21 12:00:02 UTC | [open](../records/r-klassr-28fd0f6f.md) |
@@ -2950,6 +2951,7 @@ Records: `6207`
 | plugdensity | 0.8-6 | 2026-09-04 22:10:02 UTC | [open](../records/r-plugdensity-29c7111f.md) |
 | poisFErobust | 2.0.1 | 2026-09-01 07:20:02 UTC | [open](../records/r-poisferobust-16b12538.md) |
 | polarzonoid | 0.4-0 | 2026-08-22 04:30:02 UTC | [open](../records/r-polarzonoid-729ef14a.md) |
+| polyglotr | 1.7.5 | 2026-09-15 09:20:02 UTC | [open](../records/r-polyglotr-feee1173.md) |
 | PowerXgammaRF | 1.0.0 | 2026-08-21 13:20:24 UTC | [open](../records/r-powerxgammarf-5bd9852f.md) |
 | pre | 1.1.1 | 2026-09-11 17:10:02 UTC | [open](../records/r-pre-14669e77.md) |
 | predHCS | 0.1.0 | 2026-08-05 09:20:09 UTC | [open](../records/r-predhcs-11f5cded.md) |
@@ -3289,8 +3291,8 @@ Records: `6207`
 | asn1-data | 0.7.2 | 2015-09-07T09:57:38Z | [open](../records/haskell-asn1-data-530c2108.md) |
 | asn1-encoding | 0.9.6 | 2019-09-29T19:07:14Z | [open](../records/haskell-asn1-encoding-bfa5eab2.md) |
 | asn1-types | 0.3.4 | 2020-03-24T20:32:54Z | [open](../records/haskell-asn1-types-0e892625.md) |
-| atelier-core | 0.6.0.0 | 2026-09-10T14:08:53Z | [open](../records/haskell-atelier-core-446a6fc4.md) |
-| atelier-prelude | 0.3.0.0 | 2026-09-10T14:08:46Z | [open](../records/haskell-atelier-prelude-64875e60.md) |
+| atelier-core | 0.6.1.0 | 2026-09-15T09:40:32Z | [open](../records/haskell-atelier-core-446a6fc4.md) |
+| atelier-prelude | 0.3.1.0 | 2026-09-15T09:29:02Z | [open](../records/haskell-atelier-prelude-64875e60.md) |
 | atomic-primops | 0.8.8 | 2024-06-20T20:33:01Z | [open](../records/haskell-atomic-primops-38c4ce12.md) |
 | attoparsec | 0.14.4 | 2022-01-10T18:41:09Z | [open](../records/haskell-attoparsec-2c743766.md) |
 | aur | 7.0.7 | 2021-10-21T21:44:16Z | [open](../records/haskell-aur-c80060a8.md) |
@@ -4284,9 +4286,9 @@ Records: `6207`
 | transient | 0.7.0.0 | 2020-07-24T11:50:50Z | [open](../records/haskell-transient-c89f21cb.md) |
 | transient-universe | 0.6.0.1 | 2020-07-29T08:33:29Z | [open](../records/haskell-transient-universe-a8372c5c.md) |
 | tree-diff | 0.4.1 | 2026-05-13T18:50:23Z | [open](../records/haskell-tree-diff-aaa9969d.md) |
-| tricorder | 0.2.2.3 | 2026-09-11T13:57:20Z | [open](../records/haskell-tricorder-354456ad.md) |
+| tricorder | 0.3.0.0 | 2026-09-15T09:54:33Z | [open](../records/haskell-tricorder-354456ad.md) |
 | tricorder-mcp | 0.1.2.1 | 2026-09-11T13:43:56Z | [open](../records/haskell-tricorder-mcp-95664038.md) |
-| tricorder-types | 0.3.0.0 | 2026-09-11T13:31:36Z | [open](../records/haskell-tricorder-types-5b7c3ebd.md) |
+| tricorder-types | 0.3.1.0 | 2026-09-15T09:37:40Z | [open](../records/haskell-tricorder-types-5b7c3ebd.md) |
 | trifecta | 2.1.4 | 2024-02-07T15:52:11Z | [open](../records/haskell-trifecta-b5f6d0a8.md) |
 | ttc | 1.5.0.1 | 2026-01-10T10:29:39Z | [open](../records/haskell-ttc-b82444ef.md) |
 | tttool | 1.8.1 | 2019-03-30T20:32:32Z | [open](../records/haskell-tttool-dca398d9.md) |
@@ -4353,7 +4355,7 @@ Records: `6207`
 | webauthn | 0.12.0.0 | 2026-09-08T09:21:19Z | [open](../records/haskell-webauthn-dc58a13b.md) |
 | webdriver | 0.15.0.0 | 2026-06-03T00:17:00Z | [open](../records/haskell-webdriver-495a468a.md) |
 | webkit | 0.14.2.1 | 2016-10-30T01:15:20Z | [open](../records/haskell-webkit-c33c83bf.md) |
-| weeder | 2.10.0 | 2025-08-01T08:10:52Z | [open](../records/haskell-weeder-bfff0433.md) |
+| weeder | 2.11.0 | 2026-09-15T09:55:33Z | [open](../records/haskell-weeder-bfff0433.md) |
 | weigh | 0.0.18 | 2024-11-01T15:57:20Z | [open](../records/haskell-weigh-7e021f10.md) |
 | werewolf | 1.5.2.0 | 2017-09-22T03:04:51Z | [open](../records/haskell-werewolf-4e762a5c.md) |
 | what4 | 1.8 | 2026-09-01T17:35:26Z | [open](../records/haskell-what4-03a48fd1.md) |
@@ -5049,7 +5051,7 @@ Records: `6207`
 | Shipu/themevel | partial | 2023-08-07T20:51:18Z | [open](../records/assets-shipu-themevel-792b0d04.md) |
 | shirotech/webpack-cdn-plugin | partial | 2023-01-06T01:49:40Z | [open](../records/assets-shirotech-webpack-cdn-plugin-33dc4a24.md) |
 | spoqa/spoqa-han-sans | partial | 2022-06-15T08:19:05Z | [open](../records/assets-spoqa-spoqa-han-sans-01644b72.md) |
-| StellarRookAnchorage/rhino-3d-elite | partial | 2026-09-03T00:04:24Z | [open](../records/assets-stellarrookanchorage-rhino-3d-elite-596b5ab8.md) |
+| StellarRookAnchorage/rhino-3d-elite | partial | 2026-09-15T05:27:00Z | [open](../records/assets-stellarrookanchorage-rhino-3d-elite-596b5ab8.md) |
 | Stolz/Assets | partial | 2020-02-01T12:06:15Z | [open](../records/assets-stolz-assets-4cbc05d6.md) |
 | symfony/assetic-bundle | partial | 2022-11-07T16:20:58Z | [open](../records/assets-symfony-assetic-bundle-4dada5ec.md) |
 | system-fonts/modern-font-stacks | partial | 2026-03-10T21:21:49Z | [open](../records/assets-system-fonts-modern-font-stacks-431ff0c6.md) |
@@ -5075,7 +5077,7 @@ Records: `6207`
 | b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
 | benjamintd/benmaps.fr | partial | 2026-09-14T21:01:48Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
-| bilawalsidhu/gods-eye-view | partial | 2026-09-15T07:24:55Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
+| bilawalsidhu/gods-eye-view | partial | 2026-09-15T10:18:32Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
 | bizz84/nested-navigation-demo-flutter | partial | 2023-01-11T17:32:58Z | [open](../records/maps-bizz84-nested-navigation-demo-flutter-a397d085.md) |
 | bmwcarit/barefoot | partial | 2023-04-14T17:11:38Z | [open](../records/maps-bmwcarit-barefoot-66146078.md) |

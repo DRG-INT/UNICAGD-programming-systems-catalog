@@ -14,12 +14,12 @@ Records: `342`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (986)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (675)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (676)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6207)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6209)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (878)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1103)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
@@ -443,7 +443,7 @@ Records: `342`
 | [quantixed/manuscript-templates](../records/magazines-quantixed-manuscript-templates-0fd952ae.md) | partial | 2026-01-21T08:54:04Z | registry-derived |
 | [razacreative/blog-dark](../records/magazines-razacreative-blog-dark-50487664.md) | partial | 2020-06-16T05:05:48Z | registry-derived |
 | [razacreative/Responsive-NavBar](../records/magazines-razacreative-responsive-navbar-21017105.md) | partial | 2020-06-19T05:21:12Z | registry-derived |
-| [rstudio/rticles](../records/magazines-rstudio-rticles-1354fe57.md) | partial | 2026-09-15T08:57:34Z | registry-derived |
+| [rstudio/rticles](../records/magazines-rstudio-rticles-1354fe57.md) | partial | 2026-09-15T10:16:57Z | registry-derived |
 | [shellywhen/Journal-Response-Letter-Template-LaTeX](../records/magazines-shellywhen-journal-response-letter-template-latex-e3622e7f.md) | partial | 2026-04-15T14:31:43Z | registry-derived |
 | [sunbliss/photorama](../records/magazines-sunbliss-photorama-e8437230.md) | partial | 2022-11-26T16:31:05Z | registry-derived |
 
@@ -520,7 +520,7 @@ Records: `342`
 | [NathanGeerinck/laravel-newsletter](../records/magazines-nathangeerinck-laravel-newsletter-f4022f65.md) | partial | 2018-09-26T13:41:42Z | registry-derived |
 | [ningoink/open-source-magazine](../records/magazines-ningoink-open-source-magazine-9862f636.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [openjournals/joss](../records/magazines-openjournals-joss-843100bc.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [openlibhums/janeway](../records/magazines-openlibhums-janeway-b53e06a3.md) | partial | 2026-09-13T09:12:17Z | registry-derived |
+| [openlibhums/janeway](../records/magazines-openlibhums-janeway-b53e06a3.md) | partial | 2026-09-15T09:40:18Z | registry-derived |
 | [petterh/range-slider](../records/magazines-petterh-range-slider-f875d29f.md) | partial | 2016-02-01T16:19:29Z | registry-derived |
 | [rubin55/gdm-examples](../records/magazines-rubin55-gdm-examples-a96bfaf6.md) | partial | 2018-11-10T20:28:04Z | registry-derived |
 | [rust-gamedev/rust-gamedev.github.io](../records/magazines-rust-gamedev-rust-gamedev-github-io-a7f949a1.md) | partial | 2025-08-28T14:43:46Z | registry-derived |

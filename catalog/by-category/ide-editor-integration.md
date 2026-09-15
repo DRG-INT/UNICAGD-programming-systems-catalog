@@ -14,12 +14,12 @@ Records: `1527`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1527)](ide-editor-integration.md)**
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -191,7 +191,7 @@ Records: `1527`
 | @launchdarkly/openfeature-node-server | 2.0.3 | 2026-09-11T15:46:35.369Z | [open](../records/node-js-javascript-launchdarkly-openfeature-node-server-febef595.md) |
 | @launchdarkly/vercel-server-sdk | 1.3.58 | 2026-09-11T15:46:15.659Z | [open](../records/node-js-javascript-launchdarkly-vercel-server-sdk-18e8bdb3.md) |
 | @lit-labs/ssr-dom-shim | 1.6.0 | 2026-05-14T03:55:57.027Z | [open](../records/node-js-javascript-lit-labs-ssr-dom-shim-dbd88335.md) |
-| @lvce-editor/server | 0.115.10 | 2026-09-14T07:21:24.547Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
+| @lvce-editor/server | 0.115.11 | 2026-09-15T09:11:42.938Z | [open](../records/node-js-javascript-lvce-editor-server-2144b1dd.md) |
 | @mixmark-io/domino | 2.2.0 | 2024-04-06T21:31:29.908Z | [open](../records/node-js-javascript-mixmark-io-domino-4b01c450.md) |
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
@@ -687,7 +687,7 @@ Records: `1527`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AdguardTeam/AdGuardHome | partial | 2026-09-15T03:36:14Z | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
+| AdguardTeam/AdGuardHome | unknown | not_a_go_module_path | [open](../records/go-adguardteam-adguardhome-7d76b56d.md) |
 | cloudreve/cloudreve | partial | 2026-09-04T08:39:31Z | [open](../records/go-cloudreve-cloudreve-85a07260.md) |
 | gorilla/websocket | partial | 2025-03-19T13:29:08Z | [open](../records/go-gorilla-websocket-b72dd879.md) |
 
@@ -696,9 +696,9 @@ Records: `1527`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-15T08:47:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-15T10:19:59Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-15T09:02:19Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-15T10:14:23Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-15T09:10:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-15T07:34:35Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-14T18:33:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
@@ -844,7 +844,7 @@ Records: `1527`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-15T08:01:37Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-15T10:21:36Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-14T14:16:42Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |

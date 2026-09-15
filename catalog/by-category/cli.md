@@ -14,12 +14,12 @@ Records: `608`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -248,7 +248,7 @@ Records: `608`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @accio-ai/cli | 0.1.58 | 2026-09-09T09:16:54.042Z | [open](../records/node-js-javascript-accio-ai-cli-98437ac9.md) |
-| @alwaysmeticulous/cli | 2.341.0 | 2026-09-14T15:48:59.099Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
+| @alwaysmeticulous/cli | 2.341.1 | 2026-09-15T09:52:48.673Z | [open](../records/node-js-javascript-alwaysmeticulous-cli-4c42a276.md) |
 | @amplitude/ampli | 1.36.6 | 2026-07-10T19:21:05.428Z | [open](../records/node-js-javascript-amplitude-ampli-69d1d68a.md) |
 | @angular-devkit/schematics-cli | 22.1.8 | 2026-09-10T15:08:55.473Z | [open](../records/node-js-javascript-angular-devkit-schematics-cli-932336ca.md) |
 | @angular/cli | 22.1.8 | 2026-09-10T15:07:20.042Z | [open](../records/node-js-javascript-angular-cli-8e368136.md) |
@@ -268,7 +268,7 @@ Records: `608`
 | @backstage/cli-module-new | 0.1.6 | 2026-08-18T16:13:07.896Z | [open](../records/node-js-javascript-backstage-cli-module-new-2c05e228.md) |
 | @backstage/cli-module-translations | 0.1.4 | 2026-07-14T11:53:40.222Z | [open](../records/node-js-javascript-backstage-cli-module-translations-e86da4a2.md) |
 | @betterer/cli | 6.0.0-alpha.1 | 2024-12-01T11:00:47.465Z | [open](../records/node-js-javascript-betterer-cli-38f507a3.md) |
-| @bike4mind/cli | 0.22.0 | 2026-09-14T23:46:04.041Z | [open](../records/node-js-javascript-bike4mind-cli-7e11a36a.md) |
+| @bike4mind/cli | 1.0.0 | 2026-09-15T08:41:39.622Z | [open](../records/node-js-javascript-bike4mind-cli-7e11a36a.md) |
 | @bomb.sh/tab | 0.0.22 | 2026-08-04T09:15:08.536Z | [open](../records/node-js-javascript-bomb-sh-tab-f325bd04.md) |
 | @botpress/cli | 7.1.4 | 2026-09-14T16:57:22.750Z | [open](../records/node-js-javascript-botpress-cli-669f749d.md) |
 | @bugsnag/cli | 3.10.6 | 2026-09-07T12:26:02.157Z | [open](../records/node-js-javascript-bugsnag-cli-4642b53f.md) |
@@ -313,12 +313,12 @@ Records: `608`
 | @ionic/cli-framework-prompts | 2.1.13 | 2023-12-19T22:38:35.436Z | [open](../records/node-js-javascript-ionic-cli-framework-prompts-5599c31f.md) |
 | @jscad/cli | 2.3.8 | 2026-02-22T00:37:56.918Z | [open](../records/node-js-javascript-jscad-cli-3e9c3318.md) |
 | @knocklabs/cli | 1.3.0 | 2026-09-08T20:53:10.588Z | [open](../records/node-js-javascript-knocklabs-cli-62154908.md) |
-| @lightdash/cli | 2.212.0 | 2026-09-15T06:36:55.146Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
+| @lightdash/cli | 2.212.2 | 2026-09-15T10:11:45.467Z | [open](../records/node-js-javascript-lightdash-cli-ba24b859.md) |
 | @lingui/cli | 6.6.0 | 2026-07-24T13:52:53.439Z | [open](../records/node-js-javascript-lingui-cli-343f33ec.md) |
 | @maizzle/cli | 2.0.0 | 2024-12-16T17:59:24.900Z | [open](../records/node-js-javascript-maizzle-cli-a7a13457.md) |
 | @marp-team/marp-cli | 4.5.1 | 2026-09-06T00:35:32.795Z | [open](../records/node-js-javascript-marp-team-marp-cli-b69e1548.md) |
 | @metabase/cli | 0.3.1 | 2026-09-02T18:11:04.719Z | [open](../records/node-js-javascript-metabase-cli-18420a56.md) |
-| @metamask/messenger-cli | 0.2.0 | 2026-04-20T16:40:19.418Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
+| @metamask/messenger-cli | 1.0.0 | 2026-09-09T20:39:58.575Z | [open](../records/node-js-javascript-metamask-messenger-cli-15524c80.md) |
 | @microsoft/m365agentstoolkit-cli | 1.1.16 | 2026-09-03T09:20:17.630Z | [open](../records/node-js-javascript-microsoft-m365agentstoolkit-cli-3f536e69.md) |
 | @microsoft/vally-cli | 0.16.0 | 2026-09-09T20:42:45.558Z | [open](../records/node-js-javascript-microsoft-vally-cli-48638457.md) |
 | @mintlify/cli | 4.0.1496 | 2026-09-14T22:34:26.661Z | [open](../records/node-js-javascript-mintlify-cli-64dbc59b.md) |
@@ -416,12 +416,12 @@ Records: `608`
 | genkit-cli | 1.42.0 | 2026-08-25T16:42:33.497Z | [open](../records/node-js-javascript-genkit-cli-c0d0e2e8.md) |
 | getopts | 2.3.0 | 2021-02-15T19:08:06.140Z | [open](../records/node-js-javascript-getopts-4e301e6f.md) |
 | hasura-cli | 2.38.0 | 2024-03-25T01:44:18.038Z | [open](../records/node-js-javascript-hasura-cli-57d5f1d7.md) |
-| hookdeck-cli | 2.5.0 | 2026-08-13T12:17:17.074Z | [open](../records/node-js-javascript-hookdeck-cli-f0ecb616.md) |
+| hookdeck-cli | 2.6.0 | 2026-09-15T09:46:32.276Z | [open](../records/node-js-javascript-hookdeck-cli-f0ecb616.md) |
 | i18nexus-cli | 5.1.1 | 2026-06-25T23:17:34.148Z | [open](../records/node-js-javascript-i18nexus-cli-c4958ca0.md) |
 | ink | 7.1.1 | 2026-07-16T13:07:31.525Z | [open](../records/node-js-javascript-ink-fc7ce41d.md) |
 | Inquirer | unknown | not_checked | [open](../records/node-js-javascript-inquirer-b4dc3a01.md) |
 | instant-cli | 1.0.67 | 2026-08-31T13:57:30.277Z | [open](../records/node-js-javascript-instant-cli-bd439fd8.md) |
-| lmnr-cli | 0.5.0 | 2026-08-21T15:24:37.896Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
+| lmnr-cli | 0.5.1 | 2026-09-15T09:36:16.001Z | [open](../records/node-js-javascript-lmnr-cli-446632fc.md) |
 | locize-cli | 12.8.1 | 2026-09-08T16:23:57.363Z | [open](../records/node-js-javascript-locize-cli-9156d8b9.md) |
 | meow | 14.1.0 | 2026-02-20T10:30:43.850Z | [open](../records/node-js-javascript-meow-f24d3a17.md) |
 | mint | 4.2.893 | 2026-09-14T22:33:34.059Z | [open](../records/node-js-javascript-mint-4de26fe3.md) |
@@ -450,7 +450,7 @@ Records: `608`
 | update-notifier | 7.3.1 | 2024-09-09T18:51:04.896Z | [open](../records/node-js-javascript-update-notifier-803d0fd2.md) |
 | vue-cli-plugin-vuetify | 2.5.8 | 2022-09-13T21:49:19.683Z | [open](../records/node-js-javascript-vue-cli-plugin-vuetify-ea56303e.md) |
 | webpack-cli | 7.2.3 | 2026-08-28T10:59:09.124Z | [open](../records/node-js-javascript-webpack-cli-7374b543.md) |
-| windmill-cli | 1.811.1 | 2026-09-13T18:44:01.641Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
+| windmill-cli | 1.812.0 | 2026-09-15T09:46:38.224Z | [open](../records/node-js-javascript-windmill-cli-71546be7.md) |
 | wiredep-cli | 0.1.0 | 2016-03-17T18:00:58.478Z | [open](../records/node-js-javascript-wiredep-cli-af29db92.md) |
 | workbox-cli | 7.4.1 | 2026-05-04T20:21:45.277Z | [open](../records/node-js-javascript-workbox-cli-3404a0aa.md) |
 | yargs | unknown | not_checked | [open](../records/node-js-javascript-yargs-1fb118a7.md) |
@@ -552,10 +552,10 @@ Records: `608`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-15T09:20:46Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-15T10:09:39Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-15T09:22:45Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-15T10:21:52Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -808,7 +808,7 @@ Records: `608`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-15T09:25:20Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-15T10:20:40Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

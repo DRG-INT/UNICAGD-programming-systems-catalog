@@ -1,6 +1,6 @@
 # Machine Learning
 
-Records: `876`
+Records: `878`
 
 ## Navigation
 
@@ -14,12 +14,12 @@ Records: `876`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · **[Machine Learning (876)](machine-learning.md)**
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · **[Machine Learning (878)](machine-learning.md)**
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -346,6 +346,7 @@ Records: `876`
 | mlr3learners | 0.16.0 | 2026-09-08 13:00:02 UTC | [open](../records/r-mlr3learners-cd112907.md) |
 | mlr3misc | 0.23.0 | 2026-08-21 06:20:10 UTC | [open](../records/r-mlr3misc-3c698222.md) |
 | mlr3tuning | 1.7.0 | 2026-09-02 15:30:02 UTC | [open](../records/r-mlr3tuning-28236503.md) |
+| mlr3verse | 0.4.0 | 2026-09-15 10:00:02 UTC | [open](../records/r-mlr3verse-740283af.md) |
 | Modeler | 3.4.10 | 2026-08-21 11:20:07 UTC | [open](../records/r-modeler-4dbf9177.md) |
 | multichainr | 0.1.0 | 2026-08-07 17:00:02 UTC | [open](../records/r-multichainr-a64dc4d0.md) |
 | MultiFrailty | 0.1.0 | 2026-08-07 19:40:06 UTC | [open](../records/r-multifrailty-42c758e3.md) |
@@ -369,6 +370,7 @@ Records: `876`
 | planr | 0.6.5 | 2026-08-23 09:30:08 UTC | [open](../records/r-planr-6120bc45.md) |
 | predictset | 0.4.0 | 2026-09-08 07:20:02 UTC | [open](../records/r-predictset-dbf90b0a.md) |
 | querychat | 0.4.0 | 2026-09-13 22:40:02 UTC | [open](../records/r-querychat-33bc8d57.md) |
+| ReSurv | 1.1.0 | 2026-09-15 08:50:02 UTC | [open](../records/r-resurv-a8b3cb8e.md) |
 | Rmalschains | 0.2-12 | 2026-09-05 16:10:09 UTC | [open](../records/r-rmalschains-568d821e.md) |
 | SampleSelectR | 1.0.0 | 2026-09-12 12:10:02 UTC | [open](../records/r-sampleselectr-a09dc243.md) |
 | scov | 2.0.2 | 2026-08-28 12:20:02 UTC | [open](../records/r-scov-c80bd944.md) |
@@ -508,13 +510,13 @@ Records: `876`
 | proto.prod.wtf/gen/go/container-platform/core/protocolbuffers/go | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-proto-prod-wtf-gen-go-container-platform-core-protocolbuffers-go-32ee32ba.md) |
 | samber/lo | partial | 2026-09-14T04:36:05Z | [open](../records/go-samber-lo-293e189e.md) |
 | satmihir/fair | partial | 2026-07-06T13:49:48Z | [open](../records/go-satmihir-fair-5ee21153.md) |
-| Tencent/WeKnora | partial | 2026-09-15T07:03:46Z | [open](../records/go-tencent-weknora-254a9260.md) |
+| Tencent/WeKnora | partial | 2026-09-15T10:18:40Z | [open](../records/go-tencent-weknora-254a9260.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
+| ahujasid/blender-mcp | partial | 2026-09-15T09:47:06Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
 | bojieli/ai-agent-book | partial | 2026-09-15T03:02:40Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
 | browser-use/browser-use | partial | 2026-09-15T01:14:00Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
@@ -525,7 +527,7 @@ Records: `876`
 | HKUDS/Vibe-Trading | partial | 2026-09-14T17:30:34Z | [open](../records/aim-s-hkuds-vibe-trading-eb525e68.md) |
 | Hugging Face Transformers | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-hugging-face-transformers-9b7d820e.md) |
 | ItzCrazyKns/Vane | partial | 2026-09-01T14:12:12Z | [open](../records/aim-s-itzcrazykns-vane-331d2e53.md) |
-| janhq/jan | partial | 2026-09-15T08:49:53Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
+| janhq/jan | partial | 2026-09-15T09:49:56Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
 | JuliusBrussee/caveman | partial | 2026-09-15T07:52:04Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
@@ -535,7 +537,7 @@ Records: `876`
 | lyogavin/airllm | partial | 2026-09-15T06:24:56Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-15T01:59:13Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
 | NousResearch/hermes-agent | partial | 2026-09-15T09:22:27Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-15T09:20:59Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| onyx-dot-app/onyx | partial | 2026-09-15T10:15:51Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-14T21:57:14Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-15T04:57:10Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-15T05:01:39Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -548,8 +550,8 @@ Records: `876`
 | TauricResearch/TradingAgents | partial | 2026-09-15T01:33:49Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-15T09:15:33Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
-| VectifyAI/PageIndex | partial | 2026-09-15T02:35:52Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
+| unslothai/unsloth | partial | 2026-09-15T10:18:13Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| VectifyAI/PageIndex | partial | 2026-09-15T09:32:00Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
 ## Computer Graphics Software
@@ -674,7 +676,7 @@ Records: `876`
 | Nenkai/GraniteTextureReader | partial | 2026-07-13T20:46:59Z | [open](../records/assets-nenkai-granitetexturereader-ce49c3de.md) |
 | ogxd/project-curator | partial | 2024-04-09T07:31:31Z | [open](../records/assets-ogxd-project-curator-975298c7.md) |
 | Sarath18/terrain_generator | partial | 2021-01-31T11:39:42Z | [open](../records/assets-sarath18-terrain-generator-b656de86.md) |
-| ShaigroRB/freetchio | partial | 2026-09-13T15:18:31Z | [open](../records/assets-shaigrorb-freetchio-fa6ad739.md) |
+| ShaigroRB/freetchio | partial | 2026-09-15T02:02:28Z | [open](../records/assets-shaigrorb-freetchio-fa6ad739.md) |
 | smlu/Urgon | partial | 2025-09-28T20:45:58Z | [open](../records/assets-smlu-urgon-4eff0f19.md) |
 | umaichanuwu/AnimeLinks | partial | 2026-05-29T04:50:28Z | [open](../records/assets-umaichanuwu-animelinks-81918c32.md) |
 | umaichanuwu/StarRailTextures | partial | 2026-06-01T02:19:40Z | [open](../records/assets-umaichanuwu-starrailtextures-bee766ee.md) |

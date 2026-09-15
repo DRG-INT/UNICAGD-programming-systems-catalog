@@ -14,12 +14,12 @@ Records: `378`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · **[Game Engine Game Dev (378)](game-engine-game-dev.md)** · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -377,7 +377,7 @@ Records: `378`
 | Escartem/GenshinTextures | partial | 2023-02-28T11:20:21Z | [open](../records/assets-escartem-genshintextures-e0aff47b.md) |
 | felladrin/game-development-resources-list | partial | 2021-07-09T22:22:14Z | [open](../records/assets-felladrin-game-development-resources-list-6087f418.md) |
 | fourgames/resources | partial | 2026-04-23T20:45:54Z | [open](../records/assets-fourgames-resources-96067fd2.md) |
-| harfbuzz/harfbuzz | partial | 2026-09-14T11:09:00Z | [open](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
+| harfbuzz/harfbuzz | partial | 2026-09-14T21:30:56Z | [open](../records/assets-harfbuzz-harfbuzz-d76a4fa5.md) |
 | hec-ovi/text-to-3D-skill | partial | 2026-07-28T15:44:23Z | [open](../records/assets-hec-ovi-text-to-3d-skill-3ef6fa92.md) |
 | kristiker/source1import | partial | 2025-02-28T12:55:47Z | [open](../records/assets-kristiker-source1import-382cf47f.md) |
 | memo-db/pixel-heroes-spine | partial | 2023-03-23T13:36:52Z | [open](../records/assets-memo-db-pixel-heroes-spine-1bf85b13.md) |

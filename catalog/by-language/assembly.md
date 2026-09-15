@@ -14,12 +14,12 @@ Records: `308`
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (986)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (675)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (676)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6207)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6209)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (878)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1103)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
@@ -76,7 +76,7 @@ Records: `308`
 | [Mati365/ts-c-compiler](../records/assembly-mati365-ts-c-compiler-bc7fb5c3.md) | partial | 2026-08-11T06:13:10Z | registry-derived |
 | [pacak/cargo-show-asm](../records/assembly-pacak-cargo-show-asm-9459d0cc.md) | partial | 2026-09-11T18:08:53Z | registry-derived |
 | [ujjwal-kr/system-programming-roadmap](../records/assembly-ujjwal-kr-system-programming-roadmap-128f664f.md) | partial | 2026-08-29T03:34:53Z | registry-derived |
-| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-15T09:14:48Z | registry-derived |
+| [vygr/ChrysaLisp](../records/assembly-vygr-chrysalisp-0e234f7b.md) | partial | 2026-09-15T10:16:01Z | registry-derived |
 | [wargio/r2dec-js](../records/assembly-wargio-r2dec-js-b98d3015.md) | partial | 2026-08-16T18:36:14Z | registry-derived |
 | [wgtdkp/wgtcc](../records/assembly-wgtdkp-wgtcc-991c7fcc.md) | partial | 2021-01-31T07:55:46Z | registry-derived |
 
@@ -330,7 +330,7 @@ Records: `308`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-11T01:45:58Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-15T09:02:12Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-15T09:32:19Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-07T12:37:33Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-09-15T08:08:32Z | registry-derived |
 

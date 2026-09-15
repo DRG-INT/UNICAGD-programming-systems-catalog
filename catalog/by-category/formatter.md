@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `675`
+Records: `676`
 
 ## Navigation
 
@@ -14,12 +14,12 @@ Records: `675`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (675)](formatter.md)**
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (676)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
@@ -419,6 +419,7 @@ Records: `675`
 | GFT | 1.0.1 | 2026-08-23 15:40:08 UTC | [open](../records/r-gft-cd30df22.md) |
 | gson | 0.2.1 | 2026-08-04 20:00:16 UTC | [open](../records/r-gson-7b22018f.md) |
 | hdf5r | 1.3.16 | 2026-09-11 08:40:02 UTC | [open](../records/r-hdf5r-a0643c8c.md) |
+| huxtable | 6.0.1 | 2026-09-15 09:30:02 UTC | [open](../records/r-huxtable-a019c9e8.md) |
 | IBclust | 1.5 | 2026-08-28 07:01:50 UTC | [open](../records/r-ibclust-e6498036.md) |
 | immunogenetr | 1.5.0 | 2026-08-19 22:10:08 UTC | [open](../records/r-immunogenetr-ce62b227.md) |
 | infometrics | 0.3.0 | 2026-09-10 13:00:02 UTC | [open](../records/r-infometrics-a06c3ff5.md) |
@@ -550,7 +551,7 @@ Records: `675`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T09:20:27Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T10:15:55Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -620,7 +621,7 @@ Records: `675`
 | dogoncouch/LogESP | partial | 2023-08-24T20:13:12Z | [open](../records/assets-dogoncouch-logesp-487d8edc.md) |
 | elasota/ConvectionKernels | partial | 2022-06-23T03:15:07Z | [open](../records/assets-elasota-convectionkernels-1bd72eb9.md) |
 | fcamarlinghi/expresso | partial | 2025-10-04T13:44:15Z | [open](../records/assets-fcamarlinghi-expresso-80b908f5.md) |
-| fernandotonon/QtMeshEditor | partial | 2026-09-14T17:06:12Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
+| fernandotonon/QtMeshEditor | partial | 2026-09-15T01:49:19Z | [open](../records/assets-fernandotonon-qtmesheditor-6f7f47a2.md) |
 | iZePlayzYT/SuperMarioEclipse-TexturePacks | partial | 2026-06-26T22:41:38Z | [open](../records/assets-izeplayzyt-supermarioeclipse-texturepacks-f6aeecb0.md) |
 | johanmattssonm/birdfont | partial | 2025-11-23T19:49:15Z | [open](../records/assets-johanmattssonm-birdfont-f317dbe1.md) |
 | jtomori/batch_textures_convert | partial | 2022-01-05T20:08:33Z | [open](../records/assets-jtomori-batch-textures-convert-0307606c.md) |
