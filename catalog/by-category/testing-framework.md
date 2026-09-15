@@ -18,7 +18,7 @@ Records: `657`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -651,7 +651,7 @@ Records: `657`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | SerhiiStets/skylab | partial | 2024-02-11T16:25:15Z | [open](../records/space-engines-serhiistets-skylab-92c5740a.md) |
-| TheSpaceDevs/spaceflightnewsapi | partial | 2026-09-09T03:37:55Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
+| TheSpaceDevs/spaceflightnewsapi | partial | 2026-09-15T06:07:30Z | [open](../records/space-engines-thespacedevs-spaceflightnewsapi-044e3573.md) |
 
 ## Space Maps
 

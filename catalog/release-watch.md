@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-15T05:24:24+00:00`
+Generated: `2026-09-15T06:30:46+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -16,7 +16,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (876)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -29,12 +29,16 @@ Generated: `2026-09-15T05:24:24+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 11056 |
-| Unknown stable release | 18382 |
+| Unknown stable release | 18383 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @prosopo/database | Node.js/JavaScript | Ide Editor Integration | 4.0.33 | 2026-09-15T05:43:50.007Z | [open](records/node-js-javascript-prosopo-database-9a77dbd4.md) |
+| @prosopo/types-database | Node.js/JavaScript | Database Datastore | 5.5.3 | 2026-09-15T05:41:27.529Z | [open](records/node-js-javascript-prosopo-types-database-4163c4a1.md) |
+| @asyncapi/cli | Node.js/JavaScript | Async Runtime | 6.1.0 | 2026-09-15T05:23:04.876Z | [open](records/node-js-javascript-asyncapi-cli-45b2d443.md) |
+| lucide_icons_flutter | Dart | Ide Editor Integration | 3.1.20 | 2026-09-15T04:48:58.763767Z | [open](records/dart-lucide-icons-flutter-351b5f67.md) |
 | @unocss/cli | Node.js/JavaScript | Cli | 66.10.3 | 2026-09-15T04:17:53.355Z | [open](records/node-js-javascript-unocss-cli-c357f3f3.md) |
 | camino | Rust | Filesystem Os | 1.2.6 | 2026-09-15T03:32:22.693003Z | [open](records/rust-camino-5633f0b3.md) |
 | @pgpmjs/export | Node.js/JavaScript | Database Datastore | 1.20.13 | 2026-09-15T03:26:12.128Z | [open](records/node-js-javascript-pgpmjs-export-abf7ded3.md) |
@@ -281,16 +285,12 @@ Generated: `2026-09-15T05:24:24+00:00`
 | @testing-library/dom | Node.js/JavaScript | Testing Framework | 10.4.2 | 2026-09-13T18:08:36.116Z | [open](records/node-js-javascript-testing-library-dom-98afebf0.md) |
 | hOpenPGP | Haskell | Library | 3.7.2 | 2026-09-13T18:04:23Z | [open](records/haskell-hopenpgp-dbd93565.md) |
 | archive | Dart | Formatter | 4.3.0 | 2026-09-13T17:42:33.821730Z | [open](records/dart-archive-707387f9.md) |
-| dhscanner-kbapi | Haskell | Static Analyzer | 1.0.7 | 2026-09-13T16:58:38Z | [open](records/haskell-dhscanner-kbapi-560b5666.md) |
-| okf-cli | Haskell | Cli | 0.9.0.0 | 2026-09-13T15:37:30Z | [open](records/haskell-okf-cli-6db274d3.md) |
-| okf-core | Haskell | Library | 0.9.0.0 | 2026-09-13T15:28:53Z | [open](records/haskell-okf-core-e6ee8554.md) |
-| alice | Dart | Debugger | 1.2.0 | 2026-09-13T15:28:14.031304Z | [open](records/dart-alice-97eb81d3.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10799 |
+| gh_search_reports_activity_not_release_version | 10800 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -314,6 +314,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| kalender | Dart | preview | 0.31.0-dev.1 | 2026-09-15T05:48:21.000647Z | [open](records/dart-kalender-10f50158.md) |
 | flex_color_scheme | Dart | preview | 9.0.0-dev.1 | 2026-09-14T23:37:53.472823Z | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
 | speech_to_text | Dart | preview | 7.6.0-beta.1 | 2026-09-14T20:26:09.794166Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | flutter_appauth | Dart | preview | 13.0.0-dev.1 | 2026-09-13T08:04:49.302492Z | [open](records/dart-flutter-appauth-5be855e9.md) |
@@ -321,7 +322,6 @@ Generated: `2026-09-15T05:24:24+00:00`
 | widgetbook | Dart | preview | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [open](records/dart-widgetbook-2f3d1f04.md) |
 | supabase_flutter | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:26.533302Z | [open](records/dart-supabase-flutter-7645000e.md) |
 | supabase | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:14.073482Z | [open](records/dart-supabase-71cdb3aa.md) |
-| kalender | Dart | preview | 0.30.0-dev.1 | 2026-09-11T05:32:07.582273Z | [open](records/dart-kalender-10f50158.md) |
 | sembast | Dart | preview | 3.8.10-2 | 2026-09-10T14:14:06.868652Z | [open](records/dart-sembast-fa8ed2b5.md) |
 | sentry_dio | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:34.679741Z | [open](records/dart-sentry-dio-7067a5da.md) |
 | sentry | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:24.015188Z | [open](records/dart-sentry-27c4653e.md) |

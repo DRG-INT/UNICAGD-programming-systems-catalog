@@ -18,7 +18,7 @@ Records: `771`
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6206)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (875)](../by-category/machine-learning.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -475,7 +475,7 @@ Records: `771`
 | [intercom_flutter](../records/dart-intercom-flutter-c88af118.md) | 9.6.26 | 2026-09-07T09:06:51.306595Z | registry-derived |
 | [keyboard_dismisser](../records/dart-keyboard-dismisser-fef62632.md) | 3.0.0 | 2022-05-20T14:54:12.709877Z | registry-derived |
 | [liquid_glass_easy](../records/dart-liquid-glass-easy-9878fe8a.md) | 4.2.0 | 2026-08-25T21:26:48.200717Z | registry-derived |
-| [lucide_icons_flutter](../records/dart-lucide-icons-flutter-351b5f67.md) | 3.1.19 | 2026-09-07T03:42:10.915150Z | registry-derived |
+| [lucide_icons_flutter](../records/dart-lucide-icons-flutter-351b5f67.md) | 3.1.20 | 2026-09-15T04:48:58.763767Z | registry-derived |
 | [macos_window_utils](../records/dart-macos-window-utils-4bdbb53a.md) | 1.9.1 | 2026-01-05T13:04:10.582842Z | registry-derived |
 | [marquee](../records/dart-marquee-cc41c071.md) | 2.3.0 | 2024-10-10T10:26:12.302061Z | registry-derived |
 | [mocktail_image_network](../records/dart-mocktail-image-network-c3ed3d2f.md) | 1.3.0 | 2026-04-12T17:40:55.812413Z | registry-derived |

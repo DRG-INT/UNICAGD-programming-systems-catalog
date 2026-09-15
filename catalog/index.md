@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T05:24:24+00:00`
+Generated: `2026-09-15T06:30:46+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -16,7 +16,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (876)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -61,7 +61,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 | Assets | 421 | 0 | [Assets](by-language/assets.md) |
 | Maps | 644 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 160 | 0 | [Space Engines](by-language/space-engines.md) |
-| Space Shuttles | 80 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
+| Space Shuttles | 81 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
 | Space Maps | 657 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 785 | 1 | [Effects](by-language/effects.md) |
 | Audio | 482 | 0 | [Audio](by-language/audio.md) |
@@ -135,7 +135,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 | Lint Rule Pack | 54 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 350 | [linter](by-category/linter.md) |
 | Logging Observability | 598 | [logging_observability](by-category/logging-observability.md) |
-| Machine Learning | 875 | [machine_learning](by-category/machine-learning.md) |
+| Machine Learning | 876 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 98 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 105 | [memory_analyzer](by-category/memory-analyzer.md) |
 | Message Broker | 40 | [message_broker](by-category/message-broker.md) |
@@ -198,7 +198,7 @@ Generated: `2026-09-15T05:24:24+00:00`
 | Assets | 0 | 421 |
 | Maps | 0 | 644 |
 | Space Engines | 0 | 160 |
-| Space Shuttles | 0 | 80 |
+| Space Shuttles | 0 | 81 |
 | Space Maps | 0 | 657 |
 | Effects | 1 | 784 |
 | Audio | 0 | 482 |

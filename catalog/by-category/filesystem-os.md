@@ -18,7 +18,7 @@ Records: `1735`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -607,7 +607,7 @@ Records: `1735`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T05:07:45Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T06:26:56Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -628,7 +628,7 @@ Records: `1735`
 | f/prompts.chat | partial | 2026-09-09T10:27:05Z | [open](../records/aim-s-f-prompts-chat-0bb76e45.md) |
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
-| NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
+| NirDiamant/RAG_Techniques | partial | 2026-09-15T06:19:06Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
 | ollama/ollama | partial | 2026-09-15T04:26:51Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
@@ -883,7 +883,7 @@ Records: `1735`
 | fatiando/verde | partial | 2026-08-04T17:47:38Z | [open](../records/maps-fatiando-verde-bc8675d9.md) |
 | fenwii/OpenHarmony | partial | 2025-07-01T13:08:55Z | [open](../records/maps-fenwii-openharmony-29b44e36.md) |
 | Freika/dawarich | partial | 2026-09-14T14:17:56Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
-| gaopengbin/geo-downloader | partial | 2026-09-14T03:32:32Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
+| gaopengbin/geo-downloader | partial | 2026-09-15T03:30:27Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
 | GenericMappingTools/gmt | partial | 2026-09-14T18:29:50Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
@@ -902,7 +902,7 @@ Records: `1735`
 | headwaymaps/headway | partial | 2026-09-14T20:07:59Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-14T21:09:24Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
-| hotosm/tasking-manager | partial | 2026-09-14T16:54:50Z | [open](../records/maps-hotosm-tasking-manager-4becfa5d.md) |
+| hotosm/tasking-manager | partial | 2026-09-15T04:47:15Z | [open](../records/maps-hotosm-tasking-manager-4becfa5d.md) |
 | hyperknot/openfreemap | partial | 2026-09-13T20:25:44Z | [open](../records/maps-hyperknot-openfreemap-16178438.md) |
 | ianho7/maptoposter-online | partial | 2026-08-03T08:49:35Z | [open](../records/maps-ianho7-maptoposter-online-9da00742.md) |
 | ipea/geocodebr | partial | 2026-09-14T14:21:28Z | [open](../records/maps-ipea-geocodebr-97586b43.md) |
@@ -952,7 +952,7 @@ Records: `1735`
 | paulmach/orb | partial | 2026-03-30T15:51:22Z | [open](../records/maps-paulmach-orb-d9946984.md) |
 | paulmach/osm | partial | 2026-09-09T10:53:48Z | [open](../records/maps-paulmach-osm-3e108fc8.md) |
 | pelicanmapping/osgearth | partial | 2026-09-15T00:52:13Z | [open](../records/maps-pelicanmapping-osgearth-e39b1113.md) |
-| PimpinPumpkin/Vela | partial | 2026-09-15T02:15:38Z | [open](../records/maps-pimpinpumpkin-vela-18046f7a.md) |
+| PimpinPumpkin/Vela | partial | 2026-09-15T06:19:50Z | [open](../records/maps-pimpinpumpkin-vela-18046f7a.md) |
 | plant99/felicette | partial | 2022-03-12T00:43:06Z | [open](../records/maps-plant99-felicette-255df365.md) |
 | pola-rs/geopolars | partial | 2025-12-10T21:37:24Z | [open](../records/maps-pola-rs-geopolars-3af274f3.md) |
 | Project-OSRM/osrm-backend | partial | 2026-09-13T18:01:06Z | [open](../records/maps-project-osrm-osrm-backend-8976c2db.md) |

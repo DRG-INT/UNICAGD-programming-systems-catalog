@@ -14,7 +14,7 @@
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (876)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -15692,6 +15692,7 @@
 | `github_search_space_shuttles-72385f52c0b192` | asrikanth777/columbiaSpaceShuttle | [open](records/space-shuttles-asrikanth777-columbiaspaceshuttle-3a93a59e.md) |
 | `github_search_space_shuttles-74c3651980cc8f` | DavidR-21/Space-Shuttle-Reentry-Analysis | [open](records/space-shuttles-davidr-21-space-shuttle-reentry-analysis-885e7731.md) |
 | `github_search_space_shuttles-758d133cf76289` | AdityaBagad/NASA-Space-Shuttle-Missions | [open](records/space-shuttles-adityabagad-nasa-space-shuttle-missions-535a0f75.md) |
+| `github_search_space_shuttles-7b0289380d3af1` | Adi-Kudus/AI-Space-Combat-Flight-Simulator | [open](records/space-shuttles-adi-kudus-ai-space-combat-flight-simulator-c05cc9d7.md) |
 | `github_search_space_shuttles-80780bf003ca34` | aashishaj/SpaceShuttle-Simulation | [open](records/space-shuttles-aashishaj-spaceshuttle-simulation-d347939e.md) |
 | `github_search_space_shuttles-80e694b680f81a` | ReneeYe/Simulation_Course_project | [open](records/space-shuttles-reneeye-simulation-course-project-cd5187cf.md) |
 | `github_search_space_shuttles-8c1c1dfb8617c0` | shahraizniazi/-A-Graphics-Satellite-Rescue-Simulation | [open](records/space-shuttles-shahraizniazi-a-graphics-satellite-rescue-simulation-b75bc6c6.md) |

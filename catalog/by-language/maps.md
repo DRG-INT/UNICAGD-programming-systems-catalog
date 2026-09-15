@@ -18,7 +18,7 @@ Records: `644`
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6206)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (875)](../by-category/machine-learning.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -104,7 +104,7 @@ Records: `644`
 | --- | --- | --- | --- |
 | [earthaccess-dev/earthaccess](../records/maps-earthaccess-dev-earthaccess-69c17717.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [kraina-ai/quackosm](../records/maps-kraina-ai-quackosm-235b8910.md) | partial | 2026-09-07T22:01:28Z | registry-derived |
-| [organicmaps/organicmaps](../records/maps-organicmaps-organicmaps-2fbbb788.md) | partial | 2026-09-15T02:19:33Z | registry-derived |
+| [organicmaps/organicmaps](../records/maps-organicmaps-organicmaps-2fbbb788.md) | partial | 2026-09-15T06:03:12Z | registry-derived |
 | [Toblerity/Fiona](../records/maps-toblerity-fiona-f99f05a8.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 
 ### Community Reference
@@ -220,7 +220,7 @@ Records: `644`
 | [fatiando/verde](../records/maps-fatiando-verde-bc8675d9.md) | partial | 2026-08-04T17:47:38Z | registry-derived |
 | [fenwii/OpenHarmony](../records/maps-fenwii-openharmony-29b44e36.md) | partial | 2025-07-01T13:08:55Z | registry-derived |
 | [Freika/dawarich](../records/maps-freika-dawarich-ee63e709.md) | partial | 2026-09-14T14:17:56Z | registry-derived |
-| [gaopengbin/geo-downloader](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) | partial | 2026-09-14T03:32:32Z | registry-derived |
+| [gaopengbin/geo-downloader](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) | partial | 2026-09-15T03:30:27Z | registry-derived |
 | [gboeing/osmnx-examples](../records/maps-gboeing-osmnx-examples-59da9b79.md) | partial | 2026-09-02T17:20:53Z | registry-derived |
 | [gee-community/geetools](../records/maps-gee-community-geetools-c599b5c8.md) | partial | 2026-09-02T09:07:50Z | registry-derived |
 | [GenericMappingTools/gmt](../records/maps-genericmappingtools-gmt-8b1cff73.md) | partial | 2026-09-14T18:29:50Z | registry-derived |
@@ -239,7 +239,7 @@ Records: `644`
 | [headwaymaps/headway](../records/maps-headwaymaps-headway-f1c2ebfc.md) | partial | 2026-09-14T20:07:59Z | registry-derived |
 | [HoshinoSuzumi/chronoframe](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) | partial | 2026-09-14T21:09:24Z | registry-derived |
 | [hotosm/osm-analytics](../records/maps-hotosm-osm-analytics-ff5f1c75.md) | partial | 2024-04-23T12:12:29Z | registry-derived |
-| [hotosm/tasking-manager](../records/maps-hotosm-tasking-manager-4becfa5d.md) | partial | 2026-09-14T16:54:50Z | registry-derived |
+| [hotosm/tasking-manager](../records/maps-hotosm-tasking-manager-4becfa5d.md) | partial | 2026-09-15T04:47:15Z | registry-derived |
 | [hyperknot/openfreemap](../records/maps-hyperknot-openfreemap-16178438.md) | partial | 2026-09-13T20:25:44Z | registry-derived |
 | [ianho7/maptoposter-online](../records/maps-ianho7-maptoposter-online-9da00742.md) | partial | 2026-08-03T08:49:35Z | registry-derived |
 | [ipea/geocodebr](../records/maps-ipea-geocodebr-97586b43.md) | partial | 2026-09-14T14:21:28Z | registry-derived |
@@ -289,7 +289,7 @@ Records: `644`
 | [paulmach/orb](../records/maps-paulmach-orb-d9946984.md) | partial | 2026-03-30T15:51:22Z | registry-derived |
 | [paulmach/osm](../records/maps-paulmach-osm-3e108fc8.md) | partial | 2026-09-09T10:53:48Z | registry-derived |
 | [pelicanmapping/osgearth](../records/maps-pelicanmapping-osgearth-e39b1113.md) | partial | 2026-09-15T00:52:13Z | registry-derived |
-| [PimpinPumpkin/Vela](../records/maps-pimpinpumpkin-vela-18046f7a.md) | partial | 2026-09-15T02:15:38Z | registry-derived |
+| [PimpinPumpkin/Vela](../records/maps-pimpinpumpkin-vela-18046f7a.md) | partial | 2026-09-15T06:19:50Z | registry-derived |
 | [plant99/felicette](../records/maps-plant99-felicette-255df365.md) | partial | 2022-03-12T00:43:06Z | registry-derived |
 | [pola-rs/geopolars](../records/maps-pola-rs-geopolars-3af274f3.md) | partial | 2025-12-10T21:37:24Z | registry-derived |
 | [Project-OSRM/osrm-backend](../records/maps-project-osrm-osrm-backend-8976c2db.md) | partial | 2026-09-13T18:01:06Z | registry-derived |
@@ -379,7 +379,7 @@ Records: `644`
 | [retroplasma/earth-reverse-engineering](../records/maps-retroplasma-earth-reverse-engineering-2e3f792d.md) | partial | 2020-12-23T00:03:53Z | registry-derived |
 | [retroplasma/flyover-reverse-engineering](../records/maps-retroplasma-flyover-reverse-engineering-b2d842b0.md) | partial | 2021-06-18T11:17:11Z | registry-derived |
 | [tangrams/tangram](../records/maps-tangrams-tangram-c740635f.md) | partial | 2026-02-08T03:24:49Z | registry-derived |
-| [valhalla/valhalla](../records/maps-valhalla-valhalla-de56d91f.md) | partial | 2026-09-14T14:08:33Z | registry-derived |
+| [valhalla/valhalla](../records/maps-valhalla-valhalla-de56d91f.md) | partial | 2026-09-15T06:16:36Z | registry-derived |
 
 ### Ide Editor Integration
 

@@ -18,7 +18,7 @@ Records: `349`
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6206)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (875)](../by-category/machine-learning.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (876)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -307,7 +307,7 @@ Records: `349`
 | [IFTTT/JazzHands](../records/cocoa-ifttt-jazzhands-0b68b0d3.md) | partial | 2024-07-30T13:01:27Z | registry-derived |
 | [Instagram/IGListKit](../records/cocoa-instagram-iglistkit-5a8b8899.md) | partial | 2026-08-19T23:51:03Z | registry-derived |
 | [ivpusic/react-native-image-crop-picker](../records/cocoa-ivpusic-react-native-image-crop-picker-5706e267.md) | partial | 2026-01-21T23:31:48Z | registry-derived |
-| [JackJiang2011/MobileIMSDK](../records/cocoa-jackjiang2011-mobileimsdk-21e38af1.md) | partial | 2026-09-09T02:53:03Z | registry-derived |
+| [JackJiang2011/MobileIMSDK](../records/cocoa-jackjiang2011-mobileimsdk-21e38af1.md) | partial | 2026-09-14T03:25:28Z | registry-derived |
 | [jdg/MBProgressHUD](../records/cocoa-jdg-mbprogresshud-e13b5233.md) | partial | 2024-08-14T01:48:59Z | registry-derived |
 | [jessesquires/JSQMessagesViewController](../records/cocoa-jessesquires-jsqmessagesviewcontroller-0b0cd6da.md) | partial | 2018-12-12T10:45:39Z | registry-derived |
 | [jigish/slate](../records/cocoa-jigish-slate-c8b67798.md) | partial | 2022-06-23T09:17:42Z | registry-derived |
@@ -334,7 +334,7 @@ Records: `349`
 | [mwaterfall/MWPhotoBrowser](../records/cocoa-mwaterfall-mwphotobrowser-b9b1cbd9.md) | partial | 2024-06-27T12:38:19Z | registry-derived |
 | [newmarcel/KeepingYouAwake](../records/cocoa-newmarcel-keepingyouawake-64ecaad8.md) | partial | 2026-08-15T11:38:08Z | registry-derived |
 | [nicklockwood/iCarousel](../records/cocoa-nicklockwood-icarousel-4e5bb6d2.md) | partial | 2024-06-27T05:43:24Z | registry-derived |
-| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-12T21:53:57Z | registry-derived |
+| [noah-nuebling/mac-mouse-fix](../records/cocoa-noah-nuebling-mac-mouse-fix-29ebd47b.md) | partial | 2026-09-14T17:13:15Z | registry-derived |
 | [noodlewerk/NWPusher](../records/cocoa-noodlewerk-nwpusher-3f230ebd.md) | partial | 2021-03-30T07:00:58Z | registry-derived |
 | [nst/iOS-Runtime-Headers](../records/cocoa-nst-ios-runtime-headers-c5f4b32c.md) | partial | 2022-05-17T07:06:03Z | registry-derived |
 | [objective-see/LuLu](../records/cocoa-objective-see-lulu-3b9c439d.md) | partial | 2026-08-05T16:19:32Z | registry-derived |
@@ -349,12 +349,12 @@ Records: `349`
 | [robbiehanson/CocoaAsyncSocket](../records/cocoa-robbiehanson-cocoaasyncsocket-0e321e74.md) | partial | 2026-08-30T00:44:15Z | registry-derived |
 | [romaonthego/RESideMenu](../records/cocoa-romaonthego-residemenu-f9a6dd3c.md) | partial | 2017-12-05T17:29:00Z | registry-derived |
 | [SDWebImage/SDWebImage](../records/cocoa-sdwebimage-sdwebimage-5e8d08bc.md) | partial | 2026-04-15T03:36:16Z | registry-derived |
-| [Sequel-Ace/Sequel-Ace](../records/cocoa-sequel-ace-sequel-ace-37545a87.md) | partial | 2026-09-12T07:24:19Z | registry-derived |
+| [Sequel-Ace/Sequel-Ace](../records/cocoa-sequel-ace-sequel-ace-37545a87.md) | partial | 2026-09-15T00:38:39Z | registry-derived |
 | [sequelpro/sequelpro](../records/cocoa-sequelpro-sequelpro-3ee4a6ac.md) | partial | 2023-02-25T08:11:30Z | registry-derived |
 | [shadowsocks/shadowsocks-iOS](../records/cocoa-shadowsocks-shadowsocks-ios-4396d460.md) | partial | 2022-05-17T06:55:42Z | registry-derived |
 | [slackhq/SlackTextViewController](../records/cocoa-slackhq-slacktextviewcontroller-f22ebae7.md) | partial | 2018-10-29T18:56:03Z | registry-derived |
 | [SnapKit/Masonry](../records/cocoa-snapkit-masonry-0fcd35d3.md) | partial | 2023-04-13T18:23:56Z | registry-derived |
-| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-09-12T21:13:34Z | registry-derived |
+| [sparkle-project/Sparkle](../records/cocoa-sparkle-project-sparkle-113ca5f5.md) | partial | 2026-09-15T03:48:11Z | registry-derived |
 | [steipete/Aspects](../records/cocoa-steipete-aspects-881b863d.md) | partial | 2025-11-25T13:09:18Z | registry-derived |
 | [sveinbjornt/Sloth](../records/cocoa-sveinbjornt-sloth-f4d1b7d5.md) | partial | 2026-08-30T10:31:22Z | registry-derived |
 | [SVProgressHUD/SVProgressHUD](../records/cocoa-svprogresshud-svprogresshud-528242cc.md) | partial | 2026-02-27T17:42:19Z | registry-derived |

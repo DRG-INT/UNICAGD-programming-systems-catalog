@@ -18,7 +18,7 @@ Records: `1527`
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1527)](ide-editor-integration.md)**
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -196,7 +196,7 @@ Records: `1527`
 | @molecule/api-database-sqlite | 1.0.3 | 2026-08-15T04:44:36.606Z | [open](../records/node-js-javascript-molecule-api-database-sqlite-91bd91b1.md) |
 | @nexrender/database-redis | 1.60.10 | 2025-01-24T12:30:12.941Z | [open](../records/node-js-javascript-nexrender-database-redis-d7ab502c.md) |
 | @portone/server-sdk | 0.19.0 | 2026-01-22T05:17:09.220Z | [open](../records/node-js-javascript-portone-server-sdk-1c059404.md) |
-| @prosopo/database | 4.0.32 | 2026-09-10T13:51:24.622Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
+| @prosopo/database | 4.0.33 | 2026-09-15T05:43:50.007Z | [open](../records/node-js-javascript-prosopo-database-9a77dbd4.md) |
 | @react-native-firebase/database | 26.4.0 | 2026-09-05T01:49:21.021Z | [open](../records/node-js-javascript-react-native-firebase-database-0450b342.md) |
 | @sap/logging | 9.2.2 | 2026-08-12T10:43:50.446Z | [open](../records/node-js-javascript-sap-logging-c02ac4fa.md) |
 | @spreeloop/database | 0.2.11 | 2026-06-08T11:00:23.435Z | [open](../records/node-js-javascript-spreeloop-database-b42f0495.md) |
@@ -638,7 +638,7 @@ Records: `1527`
 | intercom_flutter | 9.6.26 | 2026-09-07T09:06:51.306595Z | [open](../records/dart-intercom-flutter-c88af118.md) |
 | keyboard_dismisser | 3.0.0 | 2022-05-20T14:54:12.709877Z | [open](../records/dart-keyboard-dismisser-fef62632.md) |
 | liquid_glass_easy | 4.2.0 | 2026-08-25T21:26:48.200717Z | [open](../records/dart-liquid-glass-easy-9878fe8a.md) |
-| lucide_icons_flutter | 3.1.19 | 2026-09-07T03:42:10.915150Z | [open](../records/dart-lucide-icons-flutter-351b5f67.md) |
+| lucide_icons_flutter | 3.1.20 | 2026-09-15T04:48:58.763767Z | [open](../records/dart-lucide-icons-flutter-351b5f67.md) |
 | macos_window_utils | 1.9.1 | 2026-01-05T13:04:10.582842Z | [open](../records/dart-macos-window-utils-4bdbb53a.md) |
 | marquee | 2.3.0 | 2024-10-10T10:26:12.302061Z | [open](../records/dart-marquee-cc41c071.md) |
 | mocktail_image_network | 1.3.0 | 2026-04-12T17:40:55.812413Z | [open](../records/dart-mocktail-image-network-c3ed3d2f.md) |
@@ -699,7 +699,7 @@ Records: `1527`
 | can1357/oh-my-pi | partial | 2026-09-15T03:49:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-15T01:50:30Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-15T03:12:20Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-15T06:17:56Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-15T04:07:27Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-14T18:33:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
