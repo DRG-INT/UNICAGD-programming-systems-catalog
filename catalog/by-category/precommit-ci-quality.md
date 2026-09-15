@@ -1,6 +1,6 @@
 # Precommit Ci Quality
 
-Records: `327`
+Records: `329`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `327`
 ## Category Index
 
 [Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · **[Precommit Ci Quality (327)](precommit-ci-quality.md)**
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · **[Precommit Ci Quality (329)](precommit-ci-quality.md)**
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -201,6 +201,7 @@ Records: `327`
 | OpenRange | 0.0.2 | 2026-08-25 07:10:02 UTC | [open](../records/r-openrange-562b7182.md) |
 | PGM2 | 2.0.1 | 2026-08-27 08:10:15 UTC | [open](../records/r-pgm2-36428c7c.md) |
 | PointedSDMs | 2.1.6 | 2026-08-24 13:20:07 UTC | [open](../records/r-pointedsdms-2bb0b276.md) |
+| precrec | 0.24.0 | 2026-09-15 11:40:02 UTC | [open](../records/r-precrec-eea66b84.md) |
 | PricingBandits | 2.0.0 | 2026-09-09 14:30:02 UTC | [open](../records/r-pricingbandits-de576312.md) |
 | psreplicate | 0.1.1 | 2026-08-26 00:00:02 UTC | [open](../records/r-psreplicate-8c410efc.md) |
 | PTXQC | 1.1.6 | 2026-08-21 23:50:07 UTC | [open](../records/r-ptxqc-562d816f.md) |
@@ -213,6 +214,7 @@ Records: `327`
 | rstantools | 2.7.1 | 2026-08-29 15:20:07 UTC | [open](../records/r-rstantools-9906cc46.md) |
 | rxode2 | 5.1.7 | 2026-09-14 07:40:02 UTC | [open](../records/r-rxode2-4699fd91.md) |
 | salmonMSE | 3.0.0 | 2026-08-20 10:00:02 UTC | [open](../records/r-salmonmse-8060cab1.md) |
+| SAMPLE | 1.0.1 | 2026-09-15 11:30:08 UTC | [open](../records/r-sample-a5f234c3.md) |
 | scopusflow | 0.4.0 | 2026-08-21 21:00:08 UTC | [open](../records/r-scopusflow-7fbcd739.md) |
 | socialmixr | 0.7.0 | 2026-08-22 23:20:16 UTC | [open](../records/r-socialmixr-a56d8c61.md) |
 | SpaDES.core | 3.2.1 | 2026-08-29 10:20:09 UTC | [open](../records/r-spades-core-b433ef24.md) |
@@ -269,7 +271,7 @@ Records: `327`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | codeberg.org/socialhome/socialhome | v0.13.0 | 2026-08-30T15:31:22.105365Z | [open](../records/go-codeberg-org-socialhome-socialhome-ce21e69a.md) |
-| tmrts/go-patterns | unknown | not_a_go_module_path | [open](../records/go-tmrts-go-patterns-62512270.md) |
+| tmrts/go-patterns | partial | 2024-05-14T01:07:28Z | [open](../records/go-tmrts-go-patterns-62512270.md) |
 
 ## nix
 

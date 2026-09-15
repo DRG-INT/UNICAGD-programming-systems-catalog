@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `502`
+Records: `503`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `502`
 ## Category Index
 
 [Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · **[Web Framework (502)](web-framework.md)**
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · **[Web Framework (503)](web-framework.md)**
 
 ## C++23
 
@@ -165,6 +165,7 @@ Records: `502`
 | @as-integrations/express5 | 1.1.2 | 2025-07-17T17:47:52.622Z | [open](../records/node-js-javascript-as-integrations-express5-56dbd15c.md) |
 | @budibase/server | 3.38.1 | 2026-05-12T06:32:35.805Z | [open](../records/node-js-javascript-budibase-server-b96430d3.md) |
 | @callstack/repack-dev-server | 5.3.0 | 2026-08-05T09:11:36.073Z | [open](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) |
+| @cap-js/mcp-server | 0.0.5 | 2026-04-27T10:04:39.260Z | [open](../records/node-js-javascript-cap-js-mcp-server-b5dac776.md) |
 | @capgo/cli | 8.51.0 | 2026-09-12T14:34:53.587Z | [open](../records/node-js-javascript-capgo-cli-8e98e39d.md) |
 | @cloudflare/mcp-server-cloudflare | 0.2.0 | 2025-03-14T10:41:19.350Z | [open](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) |
 | @constructive-io/graphql-server | 5.25.2 | 2026-09-15T03:25:49.202Z | [open](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) |
@@ -251,7 +252,7 @@ Records: `502`
 | @umijs/server | 4.7.17 | 2026-09-11T08:03:03.325Z | [open](../records/node-js-javascript-umijs-server-39ec9954.md) |
 | @unlighthouse/server | 0.18.0 | 2026-06-29T03:12:35.459Z | [open](../records/node-js-javascript-unlighthouse-server-42feedd7.md) |
 | @upstash/context7-mcp | 4.1.1 | 2026-09-14T14:52:39.435Z | [open](../records/node-js-javascript-upstash-context7-mcp-f62fb753.md) |
-| @use-voltra/android-server | 2.2.0 | 2026-08-03T13:16:02.753Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
+| @use-voltra/android-server | 2.3.0 | 2026-09-15T10:53:47.858Z | [open](../records/node-js-javascript-use-voltra-android-server-11b8e2fa.md) |
 | @use-voltra/ios-server | 2.2.0 | 2026-08-03T13:16:07.085Z | [open](../records/node-js-javascript-use-voltra-ios-server-52aaeb6b.md) |
 | @use-voltra/server | 2.2.0 | 2026-08-03T13:15:46.999Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | @vercel/cosmosdb-server | 1.0.1 | 2026-03-09T18:28:03.744Z | [open](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) |
@@ -403,7 +404,7 @@ Records: `502`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | JGLTechnologies/gin-rate-limit | partial | 2026-08-14T03:34:23Z | [open](../records/go-jgltechnologies-gin-rate-limit-c93a4f16.md) |
-| openfaas/faas | unknown | not_a_go_module_path | [open](../records/go-openfaas-faas-7fddd6b7.md) |
+| openfaas/faas | partial | 2026-07-02T09:09:13Z | [open](../records/go-openfaas-faas-7fddd6b7.md) |
 
 ## Computer Graphics Software
 
@@ -544,7 +545,7 @@ Records: `502`
 | jeeliz/jeelizWeboji | partial | 2024-02-06T19:36:18Z | [open](../records/photography-jeeliz-jeelizweboji-42a4d713.md) |
 | LycheeOrg/Lychee-v3 | partial | 2021-03-10T02:33:37Z | [open](../records/photography-lycheeorg-lychee-v3-f5beff87.md) |
 | photostructure/photostructure-for-servers | partial | 2026-09-10T16:59:19Z | [open](../records/photography-photostructure-photostructure-for-servers-8302af34.md) |
-| photoview/photoview | partial | 2026-09-12T11:41:47Z | [open](../records/photography-photoview-photoview-7180706a.md) |
+| photoview/photoview | partial | 2026-09-15T10:03:34Z | [open](../records/photography-photoview-photoview-7180706a.md) |
 | rzeldent/esp32cam-rtsp | partial | 2026-09-02T06:46:49Z | [open](../records/photography-rzeldent-esp32cam-rtsp-27be08e9.md) |
 | sambecker/exif-photo-blog | unknown | github_search_does_not_include_release_date | [open](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) |
 | Webreaper/Damselfly | partial | 2026-09-02T12:05:12Z | [open](../records/photography-webreaper-damselfly-df92802c.md) |

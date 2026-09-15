@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `676`
+Records: `677`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `676`
 ## Category Index
 
 [Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (676)](formatter.md)**
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (677)](formatter.md)**
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -434,6 +434,7 @@ Records: `676`
 | mlt | 1.8-2 | 2026-08-21 15:00:02 UTC | [open](../records/r-mlt-55856087.md) |
 | msigdbr | 26.1.1 | 2026-08-20 05:21:05 UTC | [open](../records/r-msigdbr-b3649ac1.md) |
 | nlmixr2save | 0.2.0 | 2026-08-05 00:20:02 UTC | [open](../records/r-nlmixr2save-13c62579.md) |
+| NSC | 1.1.8 | 2026-09-15 12:00:18 UTC | [open](../records/r-nsc-d1d361ef.md) |
 | plotomics | 0.1.0 | 2026-09-04 21:50:02 UTC | [open](../records/r-plotomics-2f5eaeba.md) |
 | power.transform | 1.0.5 | 2026-09-02 17:10:08 UTC | [open](../records/r-power-transform-b4951bac.md) |
 | praznik | 13.0.0 | 2026-08-20 08:40:02 UTC | [open](../records/r-praznik-049c56ba.md) |
@@ -539,7 +540,7 @@ Records: `676`
 | github.com/Domingor/go-blackbox | v1.86.0 | 2026-08-30T16:31:35.009665Z | [open](../records/go-github-com-domingor-go-blackbox-635c7b8d.md) |
 | github.com/gilescope/rustfmt | v1.4.29 | 2026-08-30T12:55:09.408881Z | [open](../records/go-github-com-gilescope-rustfmt-3181c821.md) |
 | github.com/sarathfrancis90/sql-formatter | v15.6.1+incompatible | 2026-08-30T14:10:24.556377Z | [open](../records/go-github-com-sarathfrancis90-sql-formatter-27542140.md) |
-| gookit/goutil | unknown | not_a_go_module_path | [open](../records/go-gookit-goutil-3f400e93.md) |
+| gookit/goutil | partial | 2026-09-14T14:52:35Z | [open](../records/go-gookit-goutil-3f400e93.md) |
 
 ## Basilisk
 
@@ -551,7 +552,7 @@ Records: `676`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T11:13:45Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T12:24:32Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -728,7 +729,7 @@ Records: `676`
 | MikeMorenoDSP/LIRA-8 | partial | 2023-02-06T05:45:24Z | [open](../records/audio-mikemorenodsp-lira-8-251c75e9.md) |
 | MycroftAI/ZZZ-RETIRED__openstt | partial | 2016-03-22T21:41:07Z | [open](../records/audio-mycroftai-zzz-retired-openstt-d192df70.md) |
 | pdeljanov/Symphonia | partial | 2026-08-13T03:19:51Z | [open](../records/audio-pdeljanov-symphonia-b302ab81.md) |
-| pytorch/audio | partial | 2026-09-14T11:37:55Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
+| pytorch/audio | partial | 2026-09-15T11:37:56Z | [open](../records/audio-pytorch-audio-d02c37b9.md) |
 
 ## Video
 
@@ -759,13 +760,13 @@ Records: `676`
 | ImageMagick/ImageMagick | partial | 2026-09-14T00:06:05Z | [open](../records/photography-imagemagick-imagemagick-21d650e1.md) |
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
-| karimz1/imgcompress | partial | 2026-09-14T09:30:47Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
-| libjxl/libjxl | partial | 2026-09-15T02:47:56Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
+| karimz1/imgcompress | partial | 2026-09-15T09:20:39Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
+| libjxl/libjxl | partial | 2026-09-15T08:59:33Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mdouchement/hdr | partial | 2023-02-04T12:19:10Z | [open](../records/photography-mdouchement-hdr-30201254.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-15T08:19:32Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-15T09:14:08Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 | wasabeef/glide-transformations | partial | 2022-03-08T16:07:21Z | [open](../records/photography-wasabeef-glide-transformations-6efa38dc.md) |
 | webp-sh/webp_server_go | partial | 2026-09-11T02:42:57Z | [open](../records/photography-webp-sh-webp-server-go-e607ab44.md) |
 | WeTransfer/format_parser | partial | 2024-12-11T15:22:35Z | [open](../records/photography-wetransfer-format-parser-a46c542e.md) |

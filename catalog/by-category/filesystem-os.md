@@ -9,22 +9,22 @@ Records: `1737`
 ## Category Index
 
 [Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · **[Filesystem Os (1737)](filesystem-os.md)** · [Formatter (676)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · **[Filesystem Os (1737)](filesystem-os.md)** · [Formatter (677)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (695)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -524,7 +524,7 @@ Records: `1737`
 | android_intent_plus | 6.1.0 | 2026-07-23T21:33:07.172267Z | [open](../records/dart-android-intent-plus-0c9e162b.md) |
 | app_badge_plus | 1.3.5 | 2026-09-07T04:00:56.928703Z | [open](../records/dart-app-badge-plus-a51749d2.md) |
 | app_links | 7.2.1 | 2026-07-09T13:35:28.512394Z | [open](../records/dart-app-links-97fd4e93.md) |
-| appsflyer_sdk | 7.0.2+1-rc1 | 2026-09-10T12:05:13.200533Z | [open](../records/dart-appsflyer-sdk-6ae65c04.md) |
+| appsflyer_sdk | 7.0.2+2-rc1 | 2026-09-15T11:44:52.102800Z | [open](../records/dart-appsflyer-sdk-6ae65c04.md) |
 | arkit_plugin | 1.5.0 | 2026-08-03T18:29:00.381474Z | [open](../records/dart-arkit-plugin-b18fbe65.md) |
 | audio_session | 0.2.4 | 2026-06-29T13:10:31.881382Z | [open](../records/dart-audio-session-d63e9aca.md) |
 | auto_animated | 3.2.0 | 2023-06-30T15:10:33.138687Z | [open](../records/dart-auto-animated-99e73092.md) |
@@ -536,7 +536,7 @@ Records: `1737`
 | cue | 0.4.0 | 2026-09-13T13:44:04.493612Z | [open](../records/dart-cue-4be55d38.md) |
 | dart_ping | 10.0.1 | 2026-07-03T05:18:51.881947Z | [open](../records/dart-dart-ping-a16cc4da.md) |
 | decimal | 3.2.6 | 2026-07-28T20:45:05.599035Z | [open](../records/dart-decimal-702c7499.md) |
-| file_picker | 13.0.0 | 2026-09-14T07:35:07.990144Z | [open](../records/dart-file-picker-09b00b4c.md) |
+| file_picker | 13.1.0 | 2026-09-15T11:53:57.743758Z | [open](../records/dart-file-picker-09b00b4c.md) |
 | file_saver | 0.4.0 | 2026-05-10T19:05:12.021646Z | [open](../records/dart-file-saver-af793c1e.md) |
 | firebase_messaging | 16.7.0 | 2026-09-14T13:33:28.283613Z | [open](../records/dart-firebase-messaging-eb0d3a3d.md) |
 | fluentui_system_icons | 1.1.273 | 2025-01-31T19:35:58.322881Z | [open](../records/dart-fluentui-system-icons-f520bb45.md) |
@@ -548,7 +548,7 @@ Records: `1737`
 | flutter_tilt | 4.1.0 | 2026-07-29T13:24:38.863077Z | [open](../records/dart-flutter-tilt-aed1989b.md) |
 | flutter_tts | 4.2.5 | 2026-01-05T17:54:55.367504Z | [open](../records/dart-flutter-tts-c525b76d.md) |
 | flutter_udid | 4.1.6 | 2026-07-14T09:56:51.543948Z | [open](../records/dart-flutter-udid-80c330fc.md) |
-| flutter_webrtc | 1.6.2+hotfix.2 | 2026-09-14T11:37:11.249287Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
+| flutter_webrtc | 1.6.2+hotfix.3 | 2026-09-15T08:33:35.991974Z | [open](../records/dart-flutter-webrtc-afeba3f1.md) |
 | fresh | 0.6.1 | 2026-02-26T19:22:14.357553Z | [open](../records/dart-fresh-033ad62f.md) |
 | google_maps_flutter | 2.18.0 | 2026-07-23T15:22:15.302126Z | [open](../records/dart-google-maps-flutter-7474cf08.md) |
 | health | 13.3.2 | 2026-08-14T13:04:10.425286Z | [open](../records/dart-health-09eb0719.md) |
@@ -602,13 +602,13 @@ Records: `1737`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | filippo.io/mostly-harmless/dockerdns | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-filippo-io-mostly-harmless-dockerdns-75b5c5a5.md) |
-| fyne-io/fyne | unknown | not_a_go_module_path | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
-| ginuerzh/gost | unknown | not_a_go_module_path | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
-| go-kratos/kratos | unknown | not_a_go_module_path | [open](../records/go-go-kratos-kratos-75d15f10.md) |
+| fyne-io/fyne | partial | 2026-09-14T21:04:17Z | [open](../records/go-fyne-io-fyne-de36c7ca.md) |
+| ginuerzh/gost | partial | 2026-08-30T10:02:45Z | [open](../records/go-ginuerzh-gost-9e6fc76a.md) |
+| go-kratos/kratos | partial | 2026-08-19T05:14:19Z | [open](../records/go-go-kratos-kratos-75d15f10.md) |
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
-| m1k1o/neko | unknown | not_a_go_module_path | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | unknown | not_a_go_module_path | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
+| mattermost/mattermost | partial | 2026-09-15T12:04:55Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -1362,7 +1362,7 @@ Records: `1737`
 | Neko3000/Monotone | partial | 2022-09-25T08:34:38Z | [open](../records/photography-neko3000-monotone-6bff49ae.md) |
 | niklasr22/BrightIntosh | partial | 2026-09-05T16:22:09Z | [open](../records/photography-niklasr22-brightintosh-a739a56f.md) |
 | open-product-data/digital-cameras | unknown | github_search_does_not_include_release_date | [open](../records/photography-open-product-data-digital-cameras-6d723530.md) |
-| photoprism/photoprism | partial | 2026-09-15T08:24:15Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
+| photoprism/photoprism | partial | 2026-09-15T09:57:22Z | [open](../records/photography-photoprism-photoprism-49783c79.md) |
 | PicPeak/picpeak | partial | 2026-09-07T18:11:01Z | [open](../records/photography-picpeak-picpeak-d6957174.md) |
 | pmndrs/postprocessing | partial | 2026-09-12T20:14:21Z | [open](../records/photography-pmndrs-postprocessing-70a67349.md) |
 | Po-Hsun-Su/pytorch-ssim | partial | 2024-02-22T09:28:51Z | [open](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) |

@@ -1,6 +1,6 @@
 # Static Analyzer
 
-Records: `688`
+Records: `695`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `688`
 ## Category Index
 
 [Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (676)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (677)](formatter.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6209)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (878)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1103)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Language Server (31)](language-server.md) · [Language Specification (1475)](language-specification.md) · [Library (6218)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1105)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (688)](static-analyzer.md)**
-[Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · **[Static Analyzer (695)](static-analyzer.md)**
+[Templating (2)](templating.md) · [Testing Framework (658)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (656)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -180,12 +180,15 @@ Records: `688`
 | BUSfinancial | 0.1.0 | 2026-09-03 13:20:02 UTC | [open](../records/r-busfinancial-657c5f95.md) |
 | ca | 0.72 | 2026-09-13 21:40:02 UTC | [open](../records/r-ca-82ae46ab.md) |
 | cABCanalysis | 1.0.2 | 2026-09-11 10:40:02 UTC | [open](../records/r-cabcanalysis-ce0253f1.md) |
+| campsisnca | 1.7.1 | 2026-09-15 12:00:10 UTC | [open](../records/r-campsisnca-def537b5.md) |
 | cards | 0.9.0 | 2026-08-21 13:40:18 UTC | [open](../records/r-cards-ddd94f46.md) |
 | catfda | 0.1.0 | 2026-09-08 11:50:09 UTC | [open](../records/r-catfda-48ce7503.md) |
 | ccda | 1.2 | 2026-09-09 14:10:19 UTC | [open](../records/r-ccda-cf81dadc.md) |
+| cdmeta | 1.1-1 | 2026-09-15 11:50:13 UTC | [open](../records/r-cdmeta-03169191.md) |
 | censosbo | 2.0.0 | 2026-08-07 16:30:12 UTC | [open](../records/r-censosbo-9c78cbc3.md) |
 | cgmguru | 1.3.0 | 2026-08-21 05:44:51 UTC | [open](../records/r-cgmguru-f2b94796.md) |
 | cheddar | 0.1-640 | 2026-08-20 14:32:27 UTC | [open](../records/r-cheddar-748c38d1.md) |
+| circda | 1.1 | 2026-09-15 11:00:47 UTC | [open](../records/r-circda-82840f60.md) |
 | circumplex | 2.0.1 | 2026-09-06 22:40:02 UTC | [open](../records/r-circumplex-e80741d7.md) |
 | clinfun | 1.1.6 | 2026-08-29 12:30:12 UTC | [open](../records/r-clinfun-9832cc1d.md) |
 | CNVScope | 3.7.7 | 2026-09-10 19:10:02 UTC | [open](../records/r-cnvscope-228dc8ec.md) |
@@ -235,11 +238,13 @@ Records: `688`
 | fsia | 1.1.2 | 2026-09-01 13:30:02 UTC | [open](../records/r-fsia-3c2c955f.md) |
 | geiger | 2.0.12 | 2026-08-31 22:30:08 UTC | [open](../records/r-geiger-c11a43bf.md) |
 | gemtc | 1.1-2 | 2026-08-21 06:30:02 UTC | [open](../records/r-gemtc-650db489.md) |
+| genpca | 0.2.0 | 2026-09-15 10:50:19 UTC | [open](../records/r-genpca-756005cf.md) |
 | GeoModels | 2.2.8 | 2026-08-21 05:46:27 UTC | [open](../records/r-geomodels-37c8b1f6.md) |
 | ggchangepoint | 0.4.0 | 2026-08-24 18:50:16 UTC | [open](../records/r-ggchangepoint-b265a91b.md) |
 | ggfortify | 0.4.23 | 2026-09-06 13:00:02 UTC | [open](../records/r-ggfortify-1c656f42.md) |
 | GGIR | 3.3-9 | 2026-09-12 10:20:02 UTC | [open](../records/r-ggir-ff44ba8d.md) |
 | glmmEP | 1.0-4 | 2026-09-08 02:50:02 UTC | [open](../records/r-glmmep-cccc90e0.md) |
+| GMTM | 0.1.0 | 2026-09-15 11:20:09 UTC | [open](../records/r-gmtm-d50266fe.md) |
 | gp3sequences | 0.3.0 | 2026-08-23 10:40:25 UTC | [open](../records/r-gp3sequences-387dba1d.md) |
 | grattanInflators | 0.6.0 | 2026-09-11 08:00:02 UTC | [open](../records/r-grattaninflators-3bffc26f.md) |
 | greenbook | 0.1.1 | 2026-08-24 07:30:28 UTC | [open](../records/r-greenbook-dca436d8.md) |
@@ -327,6 +332,7 @@ Records: `688`
 | prova | 2.3.0 | 2026-08-20 23:10:02 UTC | [open](../records/r-prova-c8ea9dac.md) |
 | psychonetrics | 0.17.8 | 2026-08-04 09:20:02 UTC | [open](../records/r-psychonetrics-6fde7496.md) |
 | PsyMetricTools | 1.2.2 | 2026-08-06 13:10:21 UTC | [open](../records/r-psymetrictools-7f593811.md) |
+| qrfactor | 1.6 | 2026-09-15 11:00:17 UTC | [open](../records/r-qrfactor-c883b429.md) |
 | qtsa | 0.1.1 | 2026-08-06 13:10:09 UTC | [open](../records/r-qtsa-c66cce00.md) |
 | quanteda | 4.5.0 | 2026-08-04 19:40:02 UTC | [open](../records/r-quanteda-fa6ac9de.md) |
 | RaCE.NMA | 1.2.0 | 2026-08-05 09:10:02 UTC | [open](../records/r-race-nma-5c8d438d.md) |
@@ -343,6 +349,7 @@ Records: `688`
 | rvisual | 0.1.1 | 2026-09-09 16:50:02 UTC | [open](../records/r-rvisual-911d8ce5.md) |
 | rwavelet | 0.4.2 | 2026-08-28 17:10:02 UTC | [open](../records/r-rwavelet-92b10cd9.md) |
 | scanr | 0.1.1 | 2026-08-21 08:10:02 UTC | [open](../records/r-scanr-79510d20.md) |
+| SelectionTools | 26.3 | 2026-09-15 10:40:21 UTC | [open](../records/r-selectiontools-7e83a741.md) |
 | seminrExtras | 1.0.3 | 2026-08-19 22:50:03 UTC | [open](../records/r-seminrextras-63b965db.md) |
 | SemNeT | 2.0.0 | 2026-09-12 15:10:08 UTC | [open](../records/r-semnet-35cd7d4d.md) |
 | sentopics | 1.0.1 | 2026-09-10 14:30:02 UTC | [open](../records/r-sentopics-595fcb0b.md) |
@@ -443,7 +450,7 @@ Records: `688`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | unknown | not_a_go_module_path | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-15T11:43:48Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -923,8 +930,8 @@ Records: `688`
 | Gitea: awdscan/awdscanserver | partial | 2025-10-06T13:47:16Z | [open](../records/repository-workplaces-gitea-awdscan-awdscanserver-8258eaa2.md) |
 | Gitea: corricca/elibrary-publication-analyzer | partial | 2026-01-29T19:57:29Z | [open](../records/repository-workplaces-gitea-corricca-elibrary-publication-analyzer-3d1b67ed.md) |
 | Gitea: ImageProcessing-ElectronicPublications/imthreshold | partial | 2023-10-26T10:52:14Z | [open](../records/repository-workplaces-gitea-imageprocessing-electronicpublications-imthreshold-a87c44af.md) |
-| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-15T08:39:59.932Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
-| gitlab-org/gitlab | partial | 2026-09-15T10:15:18.659Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
+| gitlab-org/cluster-integration/gitlab-agent | partial | 2026-09-15T11:24:23.093Z | [open](../records/repository-workplaces-gitlab-org-cluster-integration-gitlab-agent-4d660b44.md) |
+| gitlab-org/gitlab | partial | 2026-09-15T12:15:59.738Z | [open](../records/repository-workplaces-gitlab-org-gitlab-e1cb5b67.md) |
 | gitlab-org/security-products/analyzers/container-scanning | partial | 2026-09-14T12:08:38.367Z | [open](../records/repository-workplaces-gitlab-org-security-products-analyzers-container-scanning-e8af16f2.md) |
 | gitlab-security-oss/cis/gitlabcis | partial | 2026-09-01T20:35:39.553Z | [open](../records/repository-workplaces-gitlab-security-oss-cis-gitlabcis-f7ce6047.md) |
 | hgraca/app-mapper | partial | 2026-09-14T08:05:00.503Z | [open](../records/repository-workplaces-hgraca-app-mapper-4c3b2338.md) |

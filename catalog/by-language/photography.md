@@ -9,22 +9,22 @@ Records: `600`
 ## Category Index
 
 [Api Abi Checker (240)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1048)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1049)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (986)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (676)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (677)](../by-category/formatter.md)
+[Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1528)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6209)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (878)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1103)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1475)](../by-category/language-specification.md) · [Library (6218)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (880)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1105)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1253)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (329)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (502)](../by-category/web-framework.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (695)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (658)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (656)](../by-category/visualization-gui.md) · [Web Framework (503)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -214,7 +214,7 @@ Records: `600`
 | [Neko3000/Monotone](../records/photography-neko3000-monotone-6bff49ae.md) | partial | 2022-09-25T08:34:38Z | registry-derived |
 | [niklasr22/BrightIntosh](../records/photography-niklasr22-brightintosh-a739a56f.md) | partial | 2026-09-05T16:22:09Z | registry-derived |
 | [open-product-data/digital-cameras](../records/photography-open-product-data-digital-cameras-6d723530.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-15T08:24:15Z | registry-derived |
+| [photoprism/photoprism](../records/photography-photoprism-photoprism-49783c79.md) | partial | 2026-09-15T09:57:22Z | registry-derived |
 | [PicPeak/picpeak](../records/photography-picpeak-picpeak-d6957174.md) | partial | 2026-09-07T18:11:01Z | registry-derived |
 | [pmndrs/postprocessing](../records/photography-pmndrs-postprocessing-70a67349.md) | partial | 2026-09-12T20:14:21Z | registry-derived |
 | [Po-Hsun-Su/pytorch-ssim](../records/photography-po-hsun-su-pytorch-ssim-c77f7b01.md) | partial | 2024-02-22T09:28:51Z | registry-derived |
@@ -259,13 +259,13 @@ Records: `600`
 | [ImageMagick/ImageMagick](../records/photography-imagemagick-imagemagick-21d650e1.md) | partial | 2026-09-14T00:06:05Z | registry-derived |
 | [jark006/JarkViewer](../records/photography-jark006-jarkviewer-384c10ce.md) | partial | 2026-06-30T18:46:05Z | registry-derived |
 | [jmathai/elodie](../records/photography-jmathai-elodie-960b91b7.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [karimz1/imgcompress](../records/photography-karimz1-imgcompress-ec2fa997.md) | partial | 2026-09-14T09:30:47Z | registry-derived |
-| [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-15T02:47:56Z | registry-derived |
+| [karimz1/imgcompress](../records/photography-karimz1-imgcompress-ec2fa997.md) | partial | 2026-09-15T09:20:39Z | registry-derived |
+| [libjxl/libjxl](../records/photography-libjxl-libjxl-3d901151.md) | partial | 2026-09-15T08:59:33Z | registry-derived |
 | [mdouchement/hdr](../records/photography-mdouchement-hdr-30201254.md) | partial | 2023-02-04T12:19:10Z | registry-derived |
 | [mz2/Carpaccio](../records/photography-mz2-carpaccio-47bb21ca.md) | partial | 2023-06-10T06:49:52Z | registry-derived |
 | [QQxiaoming/YUVviewer](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) | partial | 2026-06-27T03:38:01Z | registry-derived |
 | [rfrench/gify](../records/photography-rfrench-gify-e7a0c938.md) | partial | 2023-03-08T22:03:16Z | registry-derived |
-| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-15T08:19:32Z | registry-derived |
+| [skymanbp/autoshade](../records/photography-skymanbp-autoshade-295e9968.md) | partial | 2026-09-15T09:14:08Z | registry-derived |
 | [wasabeef/glide-transformations](../records/photography-wasabeef-glide-transformations-6efa38dc.md) | partial | 2022-03-08T16:07:21Z | registry-derived |
 | [webp-sh/webp_server_go](../records/photography-webp-sh-webp-server-go-e607ab44.md) | partial | 2026-09-11T02:42:57Z | registry-derived |
 | [WeTransfer/format_parser](../records/photography-wetransfer-format-parser-a46c542e.md) | partial | 2024-12-11T15:22:35Z | registry-derived |
@@ -337,7 +337,7 @@ Records: `600`
 | [panpf/sketch](../records/photography-panpf-sketch-813812e6.md) | partial | 2026-08-08T08:33:06Z | registry-derived |
 | [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-09-13T19:00:44Z | registry-derived |
 | [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-15T08:04:58Z | registry-derived |
+| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-15T09:17:33Z | registry-derived |
 | [piemonte/PBJVision](../records/photography-piemonte-pbjvision-040d75d4.md) | partial | 2021-03-03T06:14:45Z | registry-derived |
 | [pokeheadroom/RENDER96-HD-TEXTURE-PACK](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [qinjintian/qq-zone](../records/photography-qinjintian-qq-zone-4ca751a3.md) | partial | 2026-09-04T15:35:31Z | registry-derived |
@@ -657,7 +657,7 @@ Records: `600`
 | [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-14T18:38:32Z | registry-derived |
 | [iib0011/omni-tools](../records/photography-iib0011-omni-tools-25e339f6.md) | partial | 2026-08-17T19:00:25Z | registry-derived |
 | [imgproxy/imgproxy](../records/photography-imgproxy-imgproxy-fffb72aa.md) | partial | 2026-09-12T19:38:26Z | registry-derived |
-| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-14T16:13:40Z | registry-derived |
+| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-15T11:37:35Z | registry-derived |
 | [kydecker/astro-photo-grid](../records/photography-kydecker-astro-photo-grid-8e515209.md) | partial | 2026-08-11T01:32:56Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |
@@ -852,7 +852,7 @@ Records: `600`
 | [jeeliz/jeelizWeboji](../records/photography-jeeliz-jeelizweboji-42a4d713.md) | partial | 2024-02-06T19:36:18Z | registry-derived |
 | [LycheeOrg/Lychee-v3](../records/photography-lycheeorg-lychee-v3-f5beff87.md) | partial | 2021-03-10T02:33:37Z | registry-derived |
 | [photostructure/photostructure-for-servers](../records/photography-photostructure-photostructure-for-servers-8302af34.md) | partial | 2026-09-10T16:59:19Z | registry-derived |
-| [photoview/photoview](../records/photography-photoview-photoview-7180706a.md) | partial | 2026-09-12T11:41:47Z | registry-derived |
+| [photoview/photoview](../records/photography-photoview-photoview-7180706a.md) | partial | 2026-09-15T10:03:34Z | registry-derived |
 | [rzeldent/esp32cam-rtsp](../records/photography-rzeldent-esp32cam-rtsp-27be08e9.md) | partial | 2026-09-02T06:46:49Z | registry-derived |
 | [sambecker/exif-photo-blog](../records/photography-sambecker-exif-photo-blog-d29b9b52.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [Webreaper/Damselfly](../records/photography-webreaper-damselfly-df92802c.md) | partial | 2026-09-02T12:05:12Z | registry-derived |
