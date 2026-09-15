@@ -1,6 +1,6 @@
 # Visualization Gui
 
-Records: `657`
+Records: `658`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `657`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
@@ -24,7 +24,7 @@ Records: `657`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (657)](visualization-gui.md)** · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · **[Visualization Gui (658)](visualization-gui.md)** · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -577,6 +577,7 @@ Records: `657`
 | Machines-of-Disruption/latent-tools | partial | 2026-01-14T11:40:17Z | [open](../records/space-maps-machines-of-disruption-latent-tools-db46bfde.md) |
 | mcsorkun/ChemPlot | partial | 2026-08-20T14:36:42Z | [open](../records/space-maps-mcsorkun-chemplot-87f1a31f.md) |
 | mezzoblue/Elevation | partial | 2010-11-02T08:13:25Z | [open](../records/space-maps-mezzoblue-elevation-343d561c.md) |
+| mqcomplab/NAMI | partial | 2026-08-11T16:31:15Z | [open](../records/space-maps-mqcomplab-nami-235e8c3d.md) |
 | NASA Solar System Treks | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-solar-system-treks-66e2186c.md) |
 | NASA WorldWind | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/space-maps-nasa-worldwind-a55955ab.md) |
 | nasa/mission-viz | partial | 2022-05-16T12:43:36Z | [open](../records/space-maps-nasa-mission-viz-b5c49a99.md) |

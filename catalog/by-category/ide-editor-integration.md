@@ -1,6 +1,6 @@
 # Ide Editor Integration
 
-Records: `1528`
+Records: `1529`
 
 ## Navigation
 
@@ -15,7 +15,7 @@ Records: `1528`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1528)](ide-editor-integration.md)**
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · **[Ide Editor Integration (1529)](ide-editor-integration.md)**
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
@@ -24,7 +24,7 @@ Records: `1528`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -936,6 +936,7 @@ Records: `1528`
 | rdellamonica/S2-gr-mock-catalogue | partial | 2023-05-30T08:27:15Z | [open](../records/space-maps-rdellamonica-s2-gr-mock-catalogue-0bf2a0fc.md) |
 | reddyprasade/Machine-Learning-with-Scikit-Learn-Python-3.x | partial | 2021-06-16T16:06:06Z | [open](../records/space-maps-reddyprasade-machine-learning-with-scikit-learn-python-3-x-cb0c6069.md) |
 | rstecca/ColorBands | partial | 2018-12-06T16:06:39Z | [open](../records/space-maps-rstecca-colorbands-d3bd93d9.md) |
+| saad-ibra/gray-matter | partial | 2026-09-14T23:12:16Z | [open](../records/space-maps-saad-ibra-gray-matter-8345c50f.md) |
 | SamWeise/SatelliteSim | partial | 2015-10-05T19:35:51Z | [open](../records/space-maps-samweise-satellitesim-37429206.md) |
 | Sanjanacodes123/Open-and-Globular-Clusters | partial | 2026-05-20T08:09:38Z | [open](../records/space-maps-sanjanacodes123-open-and-globular-clusters-6d89e68e.md) |
 | shirosaidev/diskover-web | partial | 2021-09-19T18:21:07Z | [open](../records/space-maps-shirosaidev-diskover-web-a4e39042.md) |
@@ -1008,7 +1009,7 @@ Records: `1528`
 | --- | --- | --- | --- |
 | 777arc/PySDR | partial | 2026-09-09T18:06:49Z | [open](../records/audio-777arc-pysdr-e43c1cf4.md) |
 | alyssaxuu/motionity | partial | 2022-09-12T02:06:50Z | [open](../records/audio-alyssaxuu-motionity-3c2fb703.md) |
-| audacity/audacity | partial | 2026-09-15T14:18:46Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
+| audacity/audacity | partial | 2026-09-15T15:50:54Z | [open](../records/audio-audacity-audacity-76dd21d8.md) |
 | bitgapp/eqMac | partial | 2026-09-13T16:50:02Z | [open](../records/audio-bitgapp-eqmac-bb6a049e.md) |
 | dan-k-k/vocal-gate | partial | 2026-04-05T12:35:55Z | [open](../records/audio-dan-k-k-vocal-gate-8c08df3b.md) |
 | danilogcrf2-oss/ESP32Synth | partial | 2026-08-30T15:16:20Z | [open](../records/audio-danilogcrf2-oss-esp32synth-7a58d4c6.md) |
@@ -1019,7 +1020,7 @@ Records: `1528`
 | Jounce/Surge | partial | 2023-07-20T14:04:23Z | [open](../records/audio-jounce-surge-6a48b789.md) |
 | kyleneideck/BackgroundMusic | partial | 2026-06-10T08:58:49Z | [open](../records/audio-kyleneideck-backgroundmusic-87dcd90a.md) |
 | leandromoreira/digital_video_introduction | partial | 2026-09-02T21:43:42Z | [open](../records/audio-leandromoreira-digital-video-introduction-1602f29a.md) |
-| mediacms-io/mediacms | partial | 2026-09-15T09:58:33Z | [open](../records/audio-mediacms-io-mediacms-6c0d1227.md) |
+| mediacms-io/mediacms | partial | 2026-09-15T15:49:27Z | [open](../records/audio-mediacms-io-mediacms-6c0d1227.md) |
 | mpv-android/mpv-android | partial | 2026-09-11T15:35:56Z | [open](../records/audio-mpv-android-mpv-android-66cc1973.md) |
 | noizebox/vstimgui | partial | 2022-02-14T18:53:07Z | [open](../records/audio-noizebox-vstimgui-b46a200f.md) |
 | OpenMOSS/MOSS-TTS | unknown | github_latest_release_missing | [open](../records/audio-openmoss-moss-tts-97a3ba07.md) |
@@ -1043,7 +1044,7 @@ Records: `1528`
 | --- | --- | --- | --- |
 | 0voice/audio_video_streaming | partial | 2024-05-20T12:07:00Z | [open](../records/video-0voice-audio-video-streaming-bf7a47cf.md) |
 | 26hzhang/OptimizedImageEnhance | partial | 2019-05-15T05:53:26Z | [open](../records/video-26hzhang-optimizedimageenhance-6fceaaba.md) |
-| 4gray/iptvnator | partial | 2026-09-15T13:16:25Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
+| 4gray/iptvnator | partial | 2026-09-15T16:47:13Z | [open](../records/video-4gray-iptvnator-5303edee.md) |
 | aandrew-me/ytDownloader | partial | 2026-09-14T14:10:15Z | [open](../records/video-aandrew-me-ytdownloader-cd56d660.md) |
 | AaronFeng753/Waifu2x-Extension-GUI | partial | 2026-09-05T06:55:06Z | [open](../records/video-aaronfeng753-waifu2x-extension-gui-26771eef.md) |
 | abhiTronix/vidgear | partial | 2026-05-18T07:11:58Z | [open](../records/video-abhitronix-vidgear-c204bb6d.md) |
@@ -1058,7 +1059,7 @@ Records: `1528`
 | bacalhau-project/bacalhau | partial | 2026-09-13T07:12:02Z | [open](../records/video-bacalhau-project-bacalhau-f12bfb54.md) |
 | baresip/baresip | partial | 2026-09-04T12:11:09Z | [open](../records/video-baresip-baresip-c8033746.md) |
 | bennyhuo/Kotlin-Tutorials | partial | 2023-11-03T08:45:12Z | [open](../records/video-bennyhuo-kotlin-tutorials-d23521e7.md) |
-| bigbluebutton/bigbluebutton | partial | 2026-09-15T14:24:38Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
+| bigbluebutton/bigbluebutton | partial | 2026-09-15T16:23:40Z | [open](../records/video-bigbluebutton-bigbluebutton-9d135955.md) |
 | bilibili/ijkplayer | partial | 2024-08-13T00:53:33Z | [open](../records/video-bilibili-ijkplayer-8848a788.md) |
 | bitmovin/bitmovin-go | partial | 2023-11-14T16:23:04Z | [open](../records/video-bitmovin-bitmovin-go-8058d465.md) |
 | bloc97/Anime4K | partial | 2024-08-17T12:09:12Z | [open](../records/video-bloc97-anime4k-cec365ea.md) |
@@ -1141,7 +1142,7 @@ Records: `1528`
 | letoram/arcan | partial | 2026-07-29T00:15:26Z | [open](../records/video-letoram-arcan-3898f949.md) |
 | linzzzzzz/openclip | partial | 2026-08-24T06:16:38Z | [open](../records/video-linzzzzzz-openclip-e0a60aa0.md) |
 | live-keys/livekeys | partial | 2023-11-13T16:00:01Z | [open](../records/video-live-keys-livekeys-78b56f29.md) |
-| livekit/livekit | partial | 2026-09-15T07:31:44Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
+| livekit/livekit | partial | 2026-09-15T16:18:27Z | [open](../records/video-livekit-livekit-aee37f0f.md) |
 | LuckSiege/PictureSelector | partial | 2024-05-11T03:14:44Z | [open](../records/video-lucksiege-pictureselector-fce76f06.md) |
 | lynckia/licode | partial | 2026-09-10T09:51:13Z | [open](../records/video-lynckia-licode-cf1013dd.md) |
 | mafiosnik777/enhancr | partial | 2024-01-15T16:08:08Z | [open](../records/video-mafiosnik777-enhancr-3d2ed149.md) |
@@ -1151,7 +1152,7 @@ Records: `1528`
 | MasayukiSuda/Mp4Composer-android | partial | 2020-11-25T15:32:02Z | [open](../records/video-masayukisuda-mp4composer-android-9731af6d.md) |
 | matt-42/vpp | partial | 2019-02-07T13:14:38Z | [open](../records/video-matt-42-vpp-561f7af4.md) |
 | mayuelala/Awesome-Controllable-Video-Generation | partial | 2026-07-31T10:20:11Z | [open](../records/video-mayuelala-awesome-controllable-video-generation-b2a9949f.md) |
-| mediacms-io/mediacms | partial | 2026-09-15T09:58:33Z | [open](../records/video-mediacms-io-mediacms-1d97b718.md) |
+| mediacms-io/mediacms | partial | 2026-09-15T15:49:27Z | [open](../records/video-mediacms-io-mediacms-1d97b718.md) |
 | MetalPetal/MetalPetal | partial | 2024-04-10T13:30:17Z | [open](../records/video-metalpetal-metalpetal-8c3ad34f.md) |
 | mifi/editly | partial | 2025-05-12T07:03:44Z | [open](../records/video-mifi-editly-a9bfc00b.md) |
 | mifi/lossless-cut | partial | 2026-09-14T09:55:23Z | [open](../records/video-mifi-lossless-cut-1a52a345.md) |
@@ -1191,7 +1192,7 @@ Records: `1528`
 | owncast/owncast | partial | 2026-09-15T06:27:42Z | [open](../records/video-owncast-owncast-b3a35889.md) |
 | ozmartian/vidcutter | partial | 2025-04-24T10:12:36Z | [open](../records/video-ozmartian-vidcutter-1ee0d3b1.md) |
 | paulpacifico/shutter-encoder | partial | 2026-09-13T20:00:23Z | [open](../records/video-paulpacifico-shutter-encoder-30ff5e80.md) |
-| pion/webrtc | partial | 2026-09-15T06:58:30Z | [open](../records/video-pion-webrtc-db831169.md) |
+| pion/webrtc | partial | 2026-09-15T16:41:39Z | [open](../records/video-pion-webrtc-db831169.md) |
 | pouyaardehkhani/VCC | partial | 2026-02-24T21:02:02Z | [open](../records/video-pouyaardehkhani-vcc-e4bf4f37.md) |
 | prouast/heartbeat | partial | 2026-03-02T04:39:18Z | [open](../records/video-prouast-heartbeat-a2923779.md) |
 | qTox/qTox | partial | 2025-02-16T14:21:41Z | [open](../records/video-qtox-qtox-a43b9736.md) |
@@ -1303,7 +1304,7 @@ Records: `1528`
 | panpf/sketch | partial | 2026-08-08T08:33:06Z | [open](../records/photography-panpf-sketch-813812e6.md) |
 | PhotoFlare/photoflare | partial | 2026-09-13T19:00:44Z | [open](../records/photography-photoflare-photoflare-54d4deb9.md) |
 | photostructure/exiftool-vendored.js | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) |
-| PicPeak/picpeak | partial | 2026-09-15T14:54:14Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
+| PicPeak/picpeak | partial | 2026-09-15T16:17:08Z | [open](../records/photography-picpeak-picpeak-ff45b8ad.md) |
 | piemonte/PBJVision | partial | 2021-03-03T06:14:45Z | [open](../records/photography-piemonte-pbjvision-040d75d4.md) |
 | pokeheadroom/RENDER96-HD-TEXTURE-PACK | unknown | github_search_does_not_include_release_date | [open](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) |
 | qinjintian/qq-zone | partial | 2026-09-04T15:35:31Z | [open](../records/photography-qinjintian-qq-zone-4ca751a3.md) |
@@ -1578,7 +1579,7 @@ Records: `1528`
 | mehdihadeli/awesome-software-architecture | partial | 2026-09-08T20:13:05Z | [open](../records/pattern-language-mehdihadeli-awesome-software-architecture-caec9f49.md) |
 | Microservice-API-Patterns/LakesideMutual | partial | 2025-10-13T18:11:28Z | [open](../records/pattern-language-microservice-api-patterns-lakesidemutual-c3f0fcf1.md) |
 | NoDivide/astrum | partial | 2022-05-13T22:45:05Z | [open](../records/pattern-language-nodivide-astrum-81381787.md) |
-| spring-projects/spring-integration | partial | 2026-09-15T15:20:49Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
+| spring-projects/spring-integration | partial | 2026-09-15T17:15:42Z | [open](../records/pattern-language-spring-projects-spring-integration-fd457078.md) |
 | vaquarkhan/microservices-recipes-a-free-gitbook | partial | 2026-09-08T07:07:48Z | [open](../records/pattern-language-vaquarkhan-microservices-recipes-a-free-gitbook-fe8fd71a.md) |
 
 ## PHP

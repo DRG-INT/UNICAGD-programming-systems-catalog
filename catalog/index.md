@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T16:23:21+00:00`
+Generated: `2026-09-15T17:20:11+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -13,7 +13,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1737)](by-category/filesystem-os.md) · [Formatter (678)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1528)](by-category/ide-editor-integration.md)
+[Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6232)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (351)](by-category/linter.md) · [Logging Observability (600)](by-category/logging-observability.md) · [Machine Learning (880)](by-category/machine-learning.md)
@@ -22,7 +22,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (696)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (659)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (320)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (657)](by-category/visualization-gui.md) · [Web Framework (503)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (503)](by-category/web-framework.md)
 
 ## Languages
 
@@ -62,7 +62,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 | Maps | 644 | 0 | [Maps](by-language/maps.md) |
 | Space Engines | 160 | 0 | [Space Engines](by-language/space-engines.md) |
 | Space Shuttles | 81 | 0 | [Space Shuttles](by-language/space-shuttles.md) |
-| Space Maps | 657 | 0 | [Space Maps](by-language/space-maps.md) |
+| Space Maps | 659 | 0 | [Space Maps](by-language/space-maps.md) |
 | Effects | 785 | 1 | [Effects](by-language/effects.md) |
 | Audio | 483 | 0 | [Audio](by-language/audio.md) |
 | Video | 472 | 0 | [Video](by-language/video.md) |
@@ -123,7 +123,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 | Framework | 64 | [framework](by-category/framework.md) |
 | Fuzzer | 68 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 378 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
-| Ide Editor Integration | 1528 | [ide_editor_integration](by-category/ide-editor-integration.md) |
+| Ide Editor Integration | 1529 | [ide_editor_integration](by-category/ide-editor-integration.md) |
 | Image Audio Dsp | 451 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 65 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 292 | [interpreter_runtime](by-category/interpreter-runtime.md) |
@@ -158,7 +158,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 | Type Checker | 320 | [type_checker](by-category/type-checker.md) |
 | Undefined Behavior Analyzer | 1678 | [undefined_behavior_analyzer](by-category/undefined-behavior-analyzer.md) |
 | Utility Library | 108 | [utility_library](by-category/utility-library.md) |
-| Visualization Gui | 657 | [visualization_gui](by-category/visualization-gui.md) |
+| Visualization Gui | 658 | [visualization_gui](by-category/visualization-gui.md) |
 | Web Framework | 503 | [web_framework](by-category/web-framework.md) |
 
 ## High-Signal Release Coverage
@@ -199,7 +199,7 @@ Generated: `2026-09-15T16:23:21+00:00`
 | Maps | 0 | 644 |
 | Space Engines | 0 | 160 |
 | Space Shuttles | 0 | 81 |
-| Space Maps | 0 | 657 |
+| Space Maps | 0 | 659 |
 | Effects | 1 | 784 |
 | Audio | 0 | 483 |
 | Video | 0 | 472 |

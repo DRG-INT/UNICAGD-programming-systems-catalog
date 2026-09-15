@@ -15,7 +15,7 @@ Records: `1678`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
@@ -24,7 +24,7 @@ Records: `1678`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-**[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+**[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md)** · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -1490,7 +1490,7 @@ Records: `1678`
 | Afilmory/afilmory | partial | 2026-09-12T10:39:50Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
-| dougdonohoe/ddphotos | partial | 2026-09-15T13:57:41Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
+| dougdonohoe/ddphotos | partial | 2026-09-15T15:24:20Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |
@@ -1501,7 +1501,7 @@ Records: `1678`
 | mangeshghodke/DreamPlayer | partial | 2026-09-08T20:45:11Z | [open](../records/photography-mangeshghodke-dreamplayer-c6fbb5e1.md) |
 | moul-co/moul | partial | 2024-01-09T09:14:39Z | [open](../records/photography-moul-co-moul-2cca2d07.md) |
 | mv-lab/nilut | partial | 2024-01-29T10:38:23Z | [open](../records/photography-mv-lab-nilut-866ec3fa.md) |
-| ncoevoet/facet | partial | 2026-09-13T08:25:16Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
+| ncoevoet/facet | partial | 2026-09-15T17:02:02Z | [open](../records/photography-ncoevoet-facet-9042db71.md) |
 | outdoorbits/little-backup-box | partial | 2026-09-14T06:30:17Z | [open](../records/photography-outdoorbits-little-backup-box-04af0fc7.md) |
 | patrikhuber/eos | partial | 2025-05-01T19:53:55Z | [open](../records/photography-patrikhuber-eos-d36cd5f5.md) |
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |

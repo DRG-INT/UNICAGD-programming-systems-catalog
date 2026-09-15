@@ -15,7 +15,7 @@ Records: `6232`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · **[Library (6232)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
@@ -24,7 +24,7 @@ Records: `6232`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
 
@@ -4661,7 +4661,7 @@ Records: `6232`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-15T16:04:28Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-15T17:15:49Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -5252,7 +5252,7 @@ Records: `6232`
 | --- | --- | --- | --- |
 | 0xreza/SNAKE-4.17.12 | partial | 2018-08-03T13:59:33Z | [open](../records/space-maps-0xreza-snake-4-17-12-fc247092.md) |
 | 79782136qqv/varunchitre15 | partial | 2022-03-19T00:25:08Z | [open](../records/space-maps-79782136qqv-varunchitre15-75868a3b.md) |
-| AndrewAnnex/spiceypylessonkernels | partial | 2026-03-28T06:47:05Z | [open](../records/space-maps-andrewannex-spiceypylessonkernels-79edeb4f.md) |
+| AndrewAnnex/spiceypylessonkernels | partial | 2026-09-12T18:26:15Z | [open](../records/space-maps-andrewannex-spiceypylessonkernels-79edeb4f.md) |
 | andriy-bilynskyy/sdr-trx | partial | 2020-12-30T19:20:33Z | [open](../records/space-maps-andriy-bilynskyy-sdr-trx-7f2f1a01.md) |
 | arkhebuz/sbspk | partial | 2016-03-27T15:20:20Z | [open](../records/space-maps-arkhebuz-sbspk-762eebd0.md) |
 | AustinSanders/SugarSpice | partial | 2021-04-30T01:01:34Z | [open](../records/space-maps-austinsanders-sugarspice-b09c5048.md) |
@@ -6053,7 +6053,7 @@ Records: `6232`
 | ReturnInfinity/Pure64 | partial | 2026-06-12T19:29:07Z | [open](../records/assembly-returninfinity-pure64-67a8cce1.md) |
 | segmentio/asm | partial | 2026-06-25T23:26:52Z | [open](../records/assembly-segmentio-asm-07cb5069.md) |
 | slembcke/Tina | partial | 2026-01-08T20:44:16Z | [open](../records/assembly-slembcke-tina-71c3cf67.md) |
-| Stephane-D/SGDK | partial | 2026-09-15T16:01:09Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
+| Stephane-D/SGDK | partial | 2026-09-15T17:15:46Z | [open](../records/assembly-stephane-d-sgdk-bad539e3.md) |
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |

@@ -15,7 +15,7 @@ Records: `880`
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
+[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · **[Machine Learning (880)](machine-learning.md)**
@@ -24,7 +24,7 @@ Records: `880`
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C++23
 
@@ -532,14 +532,14 @@ Records: `880`
 | janhq/jan | partial | 2026-09-15T14:03:22Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
-| JuliusBrussee/caveman | partial | 2026-09-15T07:52:04Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
+| JuliusBrussee/caveman | partial | 2026-09-15T17:02:54Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
-| langchain-ai/langchain | partial | 2026-09-15T16:05:03Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
+| langchain-ai/langchain | partial | 2026-09-15T16:36:46Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-15T06:24:56Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-15T01:59:13Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-15T16:14:30Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-15T16:20:50Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-15T16:40:07Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-15T17:12:56Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-14T21:57:14Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-15T04:57:10Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
 | OpenHands/OpenHands | partial | 2026-09-15T15:15:48Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
@@ -552,7 +552,7 @@ Records: `880`
 | TauricResearch/TradingAgents | partial | 2026-09-15T01:33:49Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-15T16:21:36Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-15T17:14:26Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-15T09:32:00Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -750,12 +750,12 @@ Records: `880`
 | JustinLove/section_of_foreign_intelligence | partial | 2020-07-10T18:45:49Z | [open](../records/space-maps-justinlove-section-of-foreign-intelligence-47c06873.md) |
 | lukas-tr/pain | partial | 2025-11-09T16:51:31Z | [open](../records/space-maps-lukas-tr-pain-55aa2b81.md) |
 | mdrstudiogroup-ai/MDR-Studio-World-Map-For-Developers | partial | 2026-05-17T10:44:42Z | [open](../records/space-maps-mdrstudiogroup-ai-mdr-studio-world-map-for-developers-a5cbce0e.md) |
-| NASA-PDS/naif-pds4-bundler | partial | 2026-09-03T18:40:59Z | [open](../records/space-maps-nasa-pds-naif-pds4-bundler-c5d5a1b8.md) |
+| NASA-PDS/naif-pds4-bundler | partial | 2026-09-15T09:37:08Z | [open](../records/space-maps-nasa-pds-naif-pds4-bundler-c5d5a1b8.md) |
 | oaslananka/kicad-studio-kit | partial | 2026-09-04T01:52:12Z | [open](../records/space-maps-oaslananka-kicad-studio-kit-b96a6649.md) |
 | PAIR-code/font-explorer | partial | 2026-04-15T06:54:30Z | [open](../records/space-maps-pair-code-font-explorer-1514fd91.md) |
 | planetaryprobst/naif_spice | partial | 2025-09-22T23:38:10Z | [open](../records/space-maps-planetaryprobst-naif-spice-3899b064.md) |
 | RonTheRentalCop/Dirtlets | partial | 2026-09-15T03:46:48Z | [open](../records/space-maps-rontherentalcop-dirtlets-a42969ea.md) |
-| Smoren/molecular-ts | partial | 2026-09-06T10:11:52Z | [open](../records/space-maps-smoren-molecular-ts-8f49e17d.md) |
+| Smoren/molecular-ts | partial | 2026-09-11T22:57:09Z | [open](../records/space-maps-smoren-molecular-ts-8f49e17d.md) |
 | ThomasWinn/repo-AiPlanetaryWars | partial | 2019-02-24T06:59:38Z | [open](../records/space-maps-thomaswinn-repo-aiplanetarywars-389320ec.md) |
 | timsainb/Tensorflow-MultiGPU-VAE-GAN | partial | 2019-05-14T19:56:07Z | [open](../records/space-maps-timsainb-tensorflow-multigpu-vae-gan-94d8fdf6.md) |
 | utiasSTARS/gplanetary-nav | partial | 2025-01-30T22:24:34Z | [open](../records/space-maps-utiasstars-gplanetary-nav-f467147d.md) |
@@ -804,7 +804,7 @@ Records: `880`
 | electro-smith/DaisySP | partial | 2025-05-29T04:37:29Z | [open](../records/audio-electro-smith-daisysp-caa53501.md) |
 | GuitarML/FunBox | partial | 2026-07-10T15:59:36Z | [open](../records/audio-guitarml-funbox-6cee70c5.md) |
 | haoheliu/voicefixer_main | partial | 2024-01-13T00:38:35Z | [open](../records/audio-haoheliu-voicefixer-main-daefc20f.md) |
-| huggingface/transformers | partial | 2026-09-15T15:06:02Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
+| huggingface/transformers | partial | 2026-09-15T17:13:06Z | [open](../records/audio-huggingface-transformers-9073c238.md) |
 | ictnlp/StreamSpeech | partial | 2025-06-29T02:06:27Z | [open](../records/audio-ictnlp-streamspeech-abc4c0a4.md) |
 | iver56/audiomentations | partial | 2026-04-13T22:04:14Z | [open](../records/audio-iver56-audiomentations-bf487b1d.md) |
 | jefflai108/pytorch-kaldi-neural-speaker-embeddings | partial | 2020-01-27T22:29:25Z | [open](../records/audio-jefflai108-pytorch-kaldi-neural-speaker-embeddings-8d0380e3.md) |
