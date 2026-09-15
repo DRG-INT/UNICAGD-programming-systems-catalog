@@ -17,10 +17,10 @@ Records: `1678`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
@@ -424,7 +424,7 @@ Records: `1678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | partial | 2026-09-14T17:04:36Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| bluenviron/mediamtx | partial | 2026-09-15T05:04:17Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
 | dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
 | eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
@@ -1307,8 +1307,8 @@ Records: `1678`
 | corteva/geocube | unknown | github_search_does_not_include_release_date | [open](../records/maps-corteva-geocube-9d52da57.md) |
 | dtpstat/dtp-stat-archive | partial | 2025-07-13T10:29:14Z | [open](../records/maps-dtpstat-dtp-stat-archive-9e471ed5.md) |
 | enix/kube-image-keeper | partial | 2026-09-14T11:37:44Z | [open](../records/maps-enix-kube-image-keeper-4bf7a4cc.md) |
-| FlorianBruniaux/starmapper | partial | 2026-09-01T13:03:36Z | [open](../records/maps-florianbruniaux-starmapper-f54a32ac.md) |
-| geomoose/gm3 | partial | 2026-09-10T08:40:05Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
+| FlorianBruniaux/starmapper | partial | 2026-09-13T07:32:32Z | [open](../records/maps-florianbruniaux-starmapper-f54a32ac.md) |
+| geomoose/gm3 | partial | 2026-09-14T09:47:33Z | [open](../records/maps-geomoose-gm3-f1e69386.md) |
 | graphhopper/map-matching | partial | 2020-12-02T07:52:10Z | [open](../records/maps-graphhopper-map-matching-f46cc2bd.md) |
 | huderlem/porymap | partial | 2026-07-31T20:57:01Z | [open](../records/maps-huderlem-porymap-f26f8c3d.md) |
 | jakubvalenta/geoshare | partial | 2026-09-14T22:02:45Z | [open](../records/maps-jakubvalenta-geoshare-9f208e9f.md) |
@@ -1365,7 +1365,7 @@ Records: `1678`
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-01T11:28:25Z | [open](../records/space-maps-leenkcool-blue-whale-harness-c45019bb.md) |
 | leoheck/sublime-spice | partial | 2020-01-21T17:34:46Z | [open](../records/space-maps-leoheck-sublime-spice-f7ab45e4.md) |
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
-| MESAHub/mesa | partial | 2026-09-15T02:35:02Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
+| MESAHub/mesa | partial | 2026-09-15T03:25:38Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
 | rhannequin/astronoby | partial | 2026-09-13T20:52:45Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
@@ -1860,7 +1860,7 @@ Records: `1678`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-14T21:19:21Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-15T03:31:08Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
 | dolthub/dolt | partial | 2026-09-15T01:20:38Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
@@ -1880,7 +1880,7 @@ Records: `1678`
 | simonw/datasette | partial | 2026-09-14T17:18:31Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-13T01:45:17Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-15T02:21:21Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-15T04:09:38Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |

@@ -17,10 +17,10 @@ Records: `2465`
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (491)](../by-category/ffi-bindings.md) · [Filesystem Os (1735)](../by-category/filesystem-os.md) · [Formatter (675)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (67)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6205)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1474)](../by-category/language-specification.md) · [Library (6206)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (350)](../by-category/linter.md) · [Logging Observability (598)](../by-category/logging-observability.md) · [Machine Learning (875)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1102)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1250)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
+[Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1251)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](../by-category/precommit-ci-quality.md)
 [Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (688)](../by-category/static-analyzer.md)
 [Templating (2)](../by-category/templating.md) · [Testing Framework (657)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
@@ -460,7 +460,7 @@ Records: `2465`
 | [@ui5/logger](../records/node-js-javascript-ui5-logger-9bf39db4.md) | 4.0.2 | 2025-09-11T13:14:39.975Z | registry-derived |
 | [@ui5/project](../records/node-js-javascript-ui5-project-4c9f4023.md) | 4.0.17 | 2026-06-15T13:18:37.259Z | registry-derived |
 | [@unlighthouse/cli](../records/node-js-javascript-unlighthouse-cli-da417c2f.md) | 0.18.0 | 2026-06-29T03:12:38.954Z | registry-derived |
-| [@unocss/cli](../records/node-js-javascript-unocss-cli-c357f3f3.md) | 66.10.2 | 2026-09-11T01:29:28.485Z | registry-derived |
+| [@unocss/cli](../records/node-js-javascript-unocss-cli-c357f3f3.md) | 66.10.3 | 2026-09-15T04:17:53.355Z | registry-derived |
 | [@usebruno/cli](../records/node-js-javascript-usebruno-cli-61be65ea.md) | 4.1.0 | 2026-09-01T18:00:53.653Z | registry-derived |
 | [@vercel/cli-exec](../records/node-js-javascript-vercel-cli-exec-8a3b557a.md) | 1.0.1 | 2026-08-03T22:24:21.265Z | registry-derived |
 | [@vue/cli-plugin-babel](../records/node-js-javascript-vue-cli-plugin-babel-94e74e64.md) | 5.0.9 | 2025-08-21T10:57:06.051Z | registry-derived |
@@ -652,7 +652,7 @@ Records: `2465`
 | [@paulcbetts/mime-db](../records/node-js-javascript-paulcbetts-mime-db-019b03f1.md) | 1.22.4 | 2016-04-12T17:19:26.295Z | registry-derived |
 | [@payloadcms/drizzle](../records/node-js-javascript-payloadcms-drizzle-2f19cf5b.md) | 3.89.0 | 2026-09-10T14:49:40.825Z | registry-derived |
 | [@pgpm/database-jobs](../records/node-js-javascript-pgpm-database-jobs-3a4fc2ff.md) | 0.45.0 | 2026-09-09T21:09:30.487Z | registry-derived |
-| [@pgpmjs/export](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) | 1.20.12 | 2026-09-08T19:01:15.665Z | registry-derived |
+| [@pgpmjs/export](../records/node-js-javascript-pgpmjs-export-abf7ded3.md) | 1.20.13 | 2026-09-15T03:26:12.128Z | registry-derived |
 | [@planetscale/database](../records/node-js-javascript-planetscale-database-65a792c6.md) | 1.20.1 | 2026-03-25T21:22:50.213Z | registry-derived |
 | [@prisma/adapter-planetscale](../records/node-js-javascript-prisma-adapter-planetscale-fec84c62.md) | 7.10.0 | 2026-08-25T12:38:29.518Z | registry-derived |
 | [@prosopo/types-database](../records/node-js-javascript-prosopo-types-database-4163c4a1.md) | 5.5.2 | 2026-09-10T13:51:44.821Z | registry-derived |
@@ -2371,7 +2371,7 @@ Records: `2465`
 | [fast-check](../records/node-js-javascript-fast-check-359bc465.md) | 4.10.0 | 2026-09-11T07:53:24.309Z | registry-derived |
 | [firebase-functions-test](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) | 3.5.0 | 2026-05-08T21:21:33.788Z | registry-derived |
 | [fresh](../records/node-js-javascript-fresh-e4b0551f.md) | 0.5.2 | 2017-09-14T05:03:12.205Z | registry-derived |
-| [graphile-test](../records/node-js-javascript-graphile-test-4fc9d5fb.md) | 5.14.6 | 2026-09-08T19:01:06.355Z | registry-derived |
+| [graphile-test](../records/node-js-javascript-graphile-test-4fc9d5fb.md) | 5.14.7 | 2026-09-15T03:25:42.975Z | registry-derived |
 | [ink-testing-library](../records/node-js-javascript-ink-testing-library-ff83aa69.md) | 4.0.0 | 2024-05-22T10:51:25.909Z | registry-derived |
 | [is](../records/node-js-javascript-is-8ceadfd5.md) | 3.3.2 | 2025-07-19T19:13:33.146Z | registry-derived |
 | [is-lite](../records/node-js-javascript-is-lite-b5a2333b.md) | 2.0.0 | 2025-11-23T01:22:42.906Z | registry-derived |
@@ -2544,7 +2544,7 @@ Records: `2465`
 | [@callstack/repack-dev-server](../records/node-js-javascript-callstack-repack-dev-server-631ff63b.md) | 5.3.0 | 2026-08-05T09:11:36.073Z | registry-derived |
 | [@capgo/cli](../records/node-js-javascript-capgo-cli-8e98e39d.md) | 8.51.0 | 2026-09-12T14:34:53.587Z | registry-derived |
 | [@cloudflare/mcp-server-cloudflare](../records/node-js-javascript-cloudflare-mcp-server-cloudflare-3b1ce558.md) | 0.2.0 | 2025-03-14T10:41:19.350Z | registry-derived |
-| [@constructive-io/graphql-server](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) | 5.25.1 | 2026-09-08T23:04:35.503Z | registry-derived |
+| [@constructive-io/graphql-server](../records/node-js-javascript-constructive-io-graphql-server-5edba745.md) | 5.25.2 | 2026-09-15T03:25:49.202Z | registry-derived |
 | [@contentful/mcp-server](../records/node-js-javascript-contentful-mcp-server-f8c3e0db.md) | 1.19.1 | 2026-09-14T15:30:37.589Z | registry-derived |
 | [@currents/mcp](../records/node-js-javascript-currents-mcp-da022c62.md) | 2.4.2 | 2026-08-16T09:54:54.234Z | registry-derived |
 | [@data-elements/database](../records/node-js-javascript-data-elements-database-84055e3f.md) | 0.3.6 | 2026-08-22T04:54:10.956Z | registry-derived |
@@ -2589,7 +2589,7 @@ Records: `2465`
 | [@osohq/dev-server](../records/node-js-javascript-osohq-dev-server-08c8f1e4.md) | 0.0.1-alpha.24 | 2026-07-17T14:34:26.307Z | registry-derived |
 | [@paperclipai/mcp-server](../records/node-js-javascript-paperclipai-mcp-server-6008c169.md) | 2026.831.1 | 2026-09-02T04:45:33.153Z | registry-derived |
 | [@percy/cli-exec](../records/node-js-javascript-percy-cli-exec-36de9cf7.md) | 1.32.9 | 2026-09-08T08:32:25.867Z | registry-derived |
-| [@pgpmjs/server-utils](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) | 3.27.5 | 2026-09-08T19:00:53.395Z | registry-derived |
+| [@pgpmjs/server-utils](../records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) | 3.27.6 | 2026-09-15T03:25:30.694Z | registry-derived |
 | [@pollyjs/node-server](../records/node-js-javascript-pollyjs-node-server-5c241e82.md) | 6.0.6 | 2023-07-20T16:37:35.198Z | registry-derived |
 | [@pondwader/socks5-server](../records/node-js-javascript-pondwader-socks5-server-711c6d2c.md) | 1.0.10 | 2024-06-29T10:33:38.995Z | registry-derived |
 | [@promster/server](../records/node-js-javascript-promster-server-55eaed1b.md) | 16.0.0 | 2026-08-30T17:52:36.398Z | registry-derived |

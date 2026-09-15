@@ -17,10 +17,10 @@ Records: `657`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · **[Testing Framework (657)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
@@ -303,7 +303,7 @@ Records: `657`
 | fast-check | 4.10.0 | 2026-09-11T07:53:24.309Z | [open](../records/node-js-javascript-fast-check-359bc465.md) |
 | firebase-functions-test | 3.5.0 | 2026-05-08T21:21:33.788Z | [open](../records/node-js-javascript-firebase-functions-test-9cef0aad.md) |
 | fresh | 0.5.2 | 2017-09-14T05:03:12.205Z | [open](../records/node-js-javascript-fresh-e4b0551f.md) |
-| graphile-test | 5.14.6 | 2026-09-08T19:01:06.355Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
+| graphile-test | 5.14.7 | 2026-09-15T03:25:42.975Z | [open](../records/node-js-javascript-graphile-test-4fc9d5fb.md) |
 | ink-testing-library | 4.0.0 | 2024-05-22T10:51:25.909Z | [open](../records/node-js-javascript-ink-testing-library-ff83aa69.md) |
 | is | 3.3.2 | 2025-07-19T19:13:33.146Z | [open](../records/node-js-javascript-is-8ceadfd5.md) |
 | is-lite | 2.0.0 | 2025-11-23T01:22:42.906Z | [open](../records/node-js-javascript-is-lite-b5a2333b.md) |
@@ -890,7 +890,7 @@ Records: `657`
 | invertase/react-native-firebase | partial | 2026-09-14T03:45:35Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-15T00:23:29Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-15T04:43:22Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

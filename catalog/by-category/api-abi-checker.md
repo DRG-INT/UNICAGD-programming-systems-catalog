@@ -17,10 +17,10 @@ Records: `239`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6205)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
@@ -276,7 +276,7 @@ Records: `239`
 | luanshixia/AutoCADCodePack | partial | 2024-05-26T04:51:19Z | [open](../records/maps-luanshixia-autocadcodepack-24044755.md) |
 | mapbox/mapbox-gl-geocoder | partial | 2026-08-11T18:58:55Z | [open](../records/maps-mapbox-mapbox-gl-geocoder-33308b01.md) |
 | mapbox/mapbox-java | partial | 2026-07-31T12:04:53Z | [open](../records/maps-mapbox-mapbox-java-84dd661d.md) |
-| maximn/google-maps | partial | 2026-09-12T13:12:02Z | [open](../records/maps-maximn-google-maps-cb0af817.md) |
+| maximn/google-maps | partial | 2026-09-14T15:07:30Z | [open](../records/maps-maximn-google-maps-cb0af817.md) |
 | O-X-L/ansible-opnsense | partial | 2026-08-03T10:08:37Z | [open](../records/maps-o-x-l-ansible-opnsense-268533f6.md) |
 | OpenCageData/python-opencage-geocoder | partial | 2026-06-08T15:44:25Z | [open](../records/maps-opencagedata-python-opencage-geocoder-83e75530.md) |
 | palewire/python-googlegeocoder | partial | 2024-01-11T22:04:07Z | [open](../records/maps-palewire-python-googlegeocoder-3d237438.md) |
@@ -287,7 +287,7 @@ Records: `239`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ansys/pystk | partial | 2026-09-14T06:04:56Z | [open](../records/space-engines-ansys-pystk-98082b8f.md) |
+| ansys/pystk | partial | 2026-09-15T04:01:51Z | [open](../records/space-engines-ansys-pystk-98082b8f.md) |
 
 ## Space Shuttles
 

@@ -13,10 +13,10 @@
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1735)](by-category/filesystem-os.md) · [Formatter (675)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6205)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1250)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
@@ -2749,6 +2749,7 @@
 | `cran_packages_by_date-e39548241d7e19` | rtiktoken | [open](records/r-rtiktoken-9226ef4a.md) |
 | `cran_packages_by_date-e3ca2cc52e5b84` | gpcihybridIIEM | [open](records/r-gpcihybridiiem-68581c0e.md) |
 | `cran_packages_by_date-e3dfe8f2430b0c` | scip | [open](records/r-scip-092f2513.md) |
+| `cran_packages_by_date-e3e65a3630ce3f` | shinyfilters | [open](records/r-shinyfilters-11949cb0.md) |
 | `cran_packages_by_date-e3f78046ece89f` | exdqlm | [open](records/r-exdqlm-82eabd48.md) |
 | `cran_packages_by_date-e3fde6260e2b4d` | FBMS | [open](records/r-fbms-13f6b6e2.md) |
 | `cran_packages_by_date-e3ff694002eaf9` | TwoTimeScales | [open](records/r-twotimescales-0e24b50b.md) |
@@ -27681,6 +27682,7 @@
 | `packagist_search-2b67276f533ce2` | swissup/module-search-mysql-legacy | [open](records/php-swissup-module-search-mysql-legacy-c2a43050.md) |
 | `packagist_search-2bab841320cc92` | kriswallsmith/buzz | [open](records/php-kriswallsmith-buzz-4635f804.md) |
 | `packagist_search-2bee42ecedbbcd` | tpetry/php-mysql-explain | [open](records/php-tpetry-php-mysql-explain-d330ac02.md) |
+| `packagist_search-2ca93193f18cac` | elastic/transport | [open](records/php-elastic-transport-c3c6ff0f.md) |
 | `packagist_search-2dd78f140ae431` | api-platform/jsonld | [open](records/php-api-platform-jsonld-6716bfbc.md) |
 | `packagist_search-2defb951b13069` | iamcal/sql-parser | [open](records/php-iamcal-sql-parser-5374a7b3.md) |
 | `packagist_search-2e90307c4c2e7e` | zaber-dev/laravel-quota | [open](records/php-zaber-dev-laravel-quota-5a5e9635.md) |

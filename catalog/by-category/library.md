@@ -1,6 +1,6 @@
 # Library
 
-Records: `6205`
+Records: `6206`
 
 ## Navigation
 
@@ -17,10 +17,10 @@ Records: `6205`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · **[Library (6205)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · **[Library (6206)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (875)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1250)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
+[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
@@ -3060,6 +3060,7 @@ Records: `6205`
 | shapr | 1.1.0 | 2026-09-11 21:00:02 UTC | [open](../records/r-shapr-f22ab563.md) |
 | shinydataviewer | 0.2.0 | 2026-08-05 02:20:02 UTC | [open](../records/r-shinydataviewer-4cb88020.md) |
 | shinyelectron | 0.2.1 | 2026-08-07 16:10:02 UTC | [open](../records/r-shinyelectron-56c9b295.md) |
+| shinyfilters | 0.3.1 | 2026-09-15 04:40:02 UTC | [open](../records/r-shinyfilters-11949cb0.md) |
 | ShortForm | 1.0.0 | 2026-09-10 03:30:08 UTC | [open](../records/r-shortform-867a579c.md) |
 | shrinkGPR | 2.1.0 | 2026-09-09 14:10:07 UTC | [open](../records/r-shrinkgpr-0c064502.md) |
 | simBKMRdata | 0.2.2 | 2026-09-13 21:30:02 UTC | [open](../records/r-simbkmrdata-1568d701.md) |
@@ -4634,7 +4635,7 @@ Records: `6205`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-15T03:43:23Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| Infisical/infisical | partial | 2026-09-15T05:00:38Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
 | mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
@@ -4648,7 +4649,7 @@ Records: `6205`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-15T03:45:15Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-15T05:04:17Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5071,7 +5072,7 @@ Records: `6205`
 | atlasr-org/atlasr | partial | 2018-12-05T08:36:40Z | [open](../records/maps-atlasr-org-atlasr-8221ab2a.md) |
 | Azure-Samples/AzureMapsCodeSamples | partial | 2026-07-14T02:51:40Z | [open](../records/maps-azure-samples-azuremapscodesamples-5d2f6f06.md) |
 | b-g/tilehut | partial | 2023-03-01T17:12:34Z | [open](../records/maps-b-g-tilehut-3bfb5ef3.md) |
-| benjamintd/benmaps.fr | partial | 2026-09-11T21:12:09Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
+| benjamintd/benmaps.fr | partial | 2026-09-14T21:01:48Z | [open](../records/maps-benjamintd-benmaps-fr-83f6558a.md) |
 | beyonk/svelte-mapbox | partial | 2026-08-01T01:32:40Z | [open](../records/maps-beyonk-svelte-mapbox-83bbf675.md) |
 | bilawalsidhu/gods-eye-view | partial | 2026-09-14T20:02:51Z | [open](../records/maps-bilawalsidhu-gods-eye-view-28a2a7af.md) |
 | bitlap/geocoding | partial | 2025-07-23T16:20:19Z | [open](../records/maps-bitlap-geocoding-44bdf0ae.md) |
@@ -5088,7 +5089,7 @@ Records: `6205`
 | FoggedLens/deflock | partial | 2026-09-11T22:39:26Z | [open](../records/maps-foggedlens-deflock-8c65a555.md) |
 | fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
 | GenericMappingTools/pygmt | partial | 2026-09-14T03:05:34Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
-| geolonia/normalize-japanese-addresses | partial | 2026-08-24T14:12:45Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
+| geolonia/normalize-japanese-addresses | partial | 2026-09-14T13:19:30Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | partial | 2026-07-12T19:49:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | partial | 2026-05-16T12:30:18Z | [open](../records/maps-georust-geocoding-e4389b67.md) |
 | GGBond-GIS/Orillusion_TileEarth | unknown | github_search_does_not_include_release_date | [open](../records/maps-ggbond-gis-orillusion-tileearth-83eb2707.md) |
@@ -5101,7 +5102,7 @@ Records: `6205`
 | ivaylokenov/AspNet.Mvc.TypedRouting | partial | 2019-07-08T11:50:14Z | [open](../records/maps-ivaylokenov-aspnet-mvc-typedrouting-edc6294c.md) |
 | jenetics/jpx | partial | 2026-02-22T20:21:22Z | [open](../records/maps-jenetics-jpx-9e2c8a53.md) |
 | jessecambon/tidygeocoder | partial | 2026-02-18T15:18:12Z | [open](../records/maps-jessecambon-tidygeocoder-a662f171.md) |
-| jingjing2222/react-native-nitro-geolocation | partial | 2026-09-10T23:56:28Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
+| jingjing2222/react-native-nitro-geolocation | partial | 2026-09-13T10:59:52Z | [open](../records/maps-jingjing2222-react-native-nitro-geolocation-88c61895.md) |
 | juxt/bidi | partial | 2023-03-15T10:46:57Z | [open](../records/maps-juxt-bidi-4ad5a334.md) |
 | karam-mustafa/laravel-geographical-calculator | partial | 2023-06-03T12:13:40Z | [open](../records/maps-karam-mustafa-laravel-geographical-calculator-a47febb3.md) |
 | komoot/photon | partial | 2026-09-14T16:18:06Z | [open](../records/maps-komoot-photon-d1651635.md) |
@@ -5111,7 +5112,7 @@ Records: `6205`
 | mapbox/mapbox-gl-js | partial | 2026-09-14T13:02:54Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
-| maplibre/maplibre-gl-geocoder | partial | 2026-09-09T10:54:57Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
+| maplibre/maplibre-gl-geocoder | partial | 2026-09-14T16:43:37Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
 | mapsforge/mapsforge | partial | 2026-09-07T06:20:45Z | [open](../records/maps-mapsforge-mapsforge-764ffa31.md) |
 | maptalks/maptalks.js | partial | 2026-09-14T02:19:11Z | [open](../records/maps-maptalks-maptalks-js-2641e64a.md) |
 | maptalks/maptalks.three | partial | 2026-06-02T03:01:03Z | [open](../records/maps-maptalks-maptalks-three-7e000fe0.md) |
@@ -5136,7 +5137,7 @@ Records: `6205`
 | r-spatial/mapview | partial | 2025-09-05T07:54:41Z | [open](../records/maps-r-spatial-mapview-10b63596.md) |
 | r-tmap/tmap | partial | 2026-09-10T09:09:43Z | [open](../records/maps-r-tmap-tmap-71b21a50.md) |
 | reinterpretcat/utymap | partial | 2019-05-16T10:45:13Z | [open](../records/maps-reinterpretcat-utymap-26781f3b.md) |
-| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-12T06:29:36Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
+| RxChi1d/immich-geodata-zh-tw | partial | 2026-09-14T10:52:29Z | [open](../records/maps-rxchi1d-immich-geodata-zh-tw-74f77fc7.md) |
 | sakitam-fdd/HMap | partial | 2018-11-04T14:06:57Z | [open](../records/maps-sakitam-fdd-hmap-f0c9df14.md) |
 | sandstrom/country-bounding-boxes | partial | 2020-02-06T08:52:09Z | [open](../records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | SharpMap/SharpMap | partial | 2025-01-06T15:20:53Z | [open](../records/maps-sharpmap-sharpmap-0d7d79eb.md) |
@@ -6016,7 +6017,7 @@ Records: `6205`
 | mattdibi/redox-keyboard | partial | 2026-05-26T18:15:22Z | [open](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) |
 | MattPD/cpplinks | partial | 2026-09-15T03:10:14Z | [open](../records/assembly-mattpd-cpplinks-29eb7bcc.md) |
 | meribold/btry | partial | 2026-08-02T18:34:33Z | [open](../records/assembly-meribold-btry-acc80abb.md) |
-| mmcloughlin/avo | partial | 2026-09-15T04:06:08Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
+| mmcloughlin/avo | partial | 2026-09-15T04:53:34Z | [open](../records/assembly-mmcloughlin-avo-46167d30.md) |
 | mohitmishra786/amILearningEnough | partial | 2026-03-26T16:42:23Z | [open](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) |
 | noteed/riscv-hello-asm | partial | 2021-10-16T12:08:54Z | [open](../records/assembly-noteed-riscv-hello-asm-dc120f1a.md) |
 | pgaskin/kobo-mods | partial | 2026-08-15T01:59:10Z | [open](../records/assembly-pgaskin-kobo-mods-bbd1ab40.md) |
@@ -6030,7 +6031,7 @@ Records: `6205`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-15T04:16:25Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-15T05:05:25Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

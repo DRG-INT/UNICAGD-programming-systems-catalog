@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-15T04:24:01+00:00`
+Generated: `2026-09-15T05:24:24+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -23,10 +23,10 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Embedded Hardware (70)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (491)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1735)](catalog/by-category/filesystem-os.md) · [Formatter (675)](catalog/by-category/formatter.md)
 [Framework (64)](catalog/by-category/framework.md) · [Fuzzer (67)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (291)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
-[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1474)](catalog/by-category/language-specification.md) · [Library (6205)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1474)](catalog/by-category/language-specification.md) · [Library (6206)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
 [Lint Rule Pack (54)](catalog/by-category/lint-rule-pack.md) · [Linter (350)](catalog/by-category/linter.md) · [Logging Observability (598)](catalog/by-category/logging-observability.md) · [Machine Learning (875)](catalog/by-category/machine-learning.md)
 [Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](catalog/by-category/memory-analyzer.md) · [Message Broker (40)](catalog/by-category/message-broker.md) · [Networking Http (1102)](catalog/by-category/networking-http.md)
-[Other (14)](catalog/by-category/other.md) · [Package Manager (451)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1250)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](catalog/by-category/precommit-ci-quality.md)
+[Other (14)](catalog/by-category/other.md) · [Package Manager (451)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1251)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (99)](catalog/by-category/profiler.md) · [Project Scaffolding (146)](catalog/by-category/project-scaffolding.md) · [Registry Repository (135)](catalog/by-category/registry-repository.md) · [Sanitizer (17)](catalog/by-category/sanitizer.md)
 [Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (410)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (688)](catalog/by-category/static-analyzer.md)
 [Templating (2)](catalog/by-category/templating.md) · [Testing Framework (657)](catalog/by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](catalog/by-category/tutorial-book-styleguide.md) · [Type Checker (319)](catalog/by-category/type-checker.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29436 |
+| Canonical identity pages | 29438 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 11055 |
-| Unknown stable release fields | 18381 |
-| Fetch errors recorded | 1008 |
+| Known stable release fields | 11056 |
+| Unknown stable release fields | 18382 |
+| Fetch errors recorded | 971 |
 | Target identity count | 24000 |
 
 ## Language Scope

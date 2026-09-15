@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T04:24:01+00:00`
+Generated: `2026-09-15T05:24:24+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -15,10 +15,10 @@ Generated: `2026-09-15T04:24:01+00:00`
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1735)](by-category/filesystem-os.md) · [Formatter (675)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6205)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (875)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1250)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
@@ -37,7 +37,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Node.js/JavaScript | 2465 | 2388 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 393 | 353 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 2199 | 2199 | [R](by-language/r.md) |
+| R | 2200 | 2200 | [R](by-language/r.md) |
 | Haskell | 1785 | 1772 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
@@ -80,7 +80,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Braces | 14 | 0 | [Braces](by-language/braces.md) |
 | Assembly | 308 | 0 | [Assembly](by-language/assembly.md) |
 | Pattern language | 147 | 0 | [Pattern language](by-language/pattern-language.md) |
-| PHP | 622 | 1 | [PHP](by-language/php.md) |
+| PHP | 623 | 1 | [PHP](by-language/php.md) |
 | WebAssembly | 467 | 0 | [WebAssembly](by-language/webassembly.md) |
 | SAPJava | 312 | 166 | [SAPJava](by-language/sapjava.md) |
 | Swift | 464 | 0 | [Swift](by-language/swift.md) |
@@ -130,7 +130,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Jit Vm | 67 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
 | Language Specification | 1474 | [language_specification](by-category/language-specification.md) |
-| Library | 6205 | [library](by-category/library.md) |
+| Library | 6206 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 54 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 350 | [linter](by-category/linter.md) |
@@ -142,7 +142,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Networking Http | 1102 | [networking_http](by-category/networking-http.md) |
 | Other | 14 | [other](by-category/other.md) |
 | Package Manager | 451 | [package_manager](by-category/package-manager.md) |
-| Parser Lexer Ast | 1250 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
+| Parser Lexer Ast | 1251 | [parser_lexer_ast](by-category/parser-lexer-ast.md) |
 | Precommit Ci Quality | 327 | [precommit_ci_quality](by-category/precommit-ci-quality.md) |
 | Profiler | 99 | [profiler](by-category/profiler.md) |
 | Project Scaffolding | 146 | [project_scaffolding](by-category/project-scaffolding.md) |
@@ -174,7 +174,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Node.js/JavaScript | 2388 | 77 |
 | Node.js/TypeScript | 353 | 40 |
 | Lua family | 0 | 1937 |
-| R | 2199 | 0 |
+| R | 2200 | 0 |
 | Haskell | 1772 | 13 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
@@ -217,7 +217,7 @@ Generated: `2026-09-15T04:24:01+00:00`
 | Braces | 0 | 14 |
 | Assembly | 0 | 308 |
 | Pattern language | 0 | 147 |
-| PHP | 1 | 621 |
+| PHP | 1 | 622 |
 | WebAssembly | 0 | 467 |
 | SAPJava | 166 | 146 |
 | Swift | 0 | 464 |
