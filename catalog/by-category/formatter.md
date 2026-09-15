@@ -1,6 +1,6 @@
 # Formatter
 
-Records: `678`
+Records: `679`
 
 ## Navigation
 
@@ -9,12 +9,12 @@ Records: `678`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · **[Formatter (678)](formatter.md)**
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · **[Formatter (679)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
 [Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
@@ -553,7 +553,7 @@ Records: `678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T20:19:40Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T21:18:14Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -877,6 +877,7 @@ Records: `678`
 | iconify/json | unknown | packagist_package_metadata_missing | [open](../records/php-iconify-json-90cf51ea.md) |
 | kartik-v/yii2-export | unknown | packagist_package_metadata_missing | [open](../records/php-kartik-v-yii2-export-d0718c10.md) |
 | kigkonsult/icalcreator | unknown | packagist_package_metadata_missing | [open](../records/php-kigkonsult-icalcreator-4d88cb23.md) |
+| mapado/mysql-doctrine-functions | unknown | packagist_package_metadata_missing | [open](../records/php-mapado-mysql-doctrine-functions-4f618d2e.md) |
 | nilportugues/sql-query-formatter | unknown | packagist_package_metadata_missing | [open](../records/php-nilportugues-sql-query-formatter-cbf8ab7c.md) |
 | phpunit/php-code-coverage | unknown | packagist_package_metadata_missing | [open](../records/php-phpunit-php-code-coverage-8e22e1f3.md) |
 | symfony/serializer | unknown | packagist_package_metadata_missing | [open](../records/php-symfony-serializer-134a9b77.md) |

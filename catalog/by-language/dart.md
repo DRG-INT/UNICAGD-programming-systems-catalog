@@ -9,12 +9,12 @@ Records: `771`
 ## Category Index
 
 [Api Abi Checker (241)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1051)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1052)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6233)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -64,7 +64,7 @@ Records: `771`
 | [grpc](../records/dart-grpc-b233bbd9.md) | 5.1.0 | 2025-12-09T14:31:11.968257Z | registry-derived |
 | [signature](../records/dart-signature-3293e04c.md) | 6.4.0 | 2026-07-28T09:22:08.784723Z | registry-derived |
 | [sqlite_async](../records/dart-sqlite-async-0a8b1bbc.md) | 0.14.5 | 2026-08-27T15:49:25.173951Z | registry-derived |
-| [syncfusion_flutter_charts](../records/dart-syncfusion-flutter-charts-053e31ff.md) | 34.2.7 | 2026-09-08T05:03:19.119860Z | registry-derived |
+| [syncfusion_flutter_charts](../records/dart-syncfusion-flutter-charts-053e31ff.md) | 34.2.8 | 2026-09-15T07:29:52.737090Z | registry-derived |
 | [tostore](../records/dart-tostore-c0c539b3.md) | 3.5.1 | 2026-09-01T18:56:55.052904Z | registry-derived |
 
 ### Build System
@@ -211,7 +211,7 @@ Records: `771`
 | [drift_flutter](../records/dart-drift-flutter-475023b9.md) | 0.3.1 | 2026-07-11T09:52:38.707710Z | registry-derived |
 | [postgres](../records/dart-postgres-36d0d96d.md) | 3.5.12 | 2026-06-11T15:02:50.869497Z | registry-derived |
 | [sqflite](../records/dart-sqflite-095e3684.md) | 2.4.4 | 2026-09-10T14:19:09.906233Z | registry-derived |
-| [sqflite_common](../records/dart-sqflite-common-296faecb.md) | 2.5.12 | 2026-09-10T14:19:34.034587Z | registry-derived |
+| [sqflite_common](../records/dart-sqflite-common-296faecb.md) | 2.5.13 | 2026-09-15T15:14:27.457204Z | registry-derived |
 | [sqlite3_flutter_libs](../records/dart-sqlite3-flutter-libs-9b6fee4a.md) | 0.6.0+eol | 2026-02-15T18:55:45.668038Z | registry-derived |
 | [timezone](../records/dart-timezone-b9205c53.md) | 0.11.1 | 2026-06-29T07:44:30.784613Z | registry-derived |
 
@@ -237,7 +237,7 @@ Records: `771`
 | [simple_animations](../records/dart-simple-animations-d7ac0aeb.md) | 5.3.0 | 2026-05-23T17:20:30.895501Z | registry-derived |
 | [smart_auth](../records/dart-smart-auth-74338502.md) | 3.2.0 | 2025-01-01T13:02:12.823403Z | registry-derived |
 | [stop_watch_timer](../records/dart-stop-watch-timer-ab4a5380.md) | 3.2.2 | 2025-04-16T00:53:33.047504Z | registry-derived |
-| [syncfusion_flutter_datepicker](../records/dart-syncfusion-flutter-datepicker-f07357eb.md) | 34.2.7 | 2026-09-08T05:03:55.808966Z | registry-derived |
+| [syncfusion_flutter_datepicker](../records/dart-syncfusion-flutter-datepicker-f07357eb.md) | 34.2.8 | 2026-09-15T07:30:25.386623Z | registry-derived |
 | [time](../records/dart-time-5710b74e.md) | 2.1.6 | 2025-12-07T08:02:47.174095Z | registry-derived |
 
 ### Debugger
@@ -359,7 +359,7 @@ Records: `771`
 | [speech_to_text](../records/dart-speech-to-text-cbab6b04.md) | 7.5.0 | 2026-09-14T19:14:48.036781Z | registry-derived |
 | [string_validator](../records/dart-string-validator-052c753f.md) | 1.2.0 | 2025-06-27T03:16:40.071522Z | registry-derived |
 | [super_drag_and_drop](../records/dart-super-drag-and-drop-53d051f4.md) | 0.9.1 | 2025-06-11T11:42:57.647809Z | registry-derived |
-| [syncfusion_flutter_pdf](../records/dart-syncfusion-flutter-pdf-cb009e7a.md) | 34.2.7 | 2026-09-08T05:08:56.668552Z | registry-derived |
+| [syncfusion_flutter_pdf](../records/dart-syncfusion-flutter-pdf-cb009e7a.md) | 34.2.8 | 2026-09-15T07:35:28.458609Z | registry-derived |
 | [typewritertext](../records/dart-typewritertext-0221e3f3.md) | 3.0.9 | 2024-09-14T08:02:08.110460Z | registry-derived |
 | [universal_ble](../records/dart-universal-ble-63469fae.md) | 2.3.0 | 2026-09-07T12:02:12.644806Z | registry-derived |
 | [vibration](../records/dart-vibration-0db0fe53.md) | 3.2.1 | 2026-09-02T09:15:07.998126Z | registry-derived |
@@ -501,9 +501,9 @@ Records: `771`
 | [split_view](../records/dart-split-view-81535742.md) | 3.2.2 | 2026-02-16T15:09:21.065428Z | registry-derived |
 | [sqlite3](../records/dart-sqlite3-cf60b60a.md) | 3.6.0 | 2026-09-13T15:23:36.726502Z | registry-derived |
 | [state_notifier](../records/dart-state-notifier-b2b0cfaf.md) | 1.0.0 | 2023-08-16T08:43:47.501227Z | registry-derived |
-| [syncfusion_flutter_calendar](../records/dart-syncfusion-flutter-calendar-66492223.md) | 34.2.7 | 2026-09-08T05:06:50.392885Z | registry-derived |
-| [syncfusion_flutter_gauges](../records/dart-syncfusion-flutter-gauges-b33b7a95.md) | 34.2.7 | 2026-09-08T05:03:39.573198Z | registry-derived |
-| [syncfusion_flutter_sliders](../records/dart-syncfusion-flutter-sliders-f5899f4c.md) | 34.2.7 | 2026-09-08T05:08:10.270984Z | registry-derived |
+| [syncfusion_flutter_calendar](../records/dart-syncfusion-flutter-calendar-66492223.md) | 34.2.8 | 2026-09-15T07:34:13.681364Z | registry-derived |
+| [syncfusion_flutter_gauges](../records/dart-syncfusion-flutter-gauges-b33b7a95.md) | 34.2.8 | 2026-09-15T07:30:10.580401Z | registry-derived |
+| [syncfusion_flutter_sliders](../records/dart-syncfusion-flutter-sliders-f5899f4c.md) | 34.2.8 | 2026-09-15T07:34:46.678331Z | registry-derived |
 | [textfield_tags](../records/dart-textfield-tags-1eed8b40.md) | 3.0.1 | 2024-03-11T12:38:40.646355Z | registry-derived |
 | [tutorial_coach_mark](../records/dart-tutorial-coach-mark-cb470fcd.md) | 1.3.4 | 2026-08-28T02:18:57.092684Z | registry-derived |
 | [unicons](../records/dart-unicons-d639eca1.md) | 3.0.0 | 2024-08-27T00:11:02.581226Z | registry-derived |
@@ -534,7 +534,7 @@ Records: `771`
 | [octo_image](../records/dart-octo-image-6a0d9ae2.md) | 2.1.0 | 2024-08-01T17:30:56.265130Z | registry-derived |
 | [record](../records/dart-record-1756f10d.md) | 7.1.1 | 2026-06-29T09:23:33.796873Z | registry-derived |
 | [swipe_image_gallery](../records/dart-swipe-image-gallery-53a5284f.md) | 0.11.0 | 2025-09-01T01:15:02.685168Z | registry-derived |
-| [syncfusion_flutter_signaturepad](../records/dart-syncfusion-flutter-signaturepad-49407b36.md) | 34.2.7 | 2026-09-08T05:10:10.010785Z | registry-derived |
+| [syncfusion_flutter_signaturepad](../records/dart-syncfusion-flutter-signaturepad-49407b36.md) | 34.2.8 | 2026-09-15T07:36:38.739204Z | registry-derived |
 
 ### Interop Bindings
 
@@ -709,8 +709,8 @@ Records: `771`
 | [super_tooltip](../records/dart-super-tooltip-f56943ac.md) | 2.1.1 | 2026-02-12T23:13:44.498768Z | registry-derived |
 | [swipable_stack](../records/dart-swipable-stack-6e11d828.md) | 2.0.0 | 2022-05-30T12:17:18.472207Z | registry-derived |
 | [swipeable_page_route](../records/dart-swipeable-page-route-1f4c394d.md) | 0.4.8 | 2026-01-02T14:31:23.336312Z | registry-derived |
-| [syncfusion_flutter_core](../records/dart-syncfusion-flutter-core-028b51a1.md) | 34.2.7 | 2026-09-08T05:00:41.426775Z | registry-derived |
-| [syncfusion_flutter_datagrid](../records/dart-syncfusion-flutter-datagrid-9d656fc2.md) | 34.2.7 | 2026-09-08T05:09:41.397393Z | registry-derived |
+| [syncfusion_flutter_core](../records/dart-syncfusion-flutter-core-028b51a1.md) | 34.2.8 | 2026-09-15T07:26:22.288181Z | registry-derived |
+| [syncfusion_flutter_datagrid](../records/dart-syncfusion-flutter-datagrid-9d656fc2.md) | 34.2.8 | 2026-09-15T07:36:12.176877Z | registry-derived |
 | [tap_debouncer](../records/dart-tap-debouncer-321e725c.md) | 2.2.0 | 2023-05-21T17:07:06.791272Z | registry-derived |
 | [top_snackbar_flutter](../records/dart-top-snackbar-flutter-52e91539.md) | 3.4.0 | 2026-08-03T07:46:04.853851Z | registry-derived |
 | [tray_manager](../records/dart-tray-manager-fd52c41f.md) | 0.5.3 | 2026-06-09T15:41:51.594509Z | registry-derived |

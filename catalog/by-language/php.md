@@ -1,6 +1,6 @@
 # PHP
 
-Records: `623`
+Records: `625`
 
 ## Navigation
 
@@ -9,12 +9,12 @@ Records: `623`
 ## Category Index
 
 [Api Abi Checker (241)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1051)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1052)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
 [Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6233)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
@@ -82,6 +82,7 @@ Records: `623`
 | [fpdo/fluentpdo](../records/php-fpdo-fluentpdo-a2759c4f.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jakeasmith/http_build_url](../records/php-jakeasmith-http-build-url-ef13a8e2.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jenssegers/mongodb](../records/php-jenssegers-mongodb-773603c1.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [jstayton/miner](../records/php-jstayton-miner-337c77da.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jv2222/ezsql](../records/php-jv2222-ezsql-2785846a.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [jwadhams/json-logic-php](../records/php-jwadhams-json-logic-php-c041e588.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kg-bot/laravel-localization-to-vue](../records/php-kg-bot-laravel-localization-to-vue-23319f5b.md) | unknown | packagist_package_metadata_missing | registry-derived |
@@ -380,6 +381,7 @@ Records: `623`
 | [iconify/json](../records/php-iconify-json-90cf51ea.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kartik-v/yii2-export](../records/php-kartik-v-yii2-export-d0718c10.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [kigkonsult/icalcreator](../records/php-kigkonsult-icalcreator-4d88cb23.md) | unknown | packagist_package_metadata_missing | registry-derived |
+| [mapado/mysql-doctrine-functions](../records/php-mapado-mysql-doctrine-functions-4f618d2e.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [nilportugues/sql-query-formatter](../records/php-nilportugues-sql-query-formatter-cbf8ab7c.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [phpunit/php-code-coverage](../records/php-phpunit-php-code-coverage-8e22e1f3.md) | unknown | packagist_package_metadata_missing | registry-derived |
 | [symfony/serializer](../records/php-symfony-serializer-134a9b77.md) | unknown | packagist_package_metadata_missing | registry-derived |

@@ -1,18 +1,18 @@
 # Release Watch
 
-Generated: `2026-09-15T20:22:38+00:00`
+Generated: `2026-09-15T21:20:45+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (241)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1051)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1052)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (678)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6233)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -29,7 +29,7 @@ Generated: `2026-09-15T20:22:38+00:00`
 | State | Count |
 | --- | ---: |
 | Known stable release | 11142 |
-| Unknown stable release | 18386 |
+| Unknown stable release | 18388 |
 
 ## Newest Known Stable Metadata
 
@@ -92,6 +92,7 @@ Generated: `2026-09-15T20:22:38+00:00`
 | arrow-buffer | Rust | Library | 60.0.0 | 2026-09-15T15:29:47.736643Z | [open](records/rust-arrow-buffer-79e9f29f.md) |
 | @react-router/serve | Node.js/JavaScript | Web Framework | 8.4.0 | 2026-09-15T15:23:22.143Z | [open](records/node-js-javascript-react-router-serve-fcd29568.md) |
 | object_store | Rust | Machine Learning | 0.14.2 | 2026-09-15T15:15:46.622836Z | [open](records/rust-object-store-cd8fea69.md) |
+| sqflite_common | Dart | Database Datastore | 2.5.13 | 2026-09-15T15:14:27.457204Z | [open](records/dart-sqflite-common-296faecb.md) |
 | @napi-rs/cli | Node.js/JavaScript | Cli | 3.10.0 | 2026-09-15T15:02:12.855Z | [open](records/node-js-javascript-napi-rs-cli-3160c98d.md) |
 | hydra | Haskell | Library | 0.17.7 | 2026-09-15T14:50:56Z | [open](records/haskell-hydra-fcfa2c83.md) |
 | hydra-ext | Haskell | Library | 0.17.7 | 2026-09-15T14:50:56Z | [open](records/haskell-hydra-ext-5b88866b.md) |
@@ -184,7 +185,16 @@ Generated: `2026-09-15T20:22:38+00:00`
 | aihc-parser | Haskell | Parser Lexer Ast | 3.0.1.1 | 2026-09-15T07:47:53Z | [open](records/haskell-aihc-parser-d88ae54b.md) |
 | @fedify/testing | Node.js/JavaScript | Testing Framework | 2.3.7 | 2026-09-15T07:41:26.586Z | [open](records/node-js-javascript-fedify-testing-fe851537.md) |
 | @codama/cli | Node.js/JavaScript | Cli | 1.6.3 | 2026-09-15T07:39:11.018Z | [open](records/node-js-javascript-codama-cli-216c88c7.md) |
+| syncfusion_flutter_signaturepad | Dart | Image Audio Dsp | 34.2.8 | 2026-09-15T07:36:38.739204Z | [open](records/dart-syncfusion-flutter-signaturepad-49407b36.md) |
+| syncfusion_flutter_datagrid | Dart | Library | 34.2.8 | 2026-09-15T07:36:12.176877Z | [open](records/dart-syncfusion-flutter-datagrid-9d656fc2.md) |
 | actix-utils | Rust | Filesystem Os | 3.0.2 | 2026-09-15T07:35:29.537726Z | [open](records/rust-actix-utils-4c94a8a9.md) |
+| syncfusion_flutter_pdf | Dart | Filesystem Os | 34.2.8 | 2026-09-15T07:35:28.458609Z | [open](records/dart-syncfusion-flutter-pdf-cb009e7a.md) |
+| syncfusion_flutter_sliders | Dart | Ide Editor Integration | 34.2.8 | 2026-09-15T07:34:46.678331Z | [open](records/dart-syncfusion-flutter-sliders-f5899f4c.md) |
+| syncfusion_flutter_calendar | Dart | Ide Editor Integration | 34.2.8 | 2026-09-15T07:34:13.681364Z | [open](records/dart-syncfusion-flutter-calendar-66492223.md) |
+| syncfusion_flutter_datepicker | Dart | Datetime | 34.2.8 | 2026-09-15T07:30:25.386623Z | [open](records/dart-syncfusion-flutter-datepicker-f07357eb.md) |
+| syncfusion_flutter_gauges | Dart | Ide Editor Integration | 34.2.8 | 2026-09-15T07:30:10.580401Z | [open](records/dart-syncfusion-flutter-gauges-b33b7a95.md) |
+| syncfusion_flutter_charts | Dart | Benchmarking | 34.2.8 | 2026-09-15T07:29:52.737090Z | [open](records/dart-syncfusion-flutter-charts-053e31ff.md) |
+| syncfusion_flutter_core | Dart | Library | 34.2.8 | 2026-09-15T07:26:22.288181Z | [open](records/dart-syncfusion-flutter-core-028b51a1.md) |
 | @nauth-toolkit/storage-database | Node.js/JavaScript | Database Datastore | 0.8.1 | 2026-09-15T07:01:48.343Z | [open](records/node-js-javascript-nauth-toolkit-storage-database-bc518bb8.md) |
 | liquid_glass_widgets | Dart | Filesystem Os | 1.6.0 | 2026-09-15T06:42:00.965828Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
 | @prosopo/database | Node.js/JavaScript | Ide Editor Integration | 4.0.33 | 2026-09-15T05:43:50.007Z | [open](records/node-js-javascript-prosopo-database-9a77dbd4.md) |
@@ -275,16 +285,6 @@ Generated: `2026-09-15T20:22:38+00:00`
 | logr | R | Logging Observability | 1.4.0 | 2026-09-15 03:00:02 UTC | [open](records/r-logr-6dca9be3.md) |
 | SteadyStateBVAR | R | Library | 0.2.0 | 2026-09-15 02:40:26 UTC | [open](records/r-steadystatebvar-600de187.md) |
 | lrstat | R | Library | 0.3.4 | 2026-09-15 02:40:02 UTC | [open](records/r-lrstat-d346572b.md) |
-| Certara.RsNLME | R | Library | 3.2.0 | 2026-09-15 02:20:41 UTC | [open](records/r-certara-rsnlme-f946d777.md) |
-| Compositional | R | Static Analyzer | 8.4 | 2026-09-15 02:20:26 UTC | [open](records/r-compositional-4de89292.md) |
-| photobiology | R | Logging Observability | 0.14.3 | 2026-09-15 02:20:02 UTC | [open](records/r-photobiology-0c637127.md) |
-| kza | R | Library | 4.2.0 | 2026-09-15 02:10:14 UTC | [open](records/r-kza-6c5b0efa.md) |
-| resultcheck | R | Api Abi Checker | 0.3.1 | 2026-09-15 02:10:08 UTC | [open](records/r-resultcheck-86b0a956.md) |
-| tidyprf | R | Library | 0.2.0 | 2026-09-15 02:10:02 UTC | [open](records/r-tidyprf-5761da52.md) |
-| fastgeojson | R | Benchmarking | 0.3.0 | 2026-09-15 01:50:02 UTC | [open](records/r-fastgeojson-b03c9348.md) |
-| neotoma2 | R | Database Datastore | 1.1.0 | 2026-09-15 01:00:02 UTC | [open](records/r-neotoma2-bceb3ebe.md) |
-| autoCovariateSelection | R | Filesystem Os | 1.0.1 | 2026-09-15 00:30:08 UTC | [open](records/r-autocovariateselection-c436e771.md) |
-| medicare | R | Undefined Behavior Analyzer | 0.3.0 | 2026-09-15 00:30:02 UTC | [open](records/r-medicare-21d57351.md) |
 
 ## Unknown Reasons
 
@@ -294,7 +294,7 @@ Generated: `2026-09-15T20:22:38+00:00`
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
-| packagist_package_metadata_missing | 622 |
+| packagist_package_metadata_missing | 624 |
 | github_search_does_not_include_release_date | 437 |
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
@@ -315,13 +315,13 @@ Generated: `2026-09-15T20:22:38+00:00`
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
 | kalender | Dart | preview | 0.31.0-dev.4 | 2026-09-15T12:48:27.235772Z | [open](records/dart-kalender-10f50158.md) |
+| supabase_flutter | Dart | preview | 3.0.0-dev.4 | 2026-09-15T12:28:17.607546Z | [open](records/dart-supabase-flutter-7645000e.md) |
+| supabase | Dart | preview | 3.0.0-dev.4 | 2026-09-15T12:28:08.391609Z | [open](records/dart-supabase-71cdb3aa.md) |
 | flex_color_scheme | Dart | preview | 9.0.0-dev.1 | 2026-09-14T23:37:53.472823Z | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
 | speech_to_text | Dart | preview | 7.6.0-beta.1 | 2026-09-14T20:26:09.794166Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | flutter_appauth | Dart | preview | 13.0.0-dev.1 | 2026-09-13T08:04:49.302492Z | [open](records/dart-flutter-appauth-5be855e9.md) |
 | flutter_rust_bridge | Dart | preview | 2.14.0-beta.2 | 2026-09-12T01:28:35.247741Z | [open](records/dart-flutter-rust-bridge-2c8c964c.md) |
 | widgetbook | Dart | preview | 4.0.0-beta.14 | 2026-09-11T15:44:04.509991Z | [open](records/dart-widgetbook-2f3d1f04.md) |
-| supabase_flutter | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:26.533302Z | [open](records/dart-supabase-flutter-7645000e.md) |
-| supabase | Dart | preview | 3.0.0-dev.3 | 2026-09-11T12:36:14.073482Z | [open](records/dart-supabase-71cdb3aa.md) |
 | sembast | Dart | preview | 3.8.10-2 | 2026-09-10T14:14:06.868652Z | [open](records/dart-sembast-fa8ed2b5.md) |
 | sentry_dio | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:34.679741Z | [open](records/dart-sentry-dio-7067a5da.md) |
 | sentry | Dart | preview | 10.0.0-alpha.5 | 2026-09-08T11:27:24.015188Z | [open](records/dart-sentry-27c4653e.md) |

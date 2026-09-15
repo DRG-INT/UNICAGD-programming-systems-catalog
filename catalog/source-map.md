@@ -5,12 +5,12 @@
 ## Category Index
 
 [Api Abi Checker (241)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1051)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1052)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (678)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
 [Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6233)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
@@ -28098,6 +28098,7 @@
 | `packagist_search-acd170080cbeb9` | timacdonald/json-api | [open](records/php-timacdonald-json-api-1a03aab9.md) |
 | `packagist_search-acd7e4571b2214` | amphp/postgres | [open](records/php-amphp-postgres-91a1ac9b.md) |
 | `packagist_search-ace47c944efe34` | enqueue/null | [open](records/php-enqueue-null-e2cf17df.md) |
+| `packagist_search-ace4957abfd01e` | jstayton/miner | [open](records/php-jstayton-miner-337c77da.md) |
 | `packagist_search-ad02385f59721f` | arvenil/ninja-mutex | [open](records/php-arvenil-ninja-mutex-ade0fdd0.md) |
 | `packagist_search-ad67df00438e4e` | laminas/laminas-json | [open](records/php-laminas-laminas-json-881c7b42.md) |
 | `packagist_search-ad7eac0b2db2ee` | yiisoft/yii2-redis | [open](records/php-yiisoft-yii2-redis-f53bf6ae.md) |
@@ -28279,6 +28280,7 @@
 | `packagist_search-f4263c09164609` | php-http/guzzle7-adapter | [open](records/php-php-http-guzzle7-adapter-f379963c.md) |
 | `packagist_search-f458e623f97da7` | ergebnis/json-printer | [open](records/php-ergebnis-json-printer-b7fbbe90.md) |
 | `packagist_search-f48a8a24e573cb` | doctrine/mongodb | [open](records/php-doctrine-mongodb-e4fd450a.md) |
+| `packagist_search-f4f90b6379a1c1` | mapado/mysql-doctrine-functions | [open](records/php-mapado-mysql-doctrine-functions-4f618d2e.md) |
 | `packagist_search-f550f213a8c23a` | mockery/mockery | [open](records/php-mockery-mockery-989ab6c2.md) |
 | `packagist_search-f5857a96a9b99f` | topthink/think-orm | [open](records/php-topthink-think-orm-8bc7105b.md) |
 | `packagist_search-f6fdbb8c2cc2ce` | http-interop/http-factory-guzzle | [open](records/php-http-interop-http-factory-guzzle-66251638.md) |
