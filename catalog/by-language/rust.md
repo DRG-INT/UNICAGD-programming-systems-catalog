@@ -9,21 +9,21 @@ Records: `2183`
 ## Category Index
 
 [Api Abi Checker (241)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1049)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1050)](../by-category/build-system.md) · [Cli (608)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (257)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1737)](../by-category/filesystem-os.md) · [Formatter (678)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1528)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (291)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6222)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6232)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (351)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (880)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1107)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1253)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (329)](../by-category/precommit-ci-quality.md)
-[Profiler (99)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (696)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (658)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (319)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (659)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (320)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (657)](../by-category/visualization-gui.md) · [Web Framework (503)](../by-category/web-framework.md)
 
 ## Categories
@@ -929,10 +929,10 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [annotate-snippets](../records/rust-annotate-snippets-0d48506d.md) | 0.12.16 | 2026-05-06T19:58:20.584705Z | crates_io |
-| [arrow-csv](../records/rust-arrow-csv-364e5a69.md) | 59.3.0 | 2026-09-01T10:38:29.058987Z | registry-derived |
-| [arrow-ipc](../records/rust-arrow-ipc-8a349159.md) | 59.3.0 | 2026-09-01T10:38:23.620158Z | registry-derived |
-| [arrow-json](../records/rust-arrow-json-6fc174f5.md) | 59.3.0 | 2026-09-01T10:38:34.132796Z | registry-derived |
-| [arrow-row](../records/rust-arrow-row-d82ff8a4.md) | 59.3.0 | 2026-09-01T10:38:48.109866Z | registry-derived |
+| [arrow-csv](../records/rust-arrow-csv-364e5a69.md) | 60.0.0 | 2026-09-15T15:30:34.821330Z | registry-derived |
+| [arrow-ipc](../records/rust-arrow-ipc-8a349159.md) | 60.0.0 | 2026-09-15T15:30:28.788489Z | registry-derived |
+| [arrow-json](../records/rust-arrow-json-6fc174f5.md) | 60.0.0 | 2026-09-15T15:30:40.262612Z | registry-derived |
+| [arrow-row](../records/rust-arrow-row-d82ff8a4.md) | 60.0.0 | 2026-09-15T15:30:52.812163Z | registry-derived |
 | [bech32](../records/rust-bech32-b269289b.md) | 0.12.0 | 2026-06-12T22:46:26.813061Z | registry-derived |
 | [bitstream-io](../records/rust-bitstream-io-76f36e38.md) | 4.10.0 | 2026-04-14T19:30:17.129106Z | crates_io |
 | [built](../records/rust-built-644f5ff7.md) | 0.8.1 | 2026-05-21T20:10:07.082823Z | registry-derived |
@@ -1296,14 +1296,14 @@ Records: `2183`
 | [arg_enum_proc_macro](../records/rust-arg-enum-proc-macro-49899262.md) | 0.3.4 | 2023-09-12T12:39:27.238891Z | crates_io |
 | [ark-ff](../records/rust-ark-ff-257dda9d.md) | 0.6.0 | 2026-04-26T19:42:22.232900Z | registry-derived |
 | [ark-ff-asm](../records/rust-ark-ff-asm-6f92c99a.md) | 0.6.0 | 2026-04-26T19:27:41.787310Z | registry-derived |
-| [arrow](../records/rust-arrow-5854bd39.md) | 59.3.0 | 2026-09-01T10:38:57.692364Z | registry-derived |
-| [arrow-arith](../records/rust-arrow-arith-4002c015.md) | 59.3.0 | 2026-09-01T10:38:39.568446Z | registry-derived |
-| [arrow-array](../records/rust-arrow-array-8a0b4819.md) | 59.3.0 | 2026-09-01T10:37:58.426209Z | registry-derived |
-| [arrow-buffer](../records/rust-arrow-buffer-79e9f29f.md) | 59.3.0 | 2026-09-01T10:37:42.795265Z | registry-derived |
-| [arrow-data](../records/rust-arrow-data-eeddf0a2.md) | 59.3.0 | 2026-09-01T10:37:50.445216Z | registry-derived |
-| [arrow-ord](../records/rust-arrow-ord-30fc1f45.md) | 59.3.0 | 2026-09-01T10:38:11.748906Z | registry-derived |
-| [arrow-select](../records/rust-arrow-select-e9055e7f.md) | 59.3.0 | 2026-09-01T10:38:05.221351Z | registry-derived |
-| [arrow-string](../records/rust-arrow-string-eb4fe83c.md) | 59.3.0 | 2026-09-01T10:38:44.602087Z | registry-derived |
+| [arrow](../records/rust-arrow-5854bd39.md) | 60.0.0 | 2026-09-15T15:31:03.178856Z | registry-derived |
+| [arrow-arith](../records/rust-arrow-arith-4002c015.md) | 60.0.0 | 2026-09-15T15:30:44.827310Z | registry-derived |
+| [arrow-array](../records/rust-arrow-array-8a0b4819.md) | 60.0.0 | 2026-09-15T15:30:02.038482Z | registry-derived |
+| [arrow-buffer](../records/rust-arrow-buffer-79e9f29f.md) | 60.0.0 | 2026-09-15T15:29:47.736643Z | registry-derived |
+| [arrow-data](../records/rust-arrow-data-eeddf0a2.md) | 60.0.0 | 2026-09-15T15:29:55.114228Z | registry-derived |
+| [arrow-ord](../records/rust-arrow-ord-30fc1f45.md) | 60.0.0 | 2026-09-15T15:30:17.525272Z | registry-derived |
+| [arrow-select](../records/rust-arrow-select-e9055e7f.md) | 60.0.0 | 2026-09-15T15:30:11.676477Z | registry-derived |
+| [arrow-string](../records/rust-arrow-string-eb4fe83c.md) | 60.0.0 | 2026-09-15T15:30:49.578191Z | registry-derived |
 | [atoi](../records/rust-atoi-76a15868.md) | 3.1.0 | 2026-06-25T17:13:15.254833Z | registry-derived |
 | [atomic-waker](../records/rust-atomic-waker-ed642d22.md) | 1.1.2 | 2023-09-25T17:45:09.388277Z | registry-derived |
 | [attribute-derive-macro](../records/rust-attribute-derive-macro-71aefd04.md) | 0.10.5 | 2025-10-02T09:31:36.052149Z | crates_io |
@@ -1530,7 +1530,7 @@ Records: `2183`
 | [ordered-stream](../records/rust-ordered-stream-fc233daf.md) | 0.2.0 | 2023-02-11T15:42:09.415977Z | registry-derived |
 | [parity-scale-codec](../records/rust-parity-scale-codec-5120e575.md) | 3.7.5 | 2025-05-20T11:07:30.721787Z | registry-derived |
 | [parity-scale-codec-derive](../records/rust-parity-scale-codec-derive-03597479.md) | 3.7.5 | 2025-05-20T11:07:20.198816Z | registry-derived |
-| [parquet](../records/rust-parquet-b654bd75.md) | 59.3.0 | 2026-09-01T10:39:56.634282Z | registry-derived |
+| [parquet](../records/rust-parquet-b654bd75.md) | 60.0.0 | 2026-09-15T15:32:03.910524Z | registry-derived |
 | [pbkdf2](../records/rust-pbkdf2-e9651500.md) | 0.13.0 | 2026-04-21T13:26:45.248211Z | registry-derived |
 | [peeking_take_while](../records/rust-peeking-take-while-806a9bad.md) | 1.0.0 | 2021-09-03T17:58:50.443671Z | registry-derived |
 | [pem](../records/rust-pem-7d18e591.md) | 4.0.0 | 2026-07-28T13:38:46.529827Z | registry-derived |
@@ -1780,7 +1780,7 @@ Records: `2183`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [android_logger](../records/rust-android-logger-4234548c.md) | 0.15.1 | 2025-06-29T18:20:22.643726Z | crates_io |
-| [arrow-schema](../records/rust-arrow-schema-3690b891.md) | 59.3.0 | 2026-09-01T10:37:46.420301Z | registry-derived |
+| [arrow-schema](../records/rust-arrow-schema-3690b891.md) | 60.0.0 | 2026-09-15T15:29:51.009401Z | registry-derived |
 | [aws-smithy-eventstream](../records/rust-aws-smithy-eventstream-e8e6d761.md) | 0.61.3 | 2026-09-14T22:23:33.426155Z | registry-derived |
 | [aws-smithy-observability](../records/rust-aws-smithy-observability-7204d6c5.md) | 0.3.0 | 2026-07-07T18:16:48.256708Z | registry-derived |
 | [aws-smithy-query](../records/rust-aws-smithy-query-b6654ee8.md) | 0.63.0 | 2026-09-14T22:26:00.999452Z | registry-derived |
@@ -1878,7 +1878,7 @@ Records: `2183`
 | [names](../records/rust-names-ff30dba8.md) | 0.14.0 | 2022-06-28T20:26:29.163977Z | crates_io |
 | [nonzero_ext](../records/rust-nonzero-ext-f13918ee.md) | 0.3.0 | 2021-08-21T15:57:43.150498Z | registry-derived |
 | [num-integer](../records/rust-num-integer-c6a7b5fe.md) | 0.1.47 | 2026-08-12T00:11:57.840357Z | registry-derived |
-| [object_store](../records/rust-object-store-cd8fea69.md) | 0.14.1 | 2026-07-15T12:19:06.555622Z | registry-derived |
+| [object_store](../records/rust-object-store-cd8fea69.md) | 0.14.2 | 2026-09-15T15:15:46.622836Z | registry-derived |
 | [pin-project-internal](../records/rust-pin-project-internal-b0497359.md) | 1.1.13 | 2026-05-13T18:32:07.416866Z | registry-derived |
 | [plain](../records/rust-plain-705532e2.md) | 0.2.3 | 2017-11-24T15:28:33.966750Z | registry-derived |
 | [pulldown-cmark-escape](../records/rust-pulldown-cmark-escape-c082e7b5.md) | 0.11.0 | 2024-05-15T17:28:34.983330Z | crates_io |
@@ -2056,7 +2056,7 @@ Records: `2183`
 | [actix-web](../records/rust-actix-web-e495971a.md) | 4.15.0 | 2026-08-21T19:31:31.356389Z | registry-derived |
 | [aligned](../records/rust-aligned-245f08da.md) | 0.4.3 | 2025-12-15T09:28:04.440984Z | crates_io |
 | [android-tzdata](../records/rust-android-tzdata-a484d5c8.md) | 0.1.1 | 2023-03-05T09:25:18.541477Z | registry-derived |
-| [arrow-cast](../records/rust-arrow-cast-3b73debe.md) | 59.3.0 | 2026-09-01T10:38:18.325847Z | registry-derived |
+| [arrow-cast](../records/rust-arrow-cast-3b73debe.md) | 60.0.0 | 2026-09-15T15:30:24.303459Z | registry-derived |
 | [asn1-rs](../records/rust-asn1-rs-3c753ed8.md) | 0.7.2 | 2026-05-18T10:29:49.550731Z | registry-derived |
 | [ast_node](../records/rust-ast-node-354a9722.md) | 7.0.0 | 2026-08-14T13:08:23.520297Z | crates_io |
 | [async-broadcast](../records/rust-async-broadcast-e1698add.md) | 0.7.2 | 2024-12-23T21:10:23.927278Z | registry-derived |

@@ -1,6 +1,6 @@
 # Testing Framework
 
-Records: `658`
+Records: `659`
 
 ## Navigation
 
@@ -9,21 +9,21 @@ Records: `658`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1049)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (257)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1528)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6222)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
-[Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (658)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
+[Templating (2)](templating.md) · **[Testing Framework (659)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
 [Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (657)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
 
 ## C99
@@ -170,7 +170,7 @@ Records: `658`
 | @fast-check/jest | 2.3.0 | 2026-09-11T07:51:16.759Z | [open](../records/node-js-javascript-fast-check-jest-ed4afdb6.md) |
 | @fast-check/vitest | 0.5.0 | 2026-09-11T07:53:32.669Z | [open](../records/node-js-javascript-fast-check-vitest-b73d0fd0.md) |
 | @fedify/testing | 2.3.7 | 2026-09-15T07:41:26.586Z | [open](../records/node-js-javascript-fedify-testing-fe851537.md) |
-| @genesislcap/foundation-testing | 15.31.0 | 2026-09-15T13:28:35.116Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| @genesislcap/foundation-testing | 15.32.0 | 2026-09-15T14:42:47.382Z | [open](../records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
 | @golevelup/ts-jest | 3.0.0 | 2026-03-18T20:15:21.180Z | [open](../records/node-js-javascript-golevelup-ts-jest-8e9a6da8.md) |
 | @golevelup/ts-vitest | 4.0.0 | 2026-03-18T20:15:23.670Z | [open](../records/node-js-javascript-golevelup-ts-vitest-366a948f.md) |
 | @graphql-codegen/testing | 5.0.2 | 2026-09-13T09:02:55.303Z | [open](../records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
@@ -281,6 +281,7 @@ Records: `658`
 | babel-plugin-tester | 12.0.0 | 2025-06-14T11:53:52.570Z | [open](../records/node-js-javascript-babel-plugin-tester-d13f961e.md) |
 | bats | 1.13.0 | 2025-11-07T16:17:56.231Z | [open](../records/node-js-javascript-bats-fbd083a0.md) |
 | bs-dom-testing-library | 0.7.0 | 2020-10-21T12:17:32.984Z | [open](../records/node-js-javascript-bs-dom-testing-library-4608d821.md) |
+| bs-react-testing-library | 0.8.0 | 2020-10-21T12:39:36.201Z | [open](../records/node-js-javascript-bs-react-testing-library-b53c0d92.md) |
 | chai-http | 5.1.2 | 2025-05-02T10:12:41.134Z | [open](../records/node-js-javascript-chai-http-410bbc52.md) |
 | chromatic | 18.8.1 | 2026-09-11T15:09:03.730Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
 | cli-testing-library | 4.0.0 | 2026-08-11T05:46:42.024Z | [open](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
@@ -541,7 +542,7 @@ Records: `658`
 | uri-bytestring | 0.4.0.1 | 2025-04-10T16:35:16Z | [open](../records/haskell-uri-bytestring-a09e0036.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
 | yampa-test | 0.15 | 2025-02-28T06:55:50Z | [open](../records/haskell-yampa-test-2be489e4.md) |
-| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
