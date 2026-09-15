@@ -8,23 +8,23 @@ Records: `451`
 
 ## Category Index
 
-[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · **[Package Manager (451)](package-manager.md)** · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -411,7 +411,7 @@ Records: `451`
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | partial | 2025-06-22T20:06:32Z | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
 | modelscope/FunASR | partial | 2026-09-10T10:59:25Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
-| open-audio-stack/open-audio-stack-registry | partial | 2026-09-10T03:37:47Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
+| open-audio-stack/open-audio-stack-registry | partial | 2026-09-12T03:55:08Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video
 
@@ -419,12 +419,12 @@ Records: `451`
 | --- | --- | --- | --- |
 | AzuraCast/AzuraCast | partial | 2026-09-03T04:46:56Z | [open](../records/video-azuracast-azuracast-d01011b2.md) |
 | calesthio/OpenMontage | partial | 2026-09-06T05:02:34Z | [open](../records/video-calesthio-openmontage-675312f7.md) |
-| google-ai-edge/mediapipe | partial | 2026-09-11T15:30:36Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
+| google-ai-edge/mediapipe | partial | 2026-09-15T03:44:15Z | [open](../records/video-google-ai-edge-mediapipe-a0c51472.md) |
 | kaltura/platform-install-packages | partial | 2023-03-31T20:11:47Z | [open](../records/video-kaltura-platform-install-packages-da4f9d30.md) |
 | memvid/memvid | partial | 2026-07-14T14:39:07Z | [open](../records/video-memvid-memvid-bb0d9def.md) |
 | pathwaycom/pathway | partial | 2026-09-04T13:04:04Z | [open](../records/video-pathwaycom-pathway-a50dba92.md) |
 | rushindrasinha/youtube-shorts-pipeline | partial | 2026-06-09T23:55:00Z | [open](../records/video-rushindrasinha-youtube-shorts-pipeline-6bc17552.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-14T15:21:11Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-14T21:03:36Z | [open](../records/video-snapotter-hq-snapotter-7f75c7aa.md) |
 | streamlink/streamlink | partial | 2026-09-03T21:24:55Z | [open](../records/video-streamlink-streamlink-ff62fe99.md) |
 | TeamNewPipe/NewPipe | partial | 2026-08-31T12:57:33Z | [open](../records/video-teamnewpipe-newpipe-c1ab8a41.md) |
 | towhee-io/towhee | partial | 2024-10-18T00:01:12Z | [open](../records/video-towhee-io-towhee-12a64678.md) |
@@ -454,7 +454,7 @@ Records: `451`
 | hallvaaw/awesome-biological-image-analysis | partial | 2026-09-01T08:44:58Z | [open](../records/microscopy-hallvaaw-awesome-biological-image-analysis-b00b91fa.md) |
 | lachlanchen/OpenHI | partial | 2026-09-11T04:13:53Z | [open](../records/microscopy-lachlanchen-openhi-6563c12a.md) |
 | nf-core/mcmicro | partial | 2026-09-11T15:24:32Z | [open](../records/microscopy-nf-core-mcmicro-5fb60926.md) |
-| nf-core/spatialvi | partial | 2026-09-11T16:08:39Z | [open](../records/microscopy-nf-core-spatialvi-764d8d93.md) |
+| nf-core/spatialvi | partial | 2026-09-15T08:17:08Z | [open](../records/microscopy-nf-core-spatialvi-764d8d93.md) |
 | SPerrott22/Deepcell-to-QuPath | partial | 2025-04-26T00:18:52Z | [open](../records/microscopy-sperrott22-deepcell-to-qupath-1da4c7e2.md) |
 
 ## Telescopes

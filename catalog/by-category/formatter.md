@@ -8,23 +8,23 @@ Records: `675`
 
 ## Category Index
 
-[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · **[Formatter (675)](formatter.md)**
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · **[Formatter (675)](formatter.md)**
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -550,7 +550,7 @@ Records: `675`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-15T07:20:16Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-15T08:17:38Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -719,7 +719,7 @@ Records: `675`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| atsushieno/aap-core | partial | 2026-09-11T09:14:36Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
+| atsushieno/aap-core | partial | 2026-09-11T14:16:08Z | [open](../records/audio-atsushieno-aap-core-1b7d89bc.md) |
 | blackboxaudio/rotor | partial | 2024-11-21T23:50:42Z | [open](../records/audio-blackboxaudio-rotor-d437cf29.md) |
 | blackcandy-org/blackcandy | partial | 2026-09-09T10:23:45Z | [open](../records/audio-blackcandy-org-blackcandy-e95601ca.md) |
 | elk-audio/mda-vst3 | partial | 2022-11-14T09:26:47Z | [open](../records/audio-elk-audio-mda-vst3-c4b43ffb.md) |
@@ -759,12 +759,12 @@ Records: `675`
 | jark006/JarkViewer | partial | 2026-06-30T18:46:05Z | [open](../records/photography-jark006-jarkviewer-384c10ce.md) |
 | jmathai/elodie | unknown | github_search_does_not_include_release_date | [open](../records/photography-jmathai-elodie-960b91b7.md) |
 | karimz1/imgcompress | partial | 2026-09-14T09:30:47Z | [open](../records/photography-karimz1-imgcompress-ec2fa997.md) |
-| libjxl/libjxl | partial | 2026-09-14T02:48:47Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
+| libjxl/libjxl | partial | 2026-09-15T02:47:56Z | [open](../records/photography-libjxl-libjxl-3d901151.md) |
 | mdouchement/hdr | partial | 2023-02-04T12:19:10Z | [open](../records/photography-mdouchement-hdr-30201254.md) |
 | mz2/Carpaccio | partial | 2023-06-10T06:49:52Z | [open](../records/photography-mz2-carpaccio-47bb21ca.md) |
 | QQxiaoming/YUVviewer | partial | 2026-06-27T03:38:01Z | [open](../records/photography-qqxiaoming-yuvviewer-c08a90b9.md) |
 | rfrench/gify | partial | 2023-03-08T22:03:16Z | [open](../records/photography-rfrench-gify-e7a0c938.md) |
-| skymanbp/autoshade | partial | 2026-09-14T03:31:27Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
+| skymanbp/autoshade | partial | 2026-09-15T08:19:32Z | [open](../records/photography-skymanbp-autoshade-295e9968.md) |
 | wasabeef/glide-transformations | partial | 2022-03-08T16:07:21Z | [open](../records/photography-wasabeef-glide-transformations-6efa38dc.md) |
 | webp-sh/webp_server_go | partial | 2026-09-11T02:42:57Z | [open](../records/photography-webp-sh-webp-server-go-e607ab44.md) |
 | WeTransfer/format_parser | partial | 2024-12-11T15:22:35Z | [open](../records/photography-wetransfer-format-parser-a46c542e.md) |

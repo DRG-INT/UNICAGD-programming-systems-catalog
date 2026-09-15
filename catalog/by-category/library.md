@@ -1,6 +1,6 @@
 # Library
 
-Records: `6206`
+Records: `6207`
 
 ## Navigation
 
@@ -8,23 +8,23 @@ Records: `6206`
 
 ## Category Index
 
-[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · **[Library (6206)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · **[Library (6207)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C99
 
@@ -2519,6 +2519,7 @@ Records: `6206`
 | betareg | 3.2-6 | 2026-08-26 09:20:02 UTC | [open](../records/r-betareg-5d118ac0.md) |
 | betaregscale | 2.7.4 | 2026-08-23 18:00:02 UTC | [open](../records/r-betaregscale-5b141637.md) |
 | betaselectr | 0.2.4 | 2026-09-06 02:20:02 UTC | [open](../records/r-betaselectr-7331a032.md) |
+| bfbin2arm | 0.1.6 | 2026-09-15 07:40:02 UTC | [open](../records/r-bfbin2arm-8356eed2.md) |
 | bigalgebra | 3.1.1 | 2026-09-09 10:30:03 UTC | [open](../records/r-bigalgebra-8ea4b62f.md) |
 | bigDM | 0.5.8 | 2026-08-19 16:20:02 UTC | [open](../records/r-bigdm-f8716048.md) |
 | biglasso | 1.7.2 | 2026-08-25 11:01:05 UTC | [open](../records/r-biglasso-a39dae39.md) |
@@ -5500,7 +5501,7 @@ Records: `6206`
 | cdcseacave/TinyEXIF | partial | 2026-08-23T08:51:46Z | [open](../records/photography-cdcseacave-tinyexif-dfc5e6f5.md) |
 | CJT2325/CameraView | partial | 2019-06-18T13:42:24Z | [open](../records/photography-cjt2325-cameraview-689639ed.md) |
 | colorjs/color-space | partial | 2026-08-21T14:16:27Z | [open](../records/photography-colorjs-color-space-61c0254c.md) |
-| commons-app/apps-android-commons | partial | 2026-09-14T12:00:37Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
+| commons-app/apps-android-commons | partial | 2026-09-15T00:48:27Z | [open](../records/photography-commons-app-apps-android-commons-ce212c3e.md) |
 | crazycodeboy/TakePhoto | partial | 2019-08-26T09:42:27Z | [open](../records/photography-crazycodeboy-takephoto-a3e04a78.md) |
 | dearDreamWeb/camera-watermark | partial | 2026-04-20T14:12:10Z | [open](../records/photography-deardreamweb-camera-watermark-f0af2ad8.md) |
 | dorukkumkumoglu/optocamzero | partial | 2026-08-16T08:16:43Z | [open](../records/photography-dorukkumkumoglu-optocamzero-b51f52d8.md) |
@@ -5533,7 +5534,7 @@ Records: `6206`
 | McNopper/EGL | partial | 2026-08-01T18:15:48Z | [open](../records/photography-mcnopper-egl-83a16f1c.md) |
 | meetqy/rao-pics | partial | 2026-09-12T16:49:34Z | [open](../records/photography-meetqy-rao-pics-057514e9.md) |
 | meiu/meiupic | partial | 2021-07-07T16:28:33Z | [open](../records/photography-meiu-meiupic-d61ca921.md) |
-| motioneye-project/motioneye | partial | 2026-09-14T21:22:46Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
+| motioneye-project/motioneye | partial | 2026-09-14T23:58:38Z | [open](../records/photography-motioneye-project-motioneye-6759b14c.md) |
 | mustakshif/Asri | partial | 2026-09-09T05:02:59Z | [open](../records/photography-mustakshif-asri-d6fbc7e4.md) |
 | natural-harmonia-gropius/hdr-toys | partial | 2026-09-13T14:27:03Z | [open](../records/photography-natural-harmonia-gropius-hdr-toys-165c3563.md) |
 | NextLevel/NextLevel | partial | 2026-06-08T04:57:05Z | [open](../records/photography-nextlevel-nextlevel-f32b041f.md) |
@@ -5608,7 +5609,7 @@ Records: `6206`
 | denkywu/Simulation-of-SAR-Imaging-Algorithm | partial | 2020-09-03T03:54:58Z | [open](../records/radars-denkywu-simulation-of-sar-imaging-algorithm-e7abd64c.md) |
 | dpaulat/supercell-wx | partial | 2026-09-12T20:24:13Z | [open](../records/radars-dpaulat-supercell-wx-216e49cf.md) |
 | dz0ny/meshcore-sar | partial | 2026-09-04T14:59:38Z | [open](../records/radars-dz0ny-meshcore-sar-633f07d9.md) |
-| earthobservations/wetterdienst | partial | 2026-09-14T22:41:53Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
+| earthobservations/wetterdienst | partial | 2026-09-15T06:41:59Z | [open](../records/radars-earthobservations-wetterdienst-4494a41f.md) |
 | Erensu/ignav | partial | 2021-12-07T02:09:44Z | [open](../records/radars-erensu-ignav-9cdb787e.md) |
 | erikliland/pyMHT | partial | 2023-09-19T11:10:15Z | [open](../records/radars-erikliland-pymht-6bcd5586.md) |
 | ethanhuang13/ladybug | partial | 2019-12-26T07:04:26Z | [open](../records/radars-ethanhuang13-ladybug-9ff29291.md) |

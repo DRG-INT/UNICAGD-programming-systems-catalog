@@ -4,23 +4,23 @@
 
 ## Category Index
 
-[Api Abi Checker (239)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Api Abi Checker (240)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
 [Benchmarking (211)](by-category/benchmarking.md) · [Build System (1048)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (986)](by-category/database-datastore.md) · [Datetime (257)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1735)](by-category/filesystem-os.md) · [Formatter (675)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1737)](by-category/filesystem-os.md) · [Formatter (675)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1527)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6206)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6207)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (598)](by-category/logging-observability.md) · [Machine Learning (876)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1102)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1251)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (655)](by-category/visualization-gui.md) · [Web Framework (502)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1403,6 +1403,7 @@
 | `cran_packages_by_date-44c594892758aa` | ggchangepoint | [open](records/r-ggchangepoint-b265a91b.md) |
 | `cran_packages_by_date-44e493bf39e238` | glmbayes | [open](records/r-glmbayes-0cad0f3c.md) |
 | `cran_packages_by_date-44edc4cc0e549c` | rcompanion | [open](records/r-rcompanion-9895bbbc.md) |
+| `cran_packages_by_date-452ea1272974a4` | distplyr | [open](records/r-distplyr-c0fd3b57.md) |
 | `cran_packages_by_date-45342cdd23f007` | BIDistances | [open](records/r-bidistances-4d1001bb.md) |
 | `cran_packages_by_date-45473be8d11b66` | uaparserjs | [open](records/r-uaparserjs-32bee147.md) |
 | `cran_packages_by_date-45508a1e3fa5de` | deli | [open](records/r-deli-81ac1128.md) |
@@ -2200,6 +2201,7 @@
 | `cran_packages_by_date-a0586b5eb1141c` | embryogrowth | [open](records/r-embryogrowth-6d261bd1.md) |
 | `cran_packages_by_date-a05987b0709e75` | MetaEntropy | [open](records/r-metaentropy-02910165.md) |
 | `cran_packages_by_date-a063a6acccfd3b` | hydrogeofetch | [open](records/r-hydrogeofetch-e0474996.md) |
+| `cran_packages_by_date-a07e75a606088c` | bfbin2arm | [open](records/r-bfbin2arm-8356eed2.md) |
 | `cran_packages_by_date-a087cd817d9692` | power.transform | [open](records/r-power-transform-b4951bac.md) |
 | `cran_packages_by_date-a09f87a768ee9c` | CRAFT | [open](records/r-craft-5b0b7a62.md) |
 | `cran_packages_by_date-a0a0f7ca81e20d` | SuperLearner | [open](records/r-superlearner-1dbd87f3.md) |
@@ -2652,6 +2654,7 @@
 | `cran_packages_by_date-d8949f2e5d92a8` | CLDedgelister | [open](records/r-cldedgelister-12643d0d.md) |
 | `cran_packages_by_date-d8a29c142a4362` | checker | [open](records/r-checker-4a867235.md) |
 | `cran_packages_by_date-d8beb6de74b806` | wcswatin | [open](records/r-wcswatin-d3d2f92f.md) |
+| `cran_packages_by_date-d8f93a1f592ca1` | GLMMcosinor | [open](records/r-glmmcosinor-69af848a.md) |
 | `cran_packages_by_date-d9646790eaadf3` | graphvec | [open](records/r-graphvec-9d46eb2d.md) |
 | `cran_packages_by_date-d96502edbb00b3` | geostatsp | [open](records/r-geostatsp-0adaba0c.md) |
 | `cran_packages_by_date-d98cdcce215a17` | rzig | [open](records/r-rzig-3ceb06a1.md) |
@@ -2769,6 +2772,7 @@
 | `cran_packages_by_date-e50a5f57e2bc5e` | glmbayesCore | [open](records/r-glmbayescore-4ea591fe.md) |
 | `cran_packages_by_date-e588c5ac249184` | occCite | [open](records/r-occcite-1c3f2ee1.md) |
 | `cran_packages_by_date-e5a85936d60354` | gbif.range | [open](records/r-gbif-range-527eaf4d.md) |
+| `cran_packages_by_date-e5d77809216b55` | RDHonest | [open](records/r-rdhonest-68839334.md) |
 | `cran_packages_by_date-e5dd365da02e7a` | reactRouter | [open](records/r-reactrouter-331dc40d.md) |
 | `cran_packages_by_date-e6155a81157a95` | pagedown | [open](records/r-pagedown-0f6fe140.md) |
 | `cran_packages_by_date-e67479edd393cc` | ellmer | [open](records/r-ellmer-66e8b3ee.md) |
@@ -6875,6 +6879,7 @@
 | `github_search_audio-40e7c344c9a188` | peastman/ChorusExMachina | [open](records/audio-peastman-chorusexmachina-3e17f778.md) |
 | `github_search_audio-40fe4c9bbcd146` | mixxxdj/mixxx | [open](records/audio-mixxxdj-mixxx-c62cc22f.md) |
 | `github_search_audio-416bc3c70018d6` | seehiong/noteflow | [open](records/audio-seehiong-noteflow-25a87e06.md) |
+| `github_search_audio-41ca549ab44134` | agamrossen/VolAnti | [open](records/audio-agamrossen-volanti-137fa50a.md) |
 | `github_search_audio-41de621aee2a39` | jpcima/ADLplug | [open](records/audio-jpcima-adlplug-39ccc0a3.md) |
 | `github_search_audio-424d58e4350b60` | probonopd/MiniDexed | [open](records/audio-probonopd-minidexed-5507dcd2.md) |
 | `github_search_audio-4299a31d6565dd` | schellingb/TinySoundFont | [open](records/audio-schellingb-tinysoundfont-3bc15017.md) |

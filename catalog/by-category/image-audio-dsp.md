@@ -8,23 +8,23 @@ Records: `451`
 
 ## Category Index
 
-[Api Abi Checker (239)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
+[Api Abi Checker (240)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
 [Benchmarking (211)](benchmarking.md) · [Build System (1048)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (986)](database-datastore.md) · [Datetime (257)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (116)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1735)](filesystem-os.md) · [Formatter (675)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (491)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (675)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (67)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1527)](ide-editor-integration.md)
 **[Image Audio Dsp (451)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (291)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6206)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1474)](language-specification.md) · [Library (6207)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (350)](linter.md) · [Logging Observability (598)](logging-observability.md) · [Machine Learning (876)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (105)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1102)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1251)](parser-lexer-ast.md) · [Precommit Ci Quality (327)](precommit-ci-quality.md)
 [Profiler (99)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (688)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (657)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (319)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (654)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (655)](visualization-gui.md) · [Web Framework (502)](web-framework.md)
 
 ## C++23
 
@@ -298,7 +298,7 @@ Records: `451`
 | alyssaxuu/screenity | partial | 2026-09-13T14:02:29Z | [open](../records/audio-alyssaxuu-screenity-12b2e5cf.md) |
 | Ameobea/web-synth | partial | 2026-08-13T07:15:16Z | [open](../records/audio-ameobea-web-synth-bbcd97d3.md) |
 | amsynth/amsynth | partial | 2026-07-14T10:21:45Z | [open](../records/audio-amsynth-amsynth-d2f54c63.md) |
-| andremichelle/openDAW | partial | 2026-09-14T19:37:11Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
+| andremichelle/openDAW | partial | 2026-09-15T08:07:06Z | [open](../records/audio-andremichelle-opendaw-ecd83ddd.md) |
 | Ankalot/XenRoll | partial | 2026-07-09T09:25:03Z | [open](../records/audio-ankalot-xenroll-4c124fc2.md) |
 | apfaudio/eurorack-pmod | partial | 2026-01-29T21:53:26Z | [open](../records/audio-apfaudio-eurorack-pmod-56004258.md) |
 | ar1st0crat/NWaves | partial | 2022-09-27T18:42:31Z | [open](../records/audio-ar1st0crat-nwaves-3e35452a.md) |
@@ -325,7 +325,7 @@ Records: `451`
 | ffmpegwasm/ffmpeg.wasm | partial | 2026-02-01T08:35:30Z | [open](../records/audio-ffmpegwasm-ffmpeg-wasm-9b9d7a50.md) |
 | fgnt/pb_bss | partial | 2025-05-19T09:09:42Z | [open](../records/audio-fgnt-pb-bss-f15b9a38.md) |
 | File-New-Project/EarTrumpet | partial | 2026-09-13T00:45:39Z | [open](../records/audio-file-new-project-eartrumpet-cd979706.md) |
-| floe-audio/Floe | partial | 2026-09-10T14:40:18Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
+| floe-audio/Floe | partial | 2026-09-14T18:45:04Z | [open](../records/audio-floe-audio-floe-493f97d2.md) |
 | FredAntonCorvest/Common-AudioUnit-V3 | partial | 2017-05-17T20:31:15Z | [open](../records/audio-fredantoncorvest-common-audiounit-v3-3fe8d640.md) |
 | FredAntonCorvest/CreatingCustomAudioEffects-Universal | partial | 2022-01-23T19:08:38Z | [open](../records/audio-fredantoncorvest-creatingcustomaudioeffects-universal-dd850458.md) |
 | freeman-jiang/beatsync | partial | 2026-06-12T18:53:27Z | [open](../records/audio-freeman-jiang-beatsync-bdcabddc.md) |
@@ -340,7 +340,7 @@ Records: `451`
 | GullDSP/Circulate-VST | partial | 2026-06-29T00:30:46Z | [open](../records/audio-gulldsp-circulate-vst-58e43839.md) |
 | hollance/synth-plugin-book | partial | 2024-06-22T16:06:23Z | [open](../records/audio-hollance-synth-plugin-book-e6e2ebe2.md) |
 | hollance/synth-recipes | partial | 2023-07-22T17:14:14Z | [open](../records/audio-hollance-synth-recipes-dbad6169.md) |
-| hqrrr/PerceptoMap | partial | 2026-09-11T08:48:55Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
+| hqrrr/PerceptoMap | partial | 2026-09-14T09:44:20Z | [open](../records/audio-hqrrr-perceptomap-9176716f.md) |
 | hukenovs/dsp-theory | partial | 2026-04-21T18:12:35Z | [open](../records/audio-hukenovs-dsp-theory-fa2c75ff.md) |
 | iampawan/Flute-Music-Player | partial | 2020-12-30T15:43:12Z | [open](../records/audio-iampawan-flute-music-player-08b19a30.md) |
 | increpare/bfxr2 | partial | 2026-07-26T09:59:55Z | [open](../records/audio-increpare-bfxr2-16674ccc.md) |
@@ -411,7 +411,7 @@ Records: `451`
 | unevens/Overdraw | partial | 2026-05-27T04:30:14Z | [open](../records/audio-unevens-overdraw-ee5e80f4.md) |
 | usdivad/Melodrumatic | partial | 2022-01-01T01:00:54Z | [open](../records/audio-usdivad-melodrumatic-2b42d019.md) |
 | webprofusion/OpenAudio | partial | 2026-08-26T07:08:44Z | [open](../records/audio-webprofusion-openaudio-3e463f4f.md) |
-| xdsopl/robot36 | partial | 2025-11-11T10:06:19Z | [open](../records/audio-xdsopl-robot36-6b99e83d.md) |
+| xdsopl/robot36 | partial | 2026-09-15T07:54:48Z | [open](../records/audio-xdsopl-robot36-6b99e83d.md) |
 | yandexdataschool/speech_course | partial | 2026-05-18T13:35:01Z | [open](../records/audio-yandexdataschool-speech-course-6265981b.md) |
 | ybayle/awesome-deep-learning-music | partial | 2023-12-15T16:51:26Z | [open](../records/audio-ybayle-awesome-deep-learning-music-588a9145.md) |
 | zamaudio/zam-plugins | partial | 2026-07-28T08:05:32Z | [open](../records/audio-zamaudio-zam-plugins-eeb95218.md) |
