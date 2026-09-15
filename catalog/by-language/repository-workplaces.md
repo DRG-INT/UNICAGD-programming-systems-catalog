@@ -1,6 +1,6 @@
 # Repository Workplaces
 
-Records: `530`
+Records: `533`
 
 ## Navigation
 
@@ -13,17 +13,17 @@ Records: `530`
 [Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
 [Cryptography (183)](../by-category/cryptography.md) · [Data Science (41)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (116)](../by-category/documentation.md)
+[Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1738)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6237)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6238)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
 [Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1109)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (451)](../by-category/package-manager.md) · [Parser Lexer Ast (1254)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (135)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (699)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (660)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (660)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
 [Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](../by-category/utility-library.md) · [Visualization Gui (658)](../by-category/visualization-gui.md) · [Web Framework (506)](../by-category/web-framework.md)
 
 ## Categories
@@ -180,6 +180,7 @@ Records: `530`
 | [Gitea API](../records/repository-workplaces-gitea-api-21f55527.md) | unknown | official_workplace_route_requires_source_specific_release_lookup | registry-derived |
 | [Gitea: Anaya56/ElectricPowerSteering_ECU_EPS_Documentation](../records/repository-workplaces-gitea-anaya56-electricpowersteering-ecu-eps-documentation-a1f789e2.md) | partial | 2025-05-10T20:04:19Z | registry-derived |
 | [Gitea: evgeniy-antonyuk/DocSpace-server](../records/repository-workplaces-gitea-evgeniy-antonyuk-docspace-server-e16c0ba8.md) | partial | 2025-08-13T12:26:53Z | registry-derived |
+| [Gitea: Exey0u/tz-documentation](../records/repository-workplaces-gitea-exey0u-tz-documentation-0317026a.md) | partial | 2026-09-07T11:03:46Z | registry-derived |
 | [Gitea: gofulljs/gitbook](../records/repository-workplaces-gitea-gofulljs-gitbook-d20d2f95.md) | partial | 2024-05-13T10:05:55Z | registry-derived |
 | [Gitea: kriper2005/OP5Documentation](../records/repository-workplaces-gitea-kriper2005-op5documentation-ef340f06.md) | partial | 2023-12-21T04:28:19Z | registry-derived |
 | [Gitea: lgh06/docker-library_docs](../records/repository-workplaces-gitea-lgh06-docker-library-docs-f3d39561.md) | partial | 2023-12-27T05:37:32Z | registry-derived |
@@ -344,6 +345,7 @@ Records: `530`
 | [Gitea: decheverri123/flutter_library](../records/repository-workplaces-gitea-decheverri123-flutter-library-197bd7c2.md) | partial | 2023-07-28T18:41:42Z | registry-derived |
 | [Gitea: DeFiLego/devops](../records/repository-workplaces-gitea-defilego-devops-855ec672.md) | partial | 2025-08-13T10:55:07Z | registry-derived |
 | [Gitea: dh.azdevops.othau/dh.azdevops.othau](../records/repository-workplaces-gitea-dh-azdevops-othau-dh-azdevops-othau-d160d458.md) | partial | 2026-01-24T14:38:02Z | registry-derived |
+| [Gitea: dreamstudio/music-library](../records/repository-workplaces-gitea-dreamstudio-music-library-db74e672.md) | partial | 2026-09-14T11:31:08Z | registry-derived |
 | [Gitea: Elight-dotcom/devops](../records/repository-workplaces-gitea-elight-dotcom-devops-fedd520e.md) | partial | 2025-11-29T05:46:52Z | registry-derived |
 | [Gitea: er_man/ithb_e_library](../records/repository-workplaces-gitea-er-man-ithb-e-library-67ebcdf7.md) | partial | 2026-03-12T14:08:33Z | registry-derived |
 | [Gitea: fighting7ta/library_management_system](../records/repository-workplaces-gitea-fighting7ta-library-management-system-6d1ae866.md) | partial | 2025-11-29T11:12:40Z | registry-derived |
@@ -654,6 +656,12 @@ Records: `530`
 | [Gitea: nhanpt/config-server-test](../records/repository-workplaces-gitea-nhanpt-config-server-test-694815eb.md) | partial | 2023-12-28T08:40:58Z | registry-derived |
 | [Gitea: sillyguodong/asciicast_test](../records/repository-workplaces-gitea-sillyguodong-asciicast-test-bbac7031.md) | partial | 2023-04-21T03:04:25Z | registry-derived |
 | [postgres-ai/database-lab](../records/repository-workplaces-postgres-ai-database-lab-87d74ca8.md) | partial | 2026-09-15T13:59:57.444Z | registry-derived |
+
+### Tutorial Book Styleguide
+
+| Name | Release | Date | Source |
+| --- | --- | --- | --- |
+| [Gitea: shivishbrahma/library-books](../records/repository-workplaces-gitea-shivishbrahma-library-books-82bb8ff7.md) | partial | 2026-09-15T10:14:49Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 

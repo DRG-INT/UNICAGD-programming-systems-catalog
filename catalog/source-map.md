@@ -9,17 +9,17 @@
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
-[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
+[Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1738)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6237)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6238)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (600)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1109)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (451)](by-category/package-manager.md) · [Parser Lexer Ast (1254)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (699)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (660)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (321)](by-category/type-checker.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (660)](by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](by-category/tutorial-book-styleguide.md) · [Type Checker (321)](by-category/type-checker.md)
 [Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (658)](by-category/visualization-gui.md) · [Web Framework (506)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
@@ -5810,6 +5810,7 @@
 | `gitea_repositories_api-46248494522c2b` | Gitea: lcark/gitea | [open](records/repository-workplaces-gitea-lcark-gitea-ab4a7bf0.md) |
 | `gitea_repositories_api-474741db67a4e7` | Gitea: DsyO/ai-wechat-article-library | [open](records/repository-workplaces-gitea-dsyo-ai-wechat-article-library-9e311b4c.md) |
 | `gitea_repositories_api-479ea948259400` | Gitea: unatick/1panel-runtime-update | [open](records/repository-workplaces-gitea-unatick-1panel-runtime-update-98638045.md) |
+| `gitea_repositories_api-47cb65982c6096` | Gitea: shivishbrahma/library-books | [open](records/repository-workplaces-gitea-shivishbrahma-library-books-82bb8ff7.md) |
 | `gitea_repositories_api-48679d7007f7dd` | Gitea: Shadowchoir/Library-of-Communication | [open](records/repository-workplaces-gitea-shadowchoir-library-of-communication-ee0cf6fe.md) |
 | `gitea_repositories_api-49b4074aa9df2a` | Gitea: bkikenski/DevOps-Demo-Project | [open](records/repository-workplaces-gitea-bkikenski-devops-demo-project-e84af9d7.md) |
 | `gitea_repositories_api-4b20fd095d8526` | Gitea: KartikSharma2442/Artificial | [open](records/repository-workplaces-gitea-kartiksharma2442-artificial-dec5f16f.md) |
@@ -5833,6 +5834,7 @@
 | `gitea_repositories_api-59388cedd07337` | Gitea: is-xtreme-hd-iptv-legal/best-iptv-server | [open](records/repository-workplaces-gitea-is-xtreme-hd-iptv-legal-best-iptv-server-3681b962.md) |
 | `gitea_repositories_api-5955831f042ea6` | Gitea: APYieldFarmer/devops | [open](records/repository-workplaces-gitea-apyieldfarmer-devops-0041de3d.md) |
 | `gitea_repositories_api-5a6ab174086f25` | Gitea: ElliotRedmond/Achieve-Cisco-300-730-Certification-Success--Your-Strategic-Partner-with-CertsBoard | [open](records/repository-workplaces-gitea-elliotredmond-achieve-cisco-300-730-certification-success-your-strategic-partner-with-certsboard-45c77640.md) |
+| `gitea_repositories_api-5ab2c9731f4832` | Gitea: dreamstudio/music-library | [open](records/repository-workplaces-gitea-dreamstudio-music-library-db74e672.md) |
 | `gitea_repositories_api-5abad1c4e6779c` | Gitea: ML-Programs/ml-programming-language | [open](records/repository-workplaces-gitea-ml-programs-ml-programming-language-36acdbba.md) |
 | `gitea_repositories_api-5d0beb0a822522` | Gitea: dh.azdevops.logs/dh.azdevops.logs | [open](records/repository-workplaces-gitea-dh-azdevops-logs-dh-azdevops-logs-10e39849.md) |
 | `gitea_repositories_api-5ea5bb268c0b21` | Gitea: plumbum/esim-server | [open](records/repository-workplaces-gitea-plumbum-esim-server-717006d2.md) |
@@ -5891,6 +5893,7 @@
 | `gitea_repositories_api-96db2b11bda1fd` | Gitea: baocode0411/ascii-art-web | [open](records/repository-workplaces-gitea-baocode0411-ascii-art-web-e9dce736.md) |
 | `gitea_repositories_api-99a787dc63bc81` | Gitea: Savutro/go-commit-tooling | [open](records/repository-workplaces-gitea-savutro-go-commit-tooling-8c007c8a.md) |
 | `gitea_repositories_api-99ce2ca23c3031` | Gitea: arvin.zhang/findserver | [open](records/repository-workplaces-gitea-arvin-zhang-findserver-7ce28e17.md) |
+| `gitea_repositories_api-9ad2584922ea13` | Gitea: Exey0u/tz-documentation | [open](records/repository-workplaces-gitea-exey0u-tz-documentation-0317026a.md) |
 | `gitea_repositories_api-9e42560a81f347` | Gitea: lunny/weixinpay | [open](records/repository-workplaces-gitea-lunny-weixinpay-043d3749.md) |
 | `gitea_repositories_api-9ea4ff87247a7a` | Gitea: martinjohny167/cdevops-jenkins | [open](records/repository-workplaces-gitea-martinjohny167-cdevops-jenkins-19670642.md) |
 | `gitea_repositories_api-a00dbee876b49a` | Gitea: Elight-dotcom/devops | [open](records/repository-workplaces-gitea-elight-dotcom-devops-fedd520e.md) |
