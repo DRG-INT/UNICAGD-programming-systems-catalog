@@ -508,7 +508,7 @@ Records: `291`
 | jdbi/jdbi | partial | 2026-09-11T21:02:01Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
 | langchain4j/langchain4j | partial | 2026-09-09T10:24:50Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
-| pubkey/rxdb | partial | 2026-09-14T21:17:42Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
+| pubkey/rxdb | partial | 2026-09-15T01:11:09Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
 
 ## Repository Workplaces
 

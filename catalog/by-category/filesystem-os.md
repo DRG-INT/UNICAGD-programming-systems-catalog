@@ -606,7 +606,7 @@ Records: `1733`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T00:06:53Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T00:32:59Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -628,7 +628,7 @@ Records: `1733`
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-04T23:35:08Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-14T20:34:47Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-15T01:01:36Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 

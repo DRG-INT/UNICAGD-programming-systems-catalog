@@ -1178,7 +1178,7 @@ Records: `1676`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bytedance/deer-flow | partial | 2026-09-15T00:25:08Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
+| bytedance/deer-flow | partial | 2026-09-15T00:45:08Z | [open](../records/aim-s-bytedance-deer-flow-80bc77fd.md) |
 | sansan0/TrendRadar | partial | 2026-09-13T06:38:25Z | [open](../records/aim-s-sansan0-trendradar-72e65ee1.md) |
 | TencentCloud/TencentDB-Agent-Memory | partial | 2026-09-11T08:29:14Z | [open](../records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
 
@@ -1861,7 +1861,7 @@ Records: `1676`
 | debezium/debezium | partial | 2026-09-14T21:19:21Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-15T00:27:25Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-15T01:20:38Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-11T21:16:43Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |

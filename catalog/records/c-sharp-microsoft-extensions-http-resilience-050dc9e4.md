@@ -40,7 +40,7 @@ part of service communication, clients/servers, protocol handling, and edge inte
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; MIT; https://www.nuget.org/packages/Microsoft.Extensions.Http.Resilience/10.9.0/license |
+| Evidence | The Unlicense; https://api.github.com/licenses/unlicense; MIT; https://www.nuget.org/packages/Microsoft.Extensions.Http.Resilience/10.9.0/license |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

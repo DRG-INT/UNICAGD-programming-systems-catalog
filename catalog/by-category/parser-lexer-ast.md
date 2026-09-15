@@ -638,7 +638,7 @@ Records: `1248`
 | go.gary.cool/diecast | v1.17.35 | 2026-08-30T14:10:05.638889Z | [open](../records/go-go-gary-cool-diecast-e5dd52c7.md) |
 | gogf/gf | partial | 2026-09-14T10:51:35Z | [open](../records/go-gogf-gf-cf9bbe8f.md) |
 | gomods/athens | partial | 2026-09-09T01:30:44Z | [open](../records/go-gomods-athens-5ff0b837.md) |
-| GopeedLab/gopeed | partial | 2026-09-14T16:56:53Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
+| GopeedLab/gopeed | partial | 2026-09-15T01:15:31Z | [open](../records/go-gopeedlab-gopeed-1855093c.md) |
 | gravitational/teleport | partial | 2026-09-11T14:33:48Z | [open](../records/go-gravitational-teleport-6a32fe26.md) |
 | HyNetworks/hysteria | partial | 2026-09-14T06:53:02Z | [open](../records/go-hynetworks-hysteria-6f37132d.md) |
 | kovidgoyal/kitty | partial | 2026-09-14T16:36:42Z | [open](../records/go-kovidgoyal-kitty-9cff0795.md) |
@@ -1432,7 +1432,7 @@ Records: `1248`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | com.sap.cloud.sdk.services:recast-ai | 3.78.0 | 2022-12-19T12:44:13+00:00 | [open](../records/sapjava-com-sap-cloud-sdk-services-recast-ai-0fabd146.md) |
-| SAP/sailing-analytics | partial | 2026-09-13T03:33:31Z | [open](../records/sapjava-sap-sailing-analytics-18e68ac1.md) |
+| SAP/sailing-analytics | partial | 2026-09-14T22:20:46Z | [open](../records/sapjava-sap-sailing-analytics-18e68ac1.md) |
 
 ## Swift
 

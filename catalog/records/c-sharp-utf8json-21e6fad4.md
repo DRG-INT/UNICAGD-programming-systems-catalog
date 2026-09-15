@@ -39,9 +39,9 @@ style consistency, and automation-friendly editing.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""}; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

@@ -552,10 +552,10 @@ Records: `608`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-15T00:11:51Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-15T01:13:37Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-15T00:17:04Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-15T01:01:05Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -808,7 +808,7 @@ Records: `608`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-15T00:25:49Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-15T01:11:35Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

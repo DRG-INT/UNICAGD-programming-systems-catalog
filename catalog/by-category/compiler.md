@@ -308,7 +308,7 @@ Records: `182`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | tobymao/sqlglot | partial | 2026-09-14T14:13:42Z | [open](../records/databases-tobymao-sqlglot-016a1d6a.md) |
-| tursodatabase/turso | partial | 2026-09-14T22:49:35Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
+| tursodatabase/turso | partial | 2026-09-15T00:47:19Z | [open](../records/databases-tursodatabase-turso-bd117065.md) |
 
 ## Repository Workplaces
 

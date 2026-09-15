@@ -643,7 +643,7 @@ Records: `1046`
 | aspect-build/rules_py | partial | 2026-09-11T15:05:50Z | [open](../records/starlark-aspect-build-rules-py-910f4833.md) |
 | Bazel | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/starlark-bazel-189ae4a2.md) |
 | bazel-contrib/bazel-lib | partial | 2026-09-14T00:31:19Z | [open](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) |
-| bazel-contrib/rules_cuda | partial | 2026-09-07T18:02:27Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
+| bazel-contrib/rules_cuda | partial | 2026-09-15T00:40:57Z | [open](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) |
 | bazel-contrib/rules_dotnet | partial | 2026-09-14T09:22:12Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-14T19:04:56Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-11T11:50:47Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
@@ -686,15 +686,15 @@ Records: `1046`
 | --- | --- | --- | --- |
 | agentscope-ai/agentscope | partial | 2026-09-14T07:31:49Z | [open](../records/aim-s-agentscope-ai-agentscope-52a2aaa7.md) |
 | browser-use/browser-use | partial | 2026-09-07T19:55:36Z | [open](../records/aim-s-browser-use-browser-use-3a4135d4.md) |
-| ComposioHQ/composio | partial | 2026-09-15T00:05:20Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
-| CopilotKit/CopilotKit | partial | 2026-09-14T23:57:28Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
+| ComposioHQ/composio | partial | 2026-09-15T01:01:17Z | [open](../records/aim-s-composiohq-composio-aca55143.md) |
+| CopilotKit/CopilotKit | partial | 2026-09-15T00:58:54Z | [open](../records/aim-s-copilotkit-copilotkit-a4294d79.md) |
 | deepset-ai/haystack | partial | 2026-09-12T22:03:31Z | [open](../records/aim-s-deepset-ai-haystack-9a3ef275.md) |
 | DietrichGebert/ponytail | partial | 2026-09-14T14:34:56Z | [open](../records/aim-s-dietrichgebert-ponytail-2aa63d65.md) |
 | khoj-ai/khoj | partial | 2026-08-02T01:55:40Z | [open](../records/aim-s-khoj-ai-khoj-7c0ba8b7.md) |
 | langchain-ai/langgraph | partial | 2026-09-14T19:45:22Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-14T13:20:49Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-15T00:26:39Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-15T01:18:28Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-13T23:59:36Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
 | vercel/ai | partial | 2026-09-15T00:18:40Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
@@ -1224,7 +1224,7 @@ Records: `1046`
 | SAP-samples/ams-samples-java | partial | 2026-09-07T12:25:38Z | [open](../records/sapjava-sap-samples-ams-samples-java-fd68629e.md) |
 | SAP-samples/cap-sflight | partial | 2026-08-19T13:06:57Z | [open](../records/sapjava-sap-samples-cap-sflight-49ffa5d9.md) |
 | SAP/ai-sdk-java | partial | 2026-09-14T15:25:24Z | [open](../records/sapjava-sap-ai-sdk-java-e59084a9.md) |
-| SAP/cloud-sdk-java | partial | 2026-09-14T22:07:15Z | [open](../records/sapjava-sap-cloud-sdk-java-694206d3.md) |
+| SAP/cloud-sdk-java | partial | 2026-09-15T00:55:10Z | [open](../records/sapjava-sap-cloud-sdk-java-694206d3.md) |
 | THSRakesh/Employee-App | partial | 2026-01-22T12:48:14Z | [open](../records/sapjava-thsrakesh-employee-app-401aae99.md) |
 
 ## Swift
@@ -1301,7 +1301,7 @@ Records: `1046`
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | smart-data-lake/smart-data-lake | partial | 2026-09-11T09:51:58Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
-| supabase/supabase | partial | 2026-09-15T00:19:49Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-15T01:14:27Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-09-13T05:00:14Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |

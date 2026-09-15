@@ -696,7 +696,7 @@ Records: `1526`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-15T00:02:29Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-15T00:52:07Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
 | harry0703/MoneyPrinterTurbo | partial | 2026-09-14T12:55:58Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
 | hesreallyhim/awesome-claude-code | partial | 2026-09-15T00:28:24Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |

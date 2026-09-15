@@ -660,7 +660,7 @@ Records: `491`
 | cheng-alvin/jas | partial | 2026-04-23T12:31:32Z | [open](../records/assembly-cheng-alvin-jas-3c7aa7a0.md) |
 | encounter/objdiff | partial | 2026-08-29T22:14:27Z | [open](../records/assembly-encounter-objdiff-533f7383.md) |
 | hugsy/bochscpu-python | partial | 2025-08-10T17:01:32Z | [open](../records/assembly-hugsy-bochscpu-python-bba92484.md) |
-| KolibriOS/kolibrios | partial | 2026-09-14T22:29:05Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
+| KolibriOS/kolibrios | partial | 2026-09-15T01:18:07Z | [open](../records/assembly-kolibrios-kolibrios-ceca7961.md) |
 
 ## Pattern language
 
@@ -728,7 +728,7 @@ Records: `491`
 | rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-15T00:09:12Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-15T00:48:17Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 

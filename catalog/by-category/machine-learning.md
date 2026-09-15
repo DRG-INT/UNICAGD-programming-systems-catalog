@@ -516,7 +516,7 @@ Records: `872`
 | --- | --- | --- | --- |
 | ahujasid/blender-mcp | partial | 2026-09-07T15:51:01Z | [open](../records/aim-s-ahujasid-blender-mcp-814a3c64.md) |
 | bojieli/ai-agent-book | partial | 2026-09-14T09:25:34Z | [open](../records/aim-s-bojieli-ai-agent-book-5a1d8804.md) |
-| browser-use/browser-use | partial | 2026-09-13T20:04:16Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
+| browser-use/browser-use | partial | 2026-09-15T01:14:00Z | [open](../records/aim-s-browser-use-browser-use-09b3f053.md) |
 | chatchat-space/Langchain-Chatchat | partial | 2025-11-10T09:27:42Z | [open](../records/aim-s-chatchat-space-langchain-chatchat-074047ac.md) |
 | datawhalechina/happy-llm | partial | 2026-08-08T17:18:48Z | [open](../records/aim-s-datawhalechina-happy-llm-00d4ee33.md) |
 | datawhalechina/hello-agents | partial | 2026-09-04T09:03:14Z | [open](../records/aim-s-datawhalechina-hello-agents-7c22b3b1.md) |
@@ -528,17 +528,17 @@ Records: `872`
 | janhq/jan | partial | 2026-09-14T13:58:12Z | [open](../records/aim-s-janhq-jan-f71b49a2.md) |
 | JAX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-jax-160b4e37.md) |
 | jeecgboot/JeecgBoot | partial | 2026-09-11T09:53:29Z | [open](../records/aim-s-jeecgboot-jeecgboot-4bd956b2.md) |
-| JuliusBrussee/caveman | partial | 2026-09-15T00:01:45Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
+| JuliusBrussee/caveman | partial | 2026-09-15T01:14:40Z | [open](../records/aim-s-juliusbrussee-caveman-aee4c811.md) |
 | JushBJJ/Mr.-Ranedeer-AI-Tutor | partial | 2025-09-30T08:08:00Z | [open](../records/aim-s-jushbjj-mr-ranedeer-ai-tutor-1c9ffb63.md) |
 | langchain-ai/langchain | partial | 2026-09-14T18:09:13Z | [open](../records/aim-s-langchain-ai-langchain-8b6774eb.md) |
 | linshenkx/prompt-optimizer | partial | 2026-09-11T01:21:20Z | [open](../records/aim-s-linshenkx-prompt-optimizer-764ec37e.md) |
 | lyogavin/airllm | partial | 2026-09-14T06:30:10Z | [open](../records/aim-s-lyogavin-airllm-08fb5553.md) |
 | Mintplex-Labs/anything-llm | partial | 2026-09-14T22:37:44Z | [open](../records/aim-s-mintplex-labs-anything-llm-fef8e7e4.md) |
-| NousResearch/hermes-agent | partial | 2026-09-15T00:28:32Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
-| onyx-dot-app/onyx | partial | 2026-09-15T00:25:30Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
+| NousResearch/hermes-agent | partial | 2026-09-15T01:22:38Z | [open](../records/aim-s-nousresearch-hermes-agent-9555e560.md) |
+| onyx-dot-app/onyx | partial | 2026-09-15T01:20:03Z | [open](../records/aim-s-onyx-dot-app-onyx-73aa04a2.md) |
 | open-webui/open-webui | partial | 2026-09-14T21:57:14Z | [open](../records/aim-s-open-webui-open-webui-a57f1344.md) |
 | openai/openai-agents-python | partial | 2026-09-14T00:24:18Z | [open](../records/aim-s-openai-openai-agents-python-df971261.md) |
-| OpenHands/OpenHands | partial | 2026-09-15T00:10:23Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
+| OpenHands/OpenHands | partial | 2026-09-15T01:12:48Z | [open](../records/aim-s-openhands-openhands-87713803.md) |
 | PyTorch | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-pytorch-ce083d68.md) |
 | rasbt/LLMs-from-scratch | partial | 2026-09-10T20:36:18Z | [open](../records/aim-s-rasbt-llms-from-scratch-2200f8f4.md) |
 | run-llama/llama_index | partial | 2026-09-14T21:25:45Z | [open](../records/aim-s-run-llama-llama-index-f8381d04.md) |
@@ -548,7 +548,7 @@ Records: `872`
 | TauricResearch/TradingAgents | partial | 2026-09-15T00:04:26Z | [open](../records/aim-s-tauricresearch-tradingagents-99c3f37b.md) |
 | TensorFlow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-tensorflow-128400a0.md) |
 | The-Vibe-Company/quivr | partial | 2026-08-31T18:02:45Z | [open](../records/aim-s-the-vibe-company-quivr-87a49b49.md) |
-| unslothai/unsloth | partial | 2026-09-15T00:07:34Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
+| unslothai/unsloth | partial | 2026-09-15T01:17:59Z | [open](../records/aim-s-unslothai-unsloth-b9510699.md) |
 | VectifyAI/PageIndex | partial | 2026-09-13T10:34:31Z | [open](../records/aim-s-vectifyai-pageindex-7c207d93.md) |
 | virgiliojr94/book-to-skill | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-virgiliojr94-book-to-skill-4f5641ca.md) |
 
@@ -1058,7 +1058,7 @@ Records: `872`
 | newtork/dsag-ai-sdk-java | partial | 2025-03-28T19:33:43Z | [open](../records/sapjava-newtork-dsag-ai-sdk-java-e595c4c9.md) |
 | Pallavireddy23/ai-document-process-cap-java | partial | 2026-01-02T12:40:28Z | [open](../records/sapjava-pallavireddy23-ai-document-process-cap-java-3298007e.md) |
 | phannindra-dev/portfolio | partial | 2026-04-24T20:53:58Z | [open](../records/sapjava-phannindra-dev-portfolio-beda514a.md) |
-| SAP/SapMachine | partial | 2026-09-13T01:06:01Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
+| SAP/SapMachine | partial | 2026-09-15T01:07:42Z | [open](../records/sapjava-sap-sapmachine-4293ea0a.md) |
 | sharan-space1/asint_chat_llama | partial | 2024-07-06T02:04:32Z | [open](../records/sapjava-sharan-space1-asint-chat-llama-72eedb77.md) |
 | sree26365-dev/sap-abap-hana-learning | partial | 2026-06-20T08:10:18Z | [open](../records/sapjava-sree26365-dev-sap-abap-hana-learning-95dca87e.md) |
 | zkud/sap-cap-java-advanced-dev-containers-sample | partial | 2025-03-20T18:38:12Z | [open](../records/sapjava-zkud-sap-cap-java-advanced-dev-containers-sample-91cebb9a.md) |

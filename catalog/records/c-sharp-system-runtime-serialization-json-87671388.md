@@ -43,7 +43,7 @@ of runtime behavior, deployment packaging, embedding, upgrade cadence, and compa
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit; http://go.microsoft.com/fwlink/?LinkId=329770 |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

@@ -836,7 +836,7 @@ Records: `985`
 | citrusvanilla/tinyflux | partial | 2026-01-27T17:23:15Z | [open](../records/databases-citrusvanilla-tinyflux-4a861312.md) |
 | citusdata/citus | partial | 2026-09-14T22:30:31Z | [open](../records/databases-citusdata-citus-5748489c.md) |
 | ClickHouse | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-clickhouse-6cbe9924.md) |
-| clockworklabs/SpacetimeDB | partial | 2026-09-14T23:19:28Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
+| clockworklabs/SpacetimeDB | partial | 2026-09-15T01:16:53Z | [open](../records/databases-clockworklabs-spacetimedb-dd3f9779.md) |
 | Cloudflare D1 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-d1-137ce548.md) |
 | Cloudflare R2 | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cloudflare-r2-ad4ae9ea.md) |
 | CockroachDB | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-cockroachdb-edd34bb8.md) |
@@ -975,7 +975,7 @@ Records: `985`
 | Meilisearch | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-meilisearch-bf7b237f.md) |
 | mergestat/mergestat-lite | partial | 2026-09-05T05:26:30Z | [open](../records/databases-mergestat-mergestat-lite-67a00eb8.md) |
 | Metabase | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-metabase-545e8fa8.md) |
-| metabase/metabase | partial | 2026-09-15T00:27:44Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
+| metabase/metabase | partial | 2026-09-15T01:23:02Z | [open](../records/databases-metabase-metabase-3a69762d.md) |
 | mevdschee/php-crud-api | partial | 2026-08-28T19:03:50Z | [open](../records/databases-mevdschee-php-crud-api-f8b4da35.md) |
 | Milvus | unknown | curated_database_record_requires_source_specific_release_lookup | [open](../records/databases-milvus-66248b43.md) |
 | milvus-io/pymilvus | partial | 2026-09-08T06:47:22Z | [open](../records/databases-milvus-io-pymilvus-f6a8adf0.md) |

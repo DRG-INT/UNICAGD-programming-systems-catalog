@@ -37,7 +37,7 @@ Records: `69`
 | [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T15:05:50Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-14T00:31:19Z | registry-derived |
-| [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-07T18:02:27Z | registry-derived |
+| [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-15T00:40:57Z | registry-derived |
 | [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-14T09:22:12Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-14T19:04:56Z | registry-derived |
 | [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-11T11:50:47Z | registry-derived |

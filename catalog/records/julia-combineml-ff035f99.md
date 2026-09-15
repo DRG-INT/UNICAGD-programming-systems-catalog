@@ -39,9 +39,9 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; {"key": "", "name": "", "url": ""}; Other; MIT; https://www.nuget.org/packages/SystemTextJsonPatch/5.0.0/license |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Mixed license review |
+| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; Other |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

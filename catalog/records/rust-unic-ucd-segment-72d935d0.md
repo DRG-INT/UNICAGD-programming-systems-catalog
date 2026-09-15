@@ -40,7 +40,7 @@ migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT + file LICENSE; Do What The F*ck You Want To Public License; https://api.github.com/licenses/wtfpl |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
