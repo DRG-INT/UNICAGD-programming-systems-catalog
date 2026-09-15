@@ -1,43 +1,53 @@
 # Release Watch
 
-Generated: `2026-09-15T01:23:58+00:00`
+Generated: `2026-09-15T02:25:34+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
 [Api Abi Checker (239)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (985)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
+[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (986)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1733)](by-category/filesystem-os.md) · [Formatter (674)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1734)](by-category/filesystem-os.md) · [Formatter (674)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1526)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6199)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (595)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6202)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (596)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1098)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1248)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1249)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (145)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1676)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (497)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1677)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (498)](by-category/web-framework.md)
 
 ## Coverage
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11041 |
+| Known stable release | 11051 |
 | Unknown stable release | 18358 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @temporalio/testing | Node.js/JavaScript | Undefined Behavior Analyzer | 1.24.0 | 2026-09-15T02:19:09.435Z | [open](records/node-js-javascript-temporalio-testing-01a9b62c.md) |
+| @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.15-1 | 2026-09-15T02:12:51.758Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
+| zitejs | Node.js/JavaScript | Build System | 0.9.118 | 2026-09-15T00:35:49.241Z | [open](records/node-js-javascript-zitejs-38340f7a.md) |
 | aws-sdk-s3 | Rust | Library | 1.147.0 | 2026-09-15T00:27:41.087545Z | [open](records/rust-aws-sdk-s3-e7593d5c.md) |
 | @faststore/cli | Node.js/JavaScript | Parser Lexer Ast | 4.8.0 | 2026-09-15T00:20:21.540Z | [open](records/node-js-javascript-faststore-cli-98f71262.md) |
 | flex_color_scheme | Dart | Build System | 9.0.0 | 2026-09-15T00:03:25.744783Z | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
+| kza | R | Library | 4.2.0 | 2026-09-15 02:10:14 UTC | [open](records/r-kza-6c5b0efa.md) |
+| resultcheck | R | Api Abi Checker | 0.3.1 | 2026-09-15 02:10:08 UTC | [open](records/r-resultcheck-86b0a956.md) |
+| tidyprf | R | Library | 0.2.0 | 2026-09-15 02:10:02 UTC | [open](records/r-tidyprf-5761da52.md) |
+| fastgeojson | R | Benchmarking | 0.3.0 | 2026-09-15 01:50:02 UTC | [open](records/r-fastgeojson-b03c9348.md) |
+| neotoma2 | R | Database Datastore | 1.1.0 | 2026-09-15 01:00:02 UTC | [open](records/r-neotoma2-bceb3ebe.md) |
+| autoCovariateSelection | R | Filesystem Os | 1.0.1 | 2026-09-15 00:30:08 UTC | [open](records/r-autocovariateselection-c436e771.md) |
+| medicare | R | Undefined Behavior Analyzer | 0.3.0 | 2026-09-15 00:30:02 UTC | [open](records/r-medicare-21d57351.md) |
 | badp | R | Library | 0.7.0 | 2026-09-15 00:20:08 UTC | [open](records/r-badp-d37d1be2.md) |
 | ria.test | R | Testing Framework | 0.3.0 | 2026-09-15 00:20:02 UTC | [open](records/r-ria-test-856b009b.md) |
 | aws-sdk-sts | Rust | Security Sast | 1.115.0 | 2026-09-14T23:54:22.664287Z | [open](records/rust-aws-sdk-sts-4cfb0f29.md) |
@@ -47,7 +57,6 @@ Generated: `2026-09-15T01:23:58+00:00`
 | aws-sigv4 | Rust | Networking Http | 1.5.2 | 2026-09-14T23:52:57.563524Z | [open](records/rust-aws-sigv4-3f7fb63e.md) |
 | @rushstack/heft-typescript-plugin | Node.js/TypeScript | Type Checker | 1.3.22 | 2026-09-14T23:50:56.844Z | [open](records/node-js-typescript-rushstack-heft-typescript-plugin-5f2052bd.md) |
 | @bike4mind/cli | Node.js/JavaScript | Cli | 0.22.0 | 2026-09-14T23:46:04.041Z | [open](records/node-js-javascript-bike4mind-cli-7e11a36a.md) |
-| @fragment-dev/cli | Node.js/JavaScript | Cli | 2026.9.14-4 | 2026-09-14T23:22:41.779Z | [open](records/node-js-javascript-fragment-dev-cli-b4d175cf.md) |
 | html5ever | Rust | Benchmarking | 0.40.1 | 2026-09-14T22:43:12.364843Z | [open](records/rust-html5ever-ab44a0ee.md) |
 | @antelopejs/interface-database | Node.js/JavaScript | Database Datastore | 0.1.6 | 2026-09-14T22:37:55.237Z | [open](records/node-js-javascript-antelopejs-interface-database-3edcd00b.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.893 | 2026-09-14T22:34:30.339Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -276,15 +285,6 @@ Generated: `2026-09-15T01:23:58+00:00`
 | oui-data | Node.js/JavaScript | Serialization | 2.1.21 | 2026-09-13T09:44:35.624Z | [open](records/node-js-javascript-oui-data-c721fc74.md) |
 | cunning_document_scanner | Dart | Static Analyzer | 3.0.3 | 2026-09-13T09:37:06.931442Z | [open](records/dart-cunning-document-scanner-b98260f4.md) |
 | actix-server | Rust | Networking Http | 2.9.5 | 2026-09-13T09:33:39.249409Z | [open](records/rust-actix-server-e5a4daec.md) |
-| @graphql-codegen/testing | Node.js/JavaScript | Testing Framework | 5.0.2 | 2026-09-13T09:02:55.303Z | [open](records/node-js-javascript-graphql-codegen-testing-d069daa5.md) |
-| hasquant | Haskell | Library | 0.7.0.0 | 2026-09-13T08:28:57Z | [open](records/haskell-hasquant-609f2342.md) |
-| typescript-native-bridge | Node.js/TypeScript | Build System | 6.0.3-bridge.17.tsgo.7.0.2 | 2026-09-13T08:02:25.982Z | [open](records/node-js-typescript-typescript-native-bridge-239029dd.md) |
-| Agda | Haskell | Library | 2.8.0.2 | 2026-09-13T07:57:35Z | [open](records/haskell-agda-2052f829.md) |
-| liquid_glass_widgets | Dart | Filesystem Os | 1.5.0 | 2026-09-13T07:36:08.529640Z | [open](records/dart-liquid-glass-widgets-8954060d.md) |
-| flutter_local_notifications | Dart | Filesystem Os | 22.3.1 | 2026-09-13T06:34:48.785139Z | [open](records/dart-flutter-local-notifications-2c4ccd3c.md) |
-| @transcend-io/mcp-server-preferences | Node.js/JavaScript | Web Framework | 0.7.14 | 2026-09-13T06:14:22.586Z | [open](records/node-js-javascript-transcend-io-mcp-server-preferences-906cde78.md) |
-| @transcend-io/mcp-server-consent | Node.js/JavaScript | Web Framework | 1.2.2 | 2026-09-13T06:14:22.240Z | [open](records/node-js-javascript-transcend-io-mcp-server-consent-51a785ea.md) |
-| @transcend-io/mcp-server-assessment | Node.js/JavaScript | Web Framework | 2.1.7 | 2026-09-13T06:14:22.212Z | [open](records/node-js-javascript-transcend-io-mcp-server-assessment-fa3a076f.md) |
 
 ## Unknown Reasons
 

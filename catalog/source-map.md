@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (239)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (210)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1046)](by-category/build-system.md) · [Cli (608)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (985)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
+[Cryptography (183)](by-category/cryptography.md) · [Data Science (41)](by-category/data-science.md) · [Database Datastore (986)](by-category/database-datastore.md) · [Datetime (256)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (116)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1733)](by-category/filesystem-os.md) · [Formatter (674)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (491)](by-category/ffi-bindings.md) · [Filesystem Os (1734)](by-category/filesystem-os.md) · [Formatter (674)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (67)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1526)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (291)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6199)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (595)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1474)](by-category/language-specification.md) · [Library (6202)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (53)](by-category/lint-rule-pack.md) · [Linter (350)](by-category/linter.md) · [Logging Observability (596)](by-category/logging-observability.md) · [Machine Learning (872)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (105)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1098)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1248)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
+[Other (14)](by-category/other.md) · [Package Manager (450)](by-category/package-manager.md) · [Parser Lexer Ast (1249)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (327)](by-category/precommit-ci-quality.md)
 [Profiler (99)](by-category/profiler.md) · [Project Scaffolding (145)](by-category/project-scaffolding.md) · [Registry Repository (135)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (688)](by-category/static-analyzer.md)
 [Templating (2)](by-category/templating.md) · [Testing Framework (657)](by-category/testing-framework.md) · [Tutorial Book Styleguide (77)](by-category/tutorial-book-styleguide.md) · [Type Checker (319)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1676)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (497)](by-category/web-framework.md)
+[Undefined Behavior Analyzer (1677)](by-category/undefined-behavior-analyzer.md) · [Utility Library (108)](by-category/utility-library.md) · [Visualization Gui (654)](by-category/visualization-gui.md) · [Web Framework (498)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1008,6 +1008,7 @@
 | `cran_packages_by_date-1740dc029af5a2` | SemNeT | [open](records/r-semnet-35cd7d4d.md) |
 | `cran_packages_by_date-178119bcfd2d08` | biomes | [open](records/r-biomes-8b0e7317.md) |
 | `cran_packages_by_date-17989aa4f5a4bf` | Argentum | [open](records/r-argentum-3c048222.md) |
+| `cran_packages_by_date-17bb7325bfd724` | Certara.RsNLME | [open](records/r-certara-rsnlme-f946d777.md) |
 | `cran_packages_by_date-17be185c884416` | normref | [open](records/r-normref-452be04f.md) |
 | `cran_packages_by_date-17c1cc1b248f6b` | Brobdingnag | [open](records/r-brobdingnag-842eb062.md) |
 | `cran_packages_by_date-17c93fec537295` | RMVL | [open](records/r-rmvl-1ffe3e9a.md) |
@@ -1088,6 +1089,7 @@
 | `cran_packages_by_date-2102603ba5dfd2` | numops | [open](records/r-numops-c3aa1a8a.md) |
 | `cran_packages_by_date-212c9801b77d57` | htmlreportR | [open](records/r-htmlreportr-7b1fcac8.md) |
 | `cran_packages_by_date-217be1eae3050a` | BNPmix | [open](records/r-bnpmix-cd5f272d.md) |
+| `cran_packages_by_date-2185035cd5f733` | autoCovariateSelection | [open](records/r-autocovariateselection-c436e771.md) |
 | `cran_packages_by_date-218734f0002cf8` | expm | [open](records/r-expm-10d0042a.md) |
 | `cran_packages_by_date-21b05f4ad0ecca` | ast2ast | [open](records/r-ast2ast-f572989c.md) |
 | `cran_packages_by_date-21b4eb32531f7d` | heck | [open](records/r-heck-0e67e43c.md) |
@@ -1429,6 +1431,7 @@
 | `cran_packages_by_date-480a2244f5c98d` | dtametaTMB | [open](records/r-dtametatmb-28df18e4.md) |
 | `cran_packages_by_date-481b9e8ee043ae` | RelDists | [open](records/r-reldists-29ab375f.md) |
 | `cran_packages_by_date-483dba051527a2` | dyadMLM | [open](records/r-dyadmlm-a0536dff.md) |
+| `cran_packages_by_date-48455d54315ab9` | photobiology | [open](records/r-photobiology-0c637127.md) |
 | `cran_packages_by_date-4849379404d994` | shrinkGPR | [open](records/r-shrinkgpr-0c064502.md) |
 | `cran_packages_by_date-486c258c472d75` | RobinCar2 | [open](records/r-robincar2-5ab46259.md) |
 | `cran_packages_by_date-48976a5bbbd568` | postlink | [open](records/r-postlink-29a9d411.md) |
@@ -1444,6 +1447,7 @@
 | `cran_packages_by_date-49ee5f0762a881` | mcptools | [open](records/r-mcptools-e66aa325.md) |
 | `cran_packages_by_date-4a0b364fd6458f` | shapviz | [open](records/r-shapviz-d4cf00e1.md) |
 | `cran_packages_by_date-4a2cd9fa186100` | undomanager | [open](records/r-undomanager-aed459ad.md) |
+| `cran_packages_by_date-4a321d9a1748aa` | neotoma2 | [open](records/r-neotoma2-bceb3ebe.md) |
 | `cran_packages_by_date-4a46273c9e9162` | shiftR | [open](records/r-shiftr-e102e904.md) |
 | `cran_packages_by_date-4a6fd3ab1bfc32` | smartsnp | [open](records/r-smartsnp-b1c8459b.md) |
 | `cran_packages_by_date-4a9675347e537b` | tulpa | [open](records/r-tulpa-41e05904.md) |
@@ -1764,6 +1768,7 @@
 | `cran_packages_by_date-706aea8bb2b9b9` | ConsensusCPA | [open](records/r-consensuscpa-7dfcfd53.md) |
 | `cran_packages_by_date-70719cdf898be8` | rpql | [open](records/r-rpql-6f8cea76.md) |
 | `cran_packages_by_date-7083af5fbe6325` | clustGLMM | [open](records/r-clustglmm-eb588c20.md) |
+| `cran_packages_by_date-70969327e54a48` | kza | [open](records/r-kza-6c5b0efa.md) |
 | `cran_packages_by_date-70ab96b911cce0` | gp3ml | [open](records/r-gp3ml-cd270be8.md) |
 | `cran_packages_by_date-70bacab22a653b` | mirt | [open](records/r-mirt-5875df38.md) |
 | `cran_packages_by_date-70dbdce68c7f42` | qvivid | [open](records/r-qvivid-2167d0ac.md) |
@@ -2318,6 +2323,7 @@
 | `cran_packages_by_date-b03587b8b4a921` | thamesmix | [open](records/r-thamesmix-2eea4cde.md) |
 | `cran_packages_by_date-b04f82189aaedc` | climniche | [open](records/r-climniche-d00512b9.md) |
 | `cran_packages_by_date-b07fb9c19dd8a2` | NPCDTools | [open](records/r-npcdtools-28ce23bf.md) |
+| `cran_packages_by_date-b0882bd12d6866` | tidyprf | [open](records/r-tidyprf-5761da52.md) |
 | `cran_packages_by_date-b0abc27851db33` | MuTATE | [open](records/r-mutate-ab649532.md) |
 | `cran_packages_by_date-b0d0845f4fccaf` | BuSuCo | [open](records/r-busuco-5c59a432.md) |
 | `cran_packages_by_date-b0d4107b75f598` | refugees | [open](records/r-refugees-8ea71353.md) |
@@ -2375,6 +2381,7 @@
 | `cran_packages_by_date-b8e685ed53740b` | fdic | [open](records/r-fdic-b0919027.md) |
 | `cran_packages_by_date-b941b60adcb410` | fpod | [open](records/r-fpod-340624d0.md) |
 | `cran_packages_by_date-b944859884da26` | changepointGA | [open](records/r-changepointga-5149066f.md) |
+| `cran_packages_by_date-b958ad8e6f22bb` | medicare | [open](records/r-medicare-21d57351.md) |
 | `cran_packages_by_date-b9b2913b8da714` | AdsorpR | [open](records/r-adsorpr-d73e1be6.md) |
 | `cran_packages_by_date-b9b5dd22a9f6f8` | grattanInflators | [open](records/r-grattaninflators-3bffc26f.md) |
 | `cran_packages_by_date-b9c1f4a611ff15` | ravepipeline | [open](records/r-ravepipeline-8cdfb5b3.md) |
@@ -2814,6 +2821,7 @@
 | `cran_packages_by_date-ed2d347250e8ed` | LUCIDus | [open](records/r-lucidus-62988eed.md) |
 | `cran_packages_by_date-ed3ac1a88f0d19` | CNVScope | [open](records/r-cnvscope-228dc8ec.md) |
 | `cran_packages_by_date-ed445b56f66c5b` | apache.sedona | [open](records/r-apache-sedona-fb35d634.md) |
+| `cran_packages_by_date-ed48a69b56f0f1` | fastgeojson | [open](records/r-fastgeojson-b03c9348.md) |
 | `cran_packages_by_date-ed5876c476e537` | MergeKmeans | [open](records/r-mergekmeans-03d98fb5.md) |
 | `cran_packages_by_date-ed6533cd681fd8` | safetensors | [open](records/r-safetensors-d8a4565d.md) |
 | `cran_packages_by_date-ed68854b58072f` | RiskPortfolios | [open](records/r-riskportfolios-e0204ca1.md) |
@@ -26110,6 +26118,7 @@
 | `npm_registry-922b95b141652f` | prettylint | [open](records/node-js-javascript-prettylint-9407963c.md) |
 | `npm_registry-923bb841e35c32` | node-res | [open](records/node-js-javascript-node-res-c9f14164.md) |
 | `npm_registry-926a509d4f9710` | @genesislcap/foundation-testing | [open](records/node-js-javascript-genesislcap-foundation-testing-9da0f708.md) |
+| `npm_registry-926fbf00302885` | @elizaos/server | [open](records/node-js-javascript-elizaos-server-4c4db8ea.md) |
 | `npm_registry-92716f197af189` | addons-scanner-utils | [open](records/node-js-javascript-addons-scanner-utils-06385247.md) |
 | `npm_registry-928263c36456cf` | @spotify/eslint-config-base | [open](records/node-js-javascript-spotify-eslint-config-base-e5810186.md) |
 | `npm_registry-9283d45c96cdea` | @secretlint/tester | [open](records/node-js-javascript-secretlint-tester-98116eb1.md) |
@@ -26312,6 +26321,7 @@
 | `npm_registry-a3bb70a366bf42` | @nuxt/eslint-config | [open](records/node-js-javascript-nuxt-eslint-config-e724d5ac.md) |
 | `npm_registry-a3c7b62f3b4b6e` | @api-components/api-security-documentation | [open](records/node-js-javascript-api-components-api-security-documentation-df971aa6.md) |
 | `npm_registry-a3dd0d29d62b17` | eslint-merge-processors | [open](records/node-js-javascript-eslint-merge-processors-5816068a.md) |
+| `npm_registry-a3e0b1edd5697d` | @as-integrations/express5 | [open](records/node-js-javascript-as-integrations-express5-56dbd15c.md) |
 | `npm_registry-a3e8d1827c0deb` | @rmp135/sql-ts | [open](records/node-js-typescript-rmp135-sql-ts-e9702cf0.md) |
 | `npm_registry-a406ab35486253` | @babel/eslint-parser | [open](records/node-js-javascript-babel-eslint-parser-46e9d469.md) |
 | `npm_registry-a43e2faec8c529` | vscode-languageserver-types | [open](records/node-js-javascript-vscode-languageserver-types-9c5b62eb.md) |
