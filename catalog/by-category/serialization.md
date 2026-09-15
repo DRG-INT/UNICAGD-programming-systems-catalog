@@ -623,7 +623,7 @@ Records: `410`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 3breadt/dd-plist | partial | 2026-07-24T12:28:17Z | [open](../records/cocoa-3breadt-dd-plist-2a35e6c5.md) |
-| 3lvis/SwiftSync | partial | 2026-06-27T09:58:57Z | [open](../records/cocoa-3lvis-swiftsync-b91bf583.md) |
+| 3lvis/SwiftSync | partial | 2026-09-15T07:07:36Z | [open](../records/cocoa-3lvis-swiftsync-b91bf583.md) |
 | hhfa008/SwiftAI | partial | 2020-03-14T04:43:41Z | [open](../records/cocoa-hhfa008-swiftai-dadec2ef.md) |
 | m8labs/WidgetKit | partial | 2021-08-02T15:35:49Z | [open](../records/cocoa-m8labs-widgetkit-52747f23.md) |
 | SwiftyJSON/SwiftyJSON | partial | 2026-08-18T07:07:07Z | [open](../records/cocoa-swiftyjson-swiftyjson-10f72bb1.md) |

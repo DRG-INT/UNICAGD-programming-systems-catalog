@@ -124,7 +124,7 @@ Records: `77`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| geocompx/geocompr | partial | 2026-07-30T08:33:15Z | [open](../records/maps-geocompx-geocompr-4c2f98d5.md) |
+| geocompx/geocompr | partial | 2026-09-14T14:14:43Z | [open](../records/maps-geocompx-geocompr-4c2f98d5.md) |
 | joewdavies/geoblender | partial | 2026-01-11T21:49:46Z | [open](../records/maps-joewdavies-geoblender-1f240f31.md) |
 | pbugnion/gmaps | partial | 2026-04-13T16:49:31Z | [open](../records/maps-pbugnion-gmaps-b73c9aec.md) |
 

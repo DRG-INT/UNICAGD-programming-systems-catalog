@@ -1,11 +1,11 @@
-# google-map-react/google-map-react
+# GoogleMapReact/google-map-react
 
 ## Navigation
 
 [Catalog index](../index.md) · [Language: Maps](../by-language/maps.md) · [Category: Library](../by-category/library.md) · [Release watch](../release-watch.md) · [Apache/MIT license index](../license-index.md)
 
 <!-- robots.txt: compliant -->
-<!-- canonical: https://github.com/google-map-react/google-map-react -->
+<!-- canonical: https://github.com/GoogleMapReact/google-map-react -->
 <!-- crawl-delay: 10 -->
 
 ## Identity
@@ -16,8 +16,8 @@
 | Category | Library |
 | Source type | registry_expansion |
 | Verification | registry-derived |
-| Canonical URL | [https://github.com/google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) |
-| Source record ids | github_search_maps-446fe78d8b78b0 |
+| Canonical URL | [https://github.com/GoogleMapReact/google-map-react](https://github.com/GoogleMapReact/google-map-react) |
+| Source record ids | github_search_maps-bcda9401952012 |
 
 ## System Engineer Summary
 
@@ -25,7 +25,7 @@ Google map library for react that allows rendering components as markers :tada:
 
 ## Operational Role
 
-For a systems engineer, google-map-react/google-map-react belongs in the Maps inventory as part of
+For a systems engineer, GoogleMapReact/google-map-react belongs in the Maps inventory as part of
 ecosystem capability mapping, dependency review, release awareness, and operational fit assessment.
 
 ## Release Intelligence
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 
@@ -68,7 +68,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 Evidence records merged into this identity: `1`.
 
-- `github_search_maps-446fe78d8b78b0` from `github_search_maps` as `registry_expansion`
+- `github_search_maps-bcda9401952012` from `github_search_maps` as `registry_expansion`
 
 </details>
 

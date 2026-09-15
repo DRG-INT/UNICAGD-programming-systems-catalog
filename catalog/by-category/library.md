@@ -4649,7 +4649,7 @@ Records: `6206`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-15T05:58:59Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | partial | 2026-09-15T07:02:25Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
@@ -5088,15 +5088,15 @@ Records: `6206`
 | florent37/RxGps | partial | 2018-12-05T16:36:01Z | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
 | FoggedLens/deflock | partial | 2026-09-11T22:39:26Z | [open](../records/maps-foggedlens-deflock-8c65a555.md) |
 | fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
-| GenericMappingTools/pygmt | partial | 2026-09-14T03:05:34Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
+| GenericMappingTools/pygmt | partial | 2026-09-15T03:53:44Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | geolonia/normalize-japanese-addresses | partial | 2026-09-14T13:19:30Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | partial | 2026-07-12T19:49:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | partial | 2026-05-16T12:30:18Z | [open](../records/maps-georust-geocoding-e4389b67.md) |
 | GGBond-GIS/Orillusion_TileEarth | unknown | github_search_does_not_include_release_date | [open](../records/maps-ggbond-gis-orillusion-tileearth-83eb2707.md) |
 | gmazoyer/looking-glass | partial | 2026-06-28T22:07:21Z | [open](../records/maps-gmazoyer-looking-glass-3c738182.md) |
 | gnu4cn/ccna60d | partial | 2026-09-06T08:44:37Z | [open](../records/maps-gnu4cn-ccna60d-e5501048.md) |
-| google-map-react/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-google-map-react-google-map-react-1cd0afd2.md) |
 | google/earthenterprise | partial | 2023-01-04T20:30:53Z | [open](../records/maps-google-earthenterprise-ed7bdac7.md) |
+| GoogleMapReact/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-googlemapreact-google-map-react-1cd0afd2.md) |
 | hyperknot/openfreemap-styles | partial | 2026-05-15T01:04:11Z | [open](../records/maps-hyperknot-openfreemap-styles-7cf55b52.md) |
 | itsmichaeldiego/google-map-react | partial | 2026-02-17T16:42:57Z | [open](../records/maps-itsmichaeldiego-google-map-react-68062853.md) |
 | ivaylokenov/AspNet.Mvc.TypedRouting | partial | 2019-07-08T11:50:14Z | [open](../records/maps-ivaylokenov-aspnet-mvc-typedrouting-edc6294c.md) |

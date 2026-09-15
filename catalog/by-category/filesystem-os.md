@@ -607,7 +607,7 @@ Records: `1735`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T06:26:56Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T07:05:06Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -629,7 +629,7 @@ Records: `1735`
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-15T06:19:06Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-15T04:26:51Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-15T06:32:32Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -882,7 +882,7 @@ Records: `1735`
 | eurostat/eurostat-map | partial | 2026-09-14T08:36:33Z | [open](../records/maps-eurostat-eurostat-map-3607c2dc.md) |
 | fatiando/verde | partial | 2026-08-04T17:47:38Z | [open](../records/maps-fatiando-verde-bc8675d9.md) |
 | fenwii/OpenHarmony | partial | 2025-07-01T13:08:55Z | [open](../records/maps-fenwii-openharmony-29b44e36.md) |
-| Freika/dawarich | partial | 2026-09-14T14:17:56Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
+| Freika/dawarich | partial | 2026-09-15T06:22:45Z | [open](../records/maps-freika-dawarich-ee63e709.md) |
 | gaopengbin/geo-downloader | partial | 2026-09-15T03:30:27Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
@@ -898,7 +898,7 @@ Records: `1735`
 | giswqs/earthengine-py-notebooks | partial | 2021-03-16T15:05:05Z | [open](../records/maps-giswqs-earthengine-py-notebooks-ddfabcd8.md) |
 | giswqs/geog-312 | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-geog-312-52015923.md) |
 | giswqs/intro-gispro | partial | 2026-08-16T19:53:05Z | [open](../records/maps-giswqs-intro-gispro-2e41cded.md) |
-| googlemaps/android-maps-compose | partial | 2026-09-10T17:31:47Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
+| googlemaps/android-maps-compose | partial | 2026-09-14T22:02:27Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
 | headwaymaps/headway | partial | 2026-09-14T20:07:59Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-14T21:09:24Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
@@ -918,7 +918,7 @@ Records: `1735`
 | leocavalcante/siler | partial | 2022-02-13T14:04:09Z | [open](../records/maps-leocavalcante-siler-ba8244f3.md) |
 | lminhtm/LMGeocoder | partial | 2023-01-11T13:17:02Z | [open](../records/maps-lminhtm-lmgeocoder-ed80a908.md) |
 | mapbox/mapbox-gl-native | partial | 2023-07-27T10:31:03Z | [open](../records/maps-mapbox-mapbox-gl-native-ff80e742.md) |
-| mapbox/mapbox-maps-ios | partial | 2026-09-11T17:02:34Z | [open](../records/maps-mapbox-mapbox-maps-ios-89bfc14b.md) |
+| mapbox/mapbox-maps-ios | partial | 2026-09-14T12:52:29Z | [open](../records/maps-mapbox-mapbox-maps-ios-89bfc14b.md) |
 | mapbox/MapboxGeocoder.swift | partial | 2022-09-16T19:41:09Z | [open](../records/maps-mapbox-mapboxgeocoder-swift-8e8212bc.md) |
 | maplibre/maplibre-compose | partial | 2026-09-15T03:18:23Z | [open](../records/maps-maplibre-maplibre-compose-3f41b1db.md) |
 | maplibre/maplibre-native | partial | 2026-09-15T03:19:09Z | [open](../records/maps-maplibre-maplibre-native-f9033b94.md) |

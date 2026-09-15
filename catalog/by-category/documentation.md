@@ -187,7 +187,7 @@ Records: `116`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| GalSim-developers/GalSim | partial | 2026-09-15T06:02:02Z | [open](../records/space-maps-galsim-developers-galsim-4de2c1e3.md) |
+| GalSim-developers/GalSim | partial | 2026-09-15T07:03:16Z | [open](../records/space-maps-galsim-developers-galsim-4de2c1e3.md) |
 
 ## Effects
 

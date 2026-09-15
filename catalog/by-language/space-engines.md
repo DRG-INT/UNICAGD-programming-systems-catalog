@@ -273,7 +273,7 @@ Records: `160`
 | [tamaskis/planet3D-MATLAB](../records/space-engines-tamaskis-planet3d-matlab-d5b68952.md) | partial | 2023-05-21T01:19:09Z | registry-derived |
 | [TheWand3rer/Universe](../records/space-engines-thewand3rer-universe-b6822711.md) | partial | 2026-06-03T18:28:06Z | registry-derived |
 | [Thomas-Loudis/georb](../records/space-engines-thomas-loudis-georb-83c767a6.md) | partial | 2026-07-24T12:36:11Z | registry-derived |
-| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-14T23:06:43Z | registry-derived |
+| [tudat-team/tudatpy](../records/space-engines-tudat-team-tudatpy-44bb19c6.md) | partial | 2026-09-15T06:47:52Z | registry-derived |
 | [ut-astria/orbdetpy](../records/space-engines-ut-astria-orbdetpy-9a9dc45c.md) | partial | 2023-07-05T20:53:31Z | registry-derived |
 | [ut-issl/s2e-core](../records/space-engines-ut-issl-s2e-core-7effcd69.md) | partial | 2026-09-14T04:38:41Z | registry-derived |
 

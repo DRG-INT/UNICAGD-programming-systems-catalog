@@ -132,10 +132,10 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-14T21:22:08Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T06:32:36Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-14T22:07:35Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
-| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T05:10:23Z | registry-derived |
+| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T07:07:18Z | registry-derived |
 
 ### Filesystem Os
 
@@ -296,7 +296,7 @@ Records: `349`
 | [Flipboard/FLAnimatedImage](../records/cocoa-flipboard-flanimatedimage-90bc1366.md) | partial | 2024-03-21T10:45:04Z | registry-derived |
 | [forkingdog/UITableView-FDTemplateLayoutCell](../records/cocoa-forkingdog-uitableview-fdtemplatelayoutcell-6b678344.md) | partial | 2022-03-07T10:01:30Z | registry-derived |
 | [git-up/GitUp](../records/cocoa-git-up-gitup-23c60c2c.md) | partial | 2026-07-27T00:05:17Z | registry-derived |
-| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-15T03:41:39Z | registry-derived |
+| [gnachman/iTerm2](../records/cocoa-gnachman-iterm2-9538d898.md) | partial | 2026-09-15T07:10:49Z | registry-derived |
 | [griddynamics-archive/MMDrawerController](../records/cocoa-griddynamics-archive-mmdrawercontroller-e3f9497c.md) | partial | 2023-01-09T00:03:46Z | registry-derived |
 | [Grouper/FlatUIKit](../records/cocoa-grouper-flatuikit-59352f43.md) | partial | 2016-09-29T04:08:55Z | registry-derived |
 | [gsdios/SDCycleScrollView](../records/cocoa-gsdios-sdcyclescrollview-c51a97c6.md) | partial | 2023-04-21T10:20:47Z | registry-derived |
@@ -494,7 +494,7 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [3breadt/dd-plist](../records/cocoa-3breadt-dd-plist-2a35e6c5.md) | partial | 2026-07-24T12:28:17Z | registry-derived |
-| [3lvis/SwiftSync](../records/cocoa-3lvis-swiftsync-b91bf583.md) | partial | 2026-06-27T09:58:57Z | registry-derived |
+| [3lvis/SwiftSync](../records/cocoa-3lvis-swiftsync-b91bf583.md) | partial | 2026-09-15T07:07:36Z | registry-derived |
 | [hhfa008/SwiftAI](../records/cocoa-hhfa008-swiftai-dadec2ef.md) | partial | 2020-03-14T04:43:41Z | registry-derived |
 | [m8labs/WidgetKit](../records/cocoa-m8labs-widgetkit-52747f23.md) | partial | 2021-08-02T15:35:49Z | registry-derived |
 | [SwiftyJSON/SwiftyJSON](../records/cocoa-swiftyjson-swiftyjson-10f72bb1.md) | partial | 2026-08-18T07:07:07Z | registry-derived |

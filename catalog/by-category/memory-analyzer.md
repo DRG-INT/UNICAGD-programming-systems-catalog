@@ -134,9 +134,9 @@ Records: `105`
 | asgeirtj/system_prompts_leaks | partial | 2026-09-13T19:18:51Z | [open](../records/aim-s-asgeirtj-system-prompts-leaks-c743049d.md) |
 | gitleaks/gitleaks | partial | 2026-09-09T04:18:49Z | [open](../records/aim-s-gitleaks-gitleaks-942f477b.md) |
 | mem0ai/mem0 | partial | 2026-09-14T19:12:46Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
-| MemPalace/mempalace | partial | 2026-09-15T06:17:15Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
+| MemPalace/mempalace | partial | 2026-09-15T07:18:00Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-14T11:22:11Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-15T06:18:24Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-15T06:55:04Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-15T02:34:11Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Physics Engines

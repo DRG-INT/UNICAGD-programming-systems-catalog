@@ -1302,7 +1302,7 @@ Records: `1678`
 | alexreisner/geocoder | partial | 2026-08-09T15:42:53Z | [open](../records/maps-alexreisner-geocoder-9b82930d.md) |
 | amitp/mapgen2 | partial | 2025-05-07T23:38:10Z | [open](../records/maps-amitp-mapgen2-39ef73ce.md) |
 | apache/incubator-baremaps | partial | 2026-05-18T11:30:54Z | [open](../records/maps-apache-incubator-baremaps-fb222b75.md) |
-| asdfghj1237890/mini-macau | partial | 2026-09-15T01:48:04Z | [open](../records/maps-asdfghj1237890-mini-macau-8f37f7b6.md) |
+| asdfghj1237890/mini-macau | partial | 2026-09-15T07:02:19Z | [open](../records/maps-asdfghj1237890-mini-macau-8f37f7b6.md) |
 | cjdelisle/cjdns | partial | 2026-07-09T19:50:40Z | [open](../records/maps-cjdelisle-cjdns-4711da4a.md) |
 | corteva/geocube | unknown | github_search_does_not_include_release_date | [open](../records/maps-corteva-geocube-9d52da57.md) |
 | dtpstat/dtp-stat-archive | partial | 2025-07-13T10:29:14Z | [open](../records/maps-dtpstat-dtp-stat-archive-9e471ed5.md) |
@@ -1365,7 +1365,7 @@ Records: `1678`
 | leenkcool/Blue-Whale-Harness | partial | 2026-09-01T11:28:25Z | [open](../records/space-maps-leenkcool-blue-whale-harness-c45019bb.md) |
 | leoheck/sublime-spice | partial | 2020-01-21T17:34:46Z | [open](../records/space-maps-leoheck-sublime-spice-f7ab45e4.md) |
 | maheshr-hub/ayanamsha | partial | 2026-05-26T05:10:14Z | [open](../records/space-maps-maheshr-hub-ayanamsha-18861b1b.md) |
-| MESAHub/mesa | partial | 2026-09-15T06:28:08Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
+| MESAHub/mesa | partial | 2026-09-15T06:29:05Z | [open](../records/space-maps-mesahub-mesa-0abd6bf7.md) |
 | Raevn/com.pahub.content.plugin.store.map | partial | 2014-12-12T12:24:45Z | [open](../records/space-maps-raevn-com-pahub-content-plugin-store-map-5946b4b8.md) |
 | rhannequin/astronoby | partial | 2026-09-13T20:52:45Z | [open](../records/space-maps-rhannequin-astronoby-ced172a0.md) |
 | Rohit-singh-github/Cosmic-resume | partial | 2026-08-12T22:41:00Z | [open](../records/space-maps-rohit-singh-github-cosmic-resume-55310cad.md) |
@@ -1880,7 +1880,7 @@ Records: `1678`
 | simonw/datasette | partial | 2026-09-14T17:18:31Z | [open](../records/databases-simonw-datasette-1ddbef0c.md) |
 | skyzh/vector-db-from-scratch | partial | 2026-09-06T03:20:48Z | [open](../records/databases-skyzh-vector-db-from-scratch-51c5f22e.md) |
 | spiculedata/saiku | partial | 2026-09-13T01:45:17Z | [open](../records/databases-spiculedata-saiku-3e036390.md) |
-| StarRocks/starrocks | partial | 2026-09-15T06:28:14Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
+| StarRocks/starrocks | partial | 2026-09-15T06:36:44Z | [open](../records/databases-starrocks-starrocks-fa80e1a7.md) |
 | Stolon | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-stolon-807bae3f.md) |
 | timveil/hive-jdbc-uber-jar | partial | 2024-09-28T13:44:51Z | [open](../records/databases-timveil-hive-jdbc-uber-jar-3a65567d.md) |
 | uber-go/dosa | partial | 2023-07-05T20:59:33Z | [open](../records/databases-uber-go-dosa-06a859e4.md) |

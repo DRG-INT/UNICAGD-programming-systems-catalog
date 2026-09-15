@@ -368,7 +368,7 @@ Records: `598`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-14T21:58:02Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-15T07:19:44Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 

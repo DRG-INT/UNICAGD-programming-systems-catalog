@@ -11745,7 +11745,6 @@
 | `github_search_maps-437d757dfb6fb7` | TomSchimansky/TkinterMapView | [open](records/maps-tomschimansky-tkintermapview-b6ce4dd7.md) |
 | `github_search_maps-43b19effe42469` | gboeing/osmnx-examples | [open](records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | `github_search_maps-4447a57b59497f` | joewdavies/awesome-frontend-gis | [open](records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| `github_search_maps-446fe78d8b78b0` | google-map-react/google-map-react | [open](records/maps-google-map-react-google-map-react-1cd0afd2.md) |
 | `github_search_maps-45919035640560` | sandstrom/country-bounding-boxes | [open](records/maps-sandstrom-country-bounding-boxes-21886a05.md) |
 | `github_search_maps-45c4ed9b7bac8f` | systemed/tilemaker | [open](records/maps-systemed-tilemaker-1ee83e8e.md) |
 | `github_search_maps-45f2cd777ba93b` | giswqs/intro-gispro | [open](records/maps-giswqs-intro-gispro-2e41cded.md) |
@@ -12025,6 +12024,7 @@
 | `github_search_maps-bc7b7aecc4f3c3` | maptiler/maptiler-geocoding-control | [open](records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
 | `github_search_maps-bc906deb704d87` | GenericMappingTools/gmt | [open](records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | `github_search_maps-bcbd9a7efdb8cf` | geotrellis/vectorpipe | [open](records/maps-geotrellis-vectorpipe-fd7bc4ed.md) |
+| `github_search_maps-bcda9401952012` | GoogleMapReact/google-map-react | [open](records/maps-googlemapreact-google-map-react-1cd0afd2.md) |
 | `github_search_maps-bd147a7fc3ebc1` | bennylope/pygeocodio | [open](records/maps-bennylope-pygeocodio-39b32fe5.md) |
 | `github_search_maps-bd7393a2b5fcc1` | openvenues/lieu | [open](records/maps-openvenues-lieu-1d7de22f.md) |
 | `github_search_maps-bdad122e9f5980` | MapServer/MapServer | [open](records/maps-mapserver-mapserver-100bdea0.md) |

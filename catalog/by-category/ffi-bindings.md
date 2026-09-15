@@ -492,7 +492,7 @@ Records: `491`
 | --- | --- | --- | --- |
 | crazycapivara/h3-r | partial | 2022-08-08T08:04:12Z | [open](../records/maps-crazycapivara-h3-r-7a69cf02.md) |
 | Gaia3D/mago-3d-tiler | unknown | github_search_does_not_include_release_date | [open](../records/maps-gaia3d-mago-3d-tiler-ef3c4fa4.md) |
-| geoserver/geoserver | partial | 2026-09-15T03:52:45Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
+| geoserver/geoserver | partial | 2026-09-15T06:48:30Z | [open](../records/maps-geoserver-geoserver-be5dd005.md) |
 | geotools/geotools | partial | 2026-09-14T10:32:46Z | [open](../records/maps-geotools-geotools-a7928212.md) |
 | mvexel/overpass-api-python-wrapper | partial | 2026-01-08T03:59:25Z | [open](../records/maps-mvexel-overpass-api-python-wrapper-3ec1fd9d.md) |
 | naturalatlas/node-gdal | partial | 2024-09-03T21:32:11Z | [open](../records/maps-naturalatlas-node-gdal-bc3c7bb2.md) |
@@ -703,10 +703,10 @@ Records: `491`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| getsentry/sentry-cocoa | partial | 2026-09-14T21:22:08Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
+| getsentry/sentry-cocoa | partial | 2026-09-15T06:32:36Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
 | madsmtm/objc2 | partial | 2026-09-14T22:07:35Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
-| wordpress-mobile/WordPress-iOS | partial | 2026-09-15T05:10:23Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
+| wordpress-mobile/WordPress-iOS | partial | 2026-09-15T07:07:18Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 
 ## Databases
 
@@ -728,7 +728,7 @@ Records: `491`
 | rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-15T06:22:18Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-15T07:10:40Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 
