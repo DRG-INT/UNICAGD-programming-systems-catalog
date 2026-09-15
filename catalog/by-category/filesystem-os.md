@@ -9,7 +9,7 @@ Records: `1737`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `1737`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · **[Filesystem Os (1737)](filesystem-os.md)** · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
 
 ## C++23
 
@@ -608,7 +608,7 @@ Records: `1737`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T17:01:47Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T18:12:52Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -630,7 +630,7 @@ Records: `1737`
 | Fosowl/agenticSeek | partial | 2026-09-13T19:26:13Z | [open](../records/aim-s-fosowl-agenticseek-3f73fd5c.md) |
 | microsoft/graphrag | partial | 2026-09-14T07:35:41Z | [open](../records/aim-s-microsoft-graphrag-16e521eb.md) |
 | NirDiamant/RAG_Techniques | partial | 2026-09-15T12:51:09Z | [open](../records/aim-s-nirdiamant-rag-techniques-681ed394.md) |
-| ollama/ollama | partial | 2026-09-15T06:32:32Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
+| ollama/ollama | partial | 2026-09-15T18:15:39Z | [open](../records/aim-s-ollama-ollama-8b858f45.md) |
 
 ## Computer Graphics Software
 
@@ -1665,7 +1665,7 @@ Records: `1737`
 | iOS-Goodies/iOS-Goodies | partial | 2023-11-20T16:07:55Z | [open](../records/magazines-ios-goodies-ios-goodies-158d5e0d.md) |
 | jendrikseipp/rednotebook | partial | 2026-07-12T20:45:38Z | [open](../records/magazines-jendrikseipp-rednotebook-25e7f065.md) |
 | joergi/MagPiDownloader | partial | 2026-09-14T04:02:31Z | [open](../records/magazines-joergi-magpidownloader-67f8e42e.md) |
-| journiv/journiv-app | partial | 2026-09-15T16:05:28Z | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
+| journiv/journiv-app | partial | 2026-09-15T16:58:18Z | [open](../records/magazines-journiv-journiv-app-b0d9c829.md) |
 | MillionSend/millionsend | partial | 2026-09-12T02:35:48Z | [open](../records/magazines-millionsend-millionsend-250e787c.md) |
 | moonlin1213/muted-zine-poster-v01 | partial | 2026-07-22T07:33:59Z | [open](../records/magazines-moonlin1213-muted-zine-poster-v01-2cb732da.md) |
 | openjournals/jose-reviews | partial | 2026-06-12T03:20:37Z | [open](../records/magazines-openjournals-jose-reviews-2d87ccd9.md) |
@@ -1776,7 +1776,7 @@ Records: `1737`
 | lucasgelfond/exiftool-web | partial | 2026-01-10T18:07:32Z | [open](../records/webassembly-lucasgelfond-exiftool-web-6b2c4ba0.md) |
 | mafintosh/blake2b-wasm | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-mafintosh-blake2b-wasm-6966696b.md) |
 | mbasso/awesome-wasm | partial | 2024-11-15T14:58:04Z | [open](../records/webassembly-mbasso-awesome-wasm-e5b53bed.md) |
-| microsoft/fluentui-blazor | partial | 2026-09-15T08:00:44Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
+| microsoft/fluentui-blazor | partial | 2026-09-15T12:58:15Z | [open](../records/webassembly-microsoft-fluentui-blazor-4d2addbf.md) |
 | mosra/magnum | partial | 2026-08-23T10:24:48Z | [open](../records/webassembly-mosra-magnum-973479c6.md) |
 | nihui/opencv-mobile | partial | 2026-07-12T12:55:31Z | [open](../records/webassembly-nihui-opencv-mobile-2cbef6f5.md) |
 | not-fl3/macroquad | partial | 2026-08-18T09:37:35Z | [open](../records/webassembly-not-fl3-macroquad-ace3e52a.md) |
@@ -1897,7 +1897,7 @@ Records: `1737`
 | Countly | 26.1.0 | 2026-02-18 14:12:24 UTC | [open](../records/cocoa-countly-2297ca5c.md) |
 | Danie1s/Tiercel | partial | 2026-08-24T16:54:29Z | [open](../records/cocoa-danie1s-tiercel-5ed21306.md) |
 | DarielChen/iOSTips | partial | 2020-10-19T07:14:11Z | [open](../records/cocoa-darielchen-iostips-e6e9e701.md) |
-| dkhamsing/open-source-ios-apps | partial | 2026-09-14T16:27:33Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
+| dkhamsing/open-source-ios-apps | partial | 2026-09-15T14:14:32Z | [open](../records/cocoa-dkhamsing-open-source-ios-apps-3bad4ab1.md) |
 | DrawKit/DrawKit | partial | 2023-03-13T12:23:46Z | [open](../records/cocoa-drawkit-drawkit-72c338f1.md) |
 | dusty-commits/Closures | partial | 2021-04-29T15:34:36Z | [open](../records/cocoa-dusty-commits-closures-519b25c5.md) |
 | FluidGroup/NextGrowingTextView | partial | 2026-08-21T18:15:48Z | [open](../records/cocoa-fluidgroup-nextgrowingtextview-19805040.md) |

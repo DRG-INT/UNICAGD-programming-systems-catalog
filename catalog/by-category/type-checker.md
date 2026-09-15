@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `320`
+Records: `321`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `320`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `320`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · **[Type Checker (320)](type-checker.md)**
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · **[Type Checker (321)](type-checker.md)**
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
 
 ## Python
 
@@ -47,7 +47,7 @@ Records: `320`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | @adobe/css-tools | 4.5.0 | 2026-05-21T22:37:48.114Z | [open](../records/node-js-typescript-adobe-css-tools-f7566708.md) |
-| @anthropic-ai/sdk | 0.125.0 | 2026-09-10T17:55:20.402Z | [open](../records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) |
+| @anthropic-ai/sdk | 0.126.0 | 2026-09-15T17:41:19.060Z | [open](../records/node-js-typescript-anthropic-ai-sdk-505c8b05.md) |
 | @apollo/cache-control-types | 1.0.3 | 2023-06-26T16:37:37.476Z | [open](../records/node-js-typescript-apollo-cache-control-types-cf45fb41.md) |
 | @apollo/protobufjs | 1.2.8 | 2026-04-30T19:42:18.076Z | [open](../records/node-js-typescript-apollo-protobufjs-c29bf38c.md) |
 | @apollo/utils.fetcher | 3.1.0 | 2023-11-08T18:34:59.471Z | [open](../records/node-js-typescript-apollo-utils-fetcher-ef3d3e55.md) |
@@ -149,7 +149,7 @@ Records: `320`
 | @types/lodash | 4.17.25 | 2026-08-01T03:45:21.615Z | [open](../records/node-js-typescript-types-lodash-2fdbea40.md) |
 | @types/mdast | 4.0.4 | 2024-05-14T07:35:37.616Z | [open](../records/node-js-typescript-types-mdast-ec074f5c.md) |
 | @types/ms | 2.1.0 | 2025-01-16T21:02:46.181Z | [open](../records/node-js-typescript-types-ms-4a9c12e9.md) |
-| @types/node | 26.5.1 | 2026-09-09T18:09:34.895Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
+| @types/node | 26.6.0 | 2026-09-15T16:41:20.590Z | [open](../records/node-js-typescript-types-node-45f57646.md) |
 | @types/oauth2-server | 3.0.18 | 2024-09-25T09:08:28.455Z | [open](../records/node-js-typescript-types-oauth2-server-b283557e.md) |
 | @types/passport-http | 0.3.11 | 2023-11-07T12:41:50.203Z | [open](../records/node-js-typescript-types-passport-http-3fa13cd9.md) |
 | @types/passport-http-bearer | 1.0.42 | 2025-09-23T23:32:05.943Z | [open](../records/node-js-typescript-types-passport-http-bearer-c89659f5.md) |
@@ -200,6 +200,7 @@ Records: `320`
 | gts | 7.0.0 | 2025-12-15T17:44:25.825Z | [open](../records/node-js-typescript-gts-aeda1c43.md) |
 | guid-typescript | 1.0.9 | 2018-10-28T04:22:18.066Z | [open](../records/node-js-typescript-guid-typescript-7944139d.md) |
 | http-method-enum | 1.0.0 | 2019-02-20T06:15:17.906Z | [open](../records/node-js-typescript-http-method-enum-0fd9abb2.md) |
+| image-ssim | 0.2.0 | 2015-07-10T09:07:16.641Z | [open](../records/node-js-typescript-image-ssim-e39c03eb.md) |
 | jaro-winkler-typescript | 1.0.1 | 2020-09-19T13:40:23.648Z | [open](../records/node-js-typescript-jaro-winkler-typescript-54c43d1f.md) |
 | joi-to-typescript | 4.15.0 | 2024-12-05T05:59:35.356Z | [open](../records/node-js-typescript-joi-to-typescript-a4ee5a86.md) |
 | json-schema-to-ts | 3.1.1 | 2024-08-29T16:56:23.135Z | [open](../records/node-js-typescript-json-schema-to-ts-be5fe66b.md) |
@@ -317,7 +318,7 @@ Records: `320`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-15T17:13:57Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-15T18:19:56Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -503,7 +504,7 @@ Records: `320`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2FastLabs/agent-squad | unknown | github_search_does_not_include_release_date | [open](../records/swift-2fastlabs-agent-squad-f20b0f0c.md) |
-| NativeScript/NativeScript | partial | 2026-09-14T18:40:49Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
+| NativeScript/NativeScript | partial | 2026-09-15T17:05:47Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
 
 ## Databases
 

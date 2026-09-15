@@ -9,7 +9,7 @@ Records: `659`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `659`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · **[Testing Framework (659)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Templating (2)](templating.md) · **[Testing Framework (659)](testing-framework.md)** · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
 
 ## C99
 
@@ -221,7 +221,7 @@ Records: `659`
 | @redux-saga/testing-utils | 1.2.3 | 2026-05-21T15:33:39.087Z | [open](../records/node-js-javascript-redux-saga-testing-utils-600a4a68.md) |
 | @redwoodjs/testing | 8.9.0 | 2025-10-21T09:44:21.720Z | [open](../records/node-js-javascript-redwoodjs-testing-d84db9e5.md) |
 | @remix-run/testing | 2.17.5 | 2026-06-01T14:46:42.849Z | [open](../records/node-js-javascript-remix-run-testing-f8fe02b2.md) |
-| @sa11y/matcher | 8.0.28 | 2026-07-30T19:50:10.318Z | [open](../records/node-js-javascript-sa11y-matcher-2c7aadca.md) |
+| @sa11y/matcher | 8.1.0 | 2026-09-15T18:15:19.435Z | [open](../records/node-js-javascript-sa11y-matcher-2c7aadca.md) |
 | @scalar/api-client | 3.18.0 | 2026-09-07T10:41:36.045Z | [open](../records/node-js-javascript-scalar-api-client-e1c67cd3.md) |
 | @smithers-orchestrator/testing | 0.32.0 | 2026-08-01T05:00:36.872Z | [open](../records/node-js-javascript-smithers-orchestrator-testing-7a34dd66.md) |
 | @smooai/testing | 1.4.0 | 2026-07-25T02:49:59.852Z | [open](../records/node-js-javascript-smooai-testing-ec08ce63.md) |
@@ -283,7 +283,7 @@ Records: `659`
 | bs-dom-testing-library | 0.7.0 | 2020-10-21T12:17:32.984Z | [open](../records/node-js-javascript-bs-dom-testing-library-4608d821.md) |
 | bs-react-testing-library | 0.8.0 | 2020-10-21T12:39:36.201Z | [open](../records/node-js-javascript-bs-react-testing-library-b53c0d92.md) |
 | chai-http | 5.1.2 | 2025-05-02T10:12:41.134Z | [open](../records/node-js-javascript-chai-http-410bbc52.md) |
-| chromatic | 18.8.1 | 2026-09-11T15:09:03.730Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
+| chromatic | 18.9.0 | 2026-09-15T17:41:42.886Z | [open](../records/node-js-javascript-chromatic-d4979463.md) |
 | cli-testing-library | 4.0.0 | 2026-08-11T05:46:42.024Z | [open](../records/node-js-javascript-cli-testing-library-4bcc48b1.md) |
 | codeceptjs | 4.1.0 | 2026-07-30T09:55:16.034Z | [open](../records/node-js-javascript-codeceptjs-c62ce818.md) |
 | convex-test | 0.0.58 | 2026-09-11T19:54:06.970Z | [open](../records/node-js-javascript-convex-test-7a685bbc.md) |

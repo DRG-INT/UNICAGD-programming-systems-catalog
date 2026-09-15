@@ -1,6 +1,6 @@
 # Web Framework
 
-Records: `503`
+Records: `504`
 
 ## Navigation
 
@@ -9,7 +9,7 @@ Records: `503`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `503`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (503)](web-framework.md)**
+[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · **[Web Framework (504)](web-framework.md)**
 
 ## C++23
 
@@ -183,6 +183,7 @@ Records: `503`
 | @genkit-ai/telemetry-server | 1.42.0 | 2026-08-25T16:42:29.627Z | [open](../records/node-js-javascript-genkit-ai-telemetry-server-a15ef5d5.md) |
 | @getpaseo/server | 0.8.0 | 2026-09-10T10:18:52.305Z | [open](../records/node-js-javascript-getpaseo-server-fdad1689.md) |
 | @gongrzhe/server-gmail-autoauth-mcp | 1.1.11 | 2025-08-06T01:16:22.211Z | [open](../records/node-js-javascript-gongrzhe-server-gmail-autoauth-mcp-3b37de6e.md) |
+| @hap-toolkit/server | 2.1.1 | 2026-08-28T06:59:58.093Z | [open](../records/node-js-javascript-hap-toolkit-server-5d88cb15.md) |
 | @heroku/mcp-server | 1.2.7 | 2026-09-03T19:09:35.226Z | [open](../records/node-js-javascript-heroku-mcp-server-1d60d18d.md) |
 | @hono/trpc-server | 0.4.2 | 2026-01-12T15:04:52.719Z | [open](../records/node-js-javascript-hono-trpc-server-989842b6.md) |
 | @hono/vite-dev-server | 0.26.1 | 2026-07-11T04:05:00.157Z | [open](../records/node-js-javascript-hono-vite-dev-server-e0c72d5b.md) |
@@ -222,7 +223,7 @@ Records: `503`
 | @react-pdf/renderer | 4.9.0 | 2026-08-27T22:59:33.090Z | [open](../records/node-js-javascript-react-pdf-renderer-c07702a0.md) |
 | @react-router/express | 8.3.1 | 2026-08-28T14:44:43.286Z | [open](../records/node-js-javascript-react-router-express-7f5f4395.md) |
 | @react-router/serve | 8.4.0 | 2026-09-15T15:23:22.143Z | [open](../records/node-js-javascript-react-router-serve-fcd29568.md) |
-| @rebasepro/server | 0.21.0 | 2026-09-14T09:35:47.038Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
+| @rebasepro/server | 0.21.1 | 2026-09-15T16:22:12.416Z | [open](../records/node-js-javascript-rebasepro-server-25d1c74a.md) |
 | @remotion/studio-server | 4.0.525 | 2026-09-15T12:46:32.259Z | [open](../records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | @restatedev/restate-server | 1.7.10 | 2026-09-14T13:28:22.239Z | [open](../records/node-js-javascript-restatedev-restate-server-4072d5bd.md) |
 | @rspack/dev-server | 2.2.1 | 2026-08-22T05:54:21.220Z | [open](../records/node-js-javascript-rspack-dev-server-8f7edde9.md) |
@@ -575,7 +576,7 @@ Records: `503`
 | --- | --- | --- | --- |
 | emertozd/Compose-Material-3-Expressive-Catalog | partial | 2026-08-25T13:27:09Z | [open](../records/catalogs-emertozd-compose-material-3-expressive-catalog-37be1c96.md) |
 | expressjs/serve-index | partial | 2026-08-05T14:00:57Z | [open](../records/catalogs-expressjs-serve-index-a5f99f53.md) |
-| fabiodalez-dev/Pinakes | partial | 2026-09-15T16:13:11Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
+| fabiodalez-dev/Pinakes | partial | 2026-09-15T17:17:43Z | [open](../records/catalogs-fabiodalez-dev-pinakes-55aa7480.md) |
 | sergiisyrovatchenko/SQLIndexManager | partial | 2026-09-13T20:09:25Z | [open](../records/catalogs-sergiisyrovatchenko-sqlindexmanager-c47bdf29.md) |
 | zyegfryed/django-statici18n | partial | 2026-09-02T17:13:48Z | [open](../records/catalogs-zyegfryed-django-statici18n-7d8a9ed5.md) |
 
@@ -585,7 +586,7 @@ Records: `503`
 | --- | --- | --- | --- |
 | arneb/django-campaign | partial | 2023-11-05T07:55:01Z | [open](../records/magazines-arneb-django-campaign-acca3d0d.md) |
 | benji6/moodtracker | partial | 2026-09-14T08:13:08Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
-| DenserMeerkat/June | partial | 2026-09-14T22:01:12Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
+| DenserMeerkat/June | partial | 2026-09-15T18:11:29Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
 | russmiles/life-preserver-introductory-article-developer-magazine | partial | 2013-10-16T14:30:28Z | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
 

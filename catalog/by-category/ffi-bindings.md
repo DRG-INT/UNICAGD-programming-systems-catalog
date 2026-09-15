@@ -9,7 +9,7 @@ Records: `492`
 ## Category Index
 
 [Api Abi Checker (241)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1050)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Benchmarking (211)](benchmarking.md) · [Build System (1051)](build-system.md) · [Cli (608)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
@@ -17,14 +17,14 @@ Records: `492`
 [Embedded Hardware (70)](embedded-hardware.md) · **[Ffi Bindings (492)](ffi-bindings.md)** · [Filesystem Os (1737)](filesystem-os.md) · [Formatter (678)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6232)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6233)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (351)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (880)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1107)](networking-http.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1253)](parser-lexer-ast.md) · [Precommit Ci Quality (329)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (696)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (320)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (503)](web-framework.md)
+[Templating (2)](templating.md) · [Testing Framework (659)](testing-framework.md) · [Tutorial Book Styleguide (77)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (504)](web-framework.md)
 
 ## C++23
 
@@ -389,7 +389,7 @@ Records: `492`
 | --- | --- | --- | --- |
 | amplitude_flutter | 4.7.1 | 2026-08-11T20:17:52.096009Z | [open](../records/dart-amplitude-flutter-bf9e79ec.md) |
 | clarity_flutter | 1.10.0 | 2026-09-01T14:23:26.024576Z | [open](../records/dart-clarity-flutter-b01cb39f.md) |
-| cupertino_ui | 1.0.2 | 2026-09-02T16:21:48.930457Z | [open](../records/dart-cupertino-ui-67a4e2e1.md) |
+| cupertino_ui | 1.1.0 | 2026-09-15T16:44:49.900045Z | [open](../records/dart-cupertino-ui-67a4e2e1.md) |
 | device_preview | 3.0.0 | 2026-08-25T13:49:17.235487Z | [open](../records/dart-device-preview-08e5439c.md) |
 | ffi | 2.2.0 | 2026-02-11T14:08:51.217392Z | [open](../records/dart-ffi-db803997.md) |
 | ffmpeg_kit_flutter_new | 4.6.2 | 2026-07-30T13:23:19.770535Z | [open](../records/dart-ffmpeg-kit-flutter-new-e600e8b3.md) |
@@ -397,7 +397,7 @@ Records: `492`
 | fwfh_webview | 0.15.8 | 2026-09-08T16:19:30.937795Z | [open](../records/dart-fwfh-webview-d3af7d13.md) |
 | in_app_update | 5.0.0 | 2026-07-04T05:14:11.242560Z | [open](../records/dart-in-app-update-0266d7cc.md) |
 | isolate_manager | 6.3.2 | 2026-04-12T05:48:35.930541Z | [open](../records/dart-isolate-manager-0f2d39a3.md) |
-| material_ui | 1.2.0 | 2026-09-08T17:10:27.285441Z | [open](../records/dart-material-ui-3ba68105.md) |
+| material_ui | 1.3.0 | 2026-09-15T16:44:42.351288Z | [open](../records/dart-material-ui-3ba68105.md) |
 | open_file | 4.0.0 | 2026-06-10T13:41:34.010151Z | [open](../records/dart-open-file-f921d48c.md) |
 | string_similarity | 2.2.0 | 2026-04-04T12:14:43.947682Z | [open](../records/dart-string-similarity-e200b080.md) |
 | web | 1.1.1 | 2025-02-26T21:23:27.138850Z | [open](../records/dart-web-7dac46d3.md) |
@@ -704,10 +704,10 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| getsentry/sentry-cocoa | partial | 2026-09-15T10:12:13Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
+| getsentry/sentry-cocoa | partial | 2026-09-15T17:10:42Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
 | madsmtm/objc2 | partial | 2026-09-14T22:07:35Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
-| wordpress-mobile/WordPress-iOS | partial | 2026-09-15T09:34:06Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
+| wordpress-mobile/WordPress-iOS | partial | 2026-09-15T10:51:14Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 
 ## Databases
 
