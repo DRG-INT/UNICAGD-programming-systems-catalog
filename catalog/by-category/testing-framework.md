@@ -540,7 +540,7 @@ Records: `657`
 | uri-bytestring | 0.4.0.1 | 2025-04-10T16:35:16Z | [open](../records/haskell-uri-bytestring-a09e0036.md) |
 | wai-test | 3.0.0 | 2014-06-09T07:43:33Z | [open](../records/haskell-wai-test-6f3e611d.md) |
 | yampa-test | 0.15 | 2025-02-28T06:55:50Z | [open](../records/haskell-yampa-test-2be489e4.md) |
-| yesod-test | unknown | hackage_top_downloads_page_does_not_include_release_date | [open](../records/haskell-yesod-test-b573e9e5.md) |
+| yesod-test | 1.7.0.3 | 2026-07-29T08:45:39Z | [open](../records/haskell-yesod-test-b573e9e5.md) |
 
 ## Octave
 
@@ -635,7 +635,7 @@ Records: `657`
 | braver/programmingfonts | partial | 2026-08-30T17:46:59Z | [open](../records/assets-braver-programmingfonts-fb0cf6c0.md) |
 | fortitudo-tech/fortitudo.tech | partial | 2026-08-20T07:58:46Z | [open](../records/assets-fortitudo-tech-fortitudo-tech-d827e5a7.md) |
 | marcologous/Open-Sauce-Fonts | partial | 2026-05-11T21:22:36Z | [open](../records/assets-marcologous-open-sauce-fonts-5e251995.md) |
-| VanekPetr/investment-funnel | partial | 2026-09-08T03:11:53Z | [open](../records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
+| VanekPetr/investment-funnel | partial | 2026-09-15T02:55:04Z | [open](../records/assets-vanekpetr-investment-funnel-c0d50ba2.md) |
 
 ## Maps
 
@@ -890,7 +890,7 @@ Records: `657`
 | invertase/react-native-firebase | partial | 2026-09-14T03:45:35Z | [open](../records/databases-invertase-react-native-firebase-bdf40bbb.md) |
 | long2ice/asyncmy | partial | 2026-08-16T04:11:12Z | [open](../records/databases-long2ice-asyncmy-537bc784.md) |
 | marsupilami79/zeoslib | partial | 2026-09-01T05:51:54Z | [open](../records/databases-marsupilami79-zeoslib-f93693d1.md) |
-| netdata/netdata | partial | 2026-09-15T06:42:18Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
+| netdata/netdata | partial | 2026-09-15T09:04:48Z | [open](../records/databases-netdata-netdata-c3fa5bcb.md) |
 | porsager/postgres | partial | 2026-09-02T08:02:08Z | [open](../records/databases-porsager-postgres-fbaff732.md) |
 | vladmihalcea/db-util | partial | 2023-01-11T18:54:22Z | [open](../records/databases-vladmihalcea-db-util-1a17f88b.md) |
 | weavejester/ragtime | partial | 2025-09-23T14:39:42Z | [open](../records/databases-weavejester-ragtime-b149a386.md) |

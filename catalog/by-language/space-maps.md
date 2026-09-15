@@ -310,7 +310,7 @@ Records: `657`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [a7bdev/falak](../records/space-maps-a7bdev-falak-0cc64905.md) | partial | 2026-07-31T15:43:49Z | registry-derived |
-| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-15T04:45:08Z | registry-derived |
+| [ad-si/Woxi](../records/space-maps-ad-si-woxi-ece7dd2e.md) | partial | 2026-09-15T09:19:21Z | registry-derived |
 | [arcsecond-io/standard-stars-catalogues](../records/space-maps-arcsecond-io-standard-stars-catalogues-92d84e53.md) | partial | 2025-06-02T11:14:25Z | registry-derived |
 | [BASI-LABS/parseltongue](../records/space-maps-basi-labs-parseltongue-04dae62d.md) | partial | 2025-01-11T23:48:20Z | registry-derived |
 | [biosshot/easyeda-copilot](../records/space-maps-biosshot-easyeda-copilot-429a5f5a.md) | partial | 2026-09-12T16:22:22Z | registry-derived |
@@ -318,7 +318,7 @@ Records: `657`
 | [clanker-lover/spicebridge](../records/space-maps-clanker-lover-spicebridge-3afc4a84.md) | partial | 2026-04-06T23:32:53Z | registry-derived |
 | [electron-lang/electron](../records/space-maps-electron-lang-electron-98fd3718.md) | partial | 2018-08-20T19:02:31Z | registry-derived |
 | [gnudatalanguage/gdl](../records/space-maps-gnudatalanguage-gdl-7750b9c1.md) | partial | 2026-09-11T21:18:21Z | registry-derived |
-| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-14T22:55:03Z | registry-derived |
+| [indigo-astronomy/indigo](../records/space-maps-indigo-astronomy-indigo-65164658.md) | partial | 2026-09-15T08:07:47Z | registry-derived |
 | [Jack-Hayes/planetquery](../records/space-maps-jack-hayes-planetquery-b6501f3a.md) | partial | 2025-10-15T05:47:38Z | registry-derived |
 | [klonnet23/helloy-word](../records/space-maps-klonnet23-helloy-word-834df5dd.md) | partial | 2022-08-29T16:59:38Z | registry-derived |
 | [microsoft/vscode-stac](../records/space-maps-microsoft-vscode-stac-3a3a11d5.md) | partial | 2023-05-03T11:26:56Z | registry-derived |
@@ -528,7 +528,7 @@ Records: `657`
 | --- | --- | --- | --- |
 | [Ching367436/spice-mac](../records/space-maps-ching367436-spice-mac-5719b99e.md) | partial | 2026-08-27T16:25:56Z | registry-derived |
 | [Corsinvest/cv4pve-vdi](../records/space-maps-corsinvest-cv4pve-vdi-bc170682.md) | partial | 2026-07-30T17:05:15Z | registry-derived |
-| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-15T07:23:11Z | registry-derived |
+| [electerm/electerm](../records/space-maps-electerm-electerm-8c5dc479.md) | partial | 2026-09-15T08:12:13Z | registry-derived |
 | [fat/space-tweet](../records/space-maps-fat-space-tweet-f2d19386.md) | partial | 2025-12-23T00:46:18Z | registry-derived |
 | [FreeRDP/Remmina](../records/space-maps-freerdp-remmina-5536d2a1.md) | partial | 2026-02-08T19:09:55Z | registry-derived |
 | [fujiaze/Gaia-DR3-DR3SP-Client-C](../records/space-maps-fujiaze-gaia-dr3-dr3sp-client-c-536e618d.md) | partial | 2026-07-24T09:41:47Z | registry-derived |
@@ -562,7 +562,7 @@ Records: `657`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [0xCoto/Virgo](../records/space-maps-0xcoto-virgo-032ae2e8.md) | partial | 2023-07-23T20:21:30Z | registry-derived |
-| [aaronwmorris/indi-allsky](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) | partial | 2026-09-15T03:44:29Z | registry-derived |
+| [aaronwmorris/indi-allsky](../records/space-maps-aaronwmorris-indi-allsky-b7f86b59.md) | partial | 2026-09-15T07:44:21Z | registry-derived |
 | [abbyazari/data_vis_statistics_geosciences](../records/space-maps-abbyazari-data-vis-statistics-geosciences-7687caa4.md) | partial | 2020-08-29T02:59:43Z | registry-derived |
 | [adarshiniraju/Interactive-Stargazer-Sky-Map](../records/space-maps-adarshiniraju-interactive-stargazer-sky-map-afb025f4.md) | partial | 2026-05-25T19:34:47Z | registry-derived |
 | [adrn/gala](../records/space-maps-adrn-gala-39adb199.md) | partial | 2026-09-14T19:42:58Z | registry-derived |
@@ -589,7 +589,7 @@ Records: `657`
 | [bhavyapuranik1/Astro-Explorer](../records/space-maps-bhavyapuranik1-astro-explorer-75d88d5c.md) | partial | 2026-08-29T15:53:39Z | registry-derived |
 | [blueberrry/astro-crypt](../records/space-maps-blueberrry-astro-crypt-452f6e9d.md) | partial | 2024-03-29T16:16:02Z | registry-derived |
 | [casaluca/SkyMapper](../records/space-maps-casaluca-skymapper-9ba430d3.md) | partial | 2019-07-18T06:57:27Z | registry-derived |
-| [cds-astro/aladin-lite](../records/space-maps-cds-astro-aladin-lite-6a3ecb0e.md) | partial | 2026-07-17T08:03:42Z | registry-derived |
+| [cds-astro/aladin-lite](../records/space-maps-cds-astro-aladin-lite-6a3ecb0e.md) | partial | 2026-09-15T09:20:10Z | registry-derived |
 | [cds-astro/ipyaladin](../records/space-maps-cds-astro-ipyaladin-0124a143.md) | partial | 2026-09-02T11:48:28Z | registry-derived |
 | [ceeK/Solar](../records/space-maps-ceek-solar-0818e1f0.md) | partial | 2026-08-31T23:46:36Z | registry-derived |
 | [celestiamobile/AndroidCelestia](../records/space-maps-celestiamobile-androidcelestia-6426e506.md) | partial | 2026-09-13T05:36:49Z | registry-derived |
@@ -694,7 +694,7 @@ Records: `657`
 | [Starlink/starlink](../records/space-maps-starlink-starlink-7f05c3ed.md) | partial | 2026-08-12T00:17:22Z | registry-derived |
 | [Stellarium/stellarium](../records/space-maps-stellarium-stellarium-9881eb0a.md) | partial | 2026-09-14T23:00:24Z | registry-derived |
 | [steveberardi/starplot](../records/space-maps-steveberardi-starplot-f953a72c.md) | partial | 2026-09-13T15:41:28Z | registry-derived |
-| [StingraySoftware/stingray](../records/space-maps-stingraysoftware-stingray-96dfde34.md) | partial | 2026-09-13T09:13:13Z | registry-derived |
+| [StingraySoftware/stingray](../records/space-maps-stingraysoftware-stingray-96dfde34.md) | partial | 2026-09-15T08:41:06Z | registry-derived |
 | [sunpy/sunpy](../records/space-maps-sunpy-sunpy-8e44c814.md) | partial | 2026-09-14T21:27:00Z | registry-derived |
 | [tbonnardel/rigel](../records/space-maps-tbonnardel-rigel-9d53d779.md) | partial | 2020-10-06T17:00:48Z | registry-derived |
 | [theoknock/JABPlanetaryHourClockKitComplication](../records/space-maps-theoknock-jabplanetaryhourclockkitcomplication-ec1d659b.md) | partial | 2020-08-14T15:52:06Z | registry-derived |
@@ -860,7 +860,7 @@ Records: `657`
 | [Tihkal96/CAIROforAERMOD](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) | partial | 2025-03-17T22:14:28Z | registry-derived |
 | [TingYeahh/caption_eval](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) | partial | 2020-11-25T02:28:24Z | registry-derived |
 | [traines-source/time-space-train-planner](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) | partial | 2026-08-02T20:07:46Z | registry-derived |
-| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-15T06:08:53Z | registry-derived |
+| [ys-ll/uniterm](../records/space-maps-ys-ll-uniterm-72dda292.md) | partial | 2026-09-15T08:11:07Z | registry-derived |
 | [zz85/space-radar](../records/space-maps-zz85-space-radar-21258574.md) | partial | 2026-05-28T03:01:07Z | registry-derived |
 
 ### Visualization Gui

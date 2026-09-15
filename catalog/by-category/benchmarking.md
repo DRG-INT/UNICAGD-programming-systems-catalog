@@ -388,9 +388,9 @@ Records: `211`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apple/swift-nio | partial | 2026-09-14T15:19:07Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
+| apple/swift-nio | partial | 2026-09-15T07:01:24Z | [open](../records/swift-apple-swift-nio-a7333055.md) |
 | ordo-one/benchmark | partial | 2026-07-24T09:37:23Z | [open](../records/swift-ordo-one-benchmark-1abb4df6.md) |
-| rarestype/swift-json | partial | 2026-09-11T04:03:43Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
+| rarestype/swift-json | partial | 2026-09-15T01:59:07Z | [open](../records/swift-rarestype-swift-json-07634c5a.md) |
 
 ## Cocoa
 
@@ -422,7 +422,7 @@ Records: `211`
 | Mithril-mine/libmdbx | partial | 2026-09-12T14:53:01Z | [open](../records/databases-mithril-mine-libmdbx-ec7af8f0.md) |
 | openGemini/openGemini | partial | 2026-09-09T02:09:55Z | [open](../records/databases-opengemini-opengemini-b406e906.md) |
 | qdrant/qdrant | partial | 2026-09-09T11:13:27Z | [open](../records/databases-qdrant-qdrant-461c624b.md) |
-| questdb/questdb | partial | 2026-09-15T06:00:35Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
+| questdb/questdb | partial | 2026-09-15T09:10:45Z | [open](../records/databases-questdb-questdb-cb22f378.md) |
 | quick-perf/quickperf | partial | 2026-05-06T14:46:13Z | [open](../records/databases-quick-perf-quickperf-2926abba.md) |
 | rustfs/rustfs | partial | 2026-09-13T10:11:40Z | [open](../records/databases-rustfs-rustfs-ac58a257.md) |
 | taosdata/TDengine | partial | 2026-09-12T13:55:45Z | [open](../records/databases-taosdata-tdengine-57f74fd3.md) |

@@ -41,7 +41,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ defect discovery, security review, undefined-state detection, and regression pre
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swift-package stars:>200", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swift-package stars:>200", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

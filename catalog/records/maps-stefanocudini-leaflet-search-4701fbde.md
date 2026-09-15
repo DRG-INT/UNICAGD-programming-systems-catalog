@@ -32,16 +32,16 @@ space exploration, parser hardening, and unsafe edge-case discovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2024-06-30T08:08:14Z | gh search repos topic:web-mapping stars:>50 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2024-06-30T08:08:14Z | gh search repos topic:gis stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ space exploration, parser hardening, and unsafe edge-case discovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:web-mapping stars:>50", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:gis stars:>100", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

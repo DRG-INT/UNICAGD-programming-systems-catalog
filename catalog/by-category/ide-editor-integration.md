@@ -696,10 +696,10 @@ Records: `1527`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AlexsJones/llmfit | partial | 2026-09-14T13:12:08Z | [open](../records/aim-s-alexsjones-llmfit-337bd975.md) |
-| can1357/oh-my-pi | partial | 2026-09-15T03:49:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
+| can1357/oh-my-pi | partial | 2026-09-15T08:47:57Z | [open](../records/aim-s-can1357-oh-my-pi-4bb50e47.md) |
 | decolua/9router | partial | 2026-09-10T17:11:20Z | [open](../records/aim-s-decolua-9router-0eed32d7.md) |
-| harry0703/MoneyPrinterTurbo | partial | 2026-09-15T07:30:53Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
-| hesreallyhim/awesome-claude-code | partial | 2026-09-15T06:17:56Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
+| harry0703/MoneyPrinterTurbo | partial | 2026-09-15T09:02:19Z | [open](../records/aim-s-harry0703-moneyprinterturbo-d466d4ad.md) |
+| hesreallyhim/awesome-claude-code | partial | 2026-09-15T09:10:59Z | [open](../records/aim-s-hesreallyhim-awesome-claude-code-cf08e2ba.md) |
 | mudler/LocalAI | partial | 2026-09-15T07:34:35Z | [open](../records/aim-s-mudler-localai-ba12724c.md) |
 | upstash/context7 | partial | 2026-09-14T18:33:12Z | [open](../records/aim-s-upstash-context7-9349bef0.md) |
 | voideditor/void | partial | 2026-06-02T22:03:55Z | [open](../records/aim-s-voideditor-void-f00971ce.md) |
@@ -838,13 +838,13 @@ Records: `1527`
 | tejaswigowda/ffmpeg-webCLI | partial | 2026-09-06T17:55:19Z | [open](../records/assets-tejaswigowda-ffmpeg-webcli-e2d7593b.md) |
 | Trenavix/SM64Paint | partial | 2020-09-30T02:14:11Z | [open](../records/assets-trenavix-sm64paint-e611d812.md) |
 | trickest/insiders | partial | 2023-09-25T15:20:03Z | [open](../records/assets-trickest-insiders-50e57fb3.md) |
-| vulture-s/arkiv | partial | 2026-09-09T16:47:30Z | [open](../records/assets-vulture-s-arkiv-be252330.md) |
+| vulture-s/arkiv | partial | 2026-09-14T21:08:43Z | [open](../records/assets-vulture-s-arkiv-be252330.md) |
 
 ## Maps
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| apache/ofbiz-framework | partial | 2026-09-14T16:35:42Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
+| apache/ofbiz-framework | partial | 2026-09-15T08:01:37Z | [open](../records/maps-apache-ofbiz-framework-6d8fd7d2.md) |
 | bryceco/GoMap | partial | 2026-09-14T14:16:42Z | [open](../records/maps-bryceco-gomap-1140769c.md) |
 | dimartarmizi/map-to-poster | partial | 2026-06-06T16:19:07Z | [open](../records/maps-dimartarmizi-map-to-poster-da1cffb2.md) |
 | eli-labz/Third-Eye | partial | 2026-06-13T06:29:56Z | [open](../records/maps-eli-labz-third-eye-89c57d06.md) |
@@ -859,7 +859,7 @@ Records: `1527`
 | mesa/mesa | partial | 2026-09-14T14:13:25Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-13T01:53:27Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-14T19:04:16Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-15T04:38:38Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-14T09:29:54Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -1504,7 +1504,7 @@ Records: `1527`
 | AlbertLucianto/vuex-search | partial | 2022-12-09T23:26:52Z | [open](../records/catalogs-albertlucianto-vuex-search-73599187.md) |
 | austinsonger/Incident-Playbook | partial | 2024-07-28T04:19:40Z | [open](../records/catalogs-austinsonger-incident-playbook-b40b651a.md) |
 | ckenst/testing-guides | partial | 2023-11-13T21:24:45Z | [open](../records/catalogs-ckenst-testing-guides-bf06a16f.md) |
-| clidey/whodb | partial | 2026-09-14T03:36:12Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
+| clidey/whodb | partial | 2026-09-15T03:33:04Z | [open](../records/catalogs-clidey-whodb-90b65b4d.md) |
 | Esri/geoportal-server-catalog | partial | 2026-09-14T07:23:26Z | [open](../records/catalogs-esri-geoportal-server-catalog-528de935.md) |
 | fnplus/community-project-ideas | partial | 2025-02-21T18:58:09Z | [open](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) |
 | geonetwork/core-geonetwork | partial | 2026-09-14T14:30:33Z | [open](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) |
@@ -1541,7 +1541,7 @@ Records: `1527`
 | mmarquezs/libgen-python-api | partial | 2022-05-18T15:15:49Z | [open](../records/magazines-mmarquezs-libgen-python-api-47da50e4.md) |
 | Notifuse/notifuse | partial | 2026-09-08T15:29:46Z | [open](../records/magazines-notifuse-notifuse-f68915ee.md) |
 | pajoma/vscode-journal | partial | 2026-08-20T20:30:19Z | [open](../records/magazines-pajoma-vscode-journal-fd5206d8.md) |
-| TryGhost/Editorial | partial | 2026-09-14T03:24:24Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
+| TryGhost/Editorial | partial | 2026-09-14T20:40:10Z | [open](../records/magazines-tryghost-editorial-947481f0.md) |
 | uzih05/journal | partial | 2026-02-09T09:03:55Z | [open](../records/magazines-uzih05-journal-00e04855.md) |
 | yanliudesign/mono-color-skill | partial | 2026-09-02T18:49:42Z | [open](../records/magazines-yanliudesign-mono-color-skill-382cd12d.md) |
 
@@ -1727,7 +1727,7 @@ Records: `1527`
 | Sentry | 8.58.4 | 2026-07-14 16:24:57 UTC | [open](../records/cocoa-sentry-5755fd31.md) |
 | SwiftyOAuth | v0.3 | 2016-05-26T16:17:39Z | [open](../records/cocoa-swiftyoauth-e67a0934.md) |
 | textmate/textmate | partial | 2024-05-18T11:00:21Z | [open](../records/cocoa-textmate-textmate-91b26640.md) |
-| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-14T14:12:50Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
+| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-15T09:23:48Z | [open](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | yahoo/AppDevKit | partial | 2024-12-13T10:04:16Z | [open](../records/cocoa-yahoo-appdevkit-086034f0.md) |
 | Yalantis/Pull-to-Refresh.Rentals-iOS | partial | 2018-06-16T09:20:03Z | [open](../records/cocoa-yalantis-pull-to-refresh-rentals-ios-c4b7308d.md) |
 | Yalantis/Side-Menu.iOS | partial | 2020-04-13T06:45:38Z | [open](../records/cocoa-yalantis-side-menu-ios-60a08b2a.md) |

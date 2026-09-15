@@ -33,7 +33,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-08-31T16:37:52Z | gh search repos language:Swift stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-15T09:00:50Z | gh search repos language:Swift stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:Swift stars:>1000", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:Swift stars:>1000", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

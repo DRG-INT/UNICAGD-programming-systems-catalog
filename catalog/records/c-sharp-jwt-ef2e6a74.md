@@ -40,7 +40,7 @@ interoperability, and compatibility boundaries.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; Apache License 2.0; https://api.github.com/licenses/apache-2.0; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; MIT License; https://api.github.com/licenses/mit |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0; CC0-1.0; https://www.nuget.org/packages/JWT/11.1.0/license |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

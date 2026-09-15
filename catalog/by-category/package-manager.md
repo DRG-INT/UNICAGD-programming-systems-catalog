@@ -570,7 +570,7 @@ Records: `451`
 | outsideris/citizen | partial | 2024-10-12T20:14:31Z | [open](../records/catalogs-outsideris-citizen-8805d3c4.md) |
 | packistry/packistry | partial | 2026-08-12T19:19:09Z | [open](../records/catalogs-packistry-packistry-e15ec62a.md) |
 | psviderski/unregistry | partial | 2026-07-14T02:56:03Z | [open](../records/catalogs-psviderski-unregistry-3f86a01d.md) |
-| pypi/warehouse | partial | 2026-09-13T14:58:41Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
+| pypi/warehouse | partial | 2026-09-14T19:50:18Z | [open](../records/catalogs-pypi-warehouse-5a5ebfce.md) |
 | Railly/tinte | partial | 2026-08-08T01:10:38Z | [open](../records/catalogs-railly-tinte-4b7c9203.md) |
 | react-native-community/directory | partial | 2026-09-14T16:53:24Z | [open](../records/catalogs-react-native-community-directory-369a61a1.md) |
 | regclient/regclient | partial | 2026-09-09T21:12:36Z | [open](../records/catalogs-regclient-regclient-e0f0e503.md) |

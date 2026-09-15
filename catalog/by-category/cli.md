@@ -552,10 +552,10 @@ Records: `608`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-15T08:05:43Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-15T09:20:46Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-15T08:13:50Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-15T09:22:45Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -730,7 +730,7 @@ Records: `608`
 | --- | --- | --- | --- |
 | AmmarAbouZor/tui-journal | partial | 2026-09-06T10:33:11Z | [open](../records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
 | BohdanPetryshyn/formzero | partial | 2026-04-26T06:56:02Z | [open](../records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
-| DouglasdeMoura/chroncal | partial | 2026-09-11T14:45:42Z | [open](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) |
+| DouglasdeMoura/chroncal | partial | 2026-09-15T01:54:01Z | [open](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) |
 | jrnl-org/jrnl | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jrnl-org-jrnl-c7f0a1c9.md) |
 | manipuladordedados/pdiary | partial | 2022-09-12T07:47:36Z | [open](../records/magazines-manipuladordedados-pdiary-b18888c7.md) |
 | packetThrower/zorite | partial | 2026-09-11T17:30:49Z | [open](../records/magazines-packetthrower-zorite-78b6f1c9.md) |
@@ -793,7 +793,7 @@ Records: `608`
 | mas-cli/mas | unknown | github_search_does_not_include_release_date | [open](../records/swift-mas-cli-mas-b7913336.md) |
 | mazzzystar/Queryable | partial | 2026-03-29T14:30:04Z | [open](../records/swift-mazzzystar-queryable-52c87dc0.md) |
 | p0deje/Maccy | unknown | github_search_does_not_include_release_date | [open](../records/swift-p0deje-maccy-a0af33c6.md) |
-| tw93/Mole | partial | 2026-09-14T18:16:56Z | [open](../records/swift-tw93-mole-8d180f51.md) |
+| tw93/Mole | partial | 2026-09-15T07:57:04Z | [open](../records/swift-tw93-mole-8d180f51.md) |
 | XcodesOrg/XcodesApp | partial | 2026-09-14T14:52:15Z | [open](../records/swift-xcodesorg-xcodesapp-30834dbe.md) |
 
 ## Cocoa
@@ -808,7 +808,7 @@ Records: `608`
 | --- | --- | --- | --- |
 | achristmascarl/rainfrog | partial | 2026-08-25T01:39:44Z | [open](../records/databases-achristmascarl-rainfrog-b671adea.md) |
 | chdb-io/chdb | partial | 2026-09-11T09:16:35Z | [open](../records/databases-chdb-io-chdb-51490fbb.md) |
-| ClickHouse/ClickHouse | partial | 2026-09-15T07:22:44Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
+| ClickHouse/ClickHouse | partial | 2026-09-15T09:25:20Z | [open](../records/databases-clickhouse-clickhouse-9258f880.md) |
 | ClickHouse/clickhouse-odbc | partial | 2026-09-10T18:25:03Z | [open](../records/databases-clickhouse-clickhouse-odbc-7cfc6ac3.md) |
 | fortiql/data-forge | partial | 2025-10-11T09:01:25Z | [open](../records/databases-fortiql-data-forge-e3a319e7.md) |
 | golang-migrate/migrate | partial | 2026-09-09T05:06:21Z | [open](../records/databases-golang-migrate-migrate-1713bacf.md) |

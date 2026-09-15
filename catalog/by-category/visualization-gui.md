@@ -499,7 +499,7 @@ Records: `655`
 | mopsicus/uis | partial | 2026-06-04T08:08:04Z | [open](../records/assets-mopsicus-uis-65c71459.md) |
 | quiple/galmuri | partial | 2026-08-22T05:48:41Z | [open](../records/assets-quiple-galmuri-cb71a160.md) |
 | RandomTBush/RTB-QuickBMS-Scripts | partial | 2026-09-08T00:06:11Z | [open](../records/assets-randomtbush-rtb-quickbms-scripts-397e82c6.md) |
-| Shelf-nu/shelf.nu | partial | 2026-09-14T15:14:29Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
+| Shelf-nu/shelf.nu | partial | 2026-09-15T08:45:03Z | [open](../records/assets-shelf-nu-shelf-nu-2414163a.md) |
 | skfolio/skfolio | partial | 2026-09-14T14:22:48Z | [open](../records/assets-skfolio-skfolio-6087932e.md) |
 | TexturePacker | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/assets-texturepacker-1148bb30.md) |
 
@@ -801,7 +801,7 @@ Records: `655`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-14T15:25:24Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-15T02:26:05Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | emilk/egui | partial | 2026-09-11T15:54:57Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
 | langhuihui/jessibuca | partial | 2026-09-09T01:52:46Z | [open](../records/webassembly-langhuihui-jessibuca-ca741e72.md) |
 | tinysearch/tinysearch | partial | 2026-08-15T16:16:50Z | [open](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
@@ -863,7 +863,7 @@ Records: `655`
 | SwiftKickMobile/SwiftMessages | partial | 2026-01-26T02:59:00Z | [open](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
 | SwiftWebUI/SwiftWebUI | partial | 2024-03-02T16:11:08Z | [open](../records/swift-swiftwebui-swiftwebui-2d397522.md) |
 | thaw-app/Thaw | partial | 2026-09-11T01:32:59Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
-| VakhoKontridze/VComponents | partial | 2026-09-13T19:55:57Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
+| VakhoKontridze/VComponents | partial | 2026-09-15T08:56:38Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 | WillieWangWei/SwiftUI-Tutorials | partial | 2020-02-10T03:43:35Z | [open](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
 | yannickl/DynamicColor | partial | 2023-11-30T13:02:01Z | [open](../records/swift-yannickl-dynamiccolor-11df482b.md) |
 

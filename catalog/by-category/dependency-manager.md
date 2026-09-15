@@ -134,7 +134,7 @@ Records: `110`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| rtk-ai/rtk | partial | 2026-09-14T18:28:37Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
+| rtk-ai/rtk | partial | 2026-09-15T09:15:47Z | [open](../records/aim-s-rtk-ai-rtk-ba550a2c.md) |
 
 ## nix
 

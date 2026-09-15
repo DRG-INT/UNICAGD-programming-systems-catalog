@@ -39,9 +39,9 @@ inventory as part of device constraints, cross-compilation, driver behavior, and
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | {"key": "", "name": "", "url": ""}; MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Mixed license review |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

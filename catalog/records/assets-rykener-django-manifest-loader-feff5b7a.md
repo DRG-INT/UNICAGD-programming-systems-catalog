@@ -39,9 +39,9 @@ request routing, middleware policy, service structure, and deployment surface.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ request routing, middleware policy, service structure, and deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:assets stars:>100", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:assets stars:>100", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

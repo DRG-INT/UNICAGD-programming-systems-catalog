@@ -64,7 +64,7 @@ Records: `69`
 | [stackb/rules_proto](../records/starlark-stackb-rules-proto-b9dcde4f.md) | partial | 2026-09-08T20:02:39Z | registry-derived |
 | [tidbyt/pixlet](../records/starlark-tidbyt-pixlet-876fea90.md) | partial | 2026-09-10T21:45:00Z | registry-derived |
 | [tweag/rules_haskell](../records/starlark-tweag-rules-haskell-f813b994.md) | partial | 2026-09-11T03:57:40Z | registry-derived |
-| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-15T01:26:00Z | registry-derived |
+| [tweag/rules_nixpkgs](../records/starlark-tweag-rules-nixpkgs-ae7e2699.md) | partial | 2026-09-15T09:06:59Z | registry-derived |
 | [typedb/bazel-distribution](../records/starlark-typedb-bazel-distribution-95f6acb1.md) | partial | 2026-09-01T14:54:08Z | registry-derived |
 | [u-root/gobusybox](../records/starlark-u-root-gobusybox-136cf407.md) | partial | 2026-06-22T15:14:39Z | registry-derived |
 

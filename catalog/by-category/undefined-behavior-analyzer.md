@@ -1319,7 +1319,7 @@ Records: `1678`
 | MapServer/MapServer | partial | 2026-09-14T19:29:36Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-14T20:09:14Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-14T23:42:08Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
 | routingpy/routingpy | partial | 2026-09-01T21:44:57Z | [open](../records/maps-routingpy-routingpy-48967e3c.md) |
 | rspatial/terra | partial | 2026-09-14T09:03:32Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
@@ -1377,7 +1377,7 @@ Records: `1678`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-15T06:08:53Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-15T08:11:07Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1656,7 +1656,7 @@ Records: `1678`
 | --- | --- | --- | --- |
 | AppImage/appimage.github.io | partial | 2026-08-30T13:05:20Z | [open](../records/catalogs-appimage-appimage-github-io-f260d9b1.md) |
 | awclub/catalog | partial | 2025-03-14T14:22:23Z | [open](../records/catalogs-awclub-catalog-58839c97.md) |
-| datahub-project/datahub | partial | 2026-09-14T12:20:51Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
+| datahub-project/datahub | partial | 2026-09-15T09:22:30Z | [open](../records/catalogs-datahub-project-datahub-245b610a.md) |
 | erikdarlingdata/DarlingData | partial | 2026-09-12T21:02:43Z | [open](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) |
 | FeatureBaseDB/featurebase | partial | 2024-02-21T23:20:41Z | [open](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) |
 | fossaryhq/catalog | partial | 2026-09-12T02:24:58Z | [open](../records/catalogs-fossaryhq-catalog-c3ae2133.md) |
@@ -1719,7 +1719,7 @@ Records: `1678`
 | TryGhost/Editorial | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-editorial-24923224.md) |
 | TryGhost/London | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-london-a1950ab3.md) |
 | TryGhost/Massively | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-massively-019faf67.md) |
-| TryGhost/Ruby | partial | 2026-09-13T18:56:35Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
+| TryGhost/Ruby | partial | 2026-09-14T20:54:46Z | [open](../records/magazines-tryghost-ruby-e22f8483.md) |
 | TryGhost/Source | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-source-b70e1161.md) |
 | TryGhost/Wave | unknown | github_search_does_not_include_release_date | [open](../records/magazines-tryghost-wave-7da5b2a4.md) |
 | WantongC/journal-adapt-writing-skill | partial | 2026-05-15T03:18:22Z | [open](../records/magazines-wantongc-journal-adapt-writing-skill-cbbecfea.md) |
@@ -1860,7 +1860,7 @@ Records: `1678`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-15T03:31:08Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-15T08:51:06Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
 | dolthub/dolt | partial | 2026-09-15T01:20:38Z | [open](../records/databases-dolthub-dolt-702548e2.md) |

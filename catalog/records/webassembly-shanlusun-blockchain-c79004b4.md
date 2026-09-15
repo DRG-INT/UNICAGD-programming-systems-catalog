@@ -39,9 +39,9 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Other; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:WebAssembly stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "language:WebAssembly stars:>50", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

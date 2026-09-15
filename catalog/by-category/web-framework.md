@@ -584,7 +584,7 @@ Records: `502`
 | --- | --- | --- | --- |
 | arneb/django-campaign | partial | 2023-11-05T07:55:01Z | [open](../records/magazines-arneb-django-campaign-acca3d0d.md) |
 | benji6/moodtracker | partial | 2026-09-14T08:13:08Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
-| DenserMeerkat/June | partial | 2026-09-14T17:47:00Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
+| DenserMeerkat/June | partial | 2026-09-14T22:01:12Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
 | russmiles/life-preserver-introductory-article-developer-magazine | partial | 2013-10-16T14:30:28Z | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
 
@@ -661,7 +661,7 @@ Records: `502`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-13T06:47:46Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-15T07:06:49Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-15T09:16:58Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |

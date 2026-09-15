@@ -40,9 +40,9 @@ integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | Creative Commons Attribution Share Alike 4.0 International; https://api.github.com/licenses/cc-by-sa-4.0; MIT License; https://api.github.com/licenses/mit; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Backup plan required |
+| Evidence | GPL-3 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

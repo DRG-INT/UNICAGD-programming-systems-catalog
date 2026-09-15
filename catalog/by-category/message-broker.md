@@ -115,7 +115,7 @@ Records: `40`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| marmotdata/marmot | partial | 2026-09-13T22:31:53Z | [open](../records/catalogs-marmotdata-marmot-bdbf7d59.md) |
+| marmotdata/marmot | partial | 2026-09-14T17:22:24Z | [open](../records/catalogs-marmotdata-marmot-bdbf7d59.md) |
 
 ## Magazines
 

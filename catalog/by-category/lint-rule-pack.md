@@ -137,7 +137,7 @@ Records: `54`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| hike-lab/public-data-lens | partial | 2026-08-25T10:29:57Z | [open](../records/catalogs-hike-lab-public-data-lens-d3b545fa.md) |
+| hike-lab/public-data-lens | partial | 2026-09-14T23:02:30Z | [open](../records/catalogs-hike-lab-public-data-lens-d3b545fa.md) |
 | infosecB/Rulehound | partial | 2025-04-17T23:00:30Z | [open](../records/catalogs-infosecb-rulehound-e095dcf6.md) |
 
 ## WebAssembly

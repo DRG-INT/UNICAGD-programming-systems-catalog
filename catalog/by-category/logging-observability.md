@@ -368,7 +368,7 @@ Records: `598`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-15T08:00:36Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-15T09:20:11Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -487,9 +487,9 @@ Records: `598`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
-| locationtech/jts | partial | 2026-09-05T16:48:40Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
+| locationtech/jts | partial | 2026-09-15T03:39:46Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
 | meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
-| opengeos/geospatial-data-catalogs | partial | 2026-09-14T04:56:41Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
+| opengeos/geospatial-data-catalogs | partial | 2026-09-15T04:56:42Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
 | samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
 | Sedlacek-Solutions/SwiftUI-Navigation | partial | 2025-11-12T02:51:00Z | [open](../records/maps-sedlacek-solutions-swiftui-navigation-ee5e8b00.md) |
@@ -758,7 +758,7 @@ Records: `598`
 | SHERlocked93/progress-catalog | partial | 2023-04-29T01:38:28Z | [open](../records/catalogs-sherlocked93-progress-catalog-50952959.md) |
 | tfonteyn/NeverTooManyBooks | partial | 2026-09-11T15:12:20Z | [open](../records/catalogs-tfonteyn-nevertoomanybooks-ef9a6103.md) |
 | tobilg/quacklake | partial | 2026-06-09T17:28:30Z | [open](../records/catalogs-tobilg-quacklake-c2a822fa.md) |
-| tropical-algae/Axionara | partial | 2026-09-07T19:55:13Z | [open](../records/catalogs-tropical-algae-axionara-e2599d94.md) |
+| tropical-algae/Axionara | partial | 2026-09-14T19:53:00Z | [open](../records/catalogs-tropical-algae-axionara-e2599d94.md) |
 | ulbmuenster/dataasee | partial | 2026-05-27T11:20:38Z | [open](../records/catalogs-ulbmuenster-dataasee-580b9e92.md) |
 
 ## Magazines
@@ -800,7 +800,7 @@ Records: `598`
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-26d96d5e.md) |
 | com.sap.cloud.yaas.service-sdk:service-sdk-logging-filters | 4.17.1 | 2017-10-26T05:29:50+00:00 | [open](../records/sapjava-com-sap-cloud-yaas-service-sdk-service-sdk-logging-filters-cf3a376b.md) |
 | logalitech/cap-skills | partial | 2026-08-15T09:07:37Z | [open](../records/sapjava-logalitech-cap-skills-4147e508.md) |
-| SAP/cf-java-logging-support | partial | 2026-09-15T01:13:45Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
+| SAP/cf-java-logging-support | partial | 2026-09-15T08:12:56Z | [open](../records/sapjava-sap-cf-java-logging-support-6f89dbd9.md) |
 | SAP/cloud-metricswatcher | partial | 2026-05-27T14:12:12Z | [open](../records/sapjava-sap-cloud-metricswatcher-128bcc69.md) |
 | sapanablog/Medical-ERP-CAP | partial | 2026-07-12T14:42:34Z | [open](../records/sapjava-sapanablog-medical-erp-cap-2360a888.md) |
 | soyuztechnologies/EY_SAP_BTP_NODEJAVA_Nov2022 | partial | 2023-02-04T14:56:07Z | [open](../records/sapjava-soyuztechnologies-ey-sap-btp-nodejava-nov2022-6f1e6957.md) |

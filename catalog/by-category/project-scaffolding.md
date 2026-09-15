@@ -272,7 +272,7 @@ Records: `146`
 | quantixed/manuscript-templates | partial | 2026-01-21T08:54:04Z | [open](../records/magazines-quantixed-manuscript-templates-0fd952ae.md) |
 | razacreative/blog-dark | partial | 2020-06-16T05:05:48Z | [open](../records/magazines-razacreative-blog-dark-50487664.md) |
 | razacreative/Responsive-NavBar | partial | 2020-06-19T05:21:12Z | [open](../records/magazines-razacreative-responsive-navbar-21017105.md) |
-| rstudio/rticles | partial | 2026-09-14T15:17:39Z | [open](../records/magazines-rstudio-rticles-1354fe57.md) |
+| rstudio/rticles | partial | 2026-09-15T08:57:34Z | [open](../records/magazines-rstudio-rticles-1354fe57.md) |
 | shellywhen/Journal-Response-Letter-Template-LaTeX | partial | 2026-04-15T14:31:43Z | [open](../records/magazines-shellywhen-journal-response-letter-template-latex-e3622e7f.md) |
 | sunbliss/photorama | partial | 2022-11-26T16:31:05Z | [open](../records/magazines-sunbliss-photorama-e8437230.md) |
 
@@ -281,7 +281,7 @@ Records: `146`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | andrechristikan/ack-nestjs-boilerplate-kafka | partial | 2023-07-19T10:53:33Z | [open](../records/pattern-language-andrechristikan-ack-nestjs-boilerplate-kafka-29c3d599.md) |
-| cobusgreyling/loop-engineering | partial | 2026-09-15T08:01:46Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
+| cobusgreyling/loop-engineering | partial | 2026-09-15T08:33:02Z | [open](../records/pattern-language-cobusgreyling-loop-engineering-3a7d9a15.md) |
 
 ## PHP
 

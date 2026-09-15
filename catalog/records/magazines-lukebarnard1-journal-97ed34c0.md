@@ -40,7 +40,7 @@ diagnostics, metrics, auditability, tracing, and incident response.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ diagnostics, metrics, auditability, tracing, and incident response.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:journal stars:>20", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:journal stars:>20", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

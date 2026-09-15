@@ -117,7 +117,7 @@ Records: `67`
 | emikhalev/leaflet-2gis | partial | 2023-06-18T13:05:57Z | [open](../records/maps-emikhalev-leaflet-2gis-256a4bf3.md) |
 | Esri/esri-leaflet-geocoder | partial | 2026-03-24T13:41:39Z | [open](../records/maps-esri-esri-leaflet-geocoder-90d234ea.md) |
 | fleaflet/flutter_map | partial | 2026-09-13T23:07:36Z | [open](../records/maps-fleaflet-flutter-map-860f9704.md) |
-| geoman-io/leaflet-geoman | partial | 2026-09-14T11:53:00Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
+| geoman-io/leaflet-geoman | partial | 2026-09-15T08:22:11Z | [open](../records/maps-geoman-io-leaflet-geoman-fd699ba4.md) |
 | geosolutions-it/MapStore2 | unknown | github_search_does_not_include_release_date | [open](../records/maps-geosolutions-it-mapstore2-b03f8e67.md) |
 | GeoTIFF/georaster-layer-for-leaflet | unknown | github_search_does_not_include_release_date | [open](../records/maps-geotiff-georaster-layer-for-leaflet-de078a6e.md) |
 | humangeo/leaflet-dvf | partial | 2018-03-15T00:01:17Z | [open](../records/maps-humangeo-leaflet-dvf-f9b85b0b.md) |
@@ -135,7 +135,7 @@ Records: `67`
 | stefanocudini/leaflet-geojson-selector | partial | 2023-08-11T10:14:24Z | [open](../records/maps-stefanocudini-leaflet-geojson-selector-4e7b0158.md) |
 | stefanocudini/leaflet-panel-layers | partial | 2023-08-11T10:14:14Z | [open](../records/maps-stefanocudini-leaflet-panel-layers-1671721d.md) |
 | stefanocudini/leaflet-search | partial | 2024-06-30T08:08:14Z | [open](../records/maps-stefanocudini-leaflet-search-4701fbde.md) |
-| SuperMap/iClient-JavaScript | partial | 2026-09-11T09:28:36Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
+| SuperMap/iClient-JavaScript | partial | 2026-09-15T08:37:25Z | [open](../records/maps-supermap-iclient-javascript-599d0b5a.md) |
 | tomickigrzegorz/leaflet-examples | partial | 2026-08-28T16:30:35Z | [open](../records/maps-tomickigrzegorz-leaflet-examples-846ca4d6.md) |
 | Wildhoney/Leaflet.FreeDraw | partial | 2025-05-08T12:03:53Z | [open](../records/maps-wildhoney-leaflet-freedraw-f3c0cfd2.md) |
 

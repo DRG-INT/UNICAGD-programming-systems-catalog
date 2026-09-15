@@ -59,7 +59,7 @@ Records: `349`
 | [mangerlahn/Latest](../records/cocoa-mangerlahn-latest-c5177e79.md) | partial | 2026-07-18T07:25:39Z | registry-derived |
 | [microsoft/fluentui-apple](../records/cocoa-microsoft-fluentui-apple-c58d8099.md) | partial | 2026-09-07T04:28:15Z | registry-derived |
 | [ninjaprox/NVActivityIndicatorView](../records/cocoa-ninjaprox-nvactivityindicatorview-be1309bd.md) | partial | 2026-03-18T02:19:26Z | registry-derived |
-| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-14T20:46:33Z | registry-derived |
+| [r0x0r/pywebview](../records/cocoa-r0x0r-pywebview-2ae4b8d3.md) | partial | 2026-09-15T09:21:17Z | registry-derived |
 | [SwiftyVIPER](../records/cocoa-swiftyviper-f314feea.md) | 2.0 | 2018-02-05T05:06:46Z | registry-derived |
 | [The Composable Architecture](../records/cocoa-the-composable-architecture-548344c0.md) | 1.26.2 | 2026-08-28T21:10:35Z | registry-derived |
 | [xmartlabs/Eureka](../records/cocoa-xmartlabs-eureka-e10ee14d.md) | partial | 2024-09-12T17:04:03Z | registry-derived |
@@ -132,10 +132,10 @@ Records: `349`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T06:32:36Z | registry-derived |
+| [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T09:22:31Z | registry-derived |
 | [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-14T22:07:35Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
-| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T07:07:18Z | registry-derived |
+| [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-15T09:16:31Z | registry-derived |
 
 ### Filesystem Os
 
@@ -235,7 +235,7 @@ Records: `349`
 | [Sentry](../records/cocoa-sentry-5755fd31.md) | 8.58.4 | 2026-07-14 16:24:57 UTC | registry-derived |
 | [SwiftyOAuth](../records/cocoa-swiftyoauth-e67a0934.md) | v0.3 | 2016-05-26T16:17:39Z | registry-derived |
 | [textmate/textmate](../records/cocoa-textmate-textmate-91b26640.md) | partial | 2024-05-18T11:00:21Z | registry-derived |
-| [wordpress-mobile/AztecEditor-iOS](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) | partial | 2026-09-14T14:12:50Z | registry-derived |
+| [wordpress-mobile/AztecEditor-iOS](../records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) | partial | 2026-09-15T09:23:48Z | registry-derived |
 | [yahoo/AppDevKit](../records/cocoa-yahoo-appdevkit-086034f0.md) | partial | 2024-12-13T10:04:16Z | registry-derived |
 | [Yalantis/Pull-to-Refresh.Rentals-iOS](../records/cocoa-yalantis-pull-to-refresh-rentals-ios-c4b7308d.md) | partial | 2018-06-16T09:20:03Z | registry-derived |
 | [Yalantis/Side-Menu.iOS](../records/cocoa-yalantis-side-menu-ios-60a08b2a.md) | partial | 2020-04-13T06:45:38Z | registry-derived |

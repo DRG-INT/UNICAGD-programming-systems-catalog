@@ -40,9 +40,9 @@ integration.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""} |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | MIT |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Microsoft.Azure.Functions.Worker.Extensions.Http/3.3.0/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

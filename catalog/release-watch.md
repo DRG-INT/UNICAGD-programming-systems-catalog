@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-15T08:26:21+00:00`
+Generated: `2026-09-15T09:25:44+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,8 +28,8 @@ Generated: `2026-09-15T08:26:21+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11060 |
-| Unknown stable release | 18384 |
+| Known stable release | 11072 |
+| Unknown stable release | 18372 |
 
 ## Newest Known Stable Metadata
 
@@ -304,11 +304,11 @@ Generated: `2026-09-15T08:26:21+00:00`
 | github_latest_release_missing | 172 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
-| hackage_top_downloads_page_does_not_include_release_date | 13 |
 | not_a_cocoapods_name | 7 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
+| hackage_top_downloads_page_does_not_include_release_date | 1 |
 
 ## Preview And Nightly Signals
 

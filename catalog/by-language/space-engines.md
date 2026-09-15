@@ -262,7 +262,7 @@ Records: `160`
 | [IO-Aerospace-software-engineering/Astrodynamics](../records/space-engines-io-aerospace-software-engineering-astrodynamics-2179baf6.md) | partial | 2026-07-31T19:10:48Z | registry-derived |
 | [jacobwilliams/Fortran-Astrodynamics-Toolkit](../records/space-engines-jacobwilliams-fortran-astrodynamics-toolkit-0fbb1aa0.md) | partial | 2025-10-29T03:43:23Z | registry-derived |
 | [lizard-isana/orb.js](../records/space-engines-lizard-isana-orb-js-65c97be7.md) | partial | 2026-09-05T23:49:02Z | registry-derived |
-| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-14T11:11:13Z | registry-derived |
+| [lox-space/lox](../records/space-engines-lox-space-lox-d5077f9a.md) | partial | 2026-09-15T08:28:09Z | registry-derived |
 | [MasterOgon/Aeroacoustic-Flying-Saucer-Oscillating-Resonator-CFD-Simulation-LBM-](../records/space-engines-masterogon-aeroacoustic-flying-saucer-oscillating-resonator-cfd-simulation-lbm-88f2724c.md) | partial | 2026-07-27T16:53:55Z | registry-derived |
 | [onekiloparsec/SwiftAA](../records/space-engines-onekiloparsec-swiftaa-dda5a441.md) | partial | 2026-05-31T09:03:53Z | registry-derived |
 | [poliastro/poliastro](../records/space-engines-poliastro-poliastro-bebf5f35.md) | partial | 2023-10-14T15:30:47Z | registry-derived |

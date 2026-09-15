@@ -41,9 +41,9 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; MIT License; https://api.github.com/licenses/mit |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:asset-management stars:>50", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:asset-management stars:>50", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 
