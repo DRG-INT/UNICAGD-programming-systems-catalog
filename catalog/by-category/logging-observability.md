@@ -639,7 +639,7 @@ Records: `598`
 | holmos-mikroskop/holmos | partial | 2019-11-18T21:28:13Z | [open](../records/microscopy-holmos-mikroskop-holmos-086d35a4.md) |
 | ijpb/MorphoLibJ | partial | 2026-07-30T11:07:03Z | [open](../records/microscopy-ijpb-morpholibj-fb1a146e.md) |
 | kevinjohncutler/omnipose | partial | 2026-09-11T09:07:48Z | [open](../records/microscopy-kevinjohncutler-omnipose-48a8957e.md) |
-| TissueImageAnalytics/tiatoolbox | partial | 2026-09-11T10:30:08Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
+| TissueImageAnalytics/tiatoolbox | partial | 2026-09-14T23:57:29Z | [open](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) |
 | UU-cellbiology/ZstackDepthColorCode | partial | 2025-11-06T19:19:23Z | [open](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) |
 
 ## Radars

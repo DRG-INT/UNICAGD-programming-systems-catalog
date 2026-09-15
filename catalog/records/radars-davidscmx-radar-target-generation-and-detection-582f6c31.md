@@ -45,7 +45,7 @@ operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Other; {"key": "", "name": "", "url": ""} |
+| Evidence | {"key": "", "name": "", "url": ""} |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -62,7 +62,7 @@ operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:radar stars:>20", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

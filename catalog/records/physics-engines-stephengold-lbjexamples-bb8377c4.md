@@ -40,9 +40,9 @@ operator onboarding, API understanding, and upgrade review.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; MIT License; https://api.github.com/licenses/mit; Other |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

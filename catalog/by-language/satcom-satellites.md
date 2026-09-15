@@ -143,7 +143,7 @@ Records: `327`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-13T15:24:14Z | registry-derived |
+| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-15T03:32:02Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [antonjan/gnuradio-grc-examples](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) | partial | 2022-09-02T07:17:09Z | registry-derived |
 | [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-01T16:22:42Z | registry-derived |

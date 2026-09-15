@@ -402,7 +402,7 @@ Records: `341`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ayalgenzer/Security-Camera | partial | 2018-01-18T12:20:23Z | [open](../records/electromagnetoscopes-ayalgenzer-security-camera-1c20f09c.md) |
-| PentHertz/RF-Swift | partial | 2026-09-08T13:37:49Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
+| PentHertz/RF-Swift | partial | 2026-09-14T23:09:19Z | [open](../records/electromagnetoscopes-penthertz-rf-swift-91a223bf.md) |
 
 ## Repertoare Catalogs
 

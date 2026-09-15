@@ -39,9 +39,9 @@ inventory as part of diagnostics, metrics, auditability, tracing, and incident r
 
 | Field | Value |
 | --- | --- |
-| Detected family | Other permissive |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Other |
-| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
+| Detected family | Unknown license |
+| Evidence | Other |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ inventory as part of diagnostics, metrics, auditability, tracing, and incident r
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-14 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "repertoire catalog", "retrieved": "2026-09-14", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "repertoire catalog", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

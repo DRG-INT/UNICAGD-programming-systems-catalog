@@ -248,7 +248,7 @@ Records: `194`
 | [holmos-mikroskop/holmos](../records/microscopy-holmos-mikroskop-holmos-086d35a4.md) | partial | 2019-11-18T21:28:13Z | registry-derived |
 | [ijpb/MorphoLibJ](../records/microscopy-ijpb-morpholibj-fb1a146e.md) | partial | 2026-07-30T11:07:03Z | registry-derived |
 | [kevinjohncutler/omnipose](../records/microscopy-kevinjohncutler-omnipose-48a8957e.md) | partial | 2026-09-11T09:07:48Z | registry-derived |
-| [TissueImageAnalytics/tiatoolbox](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) | partial | 2026-09-11T10:30:08Z | registry-derived |
+| [TissueImageAnalytics/tiatoolbox](../records/microscopy-tissueimageanalytics-tiatoolbox-a18863d3.md) | partial | 2026-09-14T23:57:29Z | registry-derived |
 | [UU-cellbiology/ZstackDepthColorCode](../records/microscopy-uu-cellbiology-zstackdepthcolorcode-2dae5fc0.md) | partial | 2025-11-06T19:19:23Z | registry-derived |
 
 ### Machine Learning

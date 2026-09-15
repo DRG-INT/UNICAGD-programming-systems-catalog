@@ -21,8 +21,8 @@
 
 ## System Engineer Summary
 
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking
-like caveman
+🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of
+tokens by talking like a caveman.
 
 ## Operational Role
 
@@ -33,7 +33,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T03:21:18Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-15T04:00:36Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

@@ -309,7 +309,7 @@ Records: `308`
 | [ReturnInfinity/BareMetal-OS-legacy](../records/assembly-returninfinity-baremetal-os-legacy-09317d7c.md) | partial | 2017-11-20T15:29:43Z | registry-derived |
 | [RibShark/OmniDrive](../records/assembly-ribshark-omnidrive-32257d20.md) | partial | 2026-07-18T06:48:57Z | registry-derived |
 | [riscv-software-src/riscv-tests](../records/assembly-riscv-software-src-riscv-tests-77e7e3cb.md) | partial | 2026-08-14T22:09:19Z | registry-derived |
-| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-15T03:19:41Z | registry-derived |
+| [riscv/riscv-arch-test](../records/assembly-riscv-riscv-arch-test-0b5f8870.md) | partial | 2026-09-15T03:49:43Z | registry-derived |
 | [riscvarchive/riscv-v-spec](../records/assembly-riscvarchive-riscv-v-spec-60c48d12.md) | partial | 2024-03-17T15:04:35Z | registry-derived |
 | [ROCm/MIOpen](../records/assembly-rocm-miopen-1181b14a.md) | partial | 2026-09-09T01:04:36Z | registry-derived |
 | [sam-astro/Astro8-Computer](../records/assembly-sam-astro-astro8-computer-d279451b.md) | partial | 2026-08-27T17:50:17Z | registry-derived |
@@ -365,7 +365,7 @@ Records: `308`
 | [mattdibi/redox-keyboard](../records/assembly-mattdibi-redox-keyboard-e1f3e991.md) | partial | 2026-05-26T18:15:22Z | registry-derived |
 | [MattPD/cpplinks](../records/assembly-mattpd-cpplinks-29eb7bcc.md) | partial | 2026-09-15T03:10:14Z | registry-derived |
 | [meribold/btry](../records/assembly-meribold-btry-acc80abb.md) | partial | 2026-08-02T18:34:33Z | registry-derived |
-| [mmcloughlin/avo](../records/assembly-mmcloughlin-avo-46167d30.md) | partial | 2026-09-14T06:24:41Z | registry-derived |
+| [mmcloughlin/avo](../records/assembly-mmcloughlin-avo-46167d30.md) | partial | 2026-09-15T04:06:08Z | registry-derived |
 | [mohitmishra786/amILearningEnough](../records/assembly-mohitmishra786-amilearningenough-299c3826.md) | partial | 2026-03-26T16:42:23Z | registry-derived |
 | [noteed/riscv-hello-asm](../records/assembly-noteed-riscv-hello-asm-dc120f1a.md) | partial | 2021-10-16T12:08:54Z | registry-derived |
 | [pgaskin/kobo-mods](../records/assembly-pgaskin-kobo-mods-bbd1ab40.md) | partial | 2026-08-15T01:59:10Z | registry-derived |
@@ -379,7 +379,7 @@ Records: `308`
 | [takenobu-hs/cpu-assembly-examples](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) | partial | 2024-05-19T06:55:01Z | registry-derived |
 | [Thraetaona/EXACT](../records/assembly-thraetaona-exact-bb36746a.md) | partial | 2024-06-13T18:59:42Z | registry-derived |
 | [vonsim/vonsim](../records/assembly-vonsim-vonsim-6a8ef78f.md) | partial | 2026-09-08T02:41:41Z | registry-derived |
-| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-14T16:16:43Z | registry-derived |
+| [vvaltchev/tilck](../records/assembly-vvaltchev-tilck-455a611e.md) | partial | 2026-09-15T04:16:25Z | registry-derived |
 | [xtnded/codextended](../records/assembly-xtnded-codextended-97cbc636.md) | partial | 2026-05-07T10:43:51Z | registry-derived |
 | [yds12/x64-roadmap](../records/assembly-yds12-x64-roadmap-3b9663e2.md) | partial | 2020-07-16T15:54:20Z | registry-derived |
 | [yrp604/rappel](../records/assembly-yrp604-rappel-4bf787bb.md) | partial | 2024-03-07T04:45:15Z | registry-derived |

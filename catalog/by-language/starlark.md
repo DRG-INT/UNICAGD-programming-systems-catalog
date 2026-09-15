@@ -33,7 +33,7 @@ Records: `69`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [adobe/rules_gitops](../records/starlark-adobe-rules-gitops-09140ed0.md) | partial | 2026-09-09T13:13:25Z | registry-derived |
-| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-15T03:20:33Z | registry-derived |
+| [aspect-build/rules_js](../records/starlark-aspect-build-rules-js-fd75b379.md) | partial | 2026-09-15T04:04:19Z | registry-derived |
 | [aspect-build/rules_py](../records/starlark-aspect-build-rules-py-910f4833.md) | partial | 2026-09-11T15:05:50Z | registry-derived |
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-14T00:31:19Z | registry-derived |
@@ -48,7 +48,7 @@ Records: `69`
 | [bazelbuild/rules_closure](../records/starlark-bazelbuild-rules-closure-5adb8287.md) | partial | 2026-04-03T21:28:30Z | registry-derived |
 | [bazelbuild/rules_java](../records/starlark-bazelbuild-rules-java-690a4936.md) | partial | 2026-09-10T16:38:19Z | registry-derived |
 | [bazelbuild/rules_k8s](../records/starlark-bazelbuild-rules-k8s-80683477.md) | partial | 2023-05-12T13:44:37Z | registry-derived |
-| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-14T19:41:15Z | registry-derived |
+| [bazelbuild/rules_swift](../records/starlark-bazelbuild-rules-swift-3968ab89.md) | partial | 2026-09-15T03:46:21Z | registry-derived |
 | [bazelbuild/rules_typescript](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) | partial | 2020-10-23T14:44:49Z | registry-derived |
 | [cgrindel/rules_swift_package_manager](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) | partial | 2026-09-14T15:25:22Z | registry-derived |
 | [dropbox/dbx_build_tools](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) | partial | 2023-08-16T17:42:36Z | registry-derived |
@@ -105,7 +105,7 @@ Records: `69`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-09-15T02:52:03Z | registry-derived |
+| [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-09-15T04:21:45Z | registry-derived |
 | [bazel-contrib/rules_nodejs](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) | partial | 2026-09-10T07:38:02Z | registry-derived |
 | [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-10T06:13:05Z | registry-derived |
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-08-31T14:21:32Z | registry-derived |

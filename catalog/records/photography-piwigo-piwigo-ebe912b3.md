@@ -41,7 +41,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

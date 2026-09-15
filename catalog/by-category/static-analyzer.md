@@ -450,7 +450,7 @@ Records: `688`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-15T03:16:09Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-15T04:05:59Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -809,7 +809,7 @@ Records: `688`
 | tabahi/Mel-Spectrum-Analyzer | partial | 2025-09-08T03:41:05Z | [open](../records/electromagnetoscopes-tabahi-mel-spectrum-analyzer-a1d84357.md) |
 | tabahi/WebSpeechAnalyzer | partial | 2025-09-08T03:48:39Z | [open](../records/electromagnetoscopes-tabahi-webspeechanalyzer-57a2cd43.md) |
 | tektronix/RSA_API | partial | 2020-12-08T07:35:24Z | [open](../records/electromagnetoscopes-tektronix-rsa-api-3914ecbd.md) |
-| tlecomte/friture | partial | 2026-09-08T04:13:57Z | [open](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
+| tlecomte/friture | partial | 2026-09-15T04:11:50Z | [open](../records/electromagnetoscopes-tlecomte-friture-49f41869.md) |
 | trustytrojan/libavz | partial | 2026-07-20T02:48:07Z | [open](../records/electromagnetoscopes-trustytrojan-libavz-52a58525.md) |
 | ttrftech/NanoVNA | partial | 2020-11-11T21:02:22Z | [open](../records/electromagnetoscopes-ttrftech-nanovna-4dca7773.md) |
 | tyfkda/nesemu | partial | 2026-09-10T02:53:28Z | [open](../records/electromagnetoscopes-tyfkda-nesemu-92680f0b.md) |
