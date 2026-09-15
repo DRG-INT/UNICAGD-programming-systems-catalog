@@ -141,7 +141,7 @@ Records: `67`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | jitsi/jitsi | partial | 2026-06-02T16:42:03Z | [open](../records/video-jitsi-jitsi-d268b078.md) |
-| jitsi/jitsi-meet | partial | 2026-09-15T12:19:21Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
+| jitsi/jitsi-meet | partial | 2026-09-15T14:53:53Z | [open](../records/video-jitsi-jitsi-meet-a39e115b.md) |
 | miroslavpejic85/mirotalksfu | partial | 2026-09-14T18:53:45Z | [open](../records/video-miroslavpejic85-mirotalksfu-bd845714.md) |
 
 ## Radars

@@ -34,7 +34,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
 | stable | known | 0.30.0 | 2026-09-11T06:23:52.812069Z | [https://pub.dev/api/packages/kalender](https://pub.dev/api/packages/kalender) |  |
-| preview | known | 0.31.0-dev.3 | 2026-09-15T11:08:51.953484Z | [https://pub.dev/api/packages/kalender](https://pub.dev/api/packages/kalender) |  |
+| preview | known | 0.31.0-dev.4 | 2026-09-15T12:48:27.235772Z | [https://pub.dev/api/packages/kalender](https://pub.dev/api/packages/kalender) |  |
 
 ## License And Use Alert
 

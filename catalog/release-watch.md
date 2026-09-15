@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-15T14:25:11+00:00`
+Generated: `2026-09-15T15:21:52+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -28,8 +28,8 @@ Generated: `2026-09-15T14:25:11+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11120 |
-| Unknown stable release | 18380 |
+| Known stable release | 11113 |
+| Unknown stable release | 18387 |
 
 ## Newest Known Stable Metadata
 
@@ -77,6 +77,7 @@ Generated: `2026-09-15T14:25:11+00:00`
 | @remotion/studio-server | Node.js/JavaScript | Web Framework | 4.0.525 | 2026-09-15T12:46:32.259Z | [open](records/node-js-javascript-remotion-studio-server-ed620dc3.md) |
 | yamlscript | Haskell | Serialization | 0.3.0.0 | 2026-09-15T12:43:09Z | [open](records/haskell-yamlscript-f3f0625d.md) |
 | @formatjs/cli-lib | Node.js/JavaScript | Formatter | 10.0.5 | 2026-09-15T12:27:46.123Z | [open](records/node-js-javascript-formatjs-cli-lib-def010ee.md) |
+| flutter_calendar_carousel | Dart | Build System | 3.0.1 | 2026-09-15T12:26:56.018498Z | [open](records/dart-flutter-calendar-carousel-db33e07d.md) |
 | @formatjs/cli | Node.js/JavaScript | Formatter | 6.16.29 | 2026-09-15T12:25:41.081Z | [open](records/node-js-javascript-formatjs-cli-5afa24d0.md) |
 | @xemahq/biome-database-nest | Node.js/JavaScript | Interpreter Runtime | 0.28.1 | 2026-09-15T12:09:00.739Z | [open](records/node-js-javascript-xemahq-biome-database-nest-2c8095df.md) |
 | file_picker | Dart | Filesystem Os | 13.1.0 | 2026-09-15T11:53:57.743758Z | [open](records/dart-file-picker-09b00b4c.md) |
@@ -284,13 +285,12 @@ Generated: `2026-09-15T14:25:11+00:00`
 | async-compression | Rust | Async Runtime | 0.4.47 | 2026-09-14T11:16:15.623576Z | [open](records/rust-async-compression-1943c86c.md) |
 | compression-codecs | Rust | Compression | 0.4.42 | 2026-09-14T11:16:11.274506Z | [open](records/rust-compression-codecs-b842972a.md) |
 | sydtest-persistent-postgresql | Haskell | Testing Framework | 0.5.1.0 | 2026-09-14T10:40:12Z | [open](records/haskell-sydtest-persistent-postgresql-5f2df8c5.md) |
-| ai_barcode_scanner | Dart | Static Analyzer | 8.2.0 | 2026-09-14T10:28:25.187774Z | [open](records/dart-ai-barcode-scanner-b66d3773.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10535 |
+| gh_search_reports_activity_not_release_version | 10803 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |
@@ -299,24 +299,22 @@ Generated: `2026-09-15T14:25:11+00:00`
 | go_module_index_event_is_preview_or_pseudoversion | 414 |
 | curated_language_route_requires_source_specific_release_lookup | 400 |
 | gitea_search_api_reports_activity_not_release_version | 273 |
-| github_latest_release_missing | 265 |
 | awesome_list_does_not_include_release_date | 237 |
 | gitlab_projects_api_reports_activity_not_release_version | 198 |
-| not_a_go_module_path | 174 |
+| github_latest_release_missing | 172 |
 | curated_database_record_requires_source_specific_release_lookup | 87 |
 | official_workplace_route_requires_source_specific_release_lookup | 59 |
+| hackage_top_downloads_page_does_not_include_release_date | 13 |
 | not_a_cocoapods_name | 7 |
-| hackage_top_downloads_page_does_not_include_release_date | 6 |
 | release_date_missing | 5 |
 | cocoapods_metadata_missing | 5 |
 | source_returned_no_release | 2 |
-| go_proxy_latest_missing | 1 |
 
 ## Preview And Nightly Signals
 
 | Name | Language | Channel | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
-| kalender | Dart | preview | 0.31.0-dev.3 | 2026-09-15T11:08:51.953484Z | [open](records/dart-kalender-10f50158.md) |
+| kalender | Dart | preview | 0.31.0-dev.4 | 2026-09-15T12:48:27.235772Z | [open](records/dart-kalender-10f50158.md) |
 | flex_color_scheme | Dart | preview | 9.0.0-dev.1 | 2026-09-14T23:37:53.472823Z | [open](records/dart-flex-color-scheme-aa9a0a84.md) |
 | speech_to_text | Dart | preview | 7.6.0-beta.1 | 2026-09-14T20:26:09.794166Z | [open](records/dart-speech-to-text-cbab6b04.md) |
 | flutter_appauth | Dart | preview | 13.0.0-dev.1 | 2026-09-13T08:04:49.302492Z | [open](records/dart-flutter-appauth-5be855e9.md) |

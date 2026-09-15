@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-15T14:25:11+00:00`
+Generated: `2026-09-15T15:21:52+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -38,7 +38,7 @@ Generated: `2026-09-15T14:25:11+00:00`
 | Node.js/TypeScript | 393 | 353 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
 | R | 2256 | 2256 | [R](by-language/r.md) |
-| Haskell | 1785 | 1779 | [Haskell](by-language/haskell.md) |
+| Haskell | 1785 | 1772 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
@@ -175,7 +175,7 @@ Generated: `2026-09-15T14:25:11+00:00`
 | Node.js/TypeScript | 353 | 40 |
 | Lua family | 0 | 1937 |
 | R | 2256 | 0 |
-| Haskell | 1779 | 6 |
+| Haskell | 1772 | 13 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |

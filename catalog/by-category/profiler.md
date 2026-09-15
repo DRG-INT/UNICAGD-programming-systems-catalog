@@ -139,13 +139,13 @@ Records: `99`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | k8s.io/kops/tools/otel/traceserver | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-k8s-io-kops-tools-otel-traceserver-e25f5fec.md) |
-| pranshuparmar/witr | unknown | not_a_go_module_path | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
+| pranshuparmar/witr | partial | 2026-08-15T22:55:12Z | [open](../records/go-pranshuparmar-witr-b0667e49.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| langfuse/langfuse | partial | 2026-09-15T14:22:11Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
+| langfuse/langfuse | partial | 2026-09-15T15:19:35Z | [open](../records/aim-s-langfuse-langfuse-5c6399a9.md) |
 
 ## Computer Graphics Software
 

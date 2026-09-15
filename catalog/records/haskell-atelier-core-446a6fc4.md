@@ -32,8 +32,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.6.1.0 | 2026-09-15T09:40:32Z | [https://hackage.haskell.org/package/atelier-core](https://hackage.haskell.org/package/atelier-core) |  |
-| candidate | partial | 0.5.0.0 |  | [https://hackage.haskell.org/package/atelier-core](https://hackage.haskell.org/package/atelier-core) | hackage_candidate_date_missing |
+| stable | known | 0.6.1.0 | 2026-09-15T09:40:32Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
+| preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -47,8 +47,8 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/atelier-core` at `2026-09-15T14:25:09+00:00`.
-- Preview/nightly metadata is unknown because `hackage_candidate_date_missing`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-15T15:19:34+00:00`.
+- Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
 

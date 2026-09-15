@@ -368,7 +368,7 @@ Records: `451`
 | --- | --- | --- | --- |
 | AndrewAnnex/asap_stereo | partial | 2026-07-23T21:49:02Z | [open](../records/space-maps-andrewannex-asap-stereo-37cce249.md) |
 | athob/py-ananke | partial | 2026-08-10T23:30:51Z | [open](../records/space-maps-athob-py-ananke-ac3b22bc.md) |
-| bysiber/cleardisk | partial | 2026-09-03T08:45:20Z | [open](../records/space-maps-bysiber-cleardisk-83f43fa2.md) |
+| bysiber/cleardisk | partial | 2026-09-10T17:22:13Z | [open](../records/space-maps-bysiber-cleardisk-83f43fa2.md) |
 | cybatron0/the-kardashev | partial | 2026-09-06T05:47:08Z | [open](../records/space-maps-cybatron0-the-kardashev-90ca95ea.md) |
 | daddykev/stardust-distro | partial | 2025-09-03T23:13:59Z | [open](../records/space-maps-daddykev-stardust-distro-1e09e701.md) |
 | daddykev/stardust-dsp | partial | 2025-09-03T18:15:54Z | [open](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) |
@@ -410,7 +410,7 @@ Records: `451`
 | attenlabs/saa-sdk | partial | 2026-07-15T20:52:27Z | [open](../records/audio-attenlabs-saa-sdk-feb070cb.md) |
 | Audio4Linux/JDSP4Linux | partial | 2026-08-29T16:29:46Z | [open](../records/audio-audio4linux-jdsp4linux-effd41ab.md) |
 | collidingScopes/arpeggiator | partial | 2025-06-22T20:06:32Z | [open](../records/audio-collidingscopes-arpeggiator-f2da818f.md) |
-| modelscope/FunASR | partial | 2026-09-10T10:59:25Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
+| modelscope/FunASR | partial | 2026-09-15T15:15:25Z | [open](../records/audio-modelscope-funasr-8e089427.md) |
 | open-audio-stack/open-audio-stack-registry | partial | 2026-09-12T03:55:08Z | [open](../records/audio-open-audio-stack-open-audio-stack-registry-6bcfb8c0.md) |
 
 ## Video

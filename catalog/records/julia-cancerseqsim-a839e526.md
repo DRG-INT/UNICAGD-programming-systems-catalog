@@ -40,7 +40,7 @@ mapping, dependency review, release awareness, and operational fit assessment.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; MIT License; https://api.github.com/licenses/mit; zlib License; https://api.github.com/licenses/zlib |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

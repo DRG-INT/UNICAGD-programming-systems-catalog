@@ -129,7 +129,7 @@ Records: `657`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Arxhsz/Project-Orion](../records/space-maps-arxhsz-project-orion-6090cda4.md) | partial | 2026-08-21T16:21:45Z | registry-derived |
-| [CelestiaProject/Celestia](../records/space-maps-celestiaproject-celestia-c6ce4bc8.md) | partial | 2026-09-09T20:26:07Z | registry-derived |
+| [CelestiaProject/Celestia](../records/space-maps-celestiaproject-celestia-c6ce4bc8.md) | partial | 2026-09-14T10:30:08Z | registry-derived |
 | [Gabriel-Hatcher/Planetry_Oribital_Graphics](../records/space-maps-gabriel-hatcher-planetry-oribital-graphics-b8d855fb.md) | partial | 2021-05-06T21:52:26Z | registry-derived |
 | [hollisliu/Spacetime-Rhapsody](../records/space-maps-hollisliu-spacetime-rhapsody-fd23d073.md) | partial | 2017-05-10T19:40:49Z | registry-derived |
 | [Jthora/TimeMaps](../records/space-maps-jthora-timemaps-5e27a537.md) | partial | 2024-09-18T19:32:40Z | registry-derived |
@@ -456,7 +456,7 @@ Records: `657`
 | [nickschoey/starwars](../records/space-maps-nickschoey-starwars-de85e166.md) | partial | 2021-01-05T20:21:45Z | registry-derived |
 | [olganedelcu/catalog-star-wars](../records/space-maps-olganedelcu-catalog-star-wars-614cc377.md) | partial | 2026-01-03T19:32:38Z | registry-derived |
 | [On1ari/starwars-catalog](../records/space-maps-on1ari-starwars-catalog-cb6bee5c.md) | partial | 2025-07-16T21:09:11Z | registry-derived |
-| [pickles4evaaaa/mybibliotheca](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) | partial | 2026-09-09T22:01:39Z | registry-derived |
+| [pickles4evaaaa/mybibliotheca](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) | partial | 2026-09-14T12:18:28Z | registry-derived |
 | [proxygo/catalogo-de-filmes-star-wars](../records/space-maps-proxygo-catalogo-de-filmes-star-wars-8eefd151.md) | partial | 2023-10-12T19:15:06Z | registry-derived |
 | [Quarior/Star-Wars-catalogs-for-Space-Engine](../records/space-maps-quarior-star-wars-catalogs-for-space-engine-acfd1c94.md) | partial | 2023-06-22T13:10:18Z | registry-derived |
 | [Quasarkiste487/starCatalogue](../records/space-maps-quasarkiste487-starcatalogue-553c179d.md) | partial | 2026-03-10T15:22:17Z | registry-derived |
@@ -480,7 +480,7 @@ Records: `657`
 | --- | --- | --- | --- |
 | [0vercl0k/clairvoyance](../records/space-maps-0vercl0k-clairvoyance-94adf7f3.md) | partial | 2021-03-16T01:55:54Z | registry-derived |
 | [ArturSchuetz/Spherical-Wavelets-for-Globe-Rendering](../records/space-maps-arturschuetz-spherical-wavelets-for-globe-rendering-5fcb8b61.md) | partial | 2026-08-04T18:53:32Z | registry-derived |
-| [BeckaDesignsCartographyCats/planetary-panthers-](../records/space-maps-beckadesignscartographycats-planetary-panthers-b9440ac4.md) | partial | 2026-09-02T00:15:57Z | registry-derived |
+| [BeckaDesignsCartographyCats/planetary-panthers-](../records/space-maps-beckadesignscartographycats-planetary-panthers-b9440ac4.md) | partial | 2026-09-12T16:45:07Z | registry-derived |
 | [brainglobe/brainrender](../records/space-maps-brainglobe-brainrender-d171ffb2.md) | partial | 2026-09-08T07:28:40Z | registry-derived |
 | [CAIDA/walrus](../records/space-maps-caida-walrus-7207a60d.md) | partial | 2021-08-31T17:45:48Z | registry-derived |
 | [chaitanya100100/VAE-for-Image-Generation](../records/space-maps-chaitanya100100-vae-for-image-generation-d07ab153.md) | partial | 2018-10-22T04:51:54Z | registry-derived |
@@ -495,7 +495,7 @@ Records: `657`
 | [oaslananka/kicad-studio-kit](../records/space-maps-oaslananka-kicad-studio-kit-b96a6649.md) | partial | 2026-09-04T01:52:12Z | registry-derived |
 | [PAIR-code/font-explorer](../records/space-maps-pair-code-font-explorer-1514fd91.md) | partial | 2026-04-15T06:54:30Z | registry-derived |
 | [planetaryprobst/naif_spice](../records/space-maps-planetaryprobst-naif-spice-3899b064.md) | partial | 2025-09-22T23:38:10Z | registry-derived |
-| [RonTheRentalCop/Dirtlets](../records/space-maps-rontherentalcop-dirtlets-a42969ea.md) | partial | 2026-09-11T03:25:09Z | registry-derived |
+| [RonTheRentalCop/Dirtlets](../records/space-maps-rontherentalcop-dirtlets-a42969ea.md) | partial | 2026-09-15T03:46:48Z | registry-derived |
 | [Smoren/molecular-ts](../records/space-maps-smoren-molecular-ts-8f49e17d.md) | partial | 2026-09-06T10:11:52Z | registry-derived |
 | [ThomasWinn/repo-AiPlanetaryWars](../records/space-maps-thomaswinn-repo-aiplanetarywars-389320ec.md) | partial | 2019-02-24T06:59:38Z | registry-derived |
 | [timsainb/Tensorflow-MultiGPU-VAE-GAN](../records/space-maps-timsainb-tensorflow-multigpu-vae-gan-94d8fdf6.md) | partial | 2019-05-14T19:56:07Z | registry-derived |
@@ -548,7 +548,7 @@ Records: `657`
 | --- | --- | --- | --- |
 | [AndrewAnnex/asap_stereo](../records/space-maps-andrewannex-asap-stereo-37cce249.md) | partial | 2026-07-23T21:49:02Z | registry-derived |
 | [athob/py-ananke](../records/space-maps-athob-py-ananke-ac3b22bc.md) | partial | 2026-08-10T23:30:51Z | registry-derived |
-| [bysiber/cleardisk](../records/space-maps-bysiber-cleardisk-83f43fa2.md) | partial | 2026-09-03T08:45:20Z | registry-derived |
+| [bysiber/cleardisk](../records/space-maps-bysiber-cleardisk-83f43fa2.md) | partial | 2026-09-10T17:22:13Z | registry-derived |
 | [cybatron0/the-kardashev](../records/space-maps-cybatron0-the-kardashev-90ca95ea.md) | partial | 2026-09-06T05:47:08Z | registry-derived |
 | [daddykev/stardust-distro](../records/space-maps-daddykev-stardust-distro-1e09e701.md) | partial | 2025-09-03T23:13:59Z | registry-derived |
 | [daddykev/stardust-dsp](../records/space-maps-daddykev-stardust-dsp-ad11bf31.md) | partial | 2025-09-03T18:15:54Z | registry-derived |
@@ -827,7 +827,7 @@ Records: `657`
 | --- | --- | --- | --- |
 | [ActiveInferenceInstitute/GeneralizedNotationNotation](../records/space-maps-activeinferenceinstitute-generalizednotationnotation-9a454500.md) | partial | 2026-09-05T04:09:32Z | registry-derived |
 | [rishimohan2715/rishis-stargazing-guide](../records/space-maps-rishimohan2715-rishis-stargazing-guide-3e62e801.md) | partial | 2026-01-01T16:33:21Z | registry-derived |
-| [thkruz/keeptrack.space](../records/space-maps-thkruz-keeptrack-space-99132b54.md) | partial | 2026-09-09T10:49:28Z | registry-derived |
+| [thkruz/keeptrack.space](../records/space-maps-thkruz-keeptrack-space-99132b54.md) | partial | 2026-09-10T12:18:20Z | registry-derived |
 
 ### Undefined Behavior Analyzer
 
@@ -891,7 +891,7 @@ Records: `657`
 | [jeffreymorganio/d3-space-filler-explorer](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) | partial | 2020-08-14T18:14:55Z | registry-derived |
 | [JohnEdChristensen/WebbCompare](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) | partial | 2024-03-01T22:17:38Z | registry-derived |
 | [jrenaud90/TidalPy](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) | partial | 2026-09-15T05:37:08Z | registry-derived |
-| [KDE/filelight](../records/space-maps-kde-filelight-548ef1de.md) | partial | 2026-09-06T02:30:31Z | registry-derived |
+| [KDE/filelight](../records/space-maps-kde-filelight-548ef1de.md) | partial | 2026-09-10T10:23:58Z | registry-derived |
 | [kevincon/utilityknife](../records/space-maps-kevincon-utilityknife-0060e5b5.md) | partial | 2023-05-02T03:56:38Z | registry-derived |
 | [kitanokitsune/gEDA-WIN](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) | partial | 2018-07-31T13:51:54Z | registry-derived |
 | [Machines-of-Disruption/latent-tools](../records/space-maps-machines-of-disruption-latent-tools-db46bfde.md) | partial | 2026-01-14T11:40:17Z | registry-derived |

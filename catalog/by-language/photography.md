@@ -200,7 +200,7 @@ Records: `600`
 | [GEEKiDoS/bitblt-hdr](../records/photography-geekidos-bitblt-hdr-d6f3d105.md) | partial | 2026-05-14T04:13:50Z | registry-derived |
 | [gergelysanta/PhotoMiner](../records/photography-gergelysanta-photominer-7d3deb74.md) | partial | 2025-02-09T13:08:04Z | registry-derived |
 | [HaishinKit/HaishinKit.swift](../records/photography-haishinkit-haishinkit-swift-ee473b6b.md) | partial | 2026-09-13T00:02:43Z | registry-derived |
-| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-09-14T15:36:18Z | registry-derived |
+| [hanatos/vkdt](../records/photography-hanatos-vkdt-673c0f96.md) | partial | 2026-09-15T14:48:47Z | registry-derived |
 | [hulk66/timeline](../records/photography-hulk66-timeline-edac6d56.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [indulgeIn/YBImageBrowser](../records/photography-indulgein-ybimagebrowser-e5a55591.md) | partial | 2023-11-24T10:57:58Z | registry-derived |
 | [jdisho/Papr](../records/photography-jdisho-papr-d97d54b2.md) | partial | 2020-09-17T16:39:35Z | registry-derived |
@@ -236,7 +236,7 @@ Records: `600`
 | [wsl2ls/iOS_Tips](../records/photography-wsl2ls-ios-tips-4b0e1ffa.md) | partial | 2022-08-28T19:02:32Z | registry-derived |
 | [Yummypets/YPImagePicker](../records/photography-yummypets-ypimagepicker-25854b52.md) | partial | 2026-07-28T15:57:49Z | registry-derived |
 | [zapdos-labs/unblink](../records/photography-zapdos-labs-unblink-0845b1a9.md) | partial | 2026-03-09T09:42:25Z | registry-derived |
-| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-15T00:16:22Z | registry-derived |
+| [zidage/AlcedoStudio](../records/photography-zidage-alcedostudio-7b939307.md) | partial | 2026-09-15T15:04:33Z | registry-derived |
 | [ZSDM-HDR/Zero-Shot-Diffusion-HDR](../records/photography-zsdm-hdr-zero-shot-diffusion-hdr-0216b999.md) | partial | 2025-08-25T07:36:28Z | registry-derived |
 
 ### Formatter
@@ -246,7 +246,7 @@ Records: `600`
 | [AcademySoftwareFoundation/OpenImageIO](../records/photography-academysoftwarefoundation-openimageio-a97ad013.md) | partial | 2026-09-13T05:27:31Z | registry-derived |
 | [AlenVelocity/wa-sticker-formatter](../records/photography-alenvelocity-wa-sticker-formatter-09b95bf0.md) | partial | 2026-08-10T19:22:06Z | registry-derived |
 | [ankitdhall/lidar_camera_calibration](../records/photography-ankitdhall-lidar-camera-calibration-71522045.md) | partial | 2025-10-16T18:17:31Z | registry-derived |
-| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-15T12:48:33Z | registry-derived |
+| [blakeblackshear/frigate](../records/photography-blakeblackshear-frigate-ea8ac18c.md) | partial | 2026-09-15T15:19:50Z | registry-derived |
 | [blakeblackshear/frigate-hass-integration](../records/photography-blakeblackshear-frigate-hass-integration-49b84b9e.md) | partial | 2026-09-04T06:33:23Z | registry-derived |
 | [d2phap/ImageGlass](../records/photography-d2phap-imageglass-ec40014f.md) | partial | 2026-09-15T12:15:23Z | registry-derived |
 | [dnglab/dnglab](../records/photography-dnglab-dnglab-05d113bb.md) | partial | 2026-08-30T14:57:26Z | registry-derived |
@@ -337,7 +337,7 @@ Records: `600`
 | [panpf/sketch](../records/photography-panpf-sketch-813812e6.md) | partial | 2026-08-08T08:33:06Z | registry-derived |
 | [PhotoFlare/photoflare](../records/photography-photoflare-photoflare-54d4deb9.md) | partial | 2026-09-13T19:00:44Z | registry-derived |
 | [photostructure/exiftool-vendored.js](../records/photography-photostructure-exiftool-vendored-js-7488694d.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-15T12:59:40Z | registry-derived |
+| [PicPeak/picpeak](../records/photography-picpeak-picpeak-ff45b8ad.md) | partial | 2026-09-15T14:54:14Z | registry-derived |
 | [piemonte/PBJVision](../records/photography-piemonte-pbjvision-040d75d4.md) | partial | 2021-03-03T06:14:45Z | registry-derived |
 | [pokeheadroom/RENDER96-HD-TEXTURE-PACK](../records/photography-pokeheadroom-render96-hd-texture-pack-def74558.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [qinjintian/qq-zone](../records/photography-qinjintian-qq-zone-4ca751a3.md) | partial | 2026-09-04T15:35:31Z | registry-derived |
@@ -657,7 +657,7 @@ Records: `600`
 | [iammatthias/com](../records/photography-iammatthias-com-e27dacc6.md) | partial | 2026-09-14T18:38:32Z | registry-derived |
 | [iib0011/omni-tools](../records/photography-iib0011-omni-tools-25e339f6.md) | partial | 2026-08-17T19:00:25Z | registry-derived |
 | [imgproxy/imgproxy](../records/photography-imgproxy-imgproxy-fffb72aa.md) | partial | 2026-09-12T19:38:26Z | registry-derived |
-| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-15T11:37:35Z | registry-derived |
+| [jim-easterbrook/Photini](../records/photography-jim-easterbrook-photini-e6016870.md) | partial | 2026-09-15T13:32:53Z | registry-derived |
 | [kydecker/astro-photo-grid](../records/photography-kydecker-astro-photo-grid-8e515209.md) | partial | 2026-08-11T01:32:56Z | registry-derived |
 | [lunohodov/awesome-astrophotography](../records/photography-lunohodov-awesome-astrophotography-2e7b7b64.md) | partial | 2026-06-11T04:43:54Z | registry-derived |
 | [Naxela/The_Lightmapper](../records/photography-naxela-the-lightmapper-5258d55d.md) | partial | 2026-07-18T22:24:35Z | registry-derived |
@@ -789,7 +789,7 @@ Records: `600`
 | [Afilmory/afilmory](../records/photography-afilmory-afilmory-bc0398b6.md) | partial | 2026-09-12T10:39:50Z | registry-derived |
 | [baidut/BIMEF](../records/photography-baidut-bimef-5aec88db.md) | partial | 2019-03-16T15:23:45Z | registry-derived |
 | [CanHub/Android-Image-Cropper](../records/photography-canhub-android-image-cropper-809e8be6.md) | partial | 2026-04-28T07:09:28Z | registry-derived |
-| [dougdonohoe/ddphotos](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) | partial | 2026-09-13T14:32:02Z | registry-derived |
+| [dougdonohoe/ddphotos](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) | partial | 2026-09-15T13:57:41Z | registry-derived |
 | [exiftool-rb/exiftool.rb](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) | partial | 2026-06-22T16:52:35Z | registry-derived |
 | [facebookincubator/spectrum](../records/photography-facebookincubator-spectrum-ca421e69.md) | partial | 2024-04-04T18:56:52Z | registry-derived |
 | [fengyuanchen/cropper](../records/photography-fengyuanchen-cropper-ed549363.md) | partial | 2020-07-21T10:46:15Z | registry-derived |

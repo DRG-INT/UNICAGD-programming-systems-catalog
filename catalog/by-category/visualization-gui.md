@@ -317,10 +317,10 @@ Records: `657`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| inancgumus/learngo | unknown | not_a_go_module_path | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
+| inancgumus/learngo | partial | 2025-06-24T23:03:52Z | [open](../records/go-inancgumus-learngo-aa01cb96.md) |
 | kungfusheep/glyph | partial | 2026-08-28T16:49:36Z | [open](../records/go-kungfusheep-glyph-15af0f04.md) |
 | modernc.org/quickjs | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-modernc-org-quickjs-953c15ce.md) |
-| piquette/finance-go | unknown | not_a_go_module_path | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
+| piquette/finance-go | partial | 2023-08-07T03:39:03Z | [open](../records/go-piquette-finance-go-e7f50ebc.md) |
 
 ## Starlark
 
@@ -571,7 +571,7 @@ Records: `657`
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
 | jrenaud90/TidalPy | partial | 2026-09-15T05:37:08Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
-| KDE/filelight | partial | 2026-09-06T02:30:31Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
+| KDE/filelight | partial | 2026-09-10T10:23:58Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
 | Machines-of-Disruption/latent-tools | partial | 2026-01-14T11:40:17Z | [open](../records/space-maps-machines-of-disruption-latent-tools-db46bfde.md) |

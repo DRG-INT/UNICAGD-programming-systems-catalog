@@ -41,7 +41,7 @@ discovery, security review, undefined-state detection, and regression prevention
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | Other; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; MIT License; https://api.github.com/licenses/mit |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

@@ -40,9 +40,9 @@ part of low-noise code review, style consistency, and automation-friendly editin
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0; MIT License; https://api.github.com/licenses/mit; Other |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | MIT |
+| Evidence | Other; MIT; https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/10.0.11/license |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 

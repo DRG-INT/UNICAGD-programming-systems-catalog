@@ -32,23 +32,23 @@ feedback, style policy, defect prevention, and local/CI quality gates.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | not_a_go_module_path |
-| preview/nightly | unknown |  |  | unknown | not_a_go_module_path |
+| stable | partial |  | 2026-09-13T11:23:56Z | gh search repos topic:golang stars:>1000 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Mixed license review |
+| Evidence | Other; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0; MIT License; https://api.github.com/licenses/mit |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
 - Treat category as `linter` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `not_a_go_module_path`.
-- Preview/nightly metadata is unknown because `not_a_go_module_path`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 

@@ -32,7 +32,7 @@ code generation, static analysis, and source transformation.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.0.1.1 | 2026-09-15T07:47:53Z | [https://hackage.haskell.org/package/aihc-parser](https://hackage.haskell.org/package/aihc-parser) |  |
+| stable | known | 3.0.1.1 | 2026-09-15T07:47:53Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ code generation, static analysis, and source transformation.
 
 - Treat category as `parser_lexer_ast` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/aihc-parser` at `2026-09-15T14:25:10+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-15T15:19:34+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance

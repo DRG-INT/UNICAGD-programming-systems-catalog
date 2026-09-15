@@ -32,23 +32,23 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | not_a_go_module_path |
-| preview/nightly | unknown |  |  | unknown | not_a_go_module_path |
+| stable | partial |  | 2026-09-15T14:58:43Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Mixed license review |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
-| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `not_a_go_module_path`.
-- Preview/nightly metadata is unknown because `not_a_go_module_path`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 

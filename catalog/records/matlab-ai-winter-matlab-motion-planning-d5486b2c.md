@@ -34,8 +34,8 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | unknown |  |  | unknown | github_latest_release_missing |
-| preview/nightly | unknown |  |  | unknown | github_prerelease_missing |
+| stable | partial |  | 2025-04-03T09:05:56Z | gh search repos language:MATLAB stars:>100 | gh_search_reports_activity_not_release_version |
+| preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
@@ -49,8 +49,8 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 - Treat category as `language_specification` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Stable release is unknown because `github_latest_release_missing`.
-- Preview/nightly metadata is unknown because `github_prerelease_missing`.
+- Stable release is unknown because `gh_search_reports_activity_not_release_version`.
+- Preview/nightly metadata is unknown because `gh_search_has_no_standard_nightly_channel`.
 
 ## Provenance
 

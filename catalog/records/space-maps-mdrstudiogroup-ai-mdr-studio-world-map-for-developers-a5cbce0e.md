@@ -41,7 +41,7 @@ interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ interfaces.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "planetary maps", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "planetary maps", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

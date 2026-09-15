@@ -38,9 +38,9 @@ Records: `69`
 | [Bazel](../records/starlark-bazel-189ae4a2.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [bazel-contrib/bazel-lib](../records/starlark-bazel-contrib-bazel-lib-fce95ce1.md) | partial | 2026-09-14T00:31:19Z | registry-derived |
 | [bazel-contrib/rules_cuda](../records/starlark-bazel-contrib-rules-cuda-00a89ba0.md) | partial | 2026-09-15T00:40:57Z | registry-derived |
-| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-15T11:25:59Z | registry-derived |
+| [bazel-contrib/rules_dotnet](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) | partial | 2026-09-15T14:31:41Z | registry-derived |
 | [bazel-contrib/rules_go](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) | partial | 2026-09-14T19:04:56Z | registry-derived |
-| [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-15T14:17:20Z | registry-derived |
+| [bazel-contrib/rules_img](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) | partial | 2026-09-15T15:15:02Z | registry-derived |
 | [bazel-contrib/rules_kotlin](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) | partial | 2026-09-15T14:19:58Z | registry-derived |
 | [bazel-contrib/rules_scala](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) | partial | 2026-09-13T21:32:30Z | registry-derived |
 | [bazelbuild/bazel-skylib](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) | partial | 2026-09-01T20:37:47Z | registry-derived |
@@ -107,7 +107,7 @@ Records: `69`
 | --- | --- | --- | --- |
 | [bazel-contrib/rules_foreign_cc](../records/starlark-bazel-contrib-rules-foreign-cc-74f543fe.md) | partial | 2026-09-15T04:21:45Z | registry-derived |
 | [bazel-contrib/rules_nodejs](../records/starlark-bazel-contrib-rules-nodejs-6ba164bc.md) | partial | 2026-09-10T07:38:02Z | registry-derived |
-| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-10T06:13:05Z | registry-derived |
+| [bazel-contrib/rules_python](../records/starlark-bazel-contrib-rules-python-3138da4d.md) | partial | 2026-09-15T14:36:33Z | registry-derived |
 | [bazelbuild/examples](../records/starlark-bazelbuild-examples-aa7ebe53.md) | partial | 2026-09-15T13:37:54Z | registry-derived |
 | [bazelbuild/rules_apple](../records/starlark-bazelbuild-rules-apple-9bc4356d.md) | partial | 2026-09-15T02:54:39Z | registry-derived |
 | [bazelbuild/rules_docker](../records/starlark-bazelbuild-rules-docker-9df12e7c.md) | partial | 2025-12-22T00:24:32Z | registry-derived |

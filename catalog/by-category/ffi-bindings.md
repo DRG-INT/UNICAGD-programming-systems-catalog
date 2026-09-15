@@ -407,7 +407,7 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| Tencent/MMKV | unknown | not_a_go_module_path | [open](../records/go-tencent-mmkv-37e997c5.md) |
+| Tencent/MMKV | partial | 2026-09-14T08:10:14Z | [open](../records/go-tencent-mmkv-37e997c5.md) |
 
 ## "aim's"
 

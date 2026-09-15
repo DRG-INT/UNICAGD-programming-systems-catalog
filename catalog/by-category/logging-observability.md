@@ -370,7 +370,7 @@ Records: `600`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | partial | 2026-09-15T14:49:37Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
@@ -561,7 +561,7 @@ Records: `600`
 | nickschoey/starwars | partial | 2021-01-05T20:21:45Z | [open](../records/space-maps-nickschoey-starwars-de85e166.md) |
 | olganedelcu/catalog-star-wars | partial | 2026-01-03T19:32:38Z | [open](../records/space-maps-olganedelcu-catalog-star-wars-614cc377.md) |
 | On1ari/starwars-catalog | partial | 2025-07-16T21:09:11Z | [open](../records/space-maps-on1ari-starwars-catalog-cb6bee5c.md) |
-| pickles4evaaaa/mybibliotheca | partial | 2026-09-09T22:01:39Z | [open](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) |
+| pickles4evaaaa/mybibliotheca | partial | 2026-09-14T12:18:28Z | [open](../records/space-maps-pickles4evaaaa-mybibliotheca-61d0c3a3.md) |
 | proxygo/catalogo-de-filmes-star-wars | partial | 2023-10-12T19:15:06Z | [open](../records/space-maps-proxygo-catalogo-de-filmes-star-wars-8eefd151.md) |
 | Quarior/Star-Wars-catalogs-for-Space-Engine | partial | 2023-06-22T13:10:18Z | [open](../records/space-maps-quarior-star-wars-catalogs-for-space-engine-acfd1c94.md) |
 | Quasarkiste487/starCatalogue | partial | 2026-03-10T15:22:17Z | [open](../records/space-maps-quasarkiste487-starcatalogue-553c179d.md) |

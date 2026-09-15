@@ -184,7 +184,7 @@ Records: `257`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| livekit/livekit | unknown | not_a_go_module_path | [open](../records/go-livekit-livekit-1b3e6406.md) |
+| livekit/livekit | partial | 2026-09-15T07:31:44Z | [open](../records/go-livekit-livekit-1b3e6406.md) |
 
 ## Computer Graphics Software
 
@@ -268,7 +268,7 @@ Records: `257`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Arxhsz/Project-Orion | partial | 2026-08-21T16:21:45Z | [open](../records/space-maps-arxhsz-project-orion-6090cda4.md) |
-| CelestiaProject/Celestia | partial | 2026-09-09T20:26:07Z | [open](../records/space-maps-celestiaproject-celestia-c6ce4bc8.md) |
+| CelestiaProject/Celestia | partial | 2026-09-14T10:30:08Z | [open](../records/space-maps-celestiaproject-celestia-c6ce4bc8.md) |
 | Gabriel-Hatcher/Planetry_Oribital_Graphics | partial | 2021-05-06T21:52:26Z | [open](../records/space-maps-gabriel-hatcher-planetry-oribital-graphics-b8d855fb.md) |
 | hollisliu/Spacetime-Rhapsody | partial | 2017-05-10T19:40:49Z | [open](../records/space-maps-hollisliu-spacetime-rhapsody-fd23d073.md) |
 | Jthora/TimeMaps | partial | 2024-09-18T19:32:40Z | [open](../records/space-maps-jthora-timemaps-5e27a537.md) |

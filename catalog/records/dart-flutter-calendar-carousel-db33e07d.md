@@ -33,7 +33,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 3.0.0 | 2026-08-09T23:56:51.649766Z | [https://pub.dev/api/packages/flutter_calendar_carousel](https://pub.dev/api/packages/flutter_calendar_carousel) |  |
+| stable | known | 3.0.1 | 2026-09-15T12:26:56.018498Z | [https://pub.dev/api/packages/flutter_calendar_carousel](https://pub.dev/api/packages/flutter_calendar_carousel) |  |
 | preview/nightly | unknown |  |  | unknown | pub_dev_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -48,7 +48,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 - Treat category as `build_system` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_calendar_carousel` at `2026-09-01T14:20:31+00:00`.
+- Latest stable metadata was observed from `https://pub.dev/api/packages/flutter_calendar_carousel` at `2026-09-15T15:19:34+00:00`.
 - Preview/nightly metadata is unknown because `pub_dev_has_no_standard_nightly_channel`.
 
 ## Provenance

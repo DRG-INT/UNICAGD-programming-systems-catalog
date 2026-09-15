@@ -40,7 +40,7 @@ allocation analysis, latency control, and capacity planning.
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

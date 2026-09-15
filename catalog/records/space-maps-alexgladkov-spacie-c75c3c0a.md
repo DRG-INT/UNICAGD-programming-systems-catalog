@@ -41,7 +41,7 @@ discovery, security review, undefined-state detection, and regression prevention
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""}; Other |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ discovery, security review, undefined-state detection, and regression prevention
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

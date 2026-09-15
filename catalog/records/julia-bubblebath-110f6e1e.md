@@ -39,9 +39,9 @@ mapping, dependency review, release awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; MIT License; https://api.github.com/licenses/mit; Other |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Other permissive |
+| Evidence | BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 

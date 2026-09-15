@@ -33,7 +33,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T10:49:28Z | gh search repos space visualization | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-10T12:18:20Z | gh search repos space visualization | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ interface contracts, migration safety, editor feedback, and large-codebase maint
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-10 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-10", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "space visualization", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
 
 </details>
 

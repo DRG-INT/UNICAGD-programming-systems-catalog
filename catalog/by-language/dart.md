@@ -90,7 +90,7 @@ Records: `771`
 | [flow_builder](../records/dart-flow-builder-2903df36.md) | 0.1.0 | 2024-04-02T04:42:38.369249Z | registry-derived |
 | [flutter_animate](../records/dart-flutter-animate-680cfc40.md) | 4.5.2 | 2024-11-25T19:37:57.335524Z | registry-derived |
 | [flutter_bloc](../records/dart-flutter-bloc-8878cc64.md) | 9.1.1 | 2025-05-02T04:01:45.969428Z | registry-derived |
-| [flutter_calendar_carousel](../records/dart-flutter-calendar-carousel-db33e07d.md) | 3.0.0 | 2026-08-09T23:56:51.649766Z | registry-derived |
+| [flutter_calendar_carousel](../records/dart-flutter-calendar-carousel-db33e07d.md) | 3.0.1 | 2026-09-15T12:26:56.018498Z | registry-derived |
 | [flutter_form_builder](../records/dart-flutter-form-builder-e0cfd341.md) | 11.0.0 | 2026-08-15T15:15:47.329577Z | registry-derived |
 | [flutter_mobx](../records/dart-flutter-mobx-75a6d8b9.md) | 2.4.0 | 2026-09-11T08:38:39.499918Z | registry-derived |
 | [flutter_parsed_text](../records/dart-flutter-parsed-text-49895c4e.md) | 2.2.1 | 2021-06-01T04:58:40.278380Z | registry-derived |

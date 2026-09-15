@@ -622,7 +622,7 @@ Records: `785`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [AcademySoftwareFoundation/MaterialX](../records/effects-academysoftwarefoundation-materialx-1f8662c9.md) | partial | 2026-09-13T21:14:43Z | registry-derived |
-| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-14T19:50:40Z | registry-derived |
+| [AcademySoftwareFoundation/openexr](../records/effects-academysoftwarefoundation-openexr-76904ac6.md) | partial | 2026-09-15T14:33:55Z | registry-derived |
 | [AcademySoftwareFoundation/OpenPBR](../records/effects-academysoftwarefoundation-openpbr-358a3a7c.md) | partial | 2026-04-22T11:26:32Z | registry-derived |
 | [AcademySoftwareFoundation/OpenShadingLanguage](../records/effects-academysoftwarefoundation-openshadinglanguage-cb82500e.md) | partial | 2026-09-13T01:06:16Z | registry-derived |
 | [ALH477/ai-faust-dsp-effects](../records/effects-alh477-ai-faust-dsp-effects-6881f2de.md) | partial | 2026-03-03T19:38:36Z | registry-derived |

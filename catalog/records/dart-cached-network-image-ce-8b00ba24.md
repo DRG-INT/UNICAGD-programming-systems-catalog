@@ -41,7 +41,7 @@ communication, clients/servers, protocol handling, and edge integration.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | Microsoft Public License; https://api.github.com/licenses/ms-pl |
+| Evidence | unknown |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes

@@ -32,16 +32,16 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T12:53:13Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-15T14:48:19Z | gh search repos topic:microscopy stars:>20 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Backup plan required |
-| Evidence | GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
-| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
+| Detected family | Mixed license review |
+| Evidence | BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; GNU Affero General Public License v3.0; https://api.github.com/licenses/agpl-3.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 

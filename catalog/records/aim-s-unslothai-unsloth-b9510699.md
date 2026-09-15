@@ -33,7 +33,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T14:22:26Z | gh search repos topic:llm stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-15T15:18:46Z | gh search repos topic:llm stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ pipelines, numerical runtime constraints, and data/deployment interfaces.
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | MIT License; https://api.github.com/licenses/mit; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes

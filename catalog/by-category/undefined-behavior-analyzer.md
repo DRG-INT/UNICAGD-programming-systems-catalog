@@ -424,9 +424,9 @@ Records: `1678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| bluenviron/mediamtx | unknown | not_a_go_module_path | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
-| dariubs/GoBooks | unknown | not_a_go_module_path | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
-| eryajf/learning-weekly | unknown | not_a_go_module_path | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
+| bluenviron/mediamtx | partial | 2026-09-15T05:04:17Z | [open](../records/go-bluenviron-mediamtx-aebc3b64.md) |
+| dariubs/GoBooks | partial | 2026-07-13T16:08:02Z | [open](../records/go-dariubs-gobooks-0b7963ea.md) |
+| eryajf/learning-weekly | partial | 2026-09-10T14:30:39Z | [open](../records/go-eryajf-learning-weekly-a4ad8741.md) |
 | github.com/01org/isa-l | v2.22.0+incompatible | 2026-08-30T14:09:32.299469Z | [open](../records/go-github-com-01org-isa-l-8ef09eb2.md) |
 | github.com/1panel-dev/1Panel/agent | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-com-1panel-dev-1panel-agent-8df4b3a6.md) |
 | github.com/2rumaki-playground/game-001-dungeon-cards | v0.103.0 | 2026-08-30T16:30:21.794494Z | [open](../records/go-github-com-2rumaki-playground-game-001-dungeon-cards-97fa2334.md) |
@@ -1155,9 +1155,9 @@ Records: `1678`
 | github.laiyagushi.com/nemith/dothome | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-github-laiyagushi-com-nemith-dothome-32cd483a.md) |
 | github.laiyagushi.com/valkey-io/valkey-go | v1.0.56 | 2026-08-30T15:31:38.453275Z | [open](../records/go-github-laiyagushi-com-valkey-io-valkey-go-b2864d71.md) |
 | jfrog/gocenter | partial | 2021-05-14T11:38:26Z | [open](../records/go-jfrog-gocenter-404e69f1.md) |
-| labring/sealos | unknown | not_a_go_module_path | [open](../records/go-labring-sealos-594e5269.md) |
-| uber-go/guide | unknown | not_a_go_module_path | [open](../records/go-uber-go-guide-c330b782.md) |
-| uber-go/zap | unknown | not_a_go_module_path | [open](../records/go-uber-go-zap-07ea12d8.md) |
+| labring/sealos | partial | 2026-09-15T03:31:58Z | [open](../records/go-labring-sealos-594e5269.md) |
+| uber-go/guide | partial | 2026-04-15T15:10:48Z | [open](../records/go-uber-go-guide-c330b782.md) |
+| uber-go/zap | partial | 2026-08-31T18:59:30Z | [open](../records/go-uber-go-zap-07ea12d8.md) |
 | unpoller/unifi | partial | 2026-09-14T22:22:39Z | [open](../records/go-unpoller-unifi-0809cf4a.md) |
 
 ## Starlark
@@ -1450,13 +1450,13 @@ Records: `1678`
 | bluenviron/mediamtx | partial | 2026-09-14T17:04:36Z | [open](../records/video-bluenviron-mediamtx-e1135074.md) |
 | CarGuo/GSYVideoPlayer | partial | 2026-09-01T06:44:06Z | [open](../records/video-carguo-gsyvideoplayer-181bf65c.md) |
 | chengyi-ai/native-subtitle-quote-image | partial | 2026-08-24T06:21:54Z | [open](../records/video-chengyi-ai-native-subtitle-quote-image-4aceabd6.md) |
-| Chocobozzz/PeerTube | partial | 2026-09-15T09:29:27Z | [open](../records/video-chocobozzz-peertube-ff9a950e.md) |
+| Chocobozzz/PeerTube | partial | 2026-09-15T13:47:50Z | [open](../records/video-chocobozzz-peertube-ff9a950e.md) |
 | code-charity/youtube | partial | 2026-09-15T11:19:46Z | [open](../records/video-code-charity-youtube-413818e8.md) |
 | cookpete/react-player | partial | 2025-11-13T19:27:44Z | [open](../records/video-cookpete-react-player-4ee05d0c.md) |
 | cropsly/ffmpeg-android-java | partial | 2021-07-31T10:27:20Z | [open](../records/video-cropsly-ffmpeg-android-java-b9341efc.md) |
 | datarhei/restreamer | partial | 2026-05-22T06:57:59Z | [open](../records/video-datarhei-restreamer-ebfeeaad.md) |
 | doubleZ0108/Digital-Media-Technology-PKU | partial | 2022-02-04T14:32:32Z | [open](../records/video-doublez0108-digital-media-technology-pku-8ed0714e.md) |
-| FreeTubeApp/FreeTube | partial | 2026-09-15T11:38:03Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
+| FreeTubeApp/FreeTube | partial | 2026-09-15T14:07:22Z | [open](../records/video-freetubeapp-freetube-f7bd248f.md) |
 | getopenscreen/openscreen | partial | 2026-09-14T19:07:30Z | [open](../records/video-getopenscreen-openscreen-37ac0137.md) |
 | Hao0321/video-autopilot-kit | partial | 2026-08-27T15:00:28Z | [open](../records/video-hao0321-video-autopilot-kit-125cdf3e.md) |
 | Hubs-Foundation/hubs | partial | 2026-08-23T08:58:42Z | [open](../records/video-hubs-foundation-hubs-e3d5e722.md) |
@@ -1490,7 +1490,7 @@ Records: `1678`
 | Afilmory/afilmory | partial | 2026-09-12T10:39:50Z | [open](../records/photography-afilmory-afilmory-bc0398b6.md) |
 | baidut/BIMEF | partial | 2019-03-16T15:23:45Z | [open](../records/photography-baidut-bimef-5aec88db.md) |
 | CanHub/Android-Image-Cropper | partial | 2026-04-28T07:09:28Z | [open](../records/photography-canhub-android-image-cropper-809e8be6.md) |
-| dougdonohoe/ddphotos | partial | 2026-09-13T14:32:02Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
+| dougdonohoe/ddphotos | partial | 2026-09-15T13:57:41Z | [open](../records/photography-dougdonohoe-ddphotos-39c5aac3.md) |
 | exiftool-rb/exiftool.rb | partial | 2026-06-22T16:52:35Z | [open](../records/photography-exiftool-rb-exiftool-rb-a5ae98ad.md) |
 | facebookincubator/spectrum | partial | 2024-04-04T18:56:52Z | [open](../records/photography-facebookincubator-spectrum-ca421e69.md) |
 | fengyuanchen/cropper | partial | 2020-07-21T10:46:15Z | [open](../records/photography-fengyuanchen-cropper-ed549363.md) |

@@ -32,7 +32,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | known | 0.15.0.0 | 2026-09-14T18:10:21Z | [https://hackage.haskell.org/package/shibuya-pgmq-adapter](https://hackage.haskell.org/package/shibuya-pgmq-adapter) |  |
+| stable | known | 0.15.0.0 | 2026-09-14T18:10:21Z | [https://hackage.haskell.org/packages/recent](https://hackage.haskell.org/packages/recent) |  |
 | preview/nightly | unknown |  |  | unknown | hackage_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -47,7 +47,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 - Treat category as `library` unless a later verified source gives a better classification.
 - Keep provenance attached when merging duplicate identities; source evidence is not disposable.
-- Latest stable metadata was observed from `https://hackage.haskell.org/package/shibuya-pgmq-adapter` at `2026-09-15T14:25:10+00:00`.
+- Latest stable metadata was observed from `https://hackage.haskell.org/packages/recent` at `2026-09-15T15:19:34+00:00`.
 - Preview/nightly metadata is unknown because `hackage_has_no_standard_nightly_channel`.
 
 ## Provenance
