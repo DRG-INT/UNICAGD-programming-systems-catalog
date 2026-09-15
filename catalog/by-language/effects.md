@@ -523,7 +523,7 @@ Records: `785`
 | [aldebaro/dsp-audio](../records/effects-aldebaro-dsp-audio-1b6cfc46.md) | partial | 2022-04-01T19:20:23Z | registry-derived |
 | [alexanderattar/dsp](../records/effects-alexanderattar-dsp-c82d4f48.md) | partial | 2013-05-20T00:53:54Z | registry-derived |
 | [amsynth/amsynth](../records/effects-amsynth-amsynth-8b3d3dde.md) | partial | 2026-07-14T10:21:45Z | registry-derived |
-| [andremichelle/openDAW](../records/effects-andremichelle-opendaw-162571f1.md) | partial | 2026-09-13T18:32:24Z | registry-derived |
+| [andremichelle/openDAW](../records/effects-andremichelle-opendaw-162571f1.md) | partial | 2026-09-15T09:51:55Z | registry-derived |
 | [ar1st0crat/NWaves](../records/effects-ar1st0crat-nwaves-4f5d754c.md) | partial | 2022-09-27T18:42:31Z | registry-derived |
 | [BA17-loma-1/Audio_Signal_Processing_Toolbox](../records/effects-ba17-loma-1-audio-signal-processing-toolbox-15d836ba.md) | partial | 2017-07-05T05:22:05Z | registry-derived |
 | [bajelidze/FPGA-Audio-Effects-System](../records/effects-bajelidze-fpga-audio-effects-system-f26bc7f5.md) | partial | 2019-06-15T19:00:18Z | registry-derived |
@@ -628,7 +628,7 @@ Records: `785`
 | [ALH477/ai-faust-dsp-effects](../records/effects-alh477-ai-faust-dsp-effects-6881f2de.md) | partial | 2026-03-03T19:38:36Z | registry-derived |
 | [chaosprint/glicol](../records/effects-chaosprint-glicol-1504c11d.md) | partial | 2025-04-06T14:42:57Z | registry-derived |
 | [firtoz/Unity3D-Plane-Clipping](../records/effects-firtoz-unity3d-plane-clipping-41a0b721.md) | partial | 2018-01-22T19:13:44Z | registry-derived |
-| [grame-cncm/faust](../records/effects-grame-cncm-faust-4bda97dc.md) | partial | 2026-09-14T06:40:19Z | registry-derived |
+| [grame-cncm/faust](../records/effects-grame-cncm-faust-4bda97dc.md) | partial | 2026-09-15T07:56:36Z | registry-derived |
 | [ISF](../records/effects-isf-11859d10.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [JiaoXianjun/BTLE](../records/effects-jiaoxianjun-btle-a6893a05.md) | partial | 2026-06-08T19:24:34Z | registry-derived |
 | [jtomori/vex_tutorial](../records/effects-jtomori-vex-tutorial-543cfd5a.md) | partial | 2021-07-27T23:21:48Z | registry-derived |
@@ -853,7 +853,7 @@ Records: `785`
 | [calebzulawski/fourier](../records/effects-calebzulawski-fourier-33620126.md) | partial | 2023-04-28T21:48:36Z | registry-derived |
 | [cirocosta/asciinema-edit](../records/effects-cirocosta-asciinema-edit-04188dee.md) | partial | 2023-06-28T22:07:22Z | registry-derived |
 | [iver56/torch-audiomentations](../records/effects-iver56-torch-audiomentations-79b689a6.md) | partial | 2025-11-24T20:07:26Z | registry-derived |
-| [kfrlib/kfr](../records/effects-kfrlib-kfr-8c028bab.md) | partial | 2026-08-19T17:28:01Z | registry-derived |
+| [kfrlib/kfr](../records/effects-kfrlib-kfr-8c028bab.md) | partial | 2026-09-14T19:55:41Z | registry-derived |
 | [marton78/pffft](../records/effects-marton78-pffft-ac92569e.md) | partial | 2026-09-07T07:23:31Z | registry-derived |
 | [metno/gridpp](../records/effects-metno-gridpp-e2860702.md) | partial | 2025-03-16T08:51:54Z | registry-derived |
 | [rj200/Glamarye_Fast_Effects_for_ReShade](../records/effects-rj200-glamarye-fast-effects-for-reshade-71a12d66.md) | partial | 2023-08-07T23:17:19Z | registry-derived |
@@ -920,7 +920,7 @@ Records: `785`
 | [DatanoiseTV/dsplab](../records/effects-datanoisetv-dsplab-010bab2b.md) | partial | 2026-03-30T11:51:24Z | registry-derived |
 | [DonaldSBosley/MATLAB_DSP](../records/effects-donaldsbosley-matlab-dsp-d6ec5804.md) | partial | 2014-03-12T07:24:56Z | registry-derived |
 | [EndlesslyFlowering/ReShade_HDR_shaders](../records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) | partial | 2026-09-10T19:49:14Z | registry-derived |
-| [glotzerlab/freud](../records/effects-glotzerlab-freud-7097000c.md) | partial | 2026-09-11T19:10:05Z | registry-derived |
+| [glotzerlab/freud](../records/effects-glotzerlab-freud-7097000c.md) | partial | 2026-09-14T16:33:35Z | registry-derived |
 | [josevcm/nfc-laboratory](../records/effects-josevcm-nfc-laboratory-b7b970c6.md) | partial | 2026-06-29T16:44:55Z | registry-derived |
 | [JuanCantu1/fpga-trumpet-dsp](../records/effects-juancantu1-fpga-trumpet-dsp-dbfb90e2.md) | partial | 2025-11-08T16:16:06Z | registry-derived |
 | [Kodaskills/bevy_retro_shaders](../records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) | partial | 2026-08-17T07:09:38Z | registry-derived |
@@ -1000,7 +1000,7 @@ Records: `785`
 | --- | --- | --- | --- |
 | [4lex4nder/ReshadeEffectShaderToggler-FFXIV_UIONLY](../records/effects-4lex4nder-reshadeeffectshadertoggler-ffxiv-uionly-c42d3c10.md) | partial | 2023-11-12T11:33:47Z | registry-derived |
 | [ACEsuit/ACE.jl](../records/effects-acesuit-ace-jl-b77f833a.md) | partial | 2024-12-17T23:48:29Z | registry-derived |
-| [alienware377/RootlessViPER4Android](../records/effects-alienware377-rootlessviper4android-477a4505.md) | partial | 2026-09-06T18:47:21Z | registry-derived |
+| [alienware377/RootlessViPER4Android](../records/effects-alienware377-rootlessviper4android-477a4505.md) | partial | 2026-09-14T12:57:11Z | registry-derived |
 | [applibot-inc/sync2022-ui-sample-techbot](../records/effects-applibot-inc-sync2022-ui-sample-techbot-e7dbaeac.md) | partial | 2023-02-19T13:54:15Z | registry-derived |
 | [Blender Compositor](../records/effects-blender-compositor-20ae76f1.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [Cinder](../records/effects-cinder-520874a6.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
@@ -1017,7 +1017,7 @@ Records: `785`
 | [Natron](../records/effects-natron-37c82791.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 | [NumberOneBot/dsssp](../records/effects-numberonebot-dsssp-f459bfd0.md) | partial | 2026-08-12T22:46:18Z | registry-derived |
 | [PixiJS Filters](../records/effects-pixijs-filters-2c7b5506.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [pschatzmann/arduino-audio-tools](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) | partial | 2026-09-14T08:20:09Z | registry-derived |
+| [pschatzmann/arduino-audio-tools](../records/effects-pschatzmann-arduino-audio-tools-8c3c4f05.md) | partial | 2026-09-14T13:43:28Z | registry-derived |
 | [PyDevices/audioif](../records/effects-pydevices-audioif-0d02c96c.md) | partial | 2026-09-09T06:04:25Z | registry-derived |
 | [rsadsb/adsb_deku](../records/effects-rsadsb-adsb-deku-ce700c3e.md) | partial | 2026-01-04T16:18:33Z | registry-derived |
 | [Shadertoy](../records/effects-shadertoy-7ba0fe72.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |

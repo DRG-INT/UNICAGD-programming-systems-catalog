@@ -457,7 +457,7 @@ Records: `695`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| paperless-ngx/paperless-ngx | partial | 2026-09-15T04:05:59Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
+| paperless-ngx/paperless-ngx | partial | 2026-09-15T12:29:06Z | [open](../records/aim-s-paperless-ngx-paperless-ngx-ac50dd6a.md) |
 | ZhuLinsen/daily_stock_analysis | partial | 2026-09-13T09:18:52Z | [open](../records/aim-s-zhulinsen-daily-stock-analysis-509bb8f4.md) |
 
 ## Computer Graphics Software
@@ -575,7 +575,7 @@ Records: `695`
 | DatanoiseTV/dsplab | partial | 2026-03-30T11:51:24Z | [open](../records/effects-datanoisetv-dsplab-010bab2b.md) |
 | DonaldSBosley/MATLAB_DSP | partial | 2014-03-12T07:24:56Z | [open](../records/effects-donaldsbosley-matlab-dsp-d6ec5804.md) |
 | EndlesslyFlowering/ReShade_HDR_shaders | partial | 2026-09-10T19:49:14Z | [open](../records/effects-endlesslyflowering-reshade-hdr-shaders-23b572c9.md) |
-| glotzerlab/freud | partial | 2026-09-11T19:10:05Z | [open](../records/effects-glotzerlab-freud-7097000c.md) |
+| glotzerlab/freud | partial | 2026-09-14T16:33:35Z | [open](../records/effects-glotzerlab-freud-7097000c.md) |
 | josevcm/nfc-laboratory | partial | 2026-06-29T16:44:55Z | [open](../records/effects-josevcm-nfc-laboratory-b7b970c6.md) |
 | JuanCantu1/fpga-trumpet-dsp | partial | 2025-11-08T16:16:06Z | [open](../records/effects-juancantu1-fpga-trumpet-dsp-dbfb90e2.md) |
 | Kodaskills/bevy_retro_shaders | partial | 2026-08-17T07:09:38Z | [open](../records/effects-kodaskills-bevy-retro-shaders-ef023a67.md) |
@@ -658,7 +658,7 @@ Records: `695`
 | imjoy-team/imagej.js | partial | 2025-08-21T21:49:20Z | [open](../records/microscopy-imjoy-team-imagej-js-ab4ae7b8.md) |
 | jherkenhoff/STM | partial | 2021-08-02T15:53:42Z | [open](../records/microscopy-jherkenhoff-stm-3928a3ac.md) |
 | NIGMS/Biomedical-Imaging-Analysis-using-AI-ML-Approaches | partial | 2025-06-06T18:46:02Z | [open](../records/microscopy-nigms-biomedical-imaging-analysis-using-ai-ml-approaches-8ffdae01.md) |
-| NL-BioImaging/biomero | partial | 2026-09-14T12:57:59Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
+| NL-BioImaging/biomero | partial | 2026-09-15T11:44:46Z | [open](../records/microscopy-nl-bioimaging-biomero-e59c8222.md) |
 | ome/EMBO-Practical-Course-2023 | partial | 2023-09-10T15:36:11Z | [open](../records/microscopy-ome-embo-practical-course-2023-0359e30c.md) |
 | pycroscopy/pycroscopy | partial | 2025-09-12T16:21:57Z | [open](../records/microscopy-pycroscopy-pycroscopy-e22f9142.md) |
 | qupath/qupath | partial | 2026-09-08T10:10:38Z | [open](../records/microscopy-qupath-qupath-319e8bd2.md) |

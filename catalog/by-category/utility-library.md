@@ -227,7 +227,7 @@ Records: `108`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| m4opt/m4opt | partial | 2026-09-14T21:49:06Z | [open](../records/telescopes-m4opt-m4opt-6b7434b6.md) |
+| m4opt/m4opt | partial | 2026-09-15T12:54:54Z | [open](../records/telescopes-m4opt-m4opt-6b7434b6.md) |
 
 ## Radars
 
