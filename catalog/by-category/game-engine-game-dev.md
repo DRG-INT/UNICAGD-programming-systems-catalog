@@ -1,6 +1,6 @@
 # Game Engine Game Dev
 
-Records: `387`
+Records: `389`
 
 ## Navigation
 
@@ -14,17 +14,17 @@ Records: `387`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · **[Game Engine Game Dev (387)](game-engine-game-dev.md)** · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (498)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (680)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · **[Game Engine Game Dev (389)](game-engine-game-dev.md)** · [Ide Editor Integration (1541)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6274)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6275)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (603)](logging-observability.md) · [Machine Learning (884)](machine-learning.md)
 [Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (103)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1260)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (104)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (322)](type-checker.md)
-[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
+[Undefined Behavior Analyzer (1681)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (667)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## C++23
 
@@ -574,7 +574,9 @@ Records: `387`
 | alanchn31/Data-Engineering-Projects | partial | 2023-02-08T00:44:31Z | [open](../records/databases-alanchn31-data-engineering-projects-ec5e441e.md) |
 | apache/datafusion-ballista | partial | 2026-09-12T21:11:49Z | [open](../records/databases-apache-datafusion-ballista-0541951e.md) |
 | Jayvardhan-Reddy/Azure-Certification-DP-200 | partial | 2020-08-05T02:50:07Z | [open](../records/databases-jayvardhan-reddy-azure-certification-dp-200-bc190a86.md) |
+| KentHsu/Udacity-Data-Engineering-Nanodgree | partial | 2021-03-04T07:29:22Z | [open](../records/databases-kenthsu-udacity-data-engineering-nanodgree-c9151339.md) |
 | qala-io/java-course | partial | 2025-08-20T08:48:10Z | [open](../records/databases-qala-io-java-course-54153d86.md) |
+| Wathon/data_engineering_with_python-track-datacamp | partial | 2021-05-21T05:24:26Z | [open](../records/databases-wathon-data-engineering-with-python-track-datacamp-d9923c83.md) |
 
 ## Repository Workplaces
 

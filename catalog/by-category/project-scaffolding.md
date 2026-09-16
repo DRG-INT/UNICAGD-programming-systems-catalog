@@ -14,17 +14,17 @@ Records: `147`
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
 [Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (387)](game-engine-game-dev.md) · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (498)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (680)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (389)](game-engine-game-dev.md) · [Ide Editor Integration (1541)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6274)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6275)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (603)](logging-observability.md) · [Machine Learning (884)](machine-learning.md)
 [Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (103)](profiler.md) · **[Project Scaffolding (147)](project-scaffolding.md)** · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1260)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (104)](profiler.md) · **[Project Scaffolding (147)](project-scaffolding.md)** · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
 [Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (322)](type-checker.md)
-[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
+[Undefined Behavior Analyzer (1681)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (667)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## C++23
 
@@ -206,7 +206,7 @@ Records: `147`
 | IBM-Cloud/watson-starter-apps | partial | 2017-01-23T22:13:49Z | [open](../records/space-maps-ibm-cloud-watson-starter-apps-8269d634.md) |
 | johnpolacek/styled-starter | partial | 2018-09-02T13:46:29Z | [open](../records/space-maps-johnpolacek-styled-starter-213f2daf.md) |
 | johnpolacek/styled-starter-basic | partial | 2018-09-01T17:02:27Z | [open](../records/space-maps-johnpolacek-styled-starter-basic-483af579.md) |
-| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-13T05:51:00Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
+| maximus0411/BorisChernyClaudeMarkdown | partial | 2026-09-16T06:59:02Z | [open](../records/space-maps-maximus0411-borischernyclaudemarkdown-88d34dbb.md) |
 | MohirM/game-catalog-starter | partial | 2021-05-04T00:21:07Z | [open](../records/space-maps-mohirm-game-catalog-starter-90f2ab48.md) |
 | parthmax2/genai-starter-pack | partial | 2026-06-20T08:56:38Z | [open](../records/space-maps-parthmax2-genai-starter-pack-2912dc43.md) |
 | strapi/strapi-starter-gatsby-catalog | partial | 2022-03-28T16:02:17Z | [open](../records/space-maps-strapi-strapi-starter-gatsby-catalog-686dc0a0.md) |
