@@ -16,9 +16,9 @@ Records: `321`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1740)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -61,7 +61,7 @@ Records: `321`
 | @better-auth/core | 1.7.5 | 2026-09-14T22:11:13.013Z | [open](../records/node-js-typescript-better-auth-core-fa635d03.md) |
 | @betterer/typescript | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | [open](../records/node-js-typescript-betterer-typescript-35e88ce6.md) |
 | @clipboard-health/testing-core | 2.12.5 | 2026-09-13T01:24:14.765Z | [open](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) |
-| @cloudflare/workers-types | 5.20260915.1 | 2026-09-15T01:18:47.735Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| @cloudflare/workers-types | 5.20260916.1 | 2026-09-16T01:21:33.240Z | [open](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @cspell/dict-typescript | 3.2.3 | 2025-07-09T18:55:17.973Z | [open](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) |
 | @dbos-inc/dbos-sdk | 4.27.6 | 2026-08-25T15:39:32.081Z | [open](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) |
 | @definitelytyped/typescript-versions | 0.1.12 | 2026-06-15T18:01:15.944Z | [open](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) |
@@ -318,7 +318,7 @@ Records: `321`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-16T01:03:11Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-16T02:00:17Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -504,7 +504,7 @@ Records: `321`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2FastLabs/agent-squad | unknown | github_search_does_not_include_release_date | [open](../records/swift-2fastlabs-agent-squad-f20b0f0c.md) |
-| NativeScript/NativeScript | partial | 2026-09-15T17:05:47Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
+| NativeScript/NativeScript | partial | 2026-09-16T02:20:07Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
 
 ## Databases
 

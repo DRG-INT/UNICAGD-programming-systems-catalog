@@ -16,9 +16,9 @@ Records: `507`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1740)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -259,7 +259,7 @@ Records: `507`
 | @use-voltra/server | 2.3.0 | 2026-09-15T10:53:52.474Z | [open](../records/node-js-javascript-use-voltra-server-0e9559b5.md) |
 | @vercel/cosmosdb-server | 1.0.1 | 2026-03-09T18:28:03.744Z | [open](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) |
 | @vitejs/plugin-react-swc | 4.3.3 | 2026-07-30T10:25:03.233Z | [open](../records/node-js-javascript-vitejs-plugin-react-swc-4e221f53.md) |
-| @vitejs/plugin-rsc | 0.5.34 | 2026-08-07T07:38:06.175Z | [open](../records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) |
+| @vitejs/plugin-rsc | 0.5.35 | 2026-09-16T00:51:28.258Z | [open](../records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) |
 | @vue/cli-overlay | 5.0.9 | 2025-08-21T10:57:02.315Z | [open](../records/node-js-javascript-vue-cli-overlay-760829af.md) |
 | @vue/cli-plugin-router | 5.0.9 | 2025-08-21T10:57:04.121Z | [open](../records/node-js-javascript-vue-cli-plugin-router-561b8d91.md) |
 | @vue/server-renderer | 3.5.42 | 2026-08-27T05:48:31.009Z | [open](../records/node-js-javascript-vue-server-renderer-b47ab9e0.md) |
@@ -588,7 +588,7 @@ Records: `507`
 | --- | --- | --- | --- |
 | arneb/django-campaign | partial | 2023-11-05T07:55:01Z | [open](../records/magazines-arneb-django-campaign-acca3d0d.md) |
 | benji6/moodtracker | partial | 2026-09-14T08:13:08Z | [open](../records/magazines-benji6-moodtracker-844d4a49.md) |
-| DenserMeerkat/June | partial | 2026-09-15T18:11:29Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
+| DenserMeerkat/June | partial | 2026-09-15T19:34:44Z | [open](../records/magazines-densermeerkat-june-9f006367.md) |
 | russmiles/life-preserver-introductory-article-developer-magazine | partial | 2013-10-16T14:30:28Z | [open](../records/magazines-russmiles-life-preserver-introductory-article-developer-magazine-18492317.md) |
 | sergeyyarkov/digital-store | unknown | github_search_does_not_include_release_date | [open](../records/magazines-sergeyyarkov-digital-store-9dc6b702.md) |
 

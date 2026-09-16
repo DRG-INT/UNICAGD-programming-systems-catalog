@@ -16,9 +16,9 @@ Records: `394`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1740)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1109)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -300,7 +300,7 @@ Records: `394`
 | [@better-auth/core](../records/node-js-typescript-better-auth-core-fa635d03.md) | 1.7.5 | 2026-09-14T22:11:13.013Z | registry-derived |
 | [@betterer/typescript](../records/node-js-typescript-betterer-typescript-35e88ce6.md) | 6.0.0-alpha.1 | 2024-12-01T11:00:45.495Z | registry-derived |
 | [@clipboard-health/testing-core](../records/node-js-typescript-clipboard-health-testing-core-646613ba.md) | 2.12.5 | 2026-09-13T01:24:14.765Z | registry-derived |
-| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260915.1 | 2026-09-15T01:18:47.735Z | registry-derived |
+| [@cloudflare/workers-types](../records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) | 5.20260916.1 | 2026-09-16T01:21:33.240Z | registry-derived |
 | [@cspell/dict-typescript](../records/node-js-typescript-cspell-dict-typescript-a021ae1f.md) | 3.2.3 | 2025-07-09T18:55:17.973Z | registry-derived |
 | [@dbos-inc/dbos-sdk](../records/node-js-typescript-dbos-inc-dbos-sdk-aae8d31d.md) | 4.27.6 | 2026-08-25T15:39:32.081Z | registry-derived |
 | [@definitelytyped/typescript-versions](../records/node-js-typescript-definitelytyped-typescript-versions-b23bd9b9.md) | 0.1.12 | 2026-06-15T18:01:15.944Z | registry-derived |

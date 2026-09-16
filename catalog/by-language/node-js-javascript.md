@@ -16,9 +16,9 @@ Records: `2471`
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1740)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1477)](../by-category/language-specification.md) · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1109)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
@@ -432,7 +432,7 @@ Records: `2471`
 | [@react-native/community-cli-plugin](../records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) | 0.87.1 | 2026-08-26T12:56:28.576Z | registry-derived |
 | [@redocly/cli-otel](../records/node-js-javascript-redocly-cli-otel-1a9a1737.md) | 0.3.6 | 2026-08-26T17:01:17.930Z | registry-derived |
 | [@reflag/cli](../records/node-js-javascript-reflag-cli-d57e61f7.md) | 1.0.4 | 2025-10-29T11:05:21.020Z | registry-derived |
-| [@rspack/cli](../records/node-js-javascript-rspack-cli-8e6b6307.md) | 2.2.4 | 2026-09-14T12:17:53.872Z | registry-derived |
+| [@rspack/cli](../records/node-js-javascript-rspack-cli-8e6b6307.md) | 2.2.5 | 2026-09-16T01:41:00.364Z | registry-derived |
 | [@salesforce/cli](../records/node-js-javascript-salesforce-cli-b9219aa7.md) | 2.150.6 | 2026-08-26T02:48:00.491Z | registry-derived |
 | [@sanity/cli](../records/node-js-javascript-sanity-cli-257446f0.md) | 8.11.0 | 2026-09-11T20:12:53.868Z | registry-derived |
 | [@sanity/cli-core](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) | 3.7.0 | 2026-09-10T15:58:18.717Z | registry-derived |
@@ -2639,7 +2639,7 @@ Records: `2471`
 | [@use-voltra/server](../records/node-js-javascript-use-voltra-server-0e9559b5.md) | 2.3.0 | 2026-09-15T10:53:52.474Z | registry-derived |
 | [@vercel/cosmosdb-server](../records/node-js-javascript-vercel-cosmosdb-server-a0184bac.md) | 1.0.1 | 2026-03-09T18:28:03.744Z | registry-derived |
 | [@vitejs/plugin-react-swc](../records/node-js-javascript-vitejs-plugin-react-swc-4e221f53.md) | 4.3.3 | 2026-07-30T10:25:03.233Z | registry-derived |
-| [@vitejs/plugin-rsc](../records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) | 0.5.34 | 2026-08-07T07:38:06.175Z | registry-derived |
+| [@vitejs/plugin-rsc](../records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) | 0.5.35 | 2026-09-16T00:51:28.258Z | registry-derived |
 | [@vue/cli-overlay](../records/node-js-javascript-vue-cli-overlay-760829af.md) | 5.0.9 | 2025-08-21T10:57:02.315Z | registry-derived |
 | [@vue/cli-plugin-router](../records/node-js-javascript-vue-cli-plugin-router-561b8d91.md) | 5.0.9 | 2025-08-21T10:57:04.121Z | registry-derived |
 | [@vue/server-renderer](../records/node-js-javascript-vue-server-renderer-b47ab9e0.md) | 3.5.42 | 2026-08-27T05:48:31.009Z | registry-derived |

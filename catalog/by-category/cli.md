@@ -16,9 +16,9 @@ Records: `609`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1740)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -339,7 +339,7 @@ Records: `609`
 | @react-native/community-cli-plugin | 0.87.1 | 2026-08-26T12:56:28.576Z | [open](../records/node-js-javascript-react-native-community-cli-plugin-1ae28880.md) |
 | @redocly/cli-otel | 0.3.6 | 2026-08-26T17:01:17.930Z | [open](../records/node-js-javascript-redocly-cli-otel-1a9a1737.md) |
 | @reflag/cli | 1.0.4 | 2025-10-29T11:05:21.020Z | [open](../records/node-js-javascript-reflag-cli-d57e61f7.md) |
-| @rspack/cli | 2.2.4 | 2026-09-14T12:17:53.872Z | [open](../records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| @rspack/cli | 2.2.5 | 2026-09-16T01:41:00.364Z | [open](../records/node-js-javascript-rspack-cli-8e6b6307.md) |
 | @salesforce/cli | 2.150.6 | 2026-08-26T02:48:00.491Z | [open](../records/node-js-javascript-salesforce-cli-b9219aa7.md) |
 | @sanity/cli | 8.11.0 | 2026-09-11T20:12:53.868Z | [open](../records/node-js-javascript-sanity-cli-257446f0.md) |
 | @sanity/cli-core | 3.7.0 | 2026-09-10T15:58:18.717Z | [open](../records/node-js-javascript-sanity-cli-core-cef78bf4.md) |
@@ -553,10 +553,10 @@ Records: `609`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| esengine/DeepSeek-Reasonix | partial | 2026-09-16T01:05:15Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
+| esengine/DeepSeek-Reasonix | partial | 2026-09-16T01:44:03Z | [open](../records/aim-s-esengine-deepseek-reasonix-88239b13.md) |
 | feder-cr/AIHawk | partial | 2026-09-04T21:57:35Z | [open](../records/aim-s-feder-cr-aihawk-d86efbac.md) |
 | Ollama | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-ollama-e5017466.md) |
-| QwenLM/qwen-code | partial | 2026-09-16T01:11:01Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
+| QwenLM/qwen-code | partial | 2026-09-16T01:56:24Z | [open](../records/aim-s-qwenlm-qwen-code-59e3d415.md) |
 
 ## Computer Graphics Software
 
@@ -731,7 +731,7 @@ Records: `609`
 | --- | --- | --- | --- |
 | AmmarAbouZor/tui-journal | partial | 2026-09-06T10:33:11Z | [open](../records/magazines-ammarabouzor-tui-journal-e8a3ec22.md) |
 | BohdanPetryshyn/formzero | partial | 2026-04-26T06:56:02Z | [open](../records/magazines-bohdanpetryshyn-formzero-ba3eff6c.md) |
-| DouglasdeMoura/chroncal | partial | 2026-09-15T15:34:19Z | [open](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) |
+| DouglasdeMoura/chroncal | partial | 2026-09-15T20:33:20Z | [open](../records/magazines-douglasdemoura-chroncal-4b354f4d.md) |
 | jrnl-org/jrnl | unknown | github_search_does_not_include_release_date | [open](../records/magazines-jrnl-org-jrnl-c7f0a1c9.md) |
 | manipuladordedados/pdiary | partial | 2022-09-12T07:47:36Z | [open](../records/magazines-manipuladordedados-pdiary-b18888c7.md) |
 | packetThrower/zorite | partial | 2026-09-11T17:30:49Z | [open](../records/magazines-packetthrower-zorite-78b6f1c9.md) |

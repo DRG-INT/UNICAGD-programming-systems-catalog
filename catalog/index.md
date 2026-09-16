@@ -1,6 +1,6 @@
 # Catalog Index
 
-Generated: `2026-09-16T01:19:54+00:00`
+Generated: `2026-09-16T02:23:16+00:00`
 
 [Release watch](release-watch.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md) · [Source map](source-map.md)
 
@@ -14,9 +14,9 @@ Generated: `2026-09-16T01:19:54+00:00`
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1740)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (600)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
+[Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (601)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1109)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -37,13 +37,13 @@ Generated: `2026-09-16T01:19:54+00:00`
 | Node.js/JavaScript | 2471 | 2394 | [Node.js/JavaScript](by-language/node-js-javascript.md) |
 | Node.js/TypeScript | 394 | 354 | [Node.js/TypeScript](by-language/node-js-typescript.md) |
 | Lua family | 1937 | 0 | [Lua family](by-language/lua-family.md) |
-| R | 2267 | 2267 | [R](by-language/r.md) |
+| R | 2268 | 2268 | [R](by-language/r.md) |
 | Haskell | 1822 | 1813 | [Haskell](by-language/haskell.md) |
 | Matlab | 287 | 0 | [Matlab](by-language/matlab.md) |
 | Octave | 141 | 140 | [Octave](by-language/octave.md) |
 | C-Sharp | 150 | 150 | [C-Sharp](by-language/c-sharp.md) |
 | Dart | 774 | 774 | [Dart](by-language/dart.md) |
-| Go | 1052 | 424 | [Go](by-language/go.md) |
+| Go | 1053 | 424 | [Go](by-language/go.md) |
 | Starlark | 69 | 0 | [Starlark](by-language/starlark.md) |
 | Basilisk | 37 | 0 | [Basilisk](by-language/basilisk.md) |
 | "aim's" | 128 | 0 | ["aim's"](by-language/aim-s.md) |
@@ -73,7 +73,7 @@ Generated: `2026-09-16T01:19:54+00:00`
 | SatCom Satellites | 327 | 0 | [SatCom Satellites](by-language/satcom-satellites.md) |
 | Electromagnetoscopes | 510 | 0 | [Electromagnetoscopes](by-language/electromagnetoscopes.md) |
 | Radio Garden Speciality | 131 | 0 | [Radio Garden Speciality](by-language/radio-garden-speciality.md) |
-| Repertoare Catalogs | 193 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
+| Repertoare Catalogs | 194 | 0 | [Repertoare Catalogs](by-language/repertoare-catalogs.md) |
 | Catalogs | 285 | 0 | [Catalogs](by-language/catalogs.md) |
 | Magazines | 342 | 0 | [Magazines](by-language/magazines.md) |
 | Hubs | 15 | 0 | [Hubs](by-language/hubs.md) |
@@ -124,17 +124,17 @@ Generated: `2026-09-16T01:19:54+00:00`
 | Fuzzer | 68 | [fuzzer](by-category/fuzzer.md) |
 | Game Engine Game Dev | 378 | [game_engine_game_dev](by-category/game-engine-game-dev.md) |
 | Ide Editor Integration | 1529 | [ide_editor_integration](by-category/ide-editor-integration.md) |
-| Image Audio Dsp | 451 | [image_audio_dsp](by-category/image-audio-dsp.md) |
+| Image Audio Dsp | 452 | [image_audio_dsp](by-category/image-audio-dsp.md) |
 | Interop Bindings | 65 | [interop_bindings](by-category/interop-bindings.md) |
 | Interpreter Runtime | 292 | [interpreter_runtime](by-category/interpreter-runtime.md) |
 | Jit Vm | 67 | [jit_vm](by-category/jit-vm.md) |
 | Language Server | 31 | [language_server](by-category/language-server.md) |
-| Language Specification | 1477 | [language_specification](by-category/language-specification.md) |
+| Language Specification | 1478 | [language_specification](by-category/language-specification.md) |
 | Library | 6247 | [library](by-category/library.md) |
 | Lint Plugin | 1 | [lint_plugin](by-category/lint-plugin.md) |
 | Lint Rule Pack | 54 | [lint_rule_pack](by-category/lint-rule-pack.md) |
 | Linter | 352 | [linter](by-category/linter.md) |
-| Logging Observability | 600 | [logging_observability](by-category/logging-observability.md) |
+| Logging Observability | 601 | [logging_observability](by-category/logging-observability.md) |
 | Machine Learning | 881 | [machine_learning](by-category/machine-learning.md) |
 | Math Numeric Scientific | 98 | [math_numeric_scientific](by-category/math-numeric-scientific.md) |
 | Memory Analyzer | 106 | [memory_analyzer](by-category/memory-analyzer.md) |
@@ -174,13 +174,13 @@ Generated: `2026-09-16T01:19:54+00:00`
 | Node.js/JavaScript | 2394 | 77 |
 | Node.js/TypeScript | 354 | 40 |
 | Lua family | 0 | 1937 |
-| R | 2267 | 0 |
+| R | 2268 | 0 |
 | Haskell | 1813 | 9 |
 | Matlab | 0 | 287 |
 | Octave | 140 | 1 |
 | C-Sharp | 150 | 0 |
 | Dart | 774 | 0 |
-| Go | 424 | 628 |
+| Go | 424 | 629 |
 | Starlark | 0 | 69 |
 | Basilisk | 0 | 37 |
 | "aim's" | 0 | 128 |
@@ -210,7 +210,7 @@ Generated: `2026-09-16T01:19:54+00:00`
 | SatCom Satellites | 0 | 327 |
 | Electromagnetoscopes | 0 | 510 |
 | Radio Garden Speciality | 0 | 131 |
-| Repertoare Catalogs | 0 | 193 |
+| Repertoare Catalogs | 0 | 194 |
 | Catalogs | 0 | 285 |
 | Magazines | 0 | 342 |
 | Hubs | 0 | 15 |

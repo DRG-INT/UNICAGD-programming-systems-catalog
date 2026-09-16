@@ -1,6 +1,6 @@
 # Release Watch
 
-Generated: `2026-09-16T01:19:54+00:00`
+Generated: `2026-09-16T02:23:16+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
@@ -14,9 +14,9 @@ Generated: `2026-09-16T01:19:54+00:00`
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1740)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (600)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
+[Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (601)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1109)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -28,13 +28,18 @@ Generated: `2026-09-16T01:19:54+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11174 |
-| Unknown stable release | 18395 |
+| Known stable release | 11175 |
+| Unknown stable release | 18397 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @rspack/cli | Node.js/JavaScript | Cli | 2.2.5 | 2026-09-16T01:41:00.364Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
+| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260916.1 | 2026-09-16T01:21:33.240Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
+| @vitejs/plugin-rsc | Node.js/JavaScript | Web Framework | 0.5.35 | 2026-09-16T00:51:28.258Z | [open](records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) |
+| DeCAFS | R | Image Audio Dsp | 3.3.6 | 2026-09-16 01:20:02 UTC | [open](records/r-decafs-0a0e43b1.md) |
+| exdqlm | R | Library | 1.1.2 | 2026-09-16 01:00:02 UTC | [open](records/r-exdqlm-82eabd48.md) |
 | PatientGenerator | R | Library | 0.2.4 | 2026-09-16 00:10:10 UTC | [open](records/r-patientgenerator-d377f359.md) |
 | geozarr | R | Filesystem Os | 0.2.0 | 2026-09-16 00:10:02 UTC | [open](records/r-geozarr-a3a27cee.md) |
 | mintlify | Node.js/JavaScript | Cli | 4.2.894 | 2026-09-15T23:59:17.019Z | [open](records/node-js-javascript-mintlify-3fade289.md) |
@@ -251,7 +256,6 @@ Generated: `2026-09-16T01:19:54+00:00`
 | @pgpmjs/server-utils | Node.js/JavaScript | Web Framework | 3.27.6 | 2026-09-15T03:25:30.694Z | [open](records/node-js-javascript-pgpmjs-server-utils-fab8bc0e.md) |
 | liquid_glass_easy | Dart | Filesystem Os | 4.3.1 | 2026-09-15T03:08:45.720214Z | [open](records/dart-liquid-glass-easy-3f994d7f.md) |
 | @temporalio/testing | Node.js/JavaScript | Undefined Behavior Analyzer | 1.24.0 | 2026-09-15T02:19:09.435Z | [open](records/node-js-javascript-temporalio-testing-01a9b62c.md) |
-| @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260915.1 | 2026-09-15T01:18:47.735Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | zitejs | Node.js/JavaScript | Build System | 0.9.118 | 2026-09-15T00:35:49.241Z | [open](records/node-js-javascript-zitejs-38340f7a.md) |
 | aws-sdk-s3 | Rust | Library | 1.146.1 | 2026-09-15T00:27:41.087545Z | [open](records/rust-aws-sdk-s3-e7593d5c.md) |
 | @faststore/cli | Node.js/JavaScript | Parser Lexer Ast | 4.8.0 | 2026-09-15T00:20:21.540Z | [open](records/node-js-javascript-faststore-cli-98f71262.md) |
@@ -281,16 +285,12 @@ Generated: `2026-09-16T01:19:54+00:00`
 | simPsyStudy | R | Library | 1.1.8 | 2026-09-15 13:00:02 UTC | [open](records/r-simpsystudy-e1bad54b.md) |
 | metafor | R | Static Analyzer | 5.2-1 | 2026-09-15 12:30:02 UTC | [open](records/r-metafor-63821714.md) |
 | ardldml | R | Testing Framework | 0.1.0 | 2026-09-15 12:20:09 UTC | [open](records/r-ardldml-1d95989c.md) |
-| choicedata | R | Library | 0.2.0 | 2026-09-15 12:20:02 UTC | [open](records/r-choicedata-703e0e72.md) |
-| ConsTree | R | Parser Lexer Ast | 1.0.0 | 2026-09-15 12:10:19 UTC | [open](records/r-constree-b271164a.md) |
-| asremlPlus | R | Machine Learning | 4.4.65 | 2026-09-15 12:10:02 UTC | [open](records/r-asremlplus-47accc06.md) |
-| NSC | R | Formatter | 1.1.8 | 2026-09-15 12:00:18 UTC | [open](records/r-nsc-d1d361ef.md) |
 
 ## Unknown Reasons
 
 | Reason | Count |
 | --- | ---: |
-| gh_search_reports_activity_not_release_version | 10808 |
+| gh_search_reports_activity_not_release_version | 10810 |
 | julia_expansion_does_not_fetch_versions_by_default | 2108 |
 | luarocks_manifest_page_does_not_include_version_date | 1608 |
 | not_checked | 937 |

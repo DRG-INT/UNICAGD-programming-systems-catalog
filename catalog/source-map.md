@@ -12,9 +12,9 @@
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1740)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1477)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (600)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
+[Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (601)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
 [Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1109)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
@@ -2554,6 +2554,7 @@
 | `cran_packages_by_date-c7556408e4dec1` | viewpoly | [open](records/r-viewpoly-6cd65365.md) |
 | `cran_packages_by_date-c7b4d8b5636119` | baselinr | [open](records/r-baselinr-8b5c759c.md) |
 | `cran_packages_by_date-c8326707eda161` | Modeler | [open](records/r-modeler-4dbf9177.md) |
+| `cran_packages_by_date-c83a7918c055d1` | DeCAFS | [open](records/r-decafs-0a0e43b1.md) |
 | `cran_packages_by_date-c83c805b077a56` | fplyr | [open](records/r-fplyr-2ee91e27.md) |
 | `cran_packages_by_date-c86dac0cfedc89` | soilVAE | [open](records/r-soilvae-55b34e7a.md) |
 | `cran_packages_by_date-c87108bc90aedc` | TransHDM | [open](records/r-transhdm-3ff9fcd5.md) |
@@ -10669,6 +10670,7 @@
 | `github_search_go-039f9a092ff817` | MHSanaei/3x-ui | [open](records/go-mhsanaei-3x-ui-0505b860.md) |
 | `github_search_go-05c75fbb417ea8` | cloudreve/cloudreve | [open](records/go-cloudreve-cloudreve-f6662424.md) |
 | `github_search_go-06a2dd562a45a1` | JanDeDobbeleer/oh-my-posh | [open](records/go-jandedobbeleer-oh-my-posh-0e751a91.md) |
+| `github_search_go-080fff4f04ad6c` | alibaba/open-code-review | [open](records/go-alibaba-open-code-review-de3e4973.md) |
 | `github_search_go-0821a63eaa7e7d` | podman-container-tools/podman | [open](records/go-podman-container-tools-podman-b8d59e44.md) |
 | `github_search_go-0996526e8cdfe9` | juanfont/headscale | [open](records/go-juanfont-headscale-8da9ae07.md) |
 | `github_search_go-0b3511c56a7b29` | kataras/iris | [open](records/go-kataras-iris-811820fb.md) |
@@ -14304,6 +14306,7 @@
 | `github_search_repertoare_catalogs-1d48d8db30497a` | BarneyBarnum/belt-it | [open](records/repertoare-catalogs-barneybarnum-belt-it-32074410.md) |
 | `github_search_repertoare_catalogs-20fd8d09350ada` | MinaSaad1/n8n-ai-qualified-booking | [open](records/repertoare-catalogs-minasaad1-n8n-ai-qualified-booking-8d96fc2b.md) |
 | `github_search_repertoare_catalogs-2106c47deb51f9` | pythymcpyface/lichess-analyser | [open](records/repertoare-catalogs-pythymcpyface-lichess-analyser-18beb8d5.md) |
+| `github_search_repertoare_catalogs-2286616e1e2459` | MintMachineHQ/x402-plaza-services | [open](records/repertoare-catalogs-mintmachinehq-x402-plaza-services-aeeb9c2f.md) |
 | `github_search_repertoare_catalogs-22a36101e45f30` | marshallswain/song-book-api | [open](records/repertoare-catalogs-marshallswain-song-book-api-9e3ddeb4.md) |
 | `github_search_repertoare_catalogs-23023257d3acb3` | governance-demo/na-ctl-inventory-realtime-scorer-cli | [open](records/repertoare-catalogs-governance-demo-na-ctl-inventory-realtime-scorer-cli-b87b8f89.md) |
 | `github_search_repertoare_catalogs-276dc46f859ea5` | Chistera-Scoring/services-catalog | [open](records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |

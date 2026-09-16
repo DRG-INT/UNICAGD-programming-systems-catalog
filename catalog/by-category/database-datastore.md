@@ -16,9 +16,9 @@ Records: `987`
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1740)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
@@ -756,7 +756,7 @@ Records: `987`
 | --- | --- | --- | --- |
 | gluesql/gluesql | partial | 2026-09-06T13:20:52Z | [open](../records/webassembly-gluesql-gluesql-a50e8231.md) |
 | kuzudb/kuzu | partial | 2025-10-10T15:34:00Z | [open](../records/webassembly-kuzudb-kuzu-82a50b44.md) |
-| liam-hq/liam | partial | 2026-09-15T16:40:22Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
+| liam-hq/liam | partial | 2026-09-16T01:05:48Z | [open](../records/webassembly-liam-hq-liam-467de678.md) |
 | obi1kenobi/trustfall | partial | 2026-09-14T03:53:42Z | [open](../records/webassembly-obi1kenobi-trustfall-5aefd0ed.md) |
 | sql-js/sql.js | partial | 2026-08-14T18:15:39Z | [open](../records/webassembly-sql-js-sql-js-33b2be89.md) |
 | tursodatabase/libsql | partial | 2026-08-26T19:32:13Z | [open](../records/webassembly-tursodatabase-libsql-4c64b1cc.md) |

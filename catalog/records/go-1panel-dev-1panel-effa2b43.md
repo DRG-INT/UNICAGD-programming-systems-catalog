@@ -33,7 +33,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T15:55:04Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T02:04:05Z | gh search repos language:Go stars:>3000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -78,13 +78,13 @@ Evidence records merged into this identity: `1`.
 | Name | Category | Page |
 | --- | --- | --- |
 | abiosoft/colima | Language Specification | [open](go-abiosoft-colima-0ac0ec4e.md) |
+| alibaba/open-code-review | Language Specification | [open](go-alibaba-open-code-review-de3e4973.md) |
 | AlistGo/alist | Language Specification | [open](go-alistgo-alist-0be2effe.md) |
 | antlr/antlr4 | Language Specification | [open](go-antlr-antlr4-1390b066.md) |
 | aquasecurity/trivy | Language Specification | [open](go-aquasecurity-trivy-a759b66b.md) |
 | astaxie/build-web-application-with-golang | Language Specification | [open](go-astaxie-build-web-application-with-golang-30f88db6.md) |
 | authelia/authelia | Language Specification | [open](go-authelia-authelia-bd98b68d.md) |
 | avelino/awesome-go | Language Specification | [open](go-avelino-awesome-go-512e7dd9.md) |
-| beego/beego | Language Specification | [open](go-beego-beego-e98bc924.md) |
 
 ## Category Index
 
@@ -96,9 +96,9 @@ Evidence records merged into this identity: `1`.
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1740)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (451)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · **[Language Specification (1477)](../by-category/language-specification.md)** · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (600)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · **[Language Specification (1478)](../by-category/language-specification.md)** · [Library (6247)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
 [Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (40)](../by-category/message-broker.md) · [Networking Http (1109)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
