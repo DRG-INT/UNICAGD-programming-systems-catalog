@@ -17,9 +17,9 @@ Records: `1678`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (41)](message-broker.md) · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -164,7 +164,7 @@ Records: `1678`
 | @subsquid/graphql-server | 4.12.1 | 2026-07-10T07:12:01.996Z | [open](../records/node-js-javascript-subsquid-graphql-server-df5bcb94.md) |
 | @subsquid/logger | 1.6.0 | 2026-05-11T07:59:43.851Z | [open](../records/node-js-javascript-subsquid-logger-e4c79f0d.md) |
 | @sugarcube-sh/cli | 0.1.25 | 2026-08-24T11:03:22.047Z | [open](../records/node-js-javascript-sugarcube-sh-cli-279d85e7.md) |
-| @tauri-apps/plugin-http | 2.6.0 | 2026-08-31T11:20:18.468Z | [open](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) |
+| @tauri-apps/plugin-http | 2.6.1 | 2026-09-16T04:19:27.334Z | [open](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) |
 | @temporalio/testing | 1.24.0 | 2026-09-15T02:19:09.435Z | [open](../records/node-js-javascript-temporalio-testing-01a9b62c.md) |
 | @vite-hub/database | 0.0.4 | 2026-09-04T05:14:13.289Z | [open](../records/node-js-javascript-vite-hub-database-37a8b102.md) |
 | abstract-logging | 2.0.1 | 2020-10-17T12:15:48.198Z | [open](../records/node-js-javascript-abstract-logging-e0fb44af.md) |
@@ -1507,7 +1507,7 @@ Records: `1678`
 | peerpx/peerpx | unknown | github_search_does_not_include_release_date | [open](../records/photography-peerpx-peerpx-8179ea23.md) |
 | photostructure/photostructure-for-servers | unknown | github_search_does_not_include_release_date | [open](../records/photography-photostructure-photostructure-for-servers-8374efcc.md) |
 | Piwigo/Piwigo | partial | 2026-09-01T10:24:21Z | [open](../records/photography-piwigo-piwigo-ebe912b3.md) |
-| qubvel-org/segmentation_models.pytorch | partial | 2026-09-14T01:43:39Z | [open](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) |
+| qubvel-org/segmentation_models.pytorch | partial | 2026-09-15T07:01:24Z | [open](../records/photography-qubvel-org-segmentation-models-pytorch-c8d2486e.md) |
 | tonytonyjan/exif | partial | 2023-08-25T06:25:19Z | [open](../records/photography-tonytonyjan-exif-1f2f7a7f.md) |
 | tub-rip/cmax_slam | partial | 2025-03-12T22:13:06Z | [open](../records/photography-tub-rip-cmax-slam-9275230c.md) |
 | tumuyan/RealSR-NCNN-Android | partial | 2026-05-30T08:52:28Z | [open](../records/photography-tumuyan-realsr-ncnn-android-4b7ae31a.md) |
@@ -1572,7 +1572,7 @@ Records: `1678`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| alanbjohnston/CubeSatSim | partial | 2026-09-14T20:43:02Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
+| alanbjohnston/CubeSatSim | partial | 2026-09-15T20:47:22Z | [open](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) |
 | cjcliffe/CubicSDR | partial | 2026-09-02T02:19:48Z | [open](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) |
 | f4exb/sdrangel | partial | 2026-09-09T10:55:53Z | [open](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) |
 | jvde-github/AIS-catcher | partial | 2026-09-14T20:52:34Z | [open](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) |
@@ -1910,14 +1910,14 @@ Records: `1678`
 | Gitea: ryan-winkler/ryanwinkler | partial | 2026-08-21T10:30:44Z | [open](../records/repository-workplaces-gitea-ryan-winkler-ryanwinkler-c5f906a1.md) |
 | Gitea: we8tguivdbsd/21eyay8qeyciubaya | partial | 2026-06-20T21:36:03Z | [open](../records/repository-workplaces-gitea-we8tguivdbsd-21eyay8qeyciubaya-47fe49cc.md) |
 | Gitea: zaccesss/.profile | partial | 2026-09-15T22:04:16Z | [open](../records/repository-workplaces-gitea-zaccesss-profile-898ffe18.md) |
-| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-15T14:42:29.612Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
+| gitlab-com/gl-infra/k8s-workloads/gitlab-com | partial | 2026-09-16T04:18:04.377Z | [open](../records/repository-workplaces-gitlab-com-gl-infra-k8s-workloads-gitlab-com-13cc554b.md) |
 | gitlab-data/data-image | partial | 2026-09-10T17:37:33.192Z | [open](../records/repository-workplaces-gitlab-data-data-image-0af0c35c.md) |
 | gitlab-examples/kubernetes-deploy | partial | 2026-01-07T14:56:28.754Z | [open](../records/repository-workplaces-gitlab-examples-kubernetes-deploy-9a43e04a.md) |
 | gitlab-examples/ruby-autodeploy | partial | 2026-01-07T14:56:29.516Z | [open](../records/repository-workplaces-gitlab-examples-ruby-autodeploy-0ea70988.md) |
 | gitlab-org/caproni | partial | 2026-09-15T21:03:27.867Z | [open](../records/repository-workplaces-gitlab-org-caproni-40271619.md) |
 | gitlab-org/charts/gitlab-agent | partial | 2026-09-11T09:16:55.886Z | [open](../records/repository-workplaces-gitlab-org-charts-gitlab-agent-4a47eab2.md) |
 | gitlab-org/ci-cd/gitlab-runner-pod-cleanup | partial | 2026-05-15T07:38:19.652Z | [open](../records/repository-workplaces-gitlab-org-ci-cd-gitlab-runner-pod-cleanup-489737ef.md) |
-| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-16T03:09:27.030Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
+| gitlab-org/cloud-native/gitlab-operator | partial | 2026-09-16T04:15:03.846Z | [open](../records/repository-workplaces-gitlab-org-cloud-native-gitlab-operator-a34c605c.md) |
 | gitlab-org/kubernetes-gitlab-demo | partial | 2026-01-07T10:09:42.404Z | [open](../records/repository-workplaces-gitlab-org-kubernetes-gitlab-demo-d867dc50.md) |
 | glitchtip/glitchtip-helm-chart | partial | 2026-08-01T00:27:07.881Z | [open](../records/repository-workplaces-glitchtip-glitchtip-helm-chart-8da5da49.md) |
 | just.insane/kubernetes | partial | 2019-12-24T04:31:25.427Z | [open](../records/repository-workplaces-just-insane-kubernetes-b3dc8533.md) |

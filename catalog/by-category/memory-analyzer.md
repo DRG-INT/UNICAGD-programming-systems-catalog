@@ -17,9 +17,9 @@ Records: `106`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · **[Memory Analyzer (106)](memory-analyzer.md)** · [Message Broker (41)](message-broker.md) · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · **[Memory Analyzer (106)](memory-analyzer.md)** · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -137,7 +137,7 @@ Records: `106`
 | mem0ai/mem0 | partial | 2026-09-15T21:19:16Z | [open](../records/aim-s-mem0ai-mem0-1e2f6f8a.md) |
 | MemPalace/mempalace | partial | 2026-09-16T02:22:18Z | [open](../records/aim-s-mempalace-mempalace-24dc978a.md) |
 | tinyhumansai/openhuman | partial | 2026-09-16T00:00:51Z | [open](../records/aim-s-tinyhumansai-openhuman-c683371f.md) |
-| vllm-project/vllm | partial | 2026-09-16T03:10:58Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
+| vllm-project/vllm | partial | 2026-09-16T04:20:28Z | [open](../records/aim-s-vllm-project-vllm-5af67423.md) |
 | zhayujie/CowAgent | partial | 2026-09-15T10:17:31Z | [open](../records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 
 ## Physics Engines
@@ -183,7 +183,7 @@ Records: `106`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| libvips/libvips | partial | 2026-09-13T11:50:43Z | [open](../records/photography-libvips-libvips-0b78d9d7.md) |
+| libvips/libvips | partial | 2026-09-15T18:13:25Z | [open](../records/photography-libvips-libvips-0b78d9d7.md) |
 
 ## Catalogs
 

@@ -1,6 +1,6 @@
 # Message Broker
 
-Records: `41`
+Records: `42`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `41`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · **[Message Broker (41)](message-broker.md)** · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · **[Message Broker (42)](message-broker.md)** · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -61,6 +61,7 @@ Records: `41`
 | net-mqtt | 0.8.6.4 | 2026-04-28T01:44:27Z | [open](../records/haskell-net-mqtt-a7b88a5b.md) |
 | pqueue | 1.7.0.0 | 2026-04-16T16:30:29Z | [open](../records/haskell-pqueue-ac6cbc50.md) |
 | psqueues | 0.2.8.3 | 2025-12-28T06:54:17Z | [open](../records/haskell-psqueues-b1fa6808.md) |
+| shibuya-kafka-adapter | 0.9.0.1 | 2026-09-16T04:03:48Z | [open](../records/haskell-shibuya-kafka-adapter-60dcb820.md) |
 | stomp-queue | 0.5.1 | 2020-12-27T12:55:57Z | [open](../records/haskell-stomp-queue-894bae3e.md) |
 
 ## Octave
@@ -73,7 +74,7 @@ Records: `41`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| background_downloader | 9.6.1 | 2026-09-10T03:00:06.030229Z | [open](../records/dart-background-downloader-c2530439.md) |
+| background_downloader | 9.6.2 | 2026-09-16T04:07:31.667302Z | [open](../records/dart-background-downloader-c2530439.md) |
 | queue | 3.4.0 | 2025-01-01T12:50:03.380770Z | [open](../records/dart-queue-31aae422.md) |
 
 ## Go

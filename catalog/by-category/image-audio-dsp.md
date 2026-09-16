@@ -17,9 +17,9 @@ Records: `452`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 **[Image Audio Dsp (452)](image-audio-dsp.md)** · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (41)](message-broker.md) · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -440,7 +440,7 @@ Records: `452`
 | banterle/HDR_Toolbox | partial | 2026-09-11T13:10:36Z | [open](../records/photography-banterle-hdr-toolbox-7502cc31.md) |
 | BinomialLLC/basis_universal | partial | 2026-09-01T04:08:12Z | [open](../records/photography-binomialllc-basis-universal-7a53e558.md) |
 | BradenM/pydngconverter | partial | 2026-09-14T18:10:32Z | [open](../records/photography-bradenm-pydngconverter-8248d4d8.md) |
-| Breakthrough/PySceneDetect | partial | 2026-09-12T01:59:08Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
+| Breakthrough/PySceneDetect | partial | 2026-09-15T01:42:39Z | [open](../records/photography-breakthrough-pyscenedetect-282c005c.md) |
 | C4NU/Paddie | partial | 2026-09-07T04:14:18Z | [open](../records/photography-c4nu-paddie-df004a86.md) |
 | catalyst-team/catalyst | partial | 2026-07-08T21:40:01Z | [open](../records/photography-catalyst-team-catalyst-b551d064.md) |
 | chrissimpkins/Crunch | partial | 2022-06-18T12:20:17Z | [open](../records/photography-chrissimpkins-crunch-4fe3bdef.md) |
@@ -453,12 +453,12 @@ Records: `452`
 | dcraw | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-dcraw-7355fc69.md) |
 | Dhaval2404/ImagePicker | partial | 2023-10-22T09:30:15Z | [open](../records/photography-dhaval2404-imagepicker-a5a68c94.md) |
 | disintegration/imageorient | partial | 2018-09-20T19:55:49Z | [open](../records/photography-disintegration-imageorient-c6f1d833.md) |
-| dlemstra/Magick.NET | partial | 2026-09-05T12:15:23Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
+| dlemstra/Magick.NET | partial | 2026-09-14T17:07:04Z | [open](../records/photography-dlemstra-magick-net-d1b88e65.md) |
 | esafirm/android-image-picker | partial | 2024-07-24T01:49:10Z | [open](../records/photography-esafirm-android-image-picker-894942a1.md) |
 | esimov/triangle | partial | 2024-10-24T06:51:49Z | [open](../records/photography-esimov-triangle-6d1c633f.md) |
 | eszdman/PhotonCamera | partial | 2026-09-13T11:56:44Z | [open](../records/photography-eszdman-photoncamera-7ae407a8.md) |
 | exif-heic-js/exif-heic-js | partial | 2025-07-03T14:31:17Z | [open](../records/photography-exif-heic-js-exif-heic-js-3a6db78a.md) |
-| Exiv2/exiv2 | partial | 2026-09-11T20:59:19Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
+| Exiv2/exiv2 | partial | 2026-09-15T20:00:28Z | [open](../records/photography-exiv2-exiv2-ece25806.md) |
 | fengyuanchen/cropperjs | partial | 2026-09-13T12:09:22Z | [open](../records/photography-fengyuanchen-cropperjs-c586e3af.md) |
 | fthaler/rawhdr | partial | 2023-08-11T13:20:44Z | [open](../records/photography-fthaler-rawhdr-2703a856.md) |
 | guofei9987/blind_watermark | partial | 2026-03-25T09:09:28Z | [open](../records/photography-guofei9987-blind-watermark-a8556af6.md) |
@@ -475,20 +475,20 @@ Records: `452`
 | lukas-blecher/LaTeX-OCR | partial | 2025-01-18T15:23:58Z | [open](../records/photography-lukas-blecher-latex-ocr-2549c102.md) |
 | mahmoudnafifi/raw2raw | partial | 2023-02-25T23:17:01Z | [open](../records/photography-mahmoudnafifi-raw2raw-81a3c46e.md) |
 | mirsadm/motioncam-decoder | partial | 2026-09-09T14:42:07Z | [open](../records/photography-mirsadm-motioncam-decoder-4f70e2bd.md) |
-| mooyoul/get-orientation | partial | 2026-09-09T21:11:26Z | [open](../records/photography-mooyoul-get-orientation-0b5e753d.md) |
+| mooyoul/get-orientation | partial | 2026-09-14T19:25:30Z | [open](../records/photography-mooyoul-get-orientation-0b5e753d.md) |
 | nfnt/resize | partial | 2022-04-02T06:46:33Z | [open](../records/photography-nfnt-resize-09b63d52.md) |
-| opencv/opencv | partial | 2026-09-11T17:49:54Z | [open](../records/photography-opencv-opencv-3dada853.md) |
+| opencv/opencv | partial | 2026-09-15T12:38:18Z | [open](../records/photography-opencv-opencv-3dada853.md) |
 | OpenImageIO | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/photography-openimageio-1c46b5df.md) |
-| pqina/filepond | partial | 2026-08-28T15:10:49Z | [open](../records/photography-pqina-filepond-452a0cbf.md) |
+| pqina/filepond | partial | 2026-09-15T13:36:26Z | [open](../records/photography-pqina-filepond-452a0cbf.md) |
 | pqina/react-filepond | partial | 2026-07-13T11:37:47Z | [open](../records/photography-pqina-react-filepond-73036a7d.md) |
 | pqina/vue-filepond | partial | 2026-07-13T11:37:56Z | [open](../records/photography-pqina-vue-filepond-48285ab4.md) |
-| python-pillow/Pillow | partial | 2026-09-13T10:06:37Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
+| python-pillow/Pillow | partial | 2026-09-15T21:34:25Z | [open](../records/photography-python-pillow-pillow-07389a23.md) |
 | PyWavelets/pywt | partial | 2026-09-09T20:17:07Z | [open](../records/photography-pywavelets-pywt-f5bf7c96.md) |
 | ray075hl/singleLDR2HDR | partial | 2025-01-07T02:22:51Z | [open](../records/photography-ray075hl-singleldr2hdr-49562d8c.md) |
 | RayXie29/Shading_Correction | partial | 2019-03-18T09:42:41Z | [open](../records/photography-rayxie29-shading-correction-2c29a276.md) |
-| roboflow/supervision | partial | 2026-09-14T00:04:44Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
+| roboflow/supervision | partial | 2026-09-15T11:42:23Z | [open](../records/photography-roboflow-supervision-293a4036.md) |
 | scikit-image/scikit-image | partial | 2026-09-09T12:25:56Z | [open](../records/photography-scikit-image-scikit-image-e1dba1e6.md) |
-| shimat/opencvsharp | partial | 2026-09-14T01:03:34Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
+| shimat/opencvsharp | partial | 2026-09-15T08:06:49Z | [open](../records/photography-shimat-opencvsharp-caa1df8e.md) |
 | sightmachine/SimpleCV | partial | 2024-12-20T19:39:00Z | [open](../records/photography-sightmachine-simplecv-b798cfb7.md) |
 | silvia-odwyer/photon | partial | 2026-09-12T10:40:41Z | [open](../records/photography-silvia-odwyer-photon-c3114191.md) |
 | SonyResearch/raw_image_denoising | partial | 2025-06-18T13:35:08Z | [open](../records/photography-sonyresearch-raw-image-denoising-41683fe2.md) |

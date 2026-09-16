@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `601`
+Records: `602`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `601`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · **[Logging Observability (601)](logging-observability.md)** · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (41)](message-broker.md) · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · **[Logging Observability (602)](logging-observability.md)** · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -258,7 +258,7 @@ Records: `601`
 | casebase | 0.10.7 | 2026-09-03 17:50:02 UTC | [open](../records/r-casebase-aea74542.md) |
 | corrgram | 1.16 | 2026-09-02 19:40:02 UTC | [open](../records/r-corrgram-e4e8c16a.md) |
 | dataRetrieval | 2.7.26 | 2026-09-11 02:10:02 UTC | [open](../records/r-dataretrieval-6237bbef.md) |
-| dowser | 2.5.1 | 2026-08-20 11:20:10 UTC | [open](../records/r-dowser-d24a07c1.md) |
+| dowser | 2.5.2 | 2026-09-16 03:20:02 UTC | [open](../records/r-dowser-d24a07c1.md) |
 | dtlog | 0.1.0 | 2026-09-15 10:50:27 UTC | [open](../records/r-dtlog-10364c4a.md) |
 | Elja | 1.0.1 | 2026-08-24 19:20:02 UTC | [open](../records/r-elja-f8285cbf.md) |
 | ENMeval | 2.0.6 | 2026-09-11 10:00:02 UTC | [open](../records/r-enmeval-fa5fc684.md) |
@@ -339,6 +339,7 @@ Records: `601`
 | opentelemetry | 0.8.0 | 2022-04-07T09:58:08Z | [open](../records/haskell-opentelemetry-1219fa64.md) |
 | polysemy-log | 0.11.2.0 | 2026-05-03T11:32:32Z | [open](../records/haskell-polysemy-log-12f342fb.md) |
 | polysemy-log-co | 0.11.2.0 | 2026-05-03T11:32:33Z | [open](../records/haskell-polysemy-log-co-dd34e738.md) |
+| shibuya-metrics | 0.9.0.1 | 2026-09-16T03:46:13Z | [open](../records/haskell-shibuya-metrics-a68fa035.md) |
 | wai-logger | 2.5.0 | 2024-10-11T08:25:29Z | [open](../records/haskell-wai-logger-12c9d42e.md) |
 
 ## Octave
@@ -669,7 +670,7 @@ Records: `601`
 | analogcode/Swift-Radio-Pro | partial | 2026-07-05T16:45:42Z | [open](../records/electromagnetoscopes-analogcode-swift-radio-pro-46d0d487.md) |
 | analogdevicesinc/plutosdr-fw | partial | 2026-08-13T21:21:29Z | [open](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) |
 | davigmacode/flutter_smart_select | partial | 2023-10-03T12:52:26Z | [open](../records/electromagnetoscopes-davigmacode-flutter-smart-select-fdc8fd87.md) |
-| sgoudelis/ground-station | partial | 2026-09-15T11:54:22Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
+| sgoudelis/ground-station | partial | 2026-09-15T16:59:39Z | [open](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) |
 | stephendpmurphy/icm20948 | partial | 2021-09-16T20:36:06Z | [open](../records/electromagnetoscopes-stephendpmurphy-icm20948-afb8461d.md) |
 | Varvrar/ios_logger | partial | 2020-09-07T10:59:44Z | [open](../records/electromagnetoscopes-varvrar-ios-logger-a2f9d628.md) |
 

@@ -17,9 +17,9 @@ Records: `2471`
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6248)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (41)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
@@ -418,7 +418,7 @@ Records: `2471`
 | [@mintlify/cli](../records/node-js-javascript-mintlify-cli-64dbc59b.md) | 4.0.1497 | 2026-09-15T23:59:14.752Z | registry-derived |
 | [@module-federation/cli](../records/node-js-javascript-module-federation-cli-ad5965f3.md) | 2.9.0 | 2026-08-24T08:21:41.802Z | registry-derived |
 | [@mongosh/logging](../records/node-js-javascript-mongosh-logging-a2ed4564.md) | 5.2.0 | 2026-07-01T01:01:34.354Z | npm_registry |
-| [@napi-rs/cli](../records/node-js-javascript-napi-rs-cli-3160c98d.md) | 3.10.0 | 2026-09-15T15:02:12.855Z | registry-derived |
+| [@napi-rs/cli](../records/node-js-javascript-napi-rs-cli-3160c98d.md) | 3.10.1 | 2026-09-16T03:43:24.862Z | registry-derived |
 | [@nodearch/cli](../records/node-js-javascript-nodearch-cli-688b2067.md) | 2.2.8 | 2025-09-25T13:07:35.786Z | registry-derived |
 | [@nuxt/cli](../records/node-js-javascript-nuxt-cli-f015cf50.md) | 3.37.0 | 2026-07-14T10:47:22.645Z | registry-derived |
 | [@openapi-codegen/cli](../records/node-js-javascript-openapi-codegen-cli-d161549d.md) | 3.1.0 | 2025-02-20T10:09:40.664Z | registry-derived |
@@ -2507,7 +2507,7 @@ Records: `2471`
 | [@subsquid/graphql-server](../records/node-js-javascript-subsquid-graphql-server-df5bcb94.md) | 4.12.1 | 2026-07-10T07:12:01.996Z | registry-derived |
 | [@subsquid/logger](../records/node-js-javascript-subsquid-logger-e4c79f0d.md) | 1.6.0 | 2026-05-11T07:59:43.851Z | npm_registry |
 | [@sugarcube-sh/cli](../records/node-js-javascript-sugarcube-sh-cli-279d85e7.md) | 0.1.25 | 2026-08-24T11:03:22.047Z | registry-derived |
-| [@tauri-apps/plugin-http](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) | 2.6.0 | 2026-08-31T11:20:18.468Z | registry-derived |
+| [@tauri-apps/plugin-http](../records/node-js-javascript-tauri-apps-plugin-http-7fcc9b39.md) | 2.6.1 | 2026-09-16T04:19:27.334Z | registry-derived |
 | [@temporalio/testing](../records/node-js-javascript-temporalio-testing-01a9b62c.md) | 1.24.0 | 2026-09-15T02:19:09.435Z | registry-derived |
 | [@vite-hub/database](../records/node-js-javascript-vite-hub-database-37a8b102.md) | 0.0.4 | 2026-09-04T05:14:13.289Z | registry-derived |
 | [abstract-logging](../records/node-js-javascript-abstract-logging-e0fb44af.md) | 2.0.1 | 2020-10-17T12:15:48.198Z | npm_registry |

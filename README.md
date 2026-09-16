@@ -1,6 +1,6 @@
 # UNICAGD Programming Systems Discovery Catalog
 
-Generated: `2026-09-16T03:23:23+00:00`
+Generated: `2026-09-16T04:23:48+00:00`
 
 This repository is a Markdown explorer for a systems-engineering programming corpus. It preserves the master JSON seed, expands it with registry-derived ecosystem records, and tracks release metadata without guessing unknown dates.
 
@@ -23,9 +23,9 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 [Embedded Hardware (70)](catalog/by-category/embedded-hardware.md) · [Ffi Bindings (492)](catalog/by-category/ffi-bindings.md) · [Filesystem Os (1741)](catalog/by-category/filesystem-os.md) · [Formatter (679)](catalog/by-category/formatter.md)
 [Framework (64)](catalog/by-category/framework.md) · [Fuzzer (68)](catalog/by-category/fuzzer.md) · [Game Engine Game Dev (378)](catalog/by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](catalog/by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](catalog/by-category/image-audio-dsp.md) · [Interop Bindings (65)](catalog/by-category/interop-bindings.md) · [Interpreter Runtime (292)](catalog/by-category/interpreter-runtime.md) · [Jit Vm (67)](catalog/by-category/jit-vm.md)
-[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1478)](catalog/by-category/language-specification.md) · [Library (6248)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
-[Lint Rule Pack (54)](catalog/by-category/lint-rule-pack.md) · [Linter (352)](catalog/by-category/linter.md) · [Logging Observability (601)](catalog/by-category/logging-observability.md) · [Machine Learning (881)](catalog/by-category/machine-learning.md)
-[Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](catalog/by-category/memory-analyzer.md) · [Message Broker (41)](catalog/by-category/message-broker.md) · [Networking Http (1110)](catalog/by-category/networking-http.md)
+[Language Server (31)](catalog/by-category/language-server.md) · [Language Specification (1478)](catalog/by-category/language-specification.md) · [Library (6250)](catalog/by-category/library.md) · [Lint Plugin (1)](catalog/by-category/lint-plugin.md)
+[Lint Rule Pack (54)](catalog/by-category/lint-rule-pack.md) · [Linter (352)](catalog/by-category/linter.md) · [Logging Observability (602)](catalog/by-category/logging-observability.md) · [Machine Learning (881)](catalog/by-category/machine-learning.md)
+[Math Numeric Scientific (98)](catalog/by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](catalog/by-category/memory-analyzer.md) · [Message Broker (42)](catalog/by-category/message-broker.md) · [Networking Http (1110)](catalog/by-category/networking-http.md)
 [Other (14)](catalog/by-category/other.md) · [Package Manager (452)](catalog/by-category/package-manager.md) · [Parser Lexer Ast (1256)](catalog/by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](catalog/by-category/precommit-ci-quality.md)
 [Profiler (102)](catalog/by-category/profiler.md) · [Project Scaffolding (146)](catalog/by-category/project-scaffolding.md) · [Registry Repository (136)](catalog/by-category/registry-repository.md) · [Sanitizer (17)](catalog/by-category/sanitizer.md)
 [Security Sast (341)](catalog/by-category/security-sast.md) · [Serialization (410)](catalog/by-category/serialization.md) · [Standard Library (26)](catalog/by-category/standard-library.md) · [Static Analyzer (701)](catalog/by-category/static-analyzer.md)
@@ -37,12 +37,12 @@ This repository is a Markdown explorer for a systems-engineering programming cor
 | Metric | Count |
 | --- | ---: |
 | Source records | 968 |
-| Canonical identity pages | 29578 |
+| Canonical identity pages | 29582 |
 | Expansion records added | 8605 |
 | Release checks attempted | 1200 |
-| Known stable release fields | 11181 |
+| Known stable release fields | 11185 |
 | Unknown stable release fields | 18397 |
-| Fetch errors recorded | 1011 |
+| Fetch errors recorded | 1008 |
 | Target identity count | 24000 |
 
 ## Language Scope

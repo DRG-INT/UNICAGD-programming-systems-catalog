@@ -13,9 +13,9 @@
 [Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1741)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6248)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (601)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (41)](by-category/message-broker.md) · [Networking Http (1110)](by-category/networking-http.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6250)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (602)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (42)](by-category/message-broker.md) · [Networking Http (1110)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (701)](by-category/static-analyzer.md)
@@ -881,6 +881,7 @@
 | `cran_packages_by_date-0806010085be26` | varequal | [open](records/r-varequal-d7d3c74a.md) |
 | `cran_packages_by_date-080c4d1a7870cd` | shinygenui | [open](records/r-shinygenui-3bedacc4.md) |
 | `cran_packages_by_date-0815cb80a49bf7` | MDPtoolbox | [open](records/r-mdptoolbox-919f1f57.md) |
+| `cran_packages_by_date-081b5b05219d82` | nanoparquet | [open](records/r-nanoparquet-17901e13.md) |
 | `cran_packages_by_date-0836421d62a0a0` | MatrixEQTL | [open](records/r-matrixeqtl-33a324a1.md) |
 | `cran_packages_by_date-0875c9abccc071` | freegroup | [open](records/r-freegroup-5fae418a.md) |
 | `cran_packages_by_date-08aceaf64296d3` | riskscores | [open](records/r-riskscores-b0d05491.md) |
@@ -18473,6 +18474,7 @@
 | `hackage_recent-057a5ce16bebbd` | ghc-stack-profiler-speedscope | [open](records/haskell-ghc-stack-profiler-speedscope-c90ad513.md) |
 | `hackage_recent-06875ef13f88c3` | copilot-interpreter | [open](records/haskell-copilot-interpreter-ce6cf1ea.md) |
 | `hackage_recent-0708cfde4998b7` | okf-cli | [open](records/haskell-okf-cli-6db274d3.md) |
+| `hackage_recent-070be41131503d` | shibuya-metrics | [open](records/haskell-shibuya-metrics-a68fa035.md) |
 | `hackage_recent-08efc48cf33993` | baikai | [open](records/haskell-baikai-a604f283.md) |
 | `hackage_recent-099ef0f0903b8a` | zwirn | [open](records/haskell-zwirn-636aef50.md) |
 | `hackage_recent-0c786b314b6410` | grapesy | [open](records/haskell-grapesy-9ecbf2e2.md) |
@@ -18572,6 +18574,7 @@
 | `hackage_recent-855bb41d301c3b` | notion-client-effectful | [open](records/haskell-notion-client-effectful-ca994bb5.md) |
 | `hackage_recent-85b70f81457859` | tricorder-mcp | [open](records/haskell-tricorder-mcp-95664038.md) |
 | `hackage_recent-89fe29046e7ee4` | sdl3-bindgen-sys | [open](records/haskell-sdl3-bindgen-sys-2e14785a.md) |
+| `hackage_recent-8e07d26cb3e288` | shibuya-kafka-adapter | [open](records/haskell-shibuya-kafka-adapter-60dcb820.md) |
 | `hackage_recent-8f02f0b40516b7` | ephemeral-pg | [open](records/haskell-ephemeral-pg-bde54662.md) |
 | `hackage_recent-8f19a9f3b54758` | hydra-scala | [open](records/haskell-hydra-scala-6e3a86f3.md) |
 | `hackage_recent-8f6b763e7985db` | mini | [open](records/haskell-mini-8b13af00.md) |
@@ -18636,6 +18639,7 @@
 | `hackage_recent-e16b07423abf5c` | datastar-hs | [open](records/haskell-datastar-hs-04e237be.md) |
 | `hackage_recent-e607038ff784fc` | tricorder | [open](records/haskell-tricorder-354456ad.md) |
 | `hackage_recent-e88440fa14787f` | crux-llvm | [open](records/haskell-crux-llvm-491a04aa.md) |
+| `hackage_recent-eb7bc198c7e5fb` | shibuya-core | [open](records/haskell-shibuya-core-431507f8.md) |
 | `hackage_recent-f0bc998d45c1b6` | yamlscript | [open](records/haskell-yamlscript-f3f0625d.md) |
 | `hackage_recent-f359a67de4b3a4` | encapsule | [open](records/haskell-encapsule-a315f436.md) |
 | `hackage_recent-f3b71fb2557cf8` | redis-glob | [open](records/haskell-redis-glob-c0be12d6.md) |

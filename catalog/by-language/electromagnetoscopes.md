@@ -17,9 +17,9 @@ Records: `510`
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6248)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (41)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
@@ -42,7 +42,7 @@ Records: `510`
 | [eldruin/lsm303agr-rs](../records/electromagnetoscopes-eldruin-lsm303agr-rs-f0561090.md) | partial | 2024-06-24T20:22:44Z | registry-derived |
 | [google/ceviche-challenges](../records/electromagnetoscopes-google-ceviche-challenges-32054f63.md) | partial | 2024-01-20T18:04:58Z | registry-derived |
 | [KJ7LNW/xnec2c](../records/electromagnetoscopes-kj7lnw-xnec2c-b0133631.md) | partial | 2026-09-06T03:27:53Z | registry-derived |
-| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-15T15:58:30Z | registry-derived |
+| [luigifcruz/CyberEther](../records/electromagnetoscopes-luigifcruz-cyberether-9a732794.md) | partial | 2026-09-16T01:21:46Z | registry-derived |
 
 ### Build System
 
@@ -65,9 +65,9 @@ Records: `510`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [bjarneo/cliamp](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) | partial | 2026-09-15T07:38:36Z | registry-derived |
+| [bjarneo/cliamp](../records/electromagnetoscopes-bjarneo-cliamp-fe896688.md) | partial | 2026-09-15T18:11:07Z | registry-derived |
 | [dpnkrpl/radio-active](../records/electromagnetoscopes-dpnkrpl-radio-active-7dcde167.md) | partial | 2026-06-30T15:34:15Z | registry-derived |
-| [geo-tp/ESP32-Bit-Pirate](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) | partial | 2026-09-12T17:40:17Z | registry-derived |
+| [geo-tp/ESP32-Bit-Pirate](../records/electromagnetoscopes-geo-tp-esp32-bit-pirate-08880f73.md) | partial | 2026-09-15T20:22:59Z | registry-derived |
 | [ha7ilm/csdr](../records/electromagnetoscopes-ha7ilm-csdr-3ab2ab01.md) | partial | 2024-02-06T12:13:28Z | registry-derived |
 | [jafrado/magdec](../records/electromagnetoscopes-jafrado-magdec-863f75e9.md) | partial | 2026-03-15T00:39:45Z | registry-derived |
 | [yeet-src/airtop](../records/electromagnetoscopes-yeet-src-airtop-1479ca84.md) | partial | 2026-08-31T16:53:20Z | registry-derived |
@@ -156,7 +156,7 @@ Records: `510`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Arkanic/rtljs](../records/electromagnetoscopes-arkanic-rtljs-1bff2dba.md) | partial | 2024-09-21T02:20:41Z | registry-derived |
-| [ElmerCSC/elmerfem](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) | partial | 2026-09-15T15:19:23Z | registry-derived |
+| [ElmerCSC/elmerfem](../records/electromagnetoscopes-elmercsc-elmerfem-2ad5920f.md) | partial | 2026-09-15T17:58:49Z | registry-derived |
 | [hbldh/pymetawear](../records/electromagnetoscopes-hbldh-pymetawear-2cce3120.md) | partial | 2023-05-30T14:04:42Z | registry-derived |
 | [youxch/Inverse-design-of-patch-antennas](../records/electromagnetoscopes-youxch-inverse-design-of-patch-antennas-3ea13c86.md) | partial | 2024-10-10T07:04:39Z | registry-derived |
 
@@ -264,7 +264,7 @@ Records: `510`
 | [romavis/lomiloop](../records/electromagnetoscopes-romavis-lomiloop-7ad72199.md) | partial | 2023-03-30T13:49:50Z | registry-derived |
 | [ruvnet/RuView](../records/electromagnetoscopes-ruvnet-ruview-2ca00b65.md) | partial | 2026-09-15T06:26:41Z | registry-derived |
 | [sunsided/frdm-kl25z-marg-fusion](../records/electromagnetoscopes-sunsided-frdm-kl25z-marg-fusion-2a0d81df.md) | partial | 2023-08-18T19:36:21Z | registry-derived |
-| [wenzhixin/bootstrap-table](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) | partial | 2026-09-15T00:00:38Z | registry-derived |
+| [wenzhixin/bootstrap-table](../records/electromagnetoscopes-wenzhixin-bootstrap-table-50c48a32.md) | partial | 2026-09-16T00:01:25Z | registry-derived |
 | [wiedehopf/tar1090](../records/electromagnetoscopes-wiedehopf-tar1090-c8688d5c.md) | partial | 2026-09-05T19:20:39Z | registry-derived |
 | [xevozen/HFSS-Design-Files](../records/electromagnetoscopes-xevozen-hfss-design-files-f87b2c57.md) | partial | 2024-07-31T16:43:11Z | registry-derived |
 
@@ -329,7 +329,7 @@ Records: `510`
 | [beamzorg/beamz](../records/electromagnetoscopes-beamzorg-beamz-a88f7bef.md) | partial | 2026-09-13T20:18:16Z | registry-derived |
 | [bk-squared/rfx](../records/electromagnetoscopes-bk-squared-rfx-bb3c9d75.md) | partial | 2026-09-14T14:49:17Z | registry-derived |
 | [brtkrtz/magnelio](../records/electromagnetoscopes-brtkrtz-magnelio-392510d6.md) | partial | 2026-09-09T09:39:35Z | registry-derived |
-| [BruceDevices/firmware](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) | partial | 2026-09-14T08:49:22Z | registry-derived |
+| [BruceDevices/firmware](../records/electromagnetoscopes-brucedevices-firmware-7d55bbf4.md) | partial | 2026-09-16T00:23:21Z | registry-derived |
 | [Bttstrp/bootstrap-switch](../records/electromagnetoscopes-bttstrp-bootstrap-switch-c4659979.md) | partial | 2021-10-05T21:37:19Z | registry-derived |
 | [cariboulabs/cariboulite](../records/electromagnetoscopes-cariboulabs-cariboulite-b5f93f28.md) | partial | 2025-07-24T17:35:47Z | registry-derived |
 | [cascade-space-co/spacelink](../records/electromagnetoscopes-cascade-space-co-spacelink-9d56fb89.md) | partial | 2026-06-29T21:56:48Z | registry-derived |
@@ -343,13 +343,13 @@ Records: `510`
 | [deroverda/recommended-radio-streams](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) | partial | 2026-09-09T05:29:36Z | registry-derived |
 | [dong-hao/EM3DVP](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) | partial | 2025-10-07T04:10:05Z | registry-derived |
 | [dslotter/HamPi](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) | partial | 2024-04-17T07:14:11Z | registry-derived |
-| [EdgeTX/edgetx](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) | partial | 2026-09-15T11:35:06Z | registry-derived |
+| [EdgeTX/edgetx](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) | partial | 2026-09-16T03:56:05Z | registry-derived |
 | [eldraco/Salamandra](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) | partial | 2021-01-11T15:40:06Z | registry-derived |
 | [ErcBunny/bunnyAAT](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) | partial | 2021-04-21T12:26:03Z | registry-derived |
 | [fancompute/ceviche](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) | partial | 2023-07-06T21:35:53Z | registry-derived |
-| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-15T12:36:59Z | registry-derived |
+| [fanmingming/live](../records/electromagnetoscopes-fanmingming-live-38acc0e7.md) | partial | 2026-09-16T02:34:56Z | registry-derived |
 | [FennisRobert/EMerge](../records/electromagnetoscopes-fennisrobert-emerge-a03ffe6e.md) | partial | 2026-09-11T12:10:46Z | registry-derived |
-| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-15T15:18:51Z | registry-derived |
+| [fooyin/fooyin](../records/electromagnetoscopes-fooyin-fooyin-5da32770.md) | partial | 2026-09-16T00:51:40Z | registry-derived |
 | [gaspode-t-wonderdog/moxon-frame-generator](../records/electromagnetoscopes-gaspode-t-wonderdog-moxon-frame-generator-02887759.md) | partial | 2026-01-22T04:25:13Z | registry-derived |
 | [geekysuavo/pyppm](../records/electromagnetoscopes-geekysuavo-pyppm-9351e5e0.md) | partial | 2021-07-04T15:42:35Z | registry-derived |
 | [git-artes/gr-tempest](../records/electromagnetoscopes-git-artes-gr-tempest-b9f52116.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
@@ -374,7 +374,7 @@ Records: `510`
 | [JuliaPhysics/ThinFilmsTools.jl](../records/electromagnetoscopes-juliaphysics-thinfilmstools-jl-592046ba.md) | partial | 2025-12-02T00:15:55Z | registry-derived |
 | [junguler/m3u-radio-music-playlists](../records/electromagnetoscopes-junguler-m3u-radio-music-playlists-309a3992.md) | partial | 2026-09-13T11:29:00Z | registry-derived |
 | [kgoba/ft8_lib](../records/electromagnetoscopes-kgoba-ft8-lib-9adffda7.md) | partial | 2025-08-24T04:55:25Z | registry-derived |
-| [Kopuz-org/kopuz](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) | partial | 2026-09-14T18:52:22Z | registry-derived |
+| [Kopuz-org/kopuz](../records/electromagnetoscopes-kopuz-org-kopuz-a5fa7420.md) | partial | 2026-09-15T19:03:44Z | registry-derived |
 | [Lauszus/LaunchPadFlightController](../records/electromagnetoscopes-lauszus-launchpadflightcontroller-8b7c701f.md) | partial | 2020-04-11T19:44:13Z | registry-derived |
 | [linroid/Sky31Radio](../records/electromagnetoscopes-linroid-sky31radio-c5c60aad.md) | partial | 2019-10-04T12:02:38Z | registry-derived |
 | [liviobisogni/quaternion-kalman-filter](../records/electromagnetoscopes-liviobisogni-quaternion-kalman-filter-423da6ea.md) | partial | 2023-05-17T13:41:52Z | registry-derived |
@@ -395,7 +395,7 @@ Records: `510`
 | [OpenRTX/OpenRTX](../records/electromagnetoscopes-openrtx-openrtx-82481c7a.md) | partial | 2026-09-12T20:10:35Z | registry-derived |
 | [pavel-demin/red-pitaya-notes](../records/electromagnetoscopes-pavel-demin-red-pitaya-notes-00d5e113.md) | partial | 2026-08-29T19:11:52Z | registry-derived |
 | [pbkhrv/rtl_433-hass-addons](../records/electromagnetoscopes-pbkhrv-rtl-433-hass-addons-cc86361b.md) | partial | 2026-06-26T12:07:44Z | registry-derived |
-| [portapack-mayhem/mayhem-firmware](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) | partial | 2026-09-15T00:29:38Z | registry-derived |
+| [portapack-mayhem/mayhem-firmware](../records/electromagnetoscopes-portapack-mayhem-mayhem-firmware-cb62b83c.md) | partial | 2026-09-16T00:29:15Z | registry-derived |
 | [prasad-dot-ws/ESP32_MIFA_PCB_ANTENNA](../records/electromagnetoscopes-prasad-dot-ws-esp32-mifa-pcb-antenna-377c7b52.md) | partial | 2019-01-17T08:17:17Z | registry-derived |
 | [ramses-rf/ramses_cc](../records/electromagnetoscopes-ramses-rf-ramses-cc-395bdb36.md) | partial | 2026-09-14T10:30:39Z | registry-derived |
 | [ramses-rf/ramses_rf](../records/electromagnetoscopes-ramses-rf-ramses-rf-836f9645.md) | partial | 2026-09-15T06:34:24Z | registry-derived |
@@ -405,11 +405,11 @@ Records: `510`
 | [rofl0r/MacGeiger](../records/electromagnetoscopes-rofl0r-macgeiger-79d68312.md) | partial | 2021-04-16T16:18:15Z | registry-derived |
 | [rookiepeng/antenna-models](../records/electromagnetoscopes-rookiepeng-antenna-models-0eb8a406.md) | partial | 2019-05-14T00:17:40Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) | partial | 2026-09-15T06:03:24Z | registry-derived |
+| [SatDump/SatDump](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) | partial | 2026-09-15T20:25:39Z | registry-derived |
 | [segler-alex/RadioDroid](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) | partial | 2024-06-26T20:46:45Z | registry-derived |
 | [simonp0420/TicraUtilities.jl](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) | partial | 2026-06-22T22:24:26Z | registry-derived |
 | [simpeg-research/heagy-2018-fracture-physprops](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) | partial | 2019-07-06T23:36:52Z | registry-derived |
-| [simpeg/simpeg](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) | partial | 2026-09-14T16:50:54Z | registry-derived |
+| [simpeg/simpeg](../records/electromagnetoscopes-simpeg-simpeg-90f40ef7.md) | partial | 2026-09-15T19:18:28Z | registry-derived |
 | [sp94/Peacock.jl](../records/electromagnetoscopes-sp94-peacock-jl-810df4ac.md) | partial | 2025-05-19T22:22:31Z | registry-derived |
 | [ThakurBallary/react-native-radio-buttons-group](../records/electromagnetoscopes-thakurballary-react-native-radio-buttons-group-16ff86a3.md) | partial | 2024-07-19T15:25:40Z | registry-derived |
 | [TLeconte/acarsdec](../records/electromagnetoscopes-tleconte-acarsdec-cdab05ad.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
@@ -439,7 +439,7 @@ Records: `510`
 | [analogcode/Swift-Radio-Pro](../records/electromagnetoscopes-analogcode-swift-radio-pro-46d0d487.md) | partial | 2026-07-05T16:45:42Z | registry-derived |
 | [analogdevicesinc/plutosdr-fw](../records/electromagnetoscopes-analogdevicesinc-plutosdr-fw-c02de597.md) | partial | 2026-08-13T21:21:29Z | registry-derived |
 | [davigmacode/flutter_smart_select](../records/electromagnetoscopes-davigmacode-flutter-smart-select-fdc8fd87.md) | partial | 2023-10-03T12:52:26Z | registry-derived |
-| [sgoudelis/ground-station](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) | partial | 2026-09-15T11:54:22Z | registry-derived |
+| [sgoudelis/ground-station](../records/electromagnetoscopes-sgoudelis-ground-station-36e5d6db.md) | partial | 2026-09-15T16:59:39Z | registry-derived |
 | [stephendpmurphy/icm20948](../records/electromagnetoscopes-stephendpmurphy-icm20948-afb8461d.md) | partial | 2021-09-16T20:36:06Z | registry-derived |
 | [Varvrar/ios_logger](../records/electromagnetoscopes-varvrar-ios-logger-a2f9d628.md) | partial | 2020-09-07T10:59:44Z | registry-derived |
 
@@ -519,8 +519,8 @@ Records: `510`
 | [dilshan/star-pointer](../records/electromagnetoscopes-dilshan-star-pointer-29b7ef6c.md) | partial | 2022-06-25T00:17:28Z | registry-derived |
 | [flexcompute/tidy3d](../records/electromagnetoscopes-flexcompute-tidy3d-516cdf02.md) | partial | 2026-08-07T07:32:11Z | registry-derived |
 | [Gjacquenot/Puma-EM](../records/electromagnetoscopes-gjacquenot-puma-em-3a6a3761.md) | partial | 2020-09-12T13:09:29Z | registry-derived |
-| [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-11T00:23:52Z | registry-derived |
-| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-15T16:04:32Z | registry-derived |
+| [libretime/libretime](../records/electromagnetoscopes-libretime-libretime-c0c8255f.md) | partial | 2026-09-16T01:36:22Z | registry-derived |
+| [meshtastic/Meshtastic-Android](../records/electromagnetoscopes-meshtastic-meshtastic-android-24c81b27.md) | partial | 2026-09-16T01:47:51Z | registry-derived |
 | [ocastilloreyes/petgem](../records/electromagnetoscopes-ocastilloreyes-petgem-68add85c.md) | partial | 2026-07-30T08:00:28Z | registry-derived |
 | [pagermon/pagermon](../records/electromagnetoscopes-pagermon-pagermon-283e38a1.md) | partial | 2026-08-04T22:51:57Z | registry-derived |
 | [psyb0t/piraterf](../records/electromagnetoscopes-psyb0t-piraterf-c88452c0.md) | partial | 2026-08-01T19:49:42Z | registry-derived |

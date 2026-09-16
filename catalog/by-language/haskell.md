@@ -1,6 +1,6 @@
 # Haskell
 
-Records: `1823`
+Records: `1826`
 
 ## Navigation
 
@@ -17,9 +17,9 @@ Records: `1823`
 [Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
 [Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6248)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (601)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (41)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
+[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
 [Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
 [Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
 [Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
@@ -1391,6 +1391,7 @@ Records: `1823`
 | [shakespeare-css](../records/haskell-shakespeare-css-cd1c6632.md) | 1.1.0 | 2014-03-30T06:14:59Z | registry-derived |
 | [shakespeare-js](../records/haskell-shakespeare-js-b7253ad7.md) | 1.3.0 | 2014-03-30T06:15:06Z | registry-derived |
 | [shh](../records/haskell-shh-da9c2084.md) | 0.7.3.0 | 2023-12-19T01:46:50Z | registry-derived |
+| [shibuya-core](../records/haskell-shibuya-core-431507f8.md) | 0.9.0.1 | 2026-09-16T03:38:54Z | registry-derived |
 | [shibuya-pgmq-adapter](../records/haskell-shibuya-pgmq-adapter-ced33a49.md) | 0.15.0.0 | 2026-09-14T18:10:21Z | registry-derived |
 | [shikumi](../records/haskell-shikumi-8670367b.md) | 0.4.0.0 | 2026-09-08T19:31:17Z | registry-derived |
 | [shikumi-cache](../records/haskell-shikumi-cache-b542d89a.md) | 0.2.0.0 | 2026-09-08T19:33:56Z | registry-derived |
@@ -1662,6 +1663,7 @@ Records: `1823`
 | [opentelemetry](../records/haskell-opentelemetry-1219fa64.md) | 0.8.0 | 2022-04-07T09:58:08Z | registry-derived |
 | [polysemy-log](../records/haskell-polysemy-log-12f342fb.md) | 0.11.2.0 | 2026-05-03T11:32:32Z | registry-derived |
 | [polysemy-log-co](../records/haskell-polysemy-log-co-dd34e738.md) | 0.11.2.0 | 2026-05-03T11:32:33Z | registry-derived |
+| [shibuya-metrics](../records/haskell-shibuya-metrics-a68fa035.md) | 0.9.0.1 | 2026-09-16T03:46:13Z | registry-derived |
 | [wai-logger](../records/haskell-wai-logger-12c9d42e.md) | 2.5.0 | 2024-10-11T08:25:29Z | registry-derived |
 
 ### Machine Learning
@@ -1755,6 +1757,7 @@ Records: `1823`
 | [net-mqtt](../records/haskell-net-mqtt-a7b88a5b.md) | 0.8.6.4 | 2026-04-28T01:44:27Z | registry-derived |
 | [pqueue](../records/haskell-pqueue-ac6cbc50.md) | 1.7.0.0 | 2026-04-16T16:30:29Z | registry-derived |
 | [psqueues](../records/haskell-psqueues-b1fa6808.md) | 0.2.8.3 | 2025-12-28T06:54:17Z | registry-derived |
+| [shibuya-kafka-adapter](../records/haskell-shibuya-kafka-adapter-60dcb820.md) | 0.9.0.1 | 2026-09-16T04:03:48Z | registry-derived |
 | [stomp-queue](../records/haskell-stomp-queue-894bae3e.md) | 0.5.1 | 2020-12-27T12:55:57Z | registry-derived |
 
 ### Networking Http

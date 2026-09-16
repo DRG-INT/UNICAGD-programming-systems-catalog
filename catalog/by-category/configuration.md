@@ -17,9 +17,9 @@ Records: `141`
 [Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6248)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (601)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (41)](message-broker.md) · [Networking Http (1110)](networking-http.md)
+[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
+[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
 [Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
 [Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
 [Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
@@ -253,7 +253,7 @@ Records: `141`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Codectory/AutoActions | partial | 2025-12-13T15:36:57Z | [open](../records/photography-codectory-autoactions-e74cd863.md) |
-| copicseal/copicseal | partial | 2026-09-16T02:24:03Z | [open](../records/photography-copicseal-copicseal-d2019de1.md) |
+| copicseal/copicseal | partial | 2026-09-16T03:52:49Z | [open](../records/photography-copicseal-copicseal-d2019de1.md) |
 | geerlingguy/pi-webcam | partial | 2023-07-15T14:35:31Z | [open](../records/photography-geerlingguy-pi-webcam-1d30657f.md) |
 | hybridgroup/gocv | partial | 2026-05-28T08:16:03Z | [open](../records/photography-hybridgroup-gocv-a4916bb3.md) |
 | Michael-A-Kuykendall/crabcamera | partial | 2026-08-26T20:25:22Z | [open](../records/photography-michael-a-kuykendall-crabcamera-9db06a90.md) |
