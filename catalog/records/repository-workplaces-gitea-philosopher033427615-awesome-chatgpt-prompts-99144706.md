@@ -41,9 +41,9 @@ awareness, and operational fit assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit; {"key": "", "name": "", "url": ""} |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -59,7 +59,7 @@ awareness, and operational fit assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-15 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-16 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "language", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

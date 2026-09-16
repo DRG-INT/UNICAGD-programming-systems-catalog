@@ -58,7 +58,7 @@ formats, persistence, interoperability, and compatibility boundaries.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-15 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-15", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-16 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-16", "status": "registry-derived"}` |
 
 </details>
 

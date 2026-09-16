@@ -58,7 +58,7 @@ compatibility validation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-15 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-16 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "runtime", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

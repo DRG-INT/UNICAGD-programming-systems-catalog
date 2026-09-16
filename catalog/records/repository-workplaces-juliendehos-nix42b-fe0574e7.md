@@ -39,9 +39,9 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Mixed license review |
+| Evidence | Other; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause; Apache License 2.0; https://api.github.com/licenses/apache-2.0; GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ dependency acquisition, lockfile policy, provenance control, and supply-chain mo
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "package manager", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-16 | `{"kind": "gitlab_projects_api", "query": "package manager", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

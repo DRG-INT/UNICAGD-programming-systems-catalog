@@ -39,9 +39,9 @@ inventory as part of language tooling, code generation, static analysis, and sou
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0; {"key": "", "name": "", "url": ""} |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ inventory as part of language tooling, code generation, static analysis, and sou
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-16 | `{"kind": "gitlab_projects_api", "query": "database", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

@@ -41,7 +41,7 @@ persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Mixed license review |
-| Evidence | MIT License; https://api.github.com/licenses/mit; GNU Lesser General Public License v3.0; https://api.github.com/licenses/lgpl-3.0; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
+| Evidence | Other; MIT License; https://api.github.com/licenses/mit; SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; BSD 2-Clause "Simplified" License; https://api.github.com/licenses/bsd-2-clause; BSD 3-Clause "New" or "Revised" License; https://api.github.com/licenses/bsd-3-clause |
 | Alert | Backup plan: mixed expression or dual license detected; choose the permissive option only when the exact terms allow it. |
 
 ## Engineering Notes

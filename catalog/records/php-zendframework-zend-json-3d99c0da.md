@@ -39,9 +39,9 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| packagist_search_and_p2_api | registry-derived | 2026-09-15 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-15", "status": "registry-derived"}` |
+| packagist_search_and_p2_api | registry-derived | 2026-09-16 | `{"kind": "packagist_search_and_p2_api", "query": "json", "retrieved": "2026-09-16", "status": "registry-derived"}` |
 
 </details>
 

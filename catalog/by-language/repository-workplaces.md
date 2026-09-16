@@ -49,7 +49,7 @@ Records: `533`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-15T21:27:18.323Z | registry-derived |
+| [crystal-forge/crystal-forge](../records/repository-workplaces-crystal-forge-crystal-forge-e00632e7.md) | partial | 2026-09-15T23:13:01.953Z | registry-derived |
 | [davivc/gitlab-ci-google-cloud-kubernetes](../records/repository-workplaces-davivc-gitlab-ci-google-cloud-kubernetes-ae4609d3.md) | partial | 2020-04-04T19:23:06.380Z | registry-derived |
 | [Gitea: cryptoexplorer/AICRYPTOMINER](../records/repository-workplaces-gitea-cryptoexplorer-aicryptominer-63195b59.md) | partial | 2026-05-31T03:33:30Z | registry-derived |
 | [Gitea: GiteaAi/iiab](../records/repository-workplaces-gitea-giteaai-iiab-82c43685.md) | partial | 2024-12-30T09:20:03Z | registry-derived |

@@ -40,9 +40,9 @@ assessment.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Unknown license |
-| Evidence | unknown |
-| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
+| Detected family | Other permissive |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ assessment.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-15 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitea_compatible_repository_search_api | forge-api-derived | 2026-09-16 | `{"endpoint": "Gitea", "kind": "gitea_compatible_repository_search_api", "query": "library", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

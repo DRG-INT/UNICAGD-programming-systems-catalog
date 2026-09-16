@@ -40,9 +40,9 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Field | Value |
 | --- | --- |
-| Detected family | MIT |
-| Evidence | MIT License; https://api.github.com/licenses/mit |
-| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
+| Detected family | Unknown license |
+| Evidence | unknown |
+| Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ runtime behavior, deployment packaging, embedding, upgrade cadence, and compatib
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-16 | `{"kind": "gitlab_projects_api", "query": "runtime", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 

@@ -32,7 +32,7 @@ language integration, ABI ownership, memory safety, and runtime embedding.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T18:03:04Z | gh search repos topic:assembly stars:>300 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T01:00:26Z | gh search repos topic:assembly stars:>300 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -40,7 +40,7 @@ language integration, ABI ownership, memory safety, and runtime embedding.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes

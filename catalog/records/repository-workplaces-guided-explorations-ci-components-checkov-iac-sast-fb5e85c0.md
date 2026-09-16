@@ -60,7 +60,7 @@ policy, and CI integration.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| gitlab_projects_api | forge-api-derived | 2026-09-15 | `{"kind": "gitlab_projects_api", "query": "security", "retrieved": "2026-09-15", "status": "forge-api-derived"}` |
+| gitlab_projects_api | forge-api-derived | 2026-09-16 | `{"kind": "gitlab_projects_api", "query": "security", "retrieved": "2026-09-16", "status": "forge-api-derived"}` |
 
 </details>
 
