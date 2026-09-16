@@ -1,23 +1,23 @@
 # Release Watch
 
-Generated: `2026-09-16T02:23:16+00:00`
+Generated: `2026-09-16T03:23:23+00:00`
 
 [Catalog index](index.md) · [Apache/MIT license index](license-index.md) · [Provenance](provenance.md)
 
 ## Category Index
 
-[Api Abi Checker (241)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1052)](by-category/build-system.md) · [Cli (609)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Api Abi Checker (242)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
+[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1053)](by-category/build-system.md) · [Cli (609)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
 [Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
 [Cryptography (183)](by-category/cryptography.md) · [Data Science (42)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1740)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1741)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
 [Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
 [Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6247)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6248)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
 [Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (601)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (40)](by-category/message-broker.md) · [Networking Http (1109)](by-category/networking-http.md)
+[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (41)](by-category/message-broker.md) · [Networking Http (1110)](by-category/networking-http.md)
 [Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
 [Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
 [Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (701)](by-category/static-analyzer.md)
@@ -28,16 +28,24 @@ Generated: `2026-09-16T02:23:16+00:00`
 
 | State | Count |
 | --- | ---: |
-| Known stable release | 11175 |
+| Known stable release | 11181 |
 | Unknown stable release | 18397 |
 
 ## Newest Known Stable Metadata
 
 | Name | Language | Category | Version | Date | Page |
 | --- | --- | --- | --- | --- | --- |
+| @github/copilot-linux-x64 | Node.js/JavaScript | Undefined Behavior Analyzer | 1.0.85 | 2026-09-16T02:45:03.597Z | [open](records/node-js-javascript-github-copilot-linux-x64-e1103f2c.md) |
+| @umijs/server | Node.js/JavaScript | Web Framework | 4.7.18 | 2026-09-16T02:36:36.381Z | [open](records/node-js-javascript-umijs-server-39ec9954.md) |
+| kafka-effectful | Haskell | Message Broker | 0.3.1.0 | 2026-09-16T02:33:40Z | [open](records/haskell-kafka-effectful-c4242f81.md) |
 | @rspack/cli | Node.js/JavaScript | Cli | 2.2.5 | 2026-09-16T01:41:00.364Z | [open](records/node-js-javascript-rspack-cli-8e6b6307.md) |
 | @cloudflare/workers-types | Node.js/TypeScript | Type Checker | 5.20260916.1 | 2026-09-16T01:21:33.240Z | [open](records/node-js-typescript-cloudflare-workers-types-4ee81b52.md) |
 | @vitejs/plugin-rsc | Node.js/JavaScript | Web Framework | 0.5.35 | 2026-09-16T00:51:28.258Z | [open](records/node-js-javascript-vitejs-plugin-rsc-9f07ecd1.md) |
+| pks | R | Api Abi Checker | 0.8-0 | 2026-09-16 02:40:02 UTC | [open](records/r-pks-bd136038.md) |
+| ftExtra | R | Library | 0.6.5 | 2026-09-16 02:30:13 UTC | [open](records/r-ftextra-c38e6d78.md) |
+| rayrender | R | Build System | 0.42.0 | 2026-09-16 02:30:02 UTC | [open](records/r-rayrender-9922fda5.md) |
+| BioStatR | R | Filesystem Os | 4.1.2 | 2026-09-16 02:20:10 UTC | [open](records/r-biostatr-ed8e4e5a.md) |
+| gleifr | R | Networking Http | 0.3.0 | 2026-09-16 02:20:02 UTC | [open](records/r-gleifr-eaeb6724.md) |
 | DeCAFS | R | Image Audio Dsp | 3.3.6 | 2026-09-16 01:20:02 UTC | [open](records/r-decafs-0a0e43b1.md) |
 | exdqlm | R | Library | 1.1.2 | 2026-09-16 01:00:02 UTC | [open](records/r-exdqlm-82eabd48.md) |
 | PatientGenerator | R | Library | 0.2.4 | 2026-09-16 00:10:10 UTC | [open](records/r-patientgenerator-d377f359.md) |
@@ -277,14 +285,6 @@ Generated: `2026-09-16T02:23:16+00:00`
 | autorelevate | R | Api Abi Checker | 0.1.0 | 2026-09-15 14:10:02 UTC | [open](records/r-autorelevate-d3cd14a8.md) |
 | Entropic.Scree | R | Formatter | 1.0.1 | 2026-09-15 14:00:02 UTC | [open](records/r-entropic-scree-fd7846bc.md) |
 | evaluatellm | R | Language Specification | 0.1.0 | 2026-09-15 13:40:02 UTC | [open](records/r-evaluatellm-257d533d.md) |
-| netDFI | R | Networking Http | 1.2.0 | 2026-09-15 13:20:08 UTC | [open](records/r-netdfi-180de4c4.md) |
-| oneway | R | Library | 0.0.2 | 2026-09-15 13:20:02 UTC | [open](records/r-oneway-f0ccc3a2.md) |
-| FCtools | R | Library | 2.3.1 | 2026-09-15 13:10:08 UTC | [open](records/r-fctools-8363abc2.md) |
-| ggicons | R | Visualization Gui | 0.1.0 | 2026-09-15 13:10:02 UTC | [open](records/r-ggicons-6e5c9831.md) |
-| bioclients | R | Networking Http | 0.1.1 | 2026-09-15 13:00:08 UTC | [open](records/r-bioclients-282c6a0e.md) |
-| simPsyStudy | R | Library | 1.1.8 | 2026-09-15 13:00:02 UTC | [open](records/r-simpsystudy-e1bad54b.md) |
-| metafor | R | Static Analyzer | 5.2-1 | 2026-09-15 12:30:02 UTC | [open](records/r-metafor-63821714.md) |
-| ardldml | R | Testing Framework | 0.1.0 | 2026-09-15 12:20:09 UTC | [open](records/r-ardldml-1d95989c.md) |
 
 ## Unknown Reasons
 
