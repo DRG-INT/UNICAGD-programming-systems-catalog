@@ -1,6 +1,6 @@
 # Logging Observability
 
-Records: `602`
+Records: `603`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `602`
 ## Category Index
 
 [Api Abi Checker (242)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1053)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Benchmarking (212)](benchmarking.md) · [Build System (1056)](build-system.md) · [Cli (612)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (127)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (57)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · **[Logging Observability (602)](logging-observability.md)** · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (387)](game-engine-game-dev.md) · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6274)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · **[Logging Observability (603)](logging-observability.md)** · [Machine Learning (884)](machine-learning.md)
+[Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (103)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (322)](type-checker.md)
+[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## C99
 
@@ -371,15 +371,15 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| influxdata/telegraf | partial | 2026-09-15T15:43:47Z | [open](../records/go-influxdata-telegraf-cc811069.md) |
+| influxdata/telegraf | unknown | not_a_go_module_path | [open](../records/go-influxdata-telegraf-cc811069.md) |
 
 ## "aim's"
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 2noise/ChatTTS | partial | 2026-04-10T16:33:48Z | [open](../records/aim-s-2noise-chattts-5e993170.md) |
+| 2noise/ChatTTS | unknown | github_latest_release_missing | [open](../records/aim-s-2noise-chattts-5e993170.md) |
 | langfuse/langfuse | partial | 2026-09-11T08:18:35Z | [open](../records/aim-s-langfuse-langfuse-83471c55.md) |
-| microsoft/semantic-kernel | partial | 2026-09-11T06:58:37Z | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
+| microsoft/semantic-kernel | unknown | github_latest_release_missing | [open](../records/aim-s-microsoft-semantic-kernel-ef95bef0.md) |
 | MLflow | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-mlflow-1732aa2b.md) |
 | OpenTelemetry Semantic Conventions For GenAI | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-opentelemetry-semantic-conventions-for-genai-e834f611.md) |
 
@@ -387,6 +387,7 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
+| Overload-Technologies/Overload | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-overload-technologies-overload-158d1ddd.md) |
 | QianMo/Game-Programmer-Study-Notes | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-qianmo-game-programmer-study-notes-90ee6465.md) |
 
 ## Engines
@@ -403,7 +404,7 @@ Records: `602`
 | Erfan-Ahmadi/CircleCollision | partial | 2020-12-28T14:58:06Z | [open](../records/physics-engines-erfan-ahmadi-circlecollision-11fd1023.md) |
 | GuilhermeRossato/3D-Redstone-Simulator | partial | 2026-05-29T20:37:27Z | [open](../records/physics-engines-guilhermerossato-3d-redstone-simulator-ab4487ec.md) |
 | Unity-Technologies/articulations-robot-demo | partial | 2021-12-13T23:53:46Z | [open](../records/physics-engines-unity-technologies-articulations-robot-demo-cb42297d.md) |
-| Unity-Technologies/PhysicsExamples2D | partial | 2026-09-09T17:59:07Z | [open](../records/physics-engines-unity-technologies-physicsexamples2d-c6aaad56.md) |
+| Unity-Technologies/PhysicsExamples2D | partial | 2026-09-11T13:37:50Z | [open](../records/physics-engines-unity-technologies-physicsexamples2d-c6aaad56.md) |
 | XXHolic/blog | partial | 2025-11-30T12:46:47Z | [open](../records/physics-engines-xxholic-blog-19ccc801.md) |
 
 ## Game Engines
@@ -413,7 +414,7 @@ Records: `602`
 | MovingBlocks/Terasology | partial | 2026-08-29T19:19:27Z | [open](../records/game-engines-movingblocks-terasology-efdac4a7.md) |
 | Overload-Technologies/Overload | partial | 2026-09-09T21:30:27Z | [open](../records/game-engines-overload-technologies-overload-04afa783.md) |
 | QianMo/Game-Programmer-Study-Notes | partial | 2021-10-16T10:02:21Z | [open](../records/game-engines-qianmo-game-programmer-study-notes-d8626b38.md) |
-| Unity-Technologies/EntityComponentSystemSamples | partial | 2026-09-10T23:10:59Z | [open](../records/game-engines-unity-technologies-entitycomponentsystemsamples-c074867e.md) |
+| Unity-Technologies/EntityComponentSystemSamples | partial | 2026-09-15T23:11:34Z | [open](../records/game-engines-unity-technologies-entitycomponentsystemsamples-c074867e.md) |
 
 ## Icons and Logos
 
@@ -689,7 +690,7 @@ Records: `602`
 | adityacodes30/catalog-scoring-ondc | partial | 2024-06-23T17:33:29Z | [open](../records/repertoare-catalogs-adityacodes30-catalog-scoring-ondc-eed2618c.md) |
 | AdityaLad2004/Catalog-Score | partial | 2024-02-10T18:28:30Z | [open](../records/repertoare-catalogs-adityalad2004-catalog-score-1c228719.md) |
 | alphaparkinc/genpark-catalog-enrichment-skill | partial | 2026-07-10T05:51:52Z | [open](../records/repertoare-catalogs-alphaparkinc-genpark-catalog-enrichment-skill-9442da58.md) |
-| Arnon-hs/open-source | partial | 2026-09-16T02:08:53Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
+| Arnon-hs/open-source | partial | 2026-09-16T06:24:22Z | [open](../records/repertoare-catalogs-arnon-hs-open-source-e137acf0.md) |
 | CHagarty/scorecard-catalogue | partial | 2025-07-11T00:33:16Z | [open](../records/repertoare-catalogs-chagarty-scorecard-catalogue-ac87b7bd.md) |
 | Chistera-Scoring/services-catalog | partial | 2023-11-27T10:50:20Z | [open](../records/repertoare-catalogs-chistera-scoring-services-catalog-59fbb312.md) |
 | Eswaraiahsapram/scorecard-catalog | partial | 2025-09-02T05:54:30Z | [open](../records/repertoare-catalogs-eswaraiahsapram-scorecard-catalog-92541430.md) |

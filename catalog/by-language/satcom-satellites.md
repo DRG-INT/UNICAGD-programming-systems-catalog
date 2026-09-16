@@ -1,6 +1,6 @@
 # SatCom Satellites
 
-Records: `327`
+Records: `328`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `327`
 ## Category Index
 
 [Api Abi Checker (242)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1053)](../by-category/build-system.md) · [Cli (609)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (212)](../by-category/benchmarking.md) · [Build System (1056)](../by-category/build-system.md) · [Cli (612)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (127)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (57)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (988)](../by-category/database-datastore.md) · [Datetime (259)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
-[Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (661)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (109)](../by-category/utility-library.md) · [Visualization Gui (659)](../by-category/visualization-gui.md) · [Web Framework (507)](../by-category/web-framework.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (497)](../by-category/ffi-bindings.md) · [Filesystem Os (1755)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
+[Framework (65)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (387)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1540)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (293)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1481)](../by-category/language-specification.md) · [Library (6274)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (603)](../by-category/logging-observability.md) · [Machine Learning (884)](../by-category/machine-learning.md)
+[Math Numeric Scientific (100)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1111)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (453)](../by-category/package-manager.md) · [Parser Lexer Ast (1259)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
+[Profiler (103)](../by-category/profiler.md) · [Project Scaffolding (147)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (703)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (663)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (322)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1680)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (110)](../by-category/utility-library.md) · [Visualization Gui (666)](../by-category/visualization-gui.md) · [Web Framework (508)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -40,7 +40,7 @@ Records: `327`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [ghostop14/gr-lfast](../records/satcom-satellites-ghostop14-gr-lfast-87ce6af8.md) | partial | 2022-03-25T13:23:13Z | registry-derived |
-| [luigifcruz/CyberEther](../records/satcom-satellites-luigifcruz-cyberether-8f6bc0f0.md) | partial | 2026-09-10T05:54:47Z | registry-derived |
+| [luigifcruz/CyberEther](../records/satcom-satellites-luigifcruz-cyberether-8f6bc0f0.md) | partial | 2026-09-16T01:21:46Z | registry-derived |
 | [Reza-Zhu/SUES-200-Benchmark](../records/satcom-satellites-reza-zhu-sues-200-benchmark-a1bf4f0b.md) | partial | 2026-09-08T08:07:55Z | registry-derived |
 
 ### Build System
@@ -49,7 +49,7 @@ Records: `327`
 | --- | --- | --- | --- |
 | [BatchDrake/SigDigger](../records/satcom-satellites-batchdrake-sigdigger-3f7ec5e8.md) | partial | 2026-02-11T18:28:43Z | registry-derived |
 | [dawsonjon/PicoRX](../records/satcom-satellites-dawsonjon-picorx-3e4d55e0.md) | partial | 2026-09-05T15:02:46Z | registry-derived |
-| [F5OEO/tezuka_fw](../records/satcom-satellites-f5oeo-tezuka-fw-a63d9bef.md) | partial | 2026-08-31T17:20:57Z | registry-derived |
+| [F5OEO/tezuka_fw](../records/satcom-satellites-f5oeo-tezuka-fw-a63d9bef.md) | partial | 2026-09-14T17:06:09Z | registry-derived |
 | [gnuradio/pybombs](../records/satcom-satellites-gnuradio-pybombs-e89ab457.md) | partial | 2022-04-25T19:50:21Z | registry-derived |
 | [layumi/University1652-Baseline](../records/satcom-satellites-layumi-university1652-baseline-2215b80c.md) | partial | 2026-08-10T04:53:19Z | registry-derived |
 | [mapbox/make-surface](../records/satcom-satellites-mapbox-make-surface-45ccf045.md) | partial | 2026-06-29T14:50:22Z | registry-derived |
@@ -120,7 +120,7 @@ Records: `327`
 | [ghostop14/gr-correctiq](../records/satcom-satellites-ghostop14-gr-correctiq-8526d287.md) | partial | 2022-07-28T13:49:55Z | registry-derived |
 | [gorlapraveen/The-Learning-Documentation-Project](../records/satcom-satellites-gorlapraveen-the-learning-documentation-project-659c0f15.md) | partial | 2024-01-11T13:33:35Z | registry-derived |
 | [NASA TDRS](../records/satcom-satellites-nasa-tdrs-e2a57392.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [srsran/srsRAN_4G](../records/satcom-satellites-srsran-srsran-4g-0df6164c.md) | partial | 2026-01-26T08:20:21Z | registry-derived |
+| [srsran/srsRAN_4G](../records/satcom-satellites-srsran-srsran-4g-0df6164c.md) | partial | 2026-09-14T07:22:29Z | registry-derived |
 | [srsran/srsRAN_Project](../records/satcom-satellites-srsran-srsran-project-c60d2e9c.md) | partial | 2026-06-01T07:10:58Z | registry-derived |
 
 ### Embedded Hardware
@@ -143,7 +143,7 @@ Records: `327`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-15T03:32:02Z | registry-derived |
+| [ainfosec/FISSURE](../records/satcom-satellites-ainfosec-fissure-2be895d2.md) | partial | 2026-09-16T04:54:05Z | registry-derived |
 | [AlexandreRouma/SDRPlusPlus](../records/satcom-satellites-alexandrerouma-sdrplusplus-e02064ad.md) | partial | 2026-07-05T00:37:31Z | registry-derived |
 | [antonjan/gnuradio-grc-examples](../records/satcom-satellites-antonjan-gnuradio-grc-examples-db27850c.md) | partial | 2022-09-02T07:17:09Z | registry-derived |
 | [aweeri/TLEscope](../records/satcom-satellites-aweeri-tlescope-9706f874.md) | partial | 2026-09-16T02:26:03Z | registry-derived |
@@ -154,7 +154,7 @@ Records: `327`
 | [ghostop14/gr-clenabled](../records/satcom-satellites-ghostop14-gr-clenabled-79a1c383.md) | partial | 2022-11-06T20:54:18Z | registry-derived |
 | [gnuradio/gnuradio](../records/satcom-satellites-gnuradio-gnuradio-28a3e264.md) | partial | 2026-08-27T23:02:01Z | registry-derived |
 | [gnuradio/gr-recipes](../records/satcom-satellites-gnuradio-gr-recipes-b5cf9712.md) | partial | 2026-03-24T20:21:21Z | registry-derived |
-| [greatscottgadgets/hackrf](../records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) | partial | 2026-09-10T09:22:08Z | registry-derived |
+| [greatscottgadgets/hackrf](../records/satcom-satellites-greatscottgadgets-hackrf-236cb014.md) | partial | 2026-09-15T09:16:57Z | registry-derived |
 | [IgrikXD/Easy-SDR](../records/satcom-satellites-igrikxd-easy-sdr-1c720f8c.md) | partial | 2026-03-14T18:35:50Z | registry-derived |
 | [inigodelportillo/ITU-Rpy](../records/satcom-satellites-inigodelportillo-itu-rpy-e6621ca9.md) | partial | 2026-07-26T23:16:08Z | registry-derived |
 | [jgrss/geowombat](../records/satcom-satellites-jgrss-geowombat-9fded595.md) | partial | 2026-09-10T12:55:10Z | registry-derived |
@@ -216,7 +216,7 @@ Records: `327`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [777arc/PySDR](../records/satcom-satellites-777arc-pysdr-d9da5add.md) | partial | 2026-09-05T22:35:11Z | registry-derived |
+| [777arc/PySDR](../records/satcom-satellites-777arc-pysdr-d9da5add.md) | partial | 2026-09-09T18:06:49Z | registry-derived |
 | [AresValley/Artemis](../records/satcom-satellites-aresvalley-artemis-bffe8427.md) | partial | 2026-07-22T21:31:27Z | registry-derived |
 | [bellingcat/sar-interference-tracker](../records/satcom-satellites-bellingcat-sar-interference-tracker-812a2aa7.md) | partial | 2022-02-23T13:57:03Z | registry-derived |
 | [cbassa/stvid](../records/satcom-satellites-cbassa-stvid-b0821bf9.md) | partial | 2026-06-14T12:26:58Z | registry-derived |
@@ -279,7 +279,7 @@ Records: `327`
 | [gnuradio/greps](../records/satcom-satellites-gnuradio-greps-71108381.md) | partial | 2023-01-14T18:48:29Z | registry-derived |
 | [JiaoXianjun/BTLE](../records/satcom-satellites-jiaoxianjun-btle-a4649a5e.md) | partial | 2026-06-08T19:24:34Z | registry-derived |
 | [JuliaSpace/SatelliteToolbox.jl](../records/satcom-satellites-juliaspace-satellitetoolbox-jl-2f61cb76.md) | partial | 2026-09-16T04:01:02Z | registry-derived |
-| [lasp/space_packet_parser](../records/satcom-satellites-lasp-space-packet-parser-c1755c7c.md) | partial | 2026-09-13T06:25:10Z | registry-derived |
+| [lasp/space_packet_parser](../records/satcom-satellites-lasp-space-packet-parser-c1755c7c.md) | partial | 2026-09-16T01:11:33Z | registry-derived |
 | [ManishSahu53/Vector-Map-Generation-from-Aerial-Imagery-using-Deep-Learning-GeoSpatial-UNET](../records/satcom-satellites-manishsahu53-vector-map-generation-from-aerial-imagery-using-deep-learning-geospatial-unet-9fa0bbd0.md) | partial | 2022-02-03T07:21:21Z | registry-derived |
 | [nasa/pyDownlinkParser](../records/satcom-satellites-nasa-pydownlinkparser-5f67c8da.md) | partial | 2026-06-01T21:37:49Z | registry-derived |
 | [psi-consortium/psi](../records/satcom-satellites-psi-consortium-psi-ddc5eac0.md) | partial | 2026-09-01T09:47:53Z | registry-derived |
@@ -292,7 +292,7 @@ Records: `327`
 | --- | --- | --- | --- |
 | [0xcesium/HackRF-Gnu-Radio](../records/satcom-satellites-0xcesium-hackrf-gnu-radio-5a24e21a.md) | partial | 2018-10-28T12:27:27Z | registry-derived |
 | [0xh4di/GSMDecryption](../records/satcom-satellites-0xh4di-gsmdecryption-aab51ee8.md) | partial | 2019-04-25T22:01:52Z | registry-derived |
-| [AlbrechtL/welle.io](../records/satcom-satellites-albrechtl-welle-io-a00798d6.md) | partial | 2026-08-13T16:00:11Z | registry-derived |
+| [AlbrechtL/welle.io](../records/satcom-satellites-albrechtl-welle-io-a00798d6.md) | partial | 2026-09-14T14:43:25Z | registry-derived |
 | [Alexgichamba/sat-rf-sim](../records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) | partial | 2023-03-27T19:39:45Z | registry-derived |
 | [alexmrqt/fm-rds](../records/satcom-satellites-alexmrqt-fm-rds-3539a182.md) | partial | 2026-05-10T22:18:04Z | registry-derived |
 | [architek/ccsds-standalone](../records/satcom-satellites-architek-ccsds-standalone-ec3b3382.md) | partial | 2019-07-05T21:32:08Z | registry-derived |
@@ -319,7 +319,7 @@ Records: `327`
 | [GeoTIFF/geotiff.io](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) | partial | 2025-12-31T10:58:25Z | registry-derived |
 | [git-artes/gr-tempest](../records/satcom-satellites-git-artes-gr-tempest-1a53566c.md) | partial | 2025-02-10T16:57:09Z | registry-derived |
 | [gnss-sdr/gnss-sdr](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) | partial | 2026-09-15T07:26:51Z | registry-derived |
-| [gnuradio/volk](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) | partial | 2026-08-25T19:50:57Z | registry-derived |
+| [gnuradio/volk](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) | partial | 2026-09-13T15:09:52Z | registry-derived |
 | [gqrx-sdr/gqrx](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) | partial | 2026-08-06T20:55:38Z | registry-derived |
 | [greatscottgadgets/gr-bluetooth](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) | partial | 2024-08-16T15:27:08Z | registry-derived |
 | [gyaresu/sdr](../records/satcom-satellites-gyaresu-sdr-c64ce8a6.md) | partial | 2017-11-13T18:16:10Z | registry-derived |
@@ -333,6 +333,7 @@ Records: `327`
 | [kscottz/PythonFromSpace](../records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) | partial | 2018-02-20T03:58:20Z | registry-derived |
 | [lloda/prop-618](../records/satcom-satellites-lloda-prop-618-ea3a5a71.md) | partial | 2024-01-19T13:57:31Z | registry-derived |
 | [lofaldli/gr-ccsds](../records/satcom-satellites-lofaldli-gr-ccsds-39725eca.md) | partial | 2022-03-19T13:06:16Z | registry-derived |
+| [Mahyar426/LEO-SatComm-Simulator](../records/satcom-satellites-mahyar426-leo-satcomm-simulator-dec36cc0.md) | partial | 2026-06-12T17:10:53Z | registry-derived |
 | [MansourM61/FSO-Comm-GnuRadio-Module](../records/satcom-satellites-mansourm61-fso-comm-gnuradio-module-ec768d27.md) | partial | 2019-10-31T10:01:34Z | registry-derived |
 | [mapbox/mbutil](../records/satcom-satellites-mapbox-mbutil-070c5b53.md) | partial | 2025-10-07T19:18:13Z | registry-derived |
 | [mapbox/mercantile](../records/satcom-satellites-mapbox-mercantile-4443a8d8.md) | partial | 2026-06-29T14:59:51Z | registry-derived |
@@ -344,7 +345,7 @@ Records: `327`
 | [myriadrf/ScratchRadio](../records/satcom-satellites-myriadrf-scratchradio-9ada1aff.md) | partial | 2025-12-01T19:46:07Z | registry-derived |
 | [nsmryan/ccsds_primary_header](../records/satcom-satellites-nsmryan-ccsds-primary-header-46817051.md) | partial | 2020-04-06T20:03:11Z | registry-derived |
 | [Nuand/gr-bladeRF](../records/satcom-satellites-nuand-gr-bladerf-b6337a02.md) | partial | 2026-03-13T18:56:07Z | registry-derived |
-| [open-sdr/openwifi](../records/satcom-satellites-open-sdr-openwifi-8578a58d.md) | partial | 2026-08-25T11:02:34Z | registry-derived |
+| [open-sdr/openwifi](../records/satcom-satellites-open-sdr-openwifi-8578a58d.md) | partial | 2026-09-11T11:55:48Z | registry-derived |
 | [Opendigitalradio/ka9q-fec](../records/satcom-satellites-opendigitalradio-ka9q-fec-3b204c8f.md) | partial | 2016-09-10T20:28:24Z | registry-derived |
 | [opensatelliteproject/goesdump](../records/satcom-satellites-opensatelliteproject-goesdump-3bcaacfa.md) | partial | 2018-09-30T15:57:44Z | registry-derived |
 | [OpenSatKit/OpenSatKit](../records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) | partial | 2024-03-25T19:50:49Z | registry-derived |
@@ -352,14 +353,14 @@ Records: `327`
 | [pavel-demin/red-pitaya-notes](../records/satcom-satellites-pavel-demin-red-pitaya-notes-b86610cd.md) | partial | 2026-08-29T19:11:52Z | registry-derived |
 | [pbkhrv/rtl_433-hass-addons](../records/satcom-satellites-pbkhrv-rtl-433-hass-addons-cf5bc56e.md) | partial | 2026-06-26T12:07:44Z | registry-derived |
 | [pietrotedeschi/power-modulated-jammer](../records/satcom-satellites-pietrotedeschi-power-modulated-jammer-e58821f3.md) | partial | 2022-01-14T14:01:47Z | registry-derived |
-| [portapack-mayhem/mayhem-firmware](../records/satcom-satellites-portapack-mayhem-mayhem-firmware-77771508.md) | partial | 2026-09-03T00:29:28Z | registry-derived |
+| [portapack-mayhem/mayhem-firmware](../records/satcom-satellites-portapack-mayhem-mayhem-firmware-77771508.md) | partial | 2026-09-16T00:29:15Z | registry-derived |
 | [pytroll/satpy](../records/satcom-satellites-pytroll-satpy-9a896b49.md) | partial | 2026-09-11T17:07:12Z | registry-derived |
 | [racerxdl/sat4noobs](../records/satcom-satellites-racerxdl-sat4noobs-6adb3c71.md) | partial | 2024-03-19T00:13:16Z | registry-derived |
 | [rawify/GPS.js](../records/satcom-satellites-rawify-gps-js-e3c59e2f.md) | partial | 2026-09-09T13:29:49Z | registry-derived |
 | [robamu-org/tmtccmd](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) | partial | 2026-01-14T11:22:06Z | registry-derived |
 | [robintw/Py6S](../records/satcom-satellites-robintw-py6s-607064f7.md) | partial | 2025-10-22T23:09:34Z | registry-derived |
 | [rt-bishop/Look4Sat](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) | partial | 2026-09-13T19:28:07Z | registry-derived |
-| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-15T20:25:39Z | registry-derived |
+| [SatDump/SatDump](../records/satcom-satellites-satdump-satdump-2cfd412f.md) | partial | 2026-09-16T06:06:00Z | registry-derived |
 | [satnogs/gr-satnogs](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) | partial | 2018-12-17T14:53:47Z | registry-derived |
 | [TLeconte/acarsdec](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) | partial | 2025-07-31T10:36:21Z | registry-derived |
 | [trishmapow/rf-jam-replay](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) | partial | 2019-06-10T22:09:28Z | registry-derived |
@@ -446,7 +447,7 @@ Records: `327`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [gnuradio/gr-etcetera](../records/satcom-satellites-gnuradio-gr-etcetera-409b714d.md) | partial | 2026-09-04T00:58:16Z | registry-derived |
-| [merbanan/rtl_433](../records/satcom-satellites-merbanan-rtl-433-79075e21.md) | partial | 2026-09-07T10:38:47Z | registry-derived |
+| [merbanan/rtl_433](../records/satcom-satellites-merbanan-rtl-433-79075e21.md) | partial | 2026-09-14T18:15:19Z | registry-derived |
 | [onticsoluciones/RFMap](../records/satcom-satellites-onticsoluciones-rfmap-2b26a6f1.md) | partial | 2017-12-03T05:47:18Z | registry-derived |
 
 ### Registry Repository
@@ -461,9 +462,9 @@ Records: `327`
 | --- | --- | --- | --- |
 | [githubsatelliteworkshops/codeql](../records/satcom-satellites-githubsatelliteworkshops-codeql-9d99324c.md) | partial | 2024-09-27T17:37:57Z | registry-derived |
 | [ine-labs/ORBITAL-EXPLOIT](../records/satcom-satellites-ine-labs-orbital-exploit-553262d7.md) | partial | 2026-09-10T08:14:01Z | registry-derived |
-| [nasa/CryptoLib](../records/satcom-satellites-nasa-cryptolib-c1148d25.md) | partial | 2026-09-09T20:33:34Z | registry-derived |
+| [nasa/CryptoLib](../records/satcom-satellites-nasa-cryptolib-c1148d25.md) | partial | 2026-09-15T18:01:05Z | registry-derived |
 | [Peco602/awesome-space-security](../records/satcom-satellites-peco602-awesome-space-security-600d05c6.md) | partial | 2024-07-23T07:30:53Z | registry-derived |
-| [PentHertz/RF-Swift](../records/satcom-satellites-penthertz-rf-swift-0cf96f11.md) | partial | 2026-09-05T23:13:43Z | registry-derived |
+| [PentHertz/RF-Swift](../records/satcom-satellites-penthertz-rf-swift-0cf96f11.md) | partial | 2026-09-14T23:09:19Z | registry-derived |
 
 ### Standard Library
 
@@ -517,9 +518,9 @@ Records: `327`
 | --- | --- | --- | --- |
 | [alanbjohnston/CubeSatSim](../records/satcom-satellites-alanbjohnston-cubesatsim-60b47603.md) | partial | 2026-09-15T20:47:22Z | registry-derived |
 | [cjcliffe/CubicSDR](../records/satcom-satellites-cjcliffe-cubicsdr-45606659.md) | partial | 2026-09-02T02:19:48Z | registry-derived |
-| [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-09T10:55:53Z | registry-derived |
+| [f4exb/sdrangel](../records/satcom-satellites-f4exb-sdrangel-2094320b.md) | partial | 2026-09-14T18:52:42Z | registry-derived |
 | [jvde-github/AIS-catcher](../records/satcom-satellites-jvde-github-ais-catcher-a66fcf35.md) | partial | 2026-09-14T20:52:34Z | registry-derived |
-| [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-01T15:36:57Z | registry-derived |
+| [kismetwireless/kismet](../records/satcom-satellites-kismetwireless-kismet-f1e1e53d.md) | partial | 2026-09-15T16:04:29Z | registry-derived |
 | [KubOS-Preservation-Group/ccsds-spacepacket](../records/satcom-satellites-kubos-preservation-group-ccsds-spacepacket-4cff5034.md) | partial | 2022-06-13T23:22:58Z | registry-derived |
 | [libcsp/libcsp](../records/satcom-satellites-libcsp-libcsp-abe29c50.md) | partial | 2026-09-09T06:32:56Z | registry-derived |
 | [Mejiro-McQueen/Bifrost](../records/satcom-satellites-mejiro-mcqueen-bifrost-545d8ca0.md) | partial | 2023-10-18T00:26:27Z | registry-derived |

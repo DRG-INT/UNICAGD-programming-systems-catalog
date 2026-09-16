@@ -1,6 +1,6 @@
 # Community Reference
 
-Records: `126`
+Records: `127`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `126`
 ## Category Index
 
 [Api Abi Checker (242)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1053)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-**[Community Reference (126)](community-reference.md)** · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Benchmarking (212)](benchmarking.md) · [Build System (1056)](build-system.md) · [Cli (612)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+**[Community Reference (127)](community-reference.md)** · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (57)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (387)](game-engine-game-dev.md) · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6274)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (603)](logging-observability.md) · [Machine Learning (884)](machine-learning.md)
+[Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (103)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (322)](type-checker.md)
+[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## C23
 
@@ -120,7 +120,7 @@ Records: `126`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| practical-tutorials/project-based-learning | partial | 2026-09-14T07:10:04Z | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
+| practical-tutorials/project-based-learning | unknown | not_a_go_module_path | [open](../records/go-practical-tutorials-project-based-learning-1fb7ef81.md) |
 
 ## nix
 
@@ -146,6 +146,7 @@ Records: `126`
 | --- | --- | --- | --- |
 | gztchan/awesome-design | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-gztchan-awesome-design-def540ad.md) |
 | mahmoud/awesome-python-applications | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-mahmoud-awesome-python-applications-7308fb2d.md) |
+| toplap/awesome-livecoding | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-toplap-awesome-livecoding-e9846d9a.md) |
 | vanrez-nez/awesome-glsl | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-vanrez-nez-awesome-glsl-5c7fc7fb.md) |
 
 ## Physics Engines
@@ -160,13 +161,13 @@ Records: `126`
 | --- | --- | --- | --- |
 | brabadu/awesome-fonts | partial | 2026-07-26T05:01:07Z | [open](../records/icons-and-logos-brabadu-awesome-fonts-f3a9f3d4.md) |
 | eza-community/eza | partial | 2026-08-06T19:53:22Z | [open](../records/icons-and-logos-eza-community-eza-e2b7ed48.md) |
-| FortAwesome/vue-fontawesome | partial | 2026-09-10T05:21:00Z | [open](../records/icons-and-logos-fortawesome-vue-fontawesome-bcb060cf.md) |
+| FortAwesome/vue-fontawesome | partial | 2026-09-13T15:30:59Z | [open](../records/icons-and-logos-fortawesome-vue-fontawesome-bcb060cf.md) |
 | gztchan/awesome-design | partial | 2024-07-04T18:17:39Z | [open](../records/icons-and-logos-gztchan-awesome-design-4cf00e9a.md) |
 | icons8/line-awesome | partial | 2026-06-30T17:26:16Z | [open](../records/icons-and-logos-icons8-line-awesome-d3b0128e.md) |
 | Jolg42/awesome-typography | partial | 2026-05-28T20:27:55Z | [open](../records/icons-and-logos-jolg42-awesome-typography-ab363d01.md) |
 | MahApps/MahApps.Metro.IconPacks | partial | 2026-04-25T11:46:24Z | [open](../records/icons-and-logos-mahapps-mahapps-metro-iconpacks-77bc6d09.md) |
 | pluwen/awesome-iconjar | partial | 2026-08-12T00:57:43Z | [open](../records/icons-and-logos-pluwen-awesome-iconjar-9acec16e.md) |
-| ruedap/alfred-font-awesome-workflow | partial | 2026-09-10T22:10:56Z | [open](../records/icons-and-logos-ruedap-alfred-font-awesome-workflow-53dec65c.md) |
+| ruedap/alfred-font-awesome-workflow | partial | 2026-09-15T20:15:40Z | [open](../records/icons-and-logos-ruedap-alfred-font-awesome-workflow-53dec65c.md) |
 | ryanoasis/nerd-fonts | partial | 2026-09-05T16:32:47Z | [open](../records/icons-and-logos-ryanoasis-nerd-fonts-aad1f042.md) |
 | sturobson/Awesome-Design-Tokens | partial | 2026-02-20T13:54:02Z | [open](../records/icons-and-logos-sturobson-awesome-design-tokens-0298ade9.md) |
 | Templarian/MaterialDesign | partial | 2025-01-20T01:57:40Z | [open](../records/icons-and-logos-templarian-materialdesign-5f167a0b.md) |

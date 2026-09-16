@@ -1,6 +1,6 @@
 # Type Checker
 
-Records: `321`
+Records: `322`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `321`
 ## Category Index
 
 [Api Abi Checker (242)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1053)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Benchmarking (212)](benchmarking.md) · [Build System (1056)](build-system.md) · [Cli (612)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (127)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (57)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · [Library (6250)](library.md) · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · **[Type Checker (321)](type-checker.md)**
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (387)](game-engine-game-dev.md) · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · [Library (6274)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (603)](logging-observability.md) · [Machine Learning (884)](machine-learning.md)
+[Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (103)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · **[Type Checker (322)](type-checker.md)**
+[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## Python
 
@@ -318,20 +318,21 @@ Records: `321`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-16T05:18:35Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | unknown | github_latest_release_missing | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | galacean/engine | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-galacean-engine-1d8da374.md) |
+| software-mansion/TypeGPU | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-software-mansion-typegpu-bdc34161.md) |
 
 ## Engines
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| dbos-inc/dbos-transact-ts | partial | 2026-09-03T23:44:07Z | [open](../records/engines-dbos-inc-dbos-transact-ts-17802f20.md) |
-| ill-inc/biomes-game | partial | 2026-05-16T17:45:44Z | [open](../records/engines-ill-inc-biomes-game-56bb9ed2.md) |
+| dbos-inc/dbos-transact-ts | unknown | github_latest_release_missing | [open](../records/engines-dbos-inc-dbos-transact-ts-17802f20.md) |
+| ill-inc/biomes-game | unknown | github_latest_release_missing | [open](../records/engines-ill-inc-biomes-game-56bb9ed2.md) |
 
 ## Physics Engines
 
@@ -339,7 +340,7 @@ Records: `321`
 | --- | --- | --- | --- |
 | Altanis/kinetics | partial | 2024-08-11T19:31:03Z | [open](../records/physics-engines-altanis-kinetics-83b3a378.md) |
 | hood/bump.ts | partial | 2026-08-10T19:17:06Z | [open](../records/physics-engines-hood-bump-ts-1b614f18.md) |
-| NewKrok/nape-js | partial | 2026-09-10T22:02:54Z | [open](../records/physics-engines-newkrok-nape-js-93e66961.md) |
+| NewKrok/nape-js | partial | 2026-09-12T18:39:41Z | [open](../records/physics-engines-newkrok-nape-js-93e66961.md) |
 | Sopiro/Physics | partial | 2026-07-09T12:40:01Z | [open](../records/physics-engines-sopiro-physics-c3dcc844.md) |
 
 ## Game Engines
@@ -347,7 +348,7 @@ Records: `321`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | AtomicGameEngine/AtomicGameEngine | partial | 2024-03-17T05:11:58Z | [open](../records/game-engines-atomicgameengine-atomicgameengine-2472cde5.md) |
-| excaliburjs/Excalibur | partial | 2026-09-10T21:28:03Z | [open](../records/game-engines-excaliburjs-excalibur-c358b570.md) |
+| excaliburjs/Excalibur | partial | 2026-09-13T17:06:30Z | [open](../records/game-engines-excaliburjs-excalibur-c358b570.md) |
 
 ## Icons and Logos
 
@@ -371,7 +372,7 @@ Records: `321`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
-| f5/unovis | partial | 2026-09-10T23:11:07Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
+| f5/unovis | partial | 2026-09-15T18:52:49Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | partial | 2026-07-29T11:57:08Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
 | openglobus/openglobus | partial | 2026-09-15T16:51:48Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |

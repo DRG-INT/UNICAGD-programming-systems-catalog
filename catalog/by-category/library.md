@@ -1,6 +1,6 @@
 # Library
 
-Records: `6250`
+Records: `6274`
 
 ## Navigation
 
@@ -9,22 +9,22 @@ Records: `6250`
 ## Category Index
 
 [Api Abi Checker (242)](api-abi-checker.md) · [Api Doc Generator (12)](api-doc-generator.md) · [Assertion Mocking (46)](assertion-mocking.md) · [Async Runtime (139)](async-runtime.md)
-[Benchmarking (211)](benchmarking.md) · [Build System (1053)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
-[Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
+[Benchmarking (212)](benchmarking.md) · [Build System (1056)](build-system.md) · [Cli (612)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
+[Community Reference (127)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (57)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (988)](database-datastore.md) · [Datetime (259)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1741)](filesystem-os.md) · [Formatter (679)](formatter.md)
-[Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
-[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1478)](language-specification.md) · **[Library (6250)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
-[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (602)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
-[Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1110)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (497)](ffi-bindings.md) · [Filesystem Os (1755)](filesystem-os.md) · [Formatter (679)](formatter.md)
+[Framework (65)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (387)](game-engine-game-dev.md) · [Ide Editor Integration (1540)](ide-editor-integration.md)
+[Image Audio Dsp (452)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (293)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
+[Language Server (31)](language-server.md) · [Language Specification (1481)](language-specification.md) · **[Library (6274)](library.md)** · [Lint Plugin (1)](lint-plugin.md)
+[Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (603)](logging-observability.md) · [Machine Learning (884)](machine-learning.md)
+[Math Numeric Scientific (100)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (42)](message-broker.md) · [Networking Http (1111)](networking-http.md)
+[Other (14)](other.md) · [Package Manager (453)](package-manager.md) · [Parser Lexer Ast (1259)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (103)](profiler.md) · [Project Scaffolding (147)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (703)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (663)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (322)](type-checker.md)
+[Undefined Behavior Analyzer (1680)](undefined-behavior-analyzer.md) · [Utility Library (110)](utility-library.md) · [Visualization Gui (666)](visualization-gui.md) · [Web Framework (508)](web-framework.md)
 
 ## C99
 
@@ -2537,6 +2537,7 @@ Records: `6250`
 | BMisc | 1.4.10 | 2026-08-22 16:10:03 UTC | [open](../records/r-bmisc-47d7c0ec.md) |
 | BMIselect | 1.0.9 | 2026-08-21 22:02:04 UTC | [open](../records/r-bmiselect-3ff86aa1.md) |
 | BOLDconnectR | 1.0.2 | 2026-08-20 00:40:02 UTC | [open](../records/r-boldconnectr-21cfd25f.md) |
+| Boom | 0.9.17 | 2026-09-16 06:20:02 UTC | [open](../records/r-boom-565f72d3.md) |
 | bootsurv | 0.1.0 | 2026-08-28 07:01:39 UTC | [open](../records/r-bootsurv-757caaac.md) |
 | BorderEffect | 0.1.0 | 2026-08-05 06:30:16 UTC | [open](../records/r-bordereffect-6ad90bd6.md) |
 | BoundIRT | 0.6.0 | 2026-08-21 05:47:08 UTC | [open](../records/r-boundirt-9e674cc7.md) |
@@ -2574,6 +2575,7 @@ Records: `6250`
 | cfbseedR | 0.2.0 | 2026-09-09 14:50:11 UTC | [open](../records/r-cfbseedr-f65faa29.md) |
 | CGNM | 0.10.0 | 2026-09-13 08:00:02 UTC | [open](../records/r-cgnm-04391c1f.md) |
 | changepointGA | 0.1.6 | 2026-09-13 03:50:02 UTC | [open](../records/r-changepointga-5149066f.md) |
+| Characterization | 4.1.0 | 2026-09-16 05:20:02 UTC | [open](../records/r-characterization-57acb83b.md) |
 | checkhelper | 1.0.1 | 2026-08-19 19:10:02 UTC | [open](../records/r-checkhelper-8b7440a8.md) |
 | chessResults | 2026.08.27 | 2026-08-28 07:01:26 UTC | [open](../records/r-chessresults-944d7b5e.md) |
 | chestR | 0.1.0 | 2026-09-12 15:10:02 UTC | [open](../records/r-chestr-facb8080.md) |
@@ -3987,6 +3989,7 @@ Records: `6250`
 | mps | 2010.11.28 | 2010-11-28T03:21:26Z | [open](../records/haskell-mps-a6d960f8.md) |
 | mstate | 0.2.11 | 2025-02-04T12:11:13Z | [open](../records/haskell-mstate-61d1b1bd.md) |
 | mtl | 2.3.2 | 2025-12-08T04:58:58Z | [open](../records/haskell-mtl-8c377540.md) |
+| multisets | 0.1.0.0 | 2026-09-16T06:18:56Z | [open](../records/haskell-multisets-06684030.md) |
 | multistate | 0.8.0.4 | 2022-01-24T20:50:24Z | [open](../records/haskell-multistate-e1d83727.md) |
 | music-util | 0.17 | 2014-08-15T11:28:04Z | [open](../records/haskell-music-util-0e65f5d4.md) |
 | mustache | 2.4.3.1 | 2025-05-11T09:56:28Z | [open](../records/haskell-mustache-9c06459a.md) |
@@ -4653,7 +4656,7 @@ Records: `6250`
 | codeberg.org/go-hep/hep.git | v0.27.0 | 2026-08-30T10:55:18.161122Z | [open](../records/go-codeberg-org-go-hep-hep-git-29878e71.md) |
 | codeberg.org/rimu/pyfedi | v1.6.9 | 2026-08-30T16:29:43.672078Z | [open](../records/go-codeberg-org-rimu-pyfedi-53519dff.md) |
 | CycloneDX/cyclonedx-gomod | partial | 2026-09-09T09:52:27Z | [open](../records/go-cyclonedx-cyclonedx-gomod-24572c1d.md) |
-| darius-khll/golang-developer-roadmap | partial | 2023-02-13T08:08:20Z | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
+| darius-khll/golang-developer-roadmap | unknown | not_a_go_module_path | [open](../records/go-darius-khll-golang-developer-roadmap-cc070bd0.md) |
 | gbrlsnchs/jwt | partial | 2026-02-20T19:55:17Z | [open](../records/go-gbrlsnchs-jwt-9cb26411.md) |
 | gethugothemes/hugo-modules | partial | 2026-07-01T05:48:56Z | [open](../records/go-gethugothemes-hugo-modules-1f48ce7f.md) |
 | git.scuroneko.dev/ScuroNeko/Laniakea | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-git-scuroneko-dev-scuroneko-laniakea-6c4ff9e7.md) |
@@ -4677,8 +4680,8 @@ Records: `6250`
 | goa.design/goa/v3 | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-goa-design-goa-v3-26efe1e9.md) |
 | golang.org/x/sys | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-golang-org-x-sys-cd462dbb.md) |
 | gvisor.dev/gvisor | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-gvisor-dev-gvisor-300121e6.md) |
-| Infisical/infisical | partial | 2026-09-16T05:12:14Z | [open](../records/go-infisical-infisical-a6ff8f22.md) |
-| mustafaturan/bus | partial | 2023-05-14T03:59:03Z | [open](../records/go-mustafaturan-bus-d868b092.md) |
+| Infisical/infisical | unknown | not_a_go_module_path | [open](../records/go-infisical-infisical-a6ff8f22.md) |
+| mustafaturan/bus | unknown | not_a_go_module_path | [open](../records/go-mustafaturan-bus-d868b092.md) |
 | mvdan.cc/sh/moreinterp | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-mvdan-cc-sh-moreinterp-fe50cb6c.md) |
 | Narasimha1997/fake-sms | partial | 2023-08-01T15:34:41Z | [open](../records/go-narasimha1997-fake-sms-a5b0fe59.md) |
 | Narasimha1997/ratelimiter | partial | 2022-10-31T12:07:17Z | [open](../records/go-narasimha1997-ratelimiter-5630e795.md) |
@@ -4691,16 +4694,16 @@ Records: `6250`
 | sigs.k8s.io/Controller-Tools | v0.4.1 | 2026-08-30T16:32:46.540929Z | [open](../records/go-sigs-k8s-io-controller-tools-9f4a5e67.md) |
 | sigs.k8s.io/kueue/site | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-sigs-k8s-io-kueue-site-7e892f7a.md) |
 | sun8911879/shadowsocksR | partial | 2020-09-21T03:12:18Z | [open](../records/go-sun8911879-shadowsocksr-c58cbeba.md) |
-| temporalio/temporal | partial | 2026-09-16T04:25:35Z | [open](../records/go-temporalio-temporal-9fe4a125.md) |
+| temporalio/temporal | unknown | not_a_go_module_path | [open](../records/go-temporalio-temporal-9fe4a125.md) |
 
 ## Basilisk
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| iamgadmarconi/ESA-Concurrent-Design-Challenge | partial | 2025-07-17T16:45:54Z | [open](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) |
-| mujavidb/basiliskRobotsChallenge | partial | 2017-02-23T21:14:38Z | [open](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) |
-| parthib007/Basilisk_Works | partial | 2024-10-17T18:58:18Z | [open](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) |
-| yliu-fort/ChannelFlowLES | partial | 2024-07-21T00:34:37Z | [open](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) |
+| iamgadmarconi/ESA-Concurrent-Design-Challenge | unknown | github_latest_release_missing | [open](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) |
+| mujavidb/basiliskRobotsChallenge | unknown | github_latest_release_missing | [open](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) |
+| parthib007/Basilisk_Works | unknown | github_latest_release_missing | [open](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) |
+| yliu-fort/ChannelFlowLES | unknown | github_latest_release_missing | [open](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) |
 
 ## Computer Graphics Software
 
@@ -4709,24 +4712,44 @@ Records: `6250`
 | ArthurBrussee/brush | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-arthurbrussee-brush-7455096b.md) |
 | BachiLi/redner | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-bachili-redner-bed67daa.md) |
 | bertjiazheng/Structured3D | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-bertjiazheng-structured3d-0fa96f0d.md) |
+| daavoo/pyntcloud | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-daavoo-pyntcloud-7b495505.md) |
 | DeepMotionEditing/deep-motion-editing | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-deepmotionediting-deep-motion-editing-026ae974.md) |
 | DL3DV-10K/Dataset | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-dl3dv-10k-dataset-0dfb390f.md) |
+| DustinHLand/vkDOOM3 | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-dustinhland-vkdoom3-065eec5f.md) |
+| ekzhang/graphics-workshop | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-ekzhang-graphics-workshop-5282bd23.md) |
 | ethz-adrl/towr | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-ethz-adrl-towr-4df3b4ec.md) |
 | exyte/Macaw | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-exyte-macaw-f5b2b2b0.md) |
+| fougue/mayo | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-fougue-mayo-2d641f01.md) |
 | friggog/tree-gen | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-friggog-tree-gen-997c4821.md) |
+| google-ar/sceneform-android-sdk | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-google-ar-sceneform-android-sdk-32819942.md) |
 | isl-org/Open3D | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-isl-org-open3d-91751c13.md) |
 | junyanz/CatPapers | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-junyanz-catpapers-9d01f237.md) |
 | karimnaaji/voxelizer | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-karimnaaji-voxelizer-b7f1ef60.md) |
+| liblava/liblava | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-liblava-liblava-a4458596.md) |
+| lume/glas | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-lume-glas-9adcbfa0.md) |
+| LuxCoreRender/BlendLuxCore | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-luxcorerender-blendluxcore-9f8ea95d.md) |
 | maximeraafat/BlenderNeRF | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-maximeraafat-blendernerf-be705afb.md) |
+| nerfstudio-project/nerfstudio | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-nerfstudio-project-nerfstudio-df831c98.md) |
+| Novum/vkQuake | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-novum-vkquake-1da27884.md) |
 | NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-nwpu66-fundamentals-of-computer-graphics-5th-cn-a18434b9.md) |
+| openscad/openscad | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-openscad-openscad-9614a29b.md) |
 | papercopilot/paperlists | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-papercopilot-paperlists-05e6117e.md) |
 | PeterWang512/GANSketching | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-peterwang512-gansketching-7925ace0.md) |
 | polygonjs/polygonjs | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-polygonjs-polygonjs-fe4e5545.md) |
+| Polytonic/Glitter | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-polytonic-glitter-59a15751.md) |
+| ranahanocka/point2mesh | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-ranahanocka-point2mesh-92f23851.md) |
+| RayMarch/ferris3d | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-raymarch-ferris3d-4e0d75bf.md) |
 | rough-stuff/rough | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-rough-stuff-rough-b1c5f87f.md) |
 | rswinkle/PortableGL | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-rswinkle-portablegl-d5200e3c.md) |
 | rust-windowing/gl-rs | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-rust-windowing-gl-rs-d9e7b3b7.md) |
+| skywind3000/mini3d | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-skywind3000-mini3d-33710661.md) |
+| skywind3000/RenderHelp | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-skywind3000-renderhelp-500c6d03.md) |
+| strasdat/Sophus | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-strasdat-sophus-647c7cd5.md) |
 | threedle/text2mesh | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-threedle-text2mesh-aa323859.md) |
+| veldrid/veldrid | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-veldrid-veldrid-2ab42ae5.md) |
 | xelatihy/yocto-gl | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-xelatihy-yocto-gl-62dd1121.md) |
+| zauonlok/renderer | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-zauonlok-renderer-efc6164d.md) |
+| ZiYang-xie/WorldGen | unknown | github_latest_release_missing | [open](../records/computer-graphics-software-ziyang-xie-worldgen-e4244b42.md) |
 
 ## Physics Engines
 
@@ -4737,14 +4760,14 @@ Records: `6250`
 | arl/golq | partial | 2025-06-03T07:51:33Z | [open](../records/physics-engines-arl-golq-8f8b3ba2.md) |
 | attcs/Octree | partial | 2026-07-12T20:51:59Z | [open](../records/physics-engines-attcs-octree-841d1400.md) |
 | Aweptimum/Strike | partial | 2023-09-15T12:49:39Z | [open](../records/physics-engines-aweptimum-strike-b376ac60.md) |
-| brucefan1983/GPUMD | partial | 2026-09-09T16:53:14Z | [open](../records/physics-engines-brucefan1983-gpumd-7fdd533e.md) |
+| brucefan1983/GPUMD | partial | 2026-09-15T19:07:28Z | [open](../records/physics-engines-brucefan1983-gpumd-7fdd533e.md) |
 | Cardboy0/Cardboy0s-SACS | partial | 2021-12-18T18:28:59Z | [open](../records/physics-engines-cardboy0-cardboy0s-sacs-bfad56a5.md) |
 | Continuous-Collision-Detection/Tight-Inclusion | partial | 2026-08-06T15:36:01Z | [open](../records/physics-engines-continuous-collision-detection-tight-inclusion-12817950.md) |
 | detomon/wigglebone | partial | 2026-05-14T09:18:06Z | [open](../records/physics-engines-detomon-wigglebone-6ddf2d2b.md) |
 | diegomacario/Dyna-Kinematics | partial | 2020-12-28T16:08:30Z | [open](../records/physics-engines-diegomacario-dyna-kinematics-b35b0cff.md) |
 | dimforge/parry | partial | 2026-09-04T16:45:16Z | [open](../records/physics-engines-dimforge-parry-414d512a.md) |
-| ECSIM/opem | partial | 2026-08-31T01:32:50Z | [open](../records/physics-engines-ecsim-opem-ebc7707c.md) |
-| elodin-sys/elodin | partial | 2026-09-09T22:59:20Z | [open](../records/physics-engines-elodin-sys-elodin-09785b8b.md) |
+| ECSIM/opem | partial | 2026-09-14T01:32:46Z | [open](../records/physics-engines-ecsim-opem-ebc7707c.md) |
+| elodin-sys/elodin | partial | 2026-09-15T23:54:59Z | [open](../records/physics-engines-elodin-sys-elodin-09785b8b.md) |
 | ethz-adrl/control-toolbox | partial | 2022-11-09T23:17:15Z | [open](../records/physics-engines-ethz-adrl-control-toolbox-c7249e0b.md) |
 | felipeek/raw-physics | partial | 2024-01-19T03:07:27Z | [open](../records/physics-engines-felipeek-raw-physics-39074222.md) |
 | flaport/fdtd | partial | 2025-09-22T10:04:12Z | [open](../records/physics-engines-flaport-fdtd-4906d483.md) |
@@ -4761,22 +4784,22 @@ Records: `6250`
 | jongallant/CarSimulator | partial | 2023-02-16T18:47:49Z | [open](../records/physics-engines-jongallant-carsimulator-1f8e0e6b.md) |
 | JuantAldea/Separating-Axis-Theorem | partial | 2021-07-18T13:19:33Z | [open](../records/physics-engines-juantaldea-separating-axis-theorem-4b1cb555.md) |
 | JuliaComputing/Multibody.jl | partial | 2026-09-09T12:14:17Z | [open](../records/physics-engines-juliacomputing-multibody-jl-d03c608f.md) |
-| JuliaMolSim/Molly.jl | partial | 2026-09-07T08:48:38Z | [open](../records/physics-engines-juliamolsim-molly-jl-e3e65037.md) |
+| JuliaMolSim/Molly.jl | partial | 2026-09-14T16:27:34Z | [open](../records/physics-engines-juliamolsim-molly-jl-e3e65037.md) |
 | JuliaRobotics/RigidBodyDynamics.jl | partial | 2024-11-08T01:37:46Z | [open](../records/physics-engines-juliarobotics-rigidbodydynamics-jl-cd55f719.md) |
-| juniorrojas/algovivo | partial | 2026-09-07T19:56:35Z | [open](../records/physics-engines-juniorrojas-algovivo-dba914da.md) |
+| juniorrojas/algovivo | partial | 2026-09-13T19:36:16Z | [open](../records/physics-engines-juniorrojas-algovivo-dba914da.md) |
 | kasunindikaliyanage/Jyamithika | partial | 2021-10-25T02:41:50Z | [open](../records/physics-engines-kasunindikaliyanage-jyamithika-4baadd42.md) |
 | kip-hart/AABBTree | partial | 2026-02-07T20:36:41Z | [open](../records/physics-engines-kip-hart-aabbtree-6b6e6ab3.md) |
 | legends2k/2d-fov | partial | 2024-03-20T09:30:35Z | [open](../records/physics-engines-legends2k-2d-fov-a7c2010d.md) |
 | lohedges/aabbcc | partial | 2021-01-02T14:10:09Z | [open](../records/physics-engines-lohedges-aabbcc-1635a1de.md) |
 | magpylib/magpylib | partial | 2026-09-07T20:17:05Z | [open](../records/physics-engines-magpylib-magpylib-083446e2.md) |
 | mentat-collective/emmy | partial | 2025-07-10T13:58:39Z | [open](../records/physics-engines-mentat-collective-emmy-65520f3a.md) |
-| MFlowCode/MFC | partial | 2026-09-08T15:44:34Z | [open](../records/physics-engines-mflowcode-mfc-b922e338.md) |
+| MFlowCode/MFC | partial | 2026-09-16T00:34:34Z | [open](../records/physics-engines-mflowcode-mfc-b922e338.md) |
 | Mihahanya/Physical-simulation | partial | 2022-10-21T18:38:17Z | [open](../records/physics-engines-mihahanya-physical-simulation-ec8246d6.md) |
 | neka-nat/cupoch | partial | 2026-06-25T10:31:44Z | [open](../records/physics-engines-neka-nat-cupoch-22891d1d.md) |
 | nobuyuki83/cloth_sim_self_collision | partial | 2018-07-09T12:13:13Z | [open](../records/physics-engines-nobuyuki83-cloth-sim-self-collision-0d5ab361.md) |
 | petercorke/robotics-toolbox-matlab | partial | 2023-01-01T21:23:11Z | [open](../records/physics-engines-petercorke-robotics-toolbox-matlab-6063199c.md) |
 | Pierre-Terdiman/BoxPruning | partial | 2018-06-22T11:35:50Z | [open](../records/physics-engines-pierre-terdiman-boxpruning-2b001a72.md) |
-| pierrehirel/atomsk | partial | 2026-07-24T15:13:19Z | [open](../records/physics-engines-pierrehirel-atomsk-08fc2af7.md) |
+| pierrehirel/atomsk | partial | 2026-09-14T14:16:22Z | [open](../records/physics-engines-pierrehirel-atomsk-08fc2af7.md) |
 | robocasa/robocasa | partial | 2026-09-02T03:53:54Z | [open](../records/physics-engines-robocasa-robocasa-e66a2a90.md) |
 | schteppe/gpu-physics.js | partial | 2025-05-31T11:51:43Z | [open](../records/physics-engines-schteppe-gpu-physics-js-e71ebb9f.md) |
 | Scrawk/2D-Deformable-body-in-Unity | partial | 2022-01-30T13:49:41Z | [open](../records/physics-engines-scrawk-2d-deformable-body-in-unity-3035a507.md) |
@@ -4812,13 +4835,13 @@ Records: `6250`
 | carbon-design-system/carbon-components-svelte | partial | 2026-09-15T14:07:51Z | [open](../records/icons-and-logos-carbon-design-system-carbon-components-svelte-dc62f85f.md) |
 | carbon-design-system/carbon-icons-svelte | partial | 2026-08-27T21:48:28Z | [open](../records/icons-and-logos-carbon-design-system-carbon-icons-svelte-13769533.md) |
 | CarGuo/GSYRickText | partial | 2024-10-16T08:38:42Z | [open](../records/icons-and-logos-carguo-gsyricktext-5bae5568.md) |
-| character-map-uwp/Character-Map-UWP | partial | 2026-09-10T12:13:03Z | [open](../records/icons-and-logos-character-map-uwp-character-map-uwp-b58d2e1f.md) |
+| character-map-uwp/Character-Map-UWP | partial | 2026-09-13T14:27:55Z | [open](../records/icons-and-logos-character-map-uwp-character-map-uwp-b58d2e1f.md) |
 | cloudscape-design/components | partial | 2026-09-15T13:49:20Z | [open](../records/icons-and-logos-cloudscape-design-components-cecb3bdb.md) |
 | daangn/seed-design | partial | 2026-09-15T09:19:30Z | [open](../records/icons-and-logos-daangn-seed-design-48bed5d9.md) |
 | danklammer/bytesize-icons | partial | 2022-10-10T12:44:37Z | [open](../records/icons-and-logos-danklammer-bytesize-icons-eca141f3.md) |
 | dongjunkun/GanK | partial | 2017-05-03T09:16:36Z | [open](../records/icons-and-logos-dongjunkun-gank-3759bb18.md) |
 | donnemartin/system-design-primer | partial | 2026-09-15T01:10:09Z | [open](../records/icons-and-logos-donnemartin-system-design-primer-c3e531c2.md) |
-| dqev/reicon | partial | 2026-09-07T19:17:28Z | [open](../records/icons-and-logos-dqev-reicon-063c9707.md) |
+| dqev/reicon | partial | 2026-09-15T17:39:46Z | [open](../records/icons-and-logos-dqev-reicon-063c9707.md) |
 | efremidze/Animoji | partial | 2025-05-30T23:54:58Z | [open](../records/icons-and-logos-efremidze-animoji-8a4557a5.md) |
 | EliverLara/candy-icons | partial | 2026-03-06T23:36:09Z | [open](../records/icons-and-logos-eliverlara-candy-icons-2acbad4e.md) |
 | enescakir/emoji | partial | 2024-06-24T12:47:36Z | [open](../records/icons-and-logos-enescakir-emoji-594df724.md) |
@@ -4829,12 +4852,12 @@ Records: `6250`
 | file-icons/DevOpicons | partial | 2020-12-18T17:59:15Z | [open](../records/icons-and-logos-file-icons-devopicons-440730b6.md) |
 | FlorianWoelki/obsidian-iconize | partial | 2026-04-27T06:24:57Z | [open](../records/icons-and-logos-florianwoelki-obsidian-iconize-bb2e387f.md) |
 | getActivity/EmojiPackage | partial | 2022-03-02T06:32:36Z | [open](../records/icons-and-logos-getactivity-emojipackage-204bde27.md) |
-| google/material-design-icons | partial | 2026-09-04T02:16:31Z | [open](../records/icons-and-logos-google-material-design-icons-eed01932.md) |
+| google/material-design-icons | partial | 2026-09-11T02:18:11Z | [open](../records/icons-and-logos-google-material-design-icons-eed01932.md) |
 | hadley/emo | partial | 2019-12-13T22:57:01Z | [open](../records/icons-and-logos-hadley-emo-eb3e5371.md) |
 | halfmage/pixelarticons | partial | 2026-08-16T17:26:01Z | [open](../records/icons-and-logos-halfmage-pixelarticons-ee0a978c.md) |
 | hani-momanii/SuperNova-Emoji | partial | 2020-03-10T11:03:33Z | [open](../records/icons-and-logos-hani-momanii-supernova-emoji-75ea3c27.md) |
 | hfg-gmuend/openmoji | partial | 2026-08-12T09:57:57Z | [open](../records/icons-and-logos-hfg-gmuend-openmoji-10bd4a3b.md) |
-| homarr-labs/dashboard-icons | partial | 2026-09-10T23:30:20Z | [open](../records/icons-and-logos-homarr-labs-dashboard-icons-662f25fe.md) |
+| homarr-labs/dashboard-icons | partial | 2026-09-11T12:07:44Z | [open](../records/icons-and-logos-homarr-labs-dashboard-icons-662f25fe.md) |
 | hwding/android-art | partial | 2019-05-28T03:29:30Z | [open](../records/icons-and-logos-hwding-android-art-63ae01bd.md) |
 | iconoir-icons/iconoir | partial | 2026-08-12T04:18:42Z | [open](../records/icons-and-logos-iconoir-icons-iconoir-a322882b.md) |
 | icons8/flat-color-icons | partial | 2026-06-30T17:26:13Z | [open](../records/icons-and-logos-icons8-flat-color-icons-d2be0e20.md) |
@@ -4879,12 +4902,12 @@ Records: `6250`
 | onmyway133/Smile | partial | 2021-11-29T19:44:39Z | [open](../records/icons-and-logos-onmyway133-smile-361db71a.md) |
 | peaceiris/emoji-ime-dictionary | partial | 2026-06-18T18:08:17Z | [open](../records/icons-and-logos-peaceiris-emoji-ime-dictionary-1f9c5412.md) |
 | pedronauck/docz | partial | 2025-11-21T04:28:57Z | [open](../records/icons-and-logos-pedronauck-docz-0ce0d83a.md) |
-| pfefferle/openwebicons | partial | 2026-09-07T18:29:26Z | [open](../records/icons-and-logos-pfefferle-openwebicons-a80027aa.md) |
+| pfefferle/openwebicons | partial | 2026-09-15T20:19:36Z | [open](../records/icons-and-logos-pfefferle-openwebicons-a80027aa.md) |
 | puncsky/system-design-and-architecture | partial | 2024-12-17T23:10:26Z | [open](../records/icons-and-logos-puncsky-system-design-and-architecture-e0161f85.md) |
 | pvdlg/conventional-commit-types | partial | 2017-08-27T05:04:06Z | [open](../records/icons-and-logos-pvdlg-conventional-commit-types-b82a0a26.md) |
 | rafaelfgx/Architecture | partial | 2026-08-18T11:57:31Z | [open](../records/icons-and-logos-rafaelfgx-architecture-8d1b9d69.md) |
 | ravenq/markdown-it-vue | partial | 2022-12-10T17:06:49Z | [open](../records/icons-and-logos-ravenq-markdown-it-vue-0c829c02.md) |
-| react-icons/react-icons | partial | 2026-09-10T01:16:50Z | [open](../records/icons-and-logos-react-icons-react-icons-a0c37fa7.md) |
+| react-icons/react-icons | partial | 2026-09-11T04:05:28Z | [open](../records/icons-and-logos-react-icons-react-icons-a0c37fa7.md) |
 | refscn/rplibs | partial | 2024-09-06T03:12:51Z | [open](../records/icons-and-logos-refscn-rplibs-67dc94f4.md) |
 | Remix-Design/RemixIcon | partial | 2026-04-28T09:25:21Z | [open](../records/icons-and-logos-remix-design-remixicon-3854f441.md) |
 | Rhodney/keepass-icons | partial | 2025-01-22T13:08:02Z | [open](../records/icons-and-logos-rhodney-keepass-icons-6f8b8c95.md) |
@@ -4894,11 +4917,11 @@ Records: `6250`
 | Shopify/polaris-react-archive | partial | 2026-09-11T19:54:08Z | [open](../records/icons-and-logos-shopify-polaris-react-archive-ce5a323c.md) |
 | shrugs/partyparrot | partial | 2020-07-16T20:33:30Z | [open](../records/icons-and-logos-shrugs-partyparrot-ace2c1bb.md) |
 | simonbs/SBSAnimoji | partial | 2022-05-06T14:01:08Z | [open](../records/icons-and-logos-simonbs-sbsanimoji-e7531e6c.md) |
-| simple-icons/simple-icons | partial | 2026-09-09T16:09:40Z | [open](../records/icons-and-logos-simple-icons-simple-icons-2fd29e46.md) |
+| simple-icons/simple-icons | partial | 2026-09-13T05:04:35Z | [open](../records/icons-and-logos-simple-icons-simple-icons-2fd29e46.md) |
 | simple-icons/simple-icons-font | partial | 2026-09-13T05:07:08Z | [open](../records/icons-and-logos-simple-icons-simple-icons-font-0caddb33.md) |
 | simple-icons/simple-icons-pdf | partial | 2023-08-03T08:34:29Z | [open](../records/icons-and-logos-simple-icons-simple-icons-pdf-7af92255.md) |
 | sindresorhus/alfred-emoj | partial | 2022-03-16T11:29:39Z | [open](../records/icons-and-logos-sindresorhus-alfred-emoj-f8f85320.md) |
-| smhmd/teenyicons | partial | 2022-12-11T15:16:55Z | [open](../records/icons-and-logos-smhmd-teenyicons-c4c445b3.md) |
+| smhmd/teenyicons | partial | 2026-09-15T21:25:03Z | [open](../records/icons-and-logos-smhmd-teenyicons-c4c445b3.md) |
 | snwh/paper-icon-theme | partial | 2020-03-13T21:40:32Z | [open](../records/icons-and-logos-snwh-paper-icon-theme-7cfebed0.md) |
 | spatie/emoji | partial | 2026-05-30T21:28:28Z | [open](../records/icons-and-logos-spatie-emoji-aa0d8090.md) |
 | symbl-cc/symbl-data | partial | 2024-01-19T11:08:19Z | [open](../records/icons-and-logos-symbl-cc-symbl-data-e8cb08e3.md) |
@@ -4906,7 +4929,7 @@ Records: `6250`
 | thesabbir/simple-line-icons | partial | 2026-05-11T10:36:17Z | [open](../records/icons-and-logos-thesabbir-simple-line-icons-7b730207.md) |
 | TheWidlarzGroup/rn-emoji-keyboard | partial | 2024-05-09T15:51:57Z | [open](../records/icons-and-logos-thewidlarzgroup-rn-emoji-keyboard-1a83ef2e.md) |
 | twitter/twitter-text | partial | 2024-04-26T09:15:03Z | [open](../records/icons-and-logos-twitter-twitter-text-d5e9a728.md) |
-| unplugin/unplugin-icons | partial | 2026-09-10T08:31:28Z | [open](../records/icons-and-logos-unplugin-unplugin-icons-0edbdb5b.md) |
+| unplugin/unplugin-icons | partial | 2026-09-11T03:29:43Z | [open](../records/icons-and-logos-unplugin-unplugin-icons-0edbdb5b.md) |
 | wix/stylable | partial | 2025-04-12T12:36:43Z | [open](../records/icons-and-logos-wix-stylable-87908fde.md) |
 | Wscats/emoji | partial | 2026-03-31T16:00:37Z | [open](../records/icons-and-logos-wscats-emoji-d4386f73.md) |
 | xushier/HD-Icons | partial | 2026-09-01T02:50:05Z | [open](../records/icons-and-logos-xushier-hd-icons-57564239.md) |
@@ -5130,7 +5153,7 @@ Records: `6250`
 | florent37/RxGps | partial | 2018-12-05T16:36:01Z | [open](../records/maps-florent37-rxgps-5cb02be4.md) |
 | FoggedLens/deflock | partial | 2026-09-11T22:39:26Z | [open](../records/maps-foggedlens-deflock-8c65a555.md) |
 | fridays/next-routes | partial | 2024-08-06T05:50:49Z | [open](../records/maps-fridays-next-routes-7133c5a3.md) |
-| GenericMappingTools/pygmt | partial | 2026-09-15T03:53:44Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
+| GenericMappingTools/pygmt | partial | 2026-09-16T05:36:07Z | [open](../records/maps-genericmappingtools-pygmt-d99a13fe.md) |
 | geolonia/normalize-japanese-addresses | partial | 2026-09-14T13:19:30Z | [open](../records/maps-geolonia-normalize-japanese-addresses-4c5a4168.md) |
 | geopy/geopy | partial | 2026-07-12T19:49:44Z | [open](../records/maps-geopy-geopy-3c79db47.md) |
 | georust/geocoding | partial | 2026-05-16T12:30:18Z | [open](../records/maps-georust-geocoding-e4389b67.md) |
@@ -5151,7 +5174,7 @@ Records: `6250`
 | luka1199/geo-heatmap | partial | 2024-08-17T16:08:23Z | [open](../records/maps-luka1199-geo-heatmap-7b04caf6.md) |
 | lukepighetti/fluro | partial | 2023-03-22T17:54:12Z | [open](../records/maps-lukepighetti-fluro-c809970d.md) |
 | luxiaoxun/MapDownloader | unknown | github_search_does_not_include_release_date | [open](../records/maps-luxiaoxun-mapdownloader-0e853bb6.md) |
-| mapbox/mapbox-gl-js | partial | 2026-09-15T13:15:57Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
+| mapbox/mapbox-gl-js | partial | 2026-09-15T15:43:42Z | [open](../records/maps-mapbox-mapbox-gl-js-a55c74cd.md) |
 | mapbox/mapbox-gl-native-android | partial | 2023-08-21T13:46:32Z | [open](../records/maps-mapbox-mapbox-gl-native-android-470f3419.md) |
 | mapbox/vector-tile-base | partial | 2026-06-29T15:24:36Z | [open](../records/maps-mapbox-vector-tile-base-57a453db.md) |
 | maplibre/maplibre-gl-geocoder | partial | 2026-09-14T16:43:37Z | [open](../records/maps-maplibre-maplibre-gl-geocoder-938c4f88.md) |
@@ -5717,7 +5740,7 @@ Records: `6250`
 | --- | --- | --- | --- |
 | 0xcesium/HackRF-Gnu-Radio | partial | 2018-10-28T12:27:27Z | [open](../records/satcom-satellites-0xcesium-hackrf-gnu-radio-5a24e21a.md) |
 | 0xh4di/GSMDecryption | partial | 2019-04-25T22:01:52Z | [open](../records/satcom-satellites-0xh4di-gsmdecryption-aab51ee8.md) |
-| AlbrechtL/welle.io | partial | 2026-08-13T16:00:11Z | [open](../records/satcom-satellites-albrechtl-welle-io-a00798d6.md) |
+| AlbrechtL/welle.io | partial | 2026-09-14T14:43:25Z | [open](../records/satcom-satellites-albrechtl-welle-io-a00798d6.md) |
 | Alexgichamba/sat-rf-sim | partial | 2023-03-27T19:39:45Z | [open](../records/satcom-satellites-alexgichamba-sat-rf-sim-aa36e263.md) |
 | alexmrqt/fm-rds | partial | 2026-05-10T22:18:04Z | [open](../records/satcom-satellites-alexmrqt-fm-rds-3539a182.md) |
 | architek/ccsds-standalone | partial | 2019-07-05T21:32:08Z | [open](../records/satcom-satellites-architek-ccsds-standalone-ec3b3382.md) |
@@ -5744,7 +5767,7 @@ Records: `6250`
 | GeoTIFF/geotiff.io | partial | 2025-12-31T10:58:25Z | [open](../records/satcom-satellites-geotiff-geotiff-io-083eda43.md) |
 | git-artes/gr-tempest | partial | 2025-02-10T16:57:09Z | [open](../records/satcom-satellites-git-artes-gr-tempest-1a53566c.md) |
 | gnss-sdr/gnss-sdr | partial | 2026-09-15T07:26:51Z | [open](../records/satcom-satellites-gnss-sdr-gnss-sdr-fc6d38a6.md) |
-| gnuradio/volk | partial | 2026-08-25T19:50:57Z | [open](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) |
+| gnuradio/volk | partial | 2026-09-13T15:09:52Z | [open](../records/satcom-satellites-gnuradio-volk-0f78b28c.md) |
 | gqrx-sdr/gqrx | partial | 2026-08-06T20:55:38Z | [open](../records/satcom-satellites-gqrx-sdr-gqrx-b09cf7a9.md) |
 | greatscottgadgets/gr-bluetooth | partial | 2024-08-16T15:27:08Z | [open](../records/satcom-satellites-greatscottgadgets-gr-bluetooth-749a1444.md) |
 | gyaresu/sdr | partial | 2017-11-13T18:16:10Z | [open](../records/satcom-satellites-gyaresu-sdr-c64ce8a6.md) |
@@ -5758,6 +5781,7 @@ Records: `6250`
 | kscottz/PythonFromSpace | partial | 2018-02-20T03:58:20Z | [open](../records/satcom-satellites-kscottz-pythonfromspace-762715ec.md) |
 | lloda/prop-618 | partial | 2024-01-19T13:57:31Z | [open](../records/satcom-satellites-lloda-prop-618-ea3a5a71.md) |
 | lofaldli/gr-ccsds | partial | 2022-03-19T13:06:16Z | [open](../records/satcom-satellites-lofaldli-gr-ccsds-39725eca.md) |
+| Mahyar426/LEO-SatComm-Simulator | partial | 2026-06-12T17:10:53Z | [open](../records/satcom-satellites-mahyar426-leo-satcomm-simulator-dec36cc0.md) |
 | MansourM61/FSO-Comm-GnuRadio-Module | partial | 2019-10-31T10:01:34Z | [open](../records/satcom-satellites-mansourm61-fso-comm-gnuradio-module-ec768d27.md) |
 | mapbox/mbutil | partial | 2025-10-07T19:18:13Z | [open](../records/satcom-satellites-mapbox-mbutil-070c5b53.md) |
 | mapbox/mercantile | partial | 2026-06-29T14:59:51Z | [open](../records/satcom-satellites-mapbox-mercantile-4443a8d8.md) |
@@ -5769,7 +5793,7 @@ Records: `6250`
 | myriadrf/ScratchRadio | partial | 2025-12-01T19:46:07Z | [open](../records/satcom-satellites-myriadrf-scratchradio-9ada1aff.md) |
 | nsmryan/ccsds_primary_header | partial | 2020-04-06T20:03:11Z | [open](../records/satcom-satellites-nsmryan-ccsds-primary-header-46817051.md) |
 | Nuand/gr-bladeRF | partial | 2026-03-13T18:56:07Z | [open](../records/satcom-satellites-nuand-gr-bladerf-b6337a02.md) |
-| open-sdr/openwifi | partial | 2026-08-25T11:02:34Z | [open](../records/satcom-satellites-open-sdr-openwifi-8578a58d.md) |
+| open-sdr/openwifi | partial | 2026-09-11T11:55:48Z | [open](../records/satcom-satellites-open-sdr-openwifi-8578a58d.md) |
 | Opendigitalradio/ka9q-fec | partial | 2016-09-10T20:28:24Z | [open](../records/satcom-satellites-opendigitalradio-ka9q-fec-3b204c8f.md) |
 | opensatelliteproject/goesdump | partial | 2018-09-30T15:57:44Z | [open](../records/satcom-satellites-opensatelliteproject-goesdump-3bcaacfa.md) |
 | OpenSatKit/OpenSatKit | partial | 2024-03-25T19:50:49Z | [open](../records/satcom-satellites-opensatkit-opensatkit-5cd2d22e.md) |
@@ -5777,14 +5801,14 @@ Records: `6250`
 | pavel-demin/red-pitaya-notes | partial | 2026-08-29T19:11:52Z | [open](../records/satcom-satellites-pavel-demin-red-pitaya-notes-b86610cd.md) |
 | pbkhrv/rtl_433-hass-addons | partial | 2026-06-26T12:07:44Z | [open](../records/satcom-satellites-pbkhrv-rtl-433-hass-addons-cf5bc56e.md) |
 | pietrotedeschi/power-modulated-jammer | partial | 2022-01-14T14:01:47Z | [open](../records/satcom-satellites-pietrotedeschi-power-modulated-jammer-e58821f3.md) |
-| portapack-mayhem/mayhem-firmware | partial | 2026-09-03T00:29:28Z | [open](../records/satcom-satellites-portapack-mayhem-mayhem-firmware-77771508.md) |
+| portapack-mayhem/mayhem-firmware | partial | 2026-09-16T00:29:15Z | [open](../records/satcom-satellites-portapack-mayhem-mayhem-firmware-77771508.md) |
 | pytroll/satpy | partial | 2026-09-11T17:07:12Z | [open](../records/satcom-satellites-pytroll-satpy-9a896b49.md) |
 | racerxdl/sat4noobs | partial | 2024-03-19T00:13:16Z | [open](../records/satcom-satellites-racerxdl-sat4noobs-6adb3c71.md) |
 | rawify/GPS.js | partial | 2026-09-09T13:29:49Z | [open](../records/satcom-satellites-rawify-gps-js-e3c59e2f.md) |
 | robamu-org/tmtccmd | partial | 2026-01-14T11:22:06Z | [open](../records/satcom-satellites-robamu-org-tmtccmd-8aded257.md) |
 | robintw/Py6S | partial | 2025-10-22T23:09:34Z | [open](../records/satcom-satellites-robintw-py6s-607064f7.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-13T19:28:07Z | [open](../records/satcom-satellites-rt-bishop-look4sat-0d14c7cd.md) |
-| SatDump/SatDump | partial | 2026-09-15T20:25:39Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
+| SatDump/SatDump | partial | 2026-09-16T06:06:00Z | [open](../records/satcom-satellites-satdump-satdump-2cfd412f.md) |
 | satnogs/gr-satnogs | partial | 2018-12-17T14:53:47Z | [open](../records/satcom-satellites-satnogs-gr-satnogs-90fdb9fb.md) |
 | TLeconte/acarsdec | partial | 2025-07-31T10:36:21Z | [open](../records/satcom-satellites-tleconte-acarsdec-9333c48e.md) |
 | trishmapow/rf-jam-replay | partial | 2019-06-10T22:09:28Z | [open](../records/satcom-satellites-trishmapow-rf-jam-replay-654ac757.md) |
@@ -5823,7 +5847,7 @@ Records: `6250`
 | deroverda/recommended-radio-streams | partial | 2026-09-09T05:29:36Z | [open](../records/electromagnetoscopes-deroverda-recommended-radio-streams-2f46167a.md) |
 | dong-hao/EM3DVP | partial | 2025-10-07T04:10:05Z | [open](../records/electromagnetoscopes-dong-hao-em3dvp-587a6c63.md) |
 | dslotter/HamPi | partial | 2024-04-17T07:14:11Z | [open](../records/electromagnetoscopes-dslotter-hampi-80a99ee9.md) |
-| EdgeTX/edgetx | partial | 2026-09-16T03:56:05Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
+| EdgeTX/edgetx | partial | 2026-09-16T06:19:24Z | [open](../records/electromagnetoscopes-edgetx-edgetx-ca875cf6.md) |
 | eldraco/Salamandra | partial | 2021-01-11T15:40:06Z | [open](../records/electromagnetoscopes-eldraco-salamandra-ba7bbc86.md) |
 | ErcBunny/bunnyAAT | partial | 2021-04-21T12:26:03Z | [open](../records/electromagnetoscopes-ercbunny-bunnyaat-46257e14.md) |
 | fancompute/ceviche | partial | 2023-07-06T21:35:53Z | [open](../records/electromagnetoscopes-fancompute-ceviche-da009145.md) |
@@ -5885,7 +5909,7 @@ Records: `6250`
 | rofl0r/MacGeiger | partial | 2021-04-16T16:18:15Z | [open](../records/electromagnetoscopes-rofl0r-macgeiger-79d68312.md) |
 | rookiepeng/antenna-models | partial | 2019-05-14T00:17:40Z | [open](../records/electromagnetoscopes-rookiepeng-antenna-models-0eb8a406.md) |
 | rt-bishop/Look4Sat | partial | 2026-09-13T19:28:07Z | [open](../records/electromagnetoscopes-rt-bishop-look4sat-dfffa481.md) |
-| SatDump/SatDump | partial | 2026-09-15T20:25:39Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
+| SatDump/SatDump | partial | 2026-09-16T06:06:00Z | [open](../records/electromagnetoscopes-satdump-satdump-fdc13054.md) |
 | segler-alex/RadioDroid | partial | 2024-06-26T20:46:45Z | [open](../records/electromagnetoscopes-segler-alex-radiodroid-e99cfdba.md) |
 | simonp0420/TicraUtilities.jl | partial | 2026-06-22T22:24:26Z | [open](../records/electromagnetoscopes-simonp0420-ticrautilities-jl-0671de6b.md) |
 | simpeg-research/heagy-2018-fracture-physprops | partial | 2019-07-06T23:36:52Z | [open](../records/electromagnetoscopes-simpeg-research-heagy-2018-fracture-physprops-3c8b196c.md) |
@@ -6073,7 +6097,7 @@ Records: `6250`
 | takenobu-hs/cpu-assembly-examples | partial | 2024-05-19T06:55:01Z | [open](../records/assembly-takenobu-hs-cpu-assembly-examples-b5867112.md) |
 | Thraetaona/EXACT | partial | 2024-06-13T18:59:42Z | [open](../records/assembly-thraetaona-exact-bb36746a.md) |
 | vonsim/vonsim | partial | 2026-09-08T02:41:41Z | [open](../records/assembly-vonsim-vonsim-6a8ef78f.md) |
-| vvaltchev/tilck | partial | 2026-09-16T02:12:10Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
+| vvaltchev/tilck | partial | 2026-09-16T05:51:10Z | [open](../records/assembly-vvaltchev-tilck-455a611e.md) |
 | xtnded/codextended | partial | 2026-05-07T10:43:51Z | [open](../records/assembly-xtnded-codextended-97cbc636.md) |
 | yds12/x64-roadmap | partial | 2020-07-16T15:54:20Z | [open](../records/assembly-yds12-x64-roadmap-3b9663e2.md) |
 | yrp604/rappel | partial | 2024-03-07T04:45:15Z | [open](../records/assembly-yrp604-rappel-4bf787bb.md) |

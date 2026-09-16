@@ -5,22 +5,22 @@
 ## Category Index
 
 [Api Abi Checker (242)](by-category/api-abi-checker.md) · [Api Doc Generator (12)](by-category/api-doc-generator.md) · [Assertion Mocking (46)](by-category/assertion-mocking.md) · [Async Runtime (139)](by-category/async-runtime.md)
-[Benchmarking (211)](by-category/benchmarking.md) · [Build System (1053)](by-category/build-system.md) · [Cli (609)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (55)](by-category/compression.md)
+[Benchmarking (212)](by-category/benchmarking.md) · [Build System (1056)](by-category/build-system.md) · [Cli (612)](by-category/cli.md) · [Codegen Codemod Refactoring (23)](by-category/codegen-codemod-refactoring.md)
+[Community Reference (127)](by-category/community-reference.md) · [Compiler (182)](by-category/compiler.md) · [Compiler Diagnostics (28)](by-category/compiler-diagnostics.md) · [Compression (57)](by-category/compression.md)
 [Concurrency Parallelism (95)](by-category/concurrency-parallelism.md) · [Configuration (141)](by-category/configuration.md) · [Container Deployment (10)](by-category/container-deployment.md) · [Coverage (14)](by-category/coverage.md)
-[Cryptography (183)](by-category/cryptography.md) · [Data Science (42)](by-category/data-science.md) · [Database Datastore (987)](by-category/database-datastore.md) · [Datetime (258)](by-category/datetime.md)
+[Cryptography (183)](by-category/cryptography.md) · [Data Science (42)](by-category/data-science.md) · [Database Datastore (988)](by-category/database-datastore.md) · [Datetime (259)](by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](by-category/dead-code-dependency-analysis.md) · [Debugger (46)](by-category/debugger.md) · [Dependency Manager (110)](by-category/dependency-manager.md) · [Documentation (117)](by-category/documentation.md)
-[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (492)](by-category/ffi-bindings.md) · [Filesystem Os (1741)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
-[Framework (64)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (378)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](by-category/ide-editor-integration.md)
-[Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (292)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
-[Language Server (31)](by-category/language-server.md) · [Language Specification (1478)](by-category/language-specification.md) · [Library (6250)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
-[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (602)](by-category/logging-observability.md) · [Machine Learning (881)](by-category/machine-learning.md)
-[Math Numeric Scientific (98)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (42)](by-category/message-broker.md) · [Networking Http (1110)](by-category/networking-http.md)
-[Other (14)](by-category/other.md) · [Package Manager (452)](by-category/package-manager.md) · [Parser Lexer Ast (1256)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
-[Profiler (102)](by-category/profiler.md) · [Project Scaffolding (146)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
-[Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (701)](by-category/static-analyzer.md)
-[Templating (2)](by-category/templating.md) · [Testing Framework (661)](by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](by-category/tutorial-book-styleguide.md) · [Type Checker (321)](by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](by-category/undefined-behavior-analyzer.md) · [Utility Library (109)](by-category/utility-library.md) · [Visualization Gui (659)](by-category/visualization-gui.md) · [Web Framework (507)](by-category/web-framework.md)
+[Embedded Hardware (70)](by-category/embedded-hardware.md) · [Ffi Bindings (497)](by-category/ffi-bindings.md) · [Filesystem Os (1755)](by-category/filesystem-os.md) · [Formatter (679)](by-category/formatter.md)
+[Framework (65)](by-category/framework.md) · [Fuzzer (68)](by-category/fuzzer.md) · [Game Engine Game Dev (387)](by-category/game-engine-game-dev.md) · [Ide Editor Integration (1540)](by-category/ide-editor-integration.md)
+[Image Audio Dsp (452)](by-category/image-audio-dsp.md) · [Interop Bindings (65)](by-category/interop-bindings.md) · [Interpreter Runtime (293)](by-category/interpreter-runtime.md) · [Jit Vm (67)](by-category/jit-vm.md)
+[Language Server (31)](by-category/language-server.md) · [Language Specification (1481)](by-category/language-specification.md) · [Library (6274)](by-category/library.md) · [Lint Plugin (1)](by-category/lint-plugin.md)
+[Lint Rule Pack (54)](by-category/lint-rule-pack.md) · [Linter (352)](by-category/linter.md) · [Logging Observability (603)](by-category/logging-observability.md) · [Machine Learning (884)](by-category/machine-learning.md)
+[Math Numeric Scientific (100)](by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](by-category/memory-analyzer.md) · [Message Broker (42)](by-category/message-broker.md) · [Networking Http (1111)](by-category/networking-http.md)
+[Other (14)](by-category/other.md) · [Package Manager (453)](by-category/package-manager.md) · [Parser Lexer Ast (1259)](by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](by-category/precommit-ci-quality.md)
+[Profiler (103)](by-category/profiler.md) · [Project Scaffolding (147)](by-category/project-scaffolding.md) · [Registry Repository (136)](by-category/registry-repository.md) · [Sanitizer (17)](by-category/sanitizer.md)
+[Security Sast (341)](by-category/security-sast.md) · [Serialization (410)](by-category/serialization.md) · [Standard Library (26)](by-category/standard-library.md) · [Static Analyzer (703)](by-category/static-analyzer.md)
+[Templating (2)](by-category/templating.md) · [Testing Framework (663)](by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](by-category/tutorial-book-styleguide.md) · [Type Checker (322)](by-category/type-checker.md)
+[Undefined Behavior Analyzer (1680)](by-category/undefined-behavior-analyzer.md) · [Utility Library (110)](by-category/utility-library.md) · [Visualization Gui (666)](by-category/visualization-gui.md) · [Web Framework (508)](by-category/web-framework.md)
 
 | Source record id | Identity | Page |
 | --- | --- | --- |
@@ -1121,6 +1121,7 @@
 | `cran_packages_by_date-2449c33820424f` | lcpm | [open](records/r-lcpm-6d9913a7.md) |
 | `cran_packages_by_date-2462bbedb22dd7` | ncdfgeom | [open](records/r-ncdfgeom-a182130b.md) |
 | `cran_packages_by_date-2462db44dd6eb2` | HVS | [open](records/r-hvs-28200727.md) |
+| `cran_packages_by_date-24690447d6dbda` | Boom | [open](records/r-boom-565f72d3.md) |
 | `cran_packages_by_date-2470147a68bf20` | BorderEffect | [open](records/r-bordereffect-6ad90bd6.md) |
 | `cran_packages_by_date-2472b12e793163` | edgemodelr | [open](records/r-edgemodelr-090006e4.md) |
 | `cran_packages_by_date-24a64c9eb58bea` | NMsim | [open](records/r-nmsim-206e9e01.md) |
@@ -2002,6 +2003,7 @@
 | `cran_packages_by_date-853538102df245` | simr | [open](records/r-simr-e09db19c.md) |
 | `cran_packages_by_date-855e18da4007ff` | circumplex | [open](records/r-circumplex-e80741d7.md) |
 | `cran_packages_by_date-856bd54d0833fe` | policytree | [open](records/r-policytree-989effd3.md) |
+| `cran_packages_by_date-856dd664775944` | Characterization | [open](records/r-characterization-57acb83b.md) |
 | `cran_packages_by_date-859ca29b71d718` | gamstransfer | [open](records/r-gamstransfer-36e2e484.md) |
 | `cran_packages_by_date-859fdc5bcb7ee3` | RaCE.NMA | [open](records/r-race-nma-5c8d438d.md) |
 | `cran_packages_by_date-859fe936f87af2` | PanelSelect | [open](records/r-panelselect-c72ae5ba.md) |
@@ -2416,6 +2418,7 @@
 | `cran_packages_by_date-b5db3550b44530` | Rmalschains | [open](records/r-rmalschains-568d821e.md) |
 | `cran_packages_by_date-b5e55e6fbc1a41` | metafor | [open](records/r-metafor-63821714.md) |
 | `cran_packages_by_date-b60e308fe0dcb9` | cpge | [open](records/r-cpge-2d2eddf7.md) |
+| `cran_packages_by_date-b61eb00eef7699` | odbc | [open](records/r-odbc-78bc6109.md) |
 | `cran_packages_by_date-b65cbc4ae4cb0d` | cox.rvph | [open](records/r-cox-rvph-ebf0e677.md) |
 | `cran_packages_by_date-b6862d565237a8` | corrgram | [open](records/r-corrgram-e4e8c16a.md) |
 | `cran_packages_by_date-b6adb6444db92e` | CLIQUE | [open](records/r-clique-b083559f.md) |
@@ -2758,6 +2761,7 @@
 | `cran_packages_by_date-de2d70a11b8ce2` | rwetools | [open](records/r-rwetools-69d80354.md) |
 | `cran_packages_by_date-de38c6dabdd112` | ggincerta | [open](records/r-ggincerta-b2b1de47.md) |
 | `cran_packages_by_date-de6baa4995254f` | nlist | [open](records/r-nlist-178de862.md) |
+| `cran_packages_by_date-de8e8115f65395` | chevron | [open](records/r-chevron-d0169416.md) |
 | `cran_packages_by_date-deeb3a44e59265` | blockCV | [open](records/r-blockcv-d3605783.md) |
 | `cran_packages_by_date-df47af2d83c9c3` | S7schema | [open](records/r-s7schema-da2b2603.md) |
 | `cran_packages_by_date-df537f34a1ee78` | pROC | [open](records/r-proc-67a5d446.md) |
@@ -2919,6 +2923,7 @@
 | `cran_packages_by_date-ef026438a35d0c` | EmpiricalDynamics | [open](records/r-empiricaldynamics-7b4496a1.md) |
 | `cran_packages_by_date-ef233a6354718c` | logr | [open](records/r-logr-6dca9be3.md) |
 | `cran_packages_by_date-ef37f92e934b08` | rollama | [open](records/r-rollama-28c14d6c.md) |
+| `cran_packages_by_date-ef6489dde59568` | EpiModel | [open](records/r-epimodel-df0fc4c6.md) |
 | `cran_packages_by_date-ef8f7311eef0e8` | healthiar | [open](records/r-healthiar-08b8fbd7.md) |
 | `cran_packages_by_date-efd05ff32bc747` | brulee | [open](records/r-brulee-b0699596.md) |
 | `cran_packages_by_date-efd6a7c3ed93a7` | gmvarkit | [open](records/r-gmvarkit-788988b3.md) |
@@ -6101,6 +6106,7 @@
 | `github_search_aims-c8917a3c8e7217` | 2noise/ChatTTS | [open](records/aim-s-2noise-chattts-5e993170.md) |
 | `github_search_aims-cee66ee90f42b2` | yamadashy/repomix | [open](records/aim-s-yamadashy-repomix-25d6e394.md) |
 | `github_search_aims-d503e8e9c21769` | tirth8205/code-review-graph | [open](records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
+| `github_search_aims-d506ac41f6d98a` | ahujasid/mcp-for-blender | [open](records/aim-s-ahujasid-mcp-for-blender-9bb13dcb.md) |
 | `github_search_aims-d5961917b4e4c7` | OtterMind/Chat2DB | [open](records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 | `github_search_aims-dc9c4f2e6bd843` | zhayujie/CowAgent | [open](records/aim-s-zhayujie-cowagent-fa45ff55.md) |
 | `github_search_aims-df5a37642cbffc` | TencentCloud/TencentDB-Agent-Memory | [open](records/aim-s-tencentcloud-tencentdb-agent-memory-cd242d1b.md) |
@@ -7869,6 +7875,7 @@
 | `github_search_cocoa-fc3f4f9b9e82e2` | wordpress-mobile/AztecEditor-iOS | [open](records/cocoa-wordpress-mobile-azteceditor-ios-ce242705.md) |
 | `github_search_cocoa-febb1ba2376305` | sindresorhus/Settings | [open](records/cocoa-sindresorhus-settings-337d8458.md) |
 | `github_search_computer_graphics_software-0246ecdbd691ab` | exyte/Macaw | [open](records/computer-graphics-software-exyte-macaw-f5b2b2b0.md) |
+| `github_search_computer_graphics_software-02654d551f410f` | toplap/awesome-livecoding | [open](records/computer-graphics-software-toplap-awesome-livecoding-e9846d9a.md) |
 | `github_search_computer_graphics_software-02f11e057dfe0e` | eug/awesome-opengl | [open](records/computer-graphics-software-eug-awesome-opengl-af405246.md) |
 | `github_search_computer_graphics_software-031bf0d167340a` | threedle/text2mesh | [open](records/computer-graphics-software-threedle-text2mesh-aa323859.md) |
 | `github_search_computer_graphics_software-038e04884d916e` | rlguy/Blender-FLIP-Fluids | [open](records/computer-graphics-software-rlguy-blender-flip-fluids-13e6e24d.md) |
@@ -7877,113 +7884,188 @@
 | `github_search_computer_graphics_software-0931a672e6a4fb` | pathak22/context-encoder | [open](records/computer-graphics-software-pathak22-context-encoder-bf6b5828.md) |
 | `github_search_computer_graphics_software-0969a209c31807` | isl-org/Open3D | [open](records/computer-graphics-software-isl-org-open3d-91751c13.md) |
 | `github_search_computer_graphics_software-0badb2e5ec8527` | junyanz/pytorch-CycleGAN-and-pix2pix | [open](records/computer-graphics-software-junyanz-pytorch-cyclegan-and-pix2pix-a9a177e7.md) |
+| `github_search_computer_graphics_software-0bb313dd2afa93` | skywind3000/mini3d | [open](records/computer-graphics-software-skywind3000-mini3d-33710661.md) |
 | `github_search_computer_graphics_software-0ea4ee3eff0547` | LiangliangNan/Easy3D | [open](records/computer-graphics-software-liangliangnan-easy3d-ad4df7cc.md) |
 | `github_search_computer_graphics_software-11fe83e349f815` | SFML/SFML | [open](records/computer-graphics-software-sfml-sfml-c4cb30fb.md) |
+| `github_search_computer_graphics_software-1233857ec486ff` | pelicanmapping/osgearth | [open](records/computer-graphics-software-pelicanmapping-osgearth-e03dbc6d.md) |
 | `github_search_computer_graphics_software-12dab5953f5efb` | ssloy/tinyrenderer | [open](records/computer-graphics-software-ssloy-tinyrenderer-cd3049fe.md) |
+| `github_search_computer_graphics_software-13c9dea6b02a0d` | alibaba/GGEditor | [open](records/computer-graphics-software-alibaba-ggeditor-b327b90a.md) |
 | `github_search_computer_graphics_software-13f5b223cbe7ab` | weihaox/awesome-neural-rendering | [open](records/computer-graphics-software-weihaox-awesome-neural-rendering-38417195.md) |
+| `github_search_computer_graphics_software-144198ed889078` | sinclairzx81/zero | [open](records/computer-graphics-software-sinclairzx81-zero-ecfc34a1.md) |
 | `github_search_computer_graphics_software-14a7d7ea4fe9ff` | wanmeihuali/taichi_3d_gaussian_splatting | [open](records/computer-graphics-software-wanmeihuali-taichi-3d-gaussian-splatting-f188f24b.md) |
+| `github_search_computer_graphics_software-15d8d878c50372` | SUDO-AI-3D/zero123plus | [open](records/computer-graphics-software-sudo-ai-3d-zero123plus-8b023586.md) |
 | `github_search_computer_graphics_software-16eab6e7351e6b` | taichi-dev/taichi-nerfs | [open](records/computer-graphics-software-taichi-dev-taichi-nerfs-d4ae3ab6.md) |
+| `github_search_computer_graphics_software-17d691aaf45f79` | microsoft/DirectXTK | [open](records/computer-graphics-software-microsoft-directxtk-7c77f1f6.md) |
 | `github_search_computer_graphics_software-17dbec45b28dcb` | ssloy/tinyraycaster | [open](records/computer-graphics-software-ssloy-tinyraycaster-8019adcd.md) |
 | `github_search_computer_graphics_software-18a0a3f5b88568` | QianMo/Game-Programmer-Study-Notes | [open](records/computer-graphics-software-qianmo-game-programmer-study-notes-90ee6465.md) |
 | `github_search_computer_graphics_software-18e07fc3595a34` | shunsukesaito/PIFu | [open](records/computer-graphics-software-shunsukesaito-pifu-e02657c6.md) |
+| `github_search_computer_graphics_software-18f03ab3c0f5fe` | ranahanocka/point2mesh | [open](records/computer-graphics-software-ranahanocka-point2mesh-92f23851.md) |
 | `github_search_computer_graphics_software-19f647329b6ac1` | ecumene/rust-sloth | [open](records/computer-graphics-software-ecumene-rust-sloth-e0c767f4.md) |
 | `github_search_computer_graphics_software-1a27d14dc7d1f8` | NVIDIA/pix2pixHD | [open](records/computer-graphics-software-nvidia-pix2pixhd-1a28744b.md) |
+| `github_search_computer_graphics_software-1c39c0f1019bd2` | Overload-Technologies/Overload | [open](records/computer-graphics-software-overload-technologies-overload-158d1ddd.md) |
+| `github_search_computer_graphics_software-1f3071b756dcfe` | nv-tlabs/GEN3C | [open](records/computer-graphics-software-nv-tlabs-gen3c-15147a3b.md) |
+| `github_search_computer_graphics_software-1f48c1d9de7853` | Angelo1211/HybridRenderingEngine | [open](records/computer-graphics-software-angelo1211-hybridrenderingengine-3c7d15fd.md) |
+| `github_search_computer_graphics_software-210b20f646a0e7` | google-ar/sceneform-android-sdk | [open](records/computer-graphics-software-google-ar-sceneform-android-sdk-32819942.md) |
 | `github_search_computer_graphics_software-22c8a4ad0b9b3b` | mlivesu/cinolib | [open](records/computer-graphics-software-mlivesu-cinolib-f58e4499.md) |
+| `github_search_computer_graphics_software-23650424d50500` | nerfstudio-project/nerfstudio | [open](records/computer-graphics-software-nerfstudio-project-nerfstudio-df831c98.md) |
 | `github_search_computer_graphics_software-237f40112277c5` | MonoGame/MonoGame | [open](records/computer-graphics-software-monogame-monogame-373e9859.md) |
 | `github_search_computer_graphics_software-271ff058d86aac` | XCharts-Team/XCharts | [open](records/computer-graphics-software-xcharts-team-xcharts-e64c13d4.md) |
 | `github_search_computer_graphics_software-274a38d236dc91` | blender/blender | [open](records/computer-graphics-software-blender-blender-6dca92f3.md) |
 | `github_search_computer_graphics_software-28b3e2c7e30233` | aitorzip/PyTorch-CycleGAN | [open](records/computer-graphics-software-aitorzip-pytorch-cyclegan-6128584a.md) |
 | `github_search_computer_graphics_software-2918f9cc2a9f3b` | hpjansson/chafa | [open](records/computer-graphics-software-hpjansson-chafa-5435b583.md) |
 | `github_search_computer_graphics_software-2bf51b8b02674b` | AAChartModel/AAChartKit | [open](records/computer-graphics-software-aachartmodel-aachartkit-a324fe8c.md) |
+| `github_search_computer_graphics_software-2ce52fc60755cc` | caiyuanhao1998/Open-DiffusionGS | [open](records/computer-graphics-software-caiyuanhao1998-open-diffusiongs-fdbecd51.md) |
 | `github_search_computer_graphics_software-3104048b401734` | weihaox/awesome-image-translation | [open](records/computer-graphics-software-weihaox-awesome-image-translation-d5526cc9.md) |
 | `github_search_computer_graphics_software-31dd552bab99b3` | alandefreitas/matplotplusplus | [open](records/computer-graphics-software-alandefreitas-matplotplusplus-ce431120.md) |
 | `github_search_computer_graphics_software-320ebdd6583b21` | doyubkim/fluid-engine-dev | [open](records/computer-graphics-software-doyubkim-fluid-engine-dev-a8425cd5.md) |
 | `github_search_computer_graphics_software-3266bccecc8f8d` | google/filament | [open](records/computer-graphics-software-google-filament-019b3cce.md) |
+| `github_search_computer_graphics_software-34c7a859ec447b` | google/shaderc | [open](records/computer-graphics-software-google-shaderc-cc3fd0a6.md) |
 | `github_search_computer_graphics_software-357abf49c35ff0` | antvis/G2 | [open](records/computer-graphics-software-antvis-g2-0584a245.md) |
 | `github_search_computer_graphics_software-35d075b35a92e9` | stevinz/awesome-game-engine-dev | [open](records/computer-graphics-software-stevinz-awesome-game-engine-dev-b7327e6c.md) |
 | `github_search_computer_graphics_software-360e689e6f236b` | YuliangXiu/ICON | [open](records/computer-graphics-software-yuliangxiu-icon-56176aba.md) |
 | `github_search_computer_graphics_software-37679c1fdb9b65` | kosua20/herebedragons | [open](records/computer-graphics-software-kosua20-herebedragons-9cc4192b.md) |
+| `github_search_computer_graphics_software-37cd4f87e25477` | opentk/opentk | [open](records/computer-graphics-software-opentk-opentk-8de80909.md) |
 | `github_search_computer_graphics_software-3a7ebea3692b0c` | mit-han-lab/anycost-gan | [open](records/computer-graphics-software-mit-han-lab-anycost-gan-4d684d9b.md) |
 | `github_search_computer_graphics_software-3b5a978efc6568` | keith2018/SoftGLRender | [open](records/computer-graphics-software-keith2018-softglrender-aae1fa5b.md) |
 | `github_search_computer_graphics_software-3b5aecbfd68c97` | c3js/c3 | [open](records/computer-graphics-software-c3js-c3-1741b467.md) |
+| `github_search_computer_graphics_software-3b65138e63ad39` | 3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data | [open](records/computer-graphics-software-3d-morphable-models-curated-list-of-awesome-3d-morphable-model-software-and-data-58d6aacd.md) |
+| `github_search_computer_graphics_software-3b9bd285682663` | cogentcore/core | [open](records/computer-graphics-software-cogentcore-core-226ec98f.md) |
 | `github_search_computer_graphics_software-3bb650fa1d16e0` | DLR-RM/BlenderProc | [open](records/computer-graphics-software-dlr-rm-blenderproc-6b4a7e0e.md) |
 | `github_search_computer_graphics_software-3d34bb9f9e88e7` | faiface/pixel | [open](records/computer-graphics-software-faiface-pixel-616ff841.md) |
+| `github_search_computer_graphics_software-3d3ce878def2eb` | rbfx/rbfx | [open](records/computer-graphics-software-rbfx-rbfx-c6648a26.md) |
+| `github_search_computer_graphics_software-3d4b5145e0ee4e` | pygfx/pygfx | [open](records/computer-graphics-software-pygfx-pygfx-836facef.md) |
 | `github_search_computer_graphics_software-3d5724d677a7a0` | taichi-dev/taichi | [open](records/computer-graphics-software-taichi-dev-taichi-756b5f1a.md) |
+| `github_search_computer_graphics_software-3e5ecb8c82f48b` | gkjohnson/three-mesh-bvh | [open](records/computer-graphics-software-gkjohnson-three-mesh-bvh-3827debd.md) |
 | `github_search_computer_graphics_software-4007e72cfd37d1` | dotnet/Silk.NET | [open](records/computer-graphics-software-dotnet-silk-net-bf2418a8.md) |
 | `github_search_computer_graphics_software-411ad9bf3131da` | NVlabs/neuralangelo | [open](records/computer-graphics-software-nvlabs-neuralangelo-2899bbbd.md) |
 | `github_search_computer_graphics_software-42ba49011e0d39` | rgab1508/PixelCraft | [open](records/computer-graphics-software-rgab1508-pixelcraft-c85c65b9.md) |
 | `github_search_computer_graphics_software-43119f5684f64e` | ranahanocka/MeshCNN | [open](records/computer-graphics-software-ranahanocka-meshcnn-e72fef0e.md) |
 | `github_search_computer_graphics_software-442ad777f86d48` | rough-stuff/rough | [open](records/computer-graphics-software-rough-stuff-rough-b1c5f87f.md) |
 | `github_search_computer_graphics_software-44f55abac97154` | steveruizok/perfect-freehand | [open](records/computer-graphics-software-steveruizok-perfect-freehand-18a78ec5.md) |
+| `github_search_computer_graphics_software-45109b1a84bd3d` | ImGuiNET/ImGui.NET | [open](records/computer-graphics-software-imguinet-imgui-net-82b06a69.md) |
 | `github_search_computer_graphics_software-4613a467196ed5` | Orillusion/orillusion | [open](records/computer-graphics-software-orillusion-orillusion-3aa8bb93.md) |
 | `github_search_computer_graphics_software-4631d88c23412a` | megvii-research/IJCAI2023-CoNR | [open](records/computer-graphics-software-megvii-research-ijcai2023-conr-393c0a10.md) |
 | `github_search_computer_graphics_software-46f63a98fee9af` | AcademySoftwareFoundation/OpenShadingLanguage | [open](records/computer-graphics-software-academysoftwarefoundation-openshadinglanguage-89e944ed.md) |
 | `github_search_computer_graphics_software-471ff5ac740bb0` | papercopilot/paperlists | [open](records/computer-graphics-software-papercopilot-paperlists-05e6117e.md) |
+| `github_search_computer_graphics_software-472ef4003a03a7` | ProwlEngine/Prowl | [open](records/computer-graphics-software-prowlengine-prowl-537059e7.md) |
 | `github_search_computer_graphics_software-47dfbbced401a0` | rustgd/cgmath | [open](records/computer-graphics-software-rustgd-cgmath-53d753df.md) |
 | `github_search_computer_graphics_software-487acfccd85965` | soubhiksanyal/FLAME_PyTorch | [open](records/computer-graphics-software-soubhiksanyal-flame-pytorch-7e80ccd3.md) |
 | `github_search_computer_graphics_software-48a574b5be3a2f` | rundiwu/DeepCAD | [open](records/computer-graphics-software-rundiwu-deepcad-2b6ad285.md) |
 | `github_search_computer_graphics_software-493ec24551084c` | gfx-rs/gfx | [open](records/computer-graphics-software-gfx-rs-gfx-34c0991c.md) |
 | `github_search_computer_graphics_software-49af0d406a3a22` | img2threejs/img2threejs | [open](records/computer-graphics-software-img2threejs-img2threejs-fb559073.md) |
+| `github_search_computer_graphics_software-4b12ad831bb1a5` | Novum/vkQuake | [open](records/computer-graphics-software-novum-vkquake-1da27884.md) |
+| `github_search_computer_graphics_software-4bd194e8310f3e` | stuffmatic/fSpy | [open](records/computer-graphics-software-stuffmatic-fspy-a8732060.md) |
 | `github_search_computer_graphics_software-4d09289dc2dff8` | cadenji/foolrenderer | [open](records/computer-graphics-software-cadenji-foolrenderer-ea9ae975.md) |
 | `github_search_computer_graphics_software-4dfe5f3b00a63e` | ScanNet/ScanNet | [open](records/computer-graphics-software-scannet-scannet-ff7ddb99.md) |
+| `github_search_computer_graphics_software-4e7f33fd28e086` | asc-community/MxEngine | [open](records/computer-graphics-software-asc-community-mxengine-fd5ec386.md) |
 | `github_search_computer_graphics_software-5041980bf5f3e2` | pkhungurn/talking-head-anime-3-demo | [open](records/computer-graphics-software-pkhungurn-talking-head-anime-3-demo-e8183610.md) |
+| `github_search_computer_graphics_software-516f2fe5b2cbc9` | skywind3000/RenderHelp | [open](records/computer-graphics-software-skywind3000-renderhelp-500c6d03.md) |
 | `github_search_computer_graphics_software-5221588edff488` | hackerb9/lsix | [open](records/computer-graphics-software-hackerb9-lsix-d08a8e9b.md) |
+| `github_search_computer_graphics_software-53571876973998` | JustinSDK/dotSCAD | [open](records/computer-graphics-software-justinsdk-dotscad-418f0553.md) |
+| `github_search_computer_graphics_software-541967f6c07d89` | Yochengliu/awesome-point-cloud-analysis | [open](records/computer-graphics-software-yochengliu-awesome-point-cloud-analysis-324a079a.md) |
+| `github_search_computer_graphics_software-541c8dd6c0b801` | kondrak/vkQuake2 | [open](records/computer-graphics-software-kondrak-vkquake2-60e3ea76.md) |
+| `github_search_computer_graphics_software-54a1835ffeefae` | abdallahdib/NextFace | [open](records/computer-graphics-software-abdallahdib-nextface-554b0cb5.md) |
 | `github_search_computer_graphics_software-55188871f0efa6` | AcademySoftwareFoundation/OpenPBR | [open](records/computer-graphics-software-academysoftwarefoundation-openpbr-c1d9dd63.md) |
 | `github_search_computer_graphics_software-5a0a6f7fb7e9e0` | TimoBolkart/voca | [open](records/computer-graphics-software-timobolkart-voca-af90b92d.md) |
 | `github_search_computer_graphics_software-5ce691008ec142` | mahmoud/awesome-python-applications | [open](records/computer-graphics-software-mahmoud-awesome-python-applications-7308fb2d.md) |
+| `github_search_computer_graphics_software-5cffda8c01a7ea` | ajstarks/svgo | [open](records/computer-graphics-software-ajstarks-svgo-13150f31.md) |
 | `github_search_computer_graphics_software-5e9526095c3049` | KhronosGroup/Vulkan-Samples | [open](records/computer-graphics-software-khronosgroup-vulkan-samples-237c8f2a.md) |
 | `github_search_computer_graphics_software-5eafec46eb92a8` | NWPU66/Fundamentals-Of-Computer-Graphics-5th-CN | [open](records/computer-graphics-software-nwpu66-fundamentals-of-computer-graphics-5th-cn-a18434b9.md) |
 | `github_search_computer_graphics_software-5eb828a7adaccf` | DeepMotionEditing/deep-motion-editing | [open](records/computer-graphics-software-deepmotionediting-deep-motion-editing-026ae974.md) |
+| `github_search_computer_graphics_software-5f7c05a107b5b2` | gpac/gpac | [open](records/computer-graphics-software-gpac-gpac-998385ad.md) |
+| `github_search_computer_graphics_software-605ce35026044b` | Polytonic/Glitter | [open](records/computer-graphics-software-polytonic-glitter-59a15751.md) |
 | `github_search_computer_graphics_software-621495f35bb748` | hoffstadt/DearPyGui | [open](records/computer-graphics-software-hoffstadt-dearpygui-ea972280.md) |
+| `github_search_computer_graphics_software-62e5e6e48143c1` | iamlukethedev/Claw3D | [open](records/computer-graphics-software-iamlukethedev-claw3d-e9f97ea5.md) |
+| `github_search_computer_graphics_software-63b2dfba82e2d9` | o3de/o3de | [open](records/computer-graphics-software-o3de-o3de-e457c3e7.md) |
+| `github_search_computer_graphics_software-6468c77c9991dc` | DustinHLand/vkDOOM3 | [open](records/computer-graphics-software-dustinhland-vkdoom3-065eec5f.md) |
+| `github_search_computer_graphics_software-65f57f7d087ff2` | RayMarch/ferris3d | [open](records/computer-graphics-software-raymarch-ferris3d-4e0d75bf.md) |
 | `github_search_computer_graphics_software-66e8fc76741067` | junyanz/iGAN | [open](records/computer-graphics-software-junyanz-igan-1ac3a0c0.md) |
+| `github_search_computer_graphics_software-68fa6e0bf2262d` | veldrid/veldrid | [open](records/computer-graphics-software-veldrid-veldrid-2ab42ae5.md) |
+| `github_search_computer_graphics_software-691656af81a111` | markaren/threepp | [open](records/computer-graphics-software-markaren-threepp-82cba034.md) |
 | `github_search_computer_graphics_software-6a245b7a9bed95` | kitao/pyxel | [open](records/computer-graphics-software-kitao-pyxel-a00a4293.md) |
 | `github_search_computer_graphics_software-6b5f5af5a5fedd` | ipc-sim/IPC | [open](records/computer-graphics-software-ipc-sim-ipc-1cfefac2.md) |
 | `github_search_computer_graphics_software-6b700b71d6bd1c` | Gforcex/OpenGraphic | [open](records/computer-graphics-software-gforcex-opengraphic-5ec0d484.md) |
 | `github_search_computer_graphics_software-6b9c4990151b3d` | SixLabors/ImageSharp | [open](records/computer-graphics-software-sixlabors-imagesharp-2e591342.md) |
 | `github_search_computer_graphics_software-6c762e9a622ac2` | xelatihy/yocto-gl | [open](records/computer-graphics-software-xelatihy-yocto-gl-62dd1121.md) |
 | `github_search_computer_graphics_software-6df2f6c5249671` | ethz-adrl/towr | [open](records/computer-graphics-software-ethz-adrl-towr-4df3b4ec.md) |
+| `github_search_computer_graphics_software-6f1fb71cb1c2ca` | DmitryRyumin/ICCV-2023-25-Papers | [open](records/computer-graphics-software-dmitryryumin-iccv-2023-25-papers-6a157b71.md) |
+| `github_search_computer_graphics_software-6fd9a33986eff5` | zig-gamedev/zig-gamedev | [open](records/computer-graphics-software-zig-gamedev-zig-gamedev-3adc1d8e.md) |
+| `github_search_computer_graphics_software-71bce5d23fac5b` | inanevin/LinaEngine | [open](records/computer-graphics-software-inanevin-linaengine-69c3ec4e.md) |
 | `github_search_computer_graphics_software-73d279a8fa350d` | taesungp/contrastive-unpaired-translation | [open](records/computer-graphics-software-taesungp-contrastive-unpaired-translation-274335f2.md) |
+| `github_search_computer_graphics_software-74aff1ffa0a850` | horde3d/Horde3D | [open](records/computer-graphics-software-horde3d-horde3d-9bf50d82.md) |
 | `github_search_computer_graphics_software-76aa55b0521e3c` | TianZerL/Anime4KCPP | [open](records/computer-graphics-software-tianzerl-anime4kcpp-64920d46.md) |
 | `github_search_computer_graphics_software-7739ee75c3af3d` | bloc97/Anime4K | [open](records/computer-graphics-software-bloc97-anime4k-588f8524.md) |
 | `github_search_computer_graphics_software-77a81ebfb9c893` | xverse-engine/XScene-UEPlugin | [open](records/computer-graphics-software-xverse-engine-xscene-ueplugin-3f8b8785.md) |
 | `github_search_computer_graphics_software-7820a42b3e28aa` | DL3DV-10K/Dataset | [open](records/computer-graphics-software-dl3dv-10k-dataset-0dfb390f.md) |
 | `github_search_computer_graphics_software-7883d59aa6d914` | mono/SkiaSharp | [open](records/computer-graphics-software-mono-skiasharp-4faa0454.md) |
 | `github_search_computer_graphics_software-791575eb52822d` | CosmicMind/Material | [open](records/computer-graphics-software-cosmicmind-material-09794c1f.md) |
+| `github_search_computer_graphics_software-79cec2b7ca5968` | zauonlok/renderer | [open](records/computer-graphics-software-zauonlok-renderer-efc6164d.md) |
 | `github_search_computer_graphics_software-79dcd06908e7e1` | ssloy/tinyraytracer | [open](records/computer-graphics-software-ssloy-tinyraytracer-b717f33e.md) |
+| `github_search_computer_graphics_software-7b0479aac00de4` | jbush001/NyuziProcessor | [open](records/computer-graphics-software-jbush001-nyuziprocessor-15c8060d.md) |
+| `github_search_computer_graphics_software-7bb6e468d12852` | mhrimaz/AwesomeJavaFX | [open](records/computer-graphics-software-mhrimaz-awesomejavafx-1b96f279.md) |
+| `github_search_computer_graphics_software-7bf5c6045d7ded` | software-mansion/TypeGPU | [open](records/computer-graphics-software-software-mansion-typegpu-bdc34161.md) |
 | `github_search_computer_graphics_software-7c5b7402e3cfd6` | GraphiteEditor/Graphite | [open](records/computer-graphics-software-graphiteeditor-graphite-fc09d342.md) |
 | `github_search_computer_graphics_software-7dd40d7421947b` | shader-park/shader-park-core | [open](records/computer-graphics-software-shader-park-shader-park-core-8cdaa054.md) |
 | `github_search_computer_graphics_software-7f13367630f401` | raysan5/raylib | [open](records/computer-graphics-software-raysan5-raylib-d675cdf9.md) |
 | `github_search_computer_graphics_software-7f47208e6533fb` | yiranran/APDrawingGAN | [open](records/computer-graphics-software-yiranran-apdrawinggan-7cf40267.md) |
 | `github_search_computer_graphics_software-7f6f727d6b4134` | karimnaaji/voxelizer | [open](records/computer-graphics-software-karimnaaji-voxelizer-b7f1ef60.md) |
 | `github_search_computer_graphics_software-801910bdb999cb` | terkelg/awesome-creative-coding | [open](records/computer-graphics-software-terkelg-awesome-creative-coding-df4f4fd1.md) |
+| `github_search_computer_graphics_software-8055c81b815696` | antvis/G2Plot | [open](records/computer-graphics-software-antvis-g2plot-dbfb9888.md) |
 | `github_search_computer_graphics_software-816814320dcea1` | JiayinCao/SORT | [open](records/computer-graphics-software-jiayincao-sort-0c2ce880.md) |
+| `github_search_computer_graphics_software-81cfdb9f2118ac` | liblava/liblava | [open](records/computer-graphics-software-liblava-liblava-a4458596.md) |
+| `github_search_computer_graphics_software-82c156e0449ce0` | BVE-Reborn/rend3 | [open](records/computer-graphics-software-bve-reborn-rend3-fd531355.md) |
 | `github_search_computer_graphics_software-844a1fc803a2d9` | rust-windowing/gl-rs | [open](records/computer-graphics-software-rust-windowing-gl-rs-d9e7b3b7.md) |
+| `github_search_computer_graphics_software-8633efbacf7292` | nekocode/CameraFilter | [open](records/computer-graphics-software-nekocode-camerafilter-7250138c.md) |
 | `github_search_computer_graphics_software-875013da8401d2` | gztchan/awesome-design | [open](records/computer-graphics-software-gztchan-awesome-design-def540ad.md) |
 | `github_search_computer_graphics_software-8a38784f78cb31` | VAST-AI-Research/UniRig | [open](records/computer-graphics-software-vast-ai-research-unirig-9067dee7.md) |
+| `github_search_computer_graphics_software-8b16ad4ee81860` | taichi-dev/difftaichi | [open](records/computer-graphics-software-taichi-dev-difftaichi-63f61571.md) |
 | `github_search_computer_graphics_software-8bd764b59fc31d` | zheng95z/fun-with-computer-graphics | [open](records/computer-graphics-software-zheng95z-fun-with-computer-graphics-d76d35f3.md) |
+| `github_search_computer_graphics_software-8e141f6cb6a065` | radekd91/emoca | [open](records/computer-graphics-software-radekd91-emoca-d94ecc2e.md) |
 | `github_search_computer_graphics_software-8ebfee5b1173bd` | pkhungurn/talking-head-anime-2-demo | [open](records/computer-graphics-software-pkhungurn-talking-head-anime-2-demo-01e3f4b5.md) |
+| `github_search_computer_graphics_software-8fc15795872783` | JasonMa0012/JTRP | [open](records/computer-graphics-software-jasonma0012-jtrp-1667417e.md) |
 | `github_search_computer_graphics_software-8fd477bf0c9ad5` | aseprite/aseprite | [open](records/computer-graphics-software-aseprite-aseprite-d0e9d337.md) |
+| `github_search_computer_graphics_software-9031ac19551b77` | urho3d/urho3d | [open](records/computer-graphics-software-urho3d-urho3d-c7c260f6.md) |
 | `github_search_computer_graphics_software-93c262d77eb847` | LibreSprite/LibreSprite | [open](records/computer-graphics-software-libresprite-libresprite-f7b0e2a3.md) |
 | `github_search_computer_graphics_software-94da3920b5af69` | KTStephano/StratusGFX | [open](records/computer-graphics-software-ktstephano-stratusgfx-bc39f10b.md) |
 | `github_search_computer_graphics_software-96cb2b56defb2b` | f3d-app/f3d | [open](records/computer-graphics-software-f3d-app-f3d-27d6e669.md) |
 | `github_search_computer_graphics_software-9966d550252884` | jayin92/Skyfall-GS | [open](records/computer-graphics-software-jayin92-skyfall-gs-8cb93d15.md) |
+| `github_search_computer_graphics_software-9a5015639707a0` | tksuoran/erhe | [open](records/computer-graphics-software-tksuoran-erhe-14e1add9.md) |
 | `github_search_computer_graphics_software-9a90f8ed2de70b` | galacean/engine | [open](records/computer-graphics-software-galacean-engine-1d8da374.md) |
 | `github_search_computer_graphics_software-9afcf14e526423` | phillipi/pix2pix | [open](records/computer-graphics-software-phillipi-pix2pix-15a80609.md) |
+| `github_search_computer_graphics_software-9c76ea7860a083` | gongminmin/KlayGE | [open](records/computer-graphics-software-gongminmin-klayge-921ace38.md) |
+| `github_search_computer_graphics_software-9cb71378744fd9` | lume/lume | [open](records/computer-graphics-software-lume-lume-054273dc.md) |
+| `github_search_computer_graphics_software-9d065e7245789e` | AAChartModel/AAChartKit-Swift | [open](records/computer-graphics-software-aachartmodel-aachartkit-swift-053f1c08.md) |
 | `github_search_computer_graphics_software-9e53b684af1eac` | konvajs/konva | [open](records/computer-graphics-software-konvajs-konva-5442793b.md) |
+| `github_search_computer_graphics_software-9eedae9a915792` | NASA-AMMOS/3DTilesRendererJS | [open](records/computer-graphics-software-nasa-ammos-3dtilesrendererjs-404d772e.md) |
 | `github_search_computer_graphics_software-9ff59471dfea62` | fogleman/gg | [open](records/computer-graphics-software-fogleman-gg-390bc7f2.md) |
+| `github_search_computer_graphics_software-a049411aaa125b` | fougue/mayo | [open](records/computer-graphics-software-fougue-mayo-2d641f01.md) |
 | `github_search_computer_graphics_software-a0f7c689146826` | fogleman/primitive | [open](records/computer-graphics-software-fogleman-primitive-65c47d64.md) |
+| `github_search_computer_graphics_software-a21389a2ecd6d5` | mmatl/pyrender | [open](records/computer-graphics-software-mmatl-pyrender-ed16d57c.md) |
 | `github_search_computer_graphics_software-a2885c6b5179a9` | PeizhuoLi/neural-blend-shapes | [open](records/computer-graphics-software-peizhuoli-neural-blend-shapes-b9ec5a7e.md) |
 | `github_search_computer_graphics_software-a2bc05050daf70` | junyanz/CycleGAN | [open](records/computer-graphics-software-junyanz-cyclegan-d983e43e.md) |
+| `github_search_computer_graphics_software-a464af2de64ee2` | strasdat/Sophus | [open](records/computer-graphics-software-strasdat-sophus-647c7cd5.md) |
 | `github_search_computer_graphics_software-a4799fb2418345` | termux/termux-x11 | [open](records/computer-graphics-software-termux-termux-x11-a9d6e86c.md) |
+| `github_search_computer_graphics_software-a4bfc425a1d258` | AsPJT/DungeonTemplateLibrary | [open](records/computer-graphics-software-aspjt-dungeontemplatelibrary-09250b6a.md) |
+| `github_search_computer_graphics_software-a5990e063f4f8b` | LuxCoreRender/BlendLuxCore | [open](records/computer-graphics-software-luxcorerender-blendluxcore-9f8ea95d.md) |
+| `github_search_computer_graphics_software-a8543f28448abc` | Vincentqyw/Recent-Stars-2025 | [open](records/computer-graphics-software-vincentqyw-recent-stars-2025-edad6a31.md) |
+| `github_search_computer_graphics_software-a8b3fdde813151` | keijiro/Kino | [open](records/computer-graphics-software-keijiro-kino-7749edaf.md) |
+| `github_search_computer_graphics_software-a8bac53de91bbb` | storytold/artcraft | [open](records/computer-graphics-software-storytold-artcraft-5baeb4dc.md) |
 | `github_search_computer_graphics_software-aae5ab995c04d5` | patriciogonzalezvivo/glslViewer | [open](records/computer-graphics-software-patriciogonzalezvivo-glslviewer-76b86c19.md) |
+| `github_search_computer_graphics_software-ac1ded611b9528` | lume/glas | [open](records/computer-graphics-software-lume-glas-9adcbfa0.md) |
 | `github_search_computer_graphics_software-af6450be3e2bfc` | processing/p5.js | [open](records/computer-graphics-software-processing-p5-js-52da7804.md) |
 | `github_search_computer_graphics_software-af80747cf7b9f4` | mojs/mojs | [open](records/computer-graphics-software-mojs-mojs-25136e19.md) |
 | `github_search_computer_graphics_software-b09ef99af8d27a` | rswinkle/PortableGL | [open](records/computer-graphics-software-rswinkle-portablegl-d5200e3c.md) |
 | `github_search_computer_graphics_software-b1bebdf5c075f2` | friggog/tree-gen | [open](records/computer-graphics-software-friggog-tree-gen-997c4821.md) |
 | `github_search_computer_graphics_software-b5da19ce761a45` | has2k1/plotnine | [open](records/computer-graphics-software-has2k1-plotnine-46f036b1.md) |
+| `github_search_computer_graphics_software-b65a068a9ce206` | marcomusy/vedo | [open](records/computer-graphics-software-marcomusy-vedo-611b161c.md) |
 | `github_search_computer_graphics_software-b695e6b6be5e12` | mosra/magnum | [open](records/computer-graphics-software-mosra-magnum-0e8085eb.md) |
 | `github_search_computer_graphics_software-b6bb09e4f438af` | iced-rs/iced | [open](records/computer-graphics-software-iced-rs-iced-0e99304d.md) |
+| `github_search_computer_graphics_software-b89c325462cb36` | vizia/vizia | [open](records/computer-graphics-software-vizia-vizia-eaadc9a8.md) |
+| `github_search_computer_graphics_software-b99ece6a123796` | LuxCoreRender/LuxCore | [open](records/computer-graphics-software-luxcorerender-luxcore-d356a5df.md) |
 | `github_search_computer_graphics_software-bb7492f98cb451` | Orama-Interactive/Pixelorama | [open](records/computer-graphics-software-orama-interactive-pixelorama-e242ff22.md) |
+| `github_search_computer_graphics_software-bdea6c3659b31c` | POV-Ray/povray | [open](records/computer-graphics-software-pov-ray-povray-f35c0787.md) |
+| `github_search_computer_graphics_software-bf6467172c1a51` | microsoft/renderformer | [open](records/computer-graphics-software-microsoft-renderformer-21e313b4.md) |
+| `github_search_computer_graphics_software-c0a6443dd498aa` | orhun/ratty | [open](records/computer-graphics-software-orhun-ratty-b08c2303.md) |
 | `github_search_computer_graphics_software-c119d164169d71` | EvelynFan/FaceFormer | [open](records/computer-graphics-software-evelynfan-faceformer-d022761e.md) |
 | `github_search_computer_graphics_software-c19edb26f21234` | williamngan/pts | [open](records/computer-graphics-software-williamngan-pts-3ded28e1.md) |
 | `github_search_computer_graphics_software-c2150a542124ba` | jgraph/drawio-desktop | [open](records/computer-graphics-software-jgraph-drawio-desktop-5e241017.md) |
@@ -7994,34 +8076,51 @@
 | `github_search_computer_graphics_software-c87dad9d94e840` | luisdnsantos/awesome-computer-graphics | [open](records/computer-graphics-software-luisdnsantos-awesome-computer-graphics-0ba29c9b.md) |
 | `github_search_computer_graphics_software-c9285bbdbe2da4` | PeterWang512/GANSketching | [open](records/computer-graphics-software-peterwang512-gansketching-7925ace0.md) |
 | `github_search_computer_graphics_software-c96bd2aae22802` | PixiEditor/PixiEditor | [open](records/computer-graphics-software-pixieditor-pixieditor-966a42ca.md) |
+| `github_search_computer_graphics_software-ca0a9984924dc5` | ekzhang/graphics-workshop | [open](records/computer-graphics-software-ekzhang-graphics-workshop-5282bd23.md) |
 | `github_search_computer_graphics_software-cb67e5b644f82d` | NVlabs/instant-ngp | [open](records/computer-graphics-software-nvlabs-instant-ngp-984057ee.md) |
 | `github_search_computer_graphics_software-cc26e26b14c205` | Rubikplayer/flame-fitting | [open](records/computer-graphics-software-rubikplayer-flame-fitting-d4df4c50.md) |
 | `github_search_computer_graphics_software-cc5b58e588d93b` | fegennari/3DWorld | [open](records/computer-graphics-software-fegennari-3dworld-233d051a.md) |
 | `github_search_computer_graphics_software-cc70a36fe3e9f3` | GaParmar/clean-fid | [open](records/computer-graphics-software-gaparmar-clean-fid-c7462dca.md) |
 | `github_search_computer_graphics_software-cc7dc9806a4f13` | OTFCG/Awesome-Game-Analysis | [open](records/computer-graphics-software-otfcg-awesome-game-analysis-c8d50206.md) |
 | `github_search_computer_graphics_software-ce0974a8896186` | QianMo/Real-Time-Rendering-4th-Bibliography-Collection | [open](records/computer-graphics-software-qianmo-real-time-rendering-4th-bibliography-collection-c6fcf907.md) |
+| `github_search_computer_graphics_software-d0daa7db516a1e` | openscad/openscad | [open](records/computer-graphics-software-openscad-openscad-9614a29b.md) |
 | `github_search_computer_graphics_software-d1cb240e6e3995` | looeee/discoverthreejs-site | [open](records/computer-graphics-software-looeee-discoverthreejs-site-b0947b08.md) |
+| `github_search_computer_graphics_software-d2e2cc03b27a04` | MethanePowered/MethaneKit | [open](records/computer-graphics-software-methanepowered-methanekit-2573916c.md) |
+| `github_search_computer_graphics_software-d3265a9be6015c` | PardCode/CPP-3D-Game-Tutorial-Series | [open](records/computer-graphics-software-pardcode-cpp-3d-game-tutorial-series-c37a9001.md) |
 | `github_search_computer_graphics_software-d3c05078b2d25e` | capnramses/antons_opengl_tutorials_book | [open](records/computer-graphics-software-capnramses-antons-opengl-tutorials-book-5e7c4f7c.md) |
 | `github_search_computer_graphics_software-d45557f90b58c5` | junyanz/CatPapers | [open](records/computer-graphics-software-junyanz-catpapers-9d01f237.md) |
 | `github_search_computer_graphics_software-d4f725fd8c4459` | lettier/3d-game-shaders-for-beginners | [open](records/computer-graphics-software-lettier-3d-game-shaders-for-beginners-10162125.md) |
 | `github_search_computer_graphics_software-d52e27b8f2aa93` | pgsty/pigsty | [open](records/computer-graphics-software-pgsty-pigsty-fb21b4c6.md) |
+| `github_search_computer_graphics_software-d56c40efe59ce4` | MakieOrg/Makie.jl | [open](records/computer-graphics-software-makieorg-makie-jl-8d067736.md) |
+| `github_search_computer_graphics_software-d56fc1a26443fe` | ZiYang-xie/WorldGen | [open](records/computer-graphics-software-ziyang-xie-worldgen-e4244b42.md) |
 | `github_search_computer_graphics_software-d6484b7cca0b00` | pkhungurn/talking-head-anime-demo | [open](records/computer-graphics-software-pkhungurn-talking-head-anime-demo-9df39afd.md) |
 | `github_search_computer_graphics_software-d6793ec190939d` | yashbhalgat/HashNeRF-pytorch | [open](records/computer-graphics-software-yashbhalgat-hashnerf-pytorch-d76ce0e2.md) |
 | `github_search_computer_graphics_software-d7cfcab44a6b0d` | bkaradzic/bgfx | [open](records/computer-graphics-software-bkaradzic-bgfx-44ecc29e.md) |
 | `github_search_computer_graphics_software-d91f5c16a3764a` | Devsh-Graphics-Programming/Nabla | [open](records/computer-graphics-software-devsh-graphics-programming-nabla-8564148a.md) |
+| `github_search_computer_graphics_software-d97f120160216a` | cloudhead/rx | [open](records/computer-graphics-software-cloudhead-rx-cc3f4156.md) |
+| `github_search_computer_graphics_software-daaa60add72fe3` | konvajs/konva | [open](records/computer-graphics-software-konvajs-konva-1e582d7c.md) |
 | `github_search_computer_graphics_software-db131e2474f682` | AcademySoftwareFoundation/MaterialX | [open](records/computer-graphics-software-academysoftwarefoundation-materialx-e422745f.md) |
+| `github_search_computer_graphics_software-dcfef40b73f4a6` | daavoo/pyntcloud | [open](records/computer-graphics-software-daavoo-pyntcloud-7b495505.md) |
 | `github_search_computer_graphics_software-dd21adee7c8393` | baldurk/renderdoc | [open](records/computer-graphics-software-baldurk-renderdoc-af70ef90.md) |
+| `github_search_computer_graphics_software-df38b526fb05e6` | g3n/engine | [open](records/computer-graphics-software-g3n-engine-1435e26b.md) |
 | `github_search_computer_graphics_software-df75c85df63583` | NVlabs/LongSplat | [open](records/computer-graphics-software-nvlabs-longsplat-7f4f9cb5.md) |
+| `github_search_computer_graphics_software-e0e66f7af41b15` | ezEngine/ezEngine | [open](records/computer-graphics-software-ezengine-ezengine-78ec6246.md) |
+| `github_search_computer_graphics_software-e109b4d43c9f25` | root-project/root | [open](records/computer-graphics-software-root-project-root-a30f2657.md) |
 | `github_search_computer_graphics_software-e1a3c3695bd8a3` | ArthurBrussee/brush | [open](records/computer-graphics-software-arthurbrussee-brush-7455096b.md) |
 | `github_search_computer_graphics_software-e3282cbfdb0c1e` | ScottPlot/ScottPlot | [open](records/computer-graphics-software-scottplot-scottplot-032a7859.md) |
 | `github_search_computer_graphics_software-e44b0aeb5bb72c` | MrNeRF/LichtFeld-Studio | [open](records/computer-graphics-software-mrnerf-lichtfeld-studio-9df587c1.md) |
 | `github_search_computer_graphics_software-e45d5bd7f8a0e5` | ShichenLiu/SoftRas | [open](records/computer-graphics-software-shichenliu-softras-ed4d3e57.md) |
 | `github_search_computer_graphics_software-e5a1488319e93a` | ssloy/tinykaboom | [open](records/computer-graphics-software-ssloy-tinykaboom-2439f590.md) |
+| `github_search_computer_graphics_software-e639ddd7c11b60` | helix-toolkit/helix-toolkit | [open](records/computer-graphics-software-helix-toolkit-helix-toolkit-6a15763d.md) |
+| `github_search_computer_graphics_software-e9c140c8e8bebb` | aheze/Prism | [open](records/computer-graphics-software-aheze-prism-dc71f5bb.md) |
+| `github_search_computer_graphics_software-ebaca8ec31e54f` | JetBrains/skija | [open](records/computer-graphics-software-jetbrains-skija-0380904e.md) |
 | `github_search_computer_graphics_software-f2437c86a67208` | openframeworks/openFrameworks | [open](records/computer-graphics-software-openframeworks-openframeworks-366b45d8.md) |
 | `github_search_computer_graphics_software-f2697d0885aa2b` | pypose/pypose | [open](records/computer-graphics-software-pypose-pypose-8583e00e.md) |
 | `github_search_computer_graphics_software-f350ac0b1d4297` | polygonjs/polygonjs | [open](records/computer-graphics-software-polygonjs-polygonjs-fe4e5545.md) |
 | `github_search_computer_graphics_software-f37f84b73246ca` | graphdeco-inria/gaussian-splatting | [open](records/computer-graphics-software-graphdeco-inria-gaussian-splatting-9b8db8b7.md) |
 | `github_search_computer_graphics_software-f3dfed33d50d49` | hexops/mach | [open](records/computer-graphics-software-hexops-mach-c3f80c73.md) |
+| `github_search_computer_graphics_software-f3ed53d0d38e55` | google/draco | [open](records/computer-graphics-software-google-draco-a8f969f5.md) |
+| `github_search_computer_graphics_software-f5300f4bc1932f` | AmbientRun/Ambient | [open](records/computer-graphics-software-ambientrun-ambient-e668ce18.md) |
 | `github_search_computer_graphics_software-f8ed196317fe1c` | BachiLi/redner | [open](records/computer-graphics-software-bachili-redner-bed67daa.md) |
 | `github_search_computer_graphics_software-fcd8793cf6a9f6` | YuliangXiu/ECON | [open](records/computer-graphics-software-yuliangxiu-econ-e7d21cbb.md) |
 | `github_search_databases-003abb8734d316` | flyway/flyway | [open](records/databases-flyway-flyway-3bcdbca5.md) |
@@ -10075,6 +10174,7 @@
 | `github_search_engines-0d0cae812b1ba8` | alikon-art/DeterminFlow | [open](records/engines-alikon-art-determinflow-d2d4c788.md) |
 | `github_search_engines-0db55f2779de8d` | TheHive-Project/Cortex | [open](records/engines-thehive-project-cortex-04a9572a.md) |
 | `github_search_engines-0e552a6a26dfd1` | obeli-sk/obelisk | [open](records/engines-obeli-sk-obelisk-d9fd16a7.md) |
+| `github_search_engines-1068e667d83922` | hofstadter-io/hof | [open](records/engines-hofstadter-io-hof-265b8c1b.md) |
 | `github_search_engines-109fcf0dffe3d4` | sbhooley/ainativelang | [open](records/engines-sbhooley-ainativelang-d8561712.md) |
 | `github_search_engines-12c0b0d169faa1` | gemrb/gemrb | [open](records/engines-gemrb-gemrb-c71700a9.md) |
 | `github_search_engines-14b6974c99c77b` | somta/Juggle | [open](records/engines-somta-juggle-8b99befd.md) |
@@ -10117,13 +10217,16 @@
 | `github_search_engines-4ade9a5f06ddf2` | oracle/opengrok | [open](records/engines-oracle-opengrok-ebcea996.md) |
 | `github_search_engines-4bc95a548a03b9` | akuity/awesome-argo | [open](records/engines-akuity-awesome-argo-a8c3ad12.md) |
 | `github_search_engines-4be8f3e0577f15` | ange-yaghi/engine-sim | [open](records/engines-ange-yaghi-engine-sim-7e49c066.md) |
+| `github_search_engines-4bf8a696e37ae2` | insitro/redun | [open](records/engines-insitro-redun-0d39005d.md) |
 | `github_search_engines-4c031d5bdc65ee` | bluejoe2008/openwebflow | [open](records/engines-bluejoe2008-openwebflow-e2402f87.md) |
 | `github_search_engines-4c3c65645cee57` | tgfrerer/island | [open](records/engines-tgfrerer-island-ecaaaa72.md) |
+| `github_search_engines-50145e35f49069` | apache/incubator-kie-kogito-runtimes | [open](records/engines-apache-incubator-kie-kogito-runtimes-937f8450.md) |
 | `github_search_engines-518bf075995f7f` | angular/flex-layout | [open](records/engines-angular-flex-layout-0d4c34f1.md) |
 | `github_search_engines-59dafae26cadf0` | Zal0/ZGB | [open](records/engines-zal0-zgb-6ccac7a3.md) |
 | `github_search_engines-5c10803823014b` | autokitteh/autokitteh | [open](records/engines-autokitteh-autokitteh-b5d221ba.md) |
 | `github_search_engines-5c353482001dee` | openops-cloud/openops | [open](records/engines-openops-cloud-openops-3573ce0b.md) |
 | `github_search_engines-5dbbc78889dd3b` | camunda/camunda | [open](records/engines-camunda-camunda-dd72fb5a.md) |
+| `github_search_engines-5dc8b968849b15` | aiidateam/aiida-core | [open](records/engines-aiidateam-aiida-core-0d727bae.md) |
 | `github_search_engines-5df8e682fae19e` | TencentBlueKing/bk-sops | [open](records/engines-tencentblueking-bk-sops-f03fc3d8.md) |
 | `github_search_engines-5e253f7cb0f35f` | coronalabs/corona | [open](records/engines-coronalabs-corona-521f8f94.md) |
 | `github_search_engines-5e399fca3d5937` | ivankadric02-alt/wyrd-ecs-core | [open](records/engines-ivankadric02-alt-wyrd-ecs-core-fbb4ff06.md) |
@@ -10180,6 +10283,7 @@
 | `github_search_engines-a4800348e14caf` | master-co/css | [open](records/engines-master-co-css-daa9361b.md) |
 | `github_search_engines-a5e034888ebfda` | oscar30gt/pulse | [open](records/engines-oscar30gt-pulse-8492c7a0.md) |
 | `github_search_engines-acdcbede7d65d1` | travisvroman/kohi | [open](records/engines-travisvroman-kohi-f653b0d5.md) |
+| `github_search_engines-adacbd5eeb5a97` | temporalio/temporalite-archived | [open](records/engines-temporalio-temporalite-archived-97572787.md) |
 | `github_search_engines-ae9e52601f1b65` | bludit/bludit | [open](records/engines-bludit-bludit-8295a6ea.md) |
 | `github_search_engines-af0a5ceed4f5c5` | viewflow/viewflow | [open](records/engines-viewflow-viewflow-26a58ce9.md) |
 | `github_search_engines-b10eb17b089d4e` | flowable/flowable-engine | [open](records/engines-flowable-flowable-engine-aa6f79d6.md) |
@@ -10206,6 +10310,8 @@
 | `github_search_engines-d0ea05959d22a8` | rulego/rulego | [open](records/engines-rulego-rulego-24f33e58.md) |
 | `github_search_engines-d0fe1eae377f91` | lfkdsk/JustWeEngine | [open](records/engines-lfkdsk-justweengine-890673a2.md) |
 | `github_search_engines-d133e8ee922b3e` | scipipe/scipipe | [open](records/engines-scipipe-scipipe-012c3ea7.md) |
+| `github_search_engines-d1ea2947158605` | danielgerlag/conductor | [open](records/engines-danielgerlag-conductor-a0a7a2ca.md) |
+| `github_search_engines-d46b9bdc7ef455` | pracdata/awesome-open-source-data-engineering | [open](records/engines-pracdata-awesome-open-source-data-engineering-cad6119d.md) |
 | `github_search_engines-d55fd6928520d0` | collinsmith/riiablo | [open](records/engines-collinsmith-riiablo-784065eb.md) |
 | `github_search_engines-d5a84a0699a335` | amatsuda/heavens_door | [open](records/engines-amatsuda-heavens-door-feca01c1.md) |
 | `github_search_engines-d6a492b320ee1c` | krABMaga/krABMaga | [open](records/engines-krabmaga-krabmaga-1745391e.md) |
@@ -14824,6 +14930,7 @@
 | `github_search_satcom_satellites-97cc303c885c81` | sgoudelis/ground-station | [open](records/satcom-satellites-sgoudelis-ground-station-5494598a.md) |
 | `github_search_satcom_satellites-97ec1ed7939943` | opensatelliteproject/OpenSatelliteProject | [open](records/satcom-satellites-opensatelliteproject-opensatelliteproject-a627e533.md) |
 | `github_search_satcom_satellites-980f73d6c3252a` | bastibl/gr-ieee802-11 | [open](records/satcom-satellites-bastibl-gr-ieee802-11-8666a106.md) |
+| `github_search_satcom_satellites-983e3ebbd8f7a6` | Mahyar426/LEO-SatComm-Simulator | [open](records/satcom-satellites-mahyar426-leo-satcomm-simulator-dec36cc0.md) |
 | `github_search_satcom_satellites-996ef940d8ab48` | pr-holonet/pr-holonet | [open](records/satcom-satellites-pr-holonet-pr-holonet-e4b0113e.md) |
 | `github_search_satcom_satellites-99a987dacd836a` | JuliaGeo/GDAL.jl | [open](records/satcom-satellites-juliageo-gdal-jl-613aca42.md) |
 | `github_search_satcom_satellites-9b5489c386f019` | mgp25/OpenLTE | [open](records/satcom-satellites-mgp25-openlte-d8c46992.md) |
@@ -18634,6 +18741,7 @@
 | `hackage_recent-d69891506510de` | langchain-hs-graph | [open](records/haskell-langchain-hs-graph-0bcffb28.md) |
 | `hackage_recent-d7868fd72b635a` | baikai-openai | [open](records/haskell-baikai-openai-647568ad.md) |
 | `hackage_recent-da7a364c5f1242` | typed-process-effectful | [open](records/haskell-typed-process-effectful-bf332356.md) |
+| `hackage_recent-dab4325b5c2ab3` | multisets | [open](records/haskell-multisets-06684030.md) |
 | `hackage_recent-df8aa6303fcdf2` | seihou-cli | [open](records/haskell-seihou-cli-27b5e8d8.md) |
 | `hackage_recent-dffafcd891d797` | keel-abi | [open](records/haskell-keel-abi-d416a882.md) |
 | `hackage_recent-e16b07423abf5c` | datastar-hs | [open](records/haskell-datastar-hs-04e237be.md) |
@@ -25263,6 +25371,7 @@
 | `npm_registry-332653b0726a23` | @lancedb/lancedb | [open](records/node-js-javascript-lancedb-lancedb-b1aa28e9.md) |
 | `npm_registry-337ae6949507a3` | fc-security | [open](records/node-js-javascript-fc-security-198afaa2.md) |
 | `npm_registry-3386472565a8f5` | @claude-flow/security | [open](records/node-js-javascript-claude-flow-security-863b26d0.md) |
+| `npm_registry-338d5edf26b436` | auth | [open](records/node-js-javascript-auth-8ef8b13b.md) |
 | `npm_registry-3391a8e4beba37` | pug-cli | [open](records/node-js-javascript-pug-cli-eaeac977.md) |
 | `npm_registry-33952f3c41627f` | ember-cli-typescript-blueprint-polyfill | [open](records/node-js-typescript-ember-cli-typescript-blueprint-polyfill-789c09a4.md) |
 | `npm_registry-33b52c9ec89a6c` | @ironcorelabs/tenant-security-nodejs | [open](records/node-js-javascript-ironcorelabs-tenant-security-nodejs-4118930e.md) |

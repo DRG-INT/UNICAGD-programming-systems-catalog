@@ -9,22 +9,22 @@ Records: `285`
 ## Category Index
 
 [Api Abi Checker (242)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1053)](../by-category/build-system.md) · [Cli (609)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (212)](../by-category/benchmarking.md) · [Build System (1056)](../by-category/build-system.md) · [Cli (612)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (127)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (57)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (988)](../by-category/database-datastore.md) · [Datetime (259)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
-[Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (661)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (109)](../by-category/utility-library.md) · [Visualization Gui (659)](../by-category/visualization-gui.md) · [Web Framework (507)](../by-category/web-framework.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (497)](../by-category/ffi-bindings.md) · [Filesystem Os (1755)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
+[Framework (65)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (387)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1540)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (293)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1481)](../by-category/language-specification.md) · [Library (6274)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (603)](../by-category/logging-observability.md) · [Machine Learning (884)](../by-category/machine-learning.md)
+[Math Numeric Scientific (100)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1111)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (453)](../by-category/package-manager.md) · [Parser Lexer Ast (1259)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
+[Profiler (103)](../by-category/profiler.md) · [Project Scaffolding (147)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (703)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (663)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (322)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1680)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (110)](../by-category/utility-library.md) · [Visualization Gui (666)](../by-category/visualization-gui.md) · [Web Framework (508)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -47,7 +47,7 @@ Records: `285`
 | [henomis/lingoose](../records/catalogs-henomis-lingoose-b7784a16.md) | partial | 2026-03-15T09:43:28Z | registry-derived |
 | [open-metadata/OpenMetadata](../records/catalogs-open-metadata-openmetadata-9b2636a5.md) | partial | 2026-09-15T10:23:02Z | registry-derived |
 | [opendatadiscovery/odd-platform](../records/catalogs-opendatadiscovery-odd-platform-9b006b6d.md) | partial | 2026-09-14T15:46:42Z | registry-derived |
-| [openfun/richie](../records/catalogs-openfun-richie-3e0bc01d.md) | partial | 2026-09-16T01:23:32Z | registry-derived |
+| [openfun/richie](../records/catalogs-openfun-richie-3e0bc01d.md) | partial | 2026-09-16T05:36:22Z | registry-derived |
 | [sealerio/sealer](../records/catalogs-sealerio-sealer-b1b1c3d8.md) | partial | 2025-06-03T08:29:24Z | registry-derived |
 | [sixem/ivfi-php](../records/catalogs-sixem-ivfi-php-0295793e.md) | partial | 2026-09-09T18:51:38Z | registry-derived |
 | [skpm/skpm](../records/catalogs-skpm-skpm-a478ed4a.md) | partial | 2026-04-23T09:33:40Z | registry-derived |
@@ -125,7 +125,7 @@ Records: `285`
 | [clidey/whodb](../records/catalogs-clidey-whodb-90b65b4d.md) | partial | 2026-09-15T03:33:04Z | registry-derived |
 | [Esri/geoportal-server-catalog](../records/catalogs-esri-geoportal-server-catalog-528de935.md) | partial | 2026-09-14T07:23:26Z | registry-derived |
 | [fnplus/community-project-ideas](../records/catalogs-fnplus-community-project-ideas-1f98ace0.md) | partial | 2025-02-21T18:58:09Z | registry-derived |
-| [geonetwork/core-geonetwork](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) | partial | 2026-09-15T20:27:14Z | registry-derived |
+| [geonetwork/core-geonetwork](../records/catalogs-geonetwork-core-geonetwork-1ce9ddd6.md) | partial | 2026-09-16T06:17:10Z | registry-derived |
 | [interactivethings/catalog](../records/catalogs-interactivethings-catalog-75b8f4c3.md) | partial | 2025-10-10T15:02:22Z | registry-derived |
 | [jinht/GuidePages](../records/catalogs-jinht-guidepages-bfe173bf.md) | partial | 2018-12-17T13:04:31Z | registry-derived |
 | [lofcz/Infidex](../records/catalogs-lofcz-infidex-7d75607d.md) | partial | 2025-12-30T17:35:01Z | registry-derived |
@@ -256,11 +256,11 @@ Records: `285`
 | [dbforge/nUpdate](../records/catalogs-dbforge-nupdate-f3201d4b.md) | partial | 2023-08-18T08:17:16Z | registry-derived |
 | [distribution/distribution](../records/catalogs-distribution-distribution-7b2980f6.md) | partial | 2026-09-02T08:15:56Z | registry-derived |
 | [docker/hub-tool](../records/catalogs-docker-hub-tool-aaeda6df.md) | partial | 2026-03-16T18:08:27Z | registry-derived |
-| [docker/login-action](../records/catalogs-docker-login-action-6e2ca553.md) | partial | 2026-09-09T10:49:56Z | registry-derived |
-| [dragonflyoss/dragonfly](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) | partial | 2026-09-15T15:10:21Z | registry-derived |
+| [docker/login-action](../records/catalogs-docker-login-action-6e2ca553.md) | partial | 2026-09-16T05:52:39Z | registry-derived |
+| [dragonflyoss/dragonfly](../records/catalogs-dragonflyoss-dragonfly-6d367c61.md) | partial | 2026-09-16T02:46:00Z | registry-derived |
 | [dragonflyoss/dragonfly-archived](../records/catalogs-dragonflyoss-dragonfly-archived-f9b97716.md) | partial | 2023-02-27T11:07:29Z | registry-derived |
 | [dromara/disjob](../records/catalogs-dromara-disjob-0416b69e.md) | partial | 2026-09-11T14:04:26Z | registry-derived |
-| [eclipse-openvsx/openvsx](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) | partial | 2026-09-15T21:49:18Z | registry-derived |
+| [eclipse-openvsx/openvsx](../records/catalogs-eclipse-openvsx-openvsx-af690d57.md) | partial | 2026-09-16T06:19:10Z | registry-derived |
 | [EclipseFdn/open-vsx.org](../records/catalogs-eclipsefdn-open-vsx-org-155087b7.md) | partial | 2026-09-15T17:39:41Z | registry-derived |
 | [elixir-horde/horde](../records/catalogs-elixir-horde-horde-18124598.md) | partial | 2026-07-31T15:48:34Z | registry-derived |
 | [eon01/DockerCheatSheet](../records/catalogs-eon01-dockercheatsheet-4be1df5d.md) | partial | 2026-02-19T11:33:06Z | registry-derived |
@@ -271,7 +271,7 @@ Records: `285`
 | [GiovanniDicanio/WinReg](../records/catalogs-giovannidicanio-winreg-b855affc.md) | partial | 2026-08-21T18:01:01Z | registry-derived |
 | [git-pkgs/proxy](../records/catalogs-git-pkgs-proxy-d3c42acb.md) | partial | 2026-09-14T03:05:58Z | registry-derived |
 | [goharbor/harbor](../records/catalogs-goharbor-harbor-ec2d9450.md) | partial | 2026-09-16T02:19:23Z | registry-derived |
-| [google/go-containerregistry](../records/catalogs-google-go-containerregistry-38c3c5cd.md) | partial | 2026-09-11T19:32:29Z | registry-derived |
+| [google/go-containerregistry](../records/catalogs-google-go-containerregistry-38c3c5cd.md) | partial | 2026-09-16T02:35:57Z | registry-derived |
 | [harrisonwang/wharf](../records/catalogs-harrisonwang-wharf-662407ae.md) | partial | 2026-05-07T01:09:05Z | registry-derived |
 | [hellzerg/optimizerNXT](../records/catalogs-hellzerg-optimizernxt-1c59a09c.md) | partial | 2026-01-22T17:07:40Z | registry-derived |
 | [helsing-ai/buffrs](../records/catalogs-helsing-ai-buffrs-d8b46340.md) | partial | 2026-06-27T06:56:00Z | registry-derived |
@@ -311,7 +311,7 @@ Records: `285`
 | [regclient/regclient](../records/catalogs-regclient-regclient-e0f0e503.md) | partial | 2026-09-09T21:12:36Z | registry-derived |
 | [replicatedhq/ttl.sh](../records/catalogs-replicatedhq-ttl-sh-9a1263b3.md) | partial | 2026-09-08T16:18:08Z | registry-derived |
 | [riferrei/srclient](../records/catalogs-riferrei-srclient-a30143ad.md) | partial | 2025-10-30T23:49:01Z | registry-derived |
-| [rtvkiz/minimal](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) | partial | 2026-09-15T23:59:57Z | registry-derived |
+| [rtvkiz/minimal](../records/catalogs-rtvkiz-minimal-8b1ffe5f.md) | partial | 2026-09-16T06:19:39Z | registry-derived |
 | [salasaurusrex/context_menu](../records/catalogs-salasaurusrex-context-menu-31bf20dd.md) | partial | 2024-09-14T17:11:04Z | registry-derived |
 | [SatyamVyas04/sensory-ui](../records/catalogs-satyamvyas04-sensory-ui-ee86cab1.md) | partial | 2026-09-12T10:07:21Z | registry-derived |
 | [scarf-sh/gateway](../records/catalogs-scarf-sh-gateway-74aad772.md) | partial | 2026-06-13T16:09:48Z | registry-derived |
@@ -322,7 +322,7 @@ Records: `285`
 | [skilld-dev/skilld](../records/catalogs-skilld-dev-skilld-f86e137d.md) | partial | 2026-09-08T04:22:22Z | registry-derived |
 | [sky22333/hubproxy](../records/catalogs-sky22333-hubproxy-37c3d79d.md) | partial | 2026-08-02T13:47:26Z | registry-derived |
 | [spegel-org/spegel](../records/catalogs-spegel-org-spegel-05ead580.md) | partial | 2026-09-15T15:53:04Z | registry-derived |
-| [superdesigndev/treg](../records/catalogs-superdesigndev-treg-2bceb567.md) | partial | 2026-09-16T02:07:49Z | registry-derived |
+| [superdesigndev/treg](../records/catalogs-superdesigndev-treg-2bceb567.md) | partial | 2026-09-16T06:20:30Z | registry-derived |
 | [tektoncd/catalog](../records/catalogs-tektoncd-catalog-3a3ca6b3.md) | partial | 2026-07-03T10:04:40Z | registry-derived |
 | [terralist/terralist](../records/catalogs-terralist-terralist-ed589b1f.md) | partial | 2026-09-15T20:39:35Z | registry-derived |
 | [Trow-Registry/trow](../records/catalogs-trow-registry-trow-1a7e3ee6.md) | partial | 2026-09-01T07:08:25Z | registry-derived |
@@ -399,7 +399,7 @@ Records: `285`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [GoogleCloudPlatform/bigquery-data-lineage](../records/catalogs-googlecloudplatform-bigquery-data-lineage-32b670fd.md) | partial | 2024-06-03T01:17:51Z | registry-derived |
-| [lakekeeper/lakekeeper](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) | partial | 2026-09-15T21:29:57Z | registry-derived |
+| [lakekeeper/lakekeeper](../records/catalogs-lakekeeper-lakekeeper-47299c16.md) | partial | 2026-09-16T05:50:17Z | registry-derived |
 | [OpenSSF Scorecard](../records/catalogs-openssf-scorecard-808ecb37.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
 
 ### Serialization
@@ -431,7 +431,7 @@ Records: `285`
 | [erikdarlingdata/DarlingData](../records/catalogs-erikdarlingdata-darlingdata-be996c85.md) | partial | 2026-09-12T21:02:43Z | registry-derived |
 | [FeatureBaseDB/featurebase](../records/catalogs-featurebasedb-featurebase-1eac6a36.md) | partial | 2024-02-21T23:20:41Z | registry-derived |
 | [fossaryhq/catalog](../records/catalogs-fossaryhq-catalog-c3ae2133.md) | partial | 2026-09-12T02:24:58Z | registry-derived |
-| [imsai-sh/awesome-deepseek-harness-plugins](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) | partial | 2026-09-15T14:06:46Z | registry-derived |
+| [imsai-sh/awesome-deepseek-harness-plugins](../records/catalogs-imsai-sh-awesome-deepseek-harness-plugins-06b83072.md) | partial | 2026-09-16T03:37:59Z | registry-derived |
 | [italia/.github](../records/catalogs-italia-github-0b346e57.md) | partial | 2026-09-14T08:43:19Z | registry-derived |
 | [leenkcool/Blue-Whale-Harness](../records/catalogs-leenkcool-blue-whale-harness-b2691c97.md) | partial | 2026-09-12T07:29:56Z | registry-derived |
 | [llnl/llnl.github.io](../records/catalogs-llnl-llnl-github-io-afb77a91.md) | partial | 2026-09-15T16:52:12Z | registry-derived |

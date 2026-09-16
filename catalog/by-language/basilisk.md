@@ -9,22 +9,22 @@ Records: `37`
 ## Category Index
 
 [Api Abi Checker (242)](../by-category/api-abi-checker.md) · [Api Doc Generator (12)](../by-category/api-doc-generator.md) · [Assertion Mocking (46)](../by-category/assertion-mocking.md) · [Async Runtime (139)](../by-category/async-runtime.md)
-[Benchmarking (211)](../by-category/benchmarking.md) · [Build System (1053)](../by-category/build-system.md) · [Cli (609)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
-[Community Reference (126)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (55)](../by-category/compression.md)
+[Benchmarking (212)](../by-category/benchmarking.md) · [Build System (1056)](../by-category/build-system.md) · [Cli (612)](../by-category/cli.md) · [Codegen Codemod Refactoring (23)](../by-category/codegen-codemod-refactoring.md)
+[Community Reference (127)](../by-category/community-reference.md) · [Compiler (182)](../by-category/compiler.md) · [Compiler Diagnostics (28)](../by-category/compiler-diagnostics.md) · [Compression (57)](../by-category/compression.md)
 [Concurrency Parallelism (95)](../by-category/concurrency-parallelism.md) · [Configuration (141)](../by-category/configuration.md) · [Container Deployment (10)](../by-category/container-deployment.md) · [Coverage (14)](../by-category/coverage.md)
-[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (987)](../by-category/database-datastore.md) · [Datetime (258)](../by-category/datetime.md)
+[Cryptography (183)](../by-category/cryptography.md) · [Data Science (42)](../by-category/data-science.md) · [Database Datastore (988)](../by-category/database-datastore.md) · [Datetime (259)](../by-category/datetime.md)
 [Dead Code Dependency Analysis (5)](../by-category/dead-code-dependency-analysis.md) · [Debugger (46)](../by-category/debugger.md) · [Dependency Manager (110)](../by-category/dependency-manager.md) · [Documentation (117)](../by-category/documentation.md)
-[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (492)](../by-category/ffi-bindings.md) · [Filesystem Os (1741)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
-[Framework (64)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (378)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1529)](../by-category/ide-editor-integration.md)
-[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (292)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
-[Language Server (31)](../by-category/language-server.md) · [Language Specification (1478)](../by-category/language-specification.md) · [Library (6250)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
-[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (602)](../by-category/logging-observability.md) · [Machine Learning (881)](../by-category/machine-learning.md)
-[Math Numeric Scientific (98)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1110)](../by-category/networking-http.md)
-[Other (14)](../by-category/other.md) · [Package Manager (452)](../by-category/package-manager.md) · [Parser Lexer Ast (1256)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
-[Profiler (102)](../by-category/profiler.md) · [Project Scaffolding (146)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
-[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (701)](../by-category/static-analyzer.md)
-[Templating (2)](../by-category/templating.md) · [Testing Framework (661)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (321)](../by-category/type-checker.md)
-[Undefined Behavior Analyzer (1678)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (109)](../by-category/utility-library.md) · [Visualization Gui (659)](../by-category/visualization-gui.md) · [Web Framework (507)](../by-category/web-framework.md)
+[Embedded Hardware (70)](../by-category/embedded-hardware.md) · [Ffi Bindings (497)](../by-category/ffi-bindings.md) · [Filesystem Os (1755)](../by-category/filesystem-os.md) · [Formatter (679)](../by-category/formatter.md)
+[Framework (65)](../by-category/framework.md) · [Fuzzer (68)](../by-category/fuzzer.md) · [Game Engine Game Dev (387)](../by-category/game-engine-game-dev.md) · [Ide Editor Integration (1540)](../by-category/ide-editor-integration.md)
+[Image Audio Dsp (452)](../by-category/image-audio-dsp.md) · [Interop Bindings (65)](../by-category/interop-bindings.md) · [Interpreter Runtime (293)](../by-category/interpreter-runtime.md) · [Jit Vm (67)](../by-category/jit-vm.md)
+[Language Server (31)](../by-category/language-server.md) · [Language Specification (1481)](../by-category/language-specification.md) · [Library (6274)](../by-category/library.md) · [Lint Plugin (1)](../by-category/lint-plugin.md)
+[Lint Rule Pack (54)](../by-category/lint-rule-pack.md) · [Linter (352)](../by-category/linter.md) · [Logging Observability (603)](../by-category/logging-observability.md) · [Machine Learning (884)](../by-category/machine-learning.md)
+[Math Numeric Scientific (100)](../by-category/math-numeric-scientific.md) · [Memory Analyzer (106)](../by-category/memory-analyzer.md) · [Message Broker (42)](../by-category/message-broker.md) · [Networking Http (1111)](../by-category/networking-http.md)
+[Other (14)](../by-category/other.md) · [Package Manager (453)](../by-category/package-manager.md) · [Parser Lexer Ast (1259)](../by-category/parser-lexer-ast.md) · [Precommit Ci Quality (330)](../by-category/precommit-ci-quality.md)
+[Profiler (103)](../by-category/profiler.md) · [Project Scaffolding (147)](../by-category/project-scaffolding.md) · [Registry Repository (136)](../by-category/registry-repository.md) · [Sanitizer (17)](../by-category/sanitizer.md)
+[Security Sast (341)](../by-category/security-sast.md) · [Serialization (410)](../by-category/serialization.md) · [Standard Library (26)](../by-category/standard-library.md) · [Static Analyzer (703)](../by-category/static-analyzer.md)
+[Templating (2)](../by-category/templating.md) · [Testing Framework (663)](../by-category/testing-framework.md) · [Tutorial Book Styleguide (78)](../by-category/tutorial-book-styleguide.md) · [Type Checker (322)](../by-category/type-checker.md)
+[Undefined Behavior Analyzer (1680)](../by-category/undefined-behavior-analyzer.md) · [Utility Library (110)](../by-category/utility-library.md) · [Visualization Gui (666)](../by-category/visualization-gui.md) · [Web Framework (508)](../by-category/web-framework.md)
 
 ## Categories
 
@@ -32,7 +32,7 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [balessio/diffusiophoresis_turingPatterns](../records/basilisk-balessio-diffusiophoresis-turingpatterns-e7be43d9.md) | partial | 2023-05-19T16:58:59Z | registry-derived |
+| [balessio/diffusiophoresis_turingPatterns](../records/basilisk-balessio-diffusiophoresis-turingpatterns-e7be43d9.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Build System
 
@@ -51,13 +51,13 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Kai-Wen-Lee/DNS_of_Compound_Droplets](../records/basilisk-kai-wen-lee-dns-of-compound-droplets-145d067a.md) | partial | 2023-04-28T01:37:39Z | registry-derived |
+| [Kai-Wen-Lee/DNS_of_Compound_Droplets](../records/basilisk-kai-wen-lee-dns-of-compound-droplets-145d067a.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Formatter
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [rcsc-group/LiquidBridge2D](../records/basilisk-rcsc-group-liquidbridge2d-2e2309d3.md) | partial | 2026-08-20T13:16:23Z | registry-derived |
+| [rcsc-group/LiquidBridge2D](../records/basilisk-rcsc-group-liquidbridge2d-2e2309d3.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Framework
 
@@ -75,54 +75,54 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [3equalspi/Basilisk-flu-dyn-sim](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) | partial | 2026-09-07T16:53:21Z | registry-derived |
+| [3equalspi/Basilisk-flu-dyn-sim](../records/basilisk-3equalspi-basilisk-flu-dyn-sim-22764383.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Language Specification
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Basilisk C](../records/basilisk-basilisk-c-c9a354f5.md) | unknown | curated_language_route_requires_source_specific_release_lookup | registry-derived |
-| [sdfeer-collab/Ember](../records/basilisk-sdfeer-collab-ember-24183f02.md) | partial | 2026-08-30T06:43:04Z | registry-derived |
-| [viper-org/basilisk](../records/basilisk-viper-org-basilisk-0b41716c.md) | partial | 2025-10-15T17:47:48Z | registry-derived |
-| [ZeeSpaceMechaGNC/Open-Source-General-Basilisk-Tool-for-Coronagraphic-Pointing-Stability-Proposal-Workshop](../records/basilisk-zeespacemechagnc-open-source-general-basilisk-tool-for-coronagraphic-pointing-stability-proposal-workshop-1019c263.md) | partial | 2026-05-14T16:38:08Z | registry-derived |
+| [sdfeer-collab/Ember](../records/basilisk-sdfeer-collab-ember-24183f02.md) | unknown | github_latest_release_missing | registry-derived |
+| [viper-org/basilisk](../records/basilisk-viper-org-basilisk-0b41716c.md) | unknown | github_latest_release_missing | registry-derived |
+| [ZeeSpaceMechaGNC/Open-Source-General-Basilisk-Tool-for-Coronagraphic-Pointing-Stability-Proposal-Workshop](../records/basilisk-zeespacemechagnc-open-source-general-basilisk-tool-for-coronagraphic-pointing-stability-proposal-workshop-1019c263.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Library
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [iamgadmarconi/ESA-Concurrent-Design-Challenge](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) | partial | 2025-07-17T16:45:54Z | registry-derived |
-| [mujavidb/basiliskRobotsChallenge](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) | partial | 2017-02-23T21:14:38Z | registry-derived |
-| [parthib007/Basilisk_Works](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) | partial | 2024-10-17T18:58:18Z | registry-derived |
-| [yliu-fort/ChannelFlowLES](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) | partial | 2024-07-21T00:34:37Z | registry-derived |
+| [iamgadmarconi/ESA-Concurrent-Design-Challenge](../records/basilisk-iamgadmarconi-esa-concurrent-design-challenge-6964ff6e.md) | unknown | github_latest_release_missing | registry-derived |
+| [mujavidb/basiliskRobotsChallenge](../records/basilisk-mujavidb-basiliskrobotschallenge-3fb7aaec.md) | unknown | github_latest_release_missing | registry-derived |
+| [parthib007/Basilisk_Works](../records/basilisk-parthib007-basilisk-works-f8a7fc3f.md) | unknown | github_latest_release_missing | registry-derived |
+| [yliu-fort/ChannelFlowLES](../records/basilisk-yliu-fort-channelflowles-b3e98e9f.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Math Numeric Scientific
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [PaulSiess/Debris-Flow---Numerical-Simulation-in-Basilisk-C](../records/basilisk-paulsiess-debris-flow-numerical-simulation-in-basilisk-c-eb816934.md) | partial | 2026-08-20T22:13:20Z | registry-derived |
+| [PaulSiess/Debris-Flow---Numerical-Simulation-in-Basilisk-C](../records/basilisk-paulsiess-debris-flow-numerical-simulation-in-basilisk-c-eb816934.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Networking Http
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [austinmhorn/basilisk](../records/basilisk-austinmhorn-basilisk-a8abe142.md) | partial | 2026-09-04T04:23:33Z | registry-derived |
-| [VatsalSy/BasiliskPostProcessingMatlab](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) | partial | 2018-10-11T21:15:19Z | registry-derived |
-| [VatsalSy/BasiliskVisualization](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) | partial | 2018-08-16T21:26:37Z | registry-derived |
-| [vitorvilela/droplet-particle-collision](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) | partial | 2020-05-22T22:00:38Z | registry-derived |
+| [austinmhorn/basilisk](../records/basilisk-austinmhorn-basilisk-a8abe142.md) | unknown | github_latest_release_missing | registry-derived |
+| [VatsalSy/BasiliskPostProcessingMatlab](../records/basilisk-vatsalsy-basiliskpostprocessingmatlab-0e5319ea.md) | unknown | github_latest_release_missing | registry-derived |
+| [VatsalSy/BasiliskVisualization](../records/basilisk-vatsalsy-basiliskvisualization-22421330.md) | unknown | github_latest_release_missing | registry-derived |
+| [vitorvilela/droplet-particle-collision](../records/basilisk-vitorvilela-droplet-particle-collision-ead062d8.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Parser Lexer Ast
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | partial | 2023-06-28T06:42:25Z | registry-derived |
-| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | partial | 2026-09-16T01:14:52Z | registry-derived |
-| [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | partial | 2026-09-02T17:52:11Z | registry-derived |
-| [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | partial | 2026-07-02T20:47:18Z | registry-derived |
-| [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | partial | 2026-08-25T16:24:45Z | registry-derived |
-| [ephraim71/basilisk-rs](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) | partial | 2026-09-04T08:20:38Z | registry-derived |
-| [gornskew/chartroom](../records/basilisk-gornskew-chartroom-3e26f82c.md) | partial | 2026-08-27T11:12:04Z | registry-derived |
-| [vadhvaryu/basilisk-ursamajor](../records/basilisk-vadhvaryu-basilisk-ursamajor-b625dbdb.md) | partial | 2026-05-07T20:23:56Z | registry-derived |
-| [vadhvaryu/newspace-ursamajor-astrodynamics](../records/basilisk-vadhvaryu-newspace-ursamajor-astrodynamics-985dfc98.md) | partial | 2026-05-27T10:01:54Z | registry-derived |
+| [0xIonRod/learning-basilisk](../records/basilisk-0xionrod-learning-basilisk-3b9428f3.md) | unknown | github_latest_release_missing | registry-derived |
+| [AVSLab/basilisk](../records/basilisk-avslab-basilisk-3f9dd832.md) | unknown | github_latest_release_missing | registry-derived |
+| [CarterBalow/avs-lab-work](../records/basilisk-carterbalow-avs-lab-work-c0f5c66b.md) | unknown | github_latest_release_missing | registry-derived |
+| [DISCOWER/bsk-msgs](../records/basilisk-discower-bsk-msgs-80974f96.md) | unknown | github_latest_release_missing | registry-derived |
+| [DISCOWER/bsk-ros2-bridge](../records/basilisk-discower-bsk-ros2-bridge-ff7c49fa.md) | unknown | github_latest_release_missing | registry-derived |
+| [ephraim71/basilisk-rs](../records/basilisk-ephraim71-basilisk-rs-faa4890f.md) | unknown | github_latest_release_missing | registry-derived |
+| [gornskew/chartroom](../records/basilisk-gornskew-chartroom-3e26f82c.md) | unknown | github_latest_release_missing | registry-derived |
+| [vadhvaryu/basilisk-ursamajor](../records/basilisk-vadhvaryu-basilisk-ursamajor-b625dbdb.md) | unknown | github_latest_release_missing | registry-derived |
+| [vadhvaryu/newspace-ursamajor-astrodynamics](../records/basilisk-vadhvaryu-newspace-ursamajor-astrodynamics-985dfc98.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Registry Repository
 
@@ -134,7 +134,7 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Xinyu01091002/Basilisk2D_test](../records/basilisk-xinyu01091002-basilisk2d-test-759cdf71.md) | partial | 2024-07-19T10:07:00Z | registry-derived |
+| [Xinyu01091002/Basilisk2D_test](../records/basilisk-xinyu01091002-basilisk2d-test-759cdf71.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Tutorial Book Styleguide
 
@@ -146,11 +146,11 @@ Records: `37`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [rcsc-group/CoatedRotatingCylinder2D](../records/basilisk-rcsc-group-coatedrotatingcylinder2d-d2a76bbd.md) | partial | 2026-08-07T09:33:25Z | registry-derived |
-| [Satchit4/Basilisk](../records/basilisk-satchit4-basilisk-20046cf3.md) | partial | 2025-11-25T06:23:12Z | registry-derived |
+| [rcsc-group/CoatedRotatingCylinder2D](../records/basilisk-rcsc-group-coatedrotatingcylinder2d-d2a76bbd.md) | unknown | github_latest_release_missing | registry-derived |
+| [Satchit4/Basilisk](../records/basilisk-satchit4-basilisk-20046cf3.md) | unknown | github_latest_release_missing | registry-derived |
 
 ### Visualization Gui
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [Anupamchaudhary17/ln2-drop-evap](../records/basilisk-anupamchaudhary17-ln2-drop-evap-254571c9.md) | partial | 2026-05-11T15:29:32Z | registry-derived |
+| [Anupamchaudhary17/ln2-drop-evap](../records/basilisk-anupamchaudhary17-ln2-drop-evap-254571c9.md) | unknown | github_latest_release_missing | registry-derived |
