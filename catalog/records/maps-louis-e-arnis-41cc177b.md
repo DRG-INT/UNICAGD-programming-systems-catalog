@@ -39,9 +39,9 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Backup plan required |
+| Evidence | GNU General Public License v3.0; https://api.github.com/licenses/gpl-3.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 
@@ -57,7 +57,7 @@ numerical runtime constraints, and data/deployment interfaces.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:maps stars:>100", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

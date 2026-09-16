@@ -330,7 +330,7 @@ Records: `308`
 | [vxunderground/MalwareSourceCode](../records/assembly-vxunderground-malwaresourcecode-7c22542f.md) | partial | 2026-05-30T07:11:00Z | registry-derived |
 | [xiph/rav1e](../records/assembly-xiph-rav1e-5183562e.md) | partial | 2026-09-15T20:18:11Z | registry-derived |
 | [xuhongv/StudyInEsp8266](../records/assembly-xuhongv-studyinesp8266-c596a5a9.md) | partial | 2021-05-28T09:37:16Z | registry-derived |
-| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-16T04:12:43Z | registry-derived |
+| [z88dk/z88dk](../records/assembly-z88dk-z88dk-83b731fe.md) | partial | 2026-09-16T04:45:48Z | registry-derived |
 | [Zeal8bit/Zeal-8-bit-OS](../records/assembly-zeal8bit-zeal-8-bit-os-acb9785d.md) | partial | 2026-09-07T12:37:33Z | registry-derived |
 | [zladx/LADX-Disassembly](../records/assembly-zladx-ladx-disassembly-b62b79d3.md) | partial | 2026-09-15T08:08:32Z | registry-derived |
 

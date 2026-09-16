@@ -860,7 +860,7 @@ Records: `1529`
 | mesa/mesa | partial | 2026-09-15T12:24:15Z | [open](../records/maps-mesa-mesa-17eaaf0c.md) |
 | mikeroyal/Photogrammetry-Guide | partial | 2025-06-27T02:10:14Z | [open](../records/maps-mikeroyal-photogrammetry-guide-6865d45a.md) |
 | nextcloud/maps | partial | 2026-09-13T01:53:27Z | [open](../records/maps-nextcloud-maps-88692299.md) |
-| opengeos/GeoLibre | partial | 2026-09-15T14:09:07Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
+| opengeos/GeoLibre | partial | 2026-09-16T05:11:44Z | [open](../records/maps-opengeos-geolibre-d27e2918.md) |
 | openstreetmap/iD | partial | 2026-09-14T09:29:54Z | [open](../records/maps-openstreetmap-id-28300897.md) |
 | placemark/placemark | partial | 2026-09-07T00:44:07Z | [open](../records/maps-placemark-placemark-23f6cbdc.md) |
 | pnorman/openstreetmap-cartographic | partial | 2021-01-24T05:46:22Z | [open](../records/maps-pnorman-openstreetmap-cartographic-7fcc81f2.md) |
@@ -912,7 +912,7 @@ Records: `1529`
 | Aakashnath645/Sentinel | partial | 2026-02-07T05:49:13Z | [open](../records/space-maps-aakashnath645-sentinel-19fb7e72.md) |
 | ace-dev-pixel/StargazerAR | partial | 2025-09-14T14:29:14Z | [open](../records/space-maps-ace-dev-pixel-stargazerar-e0b868d3.md) |
 | Aldenhovel/bleu-rouge-meteor-cider-spice-eval4imagecaption | partial | 2023-02-17T16:05:12Z | [open](../records/space-maps-aldenhovel-bleu-rouge-meteor-cider-spice-eval4imagecaption-a9840e82.md) |
-| ashuttl/linecast | partial | 2026-09-15T22:27:27Z | [open](../records/space-maps-ashuttl-linecast-147e5149.md) |
+| ashuttl/linecast | partial | 2026-09-16T01:37:32Z | [open](../records/space-maps-ashuttl-linecast-147e5149.md) |
 | contao-catalog/fieldtype_ajaxrating | partial | 2012-04-03T16:05:44Z | [open](../records/space-maps-contao-catalog-fieldtype-ajaxrating-d07acc6a.md) |
 | DBusch-Developer/project-noah | partial | 2026-06-05T19:23:07Z | [open](../records/space-maps-dbusch-developer-project-noah-94787ed5.md) |
 | DooMLoRD/Huawei-Ideos-X6-Kernel | partial | 2011-10-19T19:47:12Z | [open](../records/space-maps-doomlord-huawei-ideos-x6-kernel-64a158f3.md) |
@@ -993,7 +993,7 @@ Records: `1529`
 | RdenBlaauwen/RCAS-for-ReShade | partial | 2024-02-03T17:16:58Z | [open](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) |
 | Samsy/Post-Processing-Hack-Editor | partial | 2016-12-23T17:37:13Z | [open](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) |
 | shamadee/web-dsp | partial | 2017-06-05T05:36:36Z | [open](../records/effects-shamadee-web-dsp-a3bd15e7.md) |
-| sideeffects/SideFXLabs | partial | 2026-09-15T19:39:46Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
+| sideeffects/SideFXLabs | partial | 2026-09-16T04:01:20Z | [open](../records/effects-sideeffects-sidefxlabs-13175f93.md) |
 | Souloist/audio-effects | partial | 2016-04-13T03:06:04Z | [open](../records/effects-souloist-audio-effects-d98c525b.md) |
 | supriya-project/supriya | partial | 2026-09-14T12:13:04Z | [open](../records/effects-supriya-project-supriya-d075f962.md) |
 | taco-group/SparkVSR | partial | 2026-08-03T04:15:33Z | [open](../records/effects-taco-group-sparkvsr-646d164d.md) |
@@ -1638,7 +1638,7 @@ Records: `1529`
 | kowasm/kowasm | partial | 2025-02-23T21:38:11Z | [open](../records/webassembly-kowasm-kowasm-d5a360db.md) |
 | mitchellh/libxev | partial | 2026-07-17T05:22:40Z | [open](../records/webassembly-mitchellh-libxev-2da389e7.md) |
 | pion/webrtc | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-pion-webrtc-a1beffe0.md) |
-| pyodide/pyodide | partial | 2026-09-16T00:22:40Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
+| pyodide/pyodide | partial | 2026-09-16T05:20:55Z | [open](../records/webassembly-pyodide-pyodide-d60e944c.md) |
 | raysan5/raylib | partial | 2026-09-15T19:32:29Z | [open](../records/webassembly-raysan5-raylib-e4097ab4.md) |
 | rhysd/vim.wasm | partial | 2026-02-25T16:49:20Z | [open](../records/webassembly-rhysd-vim-wasm-f16b1e8a.md) |
 | SwiftLaTeX/SwiftLaTeX | partial | 2024-06-18T10:03:53Z | [open](../records/webassembly-swiftlatex-swiftlatex-26bede4e.md) |
@@ -1679,10 +1679,10 @@ Records: `1529`
 | iina/iina | unknown | github_search_does_not_include_release_date | [open](../records/swift-iina-iina-6c424098.md) |
 | insidegui/WWDC | unknown | github_search_does_not_include_release_date | [open](../records/swift-insidegui-wwdc-3785aec6.md) |
 | Introducing SwiftUI | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-introducing-swiftui-186425da.md) |
-| jacklandrin/OnlySwitch | partial | 2026-09-11T18:20:11Z | [open](../records/swift-jacklandrin-onlyswitch-96d7867e.md) |
+| jacklandrin/OnlySwitch | partial | 2026-09-15T18:10:22Z | [open](../records/swift-jacklandrin-onlyswitch-96d7867e.md) |
 | Jinxiansen/Awesome-Server-Side-Swift | partial | 2019-08-24T12:35:03Z | [open](../records/swift-jinxiansen-awesome-server-side-swift-0df7be5c.md) |
 | Jinxiansen/SwiftUI | partial | 2024-02-17T16:47:54Z | [open](../records/swift-jinxiansen-swiftui-f9df2368.md) |
-| KartikLabhshetwar/better-shot | partial | 2026-09-11T19:46:54Z | [open](../records/swift-kartiklabhshetwar-better-shot-c04f2aae.md) |
+| KartikLabhshetwar/better-shot | partial | 2026-09-13T14:15:19Z | [open](../records/swift-kartiklabhshetwar-better-shot-c04f2aae.md) |
 | Kitura/Kitura | unknown | github_search_does_not_include_release_date | [open](../records/swift-kitura-kitura-b9df34b7.md) |
 | LinkedIn | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-linkedin-6ffadedf.md) |
 | Mortennn/Dozer | unknown | github_search_does_not_include_release_date | [open](../records/swift-mortennn-dozer-4c177fd7.md) |
@@ -1706,7 +1706,7 @@ Records: `1529`
 | tw93/MiaoYan | unknown | github_search_does_not_include_release_date | [open](../records/swift-tw93-miaoyan-83c6929d.md) |
 | vapor/vapor | unknown | github_search_does_not_include_release_date | [open](../records/swift-vapor-vapor-a16bf677.md) |
 | WenchaoD/FSPagerView | unknown | github_search_does_not_include_release_date | [open](../records/swift-wenchaod-fspagerview-40bff089.md) |
-| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-08T14:45:20Z | [open](../records/swift-wordpress-mobile-azteceditor-ios-fa3f18d7.md) |
+| wordpress-mobile/AztecEditor-iOS | partial | 2026-09-15T09:23:48Z | [open](../records/swift-wordpress-mobile-azteceditor-ios-fa3f18d7.md) |
 | yattee/yattee | partial | 2026-08-23T11:05:24Z | [open](../records/swift-yattee-yattee-6dc02215.md) |
 
 ## Cocoa
@@ -1751,7 +1751,7 @@ Records: `1529`
 | drawdb-io/drawdb | partial | 2026-09-13T18:45:53Z | [open](../records/databases-drawdb-io-drawdb-5d664554.md) |
 | dzharii/awesome-elasticsearch | partial | 2025-05-07T23:28:38Z | [open](../records/databases-dzharii-awesome-elasticsearch-81171c8b.md) |
 | ebogdum/callfs | partial | 2026-09-05T07:32:30Z | [open](../records/databases-ebogdum-callfs-c43437b9.md) |
-| facebook/rocksdb | partial | 2026-09-15T19:42:51Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
+| facebook/rocksdb | partial | 2026-09-15T22:58:09Z | [open](../records/databases-facebook-rocksdb-a5b51900.md) |
 | firebolt-db/firebolt-core | partial | 2026-09-11T11:10:08Z | [open](../records/databases-firebolt-db-firebolt-core-79afc996.md) |
 | freakmaxi/kertish-dos | partial | 2024-12-15T20:29:43Z | [open](../records/databases-freakmaxi-kertish-dos-06018bc3.md) |
 | fuzhengwei/CodeGuide | partial | 2026-09-09T00:19:45Z | [open](../records/databases-fuzhengwei-codeguide-a9f99769.md) |

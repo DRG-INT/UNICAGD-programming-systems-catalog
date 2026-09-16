@@ -88,7 +88,7 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [Segment](../records/cocoa-segment-cbea2d6b.md) | 4.1.8 | 2023-02-01T22:35:55Z | registry-derived |
-| [sunjw/fhash](../records/cocoa-sunjw-fhash-8a4442ac.md) | partial | 2026-09-09T15:07:38Z | registry-derived |
+| [sunjw/fhash](../records/cocoa-sunjw-fhash-8a4442ac.md) | partial | 2026-09-16T05:10:24Z | registry-derived |
 
 ### Data Science
 
@@ -133,7 +133,7 @@ Records: `349`
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
 | [getsentry/sentry-cocoa](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) | partial | 2026-09-15T20:59:47Z | registry-derived |
-| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-14T22:07:35Z | registry-derived |
+| [madsmtm/objc2](../records/cocoa-madsmtm-objc2-ab58a215.md) | partial | 2026-09-16T04:38:42Z | registry-derived |
 | [ryanmcgrath/cacao](../records/cocoa-ryanmcgrath-cacao-ce707601.md) | partial | 2025-02-03T08:16:22Z | registry-derived |
 | [wordpress-mobile/WordPress-iOS](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) | partial | 2026-09-16T00:11:06Z | registry-derived |
 

@@ -289,7 +289,7 @@ Records: `110`
 | Carthage | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-carthage-21e411dd.md) |
 | Carthage/Carthage | unknown | github_search_does_not_include_release_date | [open](../records/swift-carthage-carthage-a3ac39dd.md) |
 | CocoaPods | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-cocoapods-51b90a18.md) |
-| hmlongco/Factory | partial | 2026-08-11T00:28:59Z | [open](../records/swift-hmlongco-factory-45f10e8c.md) |
+| hmlongco/Factory | partial | 2026-09-16T00:11:13Z | [open](../records/swift-hmlongco-factory-45f10e8c.md) |
 | nalexn/clean-architecture-swiftui | partial | 2025-07-14T17:10:30Z | [open](../records/swift-nalexn-clean-architecture-swiftui-d6e80c19.md) |
 | SwiftUI Atom Properties | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swiftui-atom-properties-22cdf0f1.md) |
 | Swinject/Swinject | unknown | github_search_does_not_include_release_date | [open](../records/swift-swinject-swinject-2f463f5f.md) |

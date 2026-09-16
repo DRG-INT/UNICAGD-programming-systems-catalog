@@ -334,7 +334,7 @@ Records: `452`
 | RxLaboratory/Ramses | partial | 2024-10-16T08:21:05Z | [open](../records/assets-rxlaboratory-ramses-b3bc970c.md) |
 | Saalvage/AssimpNetter | partial | 2026-06-23T13:20:26Z | [open](../records/assets-saalvage-assimpnetter-ec5bd434.md) |
 | Shilo/pixellab-pip | partial | 2026-09-13T20:07:56Z | [open](../records/assets-shilo-pixellab-pip-0be82c0e.md) |
-| snapotter-hq/SnapOtter | partial | 2026-09-12T06:00:32Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
+| snapotter-hq/SnapOtter | partial | 2026-09-15T20:26:11Z | [open](../records/assets-snapotter-hq-snapotter-f5614eb5.md) |
 | spotify/klio | partial | 2024-01-10T19:37:37Z | [open](../records/assets-spotify-klio-c9106254.md) |
 | Stolz/Assets | partial | 2020-02-01T12:06:15Z | [open](../records/assets-stolz-assets-766b2deb.md) |
 | torba-rb/torba | partial | 2023-08-18T09:14:31Z | [open](../records/assets-torba-rb-torba-6deb2fda.md) |

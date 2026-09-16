@@ -123,7 +123,7 @@ Records: `786`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/openvdb](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) | partial | 2026-09-15T23:58:54Z | registry-derived |
+| [AcademySoftwareFoundation/openvdb](../records/effects-academysoftwarefoundation-openvdb-fbe81c11.md) | partial | 2026-09-16T02:48:47Z | registry-derived |
 | [avivace/dotfiles](../records/effects-avivace-dotfiles-d1092acc.md) | partial | 2025-10-06T09:29:22Z | registry-derived |
 | [mattatz/unity-gpu-particle-system](../records/effects-mattatz-unity-gpu-particle-system-0a0d0b05.md) | partial | 2016-12-02T04:36:09Z | registry-derived |
 | [pinnacle-comp/pinnacle](../records/effects-pinnacle-comp-pinnacle-12aa6aeb.md) | partial | 2026-06-27T21:59:05Z | registry-derived |
@@ -400,7 +400,7 @@ Records: `786`
 
 | Name | Release | Date | Source |
 | --- | --- | --- | --- |
-| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-15T23:39:37Z | registry-derived |
+| [AcademySoftwareFoundation/OpenImageIO](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) | partial | 2026-09-16T05:02:43Z | registry-derived |
 | [AcademySoftwareFoundation/OpenTimelineIO](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) | partial | 2026-09-13T22:22:42Z | registry-derived |
 | [AmitDigga/threejs-galaxy-shader](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) | partial | 2026-03-27T08:08:16Z | registry-derived |
 | [blackout1471/AmpStudio](../records/effects-blackout1471-ampstudio-a1b4a947.md) | partial | 2023-12-22T18:49:11Z | registry-derived |
@@ -506,7 +506,7 @@ Records: `786`
 | [RdenBlaauwen/RCAS-for-ReShade](../records/effects-rdenblaauwen-rcas-for-reshade-d195ca4b.md) | partial | 2024-02-03T17:16:58Z | registry-derived |
 | [Samsy/Post-Processing-Hack-Editor](../records/effects-samsy-post-processing-hack-editor-ff1c3a5c.md) | partial | 2016-12-23T17:37:13Z | registry-derived |
 | [shamadee/web-dsp](../records/effects-shamadee-web-dsp-a3bd15e7.md) | partial | 2017-06-05T05:36:36Z | registry-derived |
-| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-15T19:39:46Z | registry-derived |
+| [sideeffects/SideFXLabs](../records/effects-sideeffects-sidefxlabs-13175f93.md) | partial | 2026-09-16T04:01:20Z | registry-derived |
 | [Souloist/audio-effects](../records/effects-souloist-audio-effects-d98c525b.md) | partial | 2016-04-13T03:06:04Z | registry-derived |
 | [supriya-project/supriya](../records/effects-supriya-project-supriya-d075f962.md) | partial | 2026-09-14T12:13:04Z | registry-derived |
 | [taco-group/SparkVSR](../records/effects-taco-group-sparkvsr-646d164d.md) | partial | 2026-08-03T04:15:33Z | registry-derived |

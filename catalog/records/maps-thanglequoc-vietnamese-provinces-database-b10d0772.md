@@ -22,7 +22,7 @@
 ## System Engineer Summary
 
 Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces,
-districts, wards, and geospatial boundaries.
+districts, wards, postal codes, and geospatial boundaries.
 
 ## Operational Role
 
@@ -33,16 +33,16 @@ part of state persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-13T08:41:30Z | gh search repos topic:geospatial stars:>100 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T01:06:58Z | gh search repos topic:geospatial stars:>100 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | MIT |
+| Evidence | MIT License; https://api.github.com/licenses/mit |
+| Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes
 
@@ -58,7 +58,7 @@ part of state persistence, migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:geospatial stars:>100", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:geospatial stars:>100", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

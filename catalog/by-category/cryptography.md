@@ -223,7 +223,7 @@ Records: `183`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| ente/ente | partial | 2026-09-16T04:15:22Z | [open](../records/go-ente-ente-f02441bb.md) |
+| ente/ente | partial | 2026-09-16T04:45:40Z | [open](../records/go-ente-ente-f02441bb.md) |
 
 ## Transmission Protocols
 
@@ -330,7 +330,7 @@ Records: `183`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Segment | 4.1.8 | 2023-02-01T22:35:55Z | [open](../records/cocoa-segment-cbea2d6b.md) |
-| sunjw/fhash | partial | 2026-09-09T15:07:38Z | [open](../records/cocoa-sunjw-fhash-8a4442ac.md) |
+| sunjw/fhash | partial | 2026-09-16T05:10:24Z | [open](../records/cocoa-sunjw-fhash-8a4442ac.md) |
 
 ## Databases
 

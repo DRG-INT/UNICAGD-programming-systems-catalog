@@ -651,14 +651,14 @@ Records: `1053`
 | bazel-contrib/rules_dotnet | partial | 2026-09-15T17:24:43Z | [open](../records/starlark-bazel-contrib-rules-dotnet-8c8a841c.md) |
 | bazel-contrib/rules_go | partial | 2026-09-14T19:04:56Z | [open](../records/starlark-bazel-contrib-rules-go-4b6a62de.md) |
 | bazel-contrib/rules_img | partial | 2026-09-15T22:12:18Z | [open](../records/starlark-bazel-contrib-rules-img-7f8a11ac.md) |
-| bazel-contrib/rules_kotlin | partial | 2026-09-16T03:40:32Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
+| bazel-contrib/rules_kotlin | partial | 2026-09-16T04:40:06Z | [open](../records/starlark-bazel-contrib-rules-kotlin-4d081cf5.md) |
 | bazel-contrib/rules_scala | partial | 2026-09-13T21:32:30Z | [open](../records/starlark-bazel-contrib-rules-scala-d92d7813.md) |
 | bazelbuild/bazel-skylib | partial | 2026-09-01T20:37:47Z | [open](../records/starlark-bazelbuild-bazel-skylib-6abae8f4.md) |
 | bazelbuild/rules_cc | partial | 2026-09-15T18:00:34Z | [open](../records/starlark-bazelbuild-rules-cc-39327329.md) |
 | bazelbuild/rules_closure | partial | 2026-04-03T21:28:30Z | [open](../records/starlark-bazelbuild-rules-closure-5adb8287.md) |
 | bazelbuild/rules_java | partial | 2026-09-15T10:59:30Z | [open](../records/starlark-bazelbuild-rules-java-690a4936.md) |
 | bazelbuild/rules_k8s | partial | 2023-05-12T13:44:37Z | [open](../records/starlark-bazelbuild-rules-k8s-80683477.md) |
-| bazelbuild/rules_swift | partial | 2026-09-15T21:13:58Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
+| bazelbuild/rules_swift | partial | 2026-09-16T05:06:05Z | [open](../records/starlark-bazelbuild-rules-swift-3968ab89.md) |
 | bazelbuild/rules_typescript | partial | 2020-10-23T14:44:49Z | [open](../records/starlark-bazelbuild-rules-typescript-5c12b5d3.md) |
 | cgrindel/rules_swift_package_manager | partial | 2026-09-15T14:00:42Z | [open](../records/starlark-cgrindel-rules-swift-package-manager-e9bd76cb.md) |
 | dropbox/dbx_build_tools | partial | 2023-08-16T17:42:36Z | [open](../records/starlark-dropbox-dbx-build-tools-f48dff7c.md) |
@@ -698,10 +698,10 @@ Records: `1053`
 | langchain-ai/langgraph | partial | 2026-09-15T16:04:25Z | [open](../records/aim-s-langchain-ai-langgraph-3d7f01d8.md) |
 | langgenius/dify | partial | 2026-09-16T03:43:04Z | [open](../records/aim-s-langgenius-dify-d0663497.md) |
 | rohitg00/ai-engineering-from-scratch | partial | 2026-09-07T11:42:35Z | [open](../records/aim-s-rohitg00-ai-engineering-from-scratch-ac445b06.md) |
-| Significant-Gravitas/AutoGPT | partial | 2026-09-16T04:18:19Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
+| Significant-Gravitas/AutoGPT | partial | 2026-09-16T05:15:50Z | [open](../records/aim-s-significant-gravitas-autogpt-f4b70900.md) |
 | tinyhumansai/openhuman | partial | 2026-09-04T04:53:43Z | [open](../records/aim-s-tinyhumansai-openhuman-314d98d9.md) |
 | tirth8205/code-review-graph | partial | 2026-09-15T21:35:00Z | [open](../records/aim-s-tirth8205-code-review-graph-ebee7525.md) |
-| vercel/ai | partial | 2026-09-16T04:20:58Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
+| vercel/ai | partial | 2026-09-16T04:23:01Z | [open](../records/aim-s-vercel-ai-ae0b1907.md) |
 | Zackriya-Solutions/meetily | partial | 2026-09-15T18:32:32Z | [open](../records/aim-s-zackriya-solutions-meetily-959563c6.md) |
 
 ## Computer Graphics Software
@@ -1215,7 +1215,7 @@ Records: `1053`
 | spinframework/spin | partial | 2026-09-16T00:49:36Z | [open](../records/webassembly-spinframework-spin-bc703583.md) |
 | TokamakUI/Tokamak | partial | 2024-03-23T16:00:17Z | [open](../records/webassembly-tokamakui-tokamak-0097025f.md) |
 | trunk-rs/trunk | partial | 2026-09-09T16:04:37Z | [open](../records/webassembly-trunk-rs-trunk-a4abb93b.md) |
-| unoplatform/uno | partial | 2026-09-16T01:41:03Z | [open](../records/webassembly-unoplatform-uno-0c5b85c2.md) |
+| unoplatform/uno | partial | 2026-09-16T04:11:51Z | [open](../records/webassembly-unoplatform-uno-0c5b85c2.md) |
 | wasmCloud/wasmCloud | partial | 2026-09-11T19:52:05Z | [open](../records/webassembly-wasmcloud-wasmcloud-94656d9f.md) |
 
 ## SAPJava
@@ -1252,7 +1252,7 @@ Records: `1053`
 | Sjj1024/PakePlus-iOS | unknown | github_search_does_not_include_release_date | [open](../records/swift-sjj1024-pakeplus-ios-084bb884.md) |
 | StreamUI/StreamUI.swift | partial | 2024-07-03T01:20:35Z | [open](../records/swift-streamui-streamui-swift-1e00b473.md) |
 | The Composable Architecture | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-the-composable-architecture-5acdfac1.md) |
-| thebaselab/codeapp | partial | 2026-08-14T04:03:26Z | [open](../records/swift-thebaselab-codeapp-dfde45d4.md) |
+| thebaselab/codeapp | partial | 2026-09-15T06:25:52Z | [open](../records/swift-thebaselab-codeapp-dfde45d4.md) |
 | TokamakUI/Tokamak | partial | 2024-03-23T16:00:17Z | [open](../records/swift-tokamakui-tokamak-99a6036e.md) |
 | xmartlabs/Eureka | unknown | github_search_does_not_include_release_date | [open](../records/swift-xmartlabs-eureka-8c5efc8b.md) |
 
@@ -1293,7 +1293,7 @@ Records: `1053`
 | HariSekhon/DevOps-Bash-tools | partial | 2026-09-04T15:36:51Z | [open](../records/databases-harisekhon-devops-bash-tools-bd29d37f.md) |
 | knex/knex | partial | 2026-06-26T15:02:12Z | [open](../records/databases-knex-knex-a41a9917.md) |
 | kossakovsky/selfhost-ai | partial | 2026-09-02T20:48:40Z | [open](../records/databases-kossakovsky-selfhost-ai-b4f9a555.md) |
-| kysely-org/kysely | partial | 2026-09-15T20:13:43Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
+| kysely-org/kysely | partial | 2026-09-16T00:26:12Z | [open](../records/databases-kysely-org-kysely-0eff4c79.md) |
 | lithops-cloud/lithops | partial | 2026-09-12T09:49:30Z | [open](../records/databases-lithops-cloud-lithops-39ca953e.md) |
 | makeplane/plane | partial | 2026-09-12T18:37:21Z | [open](../records/databases-makeplane-plane-b0283e4b.md) |
 | neuron-core/neuron-ai | partial | 2026-09-09T10:20:28Z | [open](../records/databases-neuron-core-neuron-ai-5499172a.md) |
@@ -1302,13 +1302,13 @@ Records: `1053`
 | PAF | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-paf-21357df7.md) |
 | plastic-labs/honcho | partial | 2026-09-02T03:03:48Z | [open](../records/databases-plastic-labs-honcho-ddaa1a7f.md) |
 | radondb/radon | partial | 2022-06-22T07:05:16Z | [open](../records/databases-radondb-radon-6bb841bf.md) |
-| redis/redis | partial | 2026-09-15T15:43:56Z | [open](../records/databases-redis-redis-110f7316.md) |
+| redis/redis | partial | 2026-09-16T01:45:36Z | [open](../records/databases-redis-redis-110f7316.md) |
 | san089/goodreads_etl_pipeline | partial | 2020-03-09T00:59:15Z | [open](../records/databases-san089-goodreads-etl-pipeline-e775850d.md) |
 | sinaptik-ai/pandas-ai | partial | 2025-10-28T10:02:13Z | [open](../records/databases-sinaptik-ai-pandas-ai-51421c6b.md) |
 | skytable/skytable | partial | 2026-04-23T00:14:03Z | [open](../records/databases-skytable-skytable-522468ff.md) |
 | skyzh/write-you-a-vector-db | partial | 2026-09-01T09:56:00Z | [open](../records/databases-skyzh-write-you-a-vector-db-16d5344e.md) |
 | smart-data-lake/smart-data-lake | partial | 2026-09-11T09:51:58Z | [open](../records/databases-smart-data-lake-smart-data-lake-267a759d.md) |
-| supabase/supabase | partial | 2026-09-15T21:01:07Z | [open](../records/databases-supabase-supabase-100a1793.md) |
+| supabase/supabase | partial | 2026-09-16T04:48:59Z | [open](../records/databases-supabase-supabase-100a1793.md) |
 | terminusdb/terminusdb | partial | 2026-09-13T05:00:14Z | [open](../records/databases-terminusdb-terminusdb-a8652993.md) |
 | torodb/stampede | partial | 2018-10-25T07:02:08Z | [open](../records/databases-torodb-stampede-a9676e19.md) |
 | x-ream/sqli | partial | 2026-07-24T03:14:00Z | [open](../records/databases-x-ream-sqli-bd8b199c.md) |

@@ -611,7 +611,7 @@ Records: `1741`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-16T03:20:08Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-16T05:16:19Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -866,7 +866,7 @@ Records: `1741`
 | ajnisbet/opentopodata | unknown | github_search_does_not_include_release_date | [open](../records/maps-ajnisbet-opentopodata-c059790e.md) |
 | alexbosworth/balanceofsatoshis | partial | 2026-09-13T23:51:54Z | [open](../records/maps-alexbosworth-balanceofsatoshis-9b5e0bba.md) |
 | anonymousRAID/OSINT-Mapping-Tool | partial | 2026-07-05T00:17:04Z | [open](../records/maps-anonymousraid-osint-mapping-tool-8ed049b5.md) |
-| apache/calcite | partial | 2026-09-15T07:40:30Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
+| apache/calcite | partial | 2026-09-16T04:37:09Z | [open](../records/maps-apache-calcite-64e8faa1.md) |
 | apache/ofbiz | partial | 2020-04-27T06:10:43Z | [open](../records/maps-apache-ofbiz-0fe319f9.md) |
 | apache/sedona | partial | 2026-09-15T07:35:35Z | [open](../records/maps-apache-sedona-820c9e53.md) |
 | artembobkin/ImmersiveMap | partial | 2026-09-14T14:39:56Z | [open](../records/maps-artembobkin-immersivemap-7806dbe3.md) |
@@ -878,7 +878,7 @@ Records: `1741`
 | CesiumGS/cesium-unreal | partial | 2026-09-14T19:09:28Z | [open](../records/maps-cesiumgs-cesium-unreal-403e1d28.md) |
 | cgohlke/geospatial-wheels | partial | 2026-08-20T01:20:34Z | [open](../records/maps-cgohlke-geospatial-wheels-6908f900.md) |
 | chrieke/awesome-geospatial-companies | partial | 2026-07-09T02:14:59Z | [open](../records/maps-chrieke-awesome-geospatial-companies-c415111d.md) |
-| databendlabs/databend | partial | 2026-09-15T13:52:13Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
+| databendlabs/databend | partial | 2026-09-16T05:16:58Z | [open](../records/maps-databendlabs-databend-b7f1b4ac.md) |
 | deepVector/geospatial-machine-learning | partial | 2018-06-21T20:04:07Z | [open](../records/maps-deepvector-geospatial-machine-learning-e4503c88.md) |
 | dhconnelly/rtreego | partial | 2024-12-20T06:54:41Z | [open](../records/maps-dhconnelly-rtreego-d1b2c3e4.md) |
 | e-sensing/sits | partial | 2026-08-31T09:55:57Z | [open](../records/maps-e-sensing-sits-4d30513a.md) |
@@ -890,12 +890,12 @@ Records: `1741`
 | gaopengbin/geo-downloader | partial | 2026-09-15T03:30:27Z | [open](../records/maps-gaopengbin-geo-downloader-277ed7aa.md) |
 | gboeing/osmnx-examples | partial | 2026-09-02T17:20:53Z | [open](../records/maps-gboeing-osmnx-examples-59da9b79.md) |
 | gee-community/geetools | partial | 2026-09-02T09:07:50Z | [open](../records/maps-gee-community-geetools-c599b5c8.md) |
-| GenericMappingTools/gmt | partial | 2026-09-15T05:39:11Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
+| GenericMappingTools/gmt | partial | 2026-09-15T23:33:33Z | [open](../records/maps-genericmappingtools-gmt-8b1cff73.md) |
 | geocompx/geocompr | partial | 2026-09-14T14:14:43Z | [open](../records/maps-geocompx-geocompr-56cd97d0.md) |
-| GeoNode/geonode | partial | 2026-09-15T09:45:37Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
+| GeoNode/geonode | partial | 2026-09-15T16:10:34Z | [open](../records/maps-geonode-geonode-194e67ae.md) |
 | geopandas/geopandas | partial | 2026-09-14T07:10:41Z | [open](../records/maps-geopandas-geopandas-8e718954.md) |
 | georust/geo | partial | 2026-09-07T09:51:36Z | [open](../records/maps-georust-geo-aa20b54a.md) |
-| geosolutions-it/MapStore2 | partial | 2026-09-15T12:49:55Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
+| geosolutions-it/MapStore2 | partial | 2026-09-15T14:47:03Z | [open](../records/maps-geosolutions-it-mapstore2-5f438a3c.md) |
 | GeoStat-Framework/GSTools | partial | 2026-08-24T11:34:44Z | [open](../records/maps-geostat-framework-gstools-08dca3ea.md) |
 | GEOSwift/GEOSwift | partial | 2026-09-05T22:27:09Z | [open](../records/maps-geoswift-geoswift-aeb19eb4.md) |
 | gisgraphy/gisgraphy | partial | 2023-12-27T05:25:11Z | [open](../records/maps-gisgraphy-gisgraphy-7b638690.md) |
@@ -903,7 +903,7 @@ Records: `1741`
 | giswqs/geog-312 | unknown | github_search_does_not_include_release_date | [open](../records/maps-giswqs-geog-312-52015923.md) |
 | giswqs/intro-gispro | partial | 2026-08-16T19:53:05Z | [open](../records/maps-giswqs-intro-gispro-2e41cded.md) |
 | googlemaps/android-maps-compose | partial | 2026-09-14T22:02:27Z | [open](../records/maps-googlemaps-android-maps-compose-aa796bdb.md) |
-| headwaymaps/headway | partial | 2026-09-14T20:07:59Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
+| headwaymaps/headway | partial | 2026-09-15T21:11:16Z | [open](../records/maps-headwaymaps-headway-f1c2ebfc.md) |
 | HoshinoSuzumi/chronoframe | partial | 2026-09-14T21:09:24Z | [open](../records/maps-hoshinosuzumi-chronoframe-59aaa2ce.md) |
 | hotosm/osm-analytics | partial | 2024-04-23T12:12:29Z | [open](../records/maps-hotosm-osm-analytics-ff5f1c75.md) |
 | hotosm/tasking-manager | partial | 2026-09-15T04:47:15Z | [open](../records/maps-hotosm-tasking-manager-4becfa5d.md) |
@@ -914,7 +914,7 @@ Records: `1741`
 | jgauchia/IceNav-v3 | partial | 2026-09-14T21:45:14Z | [open](../records/maps-jgauchia-icenav-v3-c81aeecf.md) |
 | joeldev/JLRoutes | partial | 2023-02-21T14:37:00Z | [open](../records/maps-joeldev-jlroutes-cbfb85d7.md) |
 | joewdavies/awesome-frontend-gis | partial | 2026-08-18T18:05:33Z | [open](../records/maps-joewdavies-awesome-frontend-gis-ebb9b703.md) |
-| JuliaEarth/GeoStats.jl | partial | 2026-09-15T14:19:27Z | [open](../records/maps-juliaearth-geostats-jl-a5aee36c.md) |
+| JuliaEarth/GeoStats.jl | partial | 2026-09-15T18:15:51Z | [open](../records/maps-juliaearth-geostats-jl-a5aee36c.md) |
 | koopjs/koop | partial | 2026-04-04T10:02:47Z | [open](../records/maps-koopjs-koop-a534718e.md) |
 | koordinates/kart | partial | 2026-08-23T23:23:29Z | [open](../records/maps-koordinates-kart-e6aa0e37.md) |
 | kunifujiwara/VoxCity | partial | 2026-09-15T00:55:54Z | [open](../records/maps-kunifujiwara-voxcity-9690a86c.md) |
@@ -937,7 +937,7 @@ Records: `1741`
 | mocnik-science/osm-python-tools | partial | 2025-07-05T00:40:13Z | [open](../records/maps-mocnik-science-osm-python-tools-2849f25b.md) |
 | mousebird-consulting-inc/WhirlyGlobe | unknown | github_search_does_not_include_release_date | [open](../records/maps-mousebird-consulting-inc-whirlyglobe-e32e1856.md) |
 | mszell/geospatialdatascience | partial | 2026-04-20T07:21:57Z | [open](../records/maps-mszell-geospatialdatascience-02806a71.md) |
-| NASA-AMMOS/3DTilesRendererJS | partial | 2026-09-15T13:41:51Z | [open](../records/maps-nasa-ammos-3dtilesrendererjs-9eca2c43.md) |
+| NASA-AMMOS/3DTilesRendererJS | partial | 2026-09-16T02:17:14Z | [open](../records/maps-nasa-ammos-3dtilesrendererjs-9eca2c43.md) |
 | NASAWorldWind/WebWorldWind | partial | 2025-09-20T07:17:46Z | [open](../records/maps-nasaworldwind-webworldwind-a0b4c08f.md) |
 | navit-gps/navit | partial | 2026-09-14T03:19:14Z | [open](../records/maps-navit-gps-navit-0e762219.md) |
 | nickurt/laravel-postcodeapi | partial | 2026-03-19T19:53:26Z | [open](../records/maps-nickurt-laravel-postcodeapi-068a50fa.md) |
@@ -988,7 +988,7 @@ Records: `1741`
 | --- | --- | --- | --- |
 | abdolrezat/TURBN-Turbine-Design | partial | 2017-11-23T08:45:24Z | [open](../records/space-engines-abdolrezat-turbn-turbine-design-e2966da2.md) |
 | aerospaceresearch/orbitdeterminator | partial | 2024-02-05T17:36:07Z | [open](../records/space-engines-aerospaceresearch-orbitdeterminator-0d7657db.md) |
-| aweeri/TLEscope | partial | 2026-09-15T23:35:05Z | [open](../records/space-engines-aweeri-tlescope-54c55a54.md) |
+| aweeri/TLEscope | partial | 2026-09-16T02:26:03Z | [open](../records/space-engines-aweeri-tlescope-54c55a54.md) |
 | donutTheJedi/Rocket-Launch-Simulation | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-donutthejedi-rocket-launch-simulation-e1707ede.md) |
 | GH-X-ST/Aeronautical-Engineering-Imperial | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-gh-x-st-aeronautical-engineering-imperial-83f4e349.md) |
 | haynieresearch/pep-for-zos | partial | 2020-06-06T04:38:12Z | [open](../records/space-engines-haynieresearch-pep-for-zos-46e1a9b2.md) |
@@ -1033,7 +1033,7 @@ Records: `1741`
 | JosePabloTec/NASA-SOJOURNER-Mapping-Motion-Planning | partial | 2026-01-25T08:40:35Z | [open](../records/space-maps-josepablotec-nasa-sojourner-mapping-motion-planning-c360a632.md) |
 | JouleCai/geospacelab | partial | 2026-06-30T07:28:01Z | [open](../records/space-maps-joulecai-geospacelab-4066a81a.md) |
 | kensyo-lab/my-physics-script | partial | 2026-03-14T04:42:27Z | [open](../records/space-maps-kensyo-lab-my-physics-script-eaa0acca.md) |
-| kpobrien/JosephsonCircuits.jl | partial | 2026-09-14T21:53:41Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
+| kpobrien/JosephsonCircuits.jl | partial | 2026-09-16T01:36:47Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
 | kumarprabhakaransaravanakumar-wq/terra-prospect | partial | 2026-06-15T01:37:13Z | [open](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) |
 | mtickle/space-game | partial | 2026-08-21T10:36:59Z | [open](../records/space-maps-mtickle-space-game-790526f7.md) |
 | natashabatalha/picaso | partial | 2026-09-15T23:06:29Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |
@@ -1806,7 +1806,7 @@ Records: `1741`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| 666OS/ClashMac | partial | 2026-09-05T16:56:59Z | [open](../records/swift-666os-clashmac-43953d43.md) |
+| 666OS/ClashMac | partial | 2026-09-13T09:41:57Z | [open](../records/swift-666os-clashmac-43953d43.md) |
 | airbnb/lottie-ios | unknown | github_search_does_not_include_release_date | [open](../records/swift-airbnb-lottie-ios-ea069736.md) |
 | alexdrone/Render | partial | 2019-12-13T14:45:11Z | [open](../records/swift-alexdrone-render-56b9d7a1.md) |
 | altstoreio/AltStore | unknown | github_search_does_not_include_release_date | [open](../records/swift-altstoreio-altstore-169e84d3.md) |
@@ -1819,9 +1819,9 @@ Records: `1741`
 | CleanArchitectureRxSwift | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-cleanarchitecturerxswift-25af9dfb.md) |
 | CodeEditApp/CodeEdit | partial | 2026-08-18T21:24:35Z | [open](../records/swift-codeeditapp-codeedit-88d3a878.md) |
 | CosmicMind/Material | unknown | github_search_does_not_include_release_date | [open](../records/swift-cosmicmind-material-cd01b365.md) |
-| darrylmorley/whatcable | partial | 2026-09-11T15:12:43Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
+| darrylmorley/whatcable | partial | 2026-09-14T07:17:40Z | [open](../records/swift-darrylmorley-whatcable-e5cc9fd3.md) |
 | dkhamsing/open-source-ios-apps | partial | 2026-09-15T20:22:43Z | [open](../records/swift-dkhamsing-open-source-ios-apps-108f495a.md) |
-| duongductrong/Snapzy | partial | 2026-09-12T05:09:29Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
+| duongductrong/Snapzy | partial | 2026-09-15T18:14:22Z | [open](../records/swift-duongductrong-snapzy-056cb4ab.md) |
 | eleev/ios-learning-materials | partial | 2026-08-18T18:26:29Z | [open](../records/swift-eleev-ios-learning-materials-eb9b4f46.md) |
 | example-ios-apps | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-example-ios-apps-4d4c80bc.md) |
 | facebook/facebook-ios-sdk | unknown | github_search_does_not_include_release_date | [open](../records/swift-facebook-facebook-ios-sdk-82cf4bfc.md) |
@@ -1832,8 +1832,8 @@ Records: `1741`
 | HeroTransitions/Hero | unknown | github_search_does_not_include_release_date | [open](../records/swift-herotransitions-hero-9ca9fa5f.md) |
 | huri000/SwiftEntryKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-huri000-swiftentrykit-74ba9318.md) |
 | ianyh/Amethyst | unknown | github_search_does_not_include_release_date | [open](../records/swift-ianyh-amethyst-89eb6987.md) |
-| iziz/libPhoneNumber-iOS | partial | 2026-09-11T19:06:05Z | [open](../records/swift-iziz-libphonenumber-ios-5988fef5.md) |
-| jaywcjlove/awesome-mac | partial | 2026-09-11T10:45:30Z | [open](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) |
+| iziz/libPhoneNumber-iOS | partial | 2026-09-12T16:27:06Z | [open](../records/swift-iziz-libphonenumber-ios-5988fef5.md) |
+| jaywcjlove/awesome-mac | partial | 2026-09-16T01:16:06Z | [open](../records/swift-jaywcjlove-awesome-mac-b01ec1ef.md) |
 | JerryZLiu/Dayflow | unknown | github_search_does_not_include_release_date | [open](../records/swift-jerryzliu-dayflow-93341cb6.md) |
 | jordanbaird/Ice | partial | 2025-09-20T20:28:17Z | [open](../records/swift-jordanbaird-ice-93d7b333.md) |
 | Juanpe/SkeletonView | unknown | github_search_does_not_include_release_date | [open](../records/swift-juanpe-skeletonview-17a24b5c.md) |
@@ -1849,7 +1849,7 @@ Records: `1741`
 | MAJKFL/Welcome-Sheet | partial | 2023-01-30T18:19:17Z | [open](../records/swift-majkfl-welcome-sheet-bd2a05cc.md) |
 | marcosgriselli/ViewAnimator | unknown | github_search_does_not_include_release_date | [open](../records/swift-marcosgriselli-viewanimator-ead20c4c.md) |
 | MengTo/Spring | unknown | github_search_does_not_include_release_date | [open](../records/swift-mengto-spring-c642114a.md) |
-| milanvarady/Applite | partial | 2026-09-10T21:26:35Z | [open](../records/swift-milanvarady-applite-96b822cc.md) |
+| milanvarady/Applite | partial | 2026-09-12T10:44:24Z | [open](../records/swift-milanvarady-applite-96b822cc.md) |
 | MochiDiffusion/MochiDiffusion | unknown | github_search_does_not_include_release_date | [open](../records/swift-mochidiffusion-mochidiffusion-c998528a.md) |
 | mozilla-mobile/firefox-ios | unknown | github_search_does_not_include_release_date | [open](../records/swift-mozilla-mobile-firefox-ios-39d1ea03.md) |
 | mrkai77/Loop | unknown | github_search_does_not_include_release_date | [open](../records/swift-mrkai77-loop-0f2fe32c.md) |
@@ -1863,7 +1863,7 @@ Records: `1741`
 | Ramotion/animated-tab-bar | unknown | github_search_does_not_include_release_date | [open](../records/swift-ramotion-animated-tab-bar-eb35cb05.md) |
 | Ramotion/folding-cell | unknown | github_search_does_not_include_release_date | [open](../records/swift-ramotion-folding-cell-87d9f622.md) |
 | Reactant | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-reactant-ba7c3ea2.md) |
-| relatedcode/ProgressHUD | partial | 2026-08-02T13:05:17Z | [open](../records/swift-relatedcode-progresshud-c0be97de.md) |
+| relatedcode/ProgressHUD | partial | 2026-09-13T18:20:43Z | [open](../records/swift-relatedcode-progresshud-c0be97de.md) |
 | ronitsingh10/FineTune | partial | 2026-07-09T07:54:56Z | [open](../records/swift-ronitsingh10-finetune-aac5acaa.md) |
 | rryam/MeshingKit | partial | 2026-08-31T17:30:27Z | [open](../records/swift-rryam-meshingkit-b2db2e02.md) |
 | rxhanson/Rectangle | unknown | github_search_does_not_include_release_date | [open](../records/swift-rxhanson-rectangle-cedb03b4.md) |
@@ -1874,11 +1874,11 @@ Records: `1741`
 | sindresorhus/KeyboardShortcuts | partial | 2026-09-11T23:40:22Z | [open](../records/swift-sindresorhus-keyboardshortcuts-53ceb22f.md) |
 | sindresorhus/macos-trash | partial | 2026-08-12T12:37:59Z | [open](../records/swift-sindresorhus-macos-trash-13c785c6.md) |
 | sindresorhus/macos-wallpaper | partial | 2026-04-19T17:15:48Z | [open](../records/swift-sindresorhus-macos-wallpaper-3179fd42.md) |
-| siteline/swiftui-introspect | partial | 2026-09-04T00:26:20Z | [open](../records/swift-siteline-swiftui-introspect-fa39df83.md) |
+| siteline/swiftui-introspect | partial | 2026-09-15T10:10:35Z | [open](../records/swift-siteline-swiftui-introspect-fa39df83.md) |
 | SnapKit/SnapKit | unknown | github_search_does_not_include_release_date | [open](../records/swift-snapkit-snapkit-842184a7.md) |
 | soapyigu/Swift-30-Projects | unknown | github_search_does_not_include_release_date | [open](../records/swift-soapyigu-swift-30-projects-c53d5056.md) |
 | StateViewController | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-stateviewcontroller-85dd22f3.md) |
-| superhighfives/pika | partial | 2026-09-11T15:11:57Z | [open](../records/swift-superhighfives-pika-8f5e8eb2.md) |
+| superhighfives/pika | partial | 2026-09-14T20:09:17Z | [open](../records/swift-superhighfives-pika-8f5e8eb2.md) |
 | SwiftKickMobile/SwiftMessages | unknown | github_search_does_not_include_release_date | [open](../records/swift-swiftkickmobile-swiftmessages-2192f7cd.md) |
 | TelegramMessenger/Telegram-iOS | unknown | github_search_does_not_include_release_date | [open](../records/swift-telegrammessenger-telegram-ios-f4bcfba9.md) |
 | tisfeng/Easydict | unknown | github_search_does_not_include_release_date | [open](../records/swift-tisfeng-easydict-1f84a530.md) |

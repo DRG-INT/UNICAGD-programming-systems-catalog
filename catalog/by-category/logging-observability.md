@@ -492,7 +492,7 @@ Records: `602`
 | CS-SI/eodag | unknown | github_search_does_not_include_release_date | [open](../records/maps-cs-si-eodag-f8cc9938.md) |
 | locationtech/jts | partial | 2026-09-15T03:39:46Z | [open](../records/maps-locationtech-jts-ec55d068.md) |
 | meteoinfo/MeteoInfo | unknown | github_search_does_not_include_release_date | [open](../records/maps-meteoinfo-meteoinfo-097daf03.md) |
-| opengeos/geospatial-data-catalogs | partial | 2026-09-15T04:56:42Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
+| opengeos/geospatial-data-catalogs | partial | 2026-09-16T04:56:39Z | [open](../records/maps-opengeos-geospatial-data-catalogs-b0742f74.md) |
 | opengeos/whitebox-python | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-whitebox-python-32519701.md) |
 | samapriya/awesome-gee-community-datasets | unknown | github_search_does_not_include_release_date | [open](../records/maps-samapriya-awesome-gee-community-datasets-107ad1b1.md) |
 | Sedlacek-Solutions/SwiftUI-Navigation | partial | 2025-11-12T02:51:00Z | [open](../records/maps-sedlacek-solutions-swiftui-navigation-ee5e8b00.md) |
@@ -813,7 +813,7 @@ Records: `602`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| momenbasel/PureMac | partial | 2026-09-12T04:47:19Z | [open](../records/swift-momenbasel-puremac-3b37aa0d.md) |
+| momenbasel/PureMac | partial | 2026-09-16T04:48:56Z | [open](../records/swift-momenbasel-puremac-3b37aa0d.md) |
 | sindresorhus/LaunchAtLogin-Legacy | partial | 2024-06-25T00:03:49Z | [open](../records/swift-sindresorhus-launchatlogin-legacy-90e57007.md) |
 | sindresorhus/LaunchAtLogin-Modern | partial | 2024-01-11T20:35:45Z | [open](../records/swift-sindresorhus-launchatlogin-modern-7ab8cabe.md) |
 | steipete/CodexBar | unknown | github_search_does_not_include_release_date | [open](../records/swift-steipete-codexbar-4079e9b0.md) |

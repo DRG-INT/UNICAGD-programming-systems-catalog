@@ -40,7 +40,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 | Field | Value |
 | --- | --- |
 | Detected family | Apache-2.0 |
-| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
+| Evidence | Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
 | Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
 
 ## Engineering Notes
@@ -57,7 +57,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-11 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:ios-library stars:>500", "retrieved": "2026-09-11", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:ios-library stars:>500", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

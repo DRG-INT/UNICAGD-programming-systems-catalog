@@ -41,7 +41,7 @@ tooling, code generation, static analysis, and source transformation.
 | Field | Value |
 | --- | --- |
 | Detected family | Backup plan required |
-| Evidence | GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0; Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
+| Evidence | Mozilla Public License 2.0; https://api.github.com/licenses/mpl-2.0 |
 | Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ tooling, code generation, static analysis, and source transformation.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

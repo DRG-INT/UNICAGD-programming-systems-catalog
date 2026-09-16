@@ -114,7 +114,7 @@ Records: `42`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| perspective-dev/perspective | partial | 2026-09-15T20:56:49Z | [open](../records/webassembly-perspective-dev-perspective-03c75133.md) |
+| perspective-dev/perspective | partial | 2026-09-16T04:38:10Z | [open](../records/webassembly-perspective-dev-perspective-03c75133.md) |
 
 ## SAPJava
 

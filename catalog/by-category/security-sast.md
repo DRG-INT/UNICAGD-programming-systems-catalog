@@ -490,7 +490,7 @@ Records: `341`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| amark/gun | partial | 2026-08-01T11:38:47Z | [open](../records/databases-amark-gun-b5e89507.md) |
+| amark/gun | partial | 2026-09-16T01:19:08Z | [open](../records/databases-amark-gun-b5e89507.md) |
 | apache/shardingsphere | partial | 2026-09-15T05:39:49Z | [open](../records/databases-apache-shardingsphere-d9ea2f58.md) |
 | Bytebase | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-bytebase-3fdd8393.md) |
 | cookieY/Yearning | partial | 2026-08-24T11:46:31Z | [open](../records/databases-cookiey-yearning-30a7b49e.md) |

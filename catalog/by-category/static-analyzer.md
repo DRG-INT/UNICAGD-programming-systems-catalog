@@ -456,7 +456,7 @@ Records: `701`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| career-ops-hq/career-ops | partial | 2026-09-16T00:35:52Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
+| career-ops-hq/career-ops | partial | 2026-09-16T04:55:37Z | [open](../records/go-career-ops-hq-career-ops-89690772.md) |
 | codeberg.org/momar/simple-scan-server | unknown | go_module_index_event_is_preview_or_pseudoversion | [open](../records/go-codeberg-org-momar-simple-scan-server-8e5010e0.md) |
 
 ## "aim's"
@@ -511,12 +511,12 @@ Records: `701`
 | iamtekson/Leaflet-from-basic-to-advance | partial | 2025-02-01T21:37:25Z | [open](../records/maps-iamtekson-leaflet-from-basic-to-advance-889350fe.md) |
 | jblindsay/whitebox-tools | partial | 2026-05-26T15:31:03Z | [open](../records/maps-jblindsay-whitebox-tools-802abb76.md) |
 | joewdavies/awesome-frontend-gis | unknown | github_search_does_not_include_release_date | [open](../records/maps-joewdavies-awesome-frontend-gis-8dda6b78.md) |
-| keplergl/kepler.gl | partial | 2026-09-15T13:55:06Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
+| keplergl/kepler.gl | partial | 2026-09-15T23:55:17Z | [open](../records/maps-keplergl-kepler-gl-672b222c.md) |
 | mesa/mesa | unknown | github_search_does_not_include_release_date | [open](../records/maps-mesa-mesa-446ed582.md) |
 | mszell/geospatialdatascience | unknown | github_search_does_not_include_release_date | [open](../records/maps-mszell-geospatialdatascience-35957080.md) |
 | nejckorasa/instagram-analyzer | partial | 2020-06-05T19:09:36Z | [open](../records/maps-nejckorasa-instagram-analyzer-17d46a85.md) |
 | opengeos/geospatial | unknown | github_search_does_not_include_release_date | [open](../records/maps-opengeos-geospatial-b11a2e45.md) |
-| opengeos/leafmap | partial | 2026-09-14T21:26:29Z | [open](../records/maps-opengeos-leafmap-38d2da43.md) |
+| opengeos/leafmap | partial | 2026-09-15T21:48:44Z | [open](../records/maps-opengeos-leafmap-38d2da43.md) |
 | opengeos/python-geospatial | partial | 2024-07-04T11:31:10Z | [open](../records/maps-opengeos-python-geospatial-59d57b14.md) |
 | OSGeo/grass | unknown | github_search_does_not_include_release_date | [open](../records/maps-osgeo-grass-a2300d62.md) |
 | PyPSA/atlite | unknown | github_search_does_not_include_release_date | [open](../records/maps-pypsa-atlite-a95240b0.md) |

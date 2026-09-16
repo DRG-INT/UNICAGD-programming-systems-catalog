@@ -104,7 +104,7 @@ Records: `160`
 | --- | --- | --- | --- |
 | [abdolrezat/TURBN-Turbine-Design](../records/space-engines-abdolrezat-turbn-turbine-design-e2966da2.md) | partial | 2017-11-23T08:45:24Z | registry-derived |
 | [aerospaceresearch/orbitdeterminator](../records/space-engines-aerospaceresearch-orbitdeterminator-0d7657db.md) | partial | 2024-02-05T17:36:07Z | registry-derived |
-| [aweeri/TLEscope](../records/space-engines-aweeri-tlescope-54c55a54.md) | partial | 2026-09-15T23:35:05Z | registry-derived |
+| [aweeri/TLEscope](../records/space-engines-aweeri-tlescope-54c55a54.md) | partial | 2026-09-16T02:26:03Z | registry-derived |
 | [donutTheJedi/Rocket-Launch-Simulation](../records/space-engines-donutthejedi-rocket-launch-simulation-e1707ede.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [GH-X-ST/Aeronautical-Engineering-Imperial](../records/space-engines-gh-x-st-aeronautical-engineering-imperial-83f4e349.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [haynieresearch/pep-for-zos](../records/space-engines-haynieresearch-pep-for-zos-46e1a9b2.md) | partial | 2020-06-06T04:38:12Z | registry-derived |
@@ -245,14 +245,14 @@ Records: `160`
 | [Arrowstar/ksptot](../records/space-engines-arrowstar-ksptot-0193b8c4.md) | partial | 2026-08-31T15:11:17Z | registry-derived |
 | [astrobook/astrobook](../records/space-engines-astrobook-astrobook-4e0cfd1d.md) | partial | 2021-02-19T07:33:04Z | registry-derived |
 | [Astroshaper/AsteroidThermoPhysicalModels.jl](../records/space-engines-astroshaper-asteroidthermophysicalmodels-jl-eb43557a.md) | partial | 2026-09-11T07:11:18Z | registry-derived |
-| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-15T21:29:18Z | registry-derived |
+| [AVSLab/basilisk](../records/space-engines-avslab-basilisk-a5a20349.md) | partial | 2026-09-16T01:14:52Z | registry-derived |
 | [bluescarni/piranha](../records/space-engines-bluescarni-piranha-892e8cb6.md) | partial | 2022-07-06T14:41:33Z | registry-derived |
 | [ChristopherRabotin/smd](../records/space-engines-christopherrabotin-smd-2ab7a76e.md) | partial | 2018-01-18T01:07:09Z | registry-derived |
 | [cisprague/Astro.IQ](../records/space-engines-cisprague-astro-iq-88ee2214.md) | partial | 2022-06-26T08:19:19Z | registry-derived |
 | [CS-SI/Orekit](../records/space-engines-cs-si-orekit-fd0e471c.md) | partial | 2026-09-10T16:42:10Z | registry-derived |
 | [deflorio/SpOCK](../records/space-engines-deflorio-spock-3f3262df.md) | partial | 2026-04-17T08:49:07Z | registry-derived |
 | [DJBen/Graviton](../records/space-engines-djben-graviton-cc868ebf.md) | unknown | github_search_does_not_include_release_date | registry-derived |
-| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-16T00:12:38Z | registry-derived |
+| [duncaneddy/brahe](../records/space-engines-duncaneddy-brahe-7ee764e2.md) | partial | 2026-09-16T03:41:30Z | registry-derived |
 | [esa/dSGP4](../records/space-engines-esa-dsgp4-8c05d97f.md) | partial | 2026-08-07T13:57:29Z | registry-derived |
 | [esa/pykep](../records/space-engines-esa-pykep-de004d6c.md) | partial | 2026-09-11T09:54:29Z | registry-derived |
 | [GalacticDynamics/galax](../records/space-engines-galacticdynamics-galax-d1c9094c.md) | partial | 2026-09-15T18:03:57Z | registry-derived |
@@ -360,7 +360,7 @@ Records: `160`
 | [arasgungore/rocket-flight-simulator](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) | unknown | github_search_does_not_include_release_date | registry-derived |
 | [davidcalhoun/tle.js](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) | partial | 2026-07-21T22:01:04Z | registry-derived |
 | [ep2lab/dimagno](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) | partial | 2024-10-21T08:59:37Z | registry-derived |
-| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-15T22:44:11Z | registry-derived |
+| [jrenaud90/TidalPy](../records/space-engines-jrenaud90-tidalpy-baa55395.md) | partial | 2026-09-16T01:12:21Z | registry-derived |
 
 ### Web Framework
 

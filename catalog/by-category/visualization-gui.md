@@ -534,7 +534,7 @@ Records: `659`
 | arasgungore/rocket-flight-simulator | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-arasgungore-rocket-flight-simulator-edf8af6f.md) |
 | davidcalhoun/tle.js | partial | 2026-07-21T22:01:04Z | [open](../records/space-engines-davidcalhoun-tle-js-9c1d96d7.md) |
 | ep2lab/dimagno | partial | 2024-10-21T08:59:37Z | [open](../records/space-engines-ep2lab-dimagno-ff2efe6b.md) |
-| jrenaud90/TidalPy | partial | 2026-09-15T22:44:11Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
+| jrenaud90/TidalPy | partial | 2026-09-16T01:12:21Z | [open](../records/space-engines-jrenaud90-tidalpy-baa55395.md) |
 
 ## Space Shuttles
 
@@ -571,7 +571,7 @@ Records: `659`
 | inbalpaz/CLANS | partial | 2024-12-05T14:27:09Z | [open](../records/space-maps-inbalpaz-clans-88d3b06d.md) |
 | jeffreymorganio/d3-space-filler-explorer | partial | 2020-08-14T18:14:55Z | [open](../records/space-maps-jeffreymorganio-d3-space-filler-explorer-f28a7443.md) |
 | JohnEdChristensen/WebbCompare | partial | 2024-03-01T22:17:38Z | [open](../records/space-maps-johnedchristensen-webbcompare-b5185f13.md) |
-| jrenaud90/TidalPy | partial | 2026-09-15T22:44:11Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
+| jrenaud90/TidalPy | partial | 2026-09-16T01:12:21Z | [open](../records/space-maps-jrenaud90-tidalpy-0ffb4285.md) |
 | KDE/filelight | partial | 2026-09-10T10:23:58Z | [open](../records/space-maps-kde-filelight-548ef1de.md) |
 | kevincon/utilityknife | partial | 2023-05-02T03:56:38Z | [open](../records/space-maps-kevincon-utilityknife-0060e5b5.md) |
 | kitanokitsune/gEDA-WIN | partial | 2018-07-31T13:51:54Z | [open](../records/space-maps-kitanokitsune-geda-win-cc03a86d.md) |
@@ -805,7 +805,7 @@ Records: `659`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | ant-design-blazor/ant-design-blazor | partial | 2026-09-09T07:23:57Z | [open](../records/webassembly-ant-design-blazor-ant-design-blazor-d8f0273e.md) |
-| dotnetcore/BootstrapBlazor | partial | 2026-09-16T01:45:22Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
+| dotnetcore/BootstrapBlazor | partial | 2026-09-16T04:12:30Z | [open](../records/webassembly-dotnetcore-bootstrapblazor-5915f6c3.md) |
 | emilk/egui | partial | 2026-09-11T15:54:57Z | [open](../records/webassembly-emilk-egui-edf7b99e.md) |
 | langhuihui/jessibuca | partial | 2026-09-09T01:52:46Z | [open](../records/webassembly-langhuihui-jessibuca-ca741e72.md) |
 | tinysearch/tinysearch | partial | 2026-08-15T16:16:50Z | [open](../records/webassembly-tinysearch-tinysearch-c30ec06a.md) |
@@ -840,11 +840,11 @@ Records: `659`
 | daprice/Variablur | partial | 2025-11-21T20:12:47Z | [open](../records/swift-daprice-variablur-d07bc4f2.md) |
 | EmergeTools/Pow | partial | 2026-04-13T04:12:15Z | [open](../records/swift-emergetools-pow-7350bd32.md) |
 | hackiftekhar/IQKeyboardManager | unknown | github_search_does_not_include_release_date | [open](../records/swift-hackiftekhar-iqkeyboardmanager-270f7036.md) |
-| iPlug2/iPlug2 | partial | 2026-09-11T20:02:05Z | [open](../records/swift-iplug2-iplug2-0fdb4d87.md) |
+| iPlug2/iPlug2 | partial | 2026-09-15T09:28:13Z | [open](../records/swift-iplug2-iplug2-0fdb4d87.md) |
 | ivanvorobei/SwiftUI | partial | 2023-12-07T14:10:03Z | [open](../records/swift-ivanvorobei-swiftui-f5c23a1b.md) |
 | jasonjmcghee/rem | partial | 2024-05-30T04:28:09Z | [open](../records/swift-jasonjmcghee-rem-75c0a744.md) |
 | jordansinger/SwiftUI-Kit | partial | 2023-11-10T11:25:31Z | [open](../records/swift-jordansinger-swiftui-kit-7ffc2af6.md) |
-| Kruszoneq/macUSB | partial | 2026-08-28T20:43:42Z | [open](../records/swift-kruszoneq-macusb-fc28d388.md) |
+| Kruszoneq/macUSB | partial | 2026-09-15T22:12:55Z | [open](../records/swift-kruszoneq-macusb-fc28d388.md) |
 | krzysztofzablocki/Inject | partial | 2026-04-29T11:15:40Z | [open](../records/swift-krzysztofzablocki-inject-db309581.md) |
 | Lessica/TrollFools | partial | 2026-04-23T14:49:42Z | [open](../records/swift-lessica-trollfools-a05a2dd4.md) |
 | lexrus/LTMorphingLabel | unknown | github_search_does_not_include_release_date | [open](../records/swift-lexrus-ltmorphinglabel-4dc8c4ca.md) |
@@ -866,7 +866,7 @@ Records: `659`
 | SvenTiigi/WhatsNewKit | partial | 2024-10-10T10:54:11Z | [open](../records/swift-sventiigi-whatsnewkit-3dea6c02.md) |
 | SwiftKickMobile/SwiftMessages | partial | 2026-01-26T02:59:00Z | [open](../records/swift-swiftkickmobile-swiftmessages-450ce325.md) |
 | SwiftWebUI/SwiftWebUI | partial | 2024-03-02T16:11:08Z | [open](../records/swift-swiftwebui-swiftwebui-2d397522.md) |
-| thaw-app/Thaw | partial | 2026-09-11T01:32:59Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
+| thaw-app/Thaw | partial | 2026-09-15T11:08:49Z | [open](../records/swift-thaw-app-thaw-f275b649.md) |
 | VakhoKontridze/VComponents | partial | 2026-09-15T19:54:32Z | [open](../records/swift-vakhokontridze-vcomponents-baf9987a.md) |
 | WillieWangWei/SwiftUI-Tutorials | partial | 2020-02-10T03:43:35Z | [open](../records/swift-williewangwei-swiftui-tutorials-5960373b.md) |
 | yannickl/DynamicColor | partial | 2023-11-30T13:02:01Z | [open](../records/swift-yannickl-dynamiccolor-11df482b.md) |

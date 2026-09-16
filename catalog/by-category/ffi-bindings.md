@@ -696,7 +696,7 @@ Records: `492`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| EhPanda-Team/EhPanda | partial | 2026-09-09T16:11:22Z | [open](../records/swift-ehpanda-team-ehpanda-f35a0864.md) |
+| EhPanda-Team/EhPanda | partial | 2026-09-14T23:48:31Z | [open](../records/swift-ehpanda-team-ehpanda-f35a0864.md) |
 | patchthecode/JTAppleCalendar | unknown | github_search_does_not_include_release_date | [open](../records/swift-patchthecode-jtapplecalendar-61af67e8.md) |
 | ReactiveCocoa/ReactiveCocoa | unknown | github_search_does_not_include_release_date | [open](../records/swift-reactivecocoa-reactivecocoa-7e0cb5dc.md) |
 
@@ -705,7 +705,7 @@ Records: `492`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | getsentry/sentry-cocoa | partial | 2026-09-15T20:59:47Z | [open](../records/cocoa-getsentry-sentry-cocoa-bfcee441.md) |
-| madsmtm/objc2 | partial | 2026-09-14T22:07:35Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
+| madsmtm/objc2 | partial | 2026-09-16T04:38:42Z | [open](../records/cocoa-madsmtm-objc2-ab58a215.md) |
 | ryanmcgrath/cacao | partial | 2025-02-03T08:16:22Z | [open](../records/cocoa-ryanmcgrath-cacao-ce707601.md) |
 | wordpress-mobile/WordPress-iOS | partial | 2026-09-16T00:11:06Z | [open](../records/cocoa-wordpress-mobile-wordpress-ios-b15964ab.md) |
 
@@ -729,7 +729,7 @@ Records: `492`
 | rusqlite/rusqlite | partial | 2026-09-14T04:30:39Z | [open](../records/databases-rusqlite-rusqlite-c1458fce.md) |
 | SOCI/soci | partial | 2026-09-03T00:14:49Z | [open](../records/databases-soci-soci-d7c36c2b.md) |
 | sqlitebrowser/sqlitebrowser | partial | 2026-09-14T00:33:51Z | [open](../records/databases-sqlitebrowser-sqlitebrowser-30722f99.md) |
-| trinodb/trino | partial | 2026-09-15T22:17:33Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
+| trinodb/trino | partial | 2026-09-16T05:21:32Z | [open](../records/databases-trinodb-trino-b6fa58b4.md) |
 
 ## Repository Workplaces
 

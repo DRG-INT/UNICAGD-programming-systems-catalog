@@ -553,7 +553,7 @@ Records: `679`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| BerriAI/litellm | partial | 2026-09-16T04:20:34Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
+| BerriAI/litellm | partial | 2026-09-16T05:18:45Z | [open](../records/aim-s-berriai-litellm-e0f6dc28.md) |
 | google/langextract | partial | 2026-09-13T18:57:36Z | [open](../records/aim-s-google-langextract-8fb0b488.md) |
 
 ## Computer Graphics Software
@@ -649,7 +649,7 @@ Records: `679`
 | MIERUNE/plateau-gis-converter | partial | 2026-09-07T05:43:47Z | [open](../records/maps-mierune-plateau-gis-converter-33d0b196.md) |
 | plant99/felicette | unknown | github_search_does_not_include_release_date | [open](../records/maps-plant99-felicette-60be9d6d.md) |
 | proj4js/proj4js | partial | 2026-09-13T20:05:10Z | [open](../records/maps-proj4js-proj4js-79ed1335.md) |
-| pyproj4/pyproj | partial | 2026-09-14T19:52:55Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
+| pyproj4/pyproj | partial | 2026-09-16T03:48:19Z | [open](../records/maps-pyproj4-pyproj-66a83255.md) |
 | sasgis/sas.planet.src | unknown | github_search_does_not_include_release_date | [open](../records/maps-sasgis-sas-planet-src-337db903.md) |
 | simonpoole/mapsplit | partial | 2025-08-29T08:42:49Z | [open](../records/maps-simonpoole-mapsplit-9201cef5.md) |
 | tilezen/vector-datasource | partial | 2026-07-13T22:48:10Z | [open](../records/maps-tilezen-vector-datasource-e16a7621.md) |
@@ -692,7 +692,7 @@ Records: `679`
 | JonasSinjan/solo_spicepy | partial | 2023-07-15T19:21:57Z | [open](../records/space-maps-jonassinjan-solo-spicepy-b281fcfb.md) |
 | MoTahaAboHeiba/E-Commerce-Lakehouse-Using-Databricks | partial | 2026-03-22T17:14:16Z | [open](../records/space-maps-motahaaboheiba-e-commerce-lakehouse-using-databricks-dd224fa3.md) |
 | nunobrum/PyLTSpice | partial | 2026-06-20T15:13:48Z | [open](../records/space-maps-nunobrum-pyltspice-f892529e.md) |
-| nyx-space/anise | partial | 2026-09-15T04:29:30Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
+| nyx-space/anise | partial | 2026-09-16T04:56:45Z | [open](../records/space-maps-nyx-space-anise-dafc6fd2.md) |
 | Team-Blackout/EvilZ.213.BLACKOUT_edition | partial | 2012-11-13T19:53:40Z | [open](../records/space-maps-team-blackout-evilz-213-blackout-edition-3d76a541.md) |
 | Xyce/XDM | partial | 2024-02-15T05:27:51Z | [open](../records/space-maps-xyce-xdm-4fd824bb.md) |
 | yashkhandelwal2828/cosmic-atlas | partial | 2026-08-22T13:37:11Z | [open](../records/space-maps-yashkhandelwal2828-cosmic-atlas-8073f13d.md) |
@@ -701,7 +701,7 @@ Records: `679`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-15T23:39:37Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
+| AcademySoftwareFoundation/OpenImageIO | partial | 2026-09-16T05:02:43Z | [open](../records/effects-academysoftwarefoundation-openimageio-0013edc0.md) |
 | AcademySoftwareFoundation/OpenTimelineIO | partial | 2026-09-13T22:22:42Z | [open](../records/effects-academysoftwarefoundation-opentimelineio-3fcbc8e9.md) |
 | AmitDigga/threejs-galaxy-shader | partial | 2026-03-27T08:08:16Z | [open](../records/effects-amitdigga-threejs-galaxy-shader-29702c73.md) |
 | blackout1471/AmpStudio | partial | 2023-12-22T18:49:11Z | [open](../records/effects-blackout1471-ampstudio-a1b4a947.md) |

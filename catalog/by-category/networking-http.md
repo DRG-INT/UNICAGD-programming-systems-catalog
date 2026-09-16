@@ -825,7 +825,7 @@ Records: `1110`
 | --- | --- | --- | --- |
 | Model Context Protocol | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-model-context-protocol-9e0d563f.md) |
 | OpenAI API | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-openai-api-2f1d86e4.md) |
-| OtterMind/Chat2DB | partial | 2026-09-16T03:52:50Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
+| OtterMind/Chat2DB | partial | 2026-09-16T05:18:32Z | [open](../records/aim-s-ottermind-chat2db-0e3e84f7.md) |
 
 ## APIs
 
@@ -1295,14 +1295,14 @@ Records: `1110`
 | --- | --- | --- | --- |
 | daltoniam/Starscream | unknown | github_search_does_not_include_release_date | [open](../records/swift-daltoniam-starscream-9636cfb7.md) |
 | Dimillian/RedditOS | partial | 2023-10-23T16:52:36Z | [open](../records/swift-dimillian-redditos-725a3cef.md) |
-| jellyfin/Swiftfin | partial | 2026-09-12T05:52:45Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
-| joreilly/PeopleInSpace | partial | 2026-09-06T03:40:06Z | [open](../records/swift-joreilly-peopleinspace-32675233.md) |
+| jellyfin/Swiftfin | partial | 2026-09-16T01:53:36Z | [open](../records/swift-jellyfin-swiftfin-e178584d.md) |
+| joreilly/PeopleInSpace | partial | 2026-09-13T17:38:41Z | [open](../records/swift-joreilly-peopleinspace-32675233.md) |
 | kean/Pulse | unknown | github_search_does_not_include_release_date | [open](../records/swift-kean-pulse-8d6e61db.md) |
 | Moya/Moya | unknown | github_search_does_not_include_release_date | [open](../records/swift-moya-moya-feb40e46.md) |
 | permissionlesstech/bitchat | unknown | github_search_does_not_include_release_date | [open](../records/swift-permissionlesstech-bitchat-1323762a.md) |
 | ProjectKumo/KumoApp | partial | 2026-06-05T17:08:02Z | [open](../records/swift-projectkumo-kumoapp-163c7695.md) |
 | SwiftcordApp/Swiftcord | partial | 2026-06-20T10:38:53Z | [open](../records/swift-swiftcordapp-swiftcord-66b78add.md) |
-| TableProApp/TablePro | partial | 2026-09-12T05:01:58Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
+| TableProApp/TablePro | partial | 2026-09-16T04:05:30Z | [open](../records/swift-tableproapp-tablepro-17860c9d.md) |
 
 ## Cocoa
 
@@ -1327,13 +1327,13 @@ Records: `1110`
 | aerospike/aerospike-client-rust | partial | 2026-09-13T01:36:29Z | [open](../records/databases-aerospike-aerospike-client-rust-0981e978.md) |
 | awslabs/mountpoint-s3 | partial | 2026-09-11T13:03:32Z | [open](../records/databases-awslabs-mountpoint-s3-3f10c09d.md) |
 | Beekeeper Studio | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-beekeeper-studio-8debdaa3.md) |
-| beekeeper-studio/beekeeper-studio | partial | 2026-09-15T20:32:58Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
+| beekeeper-studio/beekeeper-studio | partial | 2026-09-16T04:23:58Z | [open](../records/databases-beekeeper-studio-beekeeper-studio-a999ac61.md) |
 | brianc/node-postgres | partial | 2026-09-11T13:06:54Z | [open](../records/databases-brianc-node-postgres-6210b4d9.md) |
 | Chartbrew | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-chartbrew-b6cf395d.md) |
 | ClickHouse/clickhouse-java | partial | 2026-09-15T21:43:04Z | [open](../records/databases-clickhouse-clickhouse-java-55cf8dd6.md) |
 | crate/crate-python | partial | 2026-09-10T15:19:01Z | [open](../records/databases-crate-crate-python-62348f26.md) |
 | DataRow | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-datarow-011db1d2.md) |
-| dbeaver/dbeaver | partial | 2026-09-15T20:01:46Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
+| dbeaver/dbeaver | partial | 2026-09-16T05:02:01Z | [open](../records/databases-dbeaver-dbeaver-fdc61e8a.md) |
 | dbkangaroo/kangaroo | partial | 2026-09-05T08:10:39Z | [open](../records/databases-dbkangaroo-kangaroo-cb5596c5.md) |
 | DbVisualizer | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-dbvisualizer-dbc48ffe.md) |
 | deuxfleurs-org/garage | partial | 2026-09-12T14:14:16Z | [open](../records/databases-deuxfleurs-org-garage-0a48bdf5.md) |
@@ -1350,7 +1350,7 @@ Records: `1110`
 | mysqljs/mysql | partial | 2024-06-25T12:03:39Z | [open](../records/databases-mysqljs-mysql-4caafa94.md) |
 | nosqlclient/nosqlclient | partial | 2023-08-15T07:45:24Z | [open](../records/databases-nosqlclient-nosqlclient-090af045.md) |
 | only-cliches/Nano-SQL | partial | 2026-02-17T11:36:12Z | [open](../records/databases-only-cliches-nano-sql-2e385bb5.md) |
-| OtterMind/Chat2DB | partial | 2026-09-15T13:31:16Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
+| OtterMind/Chat2DB | partial | 2026-09-16T05:18:32Z | [open](../records/databases-ottermind-chat2db-a37fa72f.md) |
 | PgManage | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-pgmanage-18fd185f.md) |
 | pingcap/autoflow | partial | 2026-04-27T13:55:14Z | [open](../records/databases-pingcap-autoflow-1944f5ea.md) |
 | PyMySQL/PyMySQL | partial | 2026-09-11T07:09:02Z | [open](../records/databases-pymysql-pymysql-5d492d34.md) |
@@ -1361,7 +1361,7 @@ Records: `1110`
 | sosedoff/pgweb | partial | 2026-07-26T22:30:33Z | [open](../records/databases-sosedoff-pgweb-64d0c3b3.md) |
 | sourcenetwork/defradb | partial | 2026-09-11T18:16:05Z | [open](../records/databases-sourcenetwork-defradb-6d319ed1.md) |
 | svenvc/P3 | partial | 2025-11-29T19:22:10Z | [open](../records/databases-svenvc-p3-2c71a4dc.md) |
-| t8y2/dbx | partial | 2026-09-15T17:40:40Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
+| t8y2/dbx | partial | 2026-09-16T05:20:08Z | [open](../records/databases-t8y2-dbx-97368a4a.md) |
 | TableProApp/TablePro | partial | 2026-09-14T19:44:53Z | [open](../records/databases-tableproapp-tablepro-d427a820.md) |
 | vogler75/automation-gateway | partial | 2026-04-07T11:56:50Z | [open](../records/databases-vogler75-automation-gateway-85135ca2.md) |
 | YoEight/eventstore | partial | 2021-12-22T00:35:49Z | [open](../records/databases-yoeight-eventstore-299fec75.md) |

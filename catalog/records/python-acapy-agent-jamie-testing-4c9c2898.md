@@ -41,7 +41,7 @@ graph control, artifact reproducibility, cross-platform build policy, and CI int
 | Field | Value |
 | --- | --- |
 | Detected family | MIT |
-| Evidence | MIT |
+| Evidence | MIT + file LICENSE |
 | Alert | Showcase candidate: permissive MIT family; keep copyright and permission notices attached. |
 
 ## Engineering Notes

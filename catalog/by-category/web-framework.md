@@ -480,7 +480,7 @@ Records: `507`
 | freshOS/Router-deprecated | partial | 2021-10-21T06:56:49Z | [open](../records/maps-freshos-router-deprecated-98c91bb7.md) |
 | frzi/swiftui-router | partial | 2024-10-09T12:16:33Z | [open](../records/maps-frzi-swiftui-router-367cfeed.md) |
 | go-spatial/tegola | partial | 2026-09-09T16:20:18Z | [open](../records/maps-go-spatial-tegola-0b6db6ab.md) |
-| graphhopper/graphhopper | partial | 2026-09-14T17:06:04Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
+| graphhopper/graphhopper | partial | 2026-09-15T22:35:30Z | [open](../records/maps-graphhopper-graphhopper-cfd324a4.md) |
 | henrythasler/cloud-tileserver | partial | 2026-04-08T23:04:36Z | [open](../records/maps-henrythasler-cloud-tileserver-fc8f7868.md) |
 | Jaguar-dart/jaguar | partial | 2024-09-08T23:00:41Z | [open](../records/maps-jaguar-dart-jaguar-97ef1911.md) |
 | kartotherian/kartotherian | partial | 2021-08-11T04:00:27Z | [open](../records/maps-kartotherian-kartotherian-b54778f4.md) |
@@ -666,7 +666,7 @@ Records: `507`
 | dotnetcore/FreeSql | partial | 2026-07-31T17:52:16Z | [open](../records/databases-dotnetcore-freesql-be272c12.md) |
 | DotNetNext/SqlSugar | partial | 2026-09-13T06:47:46Z | [open](../records/databases-dotnetnext-sqlsugar-a1157e31.md) |
 | frectonz/sql-studio | partial | 2026-08-26T14:32:48Z | [open](../records/databases-frectonz-sql-studio-0812f2ca.md) |
-| googleapis/mcp-toolbox | partial | 2026-09-15T21:14:17Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
+| googleapis/mcp-toolbox | partial | 2026-09-16T02:53:12Z | [open](../records/databases-googleapis-mcp-toolbox-cfd0b4f3.md) |
 | jeesun/oauthserver | partial | 2022-12-14T20:38:57Z | [open](../records/databases-jeesun-oauthserver-614193dd.md) |
 | LinuxForHealth/FHIR | partial | 2024-04-18T14:50:56Z | [open](../records/databases-linuxforhealth-fhir-ee64ade5.md) |
 | lionheart/django-pyodbc | partial | 2023-01-29T16:42:06Z | [open](../records/databases-lionheart-django-pyodbc-c6078181.md) |

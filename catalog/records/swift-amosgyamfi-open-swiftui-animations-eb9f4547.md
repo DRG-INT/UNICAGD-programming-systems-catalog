@@ -43,7 +43,7 @@ request routing, middleware policy, service structure, and deployment surface.
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | {"key": "", "name": "", "url": ""}; The Unlicense; https://api.github.com/licenses/unlicense |
+| Evidence | The Unlicense; https://api.github.com/licenses/unlicense |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
@@ -60,7 +60,7 @@ request routing, middleware policy, service structure, and deployment surface.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swiftui stars:>500", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swiftui stars:>500", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

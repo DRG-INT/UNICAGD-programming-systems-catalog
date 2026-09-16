@@ -419,7 +419,7 @@ Records: `292`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | Asmble - WebAssembly on the JVM | unknown | awesome_list_does_not_include_release_date | [open](../records/webassembly-asmble-webassembly-on-the-jvm-df4793be.md) |
-| astrid-runtime/astrid | partial | 2026-09-16T02:03:51Z | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
+| astrid-runtime/astrid | partial | 2026-09-16T03:27:47Z | [open](../records/webassembly-astrid-runtime-astrid-00366bc4.md) |
 | boa-dev/boa | unknown | github_search_does_not_include_release_date | [open](../records/webassembly-boa-dev-boa-f27788a8.md) |
 | bytecodealliance/StarlingMonkey | partial | 2026-09-04T23:22:51Z | [open](../records/webassembly-bytecodealliance-starlingmonkey-d2a5789c.md) |
 | bytecodealliance/wasmtime-go | partial | 2026-08-20T19:30:30Z | [open](../records/webassembly-bytecodealliance-wasmtime-go-59c92af6.md) |
@@ -483,7 +483,7 @@ Records: `292`
 | insidegui/VirtualBuddy | unknown | github_search_does_not_include_release_date | [open](../records/swift-insidegui-virtualbuddy-328c2e25.md) |
 | kudoleh/iOS-Clean-Architecture-MVVM | partial | 2026-07-10T22:16:40Z | [open](../records/swift-kudoleh-ios-clean-architecture-mvvm-c369613f.md) |
 | LiquidPlayer/LiquidCore | partial | 2023-01-05T04:53:17Z | [open](../records/swift-liquidplayer-liquidcore-79da97f0.md) |
-| nalexn/ViewInspector | partial | 2026-08-22T13:04:54Z | [open](../records/swift-nalexn-viewinspector-05764252.md) |
+| nalexn/ViewInspector | partial | 2026-09-13T08:02:40Z | [open](../records/swift-nalexn-viewinspector-05764252.md) |
 | supertone-inc/supertonic | unknown | github_search_does_not_include_release_date | [open](../records/swift-supertone-inc-supertonic-88cf1d73.md) |
 | swift-vim | unknown | awesome_list_does_not_include_release_date | [open](../records/swift-swift-vim-0c86a86b.md) |
 | utmapp/UTM | unknown | github_search_does_not_include_release_date | [open](../records/swift-utmapp-utm-a248b985.md) |
@@ -509,7 +509,7 @@ Records: `292`
 | jdbi/jdbi | partial | 2026-09-14T23:57:30Z | [open](../records/databases-jdbi-jdbi-3cc6bc95.md) |
 | langchain4j/langchain4j | partial | 2026-09-09T10:24:50Z | [open](../records/databases-langchain4j-langchain4j-478395e2.md) |
 | objectbox/objectbox-java | partial | 2026-08-03T10:42:55Z | [open](../records/databases-objectbox-objectbox-java-aa127825.md) |
-| pubkey/rxdb | partial | 2026-09-15T15:27:27Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
+| pubkey/rxdb | partial | 2026-09-16T04:54:45Z | [open](../records/databases-pubkey-rxdb-d6f509c0.md) |
 
 ## Repository Workplaces
 

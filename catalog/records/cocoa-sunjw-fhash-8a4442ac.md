@@ -32,7 +32,7 @@ integrity, authentication, and key-management risk.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-09T15:07:38Z | gh search repos topic:cocoa stars:>200 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T05:10:24Z | gh search repos topic:cocoa stars:>200 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert

@@ -33,7 +33,7 @@ persistence, migrations, performance, and operational recovery.
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-15T21:19:32Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T05:18:21Z | gh search repos topic:database stars:>1000 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ persistence, migrations, performance, and operational recovery.
 | Field | Value |
 | --- | --- |
 | Detected family | Unknown license |
-| Evidence | {"key": "", "name": "", "url": ""}; Other |
+| Evidence | Other |
 | Alert | Backup plan required: license metadata is missing, so do not assume Apache or MIT compatibility. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ persistence, migrations, performance, and operational recovery.
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-15 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-15", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:database stars:>1000", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

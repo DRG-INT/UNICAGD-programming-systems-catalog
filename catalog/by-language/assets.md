@@ -491,7 +491,7 @@ Records: `421`
 | [RxLaboratory/Ramses](../records/assets-rxlaboratory-ramses-b3bc970c.md) | partial | 2024-10-16T08:21:05Z | registry-derived |
 | [Saalvage/AssimpNetter](../records/assets-saalvage-assimpnetter-ec5bd434.md) | partial | 2026-06-23T13:20:26Z | registry-derived |
 | [Shilo/pixellab-pip](../records/assets-shilo-pixellab-pip-0be82c0e.md) | partial | 2026-09-13T20:07:56Z | registry-derived |
-| [snapotter-hq/SnapOtter](../records/assets-snapotter-hq-snapotter-f5614eb5.md) | partial | 2026-09-12T06:00:32Z | registry-derived |
+| [snapotter-hq/SnapOtter](../records/assets-snapotter-hq-snapotter-f5614eb5.md) | partial | 2026-09-15T20:26:11Z | registry-derived |
 | [spotify/klio](../records/assets-spotify-klio-c9106254.md) | partial | 2024-01-10T19:37:37Z | registry-derived |
 | [Stolz/Assets](../records/assets-stolz-assets-766b2deb.md) | partial | 2020-02-01T12:06:15Z | registry-derived |
 | [torba-rb/torba](../records/assets-torba-rb-torba-6deb2fda.md) | partial | 2023-08-18T09:14:31Z | registry-derived |

@@ -39,9 +39,9 @@ integration, ABI ownership, memory safety, and runtime embedding.
 
 | Field | Value |
 | --- | --- |
-| Detected family | Apache-2.0 |
-| Evidence | SIL Open Font License 1.1; https://api.github.com/licenses/ofl-1.1; Apache License 2.0; https://api.github.com/licenses/apache-2.0 |
-| Alert | Showcase candidate: permissive Apache-2.0 family; keep notices and patent/license obligations visible. |
+| Detected family | Backup plan required |
+| Evidence | {"key": "", "name": "", "url": ""}; GNU General Public License v2.0; https://api.github.com/licenses/gpl-2.0 |
+| Alert | Backup plan required before embedding, redistributing, or modifying architecture around this dependency. |
 
 ## Engineering Notes
 

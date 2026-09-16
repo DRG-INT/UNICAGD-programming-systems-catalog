@@ -33,7 +33,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-11T10:45:30Z | gh search repos topic:swiftui stars:>500 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T01:16:06Z | gh search repos topic:swiftui stars:>500 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
@@ -41,7 +41,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 | Field | Value |
 | --- | --- |
 | Detected family | Other permissive |
-| Evidence | {"key": "", "name": "", "url": ""}; Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
+| Evidence | Creative Commons Zero v1.0 Universal; https://api.github.com/licenses/cc0-1.0 |
 | Alert | Permissive but not Apache/MIT; acceptable in many stacks, but do a policy check before presenting it as Apache/MIT. |
 
 ## Engineering Notes
@@ -58,7 +58,7 @@ capability mapping, dependency review, release awareness, and operational fit as
 
 | Kind | Status | Date | Detail |
 | --- | --- | --- | --- |
-| github_cli_search | forge-cli-derived | 2026-09-12 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swiftui stars:>500", "retrieved": "2026-09-12", "status": "forge-cli-derived"}` |
+| github_cli_search | forge-cli-derived | 2026-09-16 | `{"command": "gh search repos", "kind": "github_cli_search", "query": "topic:swiftui stars:>500", "retrieved": "2026-09-16", "status": "forge-cli-derived"}` |
 
 </details>
 

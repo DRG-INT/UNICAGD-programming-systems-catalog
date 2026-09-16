@@ -318,7 +318,7 @@ Records: `321`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| mastra-ai/mastra | partial | 2026-09-16T04:14:10Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
+| mastra-ai/mastra | partial | 2026-09-16T05:18:35Z | [open](../records/aim-s-mastra-ai-mastra-de910197.md) |
 
 ## Computer Graphics Software
 
@@ -373,7 +373,7 @@ Records: `321`
 | amcharts/amcharts4 | partial | 2026-03-23T14:16:07Z | [open](../records/maps-amcharts-amcharts4-76de220f.md) |
 | f5/unovis | partial | 2026-09-10T23:11:07Z | [open](../records/maps-f5-unovis-6e8a6849.md) |
 | maptiler/maptiler-geocoding-control | partial | 2026-07-29T11:57:08Z | [open](../records/maps-maptiler-maptiler-geocoding-control-e23c4ebb.md) |
-| openglobus/openglobus | partial | 2026-09-14T18:31:35Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
+| openglobus/openglobus | partial | 2026-09-15T16:51:48Z | [open](../records/maps-openglobus-openglobus-566e8f9b.md) |
 | reearth/reearth-visualizer | unknown | github_search_does_not_include_release_date | [open](../records/maps-reearth-reearth-visualizer-6966a648.md) |
 | Turfjs/turf | partial | 2026-09-07T19:17:44Z | [open](../records/maps-turfjs-turf-bcfc41fa.md) |
 | yszhao91/cga.js | unknown | github_search_does_not_include_release_date | [open](../records/maps-yszhao91-cga-js-5e6ba99c.md) |
@@ -504,7 +504,7 @@ Records: `321`
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
 | 2FastLabs/agent-squad | unknown | github_search_does_not_include_release_date | [open](../records/swift-2fastlabs-agent-squad-f20b0f0c.md) |
-| NativeScript/NativeScript | partial | 2026-09-16T02:20:07Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
+| NativeScript/NativeScript | partial | 2026-09-16T02:45:52Z | [open](../records/swift-nativescript-nativescript-2f4e3a6a.md) |
 
 ## Databases
 

@@ -1319,7 +1319,7 @@ Records: `1678`
 | MapServer/MapServer | partial | 2026-09-14T19:29:36Z | [open](../records/maps-mapserver-mapserver-100bdea0.md) |
 | munterfi/hereR | partial | 2025-02-23T15:29:33Z | [open](../records/maps-munterfi-herer-7bc6ec20.md) |
 | nvkelso/natural-earth-vector | partial | 2024-04-22T12:24:13Z | [open](../records/maps-nvkelso-natural-earth-vector-941f7e82.md) |
-| opendatacube/datacube-core | partial | 2026-09-14T23:42:08Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
+| opendatacube/datacube-core | partial | 2026-09-15T23:33:03Z | [open](../records/maps-opendatacube-datacube-core-7c11f2b9.md) |
 | pubnub/eon | partial | 2022-12-06T09:15:05Z | [open](../records/maps-pubnub-eon-beb5f743.md) |
 | routingpy/routingpy | partial | 2026-09-01T21:44:57Z | [open](../records/maps-routingpy-routingpy-48967e3c.md) |
 | rspatial/terra | partial | 2026-09-14T09:03:32Z | [open](../records/maps-rspatial-terra-dbc784d1.md) |
@@ -1377,7 +1377,7 @@ Records: `1678`
 | Tihkal96/CAIROforAERMOD | partial | 2025-03-17T22:14:28Z | [open](../records/space-maps-tihkal96-cairoforaermod-eb03266f.md) |
 | TingYeahh/caption_eval | partial | 2020-11-25T02:28:24Z | [open](../records/space-maps-tingyeahh-caption-eval-4aaa1edd.md) |
 | traines-source/time-space-train-planner | partial | 2026-08-02T20:07:46Z | [open](../records/space-maps-traines-source-time-space-train-planner-509d395b.md) |
-| ys-ll/uniterm | partial | 2026-09-15T13:20:29Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
+| ys-ll/uniterm | partial | 2026-09-16T02:31:50Z | [open](../records/space-maps-ys-ll-uniterm-72dda292.md) |
 | zz85/space-radar | partial | 2026-05-28T03:01:07Z | [open](../records/space-maps-zz85-space-radar-21258574.md) |
 
 ## Effects
@@ -1826,10 +1826,10 @@ Records: `1678`
 | ming1016/SwiftPamphletApp | partial | 2025-08-16T09:03:34Z | [open](../records/swift-ming1016-swiftpamphletapp-ac91c0b6.md) |
 | MonitorControl/MonitorControl | unknown | github_search_does_not_include_release_date | [open](../records/swift-monitorcontrol-monitorcontrol-40207617.md) |
 | productdevbook/port-killer | partial | 2026-07-24T21:10:20Z | [open](../records/swift-productdevbook-port-killer-ed6f58cf.md) |
-| RevenueCat/purchases-ios | partial | 2026-09-11T19:52:44Z | [open](../records/swift-revenuecat-purchases-ios-5a082a4e.md) |
+| RevenueCat/purchases-ios | partial | 2026-09-16T05:02:53Z | [open](../records/swift-revenuecat-purchases-ios-5a082a4e.md) |
 | ronitsingh10/FineTune | unknown | github_search_does_not_include_release_date | [open](../records/swift-ronitsingh10-finetune-b5e98cce.md) |
 | Shubham0812/SwiftUI-Animations | partial | 2026-08-11T15:20:15Z | [open](../records/swift-shubham0812-swiftui-animations-15f0eb77.md) |
-| sozercan/kaset | partial | 2026-09-11T16:47:00Z | [open](../records/swift-sozercan-kaset-2e0420b8.md) |
+| sozercan/kaset | partial | 2026-09-15T04:54:21Z | [open](../records/swift-sozercan-kaset-2e0420b8.md) |
 | thaw-app/Thaw | unknown | github_search_does_not_include_release_date | [open](../records/swift-thaw-app-thaw-8268f6e7.md) |
 
 ## Cocoa
@@ -1860,10 +1860,10 @@ Records: `1678`
 | cstore_fdw | unknown | awesome_list_does_not_include_release_date | [open](../records/databases-cstore-fdw-4259f19e.md) |
 | cube-js/cube | partial | 2026-09-13T00:11:16Z | [open](../records/databases-cube-js-cube-373699e3.md) |
 | cubefs/cubefs | partial | 2026-09-10T02:25:10Z | [open](../records/databases-cubefs-cubefs-2e8325bf.md) |
-| debezium/debezium | partial | 2026-09-15T19:59:01Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
+| debezium/debezium | partial | 2026-09-16T03:14:54Z | [open](../records/databases-debezium-debezium-a3d23ff7.md) |
 | dicedb/dicedb | partial | 2026-04-23T01:00:36Z | [open](../records/databases-dicedb-dicedb-ba1cb8a6.md) |
 | digoal/blog | partial | 2026-09-11T12:57:06Z | [open](../records/databases-digoal-blog-7cde1486.md) |
-| dolthub/dolt | partial | 2026-09-15T21:10:05Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
+| dolthub/dolt | partial | 2026-09-16T03:09:40Z | [open](../records/databases-dolthub-dolt-702548e2.md) |
 | douban/gobeansdb | partial | 2026-08-21T03:02:19Z | [open](../records/databases-douban-gobeansdb-1832191f.md) |
 | dubinc/dub | partial | 2026-09-11T21:16:43Z | [open](../records/databases-dubinc-dub-fde61fc2.md) |
 | gigapi/gigapi | partial | 2025-10-20T12:01:02Z | [open](../records/databases-gigapi-gigapi-bafb6f73.md) |

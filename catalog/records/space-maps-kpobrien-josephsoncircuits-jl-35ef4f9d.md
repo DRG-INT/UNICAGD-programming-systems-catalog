@@ -34,7 +34,7 @@ ecosystem capability mapping, dependency review, release awareness, and operatio
 
 | Channel | Status | Version | Date | Source | Reason |
 | --- | --- | --- | --- | --- | --- |
-| stable | partial |  | 2026-09-14T21:53:41Z | gh search repos topic:spice stars:>10 | gh_search_reports_activity_not_release_version |
+| stable | partial |  | 2026-09-16T01:36:47Z | gh search repos topic:spice stars:>10 | gh_search_reports_activity_not_release_version |
 | preview/nightly | unknown |  |  | unknown | gh_search_has_no_standard_nightly_channel |
 
 ## License And Use Alert
