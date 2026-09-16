@@ -12,19 +12,19 @@ Records: `410`
 [Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1738)](filesystem-os.md) · [Formatter (679)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · [Filesystem Os (1740)](filesystem-os.md) · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6238)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · **[Serialization (410)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (699)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (506)](web-framework.md)
+[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · **[Serialization (410)](serialization.md)** · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
 
 ## C99
 
@@ -71,7 +71,7 @@ Records: `410`
 | ark-serialize | 0.6.0 | 2026-04-26T19:41:59.025452Z | [open](../records/rust-ark-serialize-ac27303d.md) |
 | ark-serialize-derive | 0.6.0 | 2026-04-26T19:28:06.002622Z | [open](../records/rust-ark-serialize-derive-482765a8.md) |
 | avif-serialize | 0.8.9 | 2026-05-07T10:14:04.400169Z | [open](../records/rust-avif-serialize-a997b5d4.md) |
-| aws-smithy-xml | 0.62.0 | 2026-09-14T22:25:19.736080Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
+| aws-smithy-xml | 0.62.1 | 2026-09-15T23:03:45.921365Z | [open](../records/rust-aws-smithy-xml-7dcd2b51.md) |
 | bincode | unknown | not_checked | [open](../records/rust-bincode-fd4a5141.md) |
 | borsh | 1.8.1 | 2026-08-26T20:58:11.161301Z | [open](../records/rust-borsh-7d427bae.md) |
 | borsh-derive | 1.8.1 | 2026-08-26T20:58:07.118903Z | [open](../records/rust-borsh-derive-dc36be21.md) |
@@ -282,7 +282,7 @@ Records: `410`
 | xmlhtml | 0.2.5.4 | 2023-02-13T07:40:41Z | [open](../records/haskell-xmlhtml-cd0f4219.md) |
 | yaml | 0.11.11.2 | 2023-07-01T18:43:54Z | [open](../records/haskell-yaml-4295e288.md) |
 | yaml-unscrambler | 0.1.0.21 | 2026-01-13T09:52:05Z | [open](../records/haskell-yaml-unscrambler-b5a03fdf.md) |
-| yamlscript | 0.3.0.0 | 2026-09-15T12:43:09Z | [open](../records/haskell-yamlscript-f3f0625d.md) |
+| yamlscript | 0.3.1.0 | 2026-09-15T22:55:42Z | [open](../records/haskell-yamlscript-f3f0625d.md) |
 | yamlstar | 0.1.21.0 | 2026-09-08T20:11:38Z | [open](../records/haskell-yamlstar-bc72bee8.md) |
 
 ## Octave
@@ -382,7 +382,7 @@ Records: `410`
 
 | Name | Release | Date | Page |
 | --- | --- | --- | --- |
-| headroomlabs-ai/headroom | partial | 2026-09-15T23:01:29Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
+| headroomlabs-ai/headroom | partial | 2026-09-15T23:59:06Z | [open](../records/aim-s-headroomlabs-ai-headroom-d7859a86.md) |
 | ONNX | unknown | curated_language_route_requires_source_specific_release_lookup | [open](../records/aim-s-onnx-a7e4f39c.md) |
 
 ## APIs

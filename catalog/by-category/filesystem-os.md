@@ -1,6 +1,6 @@
 # Filesystem Os
 
-Records: `1738`
+Records: `1740`
 
 ## Navigation
 
@@ -12,19 +12,19 @@ Records: `1738`
 [Benchmarking (211)](benchmarking.md) · [Build System (1052)](build-system.md) · [Cli (609)](cli.md) · [Codegen Codemod Refactoring (23)](codegen-codemod-refactoring.md)
 [Community Reference (126)](community-reference.md) · [Compiler (182)](compiler.md) · [Compiler Diagnostics (28)](compiler-diagnostics.md) · [Compression (55)](compression.md)
 [Concurrency Parallelism (95)](concurrency-parallelism.md) · [Configuration (141)](configuration.md) · [Container Deployment (10)](container-deployment.md) · [Coverage (14)](coverage.md)
-[Cryptography (183)](cryptography.md) · [Data Science (41)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
+[Cryptography (183)](cryptography.md) · [Data Science (42)](data-science.md) · [Database Datastore (987)](database-datastore.md) · [Datetime (258)](datetime.md)
 [Dead Code Dependency Analysis (5)](dead-code-dependency-analysis.md) · [Debugger (46)](debugger.md) · [Dependency Manager (110)](dependency-manager.md) · [Documentation (117)](documentation.md)
-[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · **[Filesystem Os (1738)](filesystem-os.md)** · [Formatter (679)](formatter.md)
+[Embedded Hardware (70)](embedded-hardware.md) · [Ffi Bindings (492)](ffi-bindings.md) · **[Filesystem Os (1740)](filesystem-os.md)** · [Formatter (679)](formatter.md)
 [Framework (64)](framework.md) · [Fuzzer (68)](fuzzer.md) · [Game Engine Game Dev (378)](game-engine-game-dev.md) · [Ide Editor Integration (1529)](ide-editor-integration.md)
 [Image Audio Dsp (451)](image-audio-dsp.md) · [Interop Bindings (65)](interop-bindings.md) · [Interpreter Runtime (292)](interpreter-runtime.md) · [Jit Vm (67)](jit-vm.md)
-[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6238)](library.md) · [Lint Plugin (1)](lint-plugin.md)
+[Language Server (31)](language-server.md) · [Language Specification (1477)](language-specification.md) · [Library (6247)](library.md) · [Lint Plugin (1)](lint-plugin.md)
 [Lint Rule Pack (54)](lint-rule-pack.md) · [Linter (352)](linter.md) · [Logging Observability (600)](logging-observability.md) · [Machine Learning (881)](machine-learning.md)
 [Math Numeric Scientific (98)](math-numeric-scientific.md) · [Memory Analyzer (106)](memory-analyzer.md) · [Message Broker (40)](message-broker.md) · [Networking Http (1109)](networking-http.md)
-[Other (14)](other.md) · [Package Manager (451)](package-manager.md) · [Parser Lexer Ast (1254)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
-[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (135)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
-[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (699)](static-analyzer.md)
-[Templating (2)](templating.md) · [Testing Framework (660)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
-[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (108)](utility-library.md) · [Visualization Gui (658)](visualization-gui.md) · [Web Framework (506)](web-framework.md)
+[Other (14)](other.md) · [Package Manager (452)](package-manager.md) · [Parser Lexer Ast (1256)](parser-lexer-ast.md) · [Precommit Ci Quality (330)](precommit-ci-quality.md)
+[Profiler (102)](profiler.md) · [Project Scaffolding (146)](project-scaffolding.md) · [Registry Repository (136)](registry-repository.md) · [Sanitizer (17)](sanitizer.md)
+[Security Sast (341)](security-sast.md) · [Serialization (410)](serialization.md) · [Standard Library (26)](standard-library.md) · [Static Analyzer (701)](static-analyzer.md)
+[Templating (2)](templating.md) · [Testing Framework (661)](testing-framework.md) · [Tutorial Book Styleguide (78)](tutorial-book-styleguide.md) · [Type Checker (321)](type-checker.md)
+[Undefined Behavior Analyzer (1678)](undefined-behavior-analyzer.md) · [Utility Library (109)](utility-library.md) · [Visualization Gui (659)](visualization-gui.md) · [Web Framework (507)](web-framework.md)
 
 ## C++23
 
@@ -399,6 +399,7 @@ Records: `1738`
 | geoflow | 1.4.0 | 2026-09-05 16:20:02 UTC | [open](../records/r-geoflow-5d44aa88.md) |
 | geosmooth | 0.1.0 | 2026-09-12 14:10:10 UTC | [open](../records/r-geosmooth-8789b462.md) |
 | geostatsp | 2.2.0 | 2026-09-10 16:50:06 UTC | [open](../records/r-geostatsp-0adaba0c.md) |
+| geozarr | 0.2.0 | 2026-09-16 00:10:02 UTC | [open](../records/r-geozarr-a3a27cee.md) |
 | giscoR | 1.2.0 | 2026-08-27 09:00:02 UTC | [open](../records/r-giscor-93c46d12.md) |
 | GLMMcosinor | 0.2.2 | 2026-09-15 06:30:17 UTC | [open](../records/r-glmmcosinor-69af848a.md) |
 | glyrepr | 1.0.0 | 2026-08-22 13:30:02 UTC | [open](../records/r-glyrepr-1cdc048c.md) |
@@ -498,6 +499,7 @@ Records: `1738`
 | path-io | 1.8.2 | 2024-05-20T08:12:23Z | [open](../records/haskell-path-io-892a5504.md) |
 | Pathfinder | 0.5.10 | 2011-12-01T14:04:42Z | [open](../records/haskell-pathfinder-781284d6.md) |
 | PenroseKiteDart | 1.10.1 | 2026-09-06T15:03:47Z | [open](../records/haskell-penrosekitedart-fee1bf50.md) |
+| polysemy-chronos | 0.7.0.2 | 2026-04-28T16:48:53Z | [open](../records/haskell-polysemy-chronos-88e629d6.md) |
 | regex-posix | 0.96.0.2 | 2025-03-02T11:16:13Z | [open](../records/haskell-regex-posix-7b5a5d6c.md) |
 | rhine-gloss | 1.8 | 2026-06-07T22:07:58Z | [open](../records/haskell-rhine-gloss-c88c36c2.md) |
 | stratosphere | 1.0.1 | 2025-11-07T02:52:27Z | [open](../records/haskell-stratosphere-6fdf30e9.md) |
@@ -608,7 +610,7 @@ Records: `1738`
 | gosom/scrapemate | partial | 2026-09-13T06:52:29Z | [open](../records/go-gosom-scrapemate-536afe4d.md) |
 | koss-null/FuncFrog | partial | 2025-10-25T18:37:25Z | [open](../records/go-koss-null-funcfrog-bf807e0c.md) |
 | m1k1o/neko | partial | 2026-09-10T20:43:39Z | [open](../records/go-m1k1o-neko-6519a2a3.md) |
-| mattermost/mattermost | partial | 2026-09-15T22:55:02Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
+| mattermost/mattermost | partial | 2026-09-15T23:52:28Z | [open](../records/go-mattermost-mattermost-f0d9650a.md) |
 
 ## Starlark
 
@@ -985,7 +987,7 @@ Records: `1738`
 | --- | --- | --- | --- |
 | abdolrezat/TURBN-Turbine-Design | partial | 2017-11-23T08:45:24Z | [open](../records/space-engines-abdolrezat-turbn-turbine-design-e2966da2.md) |
 | aerospaceresearch/orbitdeterminator | partial | 2024-02-05T17:36:07Z | [open](../records/space-engines-aerospaceresearch-orbitdeterminator-0d7657db.md) |
-| aweeri/TLEscope | partial | 2026-09-15T14:20:51Z | [open](../records/space-engines-aweeri-tlescope-54c55a54.md) |
+| aweeri/TLEscope | partial | 2026-09-15T23:35:05Z | [open](../records/space-engines-aweeri-tlescope-54c55a54.md) |
 | donutTheJedi/Rocket-Launch-Simulation | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-donutthejedi-rocket-launch-simulation-e1707ede.md) |
 | GH-X-ST/Aeronautical-Engineering-Imperial | unknown | github_search_does_not_include_release_date | [open](../records/space-engines-gh-x-st-aeronautical-engineering-imperial-83f4e349.md) |
 | haynieresearch/pep-for-zos | partial | 2020-06-06T04:38:12Z | [open](../records/space-engines-haynieresearch-pep-for-zos-46e1a9b2.md) |
@@ -1023,7 +1025,7 @@ Records: `1738`
 | demul/extrinsic2pyramid | partial | 2025-02-17T06:43:36Z | [open](../records/space-maps-demul-extrinsic2pyramid-3922b529.md) |
 | dixieflatline76/Spice | partial | 2026-08-18T20:25:46Z | [open](../records/space-maps-dixieflatline76-spice-800b944f.md) |
 | fernandoviton/hohmann-atlas | partial | 2026-04-11T18:44:33Z | [open](../records/space-maps-fernandoviton-hohmann-atlas-5bb11ceb.md) |
-| hannorein/rebound | partial | 2026-09-14T20:09:56Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
+| hannorein/rebound | partial | 2026-09-15T17:44:36Z | [open](../records/space-maps-hannorein-rebound-85ac231e.md) |
 | idsc-frazzoli/owl | partial | 2021-02-24T07:21:29Z | [open](../records/space-maps-idsc-frazzoli-owl-02449d38.md) |
 | Jacob-creator-2/Solar-system | partial | 2026-01-21T21:31:37Z | [open](../records/space-maps-jacob-creator-2-solar-system-83809dec.md) |
 | JoeyDelp/JoSIM | partial | 2025-12-19T09:06:38Z | [open](../records/space-maps-joeydelp-josim-e0fd6fb1.md) |
@@ -1033,7 +1035,7 @@ Records: `1738`
 | kpobrien/JosephsonCircuits.jl | partial | 2026-09-14T21:53:41Z | [open](../records/space-maps-kpobrien-josephsoncircuits-jl-35ef4f9d.md) |
 | kumarprabhakaransaravanakumar-wq/terra-prospect | partial | 2026-06-15T01:37:13Z | [open](../records/space-maps-kumarprabhakaransaravanakumar-wq-terra-prospect-9bd9c3a2.md) |
 | mtickle/space-game | partial | 2026-08-21T10:36:59Z | [open](../records/space-maps-mtickle-space-game-790526f7.md) |
-| natashabatalha/picaso | partial | 2026-08-28T23:55:30Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |
+| natashabatalha/picaso | partial | 2026-09-15T23:06:29Z | [open](../records/space-maps-natashabatalha-picaso-5a86c662.md) |
 | nature-of-code/The-Nature-of-Code-Cosmos-Edition | partial | 2013-11-01T03:02:43Z | [open](../records/space-maps-nature-of-code-the-nature-of-code-cosmos-edition-09d1093e.md) |
 | NyanCAD/Mosaic | partial | 2026-09-03T14:25:01Z | [open](../records/space-maps-nyancad-mosaic-169a54ac.md) |
 | opensourcevdi/osvdi | partial | 2026-03-25T20:02:06Z | [open](../records/space-maps-opensourcevdi-osvdi-1f0aad73.md) |
@@ -1106,7 +1108,7 @@ Records: `1738`
 | End3r6/URPUnderwaterEffects | partial | 2024-06-20T05:33:51Z | [open](../records/effects-end3r6-urpunderwatereffects-c9b9a30c.md) |
 | ep1h/gta-sa-postfx | partial | 2026-03-22T01:25:11Z | [open](../records/effects-ep1h-gta-sa-postfx-459bbfc3.md) |
 | Estradel/URP-Simple-Per-Object-Motion-Blur | partial | 2024-02-11T22:28:23Z | [open](../records/effects-estradel-urp-simple-per-object-motion-blur-054d0007.md) |
-| Fabric-Project/Fabric | partial | 2026-09-15T16:06:47Z | [open](../records/effects-fabric-project-fabric-9b837163.md) |
+| Fabric-Project/Fabric | partial | 2026-09-15T20:48:40Z | [open](../records/effects-fabric-project-fabric-9b837163.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/effects-fedden-renderman-c333ed0b.md) |
 | florolf/fluxus-pp | partial | 2011-08-13T13:12:06Z | [open](../records/effects-florolf-fluxus-pp-90640899.md) |
 | GarrettGunnell/Inktober-Ink-Shader | partial | 2021-10-27T10:35:37Z | [open](../records/effects-garrettgunnell-inktober-ink-shader-9c674dfd.md) |
@@ -1114,7 +1116,7 @@ Records: `1738`
 | getoffmyhack/waveSDR | partial | 2026-08-01T17:26:02Z | [open](../records/effects-getoffmyhack-wavesdr-29b3c175.md) |
 | ghaerr/agg-2.6 | partial | 2023-09-13T00:27:54Z | [open](../records/effects-ghaerr-agg-2-6-d129da6e.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/effects-gnuradio-gnuradio-792f9652.md) |
-| grizzlypeak3d/DJV | partial | 2026-09-15T17:15:28Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
+| grizzlypeak3d/DJV | partial | 2026-09-15T21:49:27Z | [open](../records/effects-grizzlypeak3d-djv-a31a9ac6.md) |
 | HEnquist/camilladsp | partial | 2026-09-15T07:33:59Z | [open](../records/effects-henquist-camilladsp-d941192e.md) |
 | hexianWeb/lego-stylized-nature | partial | 2026-07-08T07:37:58Z | [open](../records/effects-hexianweb-lego-stylized-nature-cb083959.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/effects-hifiberry-hifiberry-os-23434356.md) |
@@ -1261,7 +1263,7 @@ Records: `1738`
 | DropSnorz/OwlPlug | partial | 2026-09-14T21:44:49Z | [open](../records/audio-dropsnorz-owlplug-ab9f531b.md) |
 | fedden/RenderMan | partial | 2021-12-02T21:11:26Z | [open](../records/audio-fedden-renderman-b1df24f8.md) |
 | gnuradio/gnuradio | partial | 2026-08-27T23:02:01Z | [open](../records/audio-gnuradio-gnuradio-f6f01d2f.md) |
-| HEnquist/camilladsp | partial | 2026-09-15T07:33:59Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
+| HEnquist/camilladsp | partial | 2026-09-15T21:02:11Z | [open](../records/audio-henquist-camilladsp-382264e4.md) |
 | hifiberry/hifiberry-os | partial | 2026-09-09T14:24:16Z | [open](../records/audio-hifiberry-hifiberry-os-5ddcb398.md) |
 | hollance/lost-and-found-piano | partial | 2026-07-12T14:06:30Z | [open](../records/audio-hollance-lost-and-found-piano-757e2e12.md) |
 | jameshball/osci-render | partial | 2026-09-13T09:54:45Z | [open](../records/audio-jameshball-osci-render-c76ba818.md) |
